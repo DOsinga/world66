@@ -14,6 +14,7 @@ story: >
   channelled air upward and outward, creating a natural convection
   current that kept the interior 10–15 degrees cooler than the outside
   air. It functioned as a summer pavilion for the royal women's court.
+score: 8.0
 ---
 
 A two-storey royal pavilion in the Zenana Enclosure — the women's quarter of the royal precinct — built in a striking blend of Hindu and Islamic architectural elements. Seen from above, the plan describes a lotus flower. The interlocking arches and corbelled design created a sophisticated natural ventilation system, keeping the interior cool through the fierce Deccan summer.

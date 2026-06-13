@@ -7,6 +7,7 @@ tags:
 - religion
 title: Church of St Peter ad Vincula
 type: poi
+score: 7.4
 ---
 
 The Church of St Peter ad Vincula sits a little uphill from the centre of Combe Martin, an unusually grand parish church for so small a village — the result of medieval wealth from local silver mines. The fabric is mostly 13th- and 14th-century, with a tall west tower and a beautifully carved late-medieval rood screen running across the nave. Look for the painted figures of the saints on the screen panels and the brass commemorative plaques to local mining families.

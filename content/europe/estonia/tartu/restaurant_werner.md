@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Café Werner
 type: poi
+score: 7.0
 ---
 
 One of Tartu's oldest and most beloved cafés, Werner has occupied its spot on Ülikooli Street near the university since the 19th century (in various forms and under various names through the Soviet period). The current café serves good coffee, pastries, and light meals in a setting that still feels like a proper European café rather than a chain.

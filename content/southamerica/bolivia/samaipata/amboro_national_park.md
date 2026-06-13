@@ -14,6 +14,7 @@ story: >
   more than in all of Europe. The Giant Fern Trail from the Samaipata entrance
   passes through cloud forest where tree ferns reach 10 metres tall, a landscape
   that looks genuinely prehistoric.
+score: 8.8
 ---
 
 Amboró National Park protects 4,425 square kilometres of terrain where the Andes meet the Amazon, with three distinct ecological zones colliding to create one of the continent's most biodiverse protected areas. From the southern entrance near Samaipata, the park is accessible via day hikes into cloud forest, with guides (legally required) arranging trips to waterfalls, giant fern groves, and observation points.

@@ -6,6 +6,7 @@ longitude: -70.0362
 tags:
   - things_to_do
   - museum
+score: 6.0
 ---
 
 The Numismatic Museum of Aruba is a small, quirky collection housed in a private building near the waterfront. It claims to hold coins from over 350 countries and territories — a figure that is hard to verify but certainly reflects the sheer size of the collection on display. The exhibits include coins, banknotes, and stamps spanning centuries of monetary history from Aruba and around the world.

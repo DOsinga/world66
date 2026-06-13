@@ -10,6 +10,7 @@ tags:
 title: Fuze Finer Dining
 type: poi
 url: www.fuzedining.com
+score: 4.9
 ---
 
 Located in the heart of downtown Banff, Fuze Finer Dining is one of the Town's newest dining additions.

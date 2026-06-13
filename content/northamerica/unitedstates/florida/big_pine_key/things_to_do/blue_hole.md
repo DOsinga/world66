@@ -9,6 +9,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/Blue_Hole_(Big_Pine_Key)
+score: 7.2
 ---
 
 The Blue Hole is an old quarry pit that fills with groundwater on the island of Big Pine Key, and it's now one of the most reliable spots in the Keys to see alligators. The quarry was dug in the early twentieth century for rock used in building the Overseas Railroad and later the Overseas Highway. When the work was done, it flooded and became the only significant body of freshwater in the lower Keys — which is precisely why the wildlife congregates here.

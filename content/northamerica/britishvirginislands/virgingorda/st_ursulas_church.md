@@ -8,6 +8,7 @@ tags:
 latitude: 18.4463
 longitude: -64.4365
 snippet: The simple white-painted Anglican parish church in Spanish Town, named after the patron saint of the Virgin Islands
+score: 5.2
 ---
 
 St. Ursula's Church is the Anglican parish church of Virgin Gorda, named after the early Christian saint whose 11,000 mythical companions gave the [Virgin Islands](/northamerica/britishvirginislands) their name when Christopher Columbus sailed past in 1493. The present church is a modest white-painted concrete building on a small rise in the centre of [Spanish Town](/northamerica/britishvirginislands/virgingorda/spanish_town), dating in its current form from the mid-20th century.

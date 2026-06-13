@@ -8,6 +8,7 @@ tags:
   - eating_out
   - bars_and_cafes
   - cafe
+score: 6.0
 ---
 
 Sisterfields opened in 2014 and arguably started Bali's now-ubiquitous Australian brunch scene. The dining room is bright and white-walled with terrazzo floors; the menu runs from poached eggs and avocado on sourdough to bigger lunch plates like grilled hapuka with green chutney.

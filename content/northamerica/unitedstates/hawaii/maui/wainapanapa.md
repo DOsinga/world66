@@ -11,6 +11,7 @@ longitude: -156.0023
 snippet: "Black sand beach, lava caves, and sea arches along the Hāna coast"
 sources:
   - https://en.wikipedia.org/wiki/H%C4%81na,_Hawaii
+score: 8.6
 ---
 
 Waʻanapanapa State Park protects one of Maui's most dramatic stretches of coastline: a black sand beach formed from volcanic basalt, pounded by surf, bookended by lava sea arches and backed by dense hau trees. The contrast between the black sand and the turquoise water is striking enough to make this one of the most photographed spots in Hawaii.

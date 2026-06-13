@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 41.2808
 longitude: -81.5678
+score: 8.8
 ---
 
 Cuyahoga Valley is the only US national park within a major metropolitan area's commuting belt — its southern end is twenty minutes from downtown Akron, its northern end half an hour from downtown Cleveland — and yet inside the park the river canyon, the waterfalls, and the regrown hardwood forest look like rural Pennsylvania. The transformation since the 1960s, when the Cuyahoga River caught fire in Cleveland and federal protection was put in motion, is one of the most successful pieces of US environmental rehabilitation.

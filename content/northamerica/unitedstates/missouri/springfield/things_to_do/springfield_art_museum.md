@@ -2,6 +2,7 @@
 title: "Springfield Art Museum"
 type: poi
 tags: [things_to_do]
+score: 6.8
 ---
 
 The Springfield Art Museum is one of the oldest and largest art museums in Missouri, with a permanent collection of more than 10,000 works spanning painting, sculpture, photography, prints, and decorative arts. The collection has particular strengths in American art from the nineteenth and twentieth centuries, including a notable holdings of watercolors. European works, pre-Columbian objects, and a strong collection of contemporary prints round out the permanent galleries.

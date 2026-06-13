@@ -17,6 +17,7 @@ story: >
   which has sat inside its reconstructed baroque shell since 2014.
 sources:
   - https://en.wikipedia.org/wiki/City_Palace,_Potsdam
+score: 7.2
 ---
 
 The Potsdam City Palace is a striking piece of architectural audacity: the exterior faithfully recreates the 17th-century baroque palace that was bombed in 1945 and demolished by East Germany, while the interior is a thoroughly modern parliamentary building. The Brandenburg state legislature (Landtag) has met here since 2014, in a glass-and-steel chamber inserted within the reconstructed historical shell. Public galleries allow visitors to watch parliamentary sessions when the assembly is in session.

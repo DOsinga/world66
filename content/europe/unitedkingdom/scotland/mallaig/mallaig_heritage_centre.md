@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Local museum on the herring trade, the Highland Clearances, and Knoydart
+score: 6.8
 ---
 
 Across the road from the railway station, the Mallaig Heritage Centre is a small but well-curated local museum run by volunteers. It tells the story of the Clearances that depopulated this part of the West Highlands in the 19th century, the boom and bust of the herring fishery, and the building of the railway that turned Mallaig from a hamlet into a town in 1901.

@@ -8,6 +8,7 @@ tags:
 title: Christian Museum
 type: poi
 story: "The museum's most famous work is the Holy Sepulchre of Garamszentbenedek — a 15th-century wooden structure that recreates the tomb of Christ and was used in Easter processions. It survived the Ottoman occupation hidden in a village crypt and is one of the only objects of its kind in Central Europe."
+score: 8.6
 ---
 
 The Christian Museum (Keresztény Múzeum) occupies a 19th-century archbishop's palace in the Víziváros district, and houses what is generally considered the finest collection of medieval art in Hungary. The emphasis is on Italian, Flemish, German, and Hungarian paintings and sculpture from the 13th to 18th centuries — the kind of collection that would be a major attraction anywhere in Western Europe but remains comparatively undiscovered here.

@@ -9,6 +9,7 @@ tags:
 title: The James Joyce
 type: poi
 snippet: "Reliable Irish pub on State Street with good beer and live music"
+score: 5.7
 ---
 
 A well-established Irish pub on lower State Street with good beer, friendly staff, and one of the more consistent live-music programmes in town — bluegrass on Wednesdays, blues most other nights, traditional Irish music on Sundays. The peanut shells on the floor and the dim wood-panelled interior are the way an Irish pub is supposed to be.

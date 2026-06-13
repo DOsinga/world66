@@ -7,6 +7,7 @@ snippet: Ancient mosque built on the site of a Temple of Baal
 tags:
 - things_to_do
 - sight
+score: 7.8
 ---
 
 The Great Mosque of al-Nuri stands on one of the most layered religious sites in Homs. Tradition holds that a Temple of Baal occupied this ground in antiquity, followed by a Church of St. John during the Byzantine period, before the mosque was built after the Arab conquest. Some of the columns inside the prayer hall are recycled from these earlier structures, making them among the oldest objects in the city.

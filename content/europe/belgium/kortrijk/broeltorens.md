@@ -14,6 +14,7 @@ tags:
 - landmark
 title: Broeltorens
 type: poi
+score: 8.0
 ---
 
 The twin medieval towers on the Leie are the symbol of Kortrijk, and they are as impressive in person as they appear in photographs. Standing on the old stone bridge between them, you get the best view of the river and the city beyond. The towers are not always open to visitors inside, but the exterior and the riverbank are freely accessible at any time.

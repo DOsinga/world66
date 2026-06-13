@@ -1,6 +1,7 @@
 ---
 title: "Mercato Centrale"
 type: poi
+score: 6.0
 ---
 
 Mercato Centrale is a weekend night market that pioneered the artisan food market format in Metro Manila. It operates on Friday and Saturday evenings in BGC (Bonifacio Global City, a short drive from Makati) and brings together a large collection of independent food vendors selling everything from freshly made pasta and Japanese street snacks to wood-fired pizzas and Filipino desserts. The atmosphere is lively and informal, and the quality is generally a notch above comparable markets.

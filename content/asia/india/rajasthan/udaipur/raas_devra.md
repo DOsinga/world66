@@ -6,6 +6,7 @@ longitude: 73.7106
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 On the eastern edge of town, the royal **Ahar Cenotaphs** are a quiet field of 250 carved-marble *chhatris* — small domed memorials marking the cremation sites of the Mewar maharanas going back to the mid-16th century. The setting is unkempt and slightly melancholy, the cenotaphs leaning at angles, weeds growing through the stones.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 37.5635
 longitude: -77.4768
+score: 7.5
 ---
 
 Richmond's former industrial warehouse district has been transformed over the past decade into the city's most concentrated cluster of craft breweries, cideries, meaderies, and small-batch distilleries. Hardywood Park, The Veil, Ardent, Väsen, Buskey Cider, and a dozen others operate here within walking distance of each other, making an afternoon of progressive tasting the most popular thing to do in the neighbourhood.

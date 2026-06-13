@@ -15,6 +15,7 @@ story: >
   is a Qing-era reconstruction following a 19th-century fire, but the
   platform on which it stands is original rammed-earth construction from
   the Tang period.
+score: 4.4
 ---
 
 The Drum Tower (鼓楼) stands at the centre of Jiuquan's old city, rising three storeys above a broad brick platform in the middle of the main intersection. The structure follows the classic Central Chinese design — a wooden pavilion on a masonry base with upturned eaves — but at this scale and in this landscape it has a different feeling than the same design in a river city. The tower was the timekeeping mechanism for the garrison city: drums beat at dawn to open the city gates, again at dusk to close them.

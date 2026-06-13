@@ -6,6 +6,7 @@ longitude: 5.4192
 tags:
   - things_to_do
   - museum
+score: 7.7
 ---
 
 Harlingen's local museum, housed in an 18th-century merchant's house just back from the Voorstraat. The collection covers the town's maritime history (a serious whaling and Greenland-fishing centre in the 17th and 18th centuries), the famous Harlinger tiles produced here from 1600 onwards, silverware, ship models, and contemporary art rotated through the upstairs galleries.

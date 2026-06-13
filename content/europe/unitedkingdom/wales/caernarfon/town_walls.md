@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - unesco
+score: 8.4
 ---
 
 Caernarfon's town walls are part of the same UNESCO inscription as the castle and were built in the same campaign of 1283 to 1295. Eight towers and two twin-towered gateways punctuate just under a kilometre of fortification, enclosing the small grid of streets the English laid out on the bank of the Seiont. They are among the most complete medieval town walls in Britain.

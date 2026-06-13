@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.7
 ---
 
 South of the centre, the Villa Roma quarter was laid out in the 1920s and 1930s as a residential suburb for the Italian middle class. The streets are quieter than the centre, with low-slung modernist villas hidden behind walls of bougainvillea and lemon trees. Many were designed by the same architects who built the cinemas and the mosque downtown.

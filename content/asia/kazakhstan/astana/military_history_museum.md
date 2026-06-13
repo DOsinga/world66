@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 51.1500
 longitude: 71.4500
+score: 5.8
 ---
 
 The Military History Museum sits on the right bank, in a low purpose-built complex with an extensive outdoor display of tanks, helicopters, jet fighters, and other Soviet and post-Soviet hardware. The indoor galleries cover the history of Kazakh military formations from the late Russian Empire through the Soviet period and into the modern Kazakhstani armed forces.

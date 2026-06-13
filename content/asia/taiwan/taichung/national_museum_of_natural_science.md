@@ -8,6 +8,7 @@ longitude: 120.6636
 snippet: Sprawling science museum with dinosaurs, botanical garden, and IMAX
 title: National Museum of Natural Science
 type: poi
+score: 8.3
 ---
 
 One of Taiwan's best museums — a sprawling complex covering everything from dinosaurs and Chinese medicine to earth sciences and a tropical botanical garden. The permanent exhibits are particularly strong on ancient Chinese civilization and natural history, and the IMAX cinema and planetarium are worth adding on. Popular with families; expect school groups on weekdays. Closed on Mondays.

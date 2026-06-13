@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -22.8173
 longitude: -47.0695
+score: 8.0
 ---
 
 The Universidade Estadual de Campinas — Unicamp — is consistently ranked among the top three universities in Latin America. Founded in 1966, it was designed from the ground up as a research university, and it shows: the campus has a serious, purposeful feel, with institutes and hospitals scattered across a large suburban site north of the city. The national synchrotron laboratory (LNLS), Brazil's most sophisticated physics facility, is on adjacent land.

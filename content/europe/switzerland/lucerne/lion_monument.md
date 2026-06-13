@@ -9,6 +9,7 @@ latitude: 47.0584
 longitude: 8.3109
 story: >
   Mark Twain called the Lion of Lucerne "the most mournful and moving piece of stone in the world." Bertel Thorvaldsen designed it in 1819 to commemorate the 786 Swiss Guards massacred while defending the Tuileries Palace during the French Revolution on 10 August 1792. The dying lion, a spear broken in its flank, still clutches the shield of the French royal family. Twain visited in 1880 and was moved to write the line that has followed the monument ever since.
+score: 6.2
 ---
 
 The Lion Monument is a life-size lion carved directly into a sandstone cliff face in the park just north of the old town. Completed in 1821, it commemorates the Swiss Guards who died defending the Tuileries Palace during the French Revolution. The design is by the Danish sculptor Bertel Thorvaldsen; the carving was executed by Lucas Ahorn of Constance.

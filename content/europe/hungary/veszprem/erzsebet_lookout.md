@@ -7,6 +7,7 @@ tags:
 - sight
 title: Elizabeth Look-out
 type: poi
+score: 7.7
 ---
 
 At the northern end of Castle Hill, beyond the cathedral, the ridge ends in a steep drop into the Séd valley. A small terrace here — the Erzsébet kilátó, named for the 19th-century Hungarian Queen Elizabeth — gives the best view in the city: north and west into the Bakony Hills, south down the curve of the old town, and straight down into the valley far below.

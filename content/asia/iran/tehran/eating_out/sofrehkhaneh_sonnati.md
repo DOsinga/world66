@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.6920
 longitude: 51.4010
+score: 6.4
 ---
 
 Sofrehkhaneh Sonnati Sangalaj is a traditional-style restaurant in the old city that takes the form of a *sofreh* — a traditional Persian meal setting on floor-level cushions, low tables, and kilim rugs, with food served in the style of a domestic setting rather than a restaurant. The interior is a careful reconstruction of a 19th-century Tehran house, with tiled alcoves and arched niches holding copper vessels and old lanterns.

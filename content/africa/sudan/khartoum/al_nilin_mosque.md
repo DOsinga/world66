@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Al-Nilin Mosque
 type: poi
+score: 6.8
 ---
 
 The Al-Nilin (Two Niles) Mosque is one of Khartoum's more memorable pieces of modern architecture. It sits on the Omdurman side of the White Nile, just downstream of the Mogran confluence, and is designed in the shape of a giant seashell — the white concrete shell-curves and minaret create a striking silhouette against the river.

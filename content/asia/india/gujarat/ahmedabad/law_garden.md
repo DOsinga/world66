@@ -9,6 +9,7 @@ tags:
 snippet: Evening street market for Gujarati textiles and handicrafts
 title: Law Garden
 type: poi
+score: 6.6
 ---
 
 The evening street market at **Law Garden** is Ahmedabad's most popular spot for picking up traditional Gujarati clothing, embroidered bags, mirror-work bedspreads, and Kutchi handicrafts. The market sets up daily around 6pm along the eastern footpath of the park and runs until about 11pm. Rows of vendors, lit by hanging bulbs, spread their wares on the pavement.

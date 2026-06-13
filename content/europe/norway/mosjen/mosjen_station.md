@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mosjøen Station
 type: poi
+score: 5.8
 ---
 
 Mosjøen Station opened in 1940 when the Nordland Railway reached the town from the south, and the modest wooden station building has been in use ever since. Trains run twice a day in each direction between Trondheim and Bodø, and the overnight service is one of the better ways to enter or leave town: you wake up to the fjord and the mountains.

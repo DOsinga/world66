@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 48.0055
 longitude: 0.1950
+score: 7.0
 ---
 
 The Musée de Tessé is the main fine arts museum of Le Mans, housed in the former bishop's palace near the cathedral. Its collection spans Egyptian antiquities, medieval sculpture, and European paintings from the 15th century to the 19th, with particular strength in French and Flemish work.

@@ -10,6 +10,7 @@ tags:
 address: 2020 Postoffice St, Galveston, TX
 sources:
   - https://en.wikipedia.org/wiki/Grand_1894_Opera_House
+score: 7.6
 ---
 
 The Grand 1894 Opera House is the Official Opera House of Texas, built in 1894 and still operating as a full-time performing arts venue. The building survived the 1900 hurricane, was restored in the 1980s after decades of deterioration, and reopened to a schedule that brings touring Broadway shows, concerts, and local productions through Galveston throughout the year.

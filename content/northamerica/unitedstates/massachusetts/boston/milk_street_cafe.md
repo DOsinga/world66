@@ -9,6 +9,7 @@ tags:
 - cafe
 title: Milk Street Cafe
 type: poi
+score: 5.1
 ---
 
 A downtown lunch spot in the Financial District popular with office workers. Known for fresh soups, salads, and sandwiches. Kosher-certified.

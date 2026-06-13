@@ -15,6 +15,7 @@ story: >
   redesigned so that the south face shows wedding decorations and the north face shows
   mourning reliefs — two completely different moods in a single structure, which is
   why it looks subtly different from either direction.
+score: 6.5
 ---
 
 At the southern end of the Maria-Theresien-Strasse stands Innsbruck's Triumphal Arch, built in 1765 and carrying on its two faces the dual story of Habsburg joy and grief. The south side, facing toward the Italian Alps, bears decorative reliefs celebrating the imperial wedding; the north side, facing the city, is draped in mourning motifs for the emperor who died during the celebrations.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.8172
 longitude: 16.4135
+score: 4.9
 ---
 
 A reliable trattoria in the old quarter serving straightforward Pugliese cooking with locally sourced ingredients. The pasta is made daily, the bread arrives warm, and the wine is from the local Gravina DOC. Good for lunch after a morning in the ravine.

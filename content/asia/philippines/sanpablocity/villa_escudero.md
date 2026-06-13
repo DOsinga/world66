@@ -13,6 +13,7 @@ story: >
   shallow river below a small waterfall — guests eat with their feet in the cool water while
   the current flows past. The restaurant has been operating this way since the 1970s and
   remains one of the most unusual dining setups in the Philippines.
+score: 8.4
 ---
 
 Villa Escudero, about 20km south of San Pablo near Tiaong, is a working coconut plantation that has been in the Escudero family for generations and now operates as a day resort open to visitors. The estate covers several hundred hectares of coconut trees, and plantation tours give a clear picture of how coconut is harvested, processed, and turned into the dozens of products — oil, vinegar, wine, charcoal — that made this crop the backbone of the Laguna economy.

@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: AliBaba Cafe and Restaurant
 type: poi
+score: 6.4
 ---
 
 Alibaba Cafe and Restaurant in Frazer Town is one of Bangalore's more distinctive dining rooms — the entire space is themed around the tale of Ali Baba and the Forty Thieves, with Arabian Nights decor that runs to carved wooden screens, lanterns, and murals evoking Persia. The restaurant seats forty (the number is deliberate), and the atmosphere in the evenings is warm and slightly theatrical.

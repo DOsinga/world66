@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "King Njoya, who ruled from 1889 to 1933, invented his own writing system (the Shumom script), commissioned the palace in a deliberate mix of German and Bamoun styles, and tried to merge Christianity, Islam, and traditional Bamoun religion into a single faith. The French colonial administration eventually exiled him to Yaoundé, where he died in 1933."
+score: 8.9
 ---
 
 The Royal Palace is the heart of Foumban and the reason most travellers come. The current three-storey building dates from around 1917 and was designed under Sultan Njoya in a hybrid style that nods to German colonial architecture while keeping recognisably Bamoun proportions. It replaced an earlier palace destroyed during a succession war.

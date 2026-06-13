@@ -10,6 +10,7 @@ story: >
   The museum occupies a building in the Rayleigh Market area that has served various community functions since the 18th century. The collection was assembled largely by local volunteers and reflects the kind of community museum that has largely disappeared from British towns — no paid staff, no grant-funded exhibitions, just local people who care about local history.
 sources:
   - https://en.wikipedia.org/wiki/Rayleigh_Town_Museum
+score: 6.6
 ---
 
 Rayleigh Town Museum is a volunteer-run local history museum in the town centre, covering the history of Rayleigh and the surrounding Rochford district from prehistoric times to the present. The collection includes artefacts from the Norman castle, material from the Dutch drainage period, tools from local trades, and photographs of the town's 20th-century development.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "On 13 April 1796, the young General Bonaparte stormed the castle of Cosseria in the second battle of his Italian campaign. The Piedmontese defended for two days from inside the ruins before surrendering; the action helped secure Bonaparte's first major victory at Montenotte."
+score: 7.3
 ---
 
 The castle ruins crown the Montecala pass above the village and offer one of the best vantage points in the upper Bormida valley. The keep, sections of curtain wall, and the original entrance gate survive in fragments, set among grass and brushwood.

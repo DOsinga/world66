@@ -6,6 +6,7 @@ longitude: 8.419
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 A small grid of carrugi — the narrow lanes typical of Ligurian fishing towns — runs back from the seafront. Houses are painted in the soft pinks and yellows of the Riviera, with the trompe-l'oeil windows and shutters that the locals call quadrature painted on flat walls. The lanes are mostly pedestrianised in summer.

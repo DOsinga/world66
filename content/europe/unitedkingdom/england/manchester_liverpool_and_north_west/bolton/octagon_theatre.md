@@ -6,6 +6,7 @@ tags:
 - sight
 title: Octagon Theatre
 type: poi
+score: 6.7
 ---
 The Octagon Theatre opened in 1967 and has built a reputation over the following decades as one of the most consistently ambitious producing theatres outside London. The building takes its name from the distinctive octagonal auditorium, which allows flexible staging and an unusually intimate relationship between performers and audience regardless of how the space is configured. The theatre produces its own work rather than simply hosting touring shows, with a particular commitment to new writing and to plays that reflect northern English experience.
 

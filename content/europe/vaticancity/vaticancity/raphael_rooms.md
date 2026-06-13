@@ -10,6 +10,7 @@ tags:
 - sight
 - museum
 story: "Pope Julius II hired Raphael to decorate the new papal apartments in 1508 — the same year he commissioned Michelangelo for the Sistine ceiling. The two artists worked in the same complex for years; Raphael snuck in to see Michelangelo's work in progress, then incorporated him as the brooding figure of Heraclitus in The School of Athens."
+score: 9.4
 ---
 
 Four rooms in the papal apartments, decorated by Raphael and his workshop between 1508 and 1524 — the same years Michelangelo was painting the Sistine ceiling next door. The most famous of the rooms is the Stanza della Segnatura, which contains *The School of Athens*, *The Disputation of the Holy Sacrament*, *The Parnassus*, and *The Cardinal Virtues*.

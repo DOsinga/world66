@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -25.5208
 longitude: -48.5103
+score: 6.7
 ---
 
 Danúbio Azul, on the waterfront near the Mercado do Café, is the long-standing favourite for barreado in Paranaguá. The stew arrives still bubbling in its sealed clay pot, ladled over rice and cassava flour with slices of banana. Order it with a cold draught beer and plan a long lunch.

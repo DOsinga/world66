@@ -13,6 +13,7 @@ tags:
 - neighbourhood
 title: Sidi Bou Said
 type: poi
+score: 8.4
 ---
 
 Sidi Bou Said is the picture-postcard village on a cliff just north of the Carthage archaeological sites — a tight grid of whitewashed houses with cobalt-blue doors and shutters, looking out over the Bay of Tunis. The signature colour scheme was imposed by the French aesthete Rodolphe d'Erlanger in the early 20th century and has been mandated for new construction ever since.

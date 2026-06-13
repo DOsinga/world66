@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.5500
 longitude: 50.0050
+score: 6.2
 ---
 
 The waterfront promenade along Qatif's Arabian Gulf shoreline, stretching several kilometres from Saihat in the north to the village of Zour. In the evenings, especially on weekends and during cooler months, the Corniche fills with families — children on bikes and scooters, groups of men promenading, women in black abayas watching the water. It is genuinely local in character, with none of the tourist infrastructure of larger Saudi coastal cities.

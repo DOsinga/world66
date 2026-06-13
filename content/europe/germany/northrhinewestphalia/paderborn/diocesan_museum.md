@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.7185
 longitude: 8.7556
+score: 8.3
 ---
 
 The Diocesan Museum of Paderborn houses one of the finest collections of medieval ecclesiastical art in western Germany. The building itself — a striking modern structure clad in concrete — was specifically designed to display the cathedral treasury and the Carolingian finds discovered in the city.

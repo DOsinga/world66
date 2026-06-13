@@ -9,6 +9,7 @@ latitude: 58.9822
 longitude: -2.9592
 story: >
   The relics of St Magnus himself are still inside the cathedral. His bones were discovered in 1919 hidden within a pillar, and the skull bore an axe wound precisely as described in the Orkneyinga saga account of his martyrdom in 1116 — when his cousin had him killed on the island of Egilsay. The relics had apparently been concealed there for centuries.
+score: 9.4
 ---
 
 St Magnus Cathedral is the oldest cathedral in Scotland and, at 50 metres tall, an astonishing presence in a town of ten thousand people. Earl Rögnvald Kali Kolsson laid the foundation stone in 1137, vowing to build "a stone minster more magnificent than any in Orkney" in honour of his martyred uncle Magnus. Construction continued for nearly three centuries, with the result being a building that moves between Romanesque rounded arches and later Gothic additions — built from alternating bands of red sandstone from Kirkwall and yellow sandstone from the island of Eday.

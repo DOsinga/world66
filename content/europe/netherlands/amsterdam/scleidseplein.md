@@ -9,6 +9,7 @@ title: SC Leidseplein
 type: poi
 phone: "+31-20-620 66 31"
 address: "Korte Leidsedwarsstraat, Amsterdam"
+score: 4.5
 ---
 
 SC Leidseplein is a squash and fitness centre tucked just off the busy Leidseplein square. It has multiple squash courts, a gym, and a sauna. Being centrally located, it gets busy — book a court in advance if you want a guaranteed slot. A useful option if you want to stay active while spending time in central Amsterdam.

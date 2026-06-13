@@ -7,6 +7,7 @@ tags:
 latitude: 34.5914
 longitude: -120.1395
 snippet: An unexpected collection of rare and beautifully restored vintage motorcycles
+score: 7.5
 ---
 
 The Solvang Vintage Motorcycle Museum is a private collection turned public attraction, housing more than 200 vintage motorcycles from the late 19th century through the mid-20th century. The collection is strong on pre-World War II European machines — DKW, Zündapp, Excelsior — alongside more familiar American and British marques. Several exhibits are exceptionally rare, including a Moto Guzzi race bike and a number of experimental machines that never reached production.

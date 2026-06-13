@@ -9,6 +9,7 @@ latitude: -15.8516
 longitude: -49.0296
 story: >
   The original eighteenth-century church was gutted by fire in 2002 and its tower collapsed in the blaze. The loss was a major blow to the town's heritage, though the ruins were preserved and stabilised. The town has since reconstructed much of the church using original materials and techniques, and the building serves again as an active parish. The ruins of the tower remain as a reminder of the fire rather than being demolished.
+score: 7.5
 ---
 
 The Igreja Nossa Senhora do Rosário, built in the 1730s, anchors the main square of Pirenópolis and is the oldest church in the state of Goiás. It's a simple, whitewashed colonial church in the pattern common across eighteenth-century Brazil — broad and low, with twin towers and thick walls — but its setting on a cobblestone square surrounded by period buildings gives it real presence.

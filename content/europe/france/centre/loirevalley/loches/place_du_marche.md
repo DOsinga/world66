@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The triangular flower-market square in the lower town, with the Wednesday and Saturday markets
+score: 7.2
 ---
 
 The Place du Marché aux Fleurs is the daily heart of Loches, a small triangular space below the citadel and around the corner from the Tour Saint-Antoine. The cafes around the edge keep their tables out from May to October, and the Wednesday and Saturday morning markets fill the square and spill into the surrounding streets.

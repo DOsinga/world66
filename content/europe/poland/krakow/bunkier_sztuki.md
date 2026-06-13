@@ -7,6 +7,7 @@ tags:
   - stare_miasto
 latitude: 50.0637
 longitude: 19.9341
+score: 7.1
 ---
 
 The Bunkier Sztuki ("Bunker of Art") is Krakow's main contemporary art gallery, a 1960s Modernist building on the edge of the Planty near the Florian Gate that has hosted exhibitions of contemporary Polish and international art since 1965. The name is ironic — the building's clean Modernist lines gave it a bunker-like nickname that stuck. The gallery's exhibitions focus on current art, with particular attention to artists from Central and Eastern Europe.

@@ -14,6 +14,7 @@ story: >
   the Live Great Russian Language** — 200,000 entries, including thousands of
   regional words and proverbs he collected by stopping people in the street and
   asking what their words meant. His Lugansk pen-name was "Cossack Lugansky."
+score: 7.7
 ---
 
 The two-storey house at 12 Dahl Street is the birthplace of Vladimir Dahl (1801–1872), the Danish-Russian doctor, naval officer, and ethnographer whose four-volume dictionary remains a touchstone of Russian language scholarship. Dahl grew up here while his father worked as a doctor at the cannon foundry that gave Lugansk its start.

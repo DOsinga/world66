@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.9
 ---
 
 A 240-hectare patch of dryland forest on the northern edge of the city, the Parc Urbain Bangr-Weoogo is the green lung of Ouagadougou. The name means "forest of knowledge" in Mooré, and the park was a sacred grove of the Mossi long before it was formalised as an urban reserve.

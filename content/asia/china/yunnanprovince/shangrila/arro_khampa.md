@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - tibetan
+score: 5.8
 ---
 
 Arro Khampa is a Tibetan restaurant on the central square of the Old Town and one of the better places to eat traditional Khampa-Tibetan food without it being either too touristy or too rustic. The menu runs to momos, yak hotpot, tsampa balls, and butter tea, with a decent vegetarian section. The setting is a converted Tibetan-style house with cushions and low tables.

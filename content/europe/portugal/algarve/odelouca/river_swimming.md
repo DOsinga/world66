@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.2200
 longitude: -8.5000
+score: 6.5
 ---
 
 Upstream of the reservoir dam, the Odelouca River still runs freely through a narrow limestone canyon, forming natural swimming holes — rocky pools shaded by overhanging trees, cool and clean, used by local families in summer. The valley that was flooded downstream has a quiet, submerged quality; up here, the water is clear and cold and the canyon walls rise steeply on both sides. The pools near the village of Várzea are the most accessible.

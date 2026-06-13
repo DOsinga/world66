@@ -10,6 +10,7 @@ tags:
 - museum
 title: Kiek in de Kök
 type: poi
+score: 8.2
 ---
 
 A squat 15th-century artillery tower whose Low German name ("Peek into the Kitchen") comes from the fact that its defenders could look down into the houses below. Inside is a museum of the city's fortifications; the ticket also gets you into the bastion tunnels carved under Toompea Hill, which were used as air-raid shelters, a punk hangout in the 1980s, and now a genuinely interesting walk-through exhibit.

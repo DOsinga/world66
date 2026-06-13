@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: -25.2887
 longitude: -57.6212
+score: 6.3
 ---
 
 The Museo Nacional de Bellas Artes is Paraguay's main art museum, housed in a neo-classical building in the Asuncion city centre. The permanent collection covers Paraguayan painting and sculpture from the colonial period through the 20th century, with particular strength in post-independence portraiture and landscapes. There are also sections dedicated to foreign art donated or acquired over the years.

@@ -8,6 +8,7 @@ tags:
 latitude: 35.1700
 longitude: 136.9055
 neighbourhood: Sakae
+score: 6.8
 ---
 
 Jazz Inn Lovely has been programming live acoustic jazz from a basement in Nishiki since 1971, making it one of the longest-running independent jazz clubs in Japan. The room is small (about 80 seats), the piano is a well-loved Bosendorfer, and most nights see two sets by a Japanese trio or visiting international guest, with cover charges around 3,000–4,000 yen.

@@ -10,6 +10,7 @@ longitude: 27.908772
 story: "Number 8115 Vilakazi Street is a tiny brick house — two bedrooms, a kitchen, a living room — the kind of modest home that millions of South Africans lived in. Nelson Mandela moved here with his first wife Evelyn in 1946, and it was from this address that he was arrested in 1962. The contrast between the smallness of the house and the enormousness of what happened here is itself a kind of history lesson."
 sources:
   - https://en.wikipedia.org/wiki/Mandela_House
+score: 7.7
 ---
 
 The Nelson Mandela National Museum — known universally as Mandela House — occupies the small brick house on Vilakazi Street where Nelson Mandela lived from 1946 until his arrest in 1962. The house has been preserved as it was during those years, with original furnishings, photographs, and personal effects. It is the most visited site in Soweto.

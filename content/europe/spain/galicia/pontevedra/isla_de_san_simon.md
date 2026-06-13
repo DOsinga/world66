@@ -9,6 +9,7 @@ latitude: 42.3028
 longitude: -8.6500
 story: >
   During the Spanish Civil War and its aftermath, San Simón served as a detention camp for Republican prisoners. Thousands were held here in appalling conditions; many died. The island was used to hold political prisoners as late as the 1940s. It is now a site of historical memory, and visiting feels like an act of witness.
+score: 5.8
 ---
 
 Isla de San Simón sits in the Ría de Vigo, about 20 km south of Pontevedra, reachable by boat from Cesantes or Redondela. The island is small, wooded, and beautiful — a lush contrast to the industrial fringes of the ría around it. A ruined monastery occupies the southern part, a 19th-century prison building stands at the centre, and forest paths connect them.

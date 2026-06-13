@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Aula Magna's signature feature is the ceiling of 31 hovering acoustic 'clouds' designed by Alexander Calder in 1952 — multicoloured curved panels suspended over the audience to scatter sound. It was the only major architectural commission Calder ever completed and is considered a masterpiece of integrated mid-century design."
+score: 9.2
 ---
 
 The University City of Caracas — the main campus of the Universidad Central de Venezuela, south-west of the centre — is the masterpiece of the architect Carlos Raúl Villanueva. Designed in the 1940s and built over the following two decades, it is one of the great Latin American architectural ensembles and was declared a UNESCO World Heritage Site in 2000.

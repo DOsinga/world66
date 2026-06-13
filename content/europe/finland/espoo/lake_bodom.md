@@ -9,6 +9,7 @@ tags:
 title: Lake Bodom
 type: poi
 story: "In June 1960, four teenagers camped on the lake shore. Three were murdered overnight; one survived. Decades of suspects later — including a neighbour and the survivor himself — the case remains unsolved, the most infamous in Finnish criminal history."
+score: 5.8
 ---
 
 Lake Bodom is a small wooded lake in northern Espoo, surrounded by paths, a popular swimming beach, and a public sauna. On a summer afternoon it looks like exactly what it is — a low-key suburban swimming spot of the kind that locals visit on warm weekends. The lake is also forever attached to one of the most notorious cold cases in Finland — the 1960 murder of three teenagers camping on the shore — which has supplied the country with mystery novels, a heavy-metal band, and several films.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -27.099
 longitude: -48.605
+score: 7.2
 ---
 
 Morro da Sentinela is the steep hill rising directly behind the south end of Meia Praia and the best easy viewpoint in town. A signed trail starts from a small park at the foot of the hill and climbs through dense secondary forest to a series of clearings; the highest of these gives a clean panorama over the entire bay, with the long arc of Meia Praia heading north and the rocky headlands shutting in the south.

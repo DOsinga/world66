@@ -10,6 +10,7 @@ tags:
 - park
 title: Coral Garden
 type: poi
+score: 6.8
 ---
 
 A shallow reef off the coast of Samal Island, accessible only by banca (outrigger boat) from Davao or from the island's shore. The garden is named for its dense coral formations and the variety of reef fish that shelter among them — parrotfish, clownfish, and the occasional sea turtle are common sightings.

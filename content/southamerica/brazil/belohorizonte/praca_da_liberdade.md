@@ -9,6 +9,7 @@ tags:
 story: "When Belo Horizonte was being designed in the 1890s as Brazil's first planned modernist capital, the architects laid out Praça da Liberdade as a deliberate echo of European royal squares. The original Brazilian palms were imported from Tijuca in Rio de Janeiro and planted in a precise grid — they still line the central walkway today, more than a century later."
 title: Praça da Liberdade
 type: poi
+score: 8.9
 ---
 
 Praça da Liberdade is the formal civic square of Belo Horizonte and the most photogenic place in the city. A long rectangle of imperial palms, fountains, and gravel paths is bounded on three sides by the grand neoclassical and Art Nouveau buildings that the original 1890s planners put up to house the state government, the secretariats, and the official residences of Minas Gerais.

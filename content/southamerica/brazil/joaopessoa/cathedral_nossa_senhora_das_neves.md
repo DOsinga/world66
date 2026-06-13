@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The city was originally named Nossa Senhora das Neves (Our Lady of the Snows) when it was founded in 1585, making this cathedral's name a direct link to the city's own earliest identity — the name 'João Pessoa' only came much later, in 1930, to honor a martyred politician."
+score: 7.5
 ---
 
 The Cathedral Basilica of Our Lady of the Snows stands at the heart of João Pessoa's old town and carries the city's original name — it was called Nossa Senhora das Neves when it was founded in 1585. The current neoclassical building dates from the nineteenth century, but the site has been a place of worship since the colonial era. The interior is calm and cool, with painted vaulting and an ornate altar that rewards a few minutes of stillness.

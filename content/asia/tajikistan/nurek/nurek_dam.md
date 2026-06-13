@@ -13,6 +13,7 @@ tags:
 - sight
 title: Nurek Dam
 type: poi
+score: 8.4
 ---
 
 The dam is a massive earthfill wedge across the narrow Vakhsh gorge, and from the access road above the wall the scale is hard to take in: the reservoir stretches back into the mountains for some 70 kilometres, a vivid blue-green strip in an otherwise arid landscape. The view of the dam from below, with the river emerging far down at the base, is genuinely impressive.

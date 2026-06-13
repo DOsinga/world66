@@ -13,6 +13,7 @@ story: >
   sloths, jaguars, tapirs, giant otters, anacondas, and hundreds of bird species. The botanical
   garden section is equally impressive — enormous Victoria amazonica water lilies float in the
   ponds, and towering Brazil-nut trees shade the paths.
+score: 8.5
 ---
 
 The natural history collection inside the museum building includes indigenous artifacts, fossil specimens, and extensive documentation of Amazonian biodiversity. It is a genuine research institution — the Goeldi researchers have described thousands of new species — and the exhibits reflect that seriousness.

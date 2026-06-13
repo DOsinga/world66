@@ -9,6 +9,7 @@ tags:
   - museum
 snippet: "Vast scale model showing the entire city as it was, is, and will be"
 story: "The centrepiece is a 600-square-metre scale model of central Shanghai, kept updated as buildings rise. The buildings under construction are sometimes represented as transparent — you can see what is going to be there before the cranes have even arrived."
+score: 7.6
 ---
 
 A surprisingly absorbing six-floor museum dedicated to the city itself: its past, present, and 2035 master plan. The centrepiece on the third floor is one of the largest scale models in the world — the whole of central Shanghai, every building over six storeys, picked out under spotlights, with future buildings rendered in transparent acrylic.

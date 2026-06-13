@@ -7,6 +7,7 @@ tags:
 - sight
 title: Platja de Mataró
 type: poi
+score: 5.8
 ---
 
 Mataró's main beach stretches south from the port for around two kilometres, wide and sandy with calm Mediterranean water. It is well served with showers, lifeguards in season, and a string of beach bars along the promenade. The atmosphere is local rather than touristic — families from the city and day-trippers from Barcelona rather than package holidaymakers.

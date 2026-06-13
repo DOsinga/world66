@@ -10,6 +10,7 @@ tags:
   - sight
   - park
 story: The forest is estimated to be more than **130 million years old** — significantly older than the Amazon, and one of the oldest continuously forested ecosystems on the planet. It is one of the few places in peninsular Malaysia where wild tigers and Asian elephants still roam in numbers, and where all three species of Asia's flying squirrel and ten of the world's hornbills can be seen in a single park.
+score: 9.0
 ---
 
 The **Royal Belum State Park** is a vast tract of primary lowland rainforest in the north of Perak, on the Thai border, covering 1,175 square kilometres. Together with the adjoining **Temengor Forest Reserve** it forms one of the largest undisturbed rainforest ecosystems left in peninsular Malaysia.

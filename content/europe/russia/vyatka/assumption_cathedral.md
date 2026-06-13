@@ -9,6 +9,7 @@ tags:
 latitude: 58.6035
 longitude: 49.6677
 story: "The cathedral's striking white and blue facade is visible from the river and across the valley — it was deliberately placed on the highest ground of the city to serve as a landmark for travellers arriving by water, which was the main route into Vyatka for centuries."
+score: 7.9
 ---
 
 The Assumption Cathedral stands on the high western bluff above the Vyatka River, its blue domes and white baroque facade forming the city's defining skyline. Built in the 18th century on the site of an earlier wooden church, it represents the merchant wealth of old Vyatka — the city's traders financed the construction as a statement of civic pride and Orthodox devotion.

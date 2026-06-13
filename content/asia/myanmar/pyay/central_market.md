@@ -8,6 +8,7 @@ tags:
 - market
 title: Pyay Central Market
 type: poi
+score: 6.5
 ---
 
 The market sprawls over several blocks just back from the river in central Pyay. Mornings are the time to come — the fish from the Ayeyarwady is sold by 9am, and the noodle and mohinga stands around the perimeter are busiest at breakfast.

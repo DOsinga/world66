@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 45.4000
 longitude: 25.4500
+score: 8.8
 ---
 
 The Bucegi Mountains rise directly above Sinaia, providing the backdrop to the resort and the main reason to come beyond the royal architecture. The massif reaches 2,505 metres at Omu Peak and offers some of the most accessible high-mountain walking in Romania, thanks to a cable car system that carries visitors from the valley floor to the plateau at around 2,000 metres in minutes.

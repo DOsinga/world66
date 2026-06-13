@@ -6,6 +6,7 @@ longitude: -6.7314
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 The Monastery of Santa María de Carracedo, founded in the year 990 by King Vermudo II of León, is the oldest religious foundation in El Bierzo and one of the more atmospheric ruins in the region. Originally a refuge for monks fleeing Moorish raids further south, it was rebuilt as a Cistercian house in the 12th century and reached its peak in the 15th, when it controlled most of the surrounding valley.

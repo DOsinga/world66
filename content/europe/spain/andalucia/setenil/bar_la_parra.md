@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.8623
 longitude: -5.1814
+score: 6.6
 ---
 
 Bar La Parra is one of the most-photographed spots in Setenil, occupying a prime position on Calle Cuevas del Sol with tables spilling out onto the narrow pavement beneath the rock overhang. It serves traditional Andalucian tapas — sliced jamón, local goat's cheese, ensaladilla rusa, and fried fish — alongside cold draught beer and inexpensive house wine.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.9267
 longitude: 14.7419
+score: 9.5
 ---
 
 Ragusa Ibla is the older, lower half of the city — a tangled Baroque neighbourhood rebuilt almost entirely after the 1693 earthquake that devastated much of eastern Sicily. The earthquake flattened the medieval town; what rose in its place was something more deliberate and more beautiful, with broad stairways, palaces with carved limestone facades, and churches that compete with each other in theatrical grandeur.

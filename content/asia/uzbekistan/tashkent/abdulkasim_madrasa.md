@@ -9,6 +9,7 @@ tags:
 neighbourhood: Old Town
 latitude: 41.3157
 longitude: 69.2700
+score: 6.7
 ---
 
 A small nineteenth-century madrasa next to Independence Square, now used as workshops for Uzbek craftsmen — wood carvers, miniature painters, ceramic artists, suzani embroiderers, and metalworkers. You can wander between the cells, watch them work, and buy directly from the artisans without going through a market middleman.

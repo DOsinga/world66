@@ -10,6 +10,7 @@ longitude: 144.9663
 snippet: "Working union HQ since 1859, host of the Melbourne Comedy Festival"
 story: >
   The Eight Hours Day movement — the worldwide labour campaign for the eight-hour working day — was effectively founded inside this building in 1856. The annual Eight Hours Day parade departing from the front steps continued every April until 1951.
+score: 7.8
 ---
 
 The Victorian Trades Hall stands on the corner of Lygon and Victoria streets, just south of Carlton proper, the headquarters of the Victorian Trades Hall Council since 1859 and the oldest continuously operating trade union building in the world. The current Italianate brick building dates from the 1880s and was extended several times; it is heavily decorated inside with union banners, honour boards and meeting rooms named for past general secretaries.

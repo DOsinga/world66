@@ -9,6 +9,7 @@ title: Disney's Animal Kingdom
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Disney%27s_Animal_Kingdom
+score: 8.4
 ---
 
 Animal Kingdom covers more than 500 acres — by far the largest of the four Disney World parks — and feels genuinely different from the rest of the resort. The African savannah section, Kilimanjaro Safaris, puts you in an open-sided vehicle moving through free-roaming lions, elephants, giraffes, and hippos. Avatar Flight of Passage, in the Pandora land, is the most technically impressive ride at Disney World; book a Lightning Lane reservation or queue early.

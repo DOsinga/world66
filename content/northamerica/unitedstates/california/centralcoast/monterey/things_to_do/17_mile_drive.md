@@ -15,6 +15,7 @@ story: >
   the Pebble Beach Company, making it one of the few natural landmarks with intellectual
   property protection. The tree is estimated to be over 250 years old and is held together
   partly by cables to prevent its branches from splitting under their own weight.
+score: 7.8
 ---
 
 A private toll road through the Del Monte Forest and along some of the most dramatic coastline in California. The drive loops from Pacific Grove through Pebble Beach to Carmel, with a dozen official stops along the way: the sea-spray Bird Rock with its pelicans and sea lions, the craggy Cypress Point lookout, and the Lone Cypress — the single weather-beaten tree on a granite promontory that appears on every Pebble Beach logo. The golf courses are world-famous (the Pebble Beach Pro-Am happens here in February) and the houses along the route range from large to extravagant.

@@ -11,6 +11,7 @@ title: Petřín Hill
 type: poi
 story: >
   The 60-metre Petřín Lookout Tower, built in 1891 as a miniature Eiffel Tower for the Prague World Exhibition, was constructed in just a few months using iron salvaged from the demolished Charles Street chain bridge. Prague's tower predates the Eiffel Tower by two years in structural concept but not in completion.
+score: 8.8
 ---
 
 The wooded hill rising steeply behind Malá Strana is one of Prague's best escapes from the crowds. A funicular railway from Újezd climbs to near the summit, where the 60-metre Petřín Lookout Tower — a smaller replica of the Eiffel Tower — gives 360-degree views over the city and, on clear days, out to the Bohemian hills.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 16.601111
 longitude: 104.73583
 snippet: "1.6 km bridge connecting Laos and Thailand over the Mekong, with good river views"
+score: 4.8
 ---
 
 The Second Thai-Lao Friendship Bridge opened in 2006, carrying road traffic and later rail freight across the Mekong between Savannakhet (Laos) and Mukdahan (Thailand). At 1.6 kilometres, it is a substantial structure, and the crossing gives good views upstream and downstream of the Mekong. For many travellers, the bridge is simply the entry or exit point for Laos, but the crossing itself is straightforward and well organised.

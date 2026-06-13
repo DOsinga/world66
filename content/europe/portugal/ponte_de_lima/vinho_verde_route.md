@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Ponte de Lima is at the heart of the Minho vinho verde wine country"
+score: 7.8
 ---
 
 Ponte de Lima sits in the middle of the sub-region that produces some of Portugal's most distinctive wines: Minho vinho verde, the light, slightly sparkling, often white wine that is drunk young and cold. The word verde — green — refers not to the colour but to the wine's youth; it is bottled within months of harvest. Local red vinho verde, rarely exported, is astringent and bracingly tart, an acquired taste that locals drink by the litre.

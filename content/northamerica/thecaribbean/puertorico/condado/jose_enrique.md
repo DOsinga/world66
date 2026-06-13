@@ -2,6 +2,7 @@
 title: "José Enrique"
 type: poi
 tags: [eating_out, restaurant]
+score: 7.7
 ---
 
 José Enrique sits in La Placita de Santurce, a ten-minute walk from Condado, and it regularly appears on lists of the best restaurants in Puerto Rico and the wider Caribbean. The premise is simple: a menu that changes daily depending on what's available at the markets and from local suppliers, cooked by a chef who grew up eating this food and understands it without sentimentality. No printed menus — a server reads you the day's options and you pick.

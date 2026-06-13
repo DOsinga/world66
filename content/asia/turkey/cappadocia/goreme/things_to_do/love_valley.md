@@ -9,6 +9,7 @@ latitude: 38.6607
 longitude: 34.8196
 sources:
   - https://en.wikipedia.org/wiki/Love_Valley,_Cappadocia
+score: 8.4
 ---
 
 Love Valley lies north of Göreme and contains some of the most striking fairy chimneys in all of Cappadocia — tall, narrow columns topped with darker basalt caps that have given the valley its suggestive name. The formations here are more dramatic and more densely packed than in most other valleys, and the floor is open enough to walk without losing the view.

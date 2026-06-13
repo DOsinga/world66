@@ -6,6 +6,7 @@ latitude: 44.0063
 longitude: 12.6478
 story: >
   Aquafan opened in 1984 and was one of the first major water parks in Italy. For the generation of Italians who grew up in the 1980s and 1990s, it has an almost totemic status — the name alone triggers specific summer memories in a way that few places manage.
+score: 7.8
 ---
 
 Aquafan is one of the largest water parks in Italy, occupying a substantial area on the northern edge of Riccione. It has more than 30 water slides and attractions ranging from gentle family rides to serious speed slides, plus wave pools, a lazy river, and dedicated areas for different age groups.

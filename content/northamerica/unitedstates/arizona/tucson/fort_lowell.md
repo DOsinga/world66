@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 6.4
 ---
 
 Fort Lowell was the US Army's largest outpost in southern Arizona during the Apache campaigns of the 1870s and 80s — Geronimo's pursuers were headquartered here. The fort was decommissioned in 1891 and the adobe walls slowly melted back into the desert.

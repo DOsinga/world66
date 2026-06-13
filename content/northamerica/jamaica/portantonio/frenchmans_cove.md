@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.1680
 longitude: -76.3640
+score: 8.4
 ---
 
 Frenchman's Cove is one of the most beautiful beaches in Jamaica — a small sheltered bay where a cold freshwater stream flows directly into the Caribbean through fine white sand. The combination of cold and warm water, the palms overhead, and the small scale of the cove makes it feel like a private discovery even when it has visitors.

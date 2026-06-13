@@ -8,6 +8,7 @@ snippet: Recreated 13th-century Tuscan castle housing a winery
 tags:
 - things_to_do
 - sight
+score: 6.2
 ---
 
 The Castello di Amorosa, completed in 2007 by owner Dario Sattui, is a faithful recreation of a thirteenth-century Tuscan castle — 121 rooms across eight levels, including a great hall with frescoes, a torture chamber, a chapel with Romanesque vaulting, and a working drawbridge. The construction used Italian hand-tools and imported materials wherever possible.

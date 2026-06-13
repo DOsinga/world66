@@ -8,6 +8,7 @@ tags:
   - seasonal
 latitude: 48.5000
 longitude: -119.6200
+score: 7.2
 ---
 
 From mid-July through October, roadside fruit stands are the best reason to slow down on any drive through the Okanogan Valley. The county is one of Washington's important apple-growing districts, and the stands along US-97 and the back roads sell fruit picked from the surrounding orchards: sweet cherries and apricots in July, peaches and nectarines in August, and apples — dozens of varieties, including older types rarely found in supermarkets — through the autumn.

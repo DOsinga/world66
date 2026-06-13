@@ -16,6 +16,7 @@ story: >
   level timber frames into an uneven overhang, without modern tools and while
   suspended above a cliff face, required a level of carpentry skill that even
   contemporary craftsmen would find formidable.
+score: 5.4
 ---
 
 Ganlu Cliff Temple is the most striking single building in the Taining scenic area: a multi-storey Buddhist complex wedged into a natural overhang in the Danxia cliffs, its wooden galleries cantilevering out over a significant drop and its roof tiles meeting the rock face above at an angle that looks architecturally impossible. The temple dates from 1146 and has been continuously maintained since then, with careful restoration work preserving the original construction methods.

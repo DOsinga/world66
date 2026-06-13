@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.6922
 longitude: 121.2782
+score: 7.4
 ---
 
 Xikou's main old street runs along the Shanxi River through the centre of town, lined with Qing and early Republican-era buildings in grey brick and stone that house tea shops, small restaurants, and stalls selling the town's famous thousand-layer cake (qianceng bing), a flaky sesame pastry that has been Xikou's signature food for centuries. The street is pedestrianised and maintains much of its original character, though visitor numbers mean it is rarely quiet.

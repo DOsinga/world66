@@ -14,6 +14,7 @@ story: >
   process takes thousands of years. The vegetation that colonises the grykes
   is highly specialised — shade-loving plants that could not survive on open
   ground — and includes several nationally rare species.
+score: 7.6
 ---
 
 Twistleton Scars is the limestone pavement that extends from the slopes of Ingleborough to the north of Ingleton, a stretch of open, almost lunar terrain quite different from the green dales and wooded gorges below. The pavement — sheets of grey rock divided into blocks by deep crevices called grykes — is one of the best examples in the Yorkshire Dales and largely unvisited compared to the more famous pavement above Malham Cove.

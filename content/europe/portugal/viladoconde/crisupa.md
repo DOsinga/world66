@@ -7,6 +7,7 @@ tags:
   - restaurant
 title: Crisupa
 type: poi
+score: 6.4
 ---
 
 A neighbourhood restaurant popular with locals on Avenida Bento Freitas, away from the tourist trail. The menu focuses on traditional Portuguese dishes — bacalhau in its various forms, grilled chicken, and fresh fish from the market. The kind of place where the menu changes with what is good that day.

@@ -11,6 +11,7 @@ story: During World War II, Papago Park held a prisoner-of-war camp for German U
   crews. In December 1944, twenty-five prisoners escaped through a hand-dug tunnel
   — the largest German POW escape on US soil. All were eventually recaptured in the
   surrounding desert.
+score: 7.9
 ---
 
 Papago Park is a 1,500-acre desert park straddling the Tempe-Phoenix-Scottsdale boundary, distinguished by its red sandstone buttes weathered into rounded shapes. The most famous, Hole-in-the-Rock, is a natural arch in a small butte that frames the sunset perfectly — a five-minute climb gets you there.

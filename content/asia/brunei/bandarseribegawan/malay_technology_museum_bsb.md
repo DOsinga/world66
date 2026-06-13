@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 4.8810
 longitude: 114.9155
+score: 7.1
 ---
 
 The Malay Technology Museum sits in the Kota Batu district, about 4 kilometres east of the city centre along the river, near the Brunei Museum. It covers traditional Malay technologies and crafts — bronze casting, boat building, weaving, fishing, and the production of traditional weapons — through dioramas and hands-on displays. The presentation style is old-fashioned by modern museum standards, but the content is genuinely interesting.

@@ -9,6 +9,7 @@ latitude: 52.9232
 longitude: -1.4755
 sources:
   - https://en.wikipedia.org/wiki/Quad_(arts_centre)
+score: 6.3
 ---
 
 QUAD is Derby's contemporary arts centre, opened in 2008 on the Market Place in a building designed by Alsop Architects. It combines a two-screen independent cinema, a gallery space for contemporary art exhibitions, and studio facilities for artists and filmmakers. The programme leans toward the experimental and international — you are more likely to find a retrospective of a Taiwanese director or a show of video art than mainstream releases.

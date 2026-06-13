@@ -10,6 +10,7 @@ tags:
   - restaurant
   - tremont
 neighbourhood: Tremont
+score: 7.0
 ---
 
 Lolita is Michael Symon's first restaurant — opened in 1997, briefly closed and reopened, and one of the longest-running fine-dining rooms in Cleveland. The menu is Mediterranean-leaning: wood-fired pizzas, hand-cut pasta, a strong vegetable section, and a few heavier mains (steak, the famous burger) that anchor the bill.

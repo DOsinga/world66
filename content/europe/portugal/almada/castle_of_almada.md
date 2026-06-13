@@ -17,6 +17,7 @@ story: >
   during the period of the Inquisition its cells held those condemned by religious courts.
   Today almost nothing remains above ground except fragments of wall, but the clifftop
   position explains instantly why it mattered.
+score: 6.5
 ---
 
 The ruins of the Castle of Almada occupy a commanding position on the cliff above Cacilhas, overlooking the point where the Tagus narrows before opening into the estuary. What survives is fragmentary — a section of medieval wall, some foundation stones, and the outlines of towers — but the site itself is worth visiting for the views rather than the archaeology. From here you look directly across to Lisbon: the old city climbing up its hills, the Cathedral visible, the waterfront laid out below.

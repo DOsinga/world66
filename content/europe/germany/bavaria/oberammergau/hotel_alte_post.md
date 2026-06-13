@@ -8,6 +8,7 @@ tags:
   - bar
   - cafe
 address: Dorfstrasse 19
+score: 5.9
 ---
 
 The Hotel Alte Post sits on the village's main pedestrian street, a Lüftlmalerei-painted facade with a wide terrace out front. The terrace is the place to spend a hot afternoon with a Helles and a plate of cheese, watching paragliders drift down from the Kolben.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The cathedral was completed in 1941, designed by Ion Trajanescu in a synthesis of Byzantine, Moldavian and Wallachian church architecture. Its 11 spires and the patterned glazed-tile roof are an explicit attempt to claim a Romanian national style. The Communist regime closed and partly damaged the cathedral after 1948, and it was a focus of protest in 1989 — the steps where mourners were shot still mark the connection between the cathedral and the revolution that began outside it."
+score: 8.7
 ---
 
 The Romanian Orthodox Metropolitan Cathedral dominates the southern end of Victory Square — at 83 metres the tallest church in Romania and the most distinctive building in Timisoara's skyline. The 11 spires are clad in glazed ceramic tiles in patterned greens and yellows, and the form combines Byzantine, Moldavian and Wallachian elements into a distinctly national interpretation of an Orthodox cathedral.

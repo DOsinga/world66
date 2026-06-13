@@ -13,6 +13,7 @@ story: >
   one. In an earthquake zone, a structure that can flex slightly in the upper
   storeys is more likely to survive than one that is rigid from base to tip.
   The pagoda has been standing since 1045, which suggests the approach worked.
+score: 7.8
 ---
 
 The Lingxiao Pagoda, standing beside the Tianning Temple in central Zhengding, is the most structurally unusual of the town's four pagodas. Built in 1045 during the reign of Emperor Renzong of the Northern Song dynasty, its lower four storeys are solid brick construction while the upper storeys shift to timber framing — a combination that was fashionable in the Song period but has survived in very few examples. The full height is 42 metres.

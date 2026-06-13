@@ -13,6 +13,7 @@ story: >
   were killed. The towers were subsequently rebuilt and now house commercial
   offices — a fact that makes them one of the more striking examples of
   post-conflict reconstruction in Belgrade.
+score: 6.6
 ---
 
 The Ušće Towers are twin 25-storey skyscrapers on the Mihajlo Pupin Boulevard, originally built in the 1960s as the headquarters of the Central Committee of the League of Communists of Yugoslavia. During the 1999 NATO bombing campaign, they were deliberately targeted and heavily damaged. The rebuilt towers now function as a commercial office complex, and their history is visible in the difference between the restored facade and the original structure.

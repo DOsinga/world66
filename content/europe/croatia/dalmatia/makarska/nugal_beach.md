@@ -8,6 +8,7 @@ tags:
 - sight
 title: Nugal Beach
 type: poi
+score: 8.5
 ---
 
 Nugal is a small pebble cove tucked between cliffs about a 25-minute walk south of Makarska along the coastal path. It is officially a naturist beach but in practice a mix, and the dramatic setting — high white-rock walls on three sides, a small waterfall coming down the cliff — is the main draw. The water is exceptionally clear because of the rocky surroundings.

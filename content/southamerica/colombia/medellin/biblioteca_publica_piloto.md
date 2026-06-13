@@ -8,6 +8,7 @@ tags:
 - museum
 title: Biblioteca Pública Piloto
 type: poi
+score: 7.8
 ---
 
 The city's principal public library, founded in 1952 by UNESCO as one of four pilot libraries worldwide and holding a photographic archive of more than 1.7 million images documenting twentieth-century Colombia. Permanent exhibits draw on the archive and rotate every few months. A serious cultural institution, free to enter, ten minutes' walk from Suramericana metro and easily combined with a wander through the Carlos E. Restrepo district.

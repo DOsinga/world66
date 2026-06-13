@@ -13,6 +13,7 @@ story: >
   karst limestone at a constant temperature of 37°C. The spa complex built around the
   springs in the 1970s is now one of the busiest in Bulgaria, still capitalising on
   the communist-era enthusiasm for hydrobalneotherapy.
+score: 6.5
 ---
 
 Devin is a small spa town at the western edge of the Rhodopes, on the River Vacha, known for its mineral springs and as the gateway to the Trigrad and Buynovo gorges. The town itself is modest, but the hot mineral springs that have given it its character attract Bulgarians seeking thermal bathing, and the spa hotels along the river offer relatively affordable hydrotherapy treatments.

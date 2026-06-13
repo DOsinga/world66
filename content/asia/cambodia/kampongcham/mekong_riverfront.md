@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Mekong Riverfront
 type: poi
+score: 7.1
 ---
 
 The kilometre or so of riverfront promenade along Preah Bat Sihanouk Boulevard is the heart of Kampong Cham. A continuous row of two-storey French colonial shophouses, painted yellow and pale blue, faces the broad brown Mekong; at dusk families gather on the grass strip between the road and the river to eat fried noodles, fly kites, and watch fishermen cast hand-nets from the bank.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.9
 ---
 
 Potenza's cathedral is dedicated to San Gerardo, the city's patron saint. The original Romanesque church on this site was largely destroyed by earthquake in the 18th century; what stands today is a late-18th-century neoclassical rebuild by Antonio Magri, completed under the patronage of the Bourbon kings.

@@ -14,6 +14,7 @@ story: >
   on much of the city. The summit of Rucu Pichincha itself (4,698 metres) is
   a two-hour hike from the cable car station — serious altitude, but achievable
   for fit walkers.
+score: 8.4
 ---
 
 The Teleférico is Quito's cable car, running from a station in the western suburbs up to the flanks of the Pichincha volcano at an altitude of around 4,100 metres. The ten-minute ride offers extraordinary views over the city — the full extent of Quito's ribbon development along the Andean valley, with volcanoes rising in every direction. At the top station, Cruz Loma, there is a restaurant and a series of walking trails on the páramo (high Andean grassland).

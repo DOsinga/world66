@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 23.8513
 longitude: 72.1196
+score: 8.2
 ---
 
 Opened by the Salvi family — the last weavers in Patan still producing genuine double-ikat Patola — this small museum on Patolawala street is more of a working studio than a conventional gallery. You see the looms, the dyed and tied warp threads laid out, and (if you are lucky) a weaver at work. A single sari can take six months to a year to complete; the maths of the double-ikat technique, where both warp and weft are pre-dyed in a resist pattern before weaving begins, is staggering when you see it being done.

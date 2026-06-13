@@ -6,6 +6,7 @@ longitude: -86.7780
 tags:
   - eating_out
   - restaurant
+score: 7.8
 ---
 
 Arnold's, on Eighth Avenue South, has been Nashville's flagship meat-and-three since 1982. The "meat-and-three" is a Southern institution: you queue down a steam line, pick one meat (roast beef, fried chicken, country-fried steak, catfish, cornmeal-fried green tomato), three sides (turnip greens, mac and cheese, fried okra, candied yams), and a slab of corn bread; the whole tray costs well under twenty dollars.

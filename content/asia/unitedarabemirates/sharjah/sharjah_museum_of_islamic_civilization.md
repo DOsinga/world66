@@ -10,6 +10,7 @@ story: >
   The museum is housed in the former Al Souq Al Markazi building, a traditional covered market that was restored and converted in 2008. Its distinctive blue and gold mosaic dome — visible from much of the waterfront — is now the museum's emblem. Inside, the collection covers 5,000 years of Islamic art, science, and intellectual achievement; one gallery dedicated to Islamic contributions to science documents discoveries in algebra, optics, astronomy, and medicine that were transmitted to medieval Europe through Arabic translations.
 sources:
   - https://en.wikipedia.org/wiki/Sharjah_Museum_of_Islamic_Civilization
+score: 8.8
 ---
 
 The Sharjah Museum of Islamic Civilization is among the most comprehensive displays of Islamic heritage in the world, occupying an entire converted souq building on the Corniche. Six main galleries trace the development of Islamic art, science, cartography, astronomy, and everyday life from the seventh century to the present, with objects drawn from across the Muslim world.

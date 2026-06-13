@@ -11,6 +11,7 @@ tags:
 - sight
 title: Familia Luzuriaga Cemetery
 type: poi
+score: 7.0
 ---
 
 A small private cemetery that ended up stranded in the middle of a road junction when the surrounding land was developed. The Luzuriaga family refused to sell, and the roads were simply built around it. The result is one of the more surreal sights in Bacolod — a walled family burial plot with cars streaming past on all sides. It's claimed to be the only cemetery of its kind in the world. Worth a stop for the photo and the story.

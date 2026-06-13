@@ -8,6 +8,7 @@ tags:
 latitude: 14.0345
 longitude: 35.3850
 story: "Gedaref's name comes from a herald's cry at the close of the market — 'Alli Gada-ye-rif,' meaning 'those who have finished their business should leave.' The market closed; the call stuck; the city grew up around it."
+score: 7.4
 ---
 
 The grain market is the reason Gedaref exists. Vast quantities of sorghum, sesame, sunflower seed, peanut, and cotton pass through here every year, brokered between the farmers of the Butana plains and buyers from Khartoum, Port Sudan, and beyond. The trade gives the city its rhythm — busy in the harvest months from late autumn through winter, quieter when the rains come.

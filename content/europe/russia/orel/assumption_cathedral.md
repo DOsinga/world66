@@ -10,6 +10,7 @@ story: >
   The original wooden church on this site was one of the first structures built when Ivan the Terrible founded the Oryol fort in 1564. The current stone cathedral dates from the early 19th century, replacing a succession of earlier buildings. It survived the Soviet period intact, when many Russian churches were demolished or converted to warehouses.
 sources:
   - https://en.wikipedia.org/wiki/Oryol
+score: 7.0
 ---
 
 The Assumption Cathedral is the most prominent Orthodox church in central Oryol, its blue domes visible from across the river. The white stone exterior is typical of early 19th-century provincial Russian religious architecture — classical proportions, restrained decoration — and the interior retains its original iconostasis and frescoes. Services are held daily and the cathedral is an active place of worship.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.5974
 longitude: 36.5889
+score: 6.5
 ---
 
 The Holy Trinity Cathedral (Svyato-Troitsky Sobor) is Belgorod's most important surviving pre-revolutionary building, a functioning Orthodox cathedral with origins in the 19th century. The cathedral was one of the few religious buildings in the city to survive both the German occupation and Soviet anti-religious policy in a condition fit for restoration, and it serves today as the city's main Orthodox church.

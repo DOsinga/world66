@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "The largest recorded Black Sun over the Ribe marshes — some 1.5 million starlings in a single coordinated flock — was photographed in March 2018, the day after a cold snap brought a sudden mass migration from Germany. The phenomenon is unpredictable and was almost absent for several springs in the 2020s as starling numbers declined."
+score: 8.5
 ---
 
 Twice a year, in spring (mid-March to mid-April) and autumn (mid-September to mid-October), enormous flocks of **starlings** — often a million birds or more — gather over the salt marshes south and west of Ribe to roost in the reedbeds. At dusk they perform spectacular coordinated murmurations against the setting sun, hence the name **Sort Sol**, "Black Sun."

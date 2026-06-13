@@ -8,6 +8,7 @@ tags:
 latitude: 29.1000
 longitude: 75.9700
 snippet: "Crumbling early-19th-century mansion attributed to the Irish adventurer George Thomas"
+score: 5.7
 ---
 
 The Sheikhpura Kothi is a half-ruined two-storey mansion just south of Asigarh Fort, traditionally identified as the residence of George Thomas during his short rule of Hansi at the turn of the nineteenth century. The construction — brick, lime plaster, deep verandahs and a flat roof — is typical of the late-Mughal Indo-European hybrid style of the period.

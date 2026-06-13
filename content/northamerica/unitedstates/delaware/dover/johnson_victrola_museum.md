@@ -8,6 +8,7 @@ latitude: 39.1584
 longitude: -75.5247
 story: >
   Eldridge Reeves Johnson was born in Wilmington but made his fortune in Camden, New Jersey, where he founded the Victor Talking Machine Company. His Victrola — the phonograph with the horn enclosed inside the cabinet — transformed recorded music from a novelty into a piece of household furniture. The "His Master's Voice" terrier listening to a phonograph horn, one of the most recognizable logos in commercial history, was a Victor trademark.
+score: 7.5
 ---
 
 The Johnson Victrola Museum on Bank Street is devoted to Eldridge Reeves Johnson, the Delaware native who invented the Victrola and founded the Victor Talking Machine Company in 1901. The museum holds an impressive collection of early phonographs, Victrolas in every size and cabinet style, original recordings on 78 rpm discs, and memorabilia from the early recording industry.

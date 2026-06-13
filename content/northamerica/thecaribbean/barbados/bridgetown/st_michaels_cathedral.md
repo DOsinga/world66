@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Cathedral_Church_of_Saint_Michael_and_All_Angels
 story: >
   George Washington attended services here in 1751 during the only time he ever left North America, when his brother Lawrence brought him to Barbados hoping the tropical climate would ease his tuberculosis. A plaque inside commemorates the visit — making this the only place outside the United States where Washington is known to have worshipped.
+score: 6.9
 ---
 
 St. Michael's Cathedral is the seat of the Anglican Bishop of Barbados and the oldest Anglican church on the island. The current building was constructed between 1784 and 1786, replacing an earlier wooden structure that dated from the 1660s. It was elevated to cathedral status in 1825. The building is coral stone, whitewashed, with a simple tower — handsome rather than grand.

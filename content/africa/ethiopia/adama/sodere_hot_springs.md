@@ -8,6 +8,7 @@ tags:
   - sight
   - swimming
   - wildlife
+score: 7.5
 ---
 
 Twenty-five kilometres southeast of Adama, Sodere has been the weekend escape of choice for Addis Ababa residents since it was developed in the 1960s. The resort is built around natural hot spring pools fed by geothermal waters from deep in the Rift, and the setting is startlingly lush — the Awash River runs nearby and the riverine vegetation along its banks is dense and green compared to the dry scrub surrounding it. The water in the pools is warm enough to be genuinely soothing but not scalding, and there are both outdoor pools and smaller pools under shade structures. On a Friday afternoon the place fills rapidly with families and groups from the capital.

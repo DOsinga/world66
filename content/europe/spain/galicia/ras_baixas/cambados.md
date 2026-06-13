@@ -10,6 +10,7 @@ tags:
 - sight
 title: Cambados
 type: poi
+score: 8.0
 ---
 
 Cambados is the unofficial capital of the Albariño wine region — a small town

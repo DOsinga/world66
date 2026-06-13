@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 44.4730
 longitude: -72.6950
+score: 8.3
 ---
 
 The Stowe Recreation Path is a 5.3-mile paved trail that runs along the West Branch of the Little River from the village green out toward the mountains, passing through some of the most scenic farmland and mountain views in Stowe. It is the social spine of the village — in summer it fills with cyclists, rollerbladers, walkers, and dog-walkers at all hours.

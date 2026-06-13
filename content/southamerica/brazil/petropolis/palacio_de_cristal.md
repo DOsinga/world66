@@ -10,6 +10,7 @@ story: >
   in 1884. Princess Isabel intended it as a greenhouse and flower exhibition hall. On 13 May 1888,
   shortly after it opened, the same Princess Isabel signed the Golden Law abolishing slavery in
   Brazil — an act celebrated in Petrópolis with a grand ball held in this very building.
+score: 7.2
 ---
 
 The Palácio de Cristal is a lovely piece of Victorian engineering — a cast-iron and glass pavilion prefabricated in France and assembled in Petrópolis as a gift from Count d'Eu to Princess Isabel. The structure is delicate and elegant, more Kew Gardens than palace, and sits in a small garden that doubles as an outdoor events space.

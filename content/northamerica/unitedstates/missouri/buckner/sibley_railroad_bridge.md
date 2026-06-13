@@ -10,6 +10,7 @@ latitude: 39.1801
 longitude: -94.1793
 sources:
   - https://en.wikipedia.org/wiki/Sibley_Railroad_Bridge
+score: 5.8
 ---
 
 The Sibley Railroad Bridge carries rail traffic across the Missouri River near Buckner and Sibley. It is not a tourist attraction in the formal sense, but it is a strong piece of transportation scenery in a region shaped by river and rail corridors.

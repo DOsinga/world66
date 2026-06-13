@@ -13,6 +13,7 @@ story: >
   The squeaking is caused by the unusually spherical shape of the quartz grains — they roll
   against each other rather than sliding, creating a high-pitched sound. Only a handful of beaches
   in the world have sand with this property. Try it on a dry day; wet sand is silent.
+score: 7.5
 ---
 
 Porth Oer is a small, sheltered bay on the north coast of the peninsula, owned by the National Trust. Its fame rests on a geological quirk: the dry sand squeaks loudly underfoot when you walk on it, a sound like a slow finger drawn across a balloon. Children discover this within about thirty seconds of arriving and then spend the next hour deliberately stomping around.

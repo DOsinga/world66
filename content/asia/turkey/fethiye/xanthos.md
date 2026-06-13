@@ -8,6 +8,7 @@ snippet: Capital of ancient Lycia, twice destroyed rather than surrendered, now 
 latitude: 36.3528
 longitude: 29.3186
 story: "Xanthos is renowned in ancient history for two mass suicides. When besieged by the Persian general Harpagos in 540 BC, the Xanthians burned their own city and fought to the last man. The second time, against Brutus in 42 BC, the entire population killed themselves rather than submit. Their stubbornness became proverbial in the ancient world."
+score: 8.9
 ---
 
 Xanthos was the capital and most important city of ancient Lycia, set on a dramatic bluff above the Esen River. It is a UNESCO World Heritage Site and one of the most significant archaeological sites on the Turkish coast, though many of its finest reliefs and sculptures were removed by the British explorer Sir Charles Fellows in 1842 and are now in the British Museum.

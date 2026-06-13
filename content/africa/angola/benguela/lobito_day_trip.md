@@ -8,6 +8,7 @@ latitude: -12.365
 longitude: 13.546
 story: >
   Lobito's Restinga — a narrow sand spit that stretches across the bay — was the original site of the colonial settlement, built on this precarious strip of land because the protected bay behind it was the finest natural harbour on the Angolan coast. The railway terminal at the tip of the Restinga was once among the busiest export points in southern Africa.
+score: 7.5
 ---
 
 [Lobito](/africa/angola/lobito), just 30 kilometres north of Benguela, is worth a half-day excursion. The city has a better natural harbour than Benguela — a wide bay enclosed by the long Restinga sandbar — and the old colonial waterfront retains some attractive buildings. The two cities are close enough to visit together in a single day.

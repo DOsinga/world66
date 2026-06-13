@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -3.37
 longitude: 36.689
+score: 5.5
 ---
 
 Big Bite, on Sokoine Road, is one of Arusha's most reliable lunch stops — a local fast-food operation serving nyama choma (grilled meat), chips, and cold drinks at very reasonable prices. It is the kind of place where Arusha residents actually eat, not just tourists, which keeps the food honest and the portions substantial.

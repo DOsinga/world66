@@ -8,6 +8,7 @@ tags:
 - nature
 title: Te Werahi Beach
 type: poi
+score: 8.6
 ---
 
 The Tasman-side beach below the cape is wild, exposed, and rarely visited. The Te Werahi walking track from the lighthouse car park descends a long ridge through scrub to the sand, a return walk of around three hours that ranks among the most rewarding short hikes in the far north.

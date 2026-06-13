@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.45
 longitude: 6.95
+score: 8.2
 ---
 
 The Gorges du Doubs, about 20 km north of Porrentruy, are where the Doubs river cuts through the Jura limestone in a series of dramatic gorges and meanders along the Franco-Swiss border. The scenery is outstanding — towering cliffs, green water, and the extraordinary Saut du Doubs waterfall where the river drops 27 metres into a basin surrounded by forest.

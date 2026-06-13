@@ -10,6 +10,7 @@ story: >
   The iron cage suspended on the tower's exterior was used as a public prison from the 13th century onward. Criminals and heretics were locked inside and left exposed to the elements — visible to everyone passing through the piazza. The last recorded use was in 1391, when a man convicted of fraud was displayed for three days. The cage still hangs there, now empty but intact.
 sources:
   - https://en.wikipedia.org/wiki/Torre_della_Gabbia
+score: 5.8
 ---
 
 The Torre della Gabbia (Tower of the Cage) rises above the Piazza delle Erbe next to the Rotonda di San Lorenzo, and is one of Mantua's most unsettling medieval relics. Built in the 13th century, the tower derives its name from the iron cage suspended near its summit — a form of public punishment in which convicted criminals were exposed to the elements and the scrutiny of the market crowd below.

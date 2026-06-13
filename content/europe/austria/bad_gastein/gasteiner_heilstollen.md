@@ -14,6 +14,7 @@ story: >
   expense. The concentration of radon inside the tunnel is carefully
   regulated; visitors wear electronic dosimeters and exposure is limited to
   prevent harmful doses.
+score: 7.4
 ---
 
 The **Gasteiner Heilstollen** is the radon therapy mine at Böckstein, 5 km up the valley from Bad Gastein. Visitors are taken by small train deep into the mountain, where the combination of warm temperatures (around 41°C), high humidity, and mildly radioactive radon gas is used to treat rheumatic and respiratory conditions.

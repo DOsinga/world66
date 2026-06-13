@@ -8,6 +8,7 @@ latitude: 31.6200
 longitude: 74.8765
 story: >
   The Akal Takht was severely damaged during Operation Blue Star in 1984, when Indian Army tanks destroyed much of the structure in the course of flushing out militants. The Golden Temple itself was relatively spared, but the Akal Takht — where the militants had stored their ammunition — bore the brunt of the assault. The building was rebuilt by the Indian government, but Sikh religious leaders refused to use it, insisting that only the Sikh community itself could restore their most sacred temporal seat. The government's version was demolished and rebuilt by kar seva (voluntary community labor) between 1984 and 1999.
+score: 8.1
 ---
 
 The Akal Takht — the "Timeless Throne" — is the highest temporal seat of Sikh authority, located directly opposite the entrance to the Harmandir Sahib within the Golden Temple complex. Founded by Guru Hargobind in 1606, it is where the Sikh governing council meets and where declarations affecting the global Sikh community are issued.

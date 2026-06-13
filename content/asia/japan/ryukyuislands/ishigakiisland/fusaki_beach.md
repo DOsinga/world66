@@ -8,6 +8,7 @@ tags:
   - beach
 latitude: 24.4157
 longitude: 124.1447
+score: 7.2
 ---
 
 Fusaki is one of Ishigaki's most popular beaches, tucked on the western coast where the island curves around to face the open channel. The water is clear and calm, snorkelling is good in the shallows, and the orientation means you get some of the most spectacular sunsets in the Yaeyama chain — the outer islands of Kohama and Iriomote silhouetted against the sky as the sun drops.

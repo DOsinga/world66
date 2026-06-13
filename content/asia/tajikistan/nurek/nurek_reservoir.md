@@ -7,6 +7,7 @@ tags:
 - sight
 title: Nurek Reservoir
 type: poi
+score: 7.8
 ---
 
 The reservoir behind the dam stretches some 70 km up the old Vakhsh valley and is the most striking feature of the landscape here. The water is an intense turquoise — the result of glacial sediment carried down from the Pamirs — and contrasts vividly with the dry brown of the surrounding hills.

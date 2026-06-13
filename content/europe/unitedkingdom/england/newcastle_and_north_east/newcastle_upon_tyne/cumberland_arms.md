@@ -8,6 +8,7 @@ tags:
 - pub
 - ouseburn
 snippet: Folk pub above the Ouseburn with live music most nights
+score: 7.5
 ---
 
 A 19th-century corner pub on a steep lane above the burn, the headquarters of the Tyneside folk and traditional-music scene. Live music in the upstairs room most nights — folk, blues, country, occasional jazz — and a beer garden looking down the valley to the viaducts. The kitchen does pies, stews, and Sunday roasts.

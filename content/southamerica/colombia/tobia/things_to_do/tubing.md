@@ -1,6 +1,7 @@
 ---
 title: "Tubing"
 type: poi
+score: 6.1
 ---
 
 For visitors who want to be in the river without committing to the full intensity of a rafting trip, tubing offers a more relaxed alternative. Participants float the calmer sections of the Río Negro on large inflatable inner tubes, drifting through stretches where the current is gentle, the water is clear and the canyon scenery passes by at a pace that actually allows you to appreciate it. The occasional small rapid adds a burst of speed and a splash without the technical demands of a rafted Class IV drop.

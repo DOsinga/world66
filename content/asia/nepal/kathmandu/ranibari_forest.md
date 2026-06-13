@@ -14,6 +14,7 @@ story: >
   specific forest areas — Ranibari is one of the success stories. The bird count here
   exceeds 100 species within a patch of urban woodland, including raptors that would not
   survive in most cities of comparable density.
+score: 5.9
 ---
 
 Ranibari Community Forest is a 63-hectare patch of mixed forest in northern Kathmandu, maintained by the local ward community and open to visitors for a small fee. It is the most accessible natural space within the city and a remarkable counterpoint to the built environment a few hundred metres away.

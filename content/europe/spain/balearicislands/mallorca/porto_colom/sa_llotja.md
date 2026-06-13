@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.4
 ---
 
 A small, low-key seafood restaurant in a converted boathouse on the working side of the harbour. The menu is short and changes daily according to what the local boats have brought in: grilled fish by weight, fideuà (a Catalan-style noodle paella with seafood), arròs brut (a rustic Mallorcan rice cooked in fish stock), and a few starters.

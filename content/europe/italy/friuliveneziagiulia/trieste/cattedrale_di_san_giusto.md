@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Cattedrale di San Giusto
 type: poi
+score: 8.7
 ---
 
 The cathedral on the San Giusto hill is the most important church in Trieste — and one of the most unusual in Italy. It is actually two separate Romanesque basilicas that were merged into one in the 14th century, giving it an asymmetrical facade and a peculiar dual-nave interior that rewards close inspection. The campanile incorporates fragments of a Roman temple, and Roman ruins are visible in the square outside.

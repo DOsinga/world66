@@ -14,6 +14,7 @@ story: >
   bay. The Spit was rebuilt, slightly shorter than before, on the new ground level. The 
   earthquake is still within living memory of some Homer residents; the town has seismic 
   sensors and evacuation plans maintained with some urgency.
+score: 8.4
 ---
 
 The Homer Spit is a 7-kilometre gravel bar extending from the southern end of Homer out into Kachemak Bay, and it is the town's social and commercial centre. Along it you find the small boat harbour and marina, the ferry terminal for Seldovia, seafood restaurants and processing plants, fish markets, art galleries, camping sites, charter fishing operations, and the Salty Dawg Saloon.

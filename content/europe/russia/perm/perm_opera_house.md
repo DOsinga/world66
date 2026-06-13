@@ -13,6 +13,7 @@ story: >
   The city's tradition of producing outstanding dancers and choreographers
   continues to this day — Perm's ballet school is one of the most
   competitive in Russia, attracting students from across the country.
+score: 7.8
 ---
 
 Perm's opera and ballet theatre is one of the finest in Russia outside Moscow and St Petersburg. The city has cultivated a strong performing arts tradition since the 19th century, and the theatre today continues to stage high-quality productions year-round. Ballet is the main draw — the company has a particularly strong reputation for classical Russian repertoire.

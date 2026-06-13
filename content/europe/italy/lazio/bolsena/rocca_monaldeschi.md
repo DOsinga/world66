@@ -7,6 +7,7 @@ tags:
 - museum
 title: Rocca Monaldeschi della Cervara
 type: poi
+score: 8.0
 ---
 
 The Rocca Monaldeschi della Cervara is a thirteenth-century fortress that dominates the hilltop medieval quarter above the lake shore. The castle was built to control the Via Cassia, the ancient Roman road running north-south through Lazio, and served as the seat of local power through the medieval period. Today it houses the Museo Territoriale del Lago di Bolsena.

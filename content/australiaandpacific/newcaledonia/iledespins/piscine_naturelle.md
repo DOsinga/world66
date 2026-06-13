@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Piscine Naturelle (Natural Pool)
 type: poi
+score: 9.5
 ---
 
 The island's most celebrated attraction, on the northeast coast at Oro Bay. A section of the outer reef creates a large, sheltered pool of brilliant turquoise water teeming with small colourful fish. The snorkelling is outstanding: visibility is exceptional, the fish are plentiful, and the setting — surrounded by araucaria pines and white sand — is hard to beat.

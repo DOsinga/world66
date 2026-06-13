@@ -9,6 +9,7 @@ tags:
   - sight
   - diving
 snippet: Zanzibar's forgotten sibling — wilder, greener, and with world-class diving
+score: 8.7
 ---
 
 Pemba is the other main island of the Zanzibar Archipelago, lying about 80 km north of Unguja, and it is everything that Unguja is not: hilly, densely vegetated, nearly traffic-free, and almost entirely without mass tourism. The island's interior is a landscape of clove trees, banana plantations, and steep valleys running down to deeply indented bays. It receives more rain than Unguja and stays greener year-round.

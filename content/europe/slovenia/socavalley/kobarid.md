@@ -15,6 +15,7 @@ story: >
   *A Farewell to Arms* is partly set in the chaos of this retreat.
 sources:
   - https://en.wikipedia.org/wiki/Kobarid
+score: 7.9
 ---
 
 Kobarid is a small town in the lower Soča Valley with a large wartime reputation. As Caporetto, it was the site of one of the most decisive battles of the First World War. Today it is a charming market town with an excellent museum, a shaded main square, and several good restaurants — including Hiša Franko, run by chef Ana Roš, which has earned international recognition for its approach to Slovenian mountain cooking.

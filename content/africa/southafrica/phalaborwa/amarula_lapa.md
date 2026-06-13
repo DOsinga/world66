@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -23.9423
 longitude: 31.1297
+score: 5.9
 ---
 
 The Amarula Lapa is the visitor centre for Amarula, the cream liqueur made from the fruit of the marula tree. The marula is native to the Limpopo region and carries a particular association with elephants — the animals travel long distances to eat the ripe fruit, which ferments after eating and may produce a mildly intoxicating effect, though the legend of drunk elephants has been somewhat embellished over the years.

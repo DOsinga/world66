@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.6426
 longitude: -106.3900
+score: 7.4
 ---
 
 The Colorado Ski and Snowboard Museum, located in Vail Village on South Frontage Road, traces the history of skiing in Colorado from its Norwegian immigrant origins in the mining camps of the 1880s to the present-day resort industry. The collection is surprisingly engaging — vintage skis, boots, and bindings chart the rapid evolution of equipment, and photographs and film footage capture early racing and the development of the major resorts.

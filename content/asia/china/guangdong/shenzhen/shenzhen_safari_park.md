@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.6617
 longitude: 113.9011
+score: 5.0
 ---
 
 Shenzhen Safari Park is one of the largest safari-style wildlife parks in China, located in Guangming District in the northern part of Shenzhen. Unlike a conventional zoo, much of the park is designed as a drive-through experience — visitors board safari buses that move through large enclosures where the animals roam relatively freely. Lions, tigers, bears, giraffes, and zebras are among the residents of the drive-through sections.

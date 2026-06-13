@@ -9,6 +9,7 @@ latitude: -4.847
 longitude: 38.343
 sources:
   - https://en.wikipedia.org/wiki/Soni_Falls
+score: 6.4
 ---
 
 Soni Falls drops off the lower escarpment of the Western Usambaras near the small town of Soni, about 20 kilometres below Lushoto on the road down to Mombo. The falls are visible from the main road but are best reached by a short walk through the surrounding farmland. The volume of water varies dramatically with the season — impressive in the long rains (March to May), reduced to a pleasant cascade in the dry season.

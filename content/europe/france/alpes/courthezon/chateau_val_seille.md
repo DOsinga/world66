@@ -7,6 +7,7 @@ tags:
 latitude: 44.0902
 longitude: 4.8834
 snippet: 19th-century chateau housing the town hall, set in formal parkland
+score: 7.8
 ---
 
 Château Val Seille is an ornate mid-19th century manor that has served as Courthézon's town hall since 1956. Built in 1868 for a wealthy maritime entrepreneur, it is sometimes called the Petit Versailles Provençal for its formal gardens, which include ornamental pools, grottos, fountains, a rose garden, centennial trees and an aviary.

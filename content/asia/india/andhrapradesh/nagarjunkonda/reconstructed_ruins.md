@@ -10,6 +10,7 @@ story: >
   The ruins on the island include a reconstructed maha-chaitya (great stupa) whose original was built during the reign of the Ikshvaku dynasty king Chamtamula in the late 2nd century AD. The stupa was dismantled and reassembled stone by stone on the hilltop before the valley flooded — a remarkable act of archaeological salvage.
 sources:
   - https://en.wikipedia.org/wiki/Nagarjunakonda
+score: 8.6
 ---
 
 The hilltop of Nagarjunakonda island is dotted with reconstructed ruins relocated from the valley floor before the reservoir filled. These include the remains of several Buddhist monasteries (viharas), a great stupa (maha-chaitya), and an apsidal temple — all carefully dismantled and rebuilt on higher ground by the Archaeological Survey of India in the early 1960s.

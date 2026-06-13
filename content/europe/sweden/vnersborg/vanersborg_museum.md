@@ -9,6 +9,7 @@ title: Vänersborg Museum
 type: poi
 story: >
   The African collection here — thousands of ethnographic objects and natural history specimens — was amassed almost single-handedly by Gustaf Nils Adelsköld, a 19th-century canal engineer who collected obsessively during his travels. The sheer breadth of what one man brought back to a small Swedish town is quietly astonishing.
+score: 7.4
 ---
 
 Vänersborg Museum holds a collection that is wildly out of proportion to the size of the town. It is best known for its African collection, one of the largest of its kind in Sweden, built up largely through the donations of local travellers and administrators in the 19th century. The natural history section is equally strong, with extensive zoological and geological specimens that reflect the extraordinary biodiversity of the Lake Vänern region.

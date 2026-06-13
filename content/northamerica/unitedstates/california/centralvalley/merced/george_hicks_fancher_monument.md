@@ -7,6 +7,7 @@ tags:
 latitude: 37.3023
 longitude: -120.4830
 story: "The Fancher Monument, which towers over a Merced park at 36 feet, commemorates a figure most Americans have never heard of: George Hicks Fancher, a 19th-century California pioneer who donated land for several public institutions in the city. The granite obelisk, erected in the 1870s, is substantially larger than the subject's historical significance would seem to warrant — a very Californian expression of civic boosterism."
+score: 4.9
 ---
 
 The George Hicks Fancher Monument stands in a small park in central Merced: a 36-foot granite obelisk erected in the 1870s to commemorate an early California settler and philanthropist. It is one of the taller monuments in the Central Valley and stands out dramatically in a town of modest scale.

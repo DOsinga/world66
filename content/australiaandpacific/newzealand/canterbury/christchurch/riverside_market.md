@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -43.5330
 longitude: 172.6378
+score: 6.6
 ---
 
 Riverside Market opened in 2019 as a permanent food hall on the banks of the Avon, and it has become the most reliable place in central Christchurch to eat and browse well. The two-level building holds around forty stalls and small businesses including fishmongers, cheesemongers, produce vendors, bakers, and a rotating cast of prepared food outlets ranging from good dumplings to wood-fired pizza to Vietnamese bánh mì. There is also a craft beer bar and a wine merchant.

@@ -7,6 +7,7 @@ tags:
 snippet: "Limestone cliffs and lighthouse walks on the cape south of Altea"
 latitude: 38.5700
 longitude: -0.0450
+score: 8.0
 ---
 
 Serra Gelada is the dramatic limestone headland immediately south of Altea, protecting the town's bay and forming a natural boundary with the resort sprawl of [Benidorm](/europe/spain/spanishcostas/benidorm). The park covers the cape and its clifftops, rising to sheer drops over the Mediterranean and offering views back along the coast to Altea's blue-domed church and north toward Calpe's Peñón de Ifach.

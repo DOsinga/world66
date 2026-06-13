@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.9725
 longitude: 11.3256
+score: 7.2
 ---
 
 This small chapel in the historical cemetery on the Poseckschen Garten was built in 1860 as a funerary chapel for Grand Duchess Maria Pavlovna of Russia, who had married into the Saxe-Weimar dynasty in 1804. The onion dome and Byzantine-style interior are startlingly out of place in central Thuringia, which is precisely what makes it worth a detour.

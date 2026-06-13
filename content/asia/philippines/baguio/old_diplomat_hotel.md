@@ -9,6 +9,7 @@ tags:
 - haunted
 title: Old Diplomat Hotel
 type: poi
+score: 7.4
 ---
 
 A pale, ruined building near the top of Dominican Hill, the Diplomat was originally a Spanish-era seminary built in 1913 and used by the Dominicans as a vacation retreat. The Japanese occupied it during the war, and dozens of religious workers and refugees were tortured and killed on the site — a history the locals have not forgotten.

@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Vernazza was nearly destroyed by a catastrophic flash flood and mudslide in October 2011, which buried the main piazza under three metres of mud. The village was cleaned up by residents, volunteers, and the Italian army over two years and has since rebuilt almost completely — a fact that residents find as remarkable as the village itself."
+score: 9.1
 ---
 
 Vernazza is widely considered the most beautiful of the five Cinque Terre villages, and for good reason. A small natural harbour curves into a headland, the main piazza (Piazza Marconi) faces the sea, coloured houses stack up the hillside in yellow and terracotta, and the 15th-century Doria Castle sits on the promontory above. The village has no real beach, but the flat rocks below the castle are popular for swimming.

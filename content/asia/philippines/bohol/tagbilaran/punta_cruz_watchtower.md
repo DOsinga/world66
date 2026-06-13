@@ -8,6 +8,7 @@ latitude: 9.7428
 longitude: 123.8144
 story: >
   The Punta Cruz watchtower was built in the 17th century as part of a network of watchtowers along the Bohol coastline to give warning of Moro raids from Mindanao. The raiders came by fast vintas and could beach, plunder, and be gone within hours — the watchtower network was the only early-warning system available. Many villages were raided repeatedly despite the towers.
+score: 7.4
 ---
 
 The Punta Cruz Watchtower stands on a headland 15 km north of Tagbilaran near the town of Maribojoc, jutting into the Bohol Strait. It is one of the best-preserved Spanish-era watchtowers in the Philippines — a triangular stone structure on the very tip of a small peninsula, surrounded by water on three sides.

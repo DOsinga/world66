@@ -8,6 +8,7 @@ tags:
   - eating_out
   - sight
   - market
+score: 6.4
 ---
 
 The Gaozhuang Xishuangjing area on the south bank of the Lancang River has become Jinghong's main after-dark draw — a sprawling complex of Dai-style pavilions, food stalls, bars, and small shops that fills up every evening from around 7 p.m. The food court covers most of the local cuisines you would want to try (grilled fish, pineapple rice, papaya salad, lemongrass chicken) and the prices are reasonable.

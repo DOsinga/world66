@@ -9,6 +9,7 @@ tags:
 latitude: 44.8336
 longitude: -0.5738
 snippet: One of the largest synagogues in France, reflecting Bordeaux's historic Sephardic Jewish community
+score: 7.4
 ---
 
 The Grande Synagogue was built in 1882 in the Moorish Revival style, a grand gesture that reflected the longstanding importance of Bordeaux's Jewish community. Sephardic Jews — expelled from Spain and Portugal in the late 15th century — settled in Bordeaux in large numbers and played a significant role in the city's commerce and intellectual life through the 18th and 19th centuries. Montesquieu, the Enlightenment philosopher, drew on his observations of the community in writing about tolerance and civil society.

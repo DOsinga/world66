@@ -10,6 +10,7 @@ story: >
   Emilio Bacardí, the son of rum magnate Facundo Bacardí, was imprisoned three times by Spanish colonial authorities for his role in the independence movement. He used his wealth to build one of Cuba's first public museums, filling it with Egyptian mummies, pre-Columbian artefacts, colonial paintings, and independence-era documents — a personal vision of what Cuban culture should preserve.
 sources:
   - https://en.wikipedia.org/wiki/Museo_Municipal_Emilio_Bacard%C3%AD_Moreau
+score: 8.3
 ---
 
 The oldest museum in Cuba, founded in 1899 by independence fighter and Bacardí rum heir Emilio Bacardí Moreau. The collection is eccentric and wonderful — Egyptian mummies, African artefacts, arms and armour from the independence wars, colonial paintings, pre-Columbian pieces, and Bacardí's personal collection of curiosities from around the world. It reflects the mind of a man who believed that a new Cuba needed its own cultural institution.

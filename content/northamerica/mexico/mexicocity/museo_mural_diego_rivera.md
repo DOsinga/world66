@@ -7,6 +7,7 @@ neighbourhood: Centro Histórico
 address: "Balderas y Colón"
 latitude: 19.4361
 longitude: -99.1456
+score: 8.2
 ---
 
 This small museum exists for one thing: Diego Rivera's mural "Dream of a Sunday Afternoon in the Alameda Central." Painted in 1947 for the dining room of the Hotel del Prado on the south side of the Alameda, the mural shows a tightly packed promenade scene with Frida Kahlo, Posada's skeleton Catrina, and Rivera himself as a small boy holding her hand — alongside hundreds of historical figures from across Mexican history.

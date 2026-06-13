@@ -13,6 +13,7 @@ story: >
   every building in it being post-1851.
 sources:
   - https://en.wikipedia.org/wiki/Traunstein
+score: 7.7
 ---
 
 The Stadtplatz is the heart of Traunstein — an elongated Bavarian market square lined with painted three- and four-storey merchant houses, their facades in the creamy pastels typical of the Chiemgau region. The square escaped the 19th-century industrialisation that obliterated the centres of larger Bavarian towns, and its scale and proportions feel genuinely medieval even if the buildings are mostly Second Empire reconstructions.

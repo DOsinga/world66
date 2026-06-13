@@ -4,6 +4,7 @@ type: poi
 latitude: 43.2419
 longitude: 17.0772
 tags: [things_to_do, sight]
+score: 5.8
 ---
 
 The small harbour at the southern end of the seafront is where, in September 1942, the Yugoslav Partisan Navy was officially founded — the event commemorated by the Seagull's Wings monument a few hundred metres along. Today it is a working harbour for small fishing boats and the occasional excursion vessel running day trips out to Brac and Hvar.

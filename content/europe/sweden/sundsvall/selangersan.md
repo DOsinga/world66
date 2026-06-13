@@ -4,6 +4,7 @@ type: poi
 tags: [park]
 latitude: 62.3931
 longitude: 17.3151
+score: 6.6
 ---
 
 The small river that runs through the southern edge of Stenstan, the Selångersån was historically the city's seaport entry — Viking-era boats could row up it from the Gulf. Today it's a peaceful walking corridor with bike paths along both banks, leading out to Selånger and the modest ruin of Selångers gamla kyrka.

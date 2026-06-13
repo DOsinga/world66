@@ -9,6 +9,7 @@ tags:
   - beach
 snippet: "The long, palm-backed beach that gives the town its character."
 story: "In June 2000 the cargo ship River Princess ran aground a few hundred metres off Candolim Beach. The rusting hulk sat marooned in the surf for over a decade before salvage crews finally cut it up and removed it in 2012."
+score: 8.2
 ---
 
 Candolim Beach runs for several kilometres of soft sand, broader and quieter than Calangute to the north. The water is generally calm and the slope gentle, which makes it a good swimming beach for much of the year, although the monsoon swell from June to September can be vicious.

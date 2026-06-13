@@ -14,6 +14,7 @@ story: >
   young Gojong married Queen Myeongseong (later Empress Myeongseong) in 1866.
   Queen Myeongseong was later assassinated by Japanese agents in 1895, one of
   the most shocking political acts of the late Joseon period.
+score: 7.1
 ---
 
 Unhyeongung is a small palace complex in Jongno that served as the private residence of the Heungseon Daewongun, the powerful regent who ruled Korea in place of his young son King Gojong in the 1860s and 1870s. The site is less grand than the five official palaces but more intimate, with restored rooms furnished as they were in the mid-nineteenth century and a courtyard garden that is particularly attractive in spring.

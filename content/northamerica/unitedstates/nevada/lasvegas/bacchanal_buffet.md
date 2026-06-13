@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 - center_strip
+score: 7.0
 ---
 
 The Bacchanal Buffet at Caesars Palace consistently tops the Strip-buffet rankings — both for variety and quality. Around 500 items rotate across nine live cooking stations covering American, Italian, Asian, Mexican, and seafood, plus a dessert counter that does individual portions rather than the tired pan format. The seafood station alone — crab legs, oysters, peel-and-eat shrimp, sushi — is what most people queue for.

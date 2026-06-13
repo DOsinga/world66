@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 37.9600
 longitude: 106.1100
+score: 7.2
 ---
 
 At Qingtongxia, the Yellow River cuts through a canyon section before spreading back out into the broader floodplain to the north. The gorge walls here are steep enough to give the river a different character from the flat, agricultural stretches most visible from Yinchuan — the water moves faster, and the scale of the landscape is more dramatic. Boat trips on this section of the river are offered from a jetty near the dagobas site, running downstream through the canyon and back.

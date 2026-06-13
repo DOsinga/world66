@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 35.7565
 longitude: -78.6820
+score: 7.7
 ---
 
 The North Carolina State Farmers Market, about two miles south of downtown, is one of the largest farmers markets in the American Southeast. The covered market buildings hold a year-round mix of produce vendors, plant nurseries, and craft stalls, with the produce selection being particularly strong — North Carolina's diverse agricultural zones mean that everything from mountain apples to coastal seafood passes through here.

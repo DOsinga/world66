@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 42.8768
 longitude: -8.5428
+score: 8.0
 ---
 
 The Mercado de Abastos is Santiago's covered market and one of the best in Galicia — a vast 19th-century stone building two blocks south of the Cathedral where local farmers, fishmongers, and cheese sellers set up stalls from early morning. It is at its best on Saturday, when growers from the surrounding villages bring produce in.

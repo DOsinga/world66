@@ -7,6 +7,7 @@ tags:
 latitude: 53.3219
 longitude: -3.8172
 snippet: The principal theatre and conference centre of north Wales, with a 1,500-seat auditorium
+score: 6.2
 ---
 
 Venue Cymru is the main performing arts venue in north Wales — a 1,500-seat theatre and conference centre on the Llandudno seafront opposite the cricket ground. It opened in its current form in 2006 after a substantial rebuild of an earlier 1990 venue, and now hosts West End touring productions, opera, ballet, concerts and major children's shows.

@@ -9,6 +9,7 @@ latitude: 40.7261
 longitude: 19.5573
 sources:
   - https://en.wikipedia.org/wiki/Fier_Mosque
+score: 5.5
 ---
 
 The Fier Mosque — officially the Mosque of Fier — is the main Ottoman-era mosque in the city, recently restored after decades of neglect during the communist period when all religious buildings were closed and often vandalized. The mosque has a single minaret and a simple whitewashed interior that is characteristic of the Bektashi and Sunni architectural tradition found across southern Albania.

@@ -15,6 +15,7 @@ story: >
   near Hoi An, are among the most substantial surviving Cham monuments in the country.
 sources:
   - https://guidevietnam.org/po-shanu-cham-towers-phan-thiet.html
+score: 6.8
 ---
 
 The Po Shanu Cham Towers occupy a hilltop about six kilometres west of Mui Ne and two kilometres northeast of Phan Thiet city, with sweeping views of the coast and the fishing harbour below. Three towers survive in varying states of preservation: the main kalan tower (dedicated to Shiva), a smaller mandapa, and a ruined third structure. The brick construction is characteristic of Cham religious architecture, with intricate decorative stonework on the door frames.

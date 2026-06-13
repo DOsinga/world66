@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 52.4775
 longitude: -1.8934
+score: 6.9
 ---
 
 Birmingham's main shopping district, and the building that announced the city's architectural ambitions to the rest of Britain. The Selfridges department store at the Bullring, designed by Future Systems and completed in 2003, is clad in 15,000 aluminium discs and has become one of the most recognisable buildings in the country. It is frequently cited as the building that persuaded other British cities that genuinely adventurous architecture was worth commissioning.

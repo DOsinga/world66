@@ -8,6 +8,7 @@ tags:
   - museum
 snippet: Childhood home of Charlotte Buff — the real Lotte of Goethe's "Werther"
 story: "Goethe met Charlotte Buff in the summer of 1772 at a country ball. She was already engaged to Johann Christian Kestner, a colleague at the imperial court. The infatuation that followed went nowhere, Goethe left town in despair, and two years later turned the whole episode into a 100-page novel that made him famous across Europe overnight."
+score: 8.0
 ---
 
 Charlotte Buff lived in this handsome 17th-century house — formally the Deutschordenshof, headquarters of the Teutonic Order in Wetzlar — where her father was the local steward. Several rooms have been kept as a small but evocative literary museum: Lotte's bedchamber, the salon, period objects, manuscripts, and a wall of *Werther* editions in 30-odd languages.

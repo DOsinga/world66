@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 story: "Tuesday-night jam sessions at Elvina's regularly draw famous musicians who happen to be visiting the island — most notoriously Lenny Kravitz, who has lived nearby on and off for decades and turns up unannounced more often than the regulars admit."
+score: 6.1
 ---
 
 Elvina's is a small road-side bar and restaurant in Gregory Town with a low ceiling, a small stage, and a dedicated following. The food (jerk chicken, conch fritters, fried snapper) is good, but the real draw is the music: Tuesday-night jam sessions have been running for years and pull in a famously eclectic crowd.

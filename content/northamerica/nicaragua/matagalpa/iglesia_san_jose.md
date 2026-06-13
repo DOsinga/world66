@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 12.9280
 longitude: -85.9195
+score: 6.4
 ---
 
 The Iglesia San José is one of Matagalpa's colonial churches, a quieter and more intimate space than the cathedral and worth seeking out for that reason. The church dates from the colonial period and has the modest, sun-bleached appearance of highland Central American religious architecture — terracotta tiles, whitewashed walls, a narrow belfry.

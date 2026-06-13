@@ -8,6 +8,7 @@ tags:
 latitude: 45.7675
 longitude: 4.8342
 snippet: Lyon's grandest square, with a Bartholdi fountain and the Hôtel de Ville
+score: 7.2
 ---
 
 Place des Terreaux is the ceremonial heart of Lyon — a large square at the north end of the Presqu'île flanked by the imposing 17th-century Hôtel de Ville (town hall) and the Musée des Beaux-Arts. The square's centrepiece is the Fontaine Bartholdi, a colossal bronze allegory of a chariot drawn by four horses, created by Frédéric Auguste Bartholdi (who also designed the Statue of Liberty) and originally intended for Bordeaux. The story of how it ended up in Lyon instead involves municipal politics, a cancelled order, and the characteristic Lyonnais tendency to take what is available and make it work.

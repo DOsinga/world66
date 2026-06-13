@@ -8,6 +8,7 @@ tags:
   - sight
   - viewpoint
 story: "On a clear winter morning you can see the islands of the Tuscan archipelago — Tino, Tinetto, Palmaria, and even Capraia and Gorgona far to the south — strung out along the horizon. The locals say the view is best in February, when the air has been scrubbed clean by the tramontana wind."
+score: 8.9
 ---
 
 The Belvedere is a small flagstoned terrace at the southern tip of the village, where Via Fieschi runs out and the land drops 100 metres straight to the sea. It is the single best viewpoint in Corniglia, and arguably the best in the Cinque Terre — you can see Manarola and the headland beyond Riomaggiore to the south, the long curve of cliff and vineyard stretching back toward Vernazza in the other direction, and nothing but the Mediterranean in front.

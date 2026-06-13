@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Jugendstilsenteret
 story: >
   The night of 23 January 1904 began with a fire in a small bakery and ended with almost the entire town of Ålesund reduced to ashes — 850 buildings gone in a few hours. The only serious injury was to civic pride. By morning, relief ships were arriving from Bergen, and within days Kaiser Wilhelm II had sent German Red Cross vessels with supplies. The Kaiser's interest in Ålesund was personal: he had spent summer holidays there on his yacht. When the rebuilding began, he sent German architects to help, which partly explains why the new town ended up looking more Hanseatic than Norwegian.
+score: 8.2
 ---
 
 The Jugendstilsenteret is Ålesund's Art Nouveau Centre, housed in a beautifully restored pharmacy building from the rebuilding period and dedicated to the story of the 1904 fire, the reconstruction, and the remarkable architectural legacy it created. The museum explains what Art Nouveau actually is — the organic forms, the curved lines, the integration of craft and fine art — before sending you out to look at the streets with newly informed eyes.

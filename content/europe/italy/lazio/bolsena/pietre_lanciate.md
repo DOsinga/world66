@@ -6,6 +6,7 @@ tags:
 - sight
 title: Pietre Lanciate
 type: poi
+score: 6.6
 ---
 
 The Pietre Lanciate — the Thrown Stones — are a geological formation of columnar basalt about 3km south of Bolsena, where hexagonal prisms of volcanic rock rise from the ground like a stacked natural pavement. The formation was created when lava cooled slowly and contracted into regular geometric columns, similar to the more famous Giant's Causeway in Ireland.

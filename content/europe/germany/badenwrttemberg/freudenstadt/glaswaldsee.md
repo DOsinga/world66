@@ -8,6 +8,7 @@ tags:
 - lake
 title: Glaswaldsee
 type: poi
+score: 7.0
 ---
 
 The Glaswaldsee is one of the wilder of the small cirque lakes scattered through the Northern Black Forest. It lies in a steep, north-facing bowl below the Hochkopf, surrounded by mixed forest and accessible only on foot. There are no buildings on the shore and no road within about an hour's walk. In summer the water is just warm enough for a quick swim if you like cold lakes.

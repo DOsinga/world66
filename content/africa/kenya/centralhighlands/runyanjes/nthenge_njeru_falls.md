@@ -6,6 +6,7 @@ tags:
   - sight
 title: Nthenge Njeru Falls
 type: poi
+score: 7.2
 ---
 
 A double waterfall in the Kirimiri Forest on the outskirts of Runyenjes, one of the most accessible natural attractions in Embu County. The twin cascades drop through dense riverine vegetation — a mix of indigenous forest and cultivated land — into a rocky gorge, and the surrounding forest provides habitat for over 50 species of birds. The falls are particularly impressive in the wet seasons (March-May and October-November) when the Thuchi River is in full flow.

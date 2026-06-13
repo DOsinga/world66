@@ -6,6 +6,7 @@ longitude: 174.2370
 tags:
 - things_to_do
 - sight
+score: 8.0
 ---
 
 Urupukapuka is the largest island in the bay and the only one with public camping. Otehei Bay on the west coast is a popular stop on the standard island cruises, with a beachfront café and a long curving swimming beach. The island has been cleared of stoats, rats and possums since the early 2010s and is now a refuge for tieke (saddleback) and other forest birds.

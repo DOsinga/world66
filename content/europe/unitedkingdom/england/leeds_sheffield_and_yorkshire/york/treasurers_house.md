@@ -15,6 +15,7 @@ story: >
   current floor, on the level of the original Roman road. Martindale was so
   disturbed he abandoned plumbing. Historians later confirmed a Roman road runs
   directly below the cellar.
+score: 8.6
 ---
 
 The Treasurer's House stands in the shadow of York Minster, built on the site of the medieval residence of the Treasurer of York Minster — an office abolished by Henry VIII. The current building dates mainly from the late 17th and early 18th centuries, though its fabric incorporates much earlier material. The house was restored and redecorated by industrialist Frank Green between 1897 and 1930, who filled it with antique furniture and then gave the whole lot to the National Trust. The state rooms are among the most complete Edwardian-era interiors in Yorkshire.

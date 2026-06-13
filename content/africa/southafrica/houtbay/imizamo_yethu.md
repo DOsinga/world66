@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -34.0167
 longitude: 18.3500
+score: 7.6
 ---
 
 Imizamo Yethu (Xhosa for "Our Efforts") is a township that grew up in the Hout Bay valley from the 1990s onward, home to tens of thousands of residents. Known locally as IY or Mandela Park, it represents the economic reality behind Hout Bay's attractive surface — the fishing and hospitality industries that sustain the valley depend on workers who live here.

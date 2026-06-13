@@ -8,6 +8,7 @@ tags:
 snippet: "Late Renaissance cathedral with austere whitewashed nave"
 latitude: 39.7461
 longitude: -8.8067
+score: 6.9
 ---
 
 Leiria's Sé Catedral sits in the heart of the old town, between the castle and the central square. It was begun in 1559 under King Sebastião and finished only in the eighteenth century, which gives it the slightly mismatched look of a building that outlived its original plan.

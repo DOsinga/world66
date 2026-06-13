@@ -10,6 +10,7 @@ story: >
   The caves were known to locals for decades but only became fully accessible to visitors in 1999, when engineers completed a gondola system up the sheer canyon wall. Before that, the only way up was a steep miners' trail that most visitors were unwilling to attempt.
 sources:
   - https://en.wikipedia.org/wiki/Glenwood_Caverns_Adventure_Park
+score: 7.8
 ---
 
 Perched high above the Colorado River on the canyon rim, Glenwood Caverns Adventure Park combines genuine underground cave exploration with an assortment of thrill rides. The gondola ride up from town is itself impressive — the canyon walls drop away beneath you as you rise. At the top, cave tours run through passages of flowstone, stalactites, and crystal formations in an underground system that stays at a cool 53°F year-round.

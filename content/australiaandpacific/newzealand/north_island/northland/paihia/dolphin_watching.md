@@ -7,6 +7,7 @@ tags:
 latitude: -35.28
 longitude: 174.12
 snippet: Wild bottlenose and common dolphins frequent the Bay of Islands year-round
+score: 6.9
 ---
 
 The Bay of Islands is one of the most reliable places in New Zealand to see wild dolphins. Bottlenose dolphins — some of the largest individuals of the species anywhere — are resident in the bay and frequently encountered. Common dolphins also visit, often in much larger groups. Dolphins regularly approach boats and ride the bow wave.

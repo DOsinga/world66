@@ -8,6 +8,7 @@ latitude: -8.0560
 longitude: 114.2430
 story: >
   The view from the Ijen crater rim at sunrise is one of the most dramatic in Java. As the light strengthens, the lake below gradually changes colour — from invisible darkness to a phosphorescent blue-green that looks too vivid to be natural. The caldera walls drop sharply on all sides, and the steam from the active vents catches the low-angle light. Behind you, the surrounding coffee and rubber plantations of the Ijen plateau stretch to the horizon.
+score: 7.8
 ---
 
 The hike from Paltuding basecamp to the crater rim covers 3 kilometres and gains 435 metres of elevation. The path is well-maintained (it doubles as the miners' daily commute) and takes most visitors 90 minutes to two hours at a moderate pace. The surface is rocky volcanic material, sometimes slippery when wet, and fairly steep in the final section before the rim.

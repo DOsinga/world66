@@ -8,6 +8,7 @@ latitude: 44.4625
 longitude: 8.3200
 sources:
   - https://en.wikipedia.org/wiki/Piana_Crixia
+score: 6.8
 ---
 
 In the hamlet of Borgio, on the edge of the Piana Crixia commune, two castles stand within close sight of each other: the fragmentary ruins of a medieval fortress built by the Del Carretto family, and the shell of a nineteenth-century neo-medieval castle constructed in a romanticized interpretation of the original. The juxtaposition is odd and strangely appealing — eight hundred years of history compressed into a single view.

@@ -9,6 +9,7 @@ tags:
 snippet: "Cliff-top sailors' chapel with the best view in town"
 story: >
   In December 1430, the captive Joan of Arc was held in St-Valéry on her journey from the Burgundians to the English, and tradition places her overnight in the small house beside this chapel before she was taken on to Rouen and her trial. A plaque on the chapel wall marks the passage.
+score: 8.0
 ---
 
 The Chapelle des Marins, also called the Chapelle Saint-Valery, sits at the highest point of the chalk cliff west of town, looking out over the entire Baie de Somme. The walk up from the upper town takes ten minutes through quiet paths shaded by trees, and the destination is worth it for the view alone — at low tide the bay spreads out as a vast sheet of pale sand veined with channels, and on a clear day you can see across to Le Crotoy on the far shore.

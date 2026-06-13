@@ -7,6 +7,7 @@ tags:
 - museum
 title: Pinang Peranakan Mansion
 type: poi
+score: 8.5
 ---
 
 The Pinang Peranakan Mansion on Church Street is a museum dedicated to the Peranakan (Straits Chinese) community — the descendants of early Chinese immigrants who married into Malay society, developed a distinctive hybrid culture, and accumulated considerable wealth as trading intermediaries. The mansion recreates the home of a wealthy Peranakan family circa 1900, with an almost overwhelming accumulation of antique furniture, Cantonese woodcarvings, English transferware, Peranakan porcelain (Nyonya ware), silver, lacquerware, and ornaments.

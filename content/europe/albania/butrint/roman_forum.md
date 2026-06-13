@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.7453
 longitude: 20.0215
+score: 8.0
 ---
 
 The Roman forum occupies the high ground at the centre of the peninsula, and its open space gives you the clearest sense of the city's Roman-era scale. Around it cluster the remains of public buildings: a basilica, a nymphaeum, and the extensive thermae (public baths) whose heating channels and hypocaust pillars are visible in the floor. The baths were fed by an aqueduct that brought water from springs further inland.

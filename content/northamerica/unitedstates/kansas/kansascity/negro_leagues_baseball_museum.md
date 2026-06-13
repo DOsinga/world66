@@ -8,6 +8,7 @@ latitude: 39.0995
 longitude: -94.5516
 story: >
   Kansas City was the home of the Kansas City Monarchs, arguably the most successful franchise in Negro Leagues history. The Monarchs produced Jackie Robinson, Satchel Paige, and Ernie Banks, among others. Robinson played one season for the Monarchs in 1945 before Branch Rickey called him to Brooklyn — a connection the museum documents in detail.
+score: 8.9
 ---
 
 The Negro Leagues Baseball Museum is one of the most emotionally powerful museums in America. Through photographs, artefacts, and oral histories, it documents the parallel professional baseball world that existed because African American players were banned from the major leagues. The players were equal in talent to their white contemporaries — and sometimes far better — a fact the exhibits make abundantly clear.

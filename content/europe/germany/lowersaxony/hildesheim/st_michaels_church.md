@@ -10,6 +10,7 @@ story: >
   The wooden ceiling of St. Michael's is painted with the Tree of Jesse — a genealogy of Christ extending across the entire nave ceiling, 27 metres long. Painted around 1200, it is one of the largest and best-preserved Romanesque painted ceilings in the world. The figures are painted in a flat, hieratic style that resembles Byzantine mosaics more than the naturalism that would come with the Gothic.
 sources:
   - https://en.wikipedia.org/wiki/St._Michael%27s_Church,_Hildesheim
+score: 9.2
 ---
 
 St. Michael's Church is the other half of Hildesheim's UNESCO designation, and in some ways it is the more extraordinary building. Built between 1001 and 1033 under Bishop Bernward (who is buried in its crypt), it is a textbook example of Ottonian Romanesque architecture — its symmetrical towers, double-ended nave, and austere stonework defined a style that would influence church building across northern Germany for two centuries.

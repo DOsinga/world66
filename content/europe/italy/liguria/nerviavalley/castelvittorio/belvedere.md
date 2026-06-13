@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.9330
 longitude: 7.6329
+score: 6.6
 ---
 
 At the southern end of the old village a small terrace opens out over the deep, wooded gorge of the Nervia. The view is straight down through olive terraces to the river below, and across the valley to the village of Castel Dho's old neighbours: Apricale and Isolabona on their own ridges, with the higher peaks of the Ligurian Alps rising behind.

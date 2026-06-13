@@ -13,6 +13,7 @@ story: >
   hillsides, and morning mist that would be unrecognisable in Riyadh. It became a
   domestic holiday destination for Saudis escaping the Gulf heat long before
   international tourism was a consideration.
+score: 7.7
 ---
 
 Abha is the capital of Asir Province and effectively one city with Khamis Mushait, the two urban areas separated by a short drive along the mountain highway. Abha is the older and more developed of the two for tourism, with a developed heritage district, several hotels, and a cable car (the Al-Wahba cable car) that descends the escarpment to the Tihama coastal plain 1,500 metres below.

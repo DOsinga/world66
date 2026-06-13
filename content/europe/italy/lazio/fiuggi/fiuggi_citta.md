@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 41.7965
 longitude: 13.2235
+score: 7.7
 ---
 
 Fiuggi Città is the medieval part of the town, perched on the hilltop about a kilometre above and apart from the spa resort below. The contrast is striking: you leave the broad belle époque promenades of Fiuggi Terme and arrive in tight cobbled lanes, stone archways, and a small cathedral square that feels essentially unchanged for centuries. The Cathedral of San Pietro Apostolo is modest but dignified, and the lanes leading off the central piazza reward a slow wander.

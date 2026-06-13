@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.2
 ---
 
 El Presidio Real de Santa Bárbara was the last of the four military forts established by the Spanish along the California coast, founded in 1782. It marked the start of the European settlement that grew into Santa Barbara. Most of the original presidio was lost over the centuries; today the state historic park has reconstructed the **Chapel**, the **Padre's Quarters**, and parts of the **El Cuartel** — the second-oldest building in California.

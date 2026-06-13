@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 32.2930
 longitude: -9.2420
+score: 5.3
 ---
 
 A basic but decent cafe near the waterfront, Café el Bahr draws a mixed crowd of fishermen, port workers, and the occasional traveller. The mint tea is good, the coffee is strong, and the location — close to the sea fortress with a view of the port — makes it one of the better spots in Safi for sitting and watching the city go about its business.

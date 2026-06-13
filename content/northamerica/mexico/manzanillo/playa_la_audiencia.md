@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 8.2
 ---
 
 La Audiencia, a 400-metre crescent of fine sand on the Santiago Peninsula, is the most photographed beach in Manzanillo. The bay is sheltered, the water is calm, and the snorkelling along the rocky points at either end is the best in the area for casual swimmers.

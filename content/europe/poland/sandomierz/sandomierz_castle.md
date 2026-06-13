@@ -16,6 +16,7 @@ story: >
   survives is the Renaissance east wing, which has stood since the 16th century. It's 
   one of Poland's best-preserved Renaissance interiors, though relatively few visitors 
   outside Poland know it exists.
+score: 8.0
 ---
 
 The Sandomierz Royal Castle occupies the southern tip of the Old Town ridge, overlooking the Vistula valley below. The original castle was built for Casimir the Great in the 14th century; what survives today is the Renaissance east wing, largely intact since the 16th century. The Swedish invaders of the 1650s demolished most of the complex during the wars that nearly ended the Polish state.

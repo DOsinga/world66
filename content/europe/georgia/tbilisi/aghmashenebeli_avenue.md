@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Aghmashenebeli Avenue
 type: poi
+score: 7.6
 ---
 
 Aghmashenebeli Avenue runs through the Chugureti and Marjanishvili districts west of the river and is Tbilisi's other major boulevard — less grand than Rustaveli but in many ways more alive. The avenue was built up in the late 19th and early 20th century and lined with elegant townhouses in a mix of Russian imperial and eclectic styles. Several have been restored; many are still in the charming state of genteel decay that is one of Tbilisi's characteristic looks.

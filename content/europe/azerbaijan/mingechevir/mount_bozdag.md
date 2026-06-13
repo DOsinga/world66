@@ -9,6 +9,7 @@ tags:
 snippet: "Mountain south of town with views over the Mingechevir Reservoir"
 sources:
   - https://en.wikipedia.org/wiki/Mount_Bozda%C4%9F
+score: 6.6
 ---
 
 Mount Bozdağ (meaning "grey mountain" in Azerbaijani) rises about ten kilometres south of Mingechevir in the lesser Caucasus foothills. It's the fourth most prominent peak near the city, and its relatively accessible summit offers wide views across the reservoir and the flat agricultural plain of the Kura-Araz lowlands.

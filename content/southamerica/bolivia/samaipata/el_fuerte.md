@@ -15,6 +15,7 @@ story: >
   ritual features over and alongside the earlier ones; the Spanish later used it
   as a fort. The layered carvings — channels, niches, jaguar and serpent
   figures — record this sequence of occupation like a stone palimpsest.
+score: 9.2
 ---
 
 El Fuerte de Samaipata sits about 9 km from town on a ridge at nearly 2,000 metres, a vast sandstone outcrop carved into channels, platforms, niches, and animal figures by successive pre-Columbian cultures spanning more than a thousand years. Inscribed as a UNESCO World Heritage Site in 1998, it is one of the most significant archaeological sites in South America and Bolivia's largest pre-Inca monument.

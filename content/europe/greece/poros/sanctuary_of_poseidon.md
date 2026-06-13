@@ -13,6 +13,7 @@ story: >
   submit to capture, he drank poison he had concealed in a pen. By some accounts, he walked outside the
   sacred precinct before dying so that the sanctuary would not be polluted by his death. Antipater had him
   declared an enemy of Greece; the Athenians later erected a bronze statue of him in the agora.
+score: 8.2
 ---
 
 The Sanctuary of Poseidon at Kalaureia was one of the great religious centres of ancient Greece — a seat of an important amphictyony (inter-state religious league) that bound together seven city-states including Athens, Nauplia, and Orchomenos. The cult site goes back to at least the 7th century BC and the sanctuary functioned as a place of asylum, which is why Demosthenes sought refuge here.

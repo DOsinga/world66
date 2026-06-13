@@ -14,6 +14,7 @@ tags:
   - nature
 title: Acantilados de Los Gigantes
 type: poi
+score: 9.0
 ---
 
 The Acantilados de Los Gigantes are the reason to come here. These vertical basalt cliffs rise hundreds of metres from the Atlantic, forming a dark wall along the west coast of Tenerife. From town they dominate the view; from a boat they become almost absurdly large.

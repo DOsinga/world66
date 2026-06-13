@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.9162
 longitude: -103.5281
+score: 6.4
 ---
 
 A lone brick chimney rises out of a flat patch of grass along Pacific Avenue — all that remains of the Marquis de Mores's grand meat-packing plant, which fell into ruin within five years of its 1883 construction. Interpretive panels explain how the operation worked: cattle slaughtered on site, the meat carried in refrigerated railroad cars to East Coast markets, ice cut from the Little Missouri River and stored in massive icehouses through the summer.

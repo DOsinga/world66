@@ -8,6 +8,7 @@ tags:
   - restaurant
   - ensanche
 neighbourhood: Ensanche
+score: 7.0
 ---
 
 Modern Basque cooking in a serene dining room in the Ensanche, a long-time favourite for special meals. The menu changes constantly with the seasons; the tasting menu, often around six courses, is the recommended way in.

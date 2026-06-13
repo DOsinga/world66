@@ -7,6 +7,7 @@ snippet: Car ferry across the Langelandsbælt to Funen, about 45 minutes' crossi
 tags:
 - things_to_do
 - sight
+score: 5.4
 ---
 
 The car and passenger ferry between Lohals and Spodsbjerg on Funen takes about 45 minutes and operates roughly hourly through the day. It cuts a long road journey via the Storebælt bridge to a manageable hop, and the crossing itself is a pleasant short voyage through a busy stretch of Danish coastal water.

@@ -11,6 +11,7 @@ tags:
 - sight
 title: Painted Mountains of Aladaglar
 type: poi
+score: 7.4
 ---
 
 The Painted Mountains, sometimes called Aladaglar (Persian for "coloured mountains"),

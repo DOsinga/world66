@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mfantsipim School
 type: poi
+score: 6.4
 ---
 
 Founded by the Methodist Church in 1876, Mfantsipim is the oldest secondary school in Ghana and the alma mater of Kofi Annan and many other prominent Ghanaians. The hillside campus on the northern edge of town is a working boys' boarding school, but visitors are welcome on weekends and during holidays to walk the leafy grounds and see the colonial-era chapel and the older buildings around the quadrangle.

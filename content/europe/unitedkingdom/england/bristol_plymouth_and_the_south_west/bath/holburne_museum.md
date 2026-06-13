@@ -6,6 +6,7 @@ longitude: -2.3530
 tags:
   - things_to_do
   - museum
+score: 7.5
 ---
 
 Bath's oldest public art gallery, housed in a handsome former hotel at the end of Great Pulteney Street with a striking modern glass extension at the rear by Eric Parry. The core collection was assembled by Sir William Holburne in the nineteenth century and includes paintings by Gainsborough, Stubbs, and Guardi, alongside silverware, porcelain, and miniatures.

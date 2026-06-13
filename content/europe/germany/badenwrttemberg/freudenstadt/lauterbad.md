@@ -7,6 +7,7 @@ tags:
 - sight
 title: Lauterbad
 type: poi
+score: 5.8
 ---
 
 Lauterbad is a small spa village absorbed into Freudenstadt, lying about three kilometres southeast of the Marktplatz at the foot of a wooded valley. It is the original Bad in Freudenstadt's full title "Heilklimatischer Kurort und Kneippheilbad": the mineral springs here were the basis of the town's spa reputation long before the post-war rebuild of the centre. A modest spa garden and a Kneipp foot-bathing facility still operate in the village.

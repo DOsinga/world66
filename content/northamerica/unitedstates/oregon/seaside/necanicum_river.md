@@ -7,6 +7,7 @@ snippet: The quiet river running through town — good for kayaking and a contra
 tags:
   - things_to_do
   - sight
+score: 5.2
 ---
 
 The Necanicum River flows through the east side of Seaside before emptying into the Pacific just north of the Prom. Most visitors walk straight past it headed for the beach, which is a mistake. The lower river is calm, navigable by kayak and canoe, and offers a completely different perspective on the town — marsh grasses, shorebirds, and the quiet you won't find on Broadway or the Prom. Kayak rentals are available in town.

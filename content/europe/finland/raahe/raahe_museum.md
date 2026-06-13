@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum's pride and joy is what is believed to be the oldest surviving diving suit in the world. The leather-and-wood contraption — a heavy hooded coat with a small glass viewing window — was used by Captain Johan Leufstadius around 1750 to inspect ship hulls. It is locally known as 'the wooden man'."
+score: 7.5
 ---
 
 Founded in 1862, the Raahe Museum is the oldest museum of local history in Finland. It is housed in a long, low yellow-painted timber building that was once a customs warehouse and packing house down by the harbour.

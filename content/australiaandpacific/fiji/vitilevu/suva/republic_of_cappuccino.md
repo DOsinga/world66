@@ -8,6 +8,7 @@ tags:
   - cafe
   - suva_central
 neighbourhood: Suva Central
+score: 5.2
 ---
 
 The first proper espresso bar in Suva and still one of the best — air-conditioned, with a serious machine, good cakes, and decent free Wi-Fi. The location on Victoria Parade makes it the easiest meeting point in the centre.

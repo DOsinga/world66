@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 6.6
 ---
 
 The Aqsu Pass crosses the southern spur of the Greater Caucasus north of town, on the road that climbs toward Şamaxı and continues into the mountains. The top of the pass offers a long view back over the agricultural plain, the orchards and vineyards of the rayon, and (in clear weather) the snow line of the Caucasus to the north.

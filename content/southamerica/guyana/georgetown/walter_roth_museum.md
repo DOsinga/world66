@@ -7,6 +7,7 @@ tags:
 latitude: 6.8079
 longitude: -58.1531
 snippet: "Small ethnographic museum of Guyana's Amerindian cultures"
+score: 8.2
 ---
 
 Tucked into a wooden building behind the National Library, the Walter Roth Museum is Guyana's national anthropology collection. It focuses on the nine indigenous peoples of the country — Warao, Arawak, Carib, Wapishana, Makushi, Patamona, Wai-Wai, Akawaio, and Arekuna — and includes traditional dress, weapons, basketwork, ceremonial objects, and archaeological material from sites in the interior.

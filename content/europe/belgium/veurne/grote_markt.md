@@ -8,6 +8,7 @@ tags:
 latitude: 51.0724
 longitude: 2.6618
 snippet: One of the finest Flemish market squares
+score: 8.7
 ---
 
 The Grote Markt is Veurne's set-piece — a wide cobbled square lined on every side with red-brick step-gabled houses and the Spanish Pavilion (Spaans Paviljoen), so named because Spanish officers were billeted here in the late sixteenth century when Veurne was a frontier town in the Spanish Netherlands. The composition is small, tight, and very pretty: most visitors agree it ranks with Bruges and Brussels among the best market squares in Flanders.

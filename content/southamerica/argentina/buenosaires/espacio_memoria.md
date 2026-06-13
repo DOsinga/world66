@@ -8,6 +8,7 @@ latitude: -34.5454
 longitude: -58.4486
 story: >
   The Navy Mechanics School (ESMA) was one of the largest and most active clandestine detention centres during the military dictatorship. An estimated 5,000 people were held here; most were killed. In 2004, President Néstor Kirchner handed the site to human rights organisations in a ceremony broadcast nationally. The building where prisoners were held — the Casino de Oficiales — is preserved exactly as the survivors described it.
+score: 8.4
 ---
 
 The former Navy Mechanics School (Escuela de Mecánica de la Armada) was one of the main clandestine detention and torture centres used by the Argentine military during the dictatorship of 1976–83. It is now a museum and memorial space operated jointly by several human rights organisations.

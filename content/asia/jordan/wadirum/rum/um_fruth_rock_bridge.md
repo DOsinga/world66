@@ -11,6 +11,7 @@ story: >
   Um Fruth is geologically young — a few thousand years at most — and will eventually collapse.
   The Bedouin consider it good luck to cross it, and guides will cheerfully encourage you to
   scramble up for the photo, regardless of your comfort with heights.
+score: 8.1
 ---
 
 This 15-metre-high natural arch is one of Wadi Rum's most photographed spots, and for good reason. The bridge is elegant and improbable — a slender curve of rock spanning a gap between two boulders, with nothing but desert below.

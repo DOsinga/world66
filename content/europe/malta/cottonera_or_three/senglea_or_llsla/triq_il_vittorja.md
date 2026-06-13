@@ -6,6 +6,7 @@ longitude: 14.5167
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 Victory Street runs the length of Senglea's peninsula, a single straight axis from the bastions at the inland end to the Gardjola at the tip. It is barely wide enough for a single car. Walking it slowly takes ten minutes; doing it properly, looking up at the painted timber balconies and the small niches with Madonna statues, takes most of an hour.

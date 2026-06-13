@@ -13,6 +13,7 @@ story: >
   appears in chronicles from the 13th century. Most historians consider it
   romantic invention, but it persisted well enough to become the subject of
   a Grétry opera in 1784 and a staple of Crusader legend ever since.
+score: 7.9
 ---
 
 The ruined castle above Dürnstein village — Kuenringerburg — stands on a 160-metre limestone bluff above the Danube and was the seat of the Kuenringer family, lords of the Wachau in the 12th century. Duke Leopold V of Austria held Richard the Lionheart prisoner here from December 1192 to March 1193, and the ruins are still visited primarily for this association rather than the architecture, which is not exceptional.

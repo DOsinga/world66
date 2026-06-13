@@ -10,6 +10,7 @@ tags:
 - shopping
 title: Raffles City Shopping Centre
 type: poi
+score: 4.7
 ---
 
 A large shopping complex directly above City Hall MRT station, making it one of the most accessible malls in the city. The building connects to several major landmarks -- Raffles Hotel is next door, and the Esplanade theatres are a short walk via the CityLink underground passage.

@@ -7,6 +7,7 @@ tags:
 - temple
 title: Goddess of Mercy Temple
 type: poi
+score: 7.8
 ---
 
 The Goddess of Mercy Temple (Kuan Im Teng or Kong Hock Keong) is the oldest Chinese temple in Penang, built in 1800 by the earliest wave of Hokkien and Cantonese immigrants who arrived with the British settlement. It stands on Pitt Street at the centre of the religious district, a long block from the Kapitan Keling Mosque and a short walk from the Sri Mahamariamman Temple — an accident of colonial zoning that has become one of Penang's defining features.

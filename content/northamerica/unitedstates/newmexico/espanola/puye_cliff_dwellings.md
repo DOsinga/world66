@@ -14,6 +14,7 @@ story: >
   depletion, and social upheaval have all been proposed. What is certain is that
   the community that lived here was the direct ancestor of today's Santa Clara
   tribal members, who now control the site and give the tours.
+score: 8.9
 ---
 
 The Puye Cliff Dwellings, about 15 kilometres west of Española in the Santa Clara Canyon, are one of the most impressive archaeological sites in northern New Mexico. The site consists of two main sections: cliff dwellings carved directly into the volcanic tuff of the mesa, and a separate mesa-top pueblo complex. At the height of occupation, around 1400 CE, the community here may have housed up to 1,500 people.

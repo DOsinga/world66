@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, art]
 latitude: -38.3831
 longitude: 142.4870
+score: 7.8
 ---
 
 Warrnambool Art Gallery is one of the oldest regional galleries in Victoria, founded in 1886. The permanent collection is particularly strong in 19th-century colonial landscapes, including the famous 1855 painting of Tower Hill by Eugène von Guérard that later served as a guide for ecological restoration of the reserve. The gallery also holds a solid collection of contemporary Australian printmaking and photography.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A patchwork of three buildings — Gothic, late-Gothic, and 16th-century — fused into one civic complex
+score: 7.8
 ---
 
 The town hall is really three buildings stitched together. The oldest part is the **Schepenhuis**, a small Gothic structure from 1374 that was the original aldermen's house and possibly the first stone civic building of the Low Countries; it now usually shows temporary exhibitions. Next door is the Lakenhalle, the unfinished 14th-century cloth hall, with its short stump tower at the corner. The grand façade facing the Grote Markt was begun in 1530 in Brabantine late-Gothic style as a much more ambitious new town hall — also never finished, and only completed in the 20th century in a sympathetic neo-style.

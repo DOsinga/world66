@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: A small private museum of taxidermy, oddities and Victorian curiosities on Southend high street.
+score: 7.2
 ---
 
 Cranfield's Curiosity Cabinet is a small private museum tucked off the Southend high street, on the model of the Victorian wunderkammer. The collection — assembled by the owner Daniel Cranfield over several decades — runs to taxidermy (including jackalopes, sirens and other deliberately fake cryptids alongside genuine specimens), medical instruments, two-headed lambs, scientific anomalies, occult artefacts, and the kind of objects you would expect on a 19th-century traveller's mantelpiece.

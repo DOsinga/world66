@@ -8,6 +8,7 @@ latitude: 38.6761
 longitude: -76.3414
 sources:
   - https://en.wikipedia.org/wiki/Black_Walnut_Point_Natural_Resources_Management_Area
+score: 7.3
 ---
 
 The southern tip of Tilghman Island narrows to a sandy point where the Chesapeake Bay meets the mouth of the Choptank River, managed by Maryland as a natural resources area. The 58-acre site is quiet and largely undeveloped, with trails through loblolly pine woodland and views across the open water in three directions.

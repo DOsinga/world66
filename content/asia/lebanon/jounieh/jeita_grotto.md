@@ -8,6 +8,7 @@ latitude: 33.9434
 longitude: 35.6414
 story: >
   Jeita Grotto was rediscovered in 1836 by an American missionary who fired a gun into a cave mouth and heard the shot echo for several seconds. Exploration over the following decades revealed one of the largest cave systems in the Middle East, with stalactites up to 8.2 metres long. The caves supply drinking water to over a million people in the Beirut area.
+score: 9.6
 ---
 
 The Jeita Grotto is a system of two interconnected limestone caves about 9 km northeast of Jounieh, carved over millions of years by the Nahr al-Kalb (Dog River). The upper cave can be walked through a lit pathway, while the lower cave — through which the river still flows — is visited by boat. Together they form one of the most spectacular cave systems in the Middle East, and one of Lebanon's top natural attractions.

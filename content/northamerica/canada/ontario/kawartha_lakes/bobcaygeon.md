@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Tragically Hip's 1998 song \"Bobcaygeon\" — and Gord Downie's lyric about constellations revealing themselves one star at a time — turned a quiet cottage town into a place of pilgrimage. In the years after Downie's death in 2017, the lock-side park where fans gathered to sing the song has become an unofficial memorial."
+score: 8.2
 ---
 
 Bobcaygeon is the prettiest of the lockside villages on the Trent-Severn Waterway, sitting on a narrow strip of land between Pigeon Lake and Sturgeon Lake. The lock itself — Lock 32, the first one built on the waterway, in 1833 — is the focus of summer life: a busy parade of cruisers, houseboats, and pleasure craft passing through every twenty minutes from June to October.

@@ -9,6 +9,7 @@ latitude: 29.5596
 longitude: 106.5492
 story: >
   Chongqing's Lianglukou outdoor escalator system, opened in 2003, carries residents between the river valley and the ridge top, replacing a steep stair climb with a moving staircase open to the sky. It is now one of the longest outdoor escalator systems in China, and locals use it as matter-of-factly as an elevator in a building. The journey gives extraordinary views of the city's vertical stack: you travel up the face of a cliff with the city spread around and below you.
+score: 6.7
 ---
 
 Chongqing's dramatic topography — the city is built across ridges and valleys between two rivers — has required creative solutions to vertical transport. The outdoor escalator system at Lianglukou connects the riverside commercial district with the Yuzhong ridge, replacing a series of steep stone staircases that residents climbed daily.

@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: -33.0225
 longitude: -71.5393
+score: 6.1
 ---
 
 The Valparaíso Sporting Club is one of the oldest horse racing tracks in South America, founded in 1882 by the British community then resident in Valparaíso. The track is laid out on flat ground inland from the beach, and race days bring out a colourful mix of regulars, casual visitors, and serious gamblers. The grandstand retains its period character — this is horse racing in the old style, without much technological mediation between you and the horses.

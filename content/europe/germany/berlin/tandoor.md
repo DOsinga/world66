@@ -9,6 +9,7 @@ tags:
 - prenzlauerberg
 title: Tandoor
 type: poi
+score: 6.0
 ---
 
 Indian food in a sober atmosphere between students' canteen and New Objectivity — cheap, tasty dishes and always full. In fine weather you can eat outside.

@@ -9,6 +9,7 @@ tags:
 neighbourhood: University District
 sources:
   - https://en.wikipedia.org/wiki/Café_Allegro
+score: 7.4
 ---
 
 Café Allegro opened in 1975 in an alley off University Way, making it the oldest espresso bar in Seattle — which means it predates Starbucks' espresso program and much of the city's current coffee culture. It remains in business in the same location, a narrow room with mismatched furniture, Italian roasts, and a clientele of University of Washington students and faculty who have been coming here for decades.

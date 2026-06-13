@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 16.7870
 longitude: 96.1550
+score: 5.6
 ---
 
 Chin Tsong Palace is a striking hybrid building — part European mansion, part Burmese pagoda — built in the early 20th century by Lim Chin Tsong, a wealthy Chinese-Burmese merchant. The building combines a classical European facade with Burmese decorative elements and a roof that evokes a pagoda's tiered structure.

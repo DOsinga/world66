@@ -6,6 +6,7 @@ longitude: -1.5328
 tags:
   - things_to_do
   - neighbourhood
+score: 7.8
 ---
 
 The streets around the Moro Naba Palace form one of the oldest residential quarters of Ouagadougou and the symbolic heart of the Mossi kingdom. The area is mostly low single-storey compounds in mud and concrete, with shaded courtyards and the occasional small mosque or church.

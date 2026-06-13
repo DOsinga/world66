@@ -9,6 +9,7 @@ latitude: 36.4058
 longitude: -105.5761
 sources:
   - https://en.wikipedia.org/wiki/Ernest_L._Blumenschein_House
+score: 7.5
 ---
 
 This adobe house on Ledoux Street was the home of Ernest Blumenschein, one of the two artists who founded the Taos art colony in 1898 after their wagon wheel broke down on the road from Denver and they decided to stay. The museum preserves the house much as it was when Blumenschein and his family lived here, with period furniture, art on the walls, and a sense of daily life in early 20th-century Taos.

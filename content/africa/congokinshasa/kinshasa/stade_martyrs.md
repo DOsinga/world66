@@ -7,6 +7,7 @@ tags:
 latitude: -4.3304
 longitude: 15.31
 snippet: Kinshasa's national stadium, seating 80,000 and the heart of Congolese football
+score: 7.7
 ---
 
 The Stade des Martyrs -- full name Stade des Martyrs de la Pentecôte -- is the national stadium of the DRC and one of the largest in Africa, with a capacity of around 80,000. It hosts international football matches and major events, and on match days the atmosphere is extraordinary: drums, singing, and the collective energy of a city that takes its football extremely seriously. Congo's national team, the Leopards, commands enormous popular loyalty.

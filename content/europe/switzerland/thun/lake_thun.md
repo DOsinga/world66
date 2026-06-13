@@ -15,6 +15,7 @@ story: >
   the regular lake service between Thun and Interlaken from spring to autumn, as
   it has done for over a century. Several other historic steamers also run on Lake
   Thun; the steam-powered service is a genuine piece of living transport history.
+score: 8.8
 ---
 
 Lake Thun stretches 18 kilometres from the town towards Interlaken, hemmed in by mountains on both sides. The water is a striking turquoise-blue — the colour comes from fine glacial silt suspended in the water — and the mountain backdrop, with the Bernese Alps rising sharply from the south shore, makes it one of the most dramatic lake settings in Switzerland.

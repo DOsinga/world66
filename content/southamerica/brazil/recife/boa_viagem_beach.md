@@ -4,6 +4,7 @@ type: poi
 latitude: -8.121
 longitude: -34.898
 tags: [things_to_do, sight, beach, boa_viagem]
+score: 6.6
 ---
 
 A long urban beach running roughly seven kilometres along the south side of the city, backed by a wall of apartment buildings and the wide Avenida Boa Viagem. At low tide the offshore reef forms shallow natural pools that are safe for swimming; outside the pools the water is patrolled and signposted because of shark activity.

@@ -7,6 +7,7 @@ tags:
   - hui_district
 latitude: 40.8090
 longitude: 111.6370
+score: 7.0
 ---
 
 The Hui Muslim street food vendors in the neighbourhood around the Great Mosque produce some of the best fast food in Hohhot. The essential items are lamb skewers (羊肉串) marinated in cumin, chilli flakes, and salt and cooked over charcoal, sesame flatbreads (烧饼) baked in a wood-fired tandoor-style oven, and bowls of lamb noodle soup (羊杂汤) thick with offal and bright with fresh coriander. None of these is expensive and all three are served from small roadside stalls rather than sit-down restaurants.

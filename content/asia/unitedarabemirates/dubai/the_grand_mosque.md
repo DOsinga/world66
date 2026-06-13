@@ -8,6 +8,7 @@ tags:
 - deira
 title: Al Ahmadiya School and Heritage House
 type: poi
+score: 7.0
 ---
 
 Al Ahmadiya School, established in 1912, was Dubai's first formal school. The building, a two-storey structure in the Al-Ras area of Deira, was restored in 1995 and now serves as a museum of education. Adjacent to it is the Heritage House, a traditional merchant's home that gives a sense of how Deira's wealthy families lived in the early twentieth century.

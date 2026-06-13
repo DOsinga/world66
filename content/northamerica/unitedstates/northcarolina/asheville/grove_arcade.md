@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - shopping
+score: 7.6
 ---
 
 The Grove Arcade is an extraordinary public market and office building completed in 1929 — the last project of E.W. Grove, the patent medicine millionaire who also built the Grove Park Inn. It occupies an entire city block on the western edge of downtown. The exterior is Late Gothic Revival, all carved gargoyles and pinnacles in beige limestone; the interior is a five-storey skylit atrium.

@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Quezon
+score: 5.8
 ---
 
 The Quezon Provincial Capitol is the seat of provincial government and one of the more dignified buildings in Lucena. The grounds are open to the public and make a pleasant escape from the highway traffic — wide lawns, mature trees, and a building that carries the civic ambition of mid-twentieth-century Philippine architecture. The Quezon Convention Center sits adjacent to the capitol and hosts the province's larger public events.

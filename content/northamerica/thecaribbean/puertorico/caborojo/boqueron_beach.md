@@ -7,6 +7,7 @@ tags:
 latitude: 18.0250
 longitude: -67.1697
 snippet: "Long public beach in a fishing village on Boquerón Bay, popular with Puerto Ricans"
+score: 7.6
 ---
 
 Boquerón is a small fishing village on a sheltered bay at the northern end of the Cabo Rojo peninsula, and its long calm beach is one of the most popular in western Puerto Rico. The bay is protected, so the water is flat and ideal for families; the village behind the beach has good seafood restaurants, bars, and a lively weekend atmosphere.

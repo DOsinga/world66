@@ -15,6 +15,7 @@ tags:
 - sight
 title: Viros Gorge
 type: poi
+score: 8.2
 ---
 
 The gorge cuts north from just above the village, climbing into the Taygetos with an abruptness that surprises first-time visitors. The lower section is an easy two-hour walk along a marked path through plane trees and scrub oak, with the stream running beside you for much of the way. Higher up, the trails steepen toward the ridge and eventually to Profitis Ilias, the highest peak on the peninsula, which rewards the climb with views stretching from the Mani coast to the mountains of Arcadia on a clear day.

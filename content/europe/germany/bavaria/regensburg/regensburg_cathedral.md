@@ -10,6 +10,7 @@ latitude: 49.01944
 longitude: 12.09833
 story: >
   The Regensburg Domspatzen — "Cathedral Sparrows" — is Germany's oldest boys' choir, founded around 975 AD. For much of the 20th century it was run by Georg Ratzinger, elder brother of Pope Benedict XVI, who was later accused of tolerating physical abuse of choristers during his tenure. The choir still sings at the Sunday mass.
+score: 9.0
 ---
 
 The Cathedral of St Peter is the most important Gothic building in Bavaria and dominates the Regensburg skyline with its twin spires. Construction began in 1273 on the ruins of an earlier Romanesque cathedral and stretched across more than two centuries, so the building carries a full cross-section of Gothic invention. The western facade — with its delicate stonework, medieval figures, and the "laughing angel" (a carved figure of Gabriel whose expression changes from stern to joyful as you walk past) — is among the finest in Germany.

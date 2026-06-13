@@ -6,6 +6,7 @@ longitude: 115.7131
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The Mandurah canals are an extensive network of artificial waterways carved into the residential suburbs around Halls Head and Erskine. They first appeared in the 1970s, modelled on Florida and Queensland canal estates, and have grown into one of the largest such systems in the southern hemisphere. Most of the houses on the waterways have private jetties and small motor boats moored at the front door.

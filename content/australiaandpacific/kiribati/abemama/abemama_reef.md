@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 0.4800
 longitude: 173.8700
+score: 8.1
 ---
 
 The outer reef of Abemama runs for roughly 20 kilometers along the ocean-facing edge of the atoll, a nearly continuous barrier of coral that takes the full force of Pacific swells. On the lagoon side, the water is calm and clear; on the ocean side, conditions can be rough, but the reef itself is pristine.

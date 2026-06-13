@@ -8,6 +8,7 @@ latitude: -9.1428
 longitude: -77.7483
 story: >
   On 31 May 1970, an earthquake measuring 7.9 triggered a rock and ice avalanche from Huascarán's north peak. The debris — 80 million cubic metres of rock, ice, and mud — travelled at 280 kilometres per hour and buried the entire town of Yungay in less than three minutes. Of 25,000 inhabitants, only 92 survived.
+score: 7.0
 ---
 
 The Yungay Camposanto is one of the most sobering places in South America. In 1970, the town of Yungay was completely obliterated by an avalanche triggered by one of the deadliest earthquakes in South American history. The rubble under your feet — now a garden of white roses and concrete markers — is all that remains of a town that had existed for centuries. Huascarán, the mountain that killed it, still towers above.

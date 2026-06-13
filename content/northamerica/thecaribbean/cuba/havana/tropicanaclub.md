@@ -15,6 +15,7 @@ story: >
   of Havana's entertainment venues closed or radically changed character,
   Tropicana survived by becoming a state enterprise. It has been performing
   essentially the same show for over eighty years.
+score: 7.1
 ---
 
 The Tropicana is the most famous nightclub in Cuba and one of the most famous in the world — a spectacular open-air cabaret show performed under the trees of a garden venue in the Marianao suburb, about 20 minutes from central Havana. The show has been running since 1939 with minimal variation: a large cast of dancers in elaborate feathered costumes performing a high-energy Afro-Cuban cabaret, with live orchestra, sequins, and a general commitment to spectacle that the word "extravagant" does not quite capture.

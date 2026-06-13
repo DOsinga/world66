@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Cinque Terre's terraced vineyards, some of which are maintained on slopes of up to 35 degrees, represent around 7,000 km of dry-stone walls — more than the entire length of the Great Wall of China. Much of this labour was built up over centuries by local farmers, and without ongoing maintenance the terraces quickly collapse, which is why vineyard abandonment is considered one of the biggest threats to the UNESCO landscape."
+score: 8.2
 ---
 
 The Cinque Terre National Park was established in 1999 and covers not just the five villages but the terraced hillsides, marine reserve, and coastline between La Spezia and Levanto. It is one of the smallest national parks in Italy but one of the most visited, and managing the crowds while maintaining the fragile terraced landscape is its central challenge.

@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Bankhead Theater
 type: poi
+score: 6.1
 ---
 
 A handsome 500-seat performing arts theatre on First Street, opened in 2007 and the anchor of downtown Livermore's revitalisation. The Bankhead hosts the Livermore-Amador Symphony, Valley Concert Chorale, the local opera and ballet companies, plus a regular programme of touring music, theatre and comedy acts.

@@ -13,6 +13,7 @@ story: >
   at great distance. Its unusual hexagonal shape and decorative details are
   remarkable for a structure built at the edge of the world. A small folk museum
   inside tells the lighthouse keepers' story.
+score: 7.8
 ---
 
 The Garðskagi lighthouses stand at the northern tip of the Reykjanes Peninsula, 12 km north of Keflavik, where the Faxaflói bay opens out to the open Atlantic. Two towers side by side: one from 1897 (the shorter, more decorated one) and one from 1944 (taller, more functional). The older lighthouse is considered one of the finest examples of late 19th-century lighthouse architecture in Iceland.

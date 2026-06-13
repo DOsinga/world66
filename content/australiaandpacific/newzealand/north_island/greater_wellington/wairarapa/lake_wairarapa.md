@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: -41.21666
 longitude: 175.25
+score: 6.6
 ---
 
 Lake Wairarapa is a large, shallow lake at the southern end of the Wairarapa plains, connected to the sea by the Ruamāhanga River. The lake and its surrounding Wairarapa Moana Wetlands form one of the most important wetland ecosystems in the lower North Island, supporting large populations of waterfowl and wading birds. Pied stilts, paradise shelducks, royal spoonbills, bitterns, and fernbirds are among the species found here.

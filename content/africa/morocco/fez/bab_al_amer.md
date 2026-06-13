@@ -8,6 +8,7 @@ tags:
 title: Bab al-Amer
 type: poi
 snippet: "Historic gate of Fes el-Jdid with carved stone decoration"
+score: 7.2
 ---
 
 Bab al-Amer is one of the main historic gates of Fes el-Jdid, set in the massive circuit of Merinid walls that still largely enclose the royal quarter. Like most of Fez's medina gates, it is built in the horseshoe arch style with carved stone and decorative brickwork. It marks one of the entrances to the older parts of Fes el-Jdid from the direction of the Mellah.

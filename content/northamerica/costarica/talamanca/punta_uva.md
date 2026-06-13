@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.6450
 longitude: -82.7050
+score: 7.6
 ---
 
 Punta Uva — "Grape Point" — is a curved bay about 8 km southeast of Puerto Viejo, where the Caribbean coast momentarily turns from utilitarian to spectacular. The beach is wide, the sand is pale, and tall almendro trees lean over the water in a way that puts every travel poster to shame. The swimming is calmer here than further north, the current is gentle, and the beach sees only a fraction of the crowds that descend on Puerto Viejo.

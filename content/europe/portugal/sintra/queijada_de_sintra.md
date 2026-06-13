@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Queijada de Sintra
 type: poi
+score: 7.2
 ---
 
 The queijada is Sintra's signature pastry — a small tart made with fresh cow's cheese, eggs, sugar, flour, and cinnamon. Its origins trace back to the thirteenth century, but it became truly famous during the Romantic era of the nineteenth century when Sintra itself was fashionable.

@@ -4,6 +4,7 @@ email: 'no'
 phone: 546-505-499
 title: Shopping in Mandi Bahauddin
 type: poi
+score: 2.8
 ---
 
 What to buy? Where to buy and How to buy?

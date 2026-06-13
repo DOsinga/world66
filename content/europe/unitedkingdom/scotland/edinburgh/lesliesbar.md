@@ -9,6 +9,7 @@ tags:
 - bar
 title: Leslie's Bar
 type: poi
+score: 7.6
 ---
 
 A tiny, beautifully preserved Victorian island bar in southside Edinburgh, all dark wood, etched glass and a magnificent gantry of 200-plus single malts. Cask ales on the pumps, no music, and a crowd that knows what it has come for.

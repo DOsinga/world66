@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 16.5207
 longitude: 80.6596
+score: 7.0
 ---
 
 A Roman Catholic shrine on Gunadala Hill, dedicated to Our Lady of Lourdes and one of the largest Christian pilgrimage sites in south India. The annual February festival draws hundreds of thousands of pilgrims from across Andhra Pradesh and Telangana, and the hill is dotted with stations of the cross leading up to the church.

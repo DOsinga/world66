@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 23.6167
 longitude: 58.5667
+score: 8.7
 ---
 
 Muttrah is the old commercial heart of the capital, a harbour district immediately west of Old Muscat that was trading before the Portuguese arrived. Its corniche curves around a sheltered bay lined with traditional architecture; behind it, the covered souk spreads through a warren of passages selling silver, spices, incense, textiles, and frankincense. Muttrah is more lived-in and less polished than the rest of Muscat — the fish market is real and smelly, the souk caters to local buyers as well as tourists, and the buildings along the corniche mix old Omani merchant houses with 1970s concrete.

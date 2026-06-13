@@ -13,6 +13,7 @@ story: >
   depth, supporting large populations of sardines, anchovies, and the larger fish 
   that feed on them. Dakhla's catch reflects this abundance — the variety at the 
   morning market can be startling given how far from any major city you are.
+score: 6.8
 ---
 
 The morning fish market near the port is where Dakhla's day begins. Fishing boats come in overnight, and by early morning the stalls are laid out with whatever the Atlantic gave up: sardines in deep blue stacks, thick-fleshed grouper, occasional octopus, and seasonal varieties. It is primarily a market for restaurants and local households, not a tourist attraction, but no one will object to you walking through and looking.

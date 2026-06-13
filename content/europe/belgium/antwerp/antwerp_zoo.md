@@ -10,6 +10,7 @@ type: poi
 url: https://www.zooantwerpen.be
 snippet: One of the world's oldest zoos, in Belle Époque buildings beside Central Station
 story: "Founded in 1843 in what was then the edge of the city, Antwerp Zoo is one of the oldest in the world. The historic enclosures — Egyptian Temple for the elephants, Moorish Palace for the giraffes — are protected monuments in their own right and have been kept even as the animals have moved to larger spaces."
+score: 7.1
 ---
 
 Right next to Central Station, Antwerp Zoo is one of the oldest in the world (founded 1843) and one of the most architecturally interesting. The original enclosures — including an Egyptian Temple built for the elephants and a Moorish Palace for the giraffes — are protected monuments and worth seeing in their own right. The zoo has been modernised in waves; some of the older display spaces have been replaced with larger natural enclosures.

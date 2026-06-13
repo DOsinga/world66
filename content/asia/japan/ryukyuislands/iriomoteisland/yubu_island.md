@@ -7,6 +7,7 @@ tags:
 latitude: 24.345
 longitude: 123.935
 story: "At low tide, water buffaloes pull wooden carts of visitors between Iriomote and Yubu across a shallow channel. The crossing takes 10–15 minutes and is one of the more photographed scenes in the southern Yaeyamas."
+score: 7.1
 ---
 
 Yubu is a tiny island, about 2 km in circumference, sitting just off the east coast of Iriomote. It is a private nature park — a long footpath wandering through hibiscus, bougainvillea, palms, and a small butterfly garden, ending at a beach with views back to the main island.

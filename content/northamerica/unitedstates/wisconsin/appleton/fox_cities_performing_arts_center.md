@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 44.2617
 longitude: -88.4108
+score: 7.1
 ---
 
 The Fox Cities Performing Arts Center is the main venue for touring Broadway productions, orchestral concerts, and dance companies passing through the Fox Valley. The building opened in 2002 and seats just under 2,100, making for an intimate experience with major touring productions that sometimes bypass Milwaukee entirely.

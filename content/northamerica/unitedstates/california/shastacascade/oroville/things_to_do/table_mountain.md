@@ -2,6 +2,7 @@
 title: "Table Mountain wildflower hikes"
 type: poi
 tags: [nature, hiking, seasonal]
+score: 8.3
 ---
 
 Table Mountain is a flat-topped basalt mesa rising above the Feather River valley west of Oroville, formed by a prehistoric lava flow that capped the ridge and protected it from the erosion that wore down the surrounding hills. In most seasons it's an unassuming ridge of dark rock and dry grass, but from mid-March to mid-April it becomes one of the most spectacular wildflower displays in California's foothills.

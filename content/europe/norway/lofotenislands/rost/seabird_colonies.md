@@ -12,6 +12,7 @@ story: >
   Vedøya, and Trenyken rise nearly 260 metres straight from the sea and host the largest puffin
   colony in Norway — estimated at around 700,000 breeding pairs at peak, though numbers have
   declined sharply in recent decades due to collapsing sand eel stocks.
+score: 9.4
 ---
 
 The outer islands of Røst — Storfjellet, Vedøya, and Trenyken — are home to one of the most spectacular seabird colonies in Northern Europe. During summer (June and July), the rock faces are alive with puffins, razorbills, guillemots, gannets, and kittiwakes in numbers that are genuinely difficult to comprehend. The puffins alone number in the hundreds of thousands.

@@ -7,6 +7,7 @@ tags:
 latitude: 57.8976
 longitude: -6.804
 snippet: Working whisky and gin distillery in Tarbert village
+score: 6.8
 ---
 
 Opened in 2015, the Isle of Harris Distillery in Tarbert is the island's first legal distillery. The gin — Harris Gin — has become well known outside Scotland, using local botanicals that include sugar kelp harvested from the surrounding sea. The whisky is still maturing; limited releases have sold out quickly. The building itself is contemporary and well-designed, sitting comfortably on the Tarbert waterfront without trying to look old.

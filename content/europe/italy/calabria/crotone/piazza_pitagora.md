@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.0811
 longitude: 17.1283
+score: 5.6
 ---
 
 Crotone's main square is named after Pythagoras, who founded his philosophical school here in the sixth century BC. The square sits at the heart of the old town and is a pleasant place to sit in the evening when the heat has dropped and the locals come out for the passeggiata. A statue of the philosopher stands in the centre.

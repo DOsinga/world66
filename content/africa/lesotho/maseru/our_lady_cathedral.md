@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 The cathedral of the Catholic archdiocese of Maseru is a 1930s sandstone church on a low rise just east of the city centre, the most prominent religious building in town. Its modestly pointed twin towers and stone facade are surrounded by the offices of the archdiocese and a small school.

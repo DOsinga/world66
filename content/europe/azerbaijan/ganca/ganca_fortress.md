@@ -6,6 +6,7 @@ latitude: 40.676716
 longitude: 46.355207
 sources:
   - https://en.wikipedia.org/wiki/Ganja_Fortress
+score: 5.9
 ---
 
 The remains of the sixteenth-century Ganca Fortress walls survive in the city park near the convention building, incorporated into the park landscape as a pleasant historical curiosity. The walls are fragmentary — the original fortress was never large, and centuries of earthquakes and reconstruction have left only sections standing — but they give a tangible sense of the fortified city that existed here before the Russian conquest.

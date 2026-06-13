@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.6367
 longitude: 74.1917
+score: 6.2
 ---
 
 About 20 kilometres northeast of Gujrat lies Jalalpur Jattan, a small town that sits near the site of the ancient city of Bucephala — the city founded by Alexander the Great in 326 BC on the banks of the Jhelum river to commemorate his horse Bucephalus, who died here during or shortly after the Battle of the Hydaspes. The battle itself, fought against the Indian king Porus, was one of Alexander's hardest-won victories and the eastern limit of his conquests.

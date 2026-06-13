@@ -8,6 +8,7 @@ tags:
   - sight
   - kremlin_district
   - architecture
+score: 7.8
 ---
 
 The white limestone walls of the Kazan Kremlin run for almost two kilometres around the citadel, with thirteen towers surviving from the 16th and 17th centuries. The Spasskaya Tower at the southern gate is the main visitor entrance — a tall white tower with a green spire and the clock above the arch, finished in the 1560s by Postnik Yakovlev's Pskovian masons.

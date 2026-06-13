@@ -14,6 +14,7 @@ story: >
   wide, which brings the whales into unusually close proximity to the island.
 sources:
   - https://en.wikipedia.org/wiki/Salt_Cay,_Turks_Islands
+score: 9.2
 ---
 
 Between January and April, humpback whales pass close to Salt Cay as they migrate through the Columbus Passage. The depth of the channel — over 7,000 feet — and the island's position on the natural migration route mean that sightings are frequent and often very close. Salt Cay Divers operates whale watching trips from the island; on calm days with cooperative whales, in-water snorkelling encounters are possible.

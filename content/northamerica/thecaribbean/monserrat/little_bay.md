@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.7917
 longitude: -62.2078
+score: 6.3
 ---
 
 Little Bay is the small port on the north coast that took over from Plymouth as Montserrat's effective capital after the eruptions. It is where the ferry from Antigua docks, where the inter-island cargo ships unload, and where Brades — the seat of government a couple of kilometres uphill — has its waterfront.

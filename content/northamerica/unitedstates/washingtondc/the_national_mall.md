@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 38.8893
 longitude: -77.0325
+score: 9.5
 ---
 
 The National Mall is the two-mile green corridor that runs from the Capitol Building west to the Lincoln Memorial, with the Washington Monument at its centre. It is not a shopping mall — it is the civic core of the country, lined on both sides by the Smithsonian museums and flanked by reflecting pools, war memorials, and the most visited stretch of public land in the United States.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 14.0934
 longitude: 74.4836
+score: 7.8
 ---
 
 The 37-metre Shiva statue at Murudeshwar was for a time claimed to be the world's tallest statue of Shiva — a title that has since been overtaken by larger figures elsewhere in India, but the Murudeshwar statue remains one of the most dramatically sited. It stands at the top of Kanduka Hill with the Arabian Sea on three sides, painted brilliant white, visible from far out at sea.

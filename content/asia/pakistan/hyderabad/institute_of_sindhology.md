@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 25.4155
 longitude: 68.3636
+score: 7.7
 ---
 
 A museum at the University of Sindh campus in Jamshoro, across the Indus from Hyderabad, dedicated to all aspects of Sindhi history, music, literature, and material culture. The collection covers ancient Indus Valley artefacts, medieval Sindhi manuscripts, folk musical instruments, traditional costumes, and documents related to the cultural life of the region.

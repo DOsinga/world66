@@ -13,6 +13,7 @@ story: >
   time — the soft layers eroded faster, leaving the distinctive stacked look. When the 
   tide comes in during a southerly swell, seawater is forced through the blowholes with 
   sufficient pressure to send columns of spray 10 metres into the air.
+score: 8.7
 ---
 
 Pancake Rocks at Punakaiki, about 50 kilometres south of Westport, are the most visited natural attraction on New Zealand's West Coast — and one of the more extraordinary geological formations in the country. The limestone has been eroded into distinct horizontal layers that look precisely like stacked pancakes, rising from the sea in formations up to fifteen metres tall along a dramatic stretch of coastline.

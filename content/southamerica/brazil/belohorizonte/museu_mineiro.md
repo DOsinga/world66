@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museu Mineiro
 type: poi
+score: 7.5
 ---
 
 The Museu Mineiro is the official state history museum of Minas Gerais, housed in a stately late nineteenth-century mansion just off Praça da Liberdade. The collection covers four hundred years of Minas Gerais history: colonial silver, baroque religious sculpture from the great mining-town churches, paintings by the Mineiran master Mestre Athaíde, and the document archives of state political life.

@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 snippet: Open-air dinosaur park alongside the Cal Orck'o tracks
+score: 7.6
 ---
 
 The Parque Cretácico is the visitor centre and dinosaur park built next to the Cal Orck'o palaeontological wall on the northern edge of Sucre. The centrepiece is a viewing terrace overlooking the wall itself, with informative panels (in Spanish and English) explaining how the wall formed and which species made which tracks. Scattered around the park are 24 life-size fibreglass dinosaur models — sauropods the size of buses, theropods, a smiling triceratops — that delight children.

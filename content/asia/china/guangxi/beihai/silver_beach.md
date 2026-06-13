@@ -14,6 +14,7 @@ story: >
   shore glow blue, and footsteps in the wet sand leave luminous prints.
   The phenomenon is not unique to Beihai, but it is unusually reliable
   here in the right conditions.
+score: 7.9
 ---
 
 Silver Beach, about ten kilometres south of the city centre, is the finest beach in Guangxi and one of the better ones on the Chinese mainland. The sand is pale and fine — quartz rather than the yellowish silicate found on most Chinese beaches — and the water is calm, warm for most of the year, and clear enough to see the bottom in waist-deep water. On clear summer nights, bioluminescence in the waves makes swimming after dark an unforgettable experience.

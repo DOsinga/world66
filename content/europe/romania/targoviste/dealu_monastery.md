@@ -9,6 +9,7 @@ tags:
   - church
   - historic
 story: "The monastery's church holds the severed head of Mihai Viteazul — Michael the Brave — the Wallachian prince who in 1600 briefly united Wallachia, Moldavia, and Transylvania for the first time. After his assassination the next year, the head was rescued from the field by a faithful captain and brought here for burial. The skull is sealed under a marble slab in the nave."
+score: 8.3
 ---
 
 Six kilometres north of Târgoviște on a low hill (dealu means hill), a fortified monastery founded in 1431 and rebuilt in stone in 1500 by Radu cel Mare. The church, with its carved twin spires and unusual stone facade work, is one of the most distinctive monastic buildings in Wallachia.

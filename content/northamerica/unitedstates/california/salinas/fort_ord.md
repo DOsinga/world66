@@ -14,6 +14,7 @@ story: >
   grounds slowly being reclaimed by Monterey pine and chaparral. Parts of the
   former base are now a national monument with 86 miles of hiking and mountain
   biking trails.
+score: 7.6
 ---
 
 Fort Ord National Monument covers more than 7,000 acres of the former US Army base, now managed by the Bureau of Land Management as a recreational area and conservation zone. The combination of military history and recovered coastal scrubland habitat makes it one of the more unusual destinations on the Monterey Peninsula.

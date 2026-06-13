@@ -7,6 +7,7 @@ tags:
 snippet: Rice-field restaurant where you eat in stilt bamboo huts over the paddies
 latitude: -6.8627
 longitude: 107.5862
+score: 6.2
 ---
 
 Sapu Lidi is the classic Bandung *saung* experience: a sprawling Sundanese restaurant where each dining party gets its own small bamboo hut on stilts over a working rice paddy. You sit cross-legged on a tatami floor, order from a menu of grilled fish, *ayam bakar*, *karedok*, and water-spinach, and let it appear an hour later in a parade of small dishes.

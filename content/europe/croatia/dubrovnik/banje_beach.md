@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.6393
 longitude: 18.1141
+score: 6.7
 ---
 
 Banje is the most popular and central beach in Dubrovnik, a pebbly cove immediately east of the Ploče Gate with direct views back to the city walls and the old town. The beach itself is not exceptional by Croatian standards — gravel and pebbles rather than sand — but the setting is remarkable. Swimming with the medieval walls of Dubrovnik as your backdrop is an experience difficult to replicate anywhere else on the Adriatic.

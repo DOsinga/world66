@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -20.4097
 longitude: 57.7060
+score: 7.4
 ---
 
 The Monday market in Mahébourg is one of the most authentic and lively on the island — less tourist-oriented than the Port Louis central market, and frequented mainly by locals from the surrounding villages and countryside. Stalls sell fresh vegetables, tropical fruit, spices, street food, and handicrafts in relaxed abundance.

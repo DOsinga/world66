@@ -6,6 +6,7 @@ longitude: 57.5025
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 Place d'Armes is the ceremonial axis of Port Louis — a long palm-lined square running from the harbour up to Government House, the colonial-era seat of administration. The avenue of royal palms was planted in 1772 and is still the postcard image of the city.

@@ -5,6 +5,7 @@ latitude: 33.270
 longitude: 35.195
 snippet: "Roman colonnades, Crusader cathedral ruins, and the ancient harbour — the archaeological heart of the old city"
 tags: [things_to_do, sight, historic]
+score: 8.9
 ---
 
 Al-Mina occupies the tip of the peninsula that was once the island fortress of ancient Tyre. The site holds a layered accumulation of history: Roman colonnaded streets running toward the sea, the ruins of a Crusader cathedral, Byzantine mosaics, and the remnants of what was the ancient harbour. The colonnades are well-preserved in sections, and the juxtaposition of Roman stonework beside Crusader masonry beside fishing boats makes the timeline of the place tangible in a way that a textbook cannot.

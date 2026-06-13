@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 6.8
 ---
 
 The Khan Rustem Pasha is a historic caravanserai built in the Ottoman period to provide lodging, storage, and stabling for merchants travelling the trade route between Aleppo and Damascus. Caravanserais followed a standard plan: a large rectangular courtyard surrounded by two-storey galleries, with stables and goods storage on the ground floor and sleeping rooms above, and a single fortified gate that closed at night. The khan provided security in an era before banking — merchants could store their goods safely while negotiating in the market.

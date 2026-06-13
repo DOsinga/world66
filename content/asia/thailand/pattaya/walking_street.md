@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 12.9255
 longitude: 100.8712
+score: 6.4
 ---
 
 Walking Street is the main entertainment strip in South Pattaya — about 500 metres of bars, clubs, restaurants, and cabaret venues that close to traffic from 6pm onwards. It is the densest concentration of nightlife in one of Southeast Asia's most notorious bar towns, loud and very direct about what it is.

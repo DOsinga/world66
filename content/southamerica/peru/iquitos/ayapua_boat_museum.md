@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: -3.7492
 longitude: -73.2435
+score: 6.8
 ---
 
 The Ayapua is a steam-powered river boat built in Scotland in 1906 and brought to the Amazon during the rubber boom. For decades it transported rubber, passengers, and cargo up and down the river between Iquitos and the Ucayali basin. The boat now sits near the Malecón as a floating museum, with the original machinery largely intact and a small display covering the rubber era.

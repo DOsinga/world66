@@ -8,6 +8,7 @@ latitude: 33.6742
 longitude: -117.9100
 story: >
   The LAB was developed in 1993 in deliberate opposition to South Coast Plaza. Its founders converted a former industrial complex specifically to attract the kind of independent retailers and galleries that could not afford — or would not fit — in a conventional mall. The name is a contraction of "Little American Business."
+score: 6.9
 ---
 
 The LAB Anti-Mall is a converted industrial complex on Bristol Street that exists as a conscious alternative to the shopping behemoth across town. Independent clothing boutiques, a bookshop, restaurants, and gallery spaces occupy the former manufacturing buildings, arranged around outdoor courtyards with murals and informal seating.

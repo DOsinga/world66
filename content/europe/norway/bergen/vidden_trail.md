@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, outdoor, hiking]
 latitude: 60.3867
 longitude: 5.3642
+score: 9.2
 ---
 
 The Vidden trail crosses the high plateau between Mount Fløyen and Mount Ulriken — 15 km of moorland hiking that is one of the finest urban walks in Europe. The route goes across heather and bog, past small lakes, with broad views over Bergen and the fjords. It takes five to six hours at a comfortable pace.

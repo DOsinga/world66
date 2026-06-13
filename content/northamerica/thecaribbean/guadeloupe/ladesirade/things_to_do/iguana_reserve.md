@@ -3,6 +3,7 @@ title: Lesser Antillean Iguana Reserve
 type: poi
 latitude: 16.3200
 longitude: -61.0400
+score: 7.8
 ---
 
 The Lesser Antillean iguana (Iguana delicatissima) is one of the most endangered lizards in the Caribbean. Genetically distinct from the common green iguana and native to the Lesser Antilles, it has been displaced across most of its range by introduced green iguanas and habitat loss. La Désirade is one of the few islands where a viable population survives, protected in a reserve in the dry scrubland in the island's interior.

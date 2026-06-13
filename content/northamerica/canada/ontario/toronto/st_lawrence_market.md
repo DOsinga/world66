@@ -9,6 +9,7 @@ tags:
 title: St. Lawrence Market
 type: poi
 url: https://www.stlawrencemarket.com
+score: 8.3
 ---
 
 Built in 1850, St. Lawrence Market sits at the corner of Front and Jarvis and remains one of Toronto's essential stops. The selection of fresh meat, produce, and prepared food is outstanding, and the lunch options are both good and cheap.

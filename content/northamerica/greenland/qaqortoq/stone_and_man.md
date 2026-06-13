@@ -7,6 +7,7 @@ tags:
 latitude: 60.71833
 longitude: -46.03750
 story: "The Stone and Man project began in 1993 when Greenlandic sculptor Hans Lynge invited a group of Nordic and international artists to carve directly into the rock faces and boulders of Qaqortoq. The project continued over several summers and eventually produced over 30 carvings across the town. It is the only open-air sculpture gallery of its kind in the Arctic — and the works have been slowly weathering and moss-growing into the landscape for over thirty years."
+score: 8.4
 ---
 
 Stone and Man is an extraordinary open-air sculpture project that transformed Qaqortoq into an outdoor gallery. Beginning in 1993, sculptors carved directly into the rocks and cliff faces of the town — not onto imported stone, but into the living bedrock. The result is a set of over thirty sculptures distributed across the town's hills and streets, each emerging from its geological setting as if it had always been there.

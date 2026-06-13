@@ -13,6 +13,7 @@ story: >
   grown over the top of old trees, creating hidden voids beneath the surface. The area
   around the summit is now closed to unsupervised hiking, and ranger-led tours are the
   only way to visit.
+score: 8.1
 ---
 
 At 123 feet, Mount Baldy is one of the tallest dunes on the southern shore of Lake Michigan and one of the most remarkable geological features in the national park. Unlike the forested dunes nearer to Porter, Baldy is largely bare — the vegetation that once stabilised it was stripped away by decades of heavy visitor use, and the dune has been migrating inland ever since. The summit offers views across the lake and back over the surrounding wooded landscape.

@@ -9,6 +9,7 @@ latitude: 30.4344
 longitude: 114.8787
 story: >
   Su Dongpo arrived in Huangzhou in 1080 under a form of internal exile after being convicted of defaming the emperor through his poetry. He had no official duties and very little money. In the four years he spent here — farming a plot of land called the Eastern Slope (Dongpo), from which he took his literary name — he wrote two of the most famous prose poems in Chinese literature, both meditations on the Yangtze and on the impermanence of power and ambition. He eventually left Huangzhou for a series of other posts, but the years here produced some of his best work.
+score: 7.7
 ---
 
 The Su Dongpo Memorial Museum is dedicated to Su Shi — known by his literary name Su Dongpo — one of the most admired poets, essayists, and painters of the Song dynasty, who spent four years of political exile in Huangzhou in the 1080s. The museum occupies a pleasant site beside Yiai Lake, a long narrow lake between the city and the Yangtze, and covers Su's life, his Huangzhou years, and the literary output of his exile. The two Red Cliff Rhapsodies — prose poems that use the Yangtze landscape and the Battle of Red Cliffs as an occasion for reflecting on mortality and the insignificance of individual striving against the flow of time — are displayed here with commentary. They are among the most translated classical Chinese texts.

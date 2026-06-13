@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 54.8597
 longitude: 10.3892
+score: 5.9
 ---
 
 Rise Bryggeri, a microbrewery on the road between Ærøskøbing and Marstal, is one of those local industries that has built a following well beyond its small island. The brewery uses local barley and Ærø-grown hops in some of its beers and runs tours and tastings in summer.

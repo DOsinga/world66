@@ -9,6 +9,7 @@ tags:
 - eating_out
 - restaurant
 - center_strip
+score: 8.1
 ---
 
 The American flagship of the late Joël Robuchon — once the most-Michelin-starred chef in history — sits inside the MGM Grand and holds the Strip's only three-star rating. The dining room is decked out like a Paris drawing room of the 1920s: chandeliers, velvet, polished wood, and a small bread cart rolled tableside that holds more than a dozen choices. Tasting menus run sixteen courses and cost accordingly.

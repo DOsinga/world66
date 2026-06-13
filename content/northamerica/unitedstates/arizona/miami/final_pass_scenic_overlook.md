@@ -14,6 +14,7 @@ story: >
   in the early 20th century, the district had produced more copper per square mile than
   almost anywhere else on earth — the red and orange colours staining the hillsides today
   are oxidised copper minerals that were left behind after the richest ore was extracted.
+score: 7.1
 ---
 
 US-60 between Miami and Superior cuts through one of the most visually dramatic mining landscapes in the American West. The Final Pass section of the road passes through the heart of the Miami copper mining district, with open-pit workings carved into the red and ochre hillsides on both sides of the highway. Terraced benches rise hundreds of feet above the road, and the sheer scale of what decades of industrial extraction can do to a landscape is sobering and impressive in equal measure.

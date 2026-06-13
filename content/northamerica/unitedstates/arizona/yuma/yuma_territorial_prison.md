@@ -12,6 +12,7 @@ story: >
   Among the 3,069 people eventually held here was Pearl Hart, one of the last stagecoach robbers in the American West, 
   who was imprisoned in 1899 and became a minor celebrity for her cheerful defiance of her captors. The prison closed 
   in 1909, and Yuma High School briefly used the cells as classrooms.
+score: 8.7
 ---
 
 The Yuma Territorial Prison sits on a bluff above the Colorado River where the desert makes escape almost impossible — the surrounding terrain was considered as much a barrier as the bars. Open from 1876 to 1909, it held some of the worst outlaws of the Arizona Territory, and the cells, guard tower, and graveyard are all intact and open to visitors. A small museum on site tells the stories of notable prisoners and the guards who watched them.

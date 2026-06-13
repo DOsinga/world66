@@ -7,6 +7,7 @@ tags:
 latitude: -6.2692
 longitude: 106.0500
 story: "Mount Karang is a dormant stratovolcano that has not erupted in historical times, but the slopes above 1,500 metres are still studded with fumaroles and hot springs. Local Sundanese tradition counts it among the magical mountains of Banten — the sultan of old Banten is said to have made an annual pilgrimage to its summit shrine."
+score: 7.9
 ---
 
 The cone of Gunung Karang rises to 1,778 metres about ten kilometres northwest of Pandeglang town, the highest point in Banten. The forested upper slopes are protected and home to lutung monkeys, gibbons, and a long list of endemic birds.

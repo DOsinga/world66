@@ -8,6 +8,7 @@ tags:
 - pagoda
 title: Aung Chan Tha Pagoda
 type: poi
+score: 5.8
 ---
 
 A small whitewashed pagoda right on the riverbank in central Pyay, Aung Chan Tha is best visited at sunset. The Ayeyarwady is at its widest here — almost a kilometre across — and the terrace looks straight west into the low sun. Fishermen pull in for the night, small ferries cross to the far bank, and the gilded spires of the Shwesandaw glow on the hill behind you.

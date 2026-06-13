@@ -10,6 +10,7 @@ story: >
   The island fortress was used as a prison from the 19th century until 1965, and the building has the particular atmosphere of a place that has been many things over many centuries. Before it was a prison it was variously a military garrison, a lighthouse tower, and a watchtower. The name "colombaia" means dovecote, suggesting that at some point pigeons were kept here.
 sources:
   - https://en.wikipedia.org/wiki/Castello_della_Colombaia
+score: 5.8
 ---
 
 The Castello della Colombaia occupies a small islet at the entrance to Trapani harbour, connected to the mainland by a causeway. The fortification dates in its current form to the 15th century, built on foundations that go back to Roman or earlier times. Its cylindrical tower dominates the harbour entrance and appears in most photographs of Trapani taken from the sea.

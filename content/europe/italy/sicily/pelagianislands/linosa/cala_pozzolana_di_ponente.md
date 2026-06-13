@@ -9,6 +9,7 @@ longitude: 12.8512
 snippet: "Black volcanic beach — Linosa's finest, with extraordinary snorkelling and turtle nesting"
 story: >
   Each summer between June and August, Caretta caretta loggerhead sea turtles haul themselves out of the Mediterranean at night to lay eggs on this beach — one of the last active nesting sites in Italian waters. The eggs hatch about 60 days later, and the hatchlings make their run to the sea before dawn. Linosa has some of the highest nesting density of any island in the central Mediterranean, largely because the beach has no artificial lighting and is left undisturbed.
+score: 8.1
 ---
 
 The best beach on Linosa is not a beach in any conventional sense — it is a cove of coarse black volcanic sand and rounded lava pebbles, enclosed by dark cliffs and backed by the scrubby slopes of an extinct volcano. Cala Pozzolana di Ponente sits on the island's southwestern shore, sheltered from the prevailing wind, with calm water that is among the clearest in the Mediterranean. On a still day you can see the bottom at 15 metres without a mask.

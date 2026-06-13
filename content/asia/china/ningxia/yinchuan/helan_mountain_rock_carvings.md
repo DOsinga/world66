@@ -12,6 +12,7 @@ story: >
   face with large eyes that some visitors have compared to an alien face.
   Whether or not you share the enthusiasm of the UFO theorists, the sheer
   age and variety of the carvings is extraordinary.
+score: 8.1
 ---
 
 A gorge in the Helan Mountains about 60 kilometres northwest of Yinchuan contains one of China's most extensive collections of ancient rock carvings. The petroglyphs were made by various nomadic peoples over a period spanning roughly 10,000 years — hunting scenes, human faces, animals, sun symbols, and abstract patterns cover the canyon walls in extraordinary density.

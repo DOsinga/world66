@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Stari Grad — 'old town' in Croatian — was founded as Pharos by Greeks from Paros in 384 BC, making it one of the oldest continuously inhabited towns in Europe. The agricultural plain behind it, divided into the same rectangular plots the Greeks laid out, is a UNESCO site for its preserved ancient field system."
+score: 8.6
 ---
 
 Stari Grad is the architectural heart of Hvar island, a quiet stone town tucked at the end of a long, deep inlet on the north coast. The narrow lanes wind back from the harbour past Renaissance houses, small piazzas with lemon trees, and the heavy stone walls of Tvrdalj, the fortified summer residence of the poet Petar Hektorović.

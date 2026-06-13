@@ -14,6 +14,7 @@ story: >
   because he wanted to give his home region a significant cultural institution.
 sources:
   - https://en.wikipedia.org/wiki/Museum_Jorn,_Silkeborg
+score: 8.2
 ---
 
 Museum Jorn is an art museum on the bank of the Gudenå devoted primarily to Asger Jorn, the Danish-born painter who was one of the key figures in postwar European art. Jorn was born near Silkeborg and maintained a lifelong connection to the town, donating his collection here in 1953 as the seed of what became one of Denmark's significant regional art museums.

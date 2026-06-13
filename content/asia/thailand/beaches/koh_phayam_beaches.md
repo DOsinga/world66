@@ -6,6 +6,7 @@ latitude: 9.740532
 longitude: 98.403646
 tags:
 - beaches
+score: 8.7
 ---
 
 A small, kangaroo-shaped island in the northern Andaman Sea near Ranong, Koh Phayam has the kind of white-sand beaches and live coral reefs that southern Thailand used to have before the crowds arrived. The island has no cars — only motorcycles and bicycles on narrow tracks — and no mains electricity in most areas, just small resorts and simple bungalow accommodation.

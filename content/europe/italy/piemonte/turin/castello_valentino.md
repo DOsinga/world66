@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.0551
 longitude: 7.6884
+score: 7.5
 ---
 
 The Savoys' riverside palace, half French chateau and half Piedmontese castle, sits at the upstream end of Parco del Valentino. Christina of France, regent of Savoy and a daughter of Henri IV, gave it its steep slate roofs and corner pavilions in the 1630s; the building has the look of a Loire chateau dropped beside an Italian river.

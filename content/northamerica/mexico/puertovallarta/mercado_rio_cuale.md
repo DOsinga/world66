@@ -7,6 +7,7 @@ tags:
 - market
 title: Mercado Municipal Río Cuale
 type: poi
+score: 5.8
 ---
 
 Puerto Vallarta's main municipal market, founded in 1957, on the north bank of the Río Cuale in the Centro district. Stalls packed with silver jewellery, embroidered textiles, Talavera pottery, leather goods, and all the standard Mexican souvenirs. The upper floor has food stalls serving cheap, no-nonsense Mexican cooking. Haggling is expected.

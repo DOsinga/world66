@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.8147
 longitude: 20.5639
+score: 5.8
 ---
 
 The Agricultural Machinery Museum (Mezőgazdasági Gépmúzeum) holds a collection of nineteenth- and twentieth-century farming equipment — steam tractors, threshers, ploughs — laid out in and around a former workshop. The Matyó region was traditionally one of the poorer agricultural districts of Hungary, and the machinery on show traces the slow mechanisation that changed that.

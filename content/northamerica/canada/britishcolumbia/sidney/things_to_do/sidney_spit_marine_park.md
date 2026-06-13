@@ -1,6 +1,7 @@
 ---
 title: "Sidney Spit Marine Park"
 type: poi
+score: 8.4
 ---
 
 Sidney Spit is a long sandy peninsula extending from the northern tip of Sidney Island, about two kilometres east of Sidney across Miners Channel. A seasonal passenger-only ferry (typically running May through September) departs from the Sidney pier and makes the crossing in around 20 minutes, dropping visitors at one of the finest sandbars on the BC coast.

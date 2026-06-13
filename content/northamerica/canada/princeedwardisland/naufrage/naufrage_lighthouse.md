@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - lighthouse
+score: 6.3
 ---
 
 The Naufrage Lighthouse stands on the harbour point at the northern edge of the community, overlooking the Gulf of St Lawrence. The name "Naufrage" comes from the French word for shipwreck — this section of the PEI coastline was notorious for the number of vessels that came to grief on its shoals and sandbars in the 18th and 19th centuries. The lighthouse was built to address that problem.

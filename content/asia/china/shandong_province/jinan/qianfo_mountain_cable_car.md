@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6330
 longitude: 117.0370
+score: 6.5
 ---
 
 The east side of Qianfo Mountain contains a striking piece of Communist-era heritage: one of the largest surviving public statues of Mao Zedong in China, a colossal stone figure in Mao jacket extending his arm over the city below. The statue dates from the Cultural Revolution and has remained in place while most comparable monuments were dismantled. It commands views north over Jinan and is surrounded by formal gardens.

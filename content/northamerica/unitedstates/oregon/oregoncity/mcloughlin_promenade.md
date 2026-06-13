@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Scenic bluff-top walkway with views over the Willamette River and Oregon City"
+score: 6.3
 ---
 
 The McLoughlin Promenade is a landscaped walkway along the basalt bluff edge on the south side of Oregon City, with views down to the Willamette River, the industrial riverfront, and the surrounding hills. It connects several historic houses and the Carnegie Library building and makes for a pleasant fifteen-minute walk, especially at dusk when the river catches the light.

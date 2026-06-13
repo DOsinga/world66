@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 8.8
 ---
 
 The Frist occupies the former main post office on Broadway, a 1933 art deco building of white marble with restored aluminium grilles, terrazzo floors, and original brass details. The museum has no permanent collection of its own; instead, it runs a continuous programme of large temporary exhibitions on loan from museums around the world — recent shows have included Picasso, Frida Kahlo, ancient Egyptian, and African contemporary art.

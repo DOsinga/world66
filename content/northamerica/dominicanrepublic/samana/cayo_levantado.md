@@ -11,6 +11,7 @@ tags:
 - nature
 title: Cayo Levantado
 type: poi
+score: 7.6
 ---
 
 The small offshore island in the bay east of Samaná is what travel guides reach for when they need a Caribbean cliché: white sand, palms, transparent shallows in postcard turquoise. The eastern public beach is the bit visitors get to, served by frequent boat shuttles from the Samaná pier and busy with day-trippers from the cruise ships that anchor in the bay.

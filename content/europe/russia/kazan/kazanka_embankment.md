@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.1
 ---
 
 The Kremlin Embankment (Kremlyovskaya Naberezhnaya) is a wide riverside boardwalk that runs east from below the Kremlin walls along the Kazanka river, opened in 2015. The flat promenade has cafes, fountains, child-friendly play areas, and a separated cycle lane; in winter much of it freezes over and becomes a public ice rink.

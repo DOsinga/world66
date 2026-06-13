@@ -13,6 +13,7 @@ tags:
   - sight
 title: Our Lady of the Rocks (Gospa od Škrpjela)
 type: poi
+score: 9.3
 ---
 
 Our Lady of the Rocks is an artificial island, built up gradually over centuries as sailors dropped stones around a small reef to fulfil a vow. The tradition began in 1452, when fishermen found an icon of the Madonna on the rock and, as the story goes, began the long process of building an island around it. The church on top was completed in the 17th century and is still an active place of worship.

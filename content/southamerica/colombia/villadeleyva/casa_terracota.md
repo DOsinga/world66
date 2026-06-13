@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 5.636
 longitude: -73.524
+score: 7.8
 ---
 
 Casa Terracota is one of the most extraordinary private buildings in Colombia — a house built entirely from clay, designed and constructed by the Colombian architect Octavio Mendoza over several decades. Every surface, wall, and structural element is terracotta; the building is, in effect, a single giant ceramic object. Mendoza called it "the largest piece of pottery in the world," which is not far from the truth.

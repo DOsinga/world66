@@ -10,6 +10,7 @@ tags:
 - sight
 title: Palais Jacques-Coeur
 type: poi
+score: 9.2
 ---
 
 Jacques Coeur was a 15th-century merchant, banker, and royal treasurer who amassed one of the great fortunes of medieval France — and then lost it all when Charles VII turned on him. His palace in Bourges, built between 1443 and 1451, survived him and remains one of the finest examples of civil Gothic architecture in the country.

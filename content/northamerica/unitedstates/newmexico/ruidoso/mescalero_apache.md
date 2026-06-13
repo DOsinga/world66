@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 33.1569
 longitude: -105.7736
+score: 7.3
 ---
 
 The Mescalero Apache Reservation surrounds Ruidoso to the south and west, and the tribal cultural centre in the village of Mescalero (about 12 miles south on US-70) provides a good introduction to the history and traditions of the Mescalero people. Exhibits cover traditional lifeways, the turbulent history of the reservation period, and contemporary Apache culture.

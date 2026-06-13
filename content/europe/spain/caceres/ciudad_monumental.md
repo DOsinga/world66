@@ -9,6 +9,7 @@ latitude: 39.474
 longitude: -6.371
 story: >
   Cáceres' old town has served as a filming location for Game of Thrones (King's Landing), Ridley Scott's Kingdom of Heaven, and several other productions requiring a convincingly medieval cityscape. The secret is the almost total absence of anachronisms — the old town has so few modern intrusions that very little set-dressing is needed. The storks that nest on the towers are completely genuine and not, as some visitors assume, decorative additions.
+score: 9.5
 ---
 
 The Ciudad Monumental is what makes Cáceres one of Spain's most remarkable cities. This walled upper town, declared a UNESCO World Heritage Site in 1986, covers roughly a square kilometre and contains an extraordinary concentration of medieval towers, Gothic churches, and Renaissance palaces in a state of preservation that has few equals in Europe.

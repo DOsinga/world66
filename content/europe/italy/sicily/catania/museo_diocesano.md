@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 37.5021
 longitude: 15.0876
+score: 7.6
 ---
 
 The Museo Diocesano occupies the upper floors of the Palazzo del Seminario dei Chierici on the south side of Piazza del Duomo. The collection covers liturgical objects, treasury items from the cathedral, paintings and devotional objects from churches around the diocese.

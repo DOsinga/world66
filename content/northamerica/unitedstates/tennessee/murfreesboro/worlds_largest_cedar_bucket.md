@@ -10,6 +10,7 @@ story: >
   The bucket was built in the 1870s by Murfreesboro craftsmen to demonstrate the quality of local cedar cooperage, and it was exhibited at two World's Fairs. It holds 1,556 imperial gallons — enough to bathe a moderately large crowd. It now sits outside the Chamber of Commerce, which is probably not where you'd put something that size if you were thinking it through.
 sources:
   - https://en.wikipedia.org/wiki/World%27s_Largest_Cedar_Bucket
+score: 5.9
 ---
 
 Murfreesboro's most cheerful landmark is a red cedar bucket measuring over eight feet in diameter, sitting on the grounds of the Cannonsburgh Village historic complex near downtown. Built in the 1870s, it was constructed to advertise the quality of Middle Tennessee's cedar cooperage industry and travelled to at least two World's Fairs as a promotional exhibit.

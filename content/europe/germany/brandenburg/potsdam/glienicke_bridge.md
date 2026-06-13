@@ -16,6 +16,7 @@ story: >
   grey bridge.
 sources:
   - https://en.wikipedia.org/wiki/Glienicke_Bridge
+score: 7.4
 ---
 
 The Glienicke Bridge crosses the Havel River between Potsdam and Berlin, and during the Cold War it was the most famous span in Germany. Between 1962 and 1986, it served as the site of four prisoner exchanges between East and West — the "Bridge of Spies" where intelligence assets were traded in the pre-dawn darkness, the bridge sealed at both ends, each side watching the other across a carefully measured midpoint.

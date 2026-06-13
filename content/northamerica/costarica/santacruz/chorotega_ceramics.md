@@ -6,6 +6,7 @@ longitude: -85.5940
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The Guanacaste region around Santa Cruz is one of the few places in Central America where pre-Columbian Chorotega ceramic traditions have survived in continuous use. The village of Guaitil, about 15 km east of Santa Cruz, is the centre of this craft — almost every household produces pottery using techniques and designs descended from the indigenous Chorotega people who lived here before the Spanish arrival.

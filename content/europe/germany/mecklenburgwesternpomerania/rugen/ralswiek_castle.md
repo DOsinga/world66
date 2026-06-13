@@ -6,6 +6,7 @@ longitude: 13.4460
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Ralswiek is a small village on the inland Bodden water in the north of the island, home to a nineteenth-century Schloss in a Romantic French-style park and — much more famously — the Störtebeker Festspiele, an open-air summer theatre that draws over 300,000 visitors a year.

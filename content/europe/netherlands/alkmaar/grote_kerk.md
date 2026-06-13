@@ -11,6 +11,7 @@ story: >
   almost original condition — one of the most important historic
   organs in Europe. The smaller "swallow's nest" organ on the wall
   near the choir is older still, dating from 1511.
+score: 7.7
 ---
 
 The Grote Kerk — formally the Sint-Laurenskerk — is the late-Gothic parish church at the western edge of the old town, built between 1470 and 1518. The interior is vast and unusually light, painted white during the Reformation. The vaulted ceiling carries 16th-century painted decoration that survived the Protestant whitewash because it was too high to reach easily.

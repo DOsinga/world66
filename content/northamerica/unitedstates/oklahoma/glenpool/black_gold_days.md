@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.9554
 longitude: -96.0088
+score: 6.1
 ---
 
 Every May, Glenpool holds its Black Gold Days festival, a three-day celebration of the 1905 oil boom that put this part of Oklahoma on the map. The event draws several thousand visitors with food stalls, live music, arts and crafts vendors, a carnival, and a parade through the town.

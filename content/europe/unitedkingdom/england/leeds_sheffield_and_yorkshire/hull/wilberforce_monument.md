@@ -8,6 +8,7 @@ tags:
 title: Wilberforce Monument
 type: poi
 snippet: "31-metre Doric column built in 1834 to mark the abolition of slavery and honour Hull's most famous son"
+score: 6.1
 ---
 
 The Wilberforce Monument was raised in 1834, the year after William Wilberforce's death and the passage of the Slavery Abolition Act. Funds were collected by public subscription, and the foundation stone was laid on the first anniversary of the Act. The column originally stood beside the dock that has since been filled in to make Queen's Gardens; it was moved to its present position in 1935 when the gardens were laid out.

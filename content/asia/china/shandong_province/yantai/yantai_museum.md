@@ -8,6 +8,7 @@ latitude: 37.4650
 longitude: 121.4400
 story: >
   The building that houses the Yantai Museum was originally the Tianhou Palace — a temple to Mazu, the sea goddess venerated throughout coastal China and Taiwan. It was built in 1884 by merchants from Fujian Province who had settled in Yantai to trade. The elaborately decorated wood-carved interiors, including the main hall's ceiling with its painted panels, remain intact, giving the museum an unusually beautiful setting.
+score: 7.9
 ---
 
 The Yantai Museum is housed in a former guild hall complex built in 1884 by Fujian merchants, and the building itself is the main attraction: an elaborate example of southern Chinese guild-hall architecture, with intricately carved wooden screens, painted eaves, and a courtyard arrangement that would not look out of place in Fuzhou or Quanzhou.

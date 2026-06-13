@@ -7,6 +7,7 @@ tags:
 latitude: 33.5081
 longitude: 36.3017
 snippet: The western gate of the Old City, opening onto Hamidiyah Souq
+score: 7.1
 ---
 
 Bab al-Jabiyah ("Gate of the Water Trough") was the main western gate of Roman Damascus, opening onto the road south to Jerusalem. The current gate is a 13th-century rebuilding; the original lay slightly to the north and west. From here you can enter the long colonnaded Roman cardo whose course is still traceable inside the souq.

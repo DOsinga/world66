@@ -12,6 +12,7 @@ tags:
 - things_to_do
 - sight
 - show
+score: 5.9
 ---
 
 A 45-minute outdoor show staged in a purpose-built medieval theatre on the southern side of the upper town. The cast — a dozen riders and a couple of dozen extras — perform jousting, archery, falconry, sword combat and stunt riding to a thin storyline about a knight's quest. It is unabashedly aimed at families with younger children, and on those terms it works well.

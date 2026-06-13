@@ -8,6 +8,7 @@ tags:
 latitude: 22.6128
 longitude: 120.2641
 snippet: Japanese-era military tunnel under Cijin Island, now a neon art installation
+score: 7.2
 ---
 
 A hand-dug tunnel under Cijin Island's southern hill, originally an air-raid shelter from the Japanese colonial era. The Kaohsiung government reopened it in the 2010s as a public art installation — its tiled passage is now lit with shifting pastel neons, and the side rooms hold rotating sound and projection works.

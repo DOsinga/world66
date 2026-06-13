@@ -8,6 +8,7 @@ tags:
   - cafe
   - old_san_juan
 neighbourhood: Old San Juan
+score: 6.7
 ---
 
 A small specialty coffee bar on Calle Recinto Sur that roasts beans grown by the owners' family in Yauco, in the mountains of southwestern Puerto Rico. The Cuatro Sombras name refers to the four shade trees traditionally used on Puerto Rican coffee farms — guava, ortiguillo, banana, and citrus — that protect the coffee plants from direct sun.

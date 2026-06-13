@@ -13,6 +13,7 @@ tags:
 - cafe
 title: La Casa del Caffè Tazza d'Oro
 type: poi
+score: 7.8
 ---
 
 A Rome institution since 1946, steps from the Pantheon. Famous for its granita di caffè — frozen espresso layered with whipped cream, served in summer and one of the quintessential Roman experiences. Also does excellent straight espresso and sells its house-blend beans to take home in distinctive golden tins.

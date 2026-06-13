@@ -7,6 +7,7 @@ address: 22 West Jinnah Avenue, Blue Area
 tags:
   - eating_out
   - restaurant
+score: 7.7
 ---
 
 Savour Foods is a no-frills Punjabi institution on Jinnah Avenue that has been making the same dish — pulao with chickpeas and yoghurt — since the 1980s. The queue out the door at lunchtime, almost always thirty deep, is the recommendation. A plate is around Rs 250 and arrives in under five minutes.

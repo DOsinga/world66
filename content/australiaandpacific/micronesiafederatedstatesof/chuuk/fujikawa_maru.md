@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - diving
 snippet: The most photogenic wreck in Truk Lagoon, with Zero fighters in its hold
+score: 9.0
 ---
 
 The Fujikawa Maru is the wreck most divers visit first, and for many it remains the favourite. This 6,938-ton armed cargo-passenger ship sits upright at 12–34 metres, its superstructure within easy reach of snorkellers while the lower holds descend to recreational limits. The ship went down on the first day of Operation Hailstone, and its holds were never emptied.

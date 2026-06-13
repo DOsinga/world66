@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sight
 type: poi
+score: 6.3
 ---
 
 The Ostend pier extends 300 metres into the North Sea from the seafront, offering a walk over the water and views back along the coast in both directions. At the far end a café serves drinks and snacks; the deck is exposed to whatever the North Sea is doing that day. The pier was rebuilt after storm damage and World War II destruction and is now a solid structure, popular with fishing lines on weekday mornings and promenading families on weekends.

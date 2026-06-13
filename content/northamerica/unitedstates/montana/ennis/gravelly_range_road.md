@@ -10,6 +10,7 @@ tags:
   - drive
 snippet: 60-mile high-altitude backcountry drive south of Ennis
 story: "The road tops out above 9,500 feet — higher than any pass in Glacier National Park — but is just a wide gravel forest road. In a clear August it gives you the easiest hour of high-altitude driving in the state. In a wet July or after the first October snow it can ruin a passenger car within minutes."
+score: 8.5
 ---
 
 The Gravelly Range Road is a long, high-altitude dirt road that runs south along the spine of the Gravelly Range from a junction outside Ennis down to the Centennial Valley. It is not maintained for normal cars: in a high-clearance vehicle with reasonably new tyres you will be fine in midsummer; in a low car or wet conditions you will not. The reward is some of the most remote, open driving in the Lower 48 — long views over Yellowstone country, wildflower meadows, big herds of elk in early morning, and almost no other vehicles.

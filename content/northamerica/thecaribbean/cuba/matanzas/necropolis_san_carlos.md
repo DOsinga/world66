@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.03263
 longitude: -81.60309
+score: 7.5
 ---
 
 Matanzas's main cemetery, dating from the colonial period and containing some of the most elaborate funerary architecture in Cuba. The wealthiest families of 19th-century Matanzas — sugar merchants, landowners, and professional men — built grand marble mausoleums and family vaults here, and the cemetery gives a vivid picture of how prosperous the city once was.

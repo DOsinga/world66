@@ -7,6 +7,7 @@ tags:
 latitude: 34.6876
 longitude: 135.5259
 story: "The park that surrounds Osaka Castle covers 106 hectares and contains over 600 cherry trees, making it one of the city's most celebrated hanami (blossom-viewing) spots each April. The castle's moat walls are built from enormous stones — one block alone weighs over 130 tonnes — cut and transported from distant quarries by the 60,000 labourers Toyotomi Hideyoshi conscripted in 1583."
+score: 7.8
 ---
 
 The broad green park wrapped around Osaka Castle is more than just the castle's setting — it is one of the city's primary outdoor spaces for exercise, events, and seasonal celebrations. The inner moat and outer moat form concentric rings of water around the central keep, and the stone embankments between them are among the most impressive examples of early Edo-period engineering in Japan.

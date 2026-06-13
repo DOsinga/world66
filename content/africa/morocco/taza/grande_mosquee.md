@@ -13,6 +13,7 @@ story: The Great Mosque of Taza was founded by Abd al-Mu'min, the first Almohad 
   calligraphy and considered one of the finest examples of Moroccan metalwork, was
   cast in the 12th century and has hung in the prayer hall ever since. It also contains
   a rare medieval sundial that was used to determine prayer times.
+score: 8.3
 ---
 
 The **Grande Mosquée** (Great Mosque) of Taza is the most important historic monument in the city and one of the oldest surviving Almohad mosques in Morocco. Founded in 1135 by the Almohad caliph Abd al-Mu'min, it was expanded and embellished by subsequent dynasties — the Merinids added important decorative elements in the 13th and 14th centuries. It stands at the heart of the medina, near the central souk, and its minaret and dome are the dominant features of the old town's skyline when viewed from below.

@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 - bar
 - wine
+score: 5.9
 ---
 
 A small wine bar in the old quarter, a few streets from the cathedral, with a focused list of Loire Valley wines by the glass and bottle. The selection leans toward natural and biodynamic producers from Anjou and Touraine, with a handful of bottles from further afield for variety. The atmosphere is relaxed and the staff know the list well — worth asking for recommendations if you want to explore beyond the obvious Muscadet.

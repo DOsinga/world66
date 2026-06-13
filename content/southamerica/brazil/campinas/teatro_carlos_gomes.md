@@ -15,6 +15,7 @@ story: >
   Portuguese nobleman's daughter — premiered at La Scala in Milan on 19 March 1870
   to a standing ovation. He never returned to live in Brazil, but Campinas named its
   municipal theatre after him and placed his statue in the square outside.
+score: 7.0
 ---
 
 The Teatro Municipal Carlos Gomes is one of the finest 19th-century theatres in the interior of São Paulo state. Built in the Italian neoclassical style and opened in 1850, it seats around 900 and still functions as the main venue for concerts, opera, and theatre performances in the city. The façade is pleasingly austere, and the interior has the horseshoe balconies and painted ceiling panels that the period demanded.

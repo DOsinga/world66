@@ -11,6 +11,7 @@ story: >
   The Dachstein was a sacred mountain to the Celtic peoples of the region before the Romans arrived — archaeological finds at the Koppenbrüller cave at its base suggest rituals going back 3,000 years.
   In the 19th century, the glacier became one of the first in the Alps to be scientifically measured, and researchers noted with alarm that it was already shrinking.
   The glacier today is about 60% the size it was in 1850, and its retreat is visible year by year.
+score: 9.2
 ---
 
 The Dachstein Glacier sits a short distance north of Schladming, accessible by cable car from the village of Ramsau. It is one of the most visited natural attractions in Austria. In summer you can ski on the glacier when every other mountain in the area is bare, and the glacier touring is excellent for those who want to walk on ice rather than ski on it.

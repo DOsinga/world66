@@ -14,6 +14,7 @@ story: >
   to investigate. The falls were not seriously explored by Europeans until the
   19th century, though the Carib people of the island had long used the river
   system for washing and fishing.
+score: 8.5
 ---
 
 The Carbet Falls (Chutes du Carbet) are a series of three cascading waterfalls in the Carbet Mountains, accessible from Le Carbet by a trail through tropical rainforest. The second fall is the tallest and most impressive, dropping about 110 metres into a pool of clear mountain water. The hike to the second fall takes about 45 minutes each way on a well-marked trail that gains altitude steadily through the jungle.

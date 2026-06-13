@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: 44.0667
 longitude: 9.9500
+score: 6.7
 ---
 
 Two kilometres above Tellaro, inside the regional park of Montemarcello-Magra, this small botanical garden is laid out along a ridge of Mediterranean macchia with views down to the Gulf of La Spezia on one side and the Magra valley on the other. It is a working preserve more than a manicured garden: rosemary, juniper, holm oak, strawberry tree and several rare endemics grow on terraces along a marked loop.

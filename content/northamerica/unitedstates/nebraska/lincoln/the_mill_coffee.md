@@ -8,6 +8,7 @@ tags:
   - cafe
 latitude: 40.8162
 longitude: -96.7108
+score: 6.3
 ---
 
 The Mill is Lincoln's best-known independent coffee house, with its flagship location in the Haymarket and several other spots around the city. The Haymarket location occupies a converted brick warehouse space — exposed beams, concrete floors, high ceilings — and gets a steady stream of students, remote workers, and locals looking for something better than chain coffee.

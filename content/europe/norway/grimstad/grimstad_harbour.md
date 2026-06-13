@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 58.3392
 longitude: 8.5920
+score: 8.2
 ---
 
 The harbourfront is the social centre of Grimstad in summer. The town's characteristic white wooden houses cluster around the inner harbour, their reflections in the water giving the place the slightly theatrical quality of a Norwegian picture postcard. On warm evenings the quayside fills with people eating ice cream, watching boats come and go, and sitting on the rocks that line the shore.

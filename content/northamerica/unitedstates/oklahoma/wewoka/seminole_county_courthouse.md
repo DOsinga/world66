@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.1581
 longitude: -96.4908
+score: 6.6
 ---
 
 The Seminole County Courthouse is the other 1927 building that defines Wewoka's skyline — a two-storey red-brick block with a central tower and limestone trim. Like the Hotel Aldridge it was paid for in oil money. The courthouse square is a working county seat, not a museum, so you'll find people queuing for licences and tag renewals on weekday mornings.

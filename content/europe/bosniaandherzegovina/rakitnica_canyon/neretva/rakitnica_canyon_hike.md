@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.4381
 longitude: 17.6033
+score: 8.4
 ---
 
 The Rakitnica Canyon is one of the more dramatic gorge systems in Bosnia and Herzegovina, with canyon walls dropping 600–800 metres in places. The canyon is carved by the Rakitnica River through limestone karst terrain, and sections of the canyon floor are accessible only on foot. This is genuinely remote hiking — no signage, no services, and limited mobile coverage.

@@ -16,6 +16,7 @@ story: >
   Laumeister eventually released them into the wild, where they were occasionally
   spotted in the BC interior for decades afterward. The bridge was officially
   named in their memory.
+score: 5.6
 ---
 
 The highway bridge over the Fraser River at Lillooet carries the official name "Bridge of the Twenty-Three Camels" — one of those British Columbia names with a story behind it. The bridge itself is a functional concrete structure offering good views up and down the Fraser canyon, but the name commemorates one of the stranger episodes of the Gold Rush era: a failed attempt to use Bactrian camels as pack animals on the old Cariboo Road.

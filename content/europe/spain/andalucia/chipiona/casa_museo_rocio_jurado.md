@@ -6,6 +6,7 @@ longitude: -6.4360
 tags:
   - things_to_do
   - museum
+score: 7.1
 ---
 
 Rocío Jurado — "La Más Grande", the singer who defined Spanish popular song in the second half of the twentieth century — was born in Chipiona in 1944 and is buried in the town cemetery. The Casa-Museo recreates a slice of her career through stage costumes, awards, photographs, gold records, and the inevitable shrine-like sitting room. The interior is camp, lovingly assembled, and a window into a particularly Spanish kind of fame.

@@ -9,6 +9,7 @@ tags:
 - eating_out
 - bars_and_cafes
 - restaurant
+score: 6.1
 ---
 
 Jigarthanda — literally "cold heart" in Urdu — is Madurai's signature summer drink: a cold milk-based concoction with china-grass jelly, almond gum (badam pisin), kulfi-style ice cream and a top swirl of rose syrup. The Famous Jigarthanda shop on East Masi Street is the original, run by the same Khan family since 1977.

@@ -8,6 +8,7 @@ latitude: 38.6450
 longitude: -9.2370
 sources:
   - https://en.wikipedia.org/wiki/Costa_da_Caparica
+score: 8.5
 ---
 
 Costa da Caparica is thirty kilometres of Atlantic beach stretching south from the town of Caparica — the long, open coastline that Lisboetas treat as their own private seaside. Unlike the more sheltered beaches of the Tagus estuary, this faces the full Atlantic, which means real waves and reliable surf. The town itself is a modest beach resort with restaurants, cafes, and the low-rise bustle of a place built almost entirely around summer visitors. The further south you travel along the coast, the quieter and wilder the beach becomes.

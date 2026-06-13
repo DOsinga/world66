@@ -13,6 +13,7 @@ story: >
   Waite Phillips — the same oilman who built Philbrook Museum — commissioned the Philtower in 1927. He also built the adjacent Philcade Building next door. After making a fortune in oil, Phillips eventually gave away most of his wealth, donating both properties and the 127,000-acre Philmont Scout Ranch in New Mexico to the Boy Scouts of America.
 sources:
   - https://en.wikipedia.org/wiki/Philtower_Building
+score: 7.9
 ---
 
 The Philtower Building, completed in 1928, is the most ornate of Tulsa's Art Deco skyscrapers. Its 24-story terra-cotta and brick exterior mixes Gothic spires with Art Deco ornamentation in a way that was fashionable in the late 1920s. The lobby is especially worth a look: bronze elevator doors, marble floors, and decorative ironwork that showcase the craftsmanship that oil money could buy.

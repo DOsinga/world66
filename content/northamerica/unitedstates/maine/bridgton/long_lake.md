@@ -14,6 +14,7 @@ story: >
   a vacation home on its shore. The lake once served as the terminus of the
   Cumberland and Oxford Canal, and canal boats from Portland Harbor arrived here
   after navigating through Sebago Lake.
+score: 7.8
 ---
 
 Long Lake is the town's natural centerpiece — an 11-mile stretch of water that runs from Naples through Bridgton to Harrison, covering 5,295 acres. The public access points in Bridgton are well maintained, and the lake is good for kayaking, canoeing, fishing (bass and landlocked salmon), and swimming. Summer camps have lined the shoreline for over a century, including Camp Takajo and Camp Wildwood, giving the lake an old-fashioned New England quality that feels increasingly rare.

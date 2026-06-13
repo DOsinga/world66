@@ -12,6 +12,7 @@ story: >
   The Mendenhall has been retreating for decades — photographs in the visitor centre show the glacier face was once at the lake's edge, where now there are hundreds of metres of open water. Scientists estimate it could disappear entirely within a few decades. You are not just seeing a glacier: you are watching one of the most visible large-scale effects of climate change in real time.
 sources:
   - https://en.wikipedia.org/wiki/Mendenhall_Glacier
+score: 8.9
 ---
 
 The Mendenhall Glacier is Juneau's most visited attraction — a 13-mile-long river of ice flowing down from the 1,500-square-mile Juneau Icefield to a glacial lake just 13 miles from downtown. The Mendenhall Glacier Visitor Center (part of Tongass National Forest) has panoramic views, interactive exhibits, a theatre, and a bookstore. It is one of the few glaciers in the world you can reach by city bus.

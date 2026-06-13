@@ -16,6 +16,7 @@ story: >
   The Franciscans' survival owed less to religious tolerance than to the practical value of the
   monastery complex as a hospital and refuge during the sieges. The frescoes in the cloister
   date from the 14th and 15th centuries and are among the oldest surviving painted cycles in the region.
+score: 7.5
 ---
 
 The Franciscan Monastery (Františkánský klášter) at the southern end of the old town is one of Plzeň's oldest buildings, with parts dating to the 13th century. The ensemble includes a Gothic church (Church of the Assumption of the Virgin Mary), a cloister with medieval frescoes, and the monastery buildings that today house a small museum of sacred art.

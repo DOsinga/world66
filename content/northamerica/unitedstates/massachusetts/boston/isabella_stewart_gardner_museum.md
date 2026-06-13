@@ -11,6 +11,7 @@ tags:
 title: Isabella Stewart Gardner Museum
 type: poi
 url: www.gardnermuseum.org
+score: 9.4
 ---
 
 Isabella Stewart Gardner spent decades and a fortune buying paintings, sculpture, manuscripts, and architectural fragments across Europe, then built a Venetian-style palace in the Fens to put them in. The Italian courtyard at the centre — a glass-roofed garden filled with flowers in changing seasonal displays — is one of the most arresting spaces in any museum.

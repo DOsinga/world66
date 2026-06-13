@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Victorian parish church built when the railway turned Windermere into a town"
+score: 6.9
 ---
 
 St Mary's, the parish church of Windermere proper (as opposed to Bowness), is a substantial Victorian building put up in 1848 — within a year of the railway reaching the town — to serve the rapidly growing settlement around the new station. The architect was J. S. Crowther of Manchester, working in a confident Decorated Gothic Revival style, with a tower added in 1882.

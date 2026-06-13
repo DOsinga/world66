@@ -19,6 +19,7 @@ story: >
   historical meaning continues.
 sources:
   - https://en.wikipedia.org/wiki/Garrison_Church,_Potsdam
+score: 6.5
 ---
 
 The Garrison Church (Garnisonkirche) was Potsdam's most important baroque church — a tall tower with carillon bells visible across the city, built in 1735 and the spiritual centre of the Prussian military. It was damaged in the 1945 bombing and the ruins blown up by the East German government in 1968 to make way for a radio mast. The tower is now being reconstructed, and the base-level documentation centre was opened in 2023.

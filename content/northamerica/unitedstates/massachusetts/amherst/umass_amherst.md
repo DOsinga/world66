@@ -9,6 +9,7 @@ latitude: 42.3868
 longitude: -72.5301
 story: >
   The 28-storey W.E.B. Du Bois Library, completed in 1973, is by some measures the tallest academic library in the world. On the 21st floor, on a shelf surrounded by books on Renaissance philosophy, sits a small sculpture of the Teenage Mutant Ninja Turtles. Generations of UMass students have made the pilgrimage; the library staff long ago accepted that nothing they do will prevent it.
+score: 6.7
 ---
 
 The UMass Amherst campus sits just north of the town centre and is on a completely different scale from Amherst College — 30,000 students, modernist concrete towers, and a sprawling collegiate gothic and 20th-century mix. The campus pond, the Fine Arts Center (a remarkable Brutalist building by Kevin Roche), and the Du Bois Library are the architectural highlights.

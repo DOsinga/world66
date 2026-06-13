@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 46.2340
 longitude: -63.1263
+score: 6.7
 ---
 
 The Merchantman on Sydney Street is the place to eat PEI oysters properly — on the half shell, with a glass of something cold, at the oyster bar. The restaurant focuses on local seafood handled with care: island oysters (several varieties, served shucked to order), fresh fish from day boats, and chowder made with PEI clams.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Ehrenhof
 type: poi
+score: 7.4
 ---
 
 The Ehrenhof is a grand cultural complex on the Rhine bank, built in 1926 for the Gesolei Exhibition — a vast display of public health, social welfare, and physical culture. The architect Wilhelm Kreis designed the complex as a formal ensemble of exhibition halls, lawns, and colonnades in a stripped classical style that sits somewhere between Weimar modernism and monumental civic architecture.

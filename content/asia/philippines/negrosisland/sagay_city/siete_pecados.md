@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 10.9350
 longitude: 123.4180
+score: 7.4
 ---
 
 Siete Pecados — "Seven Sins" — is a cluster of seven small coral islands sitting within the marine reserve, accessible by bangka (outrigger boat) from the Sagay City port in about 20 minutes. The name is cheerfully unexplained, though the most popular theory involves seven fishing boats that ran aground here during a storm. The islands themselves are tiny, sandy, and fringed with good snorkelling reef.

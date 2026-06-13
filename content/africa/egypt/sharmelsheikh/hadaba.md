@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: The cliffside neighbourhood above the lighthouse, quieter and more residential than Naama Bay.
+score: 6.7
 ---
 
 Hadaba sits on the plateau above the old lighthouse, looking south over Ras Mohammed and west across the Gulf of Suez. The neighbourhood was developed later than Naama Bay and feels noticeably calmer — wider streets, lower buildings, more locals, and a handful of restaurants and bars that draw a more relaxed crowd than the central strip.

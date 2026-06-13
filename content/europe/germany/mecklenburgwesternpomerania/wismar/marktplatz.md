@@ -13,6 +13,7 @@ story: >
   ornament — it was built as functional infrastructure: for almost 200 years it
   distributed water to the surrounding streets through a system of pipes fed by
   a millpond south of the town.
+score: 9.0
 ---
 
 Wismar's Marktplatz is one of the largest market squares in northern Germany, measuring roughly 100 by 100 metres, and its condition is exceptional. The square is ringed with gabled merchant houses dating from the fourteenth to the seventeenth century, many of them in the distinctive red brick of the Hanseatic north, and restored to a state that communicates what the city's mercantile wealth once looked like. The Wasserkunst fountain at the centre is the focal point — a finely detailed Renaissance structure that looks more like a baldachin from a baroque church than a piece of civic plumbing.

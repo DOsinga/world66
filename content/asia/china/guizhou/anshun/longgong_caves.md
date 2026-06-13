@@ -8,6 +8,7 @@ latitude: 26.1508
 longitude: 105.7342
 story: >
   The Longgong cave system extends 15 kilometres underground, making it one of the longest in Guizhou. The standard tourist route covers about 3 kilometres by flat-bottomed boat, drifting through chambers lit from below the water. The exit from the main chamber comes through a natural limestone arch into daylight — you pass under a rock ceiling for 50 metres and emerge suddenly into open air, blinking at the river and the karst hills around you. It is one of the better theatrical exits from any cave in China.
+score: 8.0
 ---
 
 The Dragon Palace Caves (Longgong) lie 27 kilometres southwest of Anshun, and they are the most worth visiting of the cave systems in this part of Guizhou. The tour is done by boat rather than on foot: you board a flat-bottomed vessel at the cave entrance and drift through a series of chambers over an underground river, past stalactite formations illuminated from below in colours that are more dramatic than they sound. The scale of some of the chambers — domes 40 metres high with formations hanging from the ceiling like frozen waterfalls — is substantial.

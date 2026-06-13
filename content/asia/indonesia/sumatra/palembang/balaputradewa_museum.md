@@ -6,6 +6,7 @@ longitude: 104.7311
 tags:
   - things_to_do
   - museum
+score: 7.3
 ---
 
 The Balaputradewa Museum is the provincial museum of South Sumatra, set in a large compound on the northwestern outskirts of Palembang. It is named for the ninth-century Srivijayan king whose move to the kingdom of the Pala in northeast India is documented in the famous Nalanda copperplate inscription on display here.

@@ -13,6 +13,7 @@ tags:
 - waterfront
 title: La Parada
 type: poi
+score: 5.6
 ---
 
 La Parada does Spanish-style tapas at pace — plates arrive continuously, the room is loud and packed, and the kitchen turns over a broad menu of patatas bravas, jamón, padron peppers, grilled prawns and croquettes with consistent quality. The V&A Waterfront branch has good views across the yacht basin. There is also a branch on Long Street in the City Bowl, which is smaller and tighter but easier to reach without a car.

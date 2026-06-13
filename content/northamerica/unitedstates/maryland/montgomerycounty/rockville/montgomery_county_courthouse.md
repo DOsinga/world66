@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.0831
 longitude: -77.1525
+score: 6.6
 ---
 
 The Montgomery County Courthouse Historic District anchors the southern end of the historic downtown. The complex includes several generations of courthouse buildings, the oldest dating to 1839, along with other civic structures added over the following century. The ensemble is listed on the National Register of Historic Places and represents the county seat's long history as a centre of local government.

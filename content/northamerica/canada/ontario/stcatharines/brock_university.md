@@ -8,6 +8,7 @@ snippet: Hilltop campus above the Niagara Escarpment, with viewpoint over the la
 tags:
 - things_to_do
 - sight
+score: 6.6
 ---
 
 Brock University sits on top of the Niagara Escarpment, the great limestone ridge that runs across southern Ontario and gives Niagara its falls. The campus, opened in 1964 and named for the British general killed at Queenston Heights in 1812, has expanded into a serious research university of about 20,000 students.

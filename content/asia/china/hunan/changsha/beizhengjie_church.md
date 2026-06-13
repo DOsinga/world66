@@ -16,6 +16,7 @@ story: >
   of worship. The congregation has continued uninterrupted since the original
   1921 dedication, making it one of the longest-running Protestant communities
   in Hunan.
+score: 6.9
 ---
 
 The Beizhengjie Christian Church on Huangxing North Road is Changsha's most architecturally distinctive non-Chinese building — a neo-Gothic Protestant church completed in 1921 by the American Episcopal mission and still in active use. The pointed arches, buttresses, and tower are a genuine oddity in the streetscape of an otherwise densely Chinese urban fabric, and the building's survival through the twentieth century's political disruptions is remarkable.

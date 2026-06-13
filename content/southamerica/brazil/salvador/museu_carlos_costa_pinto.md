@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: Decorative arts museum in a Vitória mansion
+score: 7.2
 ---
 
 A small but well-curated decorative arts museum in an early 20th-century mansion on the Vitória corridor between the Pelourinho and Barra. The collection covers Portuguese furniture, Brazilian colonial silver, jewellery, and the most important display of balangandãs — the silver-charm jewellery worn by Bahian women in the 19th century.

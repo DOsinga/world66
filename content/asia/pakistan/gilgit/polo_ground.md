@@ -14,6 +14,7 @@ story: >
   the ground. This free-form game — sometimes called "tent-pegging polo" or simply 
   "mountain polo" — is entirely different in character from the structured sport played 
   in Argentina or England.
+score: 8.1
 ---
 
 The polo ground at the edge of Gilgit town is the social centre of the city. Matches are played on weekends throughout the season, and the games are free to watch — spectators crowd along the side of the dusty pitch while musicians play throughout the match. Gilgit polo is fast and rough, with players leaning from their horses at full gallop in a way that looks genuinely dangerous.

@@ -9,6 +9,7 @@ tags:
   - island
 story: >
   In the 1630s and 1640s Tortuga was the headquarters of the brotherhood of cattle-hunters and pirates known as the boucaniers, after the boucan smoking-frames they used for jerky. The English picked up the word as "buccaneer." From this small green island Henry Morgan and others raided Spanish galleons across the Caribbean before the bigger Port-Royal era took over.
+score: 8.6
 ---
 
 Tortuga (Île de la Tortue in French, Latòti in Creole) is a 40-kilometre-long island just off Port-de-Paix, separated from the mainland by a narrow channel. It is one of the most historically loaded places in the Caribbean — the original pirate haven of the buccaneer era — and one of the least visited. Most travellers who come are surprised to find it inhabited (around 30,000 people), poor, and almost entirely without infrastructure for visitors.

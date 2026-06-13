@@ -15,6 +15,7 @@ story: >
   gathering place of Bend society.
 sources:
   - https://en.wikipedia.org/wiki/Pilot_Butte_State_Scenic_Viewpoint
+score: 7.5
 ---
 
 Pilot Butte is a 500-foot cinder cone that rises abruptly from the east side of Bend, surrounded by the city on all sides. A paved road and a steeper trail both wind to the summit, which gives a 360-degree panorama that on a clear day stretches from Mount Hood in the north to Mount McLoughlin in the south — nearly the entire length of the Oregon Cascade Range laid out in one view.

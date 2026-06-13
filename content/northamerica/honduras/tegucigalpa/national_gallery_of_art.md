@@ -8,6 +8,7 @@ tags:
 - art
 title: National Gallery of Art
 type: poi
+score: 7.6
 ---
 
 The National Gallery of Art of Honduras (Galería Nacional de Arte) occupies a handsome colonial building in the historic centre, a short walk from Parque Central. The collection covers Honduran and Central American art from pre-Columbian times through the 20th century, with particular strength in colonial-era religious paintings and sculpture, and in Honduran modernism.

@@ -10,6 +10,7 @@ tags:
 latitude: 45.1361
 longitude: 8.2950
 story: Crea is one of nine Sacri Monti of Piedmont and Lombardy listed by UNESCO in 2003 — devotional landscapes built between the late 1500s and the 1700s as a kind of three-dimensional theology, with life-size painted terracotta figures staging scenes from the lives of Christ and Mary in chapels scattered up a wooded hill.
+score: 8.8
 ---
 
 The Sacro Monte di Crea crowns one of the highest hills in lower Monferrato, an oak-and-chestnut nature park topped by a sanctuary and twenty-three chapels strung along a steep pilgrimage route. The chapels were built between 1589 and the mid-eighteenth century by some of the best mannerist sculptors of Piedmont — Guglielmo Caccia ("Il Moncalvo") painted many of the frescoes — and they create one of the most extraordinary religious landscapes in Italy.

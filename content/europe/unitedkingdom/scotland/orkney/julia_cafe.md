@@ -7,6 +7,7 @@ tags:
 latitude: 58.9620
 longitude: -3.2986
 snippet: "Cosy waterfront cafe in Stromness with home baking and lunches"
+score: 5.6
 ---
 
 A small Stromness cafe on the harbour with a small terrace facing the water, Julia's is the place for a sandwich, a bowl of soup, and a slice of carrot cake after stepping off the morning ferry from Scrabster. Home baking, decent coffee, friendly staff.

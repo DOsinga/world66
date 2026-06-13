@@ -9,6 +9,7 @@ tags:
 - albert_dock
 title: Merseyside Maritime Museum
 type: poi
+score: 8.8
 ---
 
 A free museum in a converted Albert Dock warehouse that tells the story of Liverpool as a port — from the great age of sail through the transatlantic liners and the modern container industry. The Titanic and Lusitania galleries are particularly strong, both ships being registered to the port of Liverpool. There is a substantial Cunard collection too.

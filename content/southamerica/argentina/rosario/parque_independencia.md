@@ -7,6 +7,7 @@ tags:
   - park
 latitude: -32.9588
 longitude: -60.6599
+score: 7.2
 ---
 
 Parque de la Independencia is Rosario's great urban park — a 126-hectare expanse of lawns, lakes, rose gardens, and tree-lined paths where the city exhales on weekends. It is modelled loosely on Central Park in New York and has the same essential function: a green counterweight to the surrounding urban density.

@@ -8,6 +8,7 @@ tags:
 - bar
 title: Pheasant's Tears Wine Bar
 type: poi
+score: 7.9
 ---
 
 Pheasant's Tears, the wine bar and restaurant founded by American painter John Wurdeman and Georgian winemaker Gela Patalishvili, is the best introduction to traditional Georgian *qvevri* wines in Tbilisi. The old-town location on Sioni Street has an atmospheric, slightly chaotic interior — mismatched furniture, Georgian art on the walls, folk musicians who occasionally play in the corner — and a deep wine list focused on natural and traditionally-made Georgian wines.

@@ -8,6 +8,7 @@ latitude: 46.0533
 longitude: 14.4894
 sources:
   - https://en.wikipedia.org/wiki/Tivoli_Park,_Ljubljana
+score: 7.4
 ---
 
 Tivoli Park is the largest green space in Ljubljana, stretching northwest from the edge of the old town toward the forested Rožnik Hill. The formal section near the entrance — a long tree-lined promenade designed by Plečnik — leads to a small baroque castle (Tivoli Castle) that now houses the International Centre of Graphic Arts. Beyond the formal garden, the park becomes informal woodland with trails.

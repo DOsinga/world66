@@ -10,6 +10,7 @@ tags:
 snippet: The room where Bolivian independence was signed in 1825
 story: >
   The Act of Independence was signed in this Jesuit chapel on 6 August 1825 by representatives of the five provinces of Upper Peru. The country was renamed Bolivia in honour of Simón Bolívar, who arrived in Sucre two months later — the only country in the world to take its name from a single person.
+score: 9.5
 ---
 
 The Casa de la Libertad is the single most important historical building in Bolivia. It was here, in what was then the chapel of the Jesuit College, that the Act of Independence of Upper Peru was signed on 6 August 1825. The same hall later served as the country's first national congress. Standing in the empty room, you are looking at the place where Bolivia became Bolivia.

@@ -7,6 +7,7 @@ tags:
   - art
 title: "Musee Pierre-Andre Benoit"
 type: poi
+score: 7.1
 ---
 
 The Musee Pierre-Andre Benoit, often shortened to Musee PAB, is Alès' surprise art stop. It is built around books, prints, drawings, and modern art collected by the publisher and poet Pierre-Andre Benoit.

@@ -8,6 +8,7 @@ tags:
 - lake
 title: Kampong Phluk Floating Village
 type: poi
+score: 6.2
 ---
 
 **Kampong Phluk** is a community of three villages on the southeastern shore of Tonlé Sap, about 16 kilometres south of Siem Reap. Unlike most "floating villages" shown to tourists, Kampong Phluk is a stilt village: its houses sit on columns six to ten metres high, so that even in the dry season, when the lake recedes and the wooden boats are beached in mud, the community remains elevated above the floodplain. In the wet season (roughly June to November) the lake rises to meet the stilts and the surrounding forest floods to a depth of several metres, turning the landscape into a mangrove swamp you can navigate by boat.

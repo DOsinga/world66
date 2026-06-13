@@ -8,6 +8,7 @@ story: "The Chinchorro began mummifying their dead around 5050 BC — some two t
 tags:
 - things_to_do
 - museum
+score: 9.3
 ---
 
 The University of Tarapacá's archaeological museum, twelve kilometres up the Azapa valley, holds the largest collection of Chinchorro mummies in the world. The Chinchorro were a fishing people who lived along this coast from about 7,000 to 1,500 BC; they were the first culture on earth known to mummify their dead, doing so two millennia before the Egyptians.

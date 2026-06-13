@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "180-metre waterfall thundering past the Trollstigen switchbacks"
 latitude: 62.4530
 longitude: 7.6712
+score: 7.2
 ---
 
 Stigfossen is the waterfall that gives the Trollstigen its character. The river drops 180 metres in a single plunge alongside the upper switchbacks, throwing spray across the road and the lower viewing platforms. From the bridge that crosses below the falls — itself on one of the hairpins — the volume of water in early summer can be startling.

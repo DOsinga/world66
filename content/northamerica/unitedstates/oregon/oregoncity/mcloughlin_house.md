@@ -9,6 +9,7 @@ tags:
   - sight
   - historic_house
 snippet: "The restored home of John McLoughlin, 'Father of Oregon'"
+score: 7.1
 ---
 
 The McLoughlin House is the restored home of John McLoughlin, the dominant figure in early Oregon settlement and sometimes called the "Father of Oregon." McLoughlin was chief factor of the Hudson's Bay Company at Fort Vancouver for two decades, controlling the fur trade across a vast territory. He repeatedly helped destitute American emigrants with food and supplies — acts of generosity that eventually got him dismissed by the company and led him to retire to Oregon City in 1845 and take American citizenship.

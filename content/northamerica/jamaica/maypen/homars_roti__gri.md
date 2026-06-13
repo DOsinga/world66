@@ -8,6 +8,7 @@ longitude: -77.2390
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 A no-frills spot in the Mineral Heights shopping complex serving Jamaican roti and grilled meats. The roti skins are made fresh and stuffed with curried chicken, goat, or vegetables. Grilled jerk chicken is another staple. Portions are generous and prices are low -- this is everyday Clarendon eating, not a tourist restaurant. A good refuelling stop if you're driving through May Pen on the way between Kingston and the south coast.

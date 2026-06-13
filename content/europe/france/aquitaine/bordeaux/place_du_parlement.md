@@ -7,6 +7,7 @@ tags:
 latitude: 44.8379
 longitude: -0.5714
 snippet: Baroque square in the Saint-Pierre quarter, surrounded by café terraces
+score: 7.8
 ---
 
 Place du Parlement is a small but perfectly formed Baroque square in the Saint-Pierre neighbourhood, built in the mid-18th century. The surrounding facades are harmonious and elegant — carved doorways, wrought-iron balconies, window proportions that are confident without being showy. In the centre stands a wrought-iron lamppost that has become something of an emblem of this part of town.

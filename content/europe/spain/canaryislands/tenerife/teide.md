@@ -19,6 +19,7 @@ tags:
 - volcano
 title: Teide National Park
 type: poi
+score: 9.7
 ---
 
 Teide National Park is Tenerife's great inland shock: a high volcanic basin ringed by cliffs and dominated by Mount Teide, Spain's highest peak. After the resort coast, the drive up feels like crossing into another country. Pine forest gives way to ochre pumice, black lava, pale ash and strange rock towers, with the cone of Teide rising above everything.

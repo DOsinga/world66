@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 46.9969
 longitude: 8.7908
+score: 7.4
 ---
 
 The Panoramawanderweg — panoramic trail — runs between the Sternen lift station (1,856 m) and the Spirstock (1,826 m), crossing easy alpine terrain with unobstructed views across the mountains of cantons Schwyz, Uri, and Glarus. On a clear day you can see the Mythen peaks directly to the north and, further out, the curve of Lake Lucerne glittering below.

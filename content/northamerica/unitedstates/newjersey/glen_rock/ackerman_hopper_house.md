@@ -11,6 +11,7 @@ longitude: -74.1163
 snippet: "Early 18th-century Dutch colonial stone house — one of Bergen County's oldest surviving structures"
 sources:
   - https://en.wikipedia.org/wiki/Ackerman%E2%80%93Hopper_House
+score: 6.7
 ---
 
 The Ackerman-Hopper House at 652 Ackerman Avenue is a Dutch colonial stone farmhouse dating to the early 18th century, listed on the National Register of Historic Places. Bergen County has an unusually dense concentration of Dutch colonial stone houses — a legacy of the Dutch and Flemish settlers who farmed this region from the 1600s onwards — and the Ackerman-Hopper House is one of the better-preserved examples.

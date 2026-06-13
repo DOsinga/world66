@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.1375
 longitude: -104.8175
+score: 7.2
 ---
 
 The seat of the Roman Catholic Diocese of Cheyenne is a 1909 Gothic Revival church of pink sandstone with twin tall west towers — the most prominent church building on the downtown skyline. The architect, Adolphus Druiding, also designed a string of Catholic churches across the German-American Midwest, and the Cheyenne cathedral is one of his last and largest.

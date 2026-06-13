@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.405
 longitude: 68.364
+score: 7.3
 ---
 
 The tomb of Ghulam Shah Kalhora, the eighteenth-century ruler who founded Hyderabad and built its fort. The original dome collapsed long ago and was replaced by a flat concrete roof — an architectural disappointment, but the tomb itself remains an important historical site. Kalhora is buried here alongside family members; the complex sits north of the old city, near the Talpur Mir tombs.

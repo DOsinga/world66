@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 33.4736
 longitude: -81.9748
+score: 6.5
 ---
 
 The stretch of Broad Street between Sixth and Tenth streets is Augusta's main bar district, a compact run of venues that ranges from sports bars and pool halls to live music rooms and craft beer spots. The scene is unpretentious and genuinely local — this is where Augusta goes to drink, not somewhere curated for visitors.

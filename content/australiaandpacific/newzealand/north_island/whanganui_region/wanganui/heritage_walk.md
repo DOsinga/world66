@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -39.93500
 longitude: 175.04900
+score: 7.8
 ---
 
 Victoria Avenue, Wanganui's main commercial street, has one of the best-preserved Victorian and Edwardian streetscapes in New Zealand — a strip of ornate commercial facades that survived the wholesale demolition that wiped out equivalent buildings in larger cities. The detail in the ironwork, the cast cornices, and the shop facades rewards slow walking and looking up.

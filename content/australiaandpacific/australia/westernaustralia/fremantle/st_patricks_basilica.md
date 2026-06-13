@@ -9,6 +9,7 @@ tags:
   - church
 sources:
   - https://en.wikipedia.org/wiki/St_Patrick%27s_Basilica,_Fremantle
+score: 7.0
 ---
 
 St Patrick's Basilica, on Adelaide Street, is the principal Catholic church of Fremantle and a landmark of the Cappuccino Strip end of town. The current building dates from 1900, in a French Gothic style with twin spires and a rose window above the western entrance.

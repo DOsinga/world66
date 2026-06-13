@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The white lighthouse on the cliff between Hadaba and the Old Market — a useful landmark and a fine viewpoint.
+score: 5.8
 ---
 
 The lighthouse, technically Ras Umm Sid lighthouse, is the most visible structure in central Sharm. The white tower stands on the headland that separates Naama Bay from the Old Market, marking the entrance to the Strait of Tiran for ships heading north into the Gulf of Aqaba. It is still functional and not normally open to the public.

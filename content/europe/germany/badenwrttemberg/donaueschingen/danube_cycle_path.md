@@ -5,6 +5,7 @@ snippet: The Donauradweg starts here and runs 2,850 km to the Black Sea
 tags: [things_to_do, sight, cycling]
 latitude: 47.9509
 longitude: 8.5204
+score: 7.3
 ---
 
 The Donauradweg — the Danube Cycle Path — officially begins in Donaueschingen and follows the river all the way to the Black Sea. The first stretch heads east through gentle countryside towards Tuttlingen and Ulm, mostly downhill and on quiet roads or dedicated paths. Even a half-day ride from the source is a satisfying outing.

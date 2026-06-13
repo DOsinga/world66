@@ -5,6 +5,7 @@ tags: [things_to_do, sight, culture]
 latitude: 13.8867
 longitude: 75.3586
 story: Kuvempu wrote his masterpiece Ramayana Darshanam — an epic retelling of the Ramayana in Kannada — while gazing at these same forested hills, and it won him the Jnanpith Award, India's highest literary honour, in 1967.
+score: 6.8
 ---
 
 Kuppalli, about 35 km south of Shimoga, is the birthplace of K. V. Puttappa, better known as Kuvempu — the great 20th-century Kannada poet and novelist who is considered Karnataka's Rashtrakavi (national poet). For Kannada speakers, this is a place of genuine pilgrimage. For anyone else, it's a quietly lovely drive through Malnad landscape to a well-maintained memorial site.

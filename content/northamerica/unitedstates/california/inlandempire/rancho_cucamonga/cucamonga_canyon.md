@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 7.8
 ---
 
 A short steep canyon cut through the front range of the San Gabriel Mountains directly above town, with a seasonal creek, several small waterfalls, and pools that fill in spring. The hike up the canyon from the trailhead at Sapphire Street is unmarked, scrambly, and locally known as "Sapphire Falls" — popular with teenagers in summer and prone to overcrowding.

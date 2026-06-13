@@ -7,6 +7,7 @@ tags:
 latitude: 51.4580
 longitude: 7.0150
 story: "The Soul of Africa Museum was created by a single private collector, Walther Lensing, who spent forty years acquiring West African vodun objects — masks, figures, ritual implements — that were being sold out of their original contexts. His concern was that these objects would disappear into European private collections without any record of their function or meaning. The museum attempts to show them in relation to the cultural systems they came from."
+score: 7.3
 ---
 
 The Soul of Africa Museum is an unlikely institution: a private collection of several hundred West African vodun and traditional religious objects displayed in a small apartment building in central Essen. The collection focuses on Benin, Togo, and Nigeria, and includes carved figures, brass work, textiles, and ritual objects assembled over four decades by the collector Walther Lensing.

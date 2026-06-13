@@ -9,6 +9,7 @@ tags:
 - nightlife
 title: Insomnia
 type: poi
+score: 4.0
 ---
 
 A late-night bar on Tübingerstraße in Stuttgart's Mitte district, popular with locals looking for drinks after dark. The area around Tübingerstraße is one of Stuttgart's liveliest going-out streets, and Insomnia fits right in with its relaxed atmosphere and long opening hours.

@@ -10,6 +10,7 @@ tags:
 snippet: 70-square-kilometre UNESCO archaeological park around the 13th-century capital of the first Thai kingdom.
 story: >
   Between 1978 and 1988, with help from UNESCO, the Thai Fine Arts Department restored the park's 193 monuments, dredged the moats, replanted ponds with lotus, and removed the village that had grown up among the ruins. The result is one of Southeast Asia's most carefully presented archaeological sites — almost too immaculate, some say, but unforgettable to walk through.
+score: 9.6
 ---
 
 The Sukhothai Historical Park occupies the old walled capital of the Sukhothai Kingdom, founded around 1238 and at its height under King Ramkhamhaeng in the late 13th century. The site covers 70 square kilometres and contains the remains of 193 monuments — 21 temples within the central rectangular enclosure (about 2 km by 1.5 km, defined by three concentric ramparts and moats) and more scattered through the surrounding plain.

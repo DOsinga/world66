@@ -14,6 +14,7 @@ story: >
   communities and clearing papyrus beds. The project eventually collapsed, and the
   conflict over the swamp — who owns it, who may use it, and what it is for — has
   never been fully resolved.
+score: 8.2
 ---
 
 The Yala Swamp covers roughly 17,000 hectares where the Yala River broadens and slows before emptying into Lake Victoria, about 30 km southwest of Siaya. Dense stands of papyrus dominate much of the interior, with open water channels threading through. The swamp holds one of the most important bird populations in Kenya: sitatunga antelope move through the reedbeds, hippos wallow in the deeper channels, and several hundred bird species have been recorded here, including the papyrus gonolek and the blue swallow.

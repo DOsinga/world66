@@ -9,6 +9,7 @@ tags:
   - fishing
 latitude: 13.2500
 longitude: -88.0500
+score: 6.5
 ---
 
 Laguna de Olomega is a large volcanic crater lake about 45 km southeast of San Miguel, near the border with the La Unión department. It is one of the largest lakes in El Salvador, surrounded by small fishing villages whose residents have worked the lake for generations. The water is calm and clear, the surrounding hills are green even in the dry season, and the pace of life on the shore is entirely unhurried.

@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 snippet: "Australia's oldest continuously operating brewery, brewing beer since 1824 at the foot of Mount Wellington"
+score: 7.5
 ---
 
 A great Gothic-pile of a brewery sat at the foot of Mount Wellington in South Hobart, brewing pale ale and stout since 1824 — which makes it the oldest continuously operating brewery in Australia. The four-storey Victorian building, with its tall central tower and rows of arched windows, looks improbably grand against the wooded mountain behind. The Cascade Premium Lager and the Cascade Stout are still brewed here, along with the seasonal **Cascade First Harvest** released each March.

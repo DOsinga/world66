@@ -7,6 +7,7 @@ snippet: Old French watchtower with panoramic views over the palmery
 tags:
 - things_to_do
 - sight
+score: 6.5
 ---
 
 A squat watchtower on a low hill a few kilometres east of the town, built by the French Foreign Legion in the 1930s as a lookout over the Ziz Valley and the surrounding palmery. The tower itself is locked but the climb up the hill is the point — at the top you get the wide view of Erfoud against the green band of the Tafilalet oasis, with the Saharan emptiness rolling off to the south.

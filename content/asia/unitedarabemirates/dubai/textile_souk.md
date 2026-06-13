@@ -7,6 +7,7 @@ tags:
 - al_fahidi
 title: Textile Souk
 type: poi
+score: 6.9
 ---
 
 The Textile Souk (also called the Bur Dubai Souk) runs along the waterfront on the Bur Dubai side of the Creek, a covered arcade of shops selling Indian silk, Kashmiri pashmina, synthetic fabrics, and tailoring services. It is calmer and more navigable than the Deira souks across the water.

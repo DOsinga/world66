@@ -15,6 +15,7 @@ story: >
   several weeks in secret, sleeping in his laboratory, before revealing the discovery to the
   world on 28 December 1895. The first ever X-ray image he made was of his wife Anna's hand;
   she reportedly said "I have seen my death" when she saw the bones.
+score: 7.2
 ---
 
 The physics institute of the University of Würzburg, on Röntgenring, is where Wilhelm Conrad Röntgen made one of the most important scientific discoveries in history: the existence of X-rays, on 8 November 1895. The memorial site preserves the original laboratory where the discovery was made and presents it in historical context. Röntgen was awarded the first-ever Nobel Prize in Physics in 1901 for this discovery.

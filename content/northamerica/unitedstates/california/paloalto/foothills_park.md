@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: "1,400-acre hillside preserve in the Santa Cruz Mountains"
+score: 8.1
 ---
 
 Palo Alto's mountain park, draped over 1,400 acres of oak woodland and grassy ridges in the

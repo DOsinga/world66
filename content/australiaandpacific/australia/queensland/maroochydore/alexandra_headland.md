@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -26.6733
 longitude: 153.1011
+score: 7.6
 ---
 
 Alexandra Headland sits on a rocky promontory between Maroochydore and Mooloolaba, and the clifftop walking path between the two is one of the better coastal walks in the region. From the headland itself the views north over Maroochydore Beach and south toward Mooloolaba are excellent, and on a clear day you can pick out the Noosa headland far to the north.

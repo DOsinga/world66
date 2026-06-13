@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 The Zubovai Palace (**Didždvaris**) is a neoclassical mansion built in the late 18th century for Prince Platon Zubov, the last favourite of Empress Catherine the Great, who acquired the Šiauliai estate after the Partitions of Poland. The palace was the country house of one of the wealthiest families of the empire and saw extensive 19th-century alterations.

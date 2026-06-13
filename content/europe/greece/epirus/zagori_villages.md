@@ -15,6 +15,7 @@ story: >
   the slate-roofed mansions are all the product of that unusual arrangement.
   It also meant that when Greek independence came, the Zagorians had kept
   more of their culture intact than most of their neighbours.
+score: 9.1
 ---
 
 The Zagorochoria — 46 traditional stone villages scattered across the Zagori mountains north of Ioannina — are among the finest examples of vernacular architecture in Greece. The villages are built entirely of the local grey limestone, with slate roofs, arched bridges over the mountain streams, and large mansions built by merchants who travelled and returned wealthy. The whole area is a UNESCO Global Geopark.

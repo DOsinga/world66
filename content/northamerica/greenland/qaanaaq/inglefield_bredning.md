@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 77.5000
 longitude: -68.0000
+score: 9.0
 ---
 
 Inglefield Bredning is the great fjord on which Qaanaaq sits — about 100 kilometres long, surrounded by glaciers on three sides, and ice-covered for nine months a year. In late winter the floe edge moves outward and the Inughuit hunters take dog sleds across it to hunt narwhal and seal. In summer the bay opens up and you can take a small boat out to watch icebergs calve off the Heilprin and Tracy glaciers at the head of the fjord.

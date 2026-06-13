@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4100
 longitude: 10.0200
+score: 8.8
 ---
 
 The Bernina Pass (2,330 m) is the highest pass in the eastern Alps and one of the most dramatic in Switzerland: on the southern descent, the view opens suddenly over the Italian Alps and on clear days extends to the Po Plain and beyond. The road is open from late spring to autumn; the railway runs year-round.

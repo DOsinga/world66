@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.0574
 longitude: -96.6741
+score: 7.6
 ---
 
 Oak Point Park is Plano's largest green space — over 800 acres of tallgrass prairie, creek bottom, and woodland preserved in the middle of suburban North Texas. The park has extensive trail networks for hiking, running, and mountain biking, and the creek corridors provide habitat that attracts a surprising variety of birds for this part of Texas. The prairie sections bloom in spring and early autumn.

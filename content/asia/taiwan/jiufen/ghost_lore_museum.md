@@ -7,6 +7,7 @@ tags:
 latitude: 25.1082
 longitude: 121.8437
 snippet: Museum of Asian ghost rituals, demons, and folklore, with atmospheric displays
+score: 6.3
 ---
 
 The Ghost Lore Museum (鬼話故事館) in Jiufen occupies a warren of low-lit rooms near the old street and presents ghosts, demons, and supernatural beings from across Asian cultures — Taiwanese, Chinese, Japanese, and Southeast Asian traditions. The displays include reconstructed ritual spaces, mannequins dressed as spirit figures, and explanatory panels on how different cultures relate to the dead.

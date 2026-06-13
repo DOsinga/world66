@@ -12,6 +12,7 @@ story: >
   found in Indonesia, the Trisakti diamond of 167 carats, was unearthed at
   the Cempaka mines near Martapura in 1965 and presented to President
   Sukarno; its current whereabouts are officially unknown.
+score: 7.5
 ---
 
 Martapura, an hour's drive east of Banjarmasin, is the diamond and gemstone trading centre of South Kalimantan. The Cahaya Bumi Selamat market on the main square is a low covered complex full of cutters, polishers, and traders selling diamonds, sapphires, amethysts, agates, and freshwater pearls — much of it locally mined and cut, much of it not.

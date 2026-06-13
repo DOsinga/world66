@@ -15,6 +15,7 @@ story: >
   rather than the busy Foochow commercial town it became later. Its seven-storey pagoda is
   now one of Sibu's clearest landmarks: a Chinese temple tower watching over a Borneo river
   port.
+score: 8.1
 ---
 
 Tua Pek Kong Temple is Sibu's oldest Chinese temple and the most graceful building in the old centre. Its tiled roofs, carved details, and seven-storey pagoda stand close to the Rajang, which is exactly where a protective river-town temple ought to be.

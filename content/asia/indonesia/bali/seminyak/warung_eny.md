@@ -7,6 +7,7 @@ address: Jl. Petitenget 97, Kerobokan
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 A long-running, family-run warung serving the Indonesian classics — gado-gado, nasi campur, grilled fish — at a fraction of the prices you pay in the beach clubs. The dining room is a few timber tables under a tiled roof, with Eny herself usually cooking.

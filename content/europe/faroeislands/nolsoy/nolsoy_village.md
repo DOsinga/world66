@@ -13,6 +13,7 @@ story: >
   (grindadráp) are an ancient tradition still practised today, and the bones
   of stranded whales are repurposed with the same matter-of-fact practicality
   that defines island life everywhere things are scarce.
+score: 7.3
 ---
 
 Nólsoy village clusters tightly around its harbour on the island's northern end, its colourful timber houses stacked up the hillside behind the church and the small stone pier. With a population of around 250, it has one shop, one cafe, and a church — the basics. The arch made from whale jawbones at the harbour entrance announces immediately that this is a place with its own way of doing things.

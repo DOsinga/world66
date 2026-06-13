@@ -13,6 +13,7 @@ story: >
   century, the forum had to be expanded to accommodate the extra administrative weight. Today 
   it sits in an open-air excavation pit below street level — the modern city simply grew over 
   it, and it was only discovered when a cinema was demolished in the 1960s.
+score: 7.8
 ---
 
 The Roman Forum of Thessaloniki lies in an open excavation pit just above Aristotelous Square, reached by stairs down from street level on Filippou Street. The site is free to enter and uncrowded even in summer. What survives is the lower level of the ancient agora complex: a long colonnaded square, a small odeon (restored and still used for concerts), a cryptoporticus corridor, and fragments of mosaic floor.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -38.1183
 longitude: 176.2275
+score: 6.9
 ---
 
 A gondola takes you up the forested slopes of Mount Ngongotaha, a quiet extinct volcano on the western edge of Rotorua, to a complex of activities and viewpoints 487 metres above sea level. The view from the top — Lake Rotorua in the middle distance, the city spread along its shore, and more volcanic lakes beyond — is the best orientation you can get.

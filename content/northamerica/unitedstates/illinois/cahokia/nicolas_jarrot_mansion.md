@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 38.5700
 longitude: -90.1875
+score: 7.5
 ---
 
 The Nicholas Jarrot Mansion is a Federal-style brick house at 124 East First Street, built around 1810 by Nicholas Jarrot, a French-born land speculator and merchant who became one of the wealthiest men in territorial Illinois. The house is one of the oldest brick structures in Illinois and represents the transition from French colonial to American Federal architecture in the region.

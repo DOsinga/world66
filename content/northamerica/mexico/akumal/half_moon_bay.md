@@ -8,6 +8,7 @@ tags:
 - swimming
 title: Half Moon Bay
 type: poi
+score: 7.1
 ---
 
 Half Moon Bay, immediately north of Akumal Bay, is the quieter alternative for snorkelers who want to skip the turtle crowds. The reef sits close to shore — a hundred metres of swimming and you are over the wall, where parrotfish, angelfish, and the occasional eagle ray patrol the coral.

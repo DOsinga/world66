@@ -11,6 +11,7 @@ story: >
   The Digue à la Mer — the sea wall built in the 19th century to protect the delta from flooding — doubles as the finest cycling track in the Camargue. The 20-kilometre route from Saintes-Maries to Salin-de-Giraud runs along the Mediterranean coast with the sea on one side and flamingo lagoons on the other, almost entirely car-free.
 sources:
   - https://en.wikipedia.org/wiki/Camargue
+score: 7.1
 ---
 
 The Camargue is flat, has a network of quiet roads and tracks, and rewards slow travel — which makes it ideal for cycling. Bicycles can be rented in Saintes-Maries-de-la-Mer and Arles. The classic route from Saintes-Maries north to Pont de Gau and on to the Étang de Vaccarès covers the best of the reserve in a day.

@@ -9,6 +9,7 @@ latitude: -34.5308
 longitude: 138.9542
 sources:
   - https://en.wikipedia.org/wiki/Penfolds
+score: 7.9
 ---
 
 Penfolds is Australia's most internationally recognised winery, and its Barossa operation in Nuriootpa is the production heartland for many of its most celebrated wines, including the legendary Grange. The cellar door offers a range of experiences, from simple tastings to the iconic "Make Your Own Blend" session where visitors work alongside a winemaker to create their own bottled blend to take home.

@@ -8,6 +8,7 @@ tags:
 - museum
 title: Casa Museo Pedro Nel Gómez
 type: poi
+score: 8.2
 ---
 
 The former home and studio of Pedro Nel Gómez (1899–1984), the most important Antioquian muralist and one of the architects who shaped twentieth-century Medellin. The house itself, designed by Gómez, has the largest concentration of his frescoes anywhere — vivid, social-realist scenes of paisa working life lining the walls and ceilings. Free admission. Combine with a walk through the surrounding Aranjuez district, where many of his civic murals can still be seen on public buildings.

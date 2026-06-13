@@ -5,6 +5,7 @@ latitude: 52.1641
 longitude: 4.4734
 tags: [things_to_do, museum]
 story: Naturalis holds Trix, one of the most complete Tyrannosaurus rex skeletons ever found, dug up in Montana in 2013 by a Dutch team. She is mounted in a permanent gallery you can walk all the way around, the only T. rex on permanent display in Europe.
+score: 8.9
 ---
 
 Naturalis is the Dutch national museum of natural history and one of the largest natural-history collections in the world. The 2019 rebuild gave it a striking modern home next to the Leiden Central Station, with daylight galleries and a deliberate focus on biodiversity rather than dusty cabinets.

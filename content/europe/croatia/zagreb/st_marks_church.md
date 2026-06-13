@@ -14,6 +14,7 @@ tags:
 - things_to_do
 - sight
 - gornji_grad
+score: 8.0
 ---
 
 St Mark's is small but unmistakable: a 13th-century parish church on the highest square of the Upper Town, with a steeply pitched roof of glazed tiles laid out as two heraldic coats of arms — the older arms of the Triune Kingdom (Croatia, Slavonia, and Dalmatia) on the left, the modern arms of the City of Zagreb on the right. The roof, added in 1880, has become the city's most-photographed image after the cathedral spires.

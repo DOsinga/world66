@@ -6,6 +6,7 @@ latitude: 37.4480
 longitude: 24.9480
 story: >
   The name Vaporia means "steamships" in Greek — the quarter was built by the sea captains who ran the 19th-century shipping lines from Syros. Their mansions, facing the sea they made their fortunes on, are among the finest private neoclassical buildings in Greece, many still privately owned and in remarkable condition.
+score: 8.2
 ---
 
 Vaporia is the aristocratic quarter of Ermoupoli, clinging to the cliffs above the sea to the east of the main harbour. This is where the wealthy sea captains and merchants of the 19th century built their mansions — handsome neoclassical facades in ochre, terracotta, and deep blue, with wrought-iron balconies overlooking the Aegean.

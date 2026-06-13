@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.6583
 longitude: 116.9994
+score: 5.9
 ---
 
 The Shandong Revolutionary History Museum covers the province's role in the anti-Japanese resistance and Communist revolution from the 1930s through 1949. The collection includes weapons, documents, photographs, and personal effects, with particular attention to the Yimeng Mountain resistance base and the role of Shandong in the Communist consolidation of power. The framing is patriotic but the underlying history is real and significant.

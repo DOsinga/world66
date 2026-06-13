@@ -8,6 +8,7 @@ tags:
 latitude: 41.0709
 longitude: -81.5412
 address: 550 Copley Road
+score: 7.1
 ---
 
 The Perkins Stone Mansion is the 1837 Greek Revival house built by Colonel Simon Perkins Jr., son of one of Akron's two founders. Cut from sandstone quarried on the property, it has survived almost untouched: the entrance hall with its grand staircase, the parlour furniture, the kitchen with its original cooking hearth, and the third-floor servants' rooms with iron beds and washstands.

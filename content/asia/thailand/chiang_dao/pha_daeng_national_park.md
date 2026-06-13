@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Wild national park north of town with waterfalls, hot springs, and Yunnanese villages"
+score: 7.4
 ---
 
 Pha Daeng National Park begins about 20 kilometres north of Chiang Dao and extends into the mountains toward the Myanmar border. The park covers dense mixed forest, limestone karst, and river valleys. The main attractions are the Pha Daeng waterfall (best in the wet season, June to October), hot spring pools accessible by foot trail, and the old Yunnanese ex-KMT villages that have been here since the 1950s.

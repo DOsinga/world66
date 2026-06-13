@@ -9,6 +9,7 @@ tags:
 - castle
 snippet: The Norman castle keep that gave Newcastle its name
 story: The "new castle" was begun in 1080 by Robert Curthose, eldest son of William the Conqueror, on the site of a Roman fort guarding the lowest fordable point of the Tyne. The square stone keep that survives dates from a rebuilding in 1172 by Henry II — making it nearly 200 years older than the city's medieval town wall.
+score: 9.3
 ---
 
 The castle that gave Newcastle its name. The 12th-century keep and the 13th-century Black Gate are all that survive of a much larger Norman fortress, the rest of which was demolished in the 19th century to make way for the railway viaduct that now passes directly between the two buildings.

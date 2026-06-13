@@ -11,6 +11,7 @@ tags:
 title: Union Oyster House
 type: poi
 url: unionoysterhouse.com
+score: 7.2
 ---
 
 Open continuously since 1826, Union Oyster House is the oldest restaurant in the United States. The brick building on Union Street is older still: it housed the Capen family in the 1740s, served as a clothing store and a pre-Revolutionary printing office (the Massachusetts Spy was published from the upstairs in the 1770s), and finally became an oyster bar in the mid-1820s.

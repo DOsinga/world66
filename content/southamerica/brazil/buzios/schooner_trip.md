@@ -9,6 +9,7 @@ latitude: -22.7475
 longitude: -41.8822
 story: >
   The standard schooner circuit visits about five beaches in a full day, including stops for swimming and snorkelling. Guides on board are typically local fishermen who grew up on the peninsula and have opinions — sometimes strong ones — about which beach is best at which time of day. The boats themselves are traditional Brazilian fishing schooners converted for passengers, with sundecks and an onboard bar serving caipirinhas.
+score: 6.8
 ---
 
 The classic way to see Búzios is from the water. Schooner trips depart from the small harbour near Praia dos Ossos each morning, circling the peninsula and stopping at beaches that are difficult or impossible to reach by road. A full-day trip visits four or five beaches, spending 30–45 minutes at each; the skipper adjusts the itinerary depending on conditions and what the group wants.

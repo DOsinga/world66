@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 5.6
 ---
 
 A limestone cave system on the southern edge of Santa Elena, the closest natural attraction to Flores that does not involve a boat or a long day trip. The cave's name means "Cave of the Serpent" in Yucatec Maya; the locals will point out a few of the rock formations that suggest one.

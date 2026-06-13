@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 The Serbian Orthodox Cathedral faces the Catholic Dome across Union Square, built in the same Baroque idiom in 1746 — slightly smaller, a single tower, and brightly painted in pale yellow with white trim. The building reflects the long-standing Serbian community of the Banat, which Habsburg policy actively encouraged in the 18th century.

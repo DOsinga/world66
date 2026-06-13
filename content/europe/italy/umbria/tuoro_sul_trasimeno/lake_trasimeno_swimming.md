@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 43.2000
 longitude: 12.0800
+score: 6.3
 ---
 
 Lake Trasimeno is the largest lake in central Italy and one of the warmest and most accessible for swimming. The Lido di Tuoro, on the lakefront below the village, has a small sandy beach with pedalos and rowboat hire in summer. The lake is shallow enough that you can wade far from shore in warm water — unusual for an Italian lake — and the surrounding hills of Umbria and Tuscany provide an excellent view in all directions.

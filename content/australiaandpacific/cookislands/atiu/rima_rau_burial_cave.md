@@ -6,6 +6,7 @@ longitude: -158.1217
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 A shallow limestone cave on the south side of the island that was used as a battlefield burial site in pre-Christian times. The skulls and bones of the warriors are still visible in piles where they were left, lit by daylight filtering through the open mouth.

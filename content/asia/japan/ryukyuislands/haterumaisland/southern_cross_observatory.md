@@ -7,6 +7,7 @@ tags:
 latitude: 24.0527
 longitude: 123.7868
 story: "Hateruma is one of the very few places in Japan where the Southern Cross rises high enough above the horizon to see properly. The island sits below the Tropic of Cancer, making it technically subtropical, and on clear nights the sky is dark enough that the Milky Way is visible with the naked eye."
+score: 7.3
 ---
 
 The Southern Cross Observatory (星空観測タワー) stands near the island's southern coast, a short ride from the village by bicycle. The tower was built specifically to view the Southern Cross, which can be seen from this point in Japan but nowhere else in the country — the islands of Miyako and Okinawa proper are too far north for the constellation to clear the horizon cleanly.

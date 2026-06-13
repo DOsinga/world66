@@ -14,6 +14,7 @@ story: >
   was so valuable that the Bavarian dukes controlled it as a state
   monopoly; the toll house where the museum sits now collected fees
   on every shipment passing through.
+score: 6.9
 ---
 
 The **Inn-Museum** is Rosenheim's main local history museum, housed in a medieval toll house on the Inn riverbank. The collection centres on the salt trade that was Rosenheim's economic reason for existing: the town was a major transhipment point on the Inn, where salt from the mines at Bad Reichenhall and Berchtesgaden was loaded onto boats for the journey downriver.

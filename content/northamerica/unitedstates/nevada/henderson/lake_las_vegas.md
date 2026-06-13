@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.0920
 longitude: -114.9330
+score: 5.8
 ---
 
 A 320-acre artificial reservoir on the eastern edge of Henderson, Lake Las Vegas is surrounded by a resort and residential development that was built in the late 1990s to create a Mediterranean-style lakeside community in the desert. The project went bankrupt during the 2008 financial crisis and has been partially redeveloped since. The result is an oddly beautiful landscape — deep blue water against rocky desert hills, with resort hotels, a pedestrian bridge, and a promenade around the lake.

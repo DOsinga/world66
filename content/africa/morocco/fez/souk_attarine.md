@@ -9,6 +9,7 @@ tags:
 title: Souk Attarine (Spice Market)
 type: poi
 snippet: "The perfumers' souk — spices, incense, and traditional remedies near Al-Qarawiyyin"
+score: 7.9
 ---
 
 The Souk Attarine — named for the *attars*, the perfumers and spice merchants — is the most aromatic stretch of the Fez medina, clustered around the entrance to the Attarine Madrasa near Al-Qarawiyyin. The stalls sell cumin, saffron, cinnamon, rose water, oud incense, dried herbs, medicinal roots, and the dozens of spice blends used in Fassi cooking. Many of the merchants will mix *ras el hanout* to order if you specify the dishes you cook at home.

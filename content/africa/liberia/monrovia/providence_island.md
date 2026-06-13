@@ -11,6 +11,7 @@ story: The first 86 free Black Americans who landed here in 1822 negotiated for 
   land with a Dei chief using a combination of gifts and, by some accounts, the threat
   of a pistol. The settlement they built became the nucleus of the only country in
   West Africa that was never formally colonised by a European power.
+score: 8.4
 ---
 
 Providence Island sits at the mouth of the Mesurado River, a small island where the first freed American slaves landed in 1822 to establish the settlement that would become Monrovia and eventually Liberia. The island holds the remains of Fort Norris — built by the American Colonization Society — and a small memorial park commemorating the founding.

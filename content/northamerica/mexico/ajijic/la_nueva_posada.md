@@ -7,6 +7,7 @@ tags:
 latitude: 20.2968
 longitude: -103.2620
 snippet: Traditional lakefront restaurant with garden terrace and classic Mexican cooking
+score: 5.4
 ---
 
 La Nueva Posada is the most atmospheric restaurant on the Ajijic lakefront, set in an old house with a walled garden directly on the malecon. The menu is traditional Mexican — pozole, chile en nogada when in season, enchiladas, good ceviche from the lake fish — and the setting is excellent for a leisurely lunch or dinner.

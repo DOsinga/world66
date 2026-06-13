@@ -11,6 +11,7 @@ tags:
 - pub
 title: Kehoe's
 type: poi
+score: 7.0
 ---
 
 Kehoe's on South Anne Street, just off Grafton Street, is one of the finest Victorian pub interiors in Dublin. The carved mahogany bar, the snugs, the stained glass, and the knick-knacks accumulated over a century and a half have never been "improved." This is what the phrase "traditional Irish pub" is supposed to mean.

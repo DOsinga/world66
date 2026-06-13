@@ -9,6 +9,7 @@ latitude: 18.0065
 longitude: -76.7795
 story: >
   The house at 56 Hope Road was the site of a murder attempt on December 3, 1976, two days before the Smile Jamaica concert. Gunmen shot Marley in the arm, his wife Rita in the scalp, and his manager Don Taylor in the back. Marley performed at the concert anyway. The bullet holes in the wall have been preserved inside the museum.
+score: 9.1
 ---
 
 The Bob Marley Museum at 56 Hope Road is the essential Kingston experience — a well-curated guided tour through the house where Marley lived, recorded, and worked from 1975 until his death in 1981. The colonial-era building was originally the offices of Island Records' Jamaica operation before Marley bought it outright. Today it functions as a museum, record shop, and shrine, all with a distinctly non-corporate atmosphere unusual for a site of this commercial significance.

@@ -7,6 +7,7 @@ tags:
 latitude: 53.7560
 longitude: 7.6946
 story: "The Wadden Sea — shared between Germany, the Netherlands, and Denmark — is the world's largest intertidal zone and was designated a UNESCO World Heritage Site in 2009. At low tide, the mudflats expose several kilometres of sea floor that is home to an extraordinary concentration of invertebrates, shorebirds, and grey seals. A single square metre of Wadden Sea mud can contain up to 1,000 lugworms."
+score: 8.3
 ---
 
 At low tide, the mudflats on the south side of Spiekeroog expose a vast tidal landscape stretching towards the mainland. Guided walks — Wattwanderungen — cross the sea floor between islands and from the mainland to the island, following routes through channels and mudbanks that are passable only at specific states of the tide. Local guides know which crossings are safe and provide rubber boots for the experience.

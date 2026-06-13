@@ -9,6 +9,7 @@ tags:
   - zurich_west
 neighbourhood: "Zurich-West"
 snippet: "Bar, restaurant and brasserie on the 35th floor of the Prime Tower"
+score: 7.0
 ---
 
 Clouds occupies the top three floors of the Prime Tower in Zurich-West — at 126 metres, the city's third-tallest building and the highest publicly accessible viewpoint inside Zurich proper. The 35th floor is a bar with panoramic floor-to-ceiling glazing, the 36th is a more formal brasserie, and the 37th is a private fine-dining restaurant.

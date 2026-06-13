@@ -6,6 +6,7 @@ longitude: -2.8433
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 The Île-aux-Moines is the largest of the inhabited islands in the Gulf of Morbihan — seven kilometres long, shaped like a crucifix, about 600 permanent residents. The name reflects the medieval period when the island belonged to the Abbey of Redon. Today it is a quiet, low-key holiday island, with whitewashed cottages, sheltered beaches, mature cypress and palm trees that flourish in the mild gulf microclimate.

@@ -5,6 +5,7 @@ tags: [things_to_do, nature, day_trips]
 latitude: 38.1497
 longitude: 48.0697
 story: "Sarein sits in a basin warmed by the volcanic underbelly of Sabalan. Iranians from across the country book hotel rooms here for week-long mineral cures, especially in late summer."
+score: 6.2
 ---
 
 Sarein is a small spa town about 25 kilometres west of Ardabil, at the foot of Mount Sabalan. The hot springs here have been used for centuries and are now the main reason Iranians visit Ardabil province. There are seven main bath complexes in the village, each tapped from a different mineral source — some sulphurous, some iron-rich, some bicarbonate.

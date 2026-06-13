@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 26.2456
 longitude: 105.9340
+score: 6.9
 ---
 
 Anshun's old town commercial district, centred on the pedestrianised streets near the Confucian Temple, is the part of the city that retains the character that larger Guizhou cities have lost. The street market here deals in batik cloth, silver jewellery from the Buyi and Miao minorities, and the dried medicinal herbs that Guizhou has traded since the Tang dynasty. The covered section is particularly good in the morning when vendors set up stalls selling fresh produce alongside the craft goods.

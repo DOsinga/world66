@@ -9,6 +9,7 @@ tags:
 snippet: "World's largest collection of lilacs and 27 km of nature trails"
 story: >
   The Royal Botanical Gardens holds the world's largest collection of lilacs — over 750 cultivars in the Katie Osborne Lilac Garden. The collection began in 1947 with a single donation and was deliberately built up to honour Hamilton's nickname during the lilac boom of the 1950s. Peak bloom is the last two weeks of May.
+score: 8.8
 ---
 
 The Royal Botanical Gardens spans the Hamilton-Burlington border at the head of Lake Ontario, covering five separate properties and over 1,100 hectares — including 27 km of nature trails through the Cootes Paradise wetland, an internationally significant migratory bird sanctuary. The cultivated gardens are spread across five sites and include the world's largest collection of lilacs, a major iris collection, a Japanese garden, and the most diverse rock garden in North America.

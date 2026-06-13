@@ -7,6 +7,7 @@ tags:
 - nightlife
 title: Café Havana
 type: poi
+score: 8.1
 ---
 
 Café Havana is Cartagena's most celebrated bar for live music, located on the corner of Calle del Guerrero and Media Luna in Getsemaní. The music starts late — rarely before 10pm — and runs until the early hours, with live salsa and Cuban son bands playing most nights. The dance floor fills up quickly once the band gets going and the place becomes genuinely atmospheric.

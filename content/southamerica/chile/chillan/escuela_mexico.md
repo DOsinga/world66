@@ -15,6 +15,7 @@ story: >
   the project in 1942.
 sources:
   - https://en.wikipedia.org/wiki/Chill%C3%A1n
+score: 8.3
 ---
 
 The Escuela México is a primary school built with Mexican aid after the catastrophic 1939 earthquake that destroyed much of Chillán. The school itself is unremarkable — an institutional building in a residential street — but inside the stairwell and library, two of Mexico's greatest muralists painted their vision of the solidarity between Chile and Mexico, the struggles of the indigenous peoples of the Americas, and the history of both nations.

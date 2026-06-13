@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.5
 ---
 
 The island's main church, set back from the central quay behind an elegant marble courtyard and a clock-tower campanile that is itself one of Hydra's most recognisable landmarks. The cathedral was built in the late 17th century and substantially remodelled in the 18th, when wealthy captains paid for the gilded iconostasis, the marble floor, and the ornate carved bishop's throne.

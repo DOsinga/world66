@@ -8,6 +8,7 @@ tags:
   - engineering
 latitude: 19.1671
 longitude: 83.4307
+score: 6.4
 ---
 
 A long pedestrian suspension bridge across the Nagavali River linking Rayagada town to the villages of Chekaguda, Mariguda and beyond. It is one of only two such hanging bridges in Odisha and is a working connector for the villagers on the far bank rather than a tourist installation. The bridge sways gently as you walk across — vertigo sufferers should think twice — but the views up and down the river are excellent.

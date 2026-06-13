@@ -16,6 +16,7 @@ story: >
   traditional kitchen garden principles.
 sources:
   - https://en.wikipedia.org/wiki/Gordon_Castle
+score: 8.5
 ---
 
 Gordon Castle's walled garden is one of the finest restored kitchen gardens in Scotland. The eight-acre enclosure — dating from the 18th century — was returned to cultivation from near-dereliction by the Gordon-Lennox family and now produces fruit, vegetables, cut flowers, and herbs using traditional methods. The planting is arranged in long, formal beds with espaliered fruit trees along the stone walls, and the overall effect is both ornamental and genuinely productive.

@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - downtown
+score: 7.2
 ---
 
 The Rialto Theatre opened in 1920 as a vaudeville house and now serves as Tucson's main mid-sized concert venue — a slightly battered, balconied space across the street from the [Hotel Congress](/northamerica/unitedstates/arizona/tucson/hotel_congress). Capacity is around 1,200 and the acoustics are surprisingly good for the architecture.

@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Old Batumi
 type: poi
+score: 8.6
 ---
 
 The old town is the most genuinely characterful part of Batumi: a few square blocks of late nineteenth-century buildings put up during the oil-boom decades, when merchants, engineers, and consuls from across Europe poured in. The houses are typically two or three storeys, in plaster and brick, with deep wooden balconies, decorative iron grilles, and small interior courtyards.

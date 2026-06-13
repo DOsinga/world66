@@ -7,6 +7,7 @@ tags:
 latitude: 47.4752
 longitude: -94.8742
 snippet: "Glacial lake at the centre of town, source of the Mississippi 30 miles upstream"
+score: 7.1
 ---
 
 Lake Bemidji covers 11 square miles and was formed by glaciers at the end of the last ice age. It is the reason the town exists: the lake gave early settlers a reason to stop here rather than push further into the north woods. Today the lakeshore park runs along the southwest shore with a public beach, a fishing pier, and a walking path that connects to the Paul Bunyan statues. In summer the city beach is busy with swimmers, and canoes and paddleboards can be rented near the park. In winter, ice fishing shacks appear on the frozen surface, some of them elaborate plywood structures hauled out by pickup truck.

@@ -8,6 +8,7 @@ tags:
   - bar
   - southeast_peninsula
 neighbourhood: Southeast Peninsula
+score: 5.9
 ---
 
 The original beach bar on the Frigate Bay Strip, a weathered timber-and-thatch joint that has been the centre of St. Kitts nightlife for decades. Tables sit directly on the sand, the bar is built from driftwood, and the Atlantic crashes a few metres away.

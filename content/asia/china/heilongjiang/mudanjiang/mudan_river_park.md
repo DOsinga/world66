@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 44.5833
 longitude: 129.5983
+score: 5.8
 ---
 
 The Mudan River runs through the centre of Mudanjiang city, and the riverfront park along its banks is the city's main public green space and the place locals gravitate to in the evening. The park is nothing remarkable by scenic standards, but it gives an accurate portrait of how a mid-sized northeastern Chinese city lives: older couples ballroom dancing on the paving, groups playing cards, vendors selling grilled corn and skewers, and an easy flow of people using the river simply as a backdrop for being outdoors.

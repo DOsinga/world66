@@ -8,6 +8,7 @@ tags:
 - museum
 title: Civil Defence Bunker
 type: poi
+score: 7.2
 ---
 
 The Kryt Civilní Ochrany, a Cold War atomic bunker tucked under the streets of central Olomouc, has been preserved as a small museum of the communist era. The deep underground rooms, with their thick steel doors, painted ventilation pipes, and racks of gas masks, look exactly as they did in the 1980s.

@@ -9,6 +9,7 @@ tags:
 - football
 title: Goodison Park
 type: poi
+score: 6.6
 ---
 
 Home of Everton FC since 1892 — and one of the first purpose-built football stadiums in England. It sits just over a mile north of Anfield in Walton, the two grounds visible from each other across Stanley Park. Everton are due to leave for a new waterfront stadium at Bramley-Moore Dock in 2025; Goodison's future is uncertain.

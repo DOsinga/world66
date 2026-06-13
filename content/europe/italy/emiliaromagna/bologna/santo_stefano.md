@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 9.5
 ---
 
 The complex called Le Sette Chiese — the Seven Churches — sits on a triangular cobbled piazza a five-minute walk east of Piazza Maggiore. What looks from outside like one rambling Romanesque building is in fact several churches, chapels, and cloisters fused together over a millennium, beginning in the fifth century when Saint Petronius supposedly laid the first stones over a Roman temple to Isis.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.6500
 longitude: -121.2500
+score: 6.2
 ---
 
 The hills around 100 Mile House have been cattle country since the 19th century, and several working ranches now take guests — an experience that has become harder to find as ranch tourism consolidates elsewhere. A guest ranch stay here typically involves horseback riding through open range and pine forests, trail rides to backcountry lakes, and accommodation in log cabins with genuine character.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - poulsbo
 neighbourhood: Poulsbo
+score: 6.8
 ---
 
 A Poulsbo institution since 1966, run by the Sluys family for two generations and now the unofficial reason every visitor wanders down Front Street. The signature **Poulsbo bread** — a slightly sweet whole-wheat with sunflower seeds — is sold in nine-grain loaves at supermarkets across the Sound; here in the original bakery you also get **kringle** (a Danish almond-filled pastry), **lefse**, fat doughnuts, breakfast pastries and decent strong coffee.

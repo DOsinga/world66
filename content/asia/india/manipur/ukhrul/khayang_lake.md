@@ -8,6 +8,7 @@ tags:
 latitude: 25.0658
 longitude: 94.3417
 snippet: High-altitude lake in the Naga Hills, good for birdwatching and a half-day excursion from Ukhrul
+score: 6.8
 ---
 
 Khayang Lake (sometimes called Kachouphung Lake) sits about 12 km from Ukhrul town at high altitude in the Naga Hills, surrounded by a mix of pine and broadleaf forest. The lake is calm, reed-fringed, and popular with local families on weekends. For visitors, the main draw is the birdlife — the forest around the lake sits in the Indo-Myanmar biodiversity hotspot, and patient observation can turn up a range of species not found further west.

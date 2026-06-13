@@ -5,6 +5,7 @@ tags: [things_to_do, museum, art, stare_mesto]
 latitude: 48.1404
 longitude: 17.1130
 story: The gallery's main building is the Baroque Water Barracks, connected by an enclosed bridge (added in 1968) to a Brutalist extension that was almost universally disliked when built and has since become something of an acquired taste. The bridge over the embankment footpath is technically a public thoroughfare — you walk through the gallery's building without buying a ticket.
+score: 8.5
 ---
 
 The Slovak National Gallery (Slovenská národná galéria, SNG) is the country's main art museum, housed in a complex of buildings on the Danube embankment. The permanent collection covers Slovak and Central European art from the medieval period through to the 20th century, with particular strengths in Gothic altarpieces, Baroque painting and sculpture, and Slovak Modernism.

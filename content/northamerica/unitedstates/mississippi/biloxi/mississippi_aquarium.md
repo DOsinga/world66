@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 30.3925
 longitude: -88.8875
+score: 7.8
 ---
 
 Biloxi's aquarium opened in 2020 and has rapidly become one of the city's stronger draws — a genuine regional attraction focused on the Gulf Coast marine environment. The main tank holds Gulf of Mexico species including sharks, rays, and the dense schools of baitfish common to offshore reefs. A separate freshwater section covers Mississippi's inland waterways.

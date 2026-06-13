@@ -16,6 +16,7 @@ story: >
   cleared and the stone vaulting, where it survived, is being restored.
 sources:
   - https://en.wikipedia.org/wiki/Ancient_Aleppo
+score: 9.2
 ---
 
 The covered souks of Aleppo were among the greatest urban markets ever built — a labyrinthine network of stone-vaulted corridors stretching from Bab Antakia in the west to the Citadel in the east, different sections devoted to different trades for centuries. The silk souk, the spice souk, the goldsmiths' market, the soap market — each had its own character, its own smells, its own particular architecture. Much of this was destroyed in the fighting of 2012–2013.

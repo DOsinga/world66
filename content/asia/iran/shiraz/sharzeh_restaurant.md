@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Sharzeh Restaurant
 type: poi
+score: 6.6
 ---
 
 Sharzeh is a Shiraz institution, housed in a vaulted brick chamber off the Vakil Bazaar with carpets on the platforms and a small stage for the evening musicians. The menu sticks to classical Persian fare done well: kalam polo Shirazi, ghormeh sabzi, lamb shank with saffron rice, and the obligatory Shirazi salad.

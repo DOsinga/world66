@@ -2,6 +2,7 @@
 title: "Old Town (UNESCO World Heritage Site)"
 type: poi
 tags: [sightseeing]
+score: 9.6
 ---
 
 The old city of Ghadames is among the best-preserved pre-Saharan settlements in the world, and exploring it is an experience unlike any other in North Africa. The entire town is built from mud brick and palm wood, with thick walls that regulate interior temperatures so effectively that rooms stay cool even when outside temperatures exceed 40°C. The streets at ground level are almost entirely covered — narrow tunnelled passageways that thread between the buildings, creating a subterranean world of shade and cool air in the middle of the desert.

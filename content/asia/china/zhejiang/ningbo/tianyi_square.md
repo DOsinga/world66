@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 29.872
 longitude: 121.550
+score: 5.6
 ---
 
 Tianyi Square is Ningbo's main commercial and civic plaza, a large pedestrian zone in the city centre surrounded by shopping malls, restaurants, and the main Ningbo municipal buildings. The square itself is architecturally undistinguished — a large open space with occasional public art — but it serves as the city's focal gathering point and provides useful orientation: TianYi Pavilion is a five-minute walk west, the Sacred Heart Cathedral is close to the northeast, and the Laowaitan waterfront is a fifteen-minute walk southeast.

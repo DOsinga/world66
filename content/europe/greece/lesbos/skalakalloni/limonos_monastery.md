@@ -13,6 +13,7 @@ story: >
   limonos means "meadow" in an old Greek dialect, a reference to the meadows of lemon
   trees that no longer exist. The library collection includes documents covering the
   Ottoman period that are an important source for local history.
+score: 7.2
 ---
 
 Limonos Monastery is one of the largest and most active monasteries on Lesbos, founded in 1526 and built up over the following centuries into an imposing complex of churches, cells, and courtyards that gives it the look of a small fortified village. The main church contains some remarkable Byzantine frescoes and icons, and the attached ecclesiastical museum holds a significant collection of religious art, old manuscripts, and local Byzantine artefacts. The library is one of the most interesting repositories of medieval material in the northern Aegean.

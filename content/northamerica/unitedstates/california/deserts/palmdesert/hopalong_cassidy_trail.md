@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7245
 longitude: -116.3850
+score: 7.3
 ---
 
 A long ridge trail across the Santa Rosa foothills behind Palm Desert, named for the actor William Boyd, who lived in the valley. The full traverse is roughly 8 miles between the Cap Homme trailhead in the south and the Bump and Grind area in the north, with about 1,400 feet of cumulative climbing.

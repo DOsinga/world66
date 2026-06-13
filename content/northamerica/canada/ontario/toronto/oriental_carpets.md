@@ -6,6 +6,7 @@ tags:
 - shop
 title: a
 type: poi
+score: 1.0
 ---
 
 1

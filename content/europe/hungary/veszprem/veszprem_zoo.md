@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kittenberger Kálmán Zoo
 type: poi
+score: 6.1
 ---
 
 Named for the Veszprém-born hunter-naturalist Kálmán Kittenberger, who spent decades collecting specimens in East Africa for European museums, the city's zoo is among the better in Hungary. It sits in a wooded park about a kilometre south of the centre and houses some 130 species, with a particular emphasis on Africa.

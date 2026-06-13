@@ -13,6 +13,7 @@ story: >
   and inadvertently triggering the passage of the American Antiquities Act of
   1906 — the first federal law protecting archaeological sites in the United
   States.
+score: 9.2
 ---
 
 Cedar Mesa, a broad sandstone tableland to the north and west of Bluff, contains one of the highest concentrations of Ancestral Puebloan ruins anywhere on the Colorado Plateau. Grand Gulch cuts through its southern face, a winding canyon system over 80 km long with cliff dwellings, granaries, and rock art panels at almost every bend. The canyon can be entered from the Kane Gulch Ranger Station on US-261.

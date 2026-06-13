@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 8.0
 ---
 
 The city's great park, sloping from the upper town down to the river — sixty hectares of lawns, paths, ravines, and old trees, designed by the French landscape architect Charles Thays. A bandstand sits at the centre, a monument to Justo José de Urquiza (the city's founder-figure, after whom the park is named) at one end, and a long balustraded miradouro at the other, looking out over the river.

@@ -16,6 +16,7 @@ story: >
   needed a good anecdote and took some liberties.
 sources:
   - https://en.wikipedia.org/wiki/Ferry_Farm
+score: 8.2
 ---
 
 Ferry Farm is the colonial plantation on the north bank of the Rappahannock River where George Washington grew up, from age six until he left for Mount Vernon at about nineteen. The site is now operated by the same nonprofit that manages Kenmore, and ongoing archaeological excavations have uncovered the footprint of the original Washington house along with a wealth of 18th-century domestic artifacts.

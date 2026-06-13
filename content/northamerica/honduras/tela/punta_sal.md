@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The park was renamed Jeannette Kawas National Park in 1995 to honour the Garifuna environmental activist who founded the local conservation NGO and was assassinated at her home in Tela in 1995 for her opposition to African oil palm expansion. Her murder remains unsolved."
+score: 8.9
 ---
 
 Punta Sal — officially Parque Nacional Jeannette Kawas — is the wild headland that forms the western boundary of the Bay of Tela. The park combines white-sand beaches, mangrove channels, coral reefs, and tropical forest in a place reachable only by boat.

@@ -14,6 +14,7 @@ story: >
   nearly 100 metres. The record has since been taken by a bridge in Slovakia, but
   that barely matters when you're standing on the mesh floor looking straight down
   175 metres to the Paiva River.
+score: 8.8
 ---
 
 At 516 metres long and 175 metres above the river, this suspension bridge across the Paiva gorge is one of the most dramatic pedestrian structures in Europe. The floor is steel mesh, which means you can see the river directly below at every step. Most people slow to a shuffle near the middle; a few freeze entirely. It is genuinely vertiginous, and genuinely spectacular.

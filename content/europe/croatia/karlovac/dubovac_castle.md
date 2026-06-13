@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Dubovac Castle
 type: poi
+score: 8.2
 ---
 
 The medieval castle on the hill above the city dates from the 13th century and was remodelled by the Frankopan family in the 15th. It now houses a small café and cultural centre, and the terrace gives one of the best views of the four rivers converging around Karlovac. The walk up from the old town takes about 20 minutes through a residential neighbourhood.

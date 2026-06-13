@@ -8,6 +8,7 @@ tags:
 snippet: "Old city street of chapli kebab restaurants — the best in Pakistan"
 latitude: 34.0098
 longitude: 71.5680
+score: 7.6
 ---
 
 Namak Mandi — the "Salt Market" — is a street in the old city that has evolved into the definitive destination for *chapli kebab*. A row of open-fronted restaurants run charcoal fires from noon until late, frying wide flat patties of minced beef or mutton mixed with pomegranate seeds, coriander, and chilli. The kebabs are served on naan with raw onion and chutney.

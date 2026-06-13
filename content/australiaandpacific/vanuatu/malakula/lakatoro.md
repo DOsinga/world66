@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -16.1000
 longitude: 167.4167
+score: 5.4
 ---
 
 The administrative centre of Malampa province, set on the northeast coast of Malakula. Lakatoro is small — a handful of streets running up the slope from the lagoon — but it has a market, a few shops, a hospital, a couple of basic guesthouses, and the offices that book most cultural visits to villages around the island.

@@ -6,6 +6,7 @@ longitude: 107.0959
 tags:
   - things_to_do
   - beach
+score: 7.8
 ---
 
 Back Beach is the long curve of sand on the east side of the peninsula, facing the open South China Sea. The water is cleaner and the surf bigger than on Front Beach, which makes this the actual swimming beach. On weekends it fills with day-trippers from Ho Chi Minh City — every umbrella out, kids in inflatables, families spread across the sand. On weekdays it is much quieter.

@@ -1,6 +1,7 @@
 ---
 title: "Fort Buford State Historic Site"
 type: poi
+score: 7.2
 ---
 
 A few kilometres west of Fort Union, on the North Dakota side of the Missouri, Fort Buford was a US Army post established in 1866 — one of a string of forts built to protect overland routes and, eventually, to enforce the confinement of the Plains peoples to reservations. It is remembered above all as the place where Sitting Bull and his band of Hunkpapa Lakota surrendered on 19 July 1881, after four years of exile in Canada following the Battle of the Little Bighorn. The original adjutant's office still stands, now serving as the visitor centre and museum.

@@ -10,6 +10,7 @@ story: >
   Every monarch butterfly east of the Rocky Mountains that survives the summer in Canada and the northern United States ends up here. They navigate over 4,000 km using a combination of the sun, the Earth's magnetic field, and an internal clock — and they have never made this journey before. Their parents died on the way back north. Yet generation after generation arrives at the same oyamel fir forests in the mountains of Michoacán.
 sources:
   - https://en.wikipedia.org/wiki/Monarch_Butterfly_Biosphere_Reserve
+score: 9.1
 ---
 
 The Monarch Butterfly Biosphere Reserve covers 56,000 hectares of mountain forest straddling the states of Michoacán and México. From late October through March, the reserve hosts an estimated 100–300 million monarch butterflies that have migrated from Canada and the northern United States to spend the winter in the oyamel fir forests at altitudes between 2,400 and 3,600 metres.

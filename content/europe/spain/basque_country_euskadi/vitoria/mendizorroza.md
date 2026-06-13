@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - sport
+score: 6.2
 ---
 
 The municipal sports complex south-west of the centre, home of the city's football team (Deportivo Alavés) at the Mendizorroza Stadium and the venue for many of the open-air concerts during the Vitoria Jazz Festival. The complex includes athletics tracks, swimming pools, and tennis courts open to the public.

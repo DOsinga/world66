@@ -9,6 +9,7 @@ latitude: 52.0972
 longitude: 23.6917
 story: >
   Sovetskaya Street is famous for a nightly ritual: each evening, a lamplighter in period costume walks the length of the pedestrian zone lighting the old gas lamps by hand. Brest is one of the very few cities in the world that still maintains this practice — a deliberate anachronism that has become the city's most recognisable image.
+score: 6.6
 ---
 
 Sovetskaya Street is Brest's main pedestrian thoroughfare and the social heart of the city — a long, tree-lined boulevard of Soviet-era and pre-war buildings that has been pedestrianised and filled with outdoor cafes, street musicians, and evening strollers. It connects the old town area around the central market with the city's main cultural institutions.

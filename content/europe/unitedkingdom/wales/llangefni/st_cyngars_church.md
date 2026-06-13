@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/St_Cyngar%27s_Church,_Llangefni
+score: 5.9
 ---
 
 St Cyngar's Church stands on a low rise above the town centre, on a site that has been a place of worship since early medieval times. The town's name — Llangefni — means "church on the river Cefni" in Welsh, and this is the church in question, named for a 6th-century Celtic saint. The present building is largely Victorian restoration, though the site's history stretches back over a thousand years.

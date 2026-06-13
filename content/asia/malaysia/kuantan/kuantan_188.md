@@ -7,6 +7,7 @@ longitude: 103.3275
 tags:
 - things_to_do
 - sight
+score: 6.3
 ---
 
 Kuantan's most unusual landmark is a six-storey observation tower that stands 188 metres tall on the banks of the Kuantan River, a nod to the year 1888 when the city was formally established as an administrative centre. The number is also considered auspicious in Chinese numerology, a characteristic touch in a city where Malay and Chinese cultures have coexisted for generations.

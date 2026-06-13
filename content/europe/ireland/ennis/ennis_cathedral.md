@@ -6,6 +6,7 @@ tags: [things_to_do, church, sight]
 address: "O'Connell Street"
 latitude: 52.8416
 longitude: -8.9833
+score: 6.4
 ---
 
 The Cathedral of Saints Peter and Paul, built between 1828 and 1843 and raised to cathedral status in 1990, sits at the south end of O'Connell Street. Its tall granite spire — added later, in 1874 — is the most visible landmark in Ennis from any approach by road.

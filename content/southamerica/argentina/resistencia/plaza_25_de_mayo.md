@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -27.4513
 longitude: -58.9869
+score: 7.3
 ---
 
 Plaza 25 de Mayo is the leafy central square of Resistencia and the natural starting point for a walking tour of the city's sculptures. Around its four blocks stand the provincial government palace, the cathedral, the municipal theatre and the old Casa de Gobierno, all looking onto a shaded square with palms, jacarandas and a half-dozen of the city's best-known works.

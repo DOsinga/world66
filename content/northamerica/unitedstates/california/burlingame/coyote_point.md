@@ -9,6 +9,7 @@ longitude: -122.3261
 snippet: "Bay-side park with beaches, trails, a marina, and views across to San Francisco"
 sources:
   - https://en.wikipedia.org/wiki/Coyote_Point_Recreation_Area
+score: 7.6
 ---
 
 Coyote Point Recreation Area is San Mateo County's main waterfront park, sitting on a small peninsula that juts into San Francisco Bay about two miles north of downtown Burlingame. The park has a small beach, a marina, picnic areas, and walking trails along the water with views north to San Francisco and the Bay Bridge.

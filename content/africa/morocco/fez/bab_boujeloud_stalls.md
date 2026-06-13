@@ -8,6 +8,7 @@ tags:
 title: Bab Boujeloud Street Food
 type: poi
 snippet: "Brochettes, harira, snails, and merguez — the cheapest eating in Fez"
+score: 6.8
 ---
 
 Just inside Bab Boujeloud and around the small square at the entrance to the medina, a cluster of street-food stalls and small open-fronted restaurants serves the cheapest and most immediate eating in Fez. Brochettes of lamb and kefta are grilled over charcoal at the curb; large pots of harira (the Moroccan bean, tomato, and lemon soup) simmer all day; trays of cooked snails in cumin broth are sold by the bowl.

@@ -5,6 +5,7 @@ latitude: 25.1325
 longitude: 121.74
 snippet: "Shipping company museum on the waterfront with maritime history and contemporary art"
 tags: [things_to_do, museum]
+score: 7.7
 ---
 
 The Yang Ming Oceanic Culture and Art Museum sits on the Keelung waterfront and is one of the better small museums in the city. Yang Ming is a major Taiwanese shipping line, and the museum traces the history of seafaring and ocean trade with a focus on Taiwan's maritime identity. The permanent collection covers traditional fishing culture, the development of the modern container shipping industry, and the ecology of the waters around Taiwan. There is also a changing programme of contemporary art exhibitions that make use of the dramatic harbour-facing spaces.

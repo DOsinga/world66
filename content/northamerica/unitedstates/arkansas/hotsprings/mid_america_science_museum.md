@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Hands-on science museum with a high-voltage Tesla coil demonstration"
+score: 7.0
 ---
 
 A serious hands-on science museum tucked into the woods west of town, with over 100 interactive

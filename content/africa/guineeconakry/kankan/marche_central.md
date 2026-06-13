@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 10.3862
 longitude: -9.3058
+score: 7.6
 ---
 
 Kankan's central market is one of the most animated in Guinea and the obvious place to get a feel for the city's commercial energy. The covered section — entered through distinctive arched gates — sells cloth, clothing, hardware, and household goods. Around it, open-air stalls spread across several blocks dealing in produce, dried fish, spices, and the bright printed fabrics (lapa) that define West African dress.

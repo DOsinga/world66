@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4170
 longitude: 12.2502
+score: 5.4
 ---
 
 The parish church of Santa Lucia sits in the centre of Vodo — a tall hipped-roof building with a free-standing bell tower, rebuilt in the eighteenth century on the site of an earlier medieval church. The roof is the local copper-green of oxidised tin sheet, common in this part of the Cadore. The interior is plain but contains a small collection of devotional paintings and the customary alpine ex-voto offerings.

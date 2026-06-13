@@ -11,6 +11,7 @@ tags:
 - shop
 title: Discount System
 type: poi
+score: 4.8
 ---
 
 Designer fashion at up to 50% off retail. You will find Armani, Fendi, Valentino, and other Italian labels at serious discounts. Worth the detour if you want quality without the full Via Condotti price tag.

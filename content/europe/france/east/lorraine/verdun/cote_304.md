@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - monument
 snippet: "Left-bank hill, lost five metres of height to shellfire in 1916"
+score: 7.9
 ---
 
 Hill 304 sits a few kilometres west of Le Mort-Homme on the same left-bank ridge. It was so heavily shelled in the summer of 1916 that its summit was measured by surveyors after the war as 295 metres rather than 300 — five metres of hillside literally pulverised by German artillery.

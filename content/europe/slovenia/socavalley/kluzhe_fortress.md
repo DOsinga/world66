@@ -17,6 +17,7 @@ story: >
   front.
 sources:
   - https://en.wikipedia.org/wiki/Klu%C5%BEe_Fortress
+score: 7.7
 ---
 
 Kluže Fortress sits in a narrow gorge just north of Bovec, built across a defile where the Koritnica River squeezes between sheer cliffs. The Austro-Hungarian structure is remarkably well-preserved, with its galleries, gun ports, and barracks largely intact. It occupied one of the few positions in the valley that a small garrison could hold indefinitely against a much larger force.

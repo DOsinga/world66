@@ -12,6 +12,7 @@ story: >
   Sailors returning safely to Montreal used to bring votive ship models as offerings to the chapel's patron. The models — small wooden boats, some painted brightly, some covered in silver foil — still hang from the ceiling of the nave, swaying slightly in the draught from the door. It is one of the most unexpected and moving sights in the city.
 sources:
   - https://en.wikipedia.org/wiki/Notre-Dame-de-Bon-Secours_Chapel
+score: 7.0
 ---
 
 Notre-Dame-de-Bon-Secours Chapel in Old Montreal is known as the Sailors' Church, and with good reason: for centuries it was where sailors and merchants gave thanks for safe passage. Votive ship models hang from the vaulted ceiling — a tradition that dates to the 17th century — and a Latin inscription on the wall records the names of those lost at sea. The chapel is one of the oldest pilgrimage sites in North America, first built in 1657 though the current building dates to 1771.

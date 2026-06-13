@@ -11,6 +11,7 @@ story: >
   The Iron Crown of Lombardy, kept in the cathedral treasury, is supposedly made from one of the nails of the True Cross — the iron band inside the gold crown is the alleged nail. Whether or not you believe this, it has been used to crown kings of Italy since the Middle Ages: Charlemagne in 774, Frederick Barbarossa in 1155, Napoleon in 1805. Napoleon put it on his own head at his coronation in Milan and announced, "God gives it to me; woe to him who touches it."
 sources:
   - https://en.wikipedia.org/wiki/Duomo_of_Monza
+score: 8.6
 ---
 
 Monza Cathedral is one of the finest examples of Lombard Gothic architecture in northern Italy, its marble facade a study in alternating bands of white and green — the distinctive visual signature of Lombard church building. Construction of the current building began in 1300, replacing an earlier basilica built by Queen Theodelinda of the Lombards in the early 7th century, whose memory permeates the place.

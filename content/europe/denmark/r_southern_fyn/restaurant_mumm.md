@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 54.8916
 longitude: 10.4133
+score: 5.8
 ---
 
 Restaurant Mumm, in a 17th-century house on Søndergade in Ærøskøbing, is the island's smarter dinner option without being formal. The kitchen leans on local produce: Ærø lamb in summer, smoked fish from the harbour, vegetables from nearby farms, and apples from the orchard out back for desserts.

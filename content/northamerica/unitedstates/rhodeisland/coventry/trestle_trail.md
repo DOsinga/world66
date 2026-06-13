@@ -14,6 +14,7 @@ story: >
   in Rhode Island. The wooden trestles that give the trail its name span several of the
   swampy lowlands and small rivers that the original engineers bridged to keep the line
   level.
+score: 6.8
 ---
 
 The Trestle Trail runs roughly 18 miles from Coventry through the forests of western Rhode Island and into eastern Connecticut, following a former rail corridor that was converted to multiuse trail in the 1980s and 1990s. The surface is packed gravel and crushed stone, making it well-suited for cycling, walking, and cross-country skiing in winter. The western sections are particularly quiet, passing through second-growth forest and wetlands with very little road crossings.

@@ -9,6 +9,7 @@ tags:
 snippet: Egyptian cuisine on a moored Nile boat in Zamalek
 title: Pasha Restaurant
 type: poi
+score: 5.2
 ---
 
 Dinner on a moored boat opposite the Marriott in Zamalek — Egyptian cuisine with views of the Nile. On the expensive side but the setting is genuinely memorable.

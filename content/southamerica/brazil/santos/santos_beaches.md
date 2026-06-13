@@ -6,6 +6,7 @@ longitude: -46.3300
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Santos has seven main beaches along its open Atlantic coast, separated by canals draining the inland mangroves and bays. From east to west they are José Menino, Pompéia, Gonzaga, Boqueirão, Embaré, Aparecida, and Ponta da Praia. Each has a slightly different character.

@@ -6,6 +6,7 @@ latitude: 40.6803
 longitude: 46.3578
 sources:
   - https://en.wikipedia.org/wiki/Nizami_Ganjavi_Ganja_State_History-Ethnography_Museum
+score: 7.5
 ---
 
 The largest museum in Ganca covers the city's history from ancient times through the Soviet period, housed in a handsome early twentieth-century mansion near the main square. The collections are substantial for a regional museum: archaeological finds from the old city ruins, ethnographic displays of Azerbaijani material culture, and exhibits on the khanate and Russian colonial periods.

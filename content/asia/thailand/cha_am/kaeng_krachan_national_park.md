@@ -16,6 +16,7 @@ story: >
   Southeast Asia but survive here in significant numbers.
 sources:
   - https://en.wikipedia.org/wiki/Kaeng_Krachan_National_Park
+score: 8.8
 ---
 
 Thailand's largest national park lies about 60 km west of Cha Am, making it one of the easier day trips from the coast. The park covers nearly 3,000 square kilometres of forested hills along the Myanmar border, with trails for wildlife spotting, waterfalls, and a large reservoir at its centre.

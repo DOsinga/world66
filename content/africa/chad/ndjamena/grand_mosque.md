@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.11042
 longitude: 15.05083
+score: 6.6
 ---
 
 The Grand Mosque was built in 1978 with Saudi funding and is one of the largest mosques in Central Africa. The building occupies a prominent position in the southern part of the city and can accommodate thousands of worshippers. Its minarets are visible from a good distance, providing one of the few reliable landmarks in a city where street names are not always helpful for navigation.

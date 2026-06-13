@@ -9,6 +9,7 @@ latitude: -6.8598
 longitude: 107.9210
 sources:
   - https://en.wikipedia.org/wiki/Tahu_Sumedang
+score: 6.4
 ---
 
 Tahu sumedang — also called tahu bungkeng — is the reason most Indonesians know this town exists. The tofu is made from a recipe introduced by Chinese immigrants in the nineteenth century, deep-fried until the outside is a blistered, crackling shell while the inside collapses into a soft, almost hollow pocket. The texture is unlike ordinary fried tofu: the crust shatters, the interior steams, and the flavour is clean and savoury without heaviness.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - mosque
+score: 7.4
 ---
 
 The largest mosque in Kabul, built over fifteen years and finished in 2012 — a vast modern structure with twin minarets, a central dome that can be seen from much of the city, and capacity for ten thousand worshippers. It sits just south of the Kabul river in the commercial Deh Afghanan district.

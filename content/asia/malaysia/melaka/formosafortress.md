@@ -12,6 +12,7 @@ tags:
 - landmark
 title: A'Famosa (Porta de Santiago)
 type: poi
+score: 7.9
 ---
 
 The solitary surviving gateway of the Portuguese fortress built in 1511 after Alfonso de Albuquerque's conquest of Melaka. At its peak, A'Famosa enclosed much of the hilltop and was among the strongest fortifications in Asia. Only this single gate, the Porta de Santiago, survived the systematic British demolition ordered in 1795.

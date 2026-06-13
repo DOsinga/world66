@@ -15,6 +15,7 @@ story: >
   immense — much of Troy VI, the city most likely to be Homer's, was destroyed by
   his digging — but the trench did prove conclusively that Troy was a real place with
   thousands of years of continuous occupation.
+score: 8.3
 ---
 
 The deepest scar on the site is also its most informative — the colossal north-south trench cut by Heinrich Schliemann between 1871 and 1890 in his quest to reach what he believed was Homer's Troy. At 17 metres deep and several metres wide, the trench cuts cleanly through every layer of the mound's occupation, giving you the rare experience of standing inside a complete archaeological stratigraphy.

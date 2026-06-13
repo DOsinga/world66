@@ -8,6 +8,7 @@ tags:
 latitude: 27.7160
 longitude: 85.3115
 address: Thamel, Kathmandu
+score: 5.8
 ---
 
 Thamel House occupies a restored Newari building and serves Newari and Nepali cuisine in a setting that gives some sense of the traditional domestic architecture of Kathmandu's old families — carved wood screens, brass oil lamps, and cushioned alcoves. This is the place for chatamari (the Newar "pizza" made of rice flour), bara (black lentil pancakes), and aila (Newari home-distilled spirit served warm) if you can find it.

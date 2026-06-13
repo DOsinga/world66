@@ -7,6 +7,7 @@ snippet: Modern Languedoc cooking with a tasting-menu format, near the centre
 tags:
 - eating_out
 - restaurant
+score: 6.2
 ---
 
 Skab is one of the more inventive restaurants in Nîmes — chef Damien Sanchez offers tasting menus that move through the produce of the region with imagination but without pretentious. The dining room is small and discreet, and the cooking takes care over presentation without losing the southern French character.

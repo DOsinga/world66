@@ -11,6 +11,7 @@ story: "The church stands on the highest part of Vejer's old enclosure and incor
 sources:
   - https://www.guiadecadiz.com/turismo-cultural-detalle/iglesia-del-divino-salvador-vejer
   - https://es.wikipedia.org/wiki/Iglesia_del_Divino_Salvador_(Vejer_de_la_Frontera)
+score: 8.4
 ---
 
 The Iglesia del Divino Salvador is Vejer's main church and the best single building for reading the town's history. It is not a neat monument from one period, but a layered structure with Gothic, Mudéjar, and earlier traces folded into the same stone shell.

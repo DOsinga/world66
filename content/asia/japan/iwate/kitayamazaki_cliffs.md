@@ -8,6 +8,7 @@ latitude: 39.8900
 longitude: 141.9900
 story: >
   On clear days from the cliff-top observation deck, the rock faces drop so steeply to the sea that the base is invisible — just the vertical cliff and then open Pacific. The boats that run along the base in summer, taking visitors through sea caves and beneath the cliff faces, make the scale of it suddenly real.
+score: 8.6
 ---
 
 The Kitayamazaki Cliffs, near the coastal town of Tanohata in northern Iwate, are the most spectacular section of the entire Sanriku coast. Over eight kilometres of basalt cliffs plunge up to 200 metres straight into the Pacific, their faces colonised by sea birds and streaked with lichen. Looking south from the main observation platform, the cliff line curves away into distance, one headland stacking behind another.

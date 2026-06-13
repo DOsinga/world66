@@ -8,6 +8,7 @@ tags:
 - sight
 - museum
 snippet: "Sixteenth-century Franciscan convent, now the island's sacred-art museum"
+score: 7.8
 ---
 
 The Convento de San Francisco was founded in 1588, one of the first religious houses on Lanzarote, and despite repeated pirate raids and several rebuildings it still preserves its sixteenth-century church and cloister. The complex sits a short walk south of the main square, on a quiet street of low whitewashed houses.

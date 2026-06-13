@@ -11,6 +11,7 @@ story: >
   and liked to sit in the mill. But it was also completely artificial, staffed by
   courtiers playing at peasant life, and became a symbol of how out of touch the
   court was with real rural poverty.
+score: 8.8
 ---
 
 The Hameau de la Reine is a cluster of 12 thatched-roof cottages built between 1783 and 1787 in the gardens of the Petit Trianon. The architect Richard Mique designed it in the style of a Normandy village, complete with a working farm, a dairy, a mill, a fisherman's cottage, and a dovecote. Real animals lived here — cows, sheep, chickens — tended by real farmers employed by the crown.

@@ -7,6 +7,7 @@ tags:
 - jumeirah
 title: Bu Qtair
 type: poi
+score: 7.9
 ---
 
 Bu Qtair is a legendary low-key seafood shack next to the Jumeirah Fishing Harbour. You choose your fish or prawns from a display of the day's catch, watch them deep-fried in front of you, and eat at plastic tables on the waterfront. No menus, no choices beyond the fish, no alcohol, no décor — just some of the freshest and best-value fried fish in the city.

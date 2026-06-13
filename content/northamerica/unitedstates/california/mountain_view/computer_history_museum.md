@@ -7,6 +7,7 @@ tags:
 latitude: 37.4143
 longitude: -122.0774
 story: "The museum's collection includes one of the two surviving Babbage Difference Engines — a machine designed in the 1840s that was never built in Babbage's lifetime. The one here was assembled in 2008 from Babbage's original drawings, and it actually works."
+score: 9.2
 ---
 
 The Computer History Museum is one of the great technology museums in the world, with a collection that spans from the abacus to the early internet. More than 100,000 artefacts, software titles, and oral history recordings document the full arc of computing history, from Babbage's mechanical calculators and room-sized mainframes to the first personal computers and the machines that mapped the human genome.

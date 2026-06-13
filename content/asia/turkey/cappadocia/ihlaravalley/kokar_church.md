@@ -6,6 +6,7 @@ longitude: 34.2925
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 One of the older churches in the valley, with frescoes from the 9th and 10th centuries — the period when local artists were still working in an East Anatolian style strongly influenced by Coptic and Syrian models, before classical Byzantine prototypes spread inland.

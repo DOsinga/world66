@@ -8,6 +8,7 @@ url: "reidparkzoo.org"
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 Reid Park Zoo is a compact 24-acre city zoo, set inside Tucson's main park east of downtown. It is well-managed and easy to do in a couple of hours — elephants, anteaters, jaguars, polar bears, and a small flamingo pond.

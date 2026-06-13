@@ -8,6 +8,7 @@ tags:
 latitude: 42.426
 longitude: 25.631
 snippet: "Scattered remnants of the Roman city of Augusta Traiana, visible at street level throughout the centre"
+score: 7.7
 ---
 
 Stara Zagora was once Augusta Traiana, a significant Roman city founded by Emperor Trajan in the early 2nd century CE. It lay on the main road through Thrace and was large enough to have its own forum, temples, baths, and city walls. Unlike many ancient sites that are carefully fenced and ticketed, the Roman remains here are scattered informally through the modern city centre — fragments of forum pavement visible beneath glass in a pedestrian walkway, sections of the ancient street grid overlapping the modern one, and exposed archaeological layers in a few open excavation sites.

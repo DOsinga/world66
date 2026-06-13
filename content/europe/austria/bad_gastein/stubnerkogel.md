@@ -12,6 +12,7 @@ story: >
   ridge below. It was built not as a practical crossing but as an attraction
   in its own right. On clear days you can see across to the Hohe Tauern and
   the Grossglockner, Austria's highest peak, more than 50 km to the east.
+score: 8.1
 ---
 
 The **Stubnerkogel** (2246 m) is Bad Gastein's main ski and hiking mountain, accessed by a gondola from the edge of town. In summer it offers some of the best panoramic views in the Gasteinertal, with the Hohe Tauern range spread out to the east and the valley towns visible far below.

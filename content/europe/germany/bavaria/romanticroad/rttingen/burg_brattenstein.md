@@ -9,6 +9,7 @@ tags:
 - castle
 title: Burg Brattenstein
 type: poi
+score: 7.2
 ---
 
 The castle sits on a low ridge directly above town, reached by a short path that climbs through the vineyards. The medieval defensive structure is mostly intact — walls, keep, gatehouse — and the courtyard inside is now used as a summer open-air theatre, which is the main reason most visitors come up.

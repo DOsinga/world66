@@ -7,6 +7,7 @@ snippet: Modern museum telling the story of the Hanseatic League across northern
 tags:
 - things_to_do
 - museum
+score: 8.7
 ---
 
 Opened in 2015 next to the Burgkloster monastery at the northern tip of the Altstadt, the Europäisches Hansemuseum is a serious attempt to tell the story of the Hanseatic League — the medieval trading federation that linked Bruges, Bergen, Novgorod, Tallinn, and dozens of cities in between. Lübeck was the capital.

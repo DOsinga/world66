@@ -13,6 +13,7 @@ story: >
   The town's early prosperity came from its role as a market centre for
   the surrounding Scots-Irish farming communities who had settled New Castle
   County in the late 17th and early 18th centuries.
+score: 6.4
 ---
 
 The Middletown Historic District covers the original core of the town along Main Street and a few surrounding blocks, and was listed on the National Register of Historic Places in recognition of its surviving concentration of 19th-century commercial and residential architecture. The district includes Victorian-era storefronts, Federal-style houses, and a handful of earlier buildings that survived the rapid growth of the surrounding commuter suburbs.

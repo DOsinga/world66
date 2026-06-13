@@ -6,6 +6,7 @@ longitude: -65.2042
 tags:
   - eating_out
   - restaurant
+score: 6.1
 ---
 
 A reliable, slightly upscale parrilla and regional restaurant just off Plaza Independencia, El Portal serves the classics of northwestern cuisine — empanadas tucumanas, locro, humitas, and grilled meats — in a comfortable old townhouse with a leafy patio. The wine list draws heavily on nearby Cafayate and Mendoza, and the kitchen does the empanada-and-grill combination as well as anywhere in the centre.

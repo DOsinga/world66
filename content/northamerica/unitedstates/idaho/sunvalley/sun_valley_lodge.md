@@ -8,6 +8,7 @@ tags:
   - architecture
 story: >
   The Lodge's exterior walls are poured concrete that was stained with iron oxide while still wet to give the appearance of weathered wood — a trick the Union Pacific used because there was not time to mill enough real timber before the planned December 1936 opening.
+score: 8.7
 ---
 
 The Sun Valley Lodge is where the modern American ski resort was invented. Averell Harriman, chairman of Union Pacific Railroad, hired Austrian count Felix Schaffgotsch in 1935 to scout for a destination that could fill empty winter trains heading west. Schaffgotsch found his snow in the Wood River Valley and Harriman built a hotel here that opened to its first guests on 21 December 1936.

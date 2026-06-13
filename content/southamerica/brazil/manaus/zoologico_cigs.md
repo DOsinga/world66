@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: -3.0667
 longitude: -60.0444
+score: 6.7
 ---
 
 The Zoológico do CIGS is run by the Brazilian army's Jungle Warfare Training Centre (Centro de Instrução de Guerra na Selva), which uses the surrounding forest as its training ground. Most of its 300-odd animals — jaguars, ocelots, harpy eagles, anacondas, capybaras, sloths — were rescued from soldiers' encounters during jungle operations or confiscated from traffickers.

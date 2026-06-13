@@ -9,6 +9,7 @@ tags:
   - nevskiyprospekt
 latitude: 59.9388
 longitude: 30.3169
+score: 8.8
 ---
 
 The General Staff Building forms the long curving south side of Palace Square, opposite the Winter Palace, and is now the home of the Hermitage's collection of 19th- and 20th-century European art — including the museum's celebrated French Impressionist, Post-Impressionist and early modernist holdings. The interior has been comprehensively reworked over the past two decades into a sequence of bright, white-walled galleries that contrast sharply with the gilded splendour of the main Hermitage across the square.

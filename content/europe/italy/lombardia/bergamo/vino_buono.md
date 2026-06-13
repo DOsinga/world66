@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Vino Buono
 type: poi
+score: 4.7
 ---
 
 Comfortable atmosphere and a wide variety of wine to choose from. A place to go for a brief trip out of town away from the maddening crowd.

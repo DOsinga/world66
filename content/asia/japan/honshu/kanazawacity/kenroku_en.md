@@ -10,6 +10,7 @@ story: >
   The garden's name means "garden of six attributes" — the six qualities that a perfect landscape garden should have: spaciousness, seclusion, artifice, antiquity, water, and panorama. The six were believed impossible to achieve simultaneously; Kenroku-en is the attempt. The oldest stone lantern in Japan stands here, known as the kotoji toro — its two legs of unequal height were designed to stand in shallow water.
 sources:
   - https://en.wikipedia.org/wiki/Kenroku-en
+score: 9.3
 ---
 
 Kenroku-en is consistently ranked among Japan's three great landscape gardens, alongside Kairaku-en in Mito and Koraku-en in Okayama. The garden was built by the Maeda clan over two centuries, and the result is a remarkably varied landscape: ponds, streams, stone lanterns, cherry trees, and pine trees in every direction.

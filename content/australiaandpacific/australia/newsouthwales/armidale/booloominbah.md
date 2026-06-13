@@ -15,6 +15,7 @@ story: >
   it one of the few stately homes in Australia that functions as a working university building.
 sources:
   - https://en.wikipedia.org/wiki/Booloominbah
+score: 7.3
 ---
 
 Booloominbah is a magnificent late-Victorian mansion on the University of New England campus, about 5 km north of the city centre. The house was built in 1888 for a wealthy pastoralist family and is now heritage-listed, serving as the administrative heart of the university. The building is an exuberant exercise in late-Victorian sandstone architecture — turrets, verandas, intricate timber fretwork — set in grounds that include a formal garden and mature trees.

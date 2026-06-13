@@ -9,6 +9,7 @@ latitude: 24.854
 longitude: 79.921
 sources:
   - https://en.wikipedia.org/wiki/Khajuraho_Dance_Festival
+score: 8.2
 ---
 
 Every February or March, the Madhya Pradesh Kala Parishad stages a week-long classical dance festival on the floodlit lawns in front of the western temple group. Performances take place at night, with the temples lit against the dark sky behind the dancers — a genuinely spectacular backdrop for Bharatanatyam, Kathak, Odissi, Kuchipuri, Manipuri, and other classical Indian dance forms.

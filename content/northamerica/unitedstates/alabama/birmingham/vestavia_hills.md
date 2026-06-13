@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Temple of Sibyl, Vestavia Hills
 type: poi
+score: 6.0
 ---
 
 A circular replica of the Temple of Vesta in Rome, built in 1927 by Birmingham mayor George Ward on a hilltop in what is now the suburb of Vestavia Hills. Ward built his home on the ridge overlooking Birmingham, and the temple folly — complete with columns and the original statue of Sibyl — still stands in Temple Park. The surrounding gardens are maintained by the city.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Main mosque of a Muslim-majority city, with Friday prayers drawing much of the town
+score: 6.4
 ---
 
 Keren is predominantly Muslim, which gives it a different texture to the highland Eritrean cities further east, and the main mosque at the center of town reflects that character. Several mosques serve the city, but the main one is where the Friday prayers draw the largest gatherings — the surrounding streets fill up on Friday mornings in a way that makes the city's religious life hard to miss even if you're just passing through.

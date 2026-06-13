@@ -7,6 +7,7 @@ tags:
 - religion
 title: St Nicholas Cathedral
 type: poi
+score: 6.8
 ---
 
 The Cathedral of St Nicholas was finished in 1865, a typical late-19th-century Orthodox church with a cream facade, twin towers and a tall central dome. It sits a couple of blocks back from the Danube riverfront, on a small landscaped square in the older part of the city. Patron saint of sailors and travellers, Nicholas is the appropriate dedication for a Danube port town.

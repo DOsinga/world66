@@ -7,6 +7,7 @@ tags:
 latitude: 58.6033
 longitude: -4.7758
 snippet: Remote headland with puffin colonies and views to Cape Wrath
+score: 8.1
 ---
 
 Faraid Head is the sandy peninsula that closes off the north side of Balnakeil Bay. To reach it, walk north through the dunes from Balnakeil — the terrain is boggy in places and you will want boots. The headland is a military area with restricted access in parts, but the coastal path around the northern tip is generally accessible.

@@ -8,6 +8,7 @@ latitude: 33.5553
 longitude: 73.9161
 story: >
   The Poonch was declared a national park in 2010 specifically to protect the dwindling population of golden mahaseer, a large freshwater game fish historically prized by British colonial-era anglers as the "tiger of the rivers" — fish over 20 kg were once routine. Damming and overfishing have reduced the species across most of South Asia, and the Poonch corridor is now one of its few protected breeding grounds.
+score: 6.8
 ---
 
 The Poonch flows through a narrow valley below Tatta Pani, with steep green hills on both banks. The river and several of its tributaries are protected as the Poonch River Mahaseer National Park, gazetted in 2010 to conserve a globally threatened freshwater fish, the golden mahaseer.

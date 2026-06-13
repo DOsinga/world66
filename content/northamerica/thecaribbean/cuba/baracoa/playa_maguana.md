@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 7.4
 ---
 
 Playa Maguana, twenty kilometres north-west of Baracoa, is the best beach within easy reach of the town — a curving kilometre of soft white sand backed by coconut palms, with calm turquoise water protected by an offshore reef. It is essentially undeveloped: a single state-run hotel, a few thatched palapas selling fish and rice to day-trippers, and almost nothing else.

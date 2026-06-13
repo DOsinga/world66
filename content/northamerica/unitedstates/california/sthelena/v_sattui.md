@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - winery
+score: 7.8
 ---
 
 A large family-run winery three kilometres south of town with the most popular picnic operation in the valley. The estate consists of a 19th-century-style stone winery, an enormous Italian deli stocked with cured meats, cheeses, breads, and salads, and several acres of shaded lawns and oak trees with picnic tables. The deli food can be bought to eat on the grounds with a bottle from the tasting room — a simpler, livelier alternative to a restaurant lunch.

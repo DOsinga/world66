@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Beauty Crown Grand Theatre
 type: poi
+score: 5.7
 ---
 
 The Beauty Crown Grand Theatre is part of the seven-star Beauty Crown Hotel Complex in central Sanya — a 36-metre-high indoor arena seating around 5,000 people and covering 10,000 square metres. It opened in 2003 and quickly became one of China's better-known event venues, hosting the Miss World final in 2003, 2004, 2005, 2007, 2010, 2012, 2015, 2017 and 2018, more than any other building.

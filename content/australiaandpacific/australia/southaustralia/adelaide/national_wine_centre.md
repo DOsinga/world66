@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Interactive wine discovery centre at the edge of the Botanic Garden"
+score: 7.3
 ---
 
 The National Wine Centre sits at the corner of the Botanic Garden and offers a structured introduction to Australian wine — particularly useful if you're planning trips to the Barossa, McLaren Vale, or Clare Valley. The self-guided Winery Tour uses interactive displays to explain how wine is made; the attached cellar stocks wines from all of Australia's major regions.

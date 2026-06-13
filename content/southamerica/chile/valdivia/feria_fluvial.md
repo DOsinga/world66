@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -39.8145
 longitude: -73.2465
+score: 6.7
 ---
 
 German-Chilean kuchen — a range of open-faced fruit tarts, cream cakes, and streusel pastries — is one of the most distinctive culinary contributions of the German immigrant culture in southern Chile, and Valdivia is the best city in the country to eat it. Café Hausmann, one of the old-established German-style cafes in the city centre, is the most reliable place to try it alongside a proper coffee.

@@ -8,6 +8,7 @@ latitude: 37.5750
 longitude: -119.9490
 sources:
   - https://saltandwind.com/mariposa-california/
+score: 5.9
 ---
 
 The Stockton Creek Preserve is a 200-acre protected area on the outskirts of Mariposa, centred on a reservoir and the oak woodland and chaparral of the surrounding Sierra Nevada foothills. A network of trails runs through the preserve, ranging from short flat walks around the reservoir's edge to steeper routes through the woodland that give good views over the surrounding landscape.

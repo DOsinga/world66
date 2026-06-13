@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 2.6583
 longitude: 98.8417
+score: 7.3
 ---
 
 Tuk Tuk is a small peninsula on Samosir's eastern shore and the hub of traveller life on the island. The peninsula is ringed by guesthouses, restaurants, and small cafes, all oriented toward the lakeshore — the standard activity is swimming from the rocky or sandy edges of the lake, watching the late afternoon light change the colour of the water, and eating ikan mas (the local lake fish) for dinner.

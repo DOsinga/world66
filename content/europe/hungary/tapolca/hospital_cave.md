@@ -7,6 +7,7 @@ tags:
 snippet: "Second cave system used as a Cold War-era emergency hospital"
 latitude: 46.8830
 longitude: 17.4403
+score: 6.8
 ---
 
 A separate branch of the same karst system as the Lake Cave was equipped during the 1950s as an underground emergency hospital, with operating theatres, wards, and a generator room. It was decommissioned in the 1980s and reopened as a museum.

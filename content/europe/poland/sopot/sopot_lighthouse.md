@@ -10,6 +10,7 @@ story: >
   The Sopot Lighthouse was built in 1904 and has been in continuous operation since, guiding ships through the busy Gulf of Gdańsk. It survived both World Wars largely intact — a remarkable run for a small coastal tower in a region that saw intensive fighting on multiple occasions.
 sources:
   - https://en.wikipedia.org/wiki/Sopot_Lighthouse
+score: 5.4
 ---
 
 The Sopot Lighthouse stands near the entrance to the Molo, a 23-metre cast-iron tower built in 1904. It's operational and not generally open for climbing, but it makes a good orientation landmark and is worth a look at close range for the engineering of the thing — a Victorian-era structure still doing its job over a century later.

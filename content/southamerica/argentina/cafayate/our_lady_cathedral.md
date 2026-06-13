@@ -9,6 +9,7 @@ latitude: -26.0728
 longitude: -65.979
 story: >
   The Cathedral of Our Lady of the Rosary has dominated Cafayate's main plaza since its construction in the 19th century, but it took nearly a century to complete — the towers were not finished until well into the 20th century. The building is the seat of the Diocese of Cafayate, an unusual status for such a small town, which reflects Cafayate's historical importance as a regional centre in the Calchaquí Valley.
+score: 6.4
 ---
 
 The Cathedral of Our Lady of the Rosary (Catedral de Nuestra Señora del Rosario) stands on the main plaza of Cafayate, its terracotta-coloured baroque façade facing the shaded square. It is the most prominent building in town and a natural landmark for orientation. The interior is relatively simple — whitewashed walls, carved wooden altars, a few religious paintings — in the manner typical of Argentine provincial churches.

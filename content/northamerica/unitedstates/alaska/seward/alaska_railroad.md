@@ -11,6 +11,7 @@ story: >
   through permafrost, glacial moraine, and mountain passes that no road had yet crossed. President
   Warren Harding drove the final golden spike in Nenana in 1923, and died of a heart attack eight
   days later — making his Alaskan journey one of the more consequential presidential trips in history.
+score: 7.5
 ---
 
 The Alaska Railroad's Anchorage-to-Seward route is one of the great North American train journeys, winding through the Chugach Mountains for 4.5 hours with views of glaciers, rivers, and wildlife that no road in Alaska can match. The train passes through Turnagain Arm — where bore tides rush in at remarkable speed — and climbs into mountain terrain that is simply not accessible by car.

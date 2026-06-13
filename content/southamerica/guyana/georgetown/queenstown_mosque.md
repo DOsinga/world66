@@ -7,6 +7,7 @@ tags:
 latitude: 6.810111
 longitude: -58.151111
 snippet: "Striking green-and-white mosque in the Queenstown ward"
+score: 7.8
 ---
 
 The Queenstown Jama Masjid is the most distinctive of Georgetown's mosques, with green domes, white minarets, and an elaborate Mughal-inspired facade that stands out among the surrounding wooden colonial buildings. Built in the late nineteenth century and rebuilt several times since, it serves the city's substantial Indo-Guyanese Muslim community.

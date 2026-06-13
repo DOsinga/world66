@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: 49.8200
 longitude: 8.4500
+score: 7.2
 ---
 
 The EuroVelo 15 Rhine Cycle Route runs along the embankment between Erfelden and the Rhine, passing the western edge of the Kuhkopf-Knoblochsaue reserve. This stretch of the route is among the flattest and most peaceful in the entire 1,230-kilometre corridor from the Alps to the North Sea — the Hessian Ried is essentially table-flat, and the riverside path runs through open landscape with wide views east to the Odenwald hills and west across the river to Rheinhessen.

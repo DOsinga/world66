@@ -12,6 +12,7 @@ tags:
 - food
 title: Kansas City Barbecue
 type: poi
+score: 8.7
 ---
 
 Kansas City barbecue is a distinct style built on slow-smoked meats — beef brisket, pork ribs, burnt ends, pulled pork — with a thick, sweet tomato-and-molasses sauce. The city has over 100 barbecue restaurants, and the competition between them is genuine and serious. The burnt ends — caramelized chunks from the point of a brisket, double-smoked — are the most Kansas City specific item on any menu: you will not find them done as well anywhere else.

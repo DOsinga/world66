@@ -9,6 +9,7 @@ tags:
 - museum
 title: Atger Museum
 type: poi
+score: 7.5
 ---
 
 Tucked inside the Faculty of Medicine on rue de l'École de Médecine, the Musée Atger holds one of France's finest collections of drawings — Flemish, Italian, Dutch, German, and French schools spanning the Renaissance to the 19th century. Xavier Atger spent a lifetime assembling it before bequeathing the lot to the faculty. The setting is wonderfully incongruous: old masters on the walls of a working medical school.

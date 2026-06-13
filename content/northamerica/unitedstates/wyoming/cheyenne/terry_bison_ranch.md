@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.0303
 longitude: -104.8389
+score: 6.3
 ---
 
 A working 27,500-acre bison ranch straddling the Wyoming-Colorado line, 15 km south of Cheyenne on I-25. The Terry Ranch has been raising bison since the 1990s on what used to be a famous cattle outfit founded by Senator Francis E. Warren; today the herd is around 2,500 head, and tours run on a converted bus pulled by a small diesel tractor out into the pasture, where the bison come close enough to feed by hand.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Kelso_Bridge
 story: >
   John Rennie designed this bridge between 1800 and 1803 as his first major road bridge, and the experience clearly agreed with him. The five-arch elliptical design — with its Doric columns rising from the cutwaters — was the direct model he returned to when he won the commission for Waterloo Bridge in London, which opened in 1817. Kelso got there first.
+score: 6.4
 ---
 
 Kelso Bridge, built between 1800 and 1803, carries the A699 over the Tweed at the southern edge of town. It replaced an earlier bridge that collapsed in a storm in 1797, and the town got the better end of the deal. John Rennie the Elder designed it as five elegant elliptical arches in dressed stone, with Doric columns decorating the piers at water level — a bridge that is visibly trying to be beautiful as well as functional.

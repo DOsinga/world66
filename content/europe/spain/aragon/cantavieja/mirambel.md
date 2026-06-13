@@ -7,6 +7,7 @@ tags:
 - day_trip
 title: Mirambel
 type: poi
+score: 8.9
 ---
 
 **Mirambel** is the most complete medieval walled village in Aragón and one of the best-preserved in Spain, located about 10 kilometres north of Cantavieja on the GV-9006. It was awarded the European Prize for Heritage Conservation in 1980 and has been meticulously maintained since: the medieval walls, gates, and towers are almost entirely intact, and the stone streets within them have changed little in five centuries. The village has fewer than 150 inhabitants, which means the restoration has not been followed by commercialisation — there are no souvenir shops or tourist restaurants, just a very handsome and very quiet old place.

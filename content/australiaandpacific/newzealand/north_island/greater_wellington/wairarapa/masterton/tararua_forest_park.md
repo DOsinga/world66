@@ -9,6 +9,7 @@ tags:
 - hiking
 latitude: -40.85
 longitude: 175.45
+score: 7.8
 ---
 
 The Tararua Forest Park covers the long mountain range that separates the Wairarapa from the Kapiti Coast — 116,000 hectares of beech and podocarp forest, deep river valleys, and an exposed alpine tops zone above the bushline. It is one of the most accessible serious tramping areas in the country, with a dense network of huts and tracks.

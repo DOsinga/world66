@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.2070
 longitude: 128.5920
+score: 6.5
 ---
 
 Sokcho is the gateway city to Seoraksan — a small coastal city on the East Sea with a pleasant lagoon, seafood market, and a beach resort area. Most visitors to the park stay in Sokcho and take the local bus to the park entrance. The city itself is worth a half-day's exploration, particularly the old port area and the covered fish market where the morning's catch from the Sea of Japan is laid out.

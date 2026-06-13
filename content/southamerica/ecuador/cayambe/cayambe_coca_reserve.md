@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 0.0200
 longitude: -77.9300
+score: 8.1
 ---
 
 The Reserva Ecológica Cayambe-Coca is one of Ecuador's largest protected areas, covering more than 4,000 square kilometres and spanning an astonishing range of altitudes — from the glaciated summit of Volcán Cayambe at 5,790 metres down to Amazonian forest at around 600 metres. That vertical range encompasses ten distinct ecological zones, which is why biodiversity here is extraordinary: around 900 bird species have been recorded within the reserve, alongside mammals including spectacled bears, pumas, tapirs, and the tiny Andean dwarf deer.

@@ -6,6 +6,7 @@ longitude: 10.521667
 tags:
   - things_to_do
   - neighbourhood
+score: 7.9
 ---
 
 The **Altstadtmarkt** is the second great medieval square of Braunschweig, five minutes' walk west of Burgplatz, and in some ways more visually coherent — a wide rectangular space framed by the Gothic **Altstadtrathaus** (Old Town Hall) on one side and the 14th-century **Martinikirche** on the other.

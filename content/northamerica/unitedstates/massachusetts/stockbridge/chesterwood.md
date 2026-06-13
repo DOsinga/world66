@@ -8,6 +8,7 @@ tags:
 latitude: 42.28510
 longitude: -73.35230
 story: "Daniel Chester French's most famous work — the seated Lincoln in the Lincoln Memorial — was designed and refined at Chesterwood. French built a special railroad track in his studio so he could roll the model sculpture outside into natural light to check how it would look in the Memorial's specific lighting conditions. The original plaster model, at over 7 feet, still sits in the studio exactly where French left it."
+score: 8.2
 ---
 
 Chesterwood was the summer estate and working studio of Daniel Chester French, the sculptor best known for creating the Lincoln Memorial's seated Abraham Lincoln and the Minute Man statue in Concord. French spent 33 summers here from 1897 until his death in 1931, and the property is now managed by the National Trust for Historic Preservation.

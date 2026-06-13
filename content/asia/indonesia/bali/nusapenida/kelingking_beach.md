@@ -8,6 +8,7 @@ tags:
 latitude: -8.8316
 longitude: 115.4557
 story: "The T-rex rock formation at Kelingking was unknown outside Indonesia until 2017, when drone photography made the images go viral. Within two years, the beach had become one of the most tagged locations in Indonesia on social media. The beach itself at the bottom of the cliff is reached by a rope-assisted descent that takes 45 minutes down and over an hour back up — most visitors who try it turn around halfway."
+score: 8.8
 ---
 
 Kelingking Beach is the image that put Nusa Penida on the map: a limestone headland shaped like the head and forelimb of a theropod dinosaur, plunging 200 metres into turquoise water, with a crescent of white sand at its base visible only to those willing to climb down the cliff face.

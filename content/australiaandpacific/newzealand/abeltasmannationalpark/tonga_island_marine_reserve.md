@@ -12,6 +12,7 @@ story: >
   who killed thousands of animals for the European fur trade. The colony has
   recovered only since protection began in the 1980s; today around two hundred
   seals haul out on the rocks year-round.
+score: 8.5
 ---
 
 The Tonga Island Marine Reserve, established in 1993, protects a 1,800-hectare stretch of coast and seabed between Awaroa and Bark Bay. The headline draw is the New Zealand fur seal colony on Tonga Island itself — easily approached by kayak or guided boat, with pups (born November–January) playing in the shallows around the rocks for most of the summer.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.9900
 longitude: -88.0200
+score: 6.8
 ---
 
 Secret Beach is on the western (lagoon) side of the island, accessible by golf cart or water taxi from San Pedro — about 9km north. The water here is calm, shallow, and spectacularly turquoise, sheltered from the ocean swell by the island itself. It developed as a visitor destination in the 2010s when a few beach bars and restaurants were built along the shore, and word spread rapidly.

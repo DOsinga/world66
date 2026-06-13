@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.8833
 longitude: 122.2667
+score: 7.2
 ---
 
 Zhujiajian Island lies south of the main Zhoushan group, connected to Putuo Island by bridge, and has the best beaches in Zhejiang. The sea here faces south and east into the open East China Sea, and the sand is fine and pale by Chinese coastal standards. The main beach, at Dongsha, is a long arc of sand with clear water and a backdrop of low hills — nothing dramatic, but genuinely pleasant and less developed than comparable beaches further south in Fujian.

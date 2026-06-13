@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 23.9667
 longitude: 112.8833
+score: 6.7
 ---
 
 Huangtengxia, west of the city, is Qingyuan's second major gorge scenic area and slightly less developed than Gulongxia, making it a reasonable alternative for those who want more walking and less queueing. The gorge cuts through folded limestone, and the trails along the canyon walls give access to a series of pools and cascades that fill with kayakers and swimmers in summer.

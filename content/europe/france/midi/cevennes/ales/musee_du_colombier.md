@@ -8,6 +8,7 @@ tags:
   - art
 title: "Musee du Colombier"
 type: poi
+score: 5.9
 ---
 
 The Musee du Colombier is a small museum with archaeology and fine art collections in a historic house near the centre. It is not a blockbuster, but it gives Alès a little cultural depth beyond its mining story.

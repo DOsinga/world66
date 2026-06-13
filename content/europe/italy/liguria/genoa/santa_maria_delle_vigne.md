@@ -8,6 +8,7 @@ tags:
 - architecture
 type: poi
 snippet: Baroque church rising above the caruggi with a prominent campanile
+score: 7.2
 ---
 
 The bell tower of Santa Maria delle Vigne is one of the landmarks of the old city skyline, rising above the surrounding buildings in a neighbourhood of narrow lanes. The church occupies the site of an early Christian basilica and has been rebuilt several times; the current exterior dates largely from the 17th century, with a striped marble campanile from an earlier period.

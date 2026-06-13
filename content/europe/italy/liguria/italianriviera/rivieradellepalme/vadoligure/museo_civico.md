@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 44.2714
 longitude: 8.4382
+score: 6.7
 ---
 
 The Museo Civico in Vado Ligure holds the archaeological finds from the Roman settlement of Vada Sabatia, which stood here from the second century BC. The collection includes ceramics, coins, inscription fragments, and everyday objects from the Roman period — modest in scale but worthwhile for anyone interested in the Roman road network of the Italian northwest.

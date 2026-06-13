@@ -5,6 +5,7 @@ tags:
 - walk
 title: Old Town
 type: poi
+score: 8.3
 ---
 
 The medieval centre of Chartres sits on a plateau above the Eure, with the cathedral at its highest point and a network of lanes descending steeply to the river. The streets around the Place de la Poissonerie, the Rue des Écuyers, and the Rue de la Tannerie are lined with medieval half-timbered houses, Renaissance stone facades, and carved doorways. Several of the lanes retain traces of the trades that once occupied them — tanners, dyers, water-carriers — in their names and in the houses' relationship to the river below.

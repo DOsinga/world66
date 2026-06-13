@@ -8,6 +8,7 @@ tags:
 latitude: 45.9065
 longitude: 9.1585
 snippet: 1st-century Roman bath complex preserved beneath a downtown car park
+score: 6.5
 ---
 
 Como was founded as a Roman colony — Novum Comum — by Julius Caesar in 59 BCE, and the remains of the ancient city lie close to the surface throughout the old town. The most accessible of these is a set of 1st-century CE Roman baths discovered under what is now a car park on Via Vittorio Emanuele. The ruins are visible through a glass floor and underground access points and include sections of the original floor, heating channels, and the outlines of the bathing rooms.

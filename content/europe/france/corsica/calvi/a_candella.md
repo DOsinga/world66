@@ -6,6 +6,7 @@ longitude: 8.7608
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 A small Corsican restaurant set into the citadel walls, with a few terrace tables looking out to sea. The menu is short and local: sheep cheeses, wild boar terrine, cannelloni stuffed with brocciu, grilled fish.

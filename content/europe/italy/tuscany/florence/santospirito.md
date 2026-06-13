@@ -10,6 +10,7 @@ tags:
 title: Santo Spirito
 type: poi
 snippet: Brunelleschi's serene Renaissance church on a lively piazza
+score: 8.4
 ---
 
 Brunelleschi designed this church, begun in 1444, as one of the purest examples of Renaissance architecture. The interior, a Latin cross with three naves of grey stone columns, has a serene clarity. The sacristy was designed by Giuliano da Sangallo. The adjacent cenacle contains a fragment of Andrea Orcagna's Last Supper. The piazza outside is one of the Oltrarno's most pleasant gathering places.

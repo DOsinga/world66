@@ -9,6 +9,7 @@ latitude: 53.9940
 longitude: -1.5467
 sources:
   - https://en.wikipedia.org/wiki/Hales_Bar
+score: 6.9
 ---
 
 Hales Bar on Crescent Road is one of the oldest pubs in Harrogate and one of the best-preserved Victorian gin palaces in the north of England. The interior — etched glass, dark wood, ornate mirrors, old photographs of the town — dates from the 1880s and has changed little since. It was originally attached to a bottling company that supplied mineral water and ginger beer to the spa visitors.

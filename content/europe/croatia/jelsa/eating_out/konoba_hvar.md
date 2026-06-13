@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 43.1607
 longitude: 16.6929
+score: 6.8
 ---
 
 Jelsa's best eating happens in small family konobas tucked into the old town lanes behind the harbour. The menus are short and seasonal — whatever was caught or harvested that day — and that is exactly as it should be. Look for grilled whole fish (sea bream, sea bass, and dentex are common), black risotto made with squid ink, and lamb slow-roasted under the peka. Most konobas are open for lunch and dinner but close entirely from October to April.

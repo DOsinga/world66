@@ -7,6 +7,7 @@ tags:
 latitude: 34.0135
 longitude: -118.4912
 snippet: "Elevated doughnut shop on Colorado with a rotating menu of creative flavours and serious coffee"
+score: 7.0
 ---
 
 Sidecar Doughnuts on Colorado Avenue makes doughnuts that justify the frequent description "the best in LA" — brioche-based, made to order, with flavours that rotate daily. The standards include a browned butter and salt, a maple bacon bar, and seasonal flavours that change with what is available. The coffee is from a good roaster and the queue moves faster than it looks.

@@ -6,6 +6,7 @@ longitude: 23.13
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 The K.H. Renlund Museum is the main local history museum of Kokkola, covering the city's history from prehistoric times through its peak as a maritime trading port to the present. The museum takes its name from a wealthy 19th-century merchant who donated his collections to the city, and the core of the collection reflects the tastes and travels of a prosperous Nordic merchant family of that era.

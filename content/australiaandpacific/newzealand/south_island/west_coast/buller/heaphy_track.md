@@ -13,6 +13,7 @@ story: >
   precisely because of that ruggedness: it remains one of the most remote walks in New 
   Zealand, passing through landscapes that have changed very little since Heaphy first 
   walked them.
+score: 9.0
 ---
 
 The Heaphy Track, one of New Zealand's nine Great Walks, starts near Karamea at the northern end of the Buller region and crosses the Kahurangi National Park to Golden Bay. The full walk is 82 kilometres and takes four to six days, passing through mountain tussock country, nikau palm forests (the southernmost palm forests in the world), and remote stretches of West Coast beach that are accessible no other way.

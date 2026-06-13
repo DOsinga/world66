@@ -5,6 +5,7 @@ tags: [things_to_do, beaches, sight]
 snippet: "The main town beach, a 750-metre crescent in the heart of Sanxenxo"
 latitude: 42.4008
 longitude: -8.8125
+score: 6.3
 ---
 
 Praia de Silgar is the urban beach of Sanxenxo — a gently curving 750-metre strip of light sand fronting the town, with a promenade, a row of cafés and bars, and the marina at one end. It is sheltered from the Atlantic by the shape of the bay, so the water is calmer than the open-ocean beaches further west. In July and August it is densely packed; in June and September you can usually find a spot without much trouble.

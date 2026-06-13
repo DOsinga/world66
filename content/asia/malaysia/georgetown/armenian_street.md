@@ -9,6 +9,7 @@ tags:
 - sight
 - neighbourhood
 - street_art
+score: 8.7
 ---
 
 Armenian Street is the most visited street in central Georgetown, a single block of restored shophouses that has become the heart of the city's street art and café scene. The name commemorates the small Armenian merchant community that lived here in the 19th century — only a few of whose buildings now survive. The most famous resident of the street, in spirit at least, is Sun Yat-sen, whose Penang base for plotting the Chinese revolution sat just up the street and is now the Sun Yat-sen Museum.

@@ -5,6 +5,7 @@ tags:
   - bars_and_cafes
 latitude: -16.7032
 longitude: -49.2760
+score: 7.2
 ---
 
 Setor Marista is the neighbourhood that Goianienses point to when asked where to go out. A compact grid of streets south of Parque Vaca Brava, it contains the city's highest concentration of bars, restaurants, and live music venues, and on Friday and Saturday nights it operates at full throttle from early evening until the early hours.

@@ -1,6 +1,7 @@
 ---
 title: "Catch 31 Fish House & Bar"
 type: poi
+score: 6.4
 ---
 
 Catch 31 sits on the boardwalk at 31st Street, adjacent to the King Neptune statue and in the Hilton Virginia Beach Oceanfront hotel, which means it has one of the best views of any restaurant in the city — floor-to-ceiling windows facing the Atlantic, and a deck for outdoor dining when the weather cooperates. The setting could easily carry a mediocre kitchen, but the food holds up: the menu focuses on Chesapeake Bay seafood with some broader coastal American influences, and the preparation is generally clean and confident rather than fussy.

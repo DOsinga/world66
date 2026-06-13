@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - museum
+score: 7.8
 ---
 
 The Martenahuis is a late-medieval town palace in the centre of Franeker, built in the 1490s for the local Marten family — a small, brick-fronted complex with a stair tower, mullioned windows, and a small inner garden. From 1819 to 1843 it housed the so-called Athenaeum, the truncated successor to Franeker's university, after Napoleon abolished the original.

@@ -8,6 +8,7 @@ tags:
 latitude: 49.234722
 longitude: 28.469444
 story: The Vinnytsia water tower was built in 1912 and is a rare surviving example of functional industrial architecture from the pre-revolutionary Ukrainian city. The tower was equipped with large horizontal crossbars as part of its original structural design to dampen wind-induced oscillations — an engineering solution that gives it a distinctive appearance quite unlike ordinary water towers.
+score: 6.4
 ---
 
 The Vinnytsia Water Tower is a distinctive early 20th-century structure in the city centre, built in 1912 during the period when Vinnytsia was part of the Russian Empire. The tower's unusual appearance — tall masonry shaft with horizontal bracing elements — makes it one of the more photogenic industrial buildings in the city.

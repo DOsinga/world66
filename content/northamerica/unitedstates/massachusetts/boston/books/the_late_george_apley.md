@@ -6,6 +6,7 @@ tags:
 - books
 title: The Late George Apley
 type: poi
+score: 5.8
 ---
 
 Marquand's 1937 Pulitzer winner is the fictional posthumous biography of a Beacon Hill patriarch, told through letters, diary entries, and tactful editorial gloss. Apley is a Harvard man of solid Brahmin family who never quite breaks free of the conventions that surround him: the right club, the right wife, the right summer house, the right opinions. The satire is gentle and the affection is real — Marquand was himself the kind of mannered insider he was writing about.

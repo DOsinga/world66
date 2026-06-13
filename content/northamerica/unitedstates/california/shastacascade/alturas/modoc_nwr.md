@@ -10,6 +10,7 @@ latitude: 41.45683
 longitude: -120.51856
 story: >
   During the autumn migration, the Pit River marshes and the Modoc refuge are a staging area for the Pacific Flyway — one of four major migratory corridors in North America. Tens of thousands of waterfowl can concentrate here in October and November, including tundra swans, Canada geese, and numerous duck species. The refuge also supports one of the few populations of greater sandhill cranes in California.
+score: 8.0
 ---
 
 Two miles south of Alturas, the Modoc National Wildlife Refuge spreads across roughly 7,000 acres of seasonal wetlands, sagebrush uplands, and marsh along the Pit River. It is managed primarily for migratory birds and is one of the better wildlife-watching spots in the northeastern corner of California — a part of the state that most people never see.

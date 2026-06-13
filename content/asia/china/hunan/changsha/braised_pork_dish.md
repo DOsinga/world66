@@ -15,6 +15,7 @@ story: >
   the Chairman's preferred preparation. The dish is pork belly braised in
   soy, rice wine, brown sugar, and spice for several hours until the fat
   becomes translucent and the skin collapses into the broth.
+score: 7.3
 ---
 
 Red-braised pork (hongshao rou) is Changsha's most celebrated meat dish, associated in popular mythology with Mao Zedong's preference for the preparation. The Hunanese version differs from Shanghai-style red-braised pork in its use of dried chilli and a more assertive spice balance; the pork belly is braised in soy sauce, rice wine, brown sugar, and star anise until the fat layers become almost transparent and the sauce reduces to a glossy coat.

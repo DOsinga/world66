@@ -8,6 +8,7 @@ tags:
 - history
 title: Varagavank
 type: poi
+score: 7.2
 ---
 
 Varagavank, the "Monastery of Varag," sits 9 km southeast of the city on the lower slope of Mount Erek. Founded in the eighth century around what was said to be a fragment of the True Cross brought from Armenia, it grew into one of the most important religious centres for the Armenians of the Van region — a complex of seven linked churches that earned it the Turkish nickname Yedi Kilise.

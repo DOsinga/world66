@@ -8,6 +8,7 @@ tags:
 snippet: "Amherst's oldest surviving house, now home to the historical society"
 latitude: 42.3758
 longitude: -72.5219
+score: 6.4
 ---
 
 Built in 1744 for Nehemiah Strong, this is the oldest surviving house in Amherst — a sturdy two-storey clapboard saltbox with the small windows and low ceilings of its period. The house has been a museum since the 1930s and is run by the Amherst Historical Society.

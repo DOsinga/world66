@@ -8,6 +8,7 @@ latitude: 13.8142
 longitude: 100.0927
 story: >
   Songdhammakalyani Monastery was founded in 1957 by Voramai Kabilsingh, who became Thailand's first bhikkhuni (fully ordained Buddhist nun) after receiving ordination in Taiwan. For decades, the Thai Buddhist establishment did not formally recognise her ordination, and the monastery existed in a state of legal ambiguity. It remains one of the few places in Thailand where the full bhikkhuni ordination lineage is practised — a significant distinction in a country where women are generally permitted only the lesser order of mae chi.
+score: 7.5
 ---
 
 Songdhammakalyani Monastery is one of the most significant religious sites in Thailand for anyone interested in Buddhist women's practice. Founded by Venerable Voramai Kabilsingh in 1957, it was established specifically to support the ordination and training of bhikkhuni — fully ordained female monks — in the Theravada tradition. The monastery is about 3 kilometres east of the town centre in the Amphoe Mueang district.

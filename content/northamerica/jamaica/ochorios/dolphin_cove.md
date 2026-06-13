@@ -8,6 +8,7 @@ latitude: 18.4171
 longitude: -77.1304
 sources:
   - https://en.wikipedia.org/wiki/Dolphin_Cove_Jamaica
+score: 4.4
 ---
 
 Dolphin Cove is a marine attraction just west of Ocho Rios where visitors can swim with dolphins, interact with sharks and stingrays in shallow pools, and walk through a small jungle path with birds and other animals. It's a well-organised commercial operation, popular with families and cruise passengers.

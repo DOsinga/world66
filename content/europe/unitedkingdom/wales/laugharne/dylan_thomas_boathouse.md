@@ -14,6 +14,7 @@ story: >
   for New York in October 1953 for a reading tour, drank eighteen whiskies at the
   White Horse Tavern in Greenwich Village, fell into a coma, and died four days
   later. He was 39.
+score: 9.0
 ---
 
 The modest clifftop house where Dylan Thomas lived with his family from 1949 until his death in 1953. The interior has been preserved as a small museum, with period furnishings, manuscripts, and recordings of Thomas reading his own work. The recordings are important: Thomas's voice — rich, Welsh, remarkably deliberate — transforms even familiar poems into something new. His writing shed — a rickety wooden shack overlooking the estuary — stands nearby, exactly as he left it: papers, paint pots, photographs pinned to the wall.

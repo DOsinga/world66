@@ -12,6 +12,7 @@ story: >
   formal status it had never had before, and brought a small flood of cyclists
   and walkers who had previously overlooked it in favour of the larger
   Lac de Chaumeçon to the east.
+score: 7.1
 ---
 
 This quiet glacial lake sits about a kilometre south of Lormes, tucked into the trees at the bottom of the Narvau gorge. It was designated one of the seven major lakes of the Morvan Regional Natural Park in 2010, which brought it to wider attention without spoiling its calm.

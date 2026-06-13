@@ -8,6 +8,7 @@ tags:
   - sight
   - balboa_peninsula
 story: "The Wedge was created by accident. The 1936 extension of the West Jetty at the harbour entrance produced an unintended wave-mechanics effect: incoming south swells bounce off the granite blocks of the jetty and combine with the open-ocean wave, doubling or tripling the wave's height into a near-vertical wall that breaks directly on dry sand."
+score: 8.1
 ---
 
 The Wedge is a notorious bodysurfing and bodyboarding break at the southern tip of the Balboa Peninsula, where wave refraction off the jetty produces massive shore-break waves up to 30 feet on the right swell. Surfboards are banned here in summer hours; this is a body-only spot, and a dangerous one.

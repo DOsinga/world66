@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Brutalist municipal complex with a startling pair of bronze seahorses
+score: 7.9
 ---
 
 The 1968 Civic Centre is one of the most ambitious Brutalist municipal complexes in Britain — a 12-storey tower wrapped around a central courtyard, with cast bronze seahorses by John Robert Murray McCheyne projecting from the corners. The building was Grade II*-listed in 1995, partly to protect it from demolition demands.

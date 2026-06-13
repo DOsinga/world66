@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.8133
 longitude: -8.3953
+score: 6.4
 ---
 
 The Owenabue River flows through the centre of Carrigaline before meeting Cork Harbour at Crosshaven, and the riverside path is the town's best walking route. The walk along the east bank runs through a mix of mature trees and open stretches with views over the estuary, connecting the town centre to the southern edge of Carrigaline.

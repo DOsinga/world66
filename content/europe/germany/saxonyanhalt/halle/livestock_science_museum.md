@@ -7,6 +7,7 @@ tags:
 story: "Founded in 1863 by the zoologist Julius Kühn, the collection holds skeletons and preserved specimens of more than 16,000 domestic animals — chickens, pigs, cattle, dogs, ducks — assembled to study how breeds vary. It remains the largest such collection in Europe and is still used by researchers."
 latitude: 51.4945
 longitude: 11.9527
+score: 6.1
 ---
 
 A magnificently odd institution: a research collection of domesticated animals, housed in a former stable on the university's agricultural campus in the north of the city. Glass cases full of taxidermied poultry, pig skulls arranged by breed, and the skeletons of obscure cattle varieties.

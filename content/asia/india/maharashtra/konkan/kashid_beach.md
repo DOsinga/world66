@@ -7,6 +7,7 @@ tags:
 - beaches
 title: Kashid Beach
 type: poi
+score: 6.8
 ---
 
 A long, clean beach 135km from Mumbai on the North Konkan coast, set between rocky headlands. Considerably less developed than the beaches closer to Mumbai, and generally quiet on weekdays. A good alternative if you want a beach without the crowds of Alibag.

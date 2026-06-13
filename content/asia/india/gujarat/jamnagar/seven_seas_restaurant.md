@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Seven Seas Restaurant
 type: poi
+score: 3.8
 ---
 
 A 24-hour restaurant at the Hotel President, Seven Seas is the most reliable multi-cuisine option in central Jamnagar. The menu spans Indian (Punjabi and Gujarati both), Chinese, Continental, and a seafood section that takes advantage of the fresh fish from the Gulf coast.

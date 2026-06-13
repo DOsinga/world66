@@ -7,6 +7,7 @@ tags:
   - sight
 title: Shwe Pone Pwint Pagoda
 type: poi
+score: 6.8
 ---
 
 Taunggyi's most prominent religious site, the Shwe Pone Pwint Pagoda sits on the hillside above the town and can be seen from much of the surrounding plateau. The name means "golden flower" in Burmese, and the gilded stupa does catch the light dramatically at sunset. A flight of covered steps leads up from the main road.

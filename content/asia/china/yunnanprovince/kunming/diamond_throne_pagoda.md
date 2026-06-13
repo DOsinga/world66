@@ -9,6 +9,7 @@ tags:
   - architecture
   - pagoda
   - guandu
+score: 7.5
 ---
 
 In the centre of Guandu Ancient Town, the Diamond Throne Pagoda — Jingang Bao Zuo Ta — is a unique Ming-dynasty Indian-style stupa, the only example of its kind in southern China. The structure is a tall central pagoda flanked by four smaller ones on a single square platform, with a barrel-vaulted gateway cut through the middle of the base. It was built in 1457 by a Buddhist monk who had travelled to India.

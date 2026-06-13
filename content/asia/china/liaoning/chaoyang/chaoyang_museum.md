@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.5767
 longitude: 120.4526
+score: 6.9
 ---
 
 The Chaoyang Museum covers the city's long history from the Hongshan culture through the Liao Dynasty, complementing the more specialist Geopark museum with a broader historical context. Displays include Bronze Age artefacts from local digs, Northern Yan Dynasty bronzes, and Liao Dynasty ceramics and metalwork from the region's Buddhist complexes.

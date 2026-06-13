@@ -8,6 +8,7 @@ tags:
   - el_silencio
   - museum
 story: "Bolívar was baptised three days after his birth in this house on 24 July 1783. The font from his baptism, in nearby San Jacinto chapel, is one of the most sacred objects in Venezuelan civic religion — and after Bolívar's death in Colombia in 1830, a vial of water from that same font was sent to be poured over his coffin during the 1842 ceremony bringing his remains home to Caracas."
+score: 8.0
 ---
 
 A single-storey colonial house two blocks south of Plaza Bolívar, restored in the 1920s to the layout it would have had when Simón Bolívar was born here in 1783. The rooms open onto two interior patios — the standard plan of a wealthy mantuano family of the period — and contain period furniture, military uniforms, and family portraits. Frescoes by Tito Salas, painted in the 1920s, depict scenes from the wars of independence.

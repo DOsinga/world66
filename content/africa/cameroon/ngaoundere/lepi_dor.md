@@ -8,6 +8,7 @@ tags:
 - cafe
 title: L'Épi d'Or
 type: poi
+score: 4.6
 ---
 
 L'Épi d'Or sits on the main street between the Grand Mosque and the Cameroon Airlines office and has been feeding travellers and expat aid workers for decades. The bakery counter at the front turns out reliable French baguettes, pains au chocolat and small pastries; the cafe at the back serves omelettes, salads, steak-frites and a decent cup of coffee.

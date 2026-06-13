@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 46.4380
 longitude: 12.2090
+score: 7.8
 ---
 
 The Colonia Montana — a long curved building on the upper slopes of the Villaggio — was the children's colony, designed to host up to 600 children of ENI employees on summer holidays. The architecture is unmistakably 1950s European modernism: a sweeping reinforced-concrete frame, ribbon windows running its full length, terraced refectories opening to the mountain views.

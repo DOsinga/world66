@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.7700
 longitude: 104.5230
+score: 5.8
 ---
 
 Yongchang is the new county seat of Beichuan, built from scratch between 2008 and 2011 on flat ground about 20 km south of the destroyed Qushan Town. The relocation was one of the largest post-disaster rebuilding operations in Chinese history — an entire county administration transferred to a new city built specifically for it. Shandong Province was designated as Beichuan's rebuilding partner and funded most of the construction.

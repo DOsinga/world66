@@ -7,6 +7,7 @@ tags:
 snippet: "Modern football stadium built for Euro 2004"
 latitude: 39.748611
 longitude: -8.813056
+score: 4.8
 ---
 
 Leiria's football stadium was rebuilt for Euro 2004, when it hosted three group-stage matches. The architect Tomás Taveira gave it a striking yellow-and-blue stand structure that has become a minor landmark on the western edge of town.

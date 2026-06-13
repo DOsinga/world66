@@ -13,6 +13,7 @@ story: >
   from a campaign in Thessaly. The island became a place of Bulgarian royal prestige — until
   the Byzantine Emperor Basil II defeated Samuel in 1014 and the church fell into gradual
   ruin, leaving only the elegant stone arches that stand today.
+score: 8.2
 ---
 
 Agios Achillios is a small island in Mikri Prespa lake connected to the shore by a 650-metre floating wooden footbridge — one of the more unusual approaches to any historical site in Greece. The island has a permanent community of a few dozen residents, reed-fringed shores, and at its centre the substantial ruins of a 10th-century Byzantine basilica built by Tsar Samuel of Bulgaria to house the relics of Saint Achillios.

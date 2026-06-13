@@ -10,6 +10,7 @@ story: >
   Cocos Island is separated from the Guam mainland by a shallow lagoon, and for most of Guam's history this made it a useful place to isolate people. During the Spanish colonial period, lepers were exiled here. During the Japanese occupation in WWII, Filipino civilians were imprisoned on the island.
 sources:
   - https://en.wikipedia.org/wiki/Cocos_Lagoon
+score: 8.4
 ---
 
 Cocos Island sits just off the southern tip of Guam, visible from the Merizo waterfront and accessible by a short boat ride from the village pier. The island has a good sand beach facing the open Pacific and the reef surrounding the lagoon offers some of the best snorkelling in southern Guam — clear water, coral in reasonable condition, and a variety of reef fish.

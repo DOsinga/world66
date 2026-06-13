@@ -10,6 +10,7 @@ latitude: 42.3992
 longitude: 2.1521
 sources:
   - https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria
+score: 6.3
 ---
 
 The small lake in front of the sanctuary is the social centre of Núria in summer. Families spread out on the grass around its edges, children paddle in the shallows, and rowing boats can be hired for a gentle circuit — a notable contrast to the stark mountain scenery above. The water is cold even in August, fed by snowmelt from the surrounding peaks.

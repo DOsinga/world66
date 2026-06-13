@@ -11,6 +11,7 @@ tags:
 - sight
 - museum
 story: "Maximilian I, the last knight-emperor of the Holy Roman Empire, died here on 12 January 1519 after a long final illness — having travelled to Wels in the middle of winter because he wanted to keep moving. He had brought his own coffin with him on the journey."
+score: 7.6
 ---
 
 The Kaiserliche Burg, or Imperial Castle, occupies one corner of the old town just off the Stadtplatz. Its claim to fame is the death of Emperor Maximilian I within these walls in 1519, after a journey that turned out to be his last. The building has been remodelled many times — most of what you see now is 16th and 17th century work — but the great hall still has the atmosphere of an imperial residence.

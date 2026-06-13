@@ -15,6 +15,7 @@ story: >
   Morocco took control of the region in 1976 and still serves the small Catholic community 
   in the city. Seeing a Spanish-era colonial church in a Moroccan-controlled Saharan city 
   is a reminder of how many layers of history this contested territory carries.
+score: 6.1
 ---
 
 The Church of Our Lady of Mount Carmel is a Spanish colonial-era Catholic church near the centre of Dakhla, one of the few remaining visible signs of the city's origins as Villa Cisneros. Built in 1941, it is a simple whitewashed building with a modest bell tower, sitting incongruously among the bazaars and government buildings of a predominantly Muslim city.

@@ -8,6 +8,7 @@ latitude: 54.150277
 longitude: -4.477083
 sources:
   - https://en.wikipedia.org/wiki/Statue_of_Bee_Gees_(Douglas,_Isle_of_Man)
+score: 5.3
 ---
 
 The Bee Gees — Barry, Robin, and Maurice Gibb — were born on the Isle of Man, and a bronze statue on the Douglas promenade commemorates the brothers who went on to become one of the best-selling music acts in history. The statue shows three figures in 1970s poses and has become a popular stop for fans making a pilgrimage to the island.

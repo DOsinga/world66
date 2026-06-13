@@ -12,6 +12,7 @@ story: >
   bombing of 1940 (the boats were in use evacuating civilians when the German 
   planes arrived) and kept running through the reconstruction years. Today's 
   vessels are modern, but the route is unchanged.
+score: 8.4
 ---
 
 The sundbåt is Kristiansund's small harbour ferry, connecting the islands of the town centre across the inner waterway. It has been running since 1876 and remains a working mode of transport for locals, not a tourist attraction — which makes it more interesting. The crossing takes only a few minutes but gives a different perspective on the town's island geography, with the functionalist church, the old Innlandet warehouses, and the modern harbour all visible at once from the water.

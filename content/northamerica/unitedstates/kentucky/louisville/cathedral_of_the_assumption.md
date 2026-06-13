@@ -9,6 +9,7 @@ latitude: 38.2518
 longitude: -85.7585
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_of_the_Assumption_(Louisville,_Kentucky)
+score: 7.8
 ---
 
 The Cathedral of the Assumption, completed in 1852, is the mother church of the Roman Catholic Archdiocese of Louisville and one of the finest Gothic Revival churches in the American Midwest. The building was designed by William Keely, who also designed St. Patrick's Cathedral in New York, and the exterior stonework — particularly the tall spire and the carved limestone portal — is genuinely impressive by any standard.

@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Vulcan Park and Museum
 type: poi
+score: 8.6
 ---
 
 Sitting atop Red Mountain, the park features the world's largest cast-iron statue -- a 56-foot figure of Vulcan, the Roman god of the forge, a fitting tribute to Birmingham's steel heritage. The observation deck offers panoramic views of the city and the surrounding valleys. The museum below tells the story of Birmingham's industrial rise and the iron and steel industry that built it.

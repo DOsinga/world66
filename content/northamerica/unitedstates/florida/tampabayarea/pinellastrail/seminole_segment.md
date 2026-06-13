@@ -6,6 +6,7 @@ longitude: -82.7920
 tags:
   - things_to_do
   - sight
+score: 5.2
 ---
 
 The trail crosses Seminole and Largo through a stretch that is more suburban and less scenic than the northern section, but the wide path remains well-shaded in places and includes one of the trail's signature overpasses crossing US-19. Several local bike shops and chain restaurants sit within a block of the path.

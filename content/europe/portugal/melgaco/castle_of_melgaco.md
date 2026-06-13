@@ -12,6 +12,7 @@ story: >
   of Portugal granted Melgaço its first foral (town charter) — one of the
   earliest in the Minho — specifically to secure the loyalty of the border
   settlement against Leonese incursions.
+score: 8.1
 ---
 
 The Castle of Melgaço is a well-preserved medieval fortification at the heart of the town, its keep and curtain walls dating from the 12th and 13th centuries. The castle occupies the high ground of the old town, and from the ramparts you can see north into Galicia and south towards the mountains of Peneda-Gerês.

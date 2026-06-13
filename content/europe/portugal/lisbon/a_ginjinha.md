@@ -14,6 +14,7 @@ story: >
   opened in 1840, claims to be the original. For 185 years, the formula has not
   changed: you order at the door, pay a euro or two, and receive a small glass
   with or without the berries ("com elas" or "sem elas").
+score: 7.7
 ---
 
 A tiny bar near Rossio that has been serving its singular product — ginjinha, the cherry brandy liqueur — since 1840. The entire operation consists of a doorway, a counter, two barrels, and a queue. There is no place to sit; you stand on the pavement with your small glass and drink it before the next person needs the space.

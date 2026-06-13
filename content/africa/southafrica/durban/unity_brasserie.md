@@ -10,6 +10,7 @@ neighbourhood: Morningside
 latitude: -29.8245
 longitude: 31.0123
 address: "117 Florida Road, Morningside"
+score: 5.8
 ---
 
 Unity is a casual all-day brasserie and bar at the southern end of Florida Road — a long terrace facing the street, big windows behind, a menu of burgers, pizzas and salads, and a long cocktail list. The sundowner trade is heavy.

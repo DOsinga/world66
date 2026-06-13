@@ -8,6 +8,7 @@ tags:
 - nature
 title: Jinmu Cape
 type: poi
+score: 6.2
 ---
 
 Jinmu Cape juts out into the South China Sea south of central Sanya, and is the southernmost point of the Chinese mainland — Hainan Island included. The cape is a low, scrub-covered headland with red-and-white striped Jinmu Cape Lighthouse at the tip and the South China Sea opening out from the cliffs below.

@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 24.3401
 longitude: 124.1562
+score: 6.8
 ---
 
 Yaeyama soba is the local version of Okinawan noodle soup — round wheat noodles (not buckwheat, despite the name) in a clear pork and bonito broth, topped with slow-braised pork belly, a slice of fishcake, and green onion. It's simpler and lighter than ramen, deeply savoury, and costs around 700–900 yen for a full bowl. Almost every town on the island has a soba shop, and quality is consistently high.

@@ -8,6 +8,7 @@ tags:
   - sight
   - square
 snippet: The handsome central square at the heart of Sucre's white city
+score: 8.8
 ---
 
 Plaza 25 de Mayo is the social and physical heart of Sucre. A broad, leafy square shaded by tall palms and Washingtonia, its perimeter is lined with the city's most important buildings — the Cathedral, the Casa de la Libertad, the Government Palace, and a string of arcaded colonial mansions now occupied by banks and cafes. The square is named for 25 May 1809, the date of an early uprising in La Plata that historians consider the first cry of South American independence from Spain.

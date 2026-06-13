@@ -9,6 +9,7 @@ latitude: -22.9447
 longitude: -43.1905
 sources:
   - https://en.wikipedia.org/wiki/S%C3%A3o_Jo%C3%A3o_Batista_Cemetery
+score: 8.1
 ---
 
 The Cemitério São João Batista in Botafogo is Rio's oldest and most distinguished cemetery — a vast walled city of elaborate mausoleums, obelisks, and tomb sculptures dating from the 1850s. It serves as the last resting place for much of Rio's historical establishment: presidents, marshals, poets, artists, and industrialists. Carmen Miranda is buried here, in a pink marble tomb that draws a steady stream of admirers.

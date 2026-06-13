@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.4617
 longitude: -75.6444
+score: 8.1
 ---
 
 The Canada Aviation and Space Museum, east of the city near the Rockcliffe Airfield, has one of the finest collections of historic aircraft in North America — over 130 aircraft, many of them one-of-a-kind survivors. The hangar is vast and the aircraft range from a Sopwith Camel from the First World War to a prototype Avro CF-105 Arrow (the famously cancelled Canadian supersonic interceptor), from de Havilland bush planes to a Concorde.

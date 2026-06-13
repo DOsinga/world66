@@ -14,6 +14,7 @@ story: >
   the city for 105 days. The garrison fired a cannonball containing the terms
   of surrender into the city; the defenders fired it back. The walls held, and
   the city's nickname — the Maiden City — has stuck ever since.
+score: 9.4
 ---
 
 The seventeenth-century walls of Derry are the finest example of a completely intact walled city in Ireland, and arguably in the British Isles. The circuit is 1.5 kilometres around, standing six metres high with a walkable parapet along almost the entire length. You can walk the full loop in about 30 minutes, looking down into the old city on one side and out over the Bogside on the other.

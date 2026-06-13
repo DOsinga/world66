@@ -15,6 +15,7 @@ tags:
 - waterfront
 title: Two Oceans Aquarium
 type: poi
+score: 7.8
 ---
 
 The Two Oceans Aquarium sits at the V&A Waterfront and is one of the best-presented aquariums in the southern hemisphere, with its exhibits organised around the two oceans whose currents meet at the Cape of Good Hope. There are kelp forests, an open-ocean tank with rays and sharks, a tide pool, and an Indian Ocean tropical gallery.

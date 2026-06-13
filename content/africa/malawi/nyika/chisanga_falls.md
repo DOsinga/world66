@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -10.6450
 longitude: 33.7383
+score: 8.2
 ---
 
 Chisanga Falls drop dramatically over the western escarpment of the Nyika plateau, a single thread of water plunging into the forested valley far below. The falls are at the head of a long descending path from the grassland into evergreen montane forest — a different world from the open plateau above, dense, mossy, and full of birdsong.

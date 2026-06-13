@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The interior was painted in the 1980s by the Saint Lucian artist Dunstan St. Omer, who depicted the apostles and biblical scenes with Black African features — a deliberate decolonial gesture and one of the most striking pieces of religious art in the Caribbean. St. Omer also designed the Saint Lucian flag."
+score: 8.1
 ---
 
 The largest Catholic church in the eastern Caribbean, the Cathedral Basilica was built in 1897 on the south side of Derek Walcott Square. The exterior is a pleasant if not extraordinary brick and timber confection, but the moment you step inside you understand why this is one of the most striking buildings in the country.

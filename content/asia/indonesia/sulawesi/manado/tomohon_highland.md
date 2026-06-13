@@ -14,6 +14,7 @@ story: >
   are genuinely everyday foods in Minahasa culture, particularly for celebrations
   and family meals, with roots going back long before Christian missionaries
   arrived in the nineteenth century.
+score: 8.3
 ---
 
 Tomohon is a highland town about 25 kilometres south of Manado, sitting between the active volcanoes of Lokon and Mahawu at around 800 metres elevation. The climate is noticeably cooler than the coast, and the views across the Minahasa highlands and down to Manado Bay are excellent.

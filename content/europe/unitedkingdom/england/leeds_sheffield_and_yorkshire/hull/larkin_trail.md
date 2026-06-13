@@ -15,6 +15,7 @@ story: >
   streets, parks, and railway journeys. The Whitsun Weddings was drafted on a
   train out of Paragon Station; Mr Bleaney pictures a Hull bedsit; Here begins
   on the Holderness road heading east.
+score: 6.6
 ---
 
 The Larkin Trail is a self-guided walking and driving route around the Hull places that shaped Larkin's poetry. It takes in his flat overlooking Pearson Park, the Brynmor Jones Library at the University (where he was librarian), Paragon Station (where The Whitsun Weddings begins), and several pubs and corners that appear in his work. A free leaflet from the Tourist Information point at the Maritime Museum lays out the route in detail.

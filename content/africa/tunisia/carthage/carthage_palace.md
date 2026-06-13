@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Carthage Palace
 type: poi
+score: 2.3
 ---
 
 The Carthage Palace is the official residence of the President of Tunisia, occupying a substantial seafront site between the Antonine Baths and the cluster of foreign embassies on the Avenue Habib Bourguiba. It dates from the 1950s in its current form, on the site of an older Beylical palace, and has been the headquarters of every Tunisian president since independence.

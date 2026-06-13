@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum's permanent collection includes the personal household objects of the late Sufi musician Pathanay Khan, donated by his family, and a full reconstructed Kalash bridal chamber from the Hindu Kush — both arranged so a visitor can step inside and touch."
+score: 8.7
 ---
 
 The Lok Virsa, or National Institute of Folk and Traditional Heritage, is Pakistan's ethnographic museum. The galleries trace the country's many cultures — Punjabi, Sindhi, Baloch, Pashtun, Kashmiri, Kalash, Hunza — through clothes, jewellery, household objects, musical instruments, mock-ups of village interiors and life-size dioramas.

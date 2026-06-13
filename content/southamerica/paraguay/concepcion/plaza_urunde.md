@@ -6,6 +6,7 @@ longitude: -57.1682
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 The centre of Concepción has the quiet, slightly dilapidated grace characteristic of Paraguayan inland towns. The main plaza, shaded by large trees, is flanked by the cathedral and a few surviving colonial-era buildings. Life here moves at the pace of the river — unhurried, with the town's main business happening in the early morning at the market and in the afternoon under the shade of the plaza's trees.

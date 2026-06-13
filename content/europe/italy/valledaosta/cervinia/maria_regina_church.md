@@ -7,6 +7,7 @@ tags:
 - church
 latitude: 45.9347
 longitude: 7.6312
+score: 5.2
 ---
 
 The parish church of Cervinia, Maria Regina Vallis Augustanae, is a striking piece of mid-20th-century alpine architecture — a steep-roofed building of stone and wood that picks up the lines of the surrounding peaks. It was built in the 1950s, when Cervinia was being expanded as a ski resort, and dedicated to the Virgin Mary as patron of the Aosta Valley.

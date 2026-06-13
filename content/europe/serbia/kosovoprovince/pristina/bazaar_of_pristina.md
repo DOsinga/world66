@@ -14,6 +14,7 @@ story: >
   between Constantinople and the Adriatic. At its peak it had over 3,000 shops. Much was demolished during
   the Yugoslav period, but the surviving lanes — stone-paved and lined with craftsmen's workshops — give
   a genuine sense of what the Ottoman city looked and sounded like.
+score: 7.7
 ---
 
 The old bazaar of Pristina is the most atmospheric corner of the city — a compact network of cobblestoned lanes lined with small workshops, coffee shops, and traditional craftsmen's stalls. It dates to the 15th century when Pristina was an important trading post on the Ottoman road network. Much of it was demolished during the Yugoslav era, but the surviving portion near the Jashar Pasha Mosque retains genuine character.

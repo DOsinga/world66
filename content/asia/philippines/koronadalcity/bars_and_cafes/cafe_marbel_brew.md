@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - cafe
+score: 5.6
 ---
 
 One of the city's more serious coffee stops, Cafe Marbel Brew sources its beans from Mindanao growers and serves both espresso-based drinks and the brewed drip that showcases the regional robusta well. The interior is cool and air-conditioned — a relief after walking around in the midday heat — and the staff are young and attentive.

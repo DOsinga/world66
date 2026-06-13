@@ -11,6 +11,7 @@ story: >
   with a dinner plate instead of a knife. If the pig is properly cooked, the
   plate cuts through it cleanly. If it doesn't cut clean, the meal is free.
   It always cuts clean.
+score: 6.4
 ---
 
 Mesón de Cándido is the most famous restaurant in Segovia and has been feeding visitors its cochinillo asado since 1931. It sits directly beneath the Roman aqueduct at the Plaza del Azoguejo, in a building that has served as an inn since the 15th century. The setting is theatrical and the cochinillo is legitimately excellent — crispy-skinned and fall-apart tender, served with nothing but a wedge of lemon and some bread. It is a tourist institution, but an honest one.

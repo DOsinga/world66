@@ -9,6 +9,7 @@ tags:
   - lakeside
 neighbourhood: Lakeside
 snippet: Pokhara branch of the famous Kathmandu steak house — buffalo, yak and beef in 30 sauces
+score: 5.6
 ---
 
 A Pokhara outpost of the famous Kathmandu Everest Steak House. The format is the same: a long list of steak cuts (buffalo, yak and imported beef) crossed with about thirty sauces — black pepper, blue cheese, mushroom, chimichurri, you name it — and served with chips and a glass of decent wine.

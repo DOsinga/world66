@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Marché du Niger
 type: poi
+score: 7.8
 ---
 
 Marché du Niger, in the heart of old Conakry near Avenue de la République, is the city's central market and the easier counterpart to the vast and overwhelming Madina market further north. It sprawls across several blocks of stalls and shops, selling fabric, food, household goods, traditional medicine, and a steady current of mobile phone accessories.

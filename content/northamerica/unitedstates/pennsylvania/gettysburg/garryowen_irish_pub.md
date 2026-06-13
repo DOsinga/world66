@@ -7,6 +7,7 @@ tags:
   - eating_out
   - bars_and_cafes
   - bar
+score: 5.2
 ---
 
 An Irish pub in the centre of town named for the song long associated with Irish-American regiments, including the famous Irish Brigade that fought at Gettysburg. The food runs to corned beef, shepherd's pie, and the burger menu; the beer list is good; the live music several nights a week is the main reason locals come.

@@ -9,6 +9,7 @@ title: Medina of Sousse
 type: poi
 story: >
   The Medina's 9th-century walls are among the best-preserved in North Africa, but they were built not just for defence — their height and completeness reflect the Aghlabid dynasty's deliberate effort to present Sousse as the model Islamic city on a recently Christianised coast. UNESCO listed the Medina as a World Heritage Site in 1988, citing the exceptional integrity of its urban fabric.
+score: 9.3
 ---
 
 The Medina of Sousse is a UNESCO World Heritage Site — one of the best-preserved medieval Islamic city centres in North Africa. Its walls, built in the 9th century by the Aghlabid dynasty, run almost complete around the old town, and within them the street pattern, the building scale, and the urban organisation of the early Islamic period have survived largely intact.

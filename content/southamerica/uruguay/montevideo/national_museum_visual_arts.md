@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -34.9139
 longitude: -56.1647
+score: 7.6
 ---
 
 Uruguay's main art museum holds the national collection of Uruguayan art from the 19th century to the present, housed in a neoclassical building in the Parque Rodó area. The collection includes works by Juan Manuel Blanes, the country's most revered 19th-century painter, and traces the development of Uruguayan visual arts through several generations.

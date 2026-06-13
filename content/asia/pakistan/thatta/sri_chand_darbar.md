@@ -8,6 +8,7 @@ tags:
 latitude: 24.7483
 longitude: 67.9638
 snippet: "A 500-year-old Sikh shrine in a predominantly Muslim town."
+score: 6.4
 ---
 
 The Sri Chand Darbar is a Sikh shrine in Thatta dedicated to Sri Chand, the son of Guru Nanak and founder of the Udasi sect of Sikhism. The shrine has been in existence for around 500 years, testifying to the deep presence of Sikh and Hindu communities in Sindh before the Partition of 1947, when most moved to India.

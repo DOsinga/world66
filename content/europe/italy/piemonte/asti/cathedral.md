@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   Asti's cathedral is one of the largest Gothic churches in Piedmont, but it grew from a much older sacred site. The reddish brick exterior feels stern until you step inside and find frescoes, side chapels, and a scale that hints at the city's medieval wealth.
+score: 8.1
 ---
 
 The Cathedral of Santa Maria Assunta stands on the western side of Asti’s historic centre, a large brick Gothic church that looks almost fortress-like from some angles. Its campanile and patterned brickwork are among the strongest visual anchors in the city.

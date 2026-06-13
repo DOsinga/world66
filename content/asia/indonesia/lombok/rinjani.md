@@ -9,6 +9,7 @@ title: Mount Rinjani
 type: poi
 story: >
   The 1257 eruption of Samalas — the volcano that formed the Rinjani caldera — was one of the largest volcanic events in human history, injecting so much ash and sulfur dioxide into the atmosphere that it caused a global temperature drop and crop failures across Asia and Europe. The "mystery eruption" of 1257 was debated by climate scientists for decades; it was only identified as Samalas in 2013. The caldera Samalas left behind is what you walk into when you descend to Segara Anak lake.
+score: 9.3
 ---
 
 Mount Rinjani is the second-highest volcano in Indonesia and the defining presence of Lombok. The classic two- to four-day trek climbs through forest and open savanna to the crater rim at around 2,600 metres, then descends 700 vertical metres to Segara Anak — a turquoise crater lake 6 km across, with a small active cone (Barujari) erupting from the lake's surface. Hot springs on the far side of the lake are accessible and can be reached as part of an extended circuit.

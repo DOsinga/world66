@@ -12,6 +12,7 @@ story: >
   restaurant became a Los Angeles institution through word of mouth alone —
   no advertising, just an extraordinary product. The garlic sauce (toum) is
   made from a recipe so guarded that only family members know it.
+score: 7.4
 ---
 
 Zankou Chicken in the Glendale–Burbank area is a local institution and one of the best fast-casual meals in the region. The rotisserie chicken is cooked until the skin crisps and the meat falls off the bone, and the white garlic sauce — an Armenian toum made with an intensity that few can match — is what people drive across the city for. Order the whole chicken combo with hummus, pita, and pickled turnips.

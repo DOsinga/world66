@@ -10,6 +10,7 @@ latitude: 61.5266
 longitude: -6.8771
 story: >
   The flag — Merkið, the white cross with red and blue borders that is now flown across the Faroes — was designed in 1919 by Jens Olivur Lisberg, a student from Fámjin studying veterinary medicine in Copenhagen, together with two friends. The British raised it as the official Faroese flag during World War II when the islands were occupied to keep them out of German hands; Denmark only recognised it after the war. The original cloth, faded and patched, hangs framed behind glass in the church where Lisberg is buried.
+score: 8.2
 ---
 
 The small wooden church above Fámjin holds the original Faroese flag, sewn in Copenhagen in 1919 and displayed here ever since. The building itself is unremarkable — a typical Faroese village church, tarred timber outside, painted white inside — but the flag and the small graveyard where its designer rests make it one of the islands' more meaningful sites.

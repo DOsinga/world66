@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.7583
 longitude: 44.8183
+score: 7.3
 ---
 
 Jukhtak Vank is a small medieval monastery set in forest about 2 kilometres from Dilijan, reached by a trail that climbs gently through mixed woodland. The monastery dates from the 13th century and consists of a single church and a gavit (portico) in varying states of preservation. What makes the visit worthwhile is not the architecture — modest by Armenian standards — but the setting: the forest is dense and quiet, the trail is well-maintained, and the approach gives a better sense of the forested landscape that surrounds Dilijan than any of the easier roadside viewpoints.

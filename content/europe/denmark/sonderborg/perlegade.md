@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 5.3
 ---
 
 Perlegade is Sønderborg's pedestrianised main shopping street, running from the King Christian X Bridge into the centre of town. It is short — perhaps 400 metres — but lined with the usual mix of Danish chains, independent shops, and pavement cafes that fill in summer.

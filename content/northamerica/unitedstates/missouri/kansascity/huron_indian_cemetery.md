@@ -13,6 +13,7 @@ tags:
 - sight
 title: Huron Indian Cemetery
 type: poi
+score: 7.4
 ---
 
 The Huron Indian Cemetery is a small but historically significant burial ground in downtown Kansas City, Kansas, surrounded entirely by the urban fabric of the city. The Wyandot Nation (then known as the Wyandotte) were relocated here from Ohio in the 1840s and established this cemetery for their community. When pressure mounted in the early 20th century to convert the land to a public park, the tribe sued the federal government and won a Supreme Court case that secured their title in 1906.

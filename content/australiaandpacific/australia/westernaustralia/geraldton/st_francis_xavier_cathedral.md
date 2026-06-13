@@ -8,6 +8,7 @@ tags:
 latitude: -28.7773
 longitude: 114.6118
 story: "Monsignor John Hawes, who designed the cathedral, was an English architect who converted to Catholicism in 1911 and was ordained as a priest in 1914. He spent twenty years in the Geraldton diocese designing churches across the Mid West, then retired in 1939 to become a hermit on a small island in the Bahamas, where he lived until his death in 1956."
+score: 8.1
 ---
 
 St Francis Xavier Cathedral is the most striking building in Geraldton and one of the most remarkable pieces of ecclesiastical architecture in regional Australia. It was designed by Monsignor John Hawes, an English architect-priest whose idiosyncratic style blended Romanesque, Byzantine, and Italian vernacular influences in ways that should not work but emphatically do. Construction began in 1916 and continued intermittently until 1938.

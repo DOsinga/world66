@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - shopping
 - sight
+score: 6.5
 ---
 
 A rambling antique shop in the village whose owner has spent decades accumulating an extraordinary range of South African and European bric-a-brac. The name means "smuggler's house" in Afrikaans, and the place lives up to it: the rooms are stacked floor to ceiling with vintage signs, ceramics, military badges, old farm tools, taxidermy, and the kind of objects that fall somewhere between collector's item and oddity.

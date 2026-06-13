@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 6.8150
 longitude: -5.2780
+score: 7.6
 ---
 
 Built in the 1970s as part of Houphouët-Boigny's transformation of his hometown, the Hôtel Président is a monument to mid-century African modernism — a sweeping curved tower that would not look out of place in a major capital city, dropped instead into a small inland town with almost no tourists. The hotel has a swimming pool, tennis courts, and a casino.

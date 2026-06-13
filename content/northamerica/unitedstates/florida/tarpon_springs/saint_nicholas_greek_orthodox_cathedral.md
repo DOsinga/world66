@@ -14,6 +14,7 @@ story: >
   Spring Bayou to retrieve a gold cross thrown by the bishop, and whoever
   retrieves it is said to receive good luck for the entire year. Thousands of
   spectators line the banks — it has been held without interruption since 1903.
+score: 8.2
 ---
 
 Saint Nicholas Greek Orthodox Cathedral is the spiritual centre of Tarpon Springs' Greek community, a Byzantine Revival church built in 1943 with stained glass windows modelled on the Hagia Sofia. The interior is lavishly decorated with gold mosaics, elaborate iconostasis, and hanging censers — an unexpected and genuine piece of the Eastern Mediterranean transplanted to a Florida waterfront town.

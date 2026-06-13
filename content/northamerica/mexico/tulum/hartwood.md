@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - zona_hotelera
+score: 7.6
 ---
 
 Hartwood opened in 2010 in a clearing off the beach road and arguably did more than anything else to put Tulum on the international food map. The kitchen runs entirely off a wood-fired oven and grill — no electricity, no gas — and the menu changes daily according to what the local fishermen, farmers, and foragers bring in that morning. The pork ribs and the whole grilled fish have been on it more or less constantly for a decade.

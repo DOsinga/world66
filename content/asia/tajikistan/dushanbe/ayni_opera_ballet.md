@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.5686
 longitude: 68.7947
+score: 7.3
 ---
 
 The Sadriddin Ayni Opera and Ballet Theatre is the main performing arts venue in Dushanbe, a Soviet-era building that has hosted productions since the 1940s. The company performs a mixed repertoire of European opera and ballet alongside Tajik classical works. Performance standards are not at Western European levels, but the experience is rewarding for the setting and the cultural immersion.

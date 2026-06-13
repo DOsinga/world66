@@ -9,6 +9,7 @@ tags:
   - wildlife
 story: >
   Damon Point is the southern tip of the Ocean Shores peninsula, a spit of gravel and driftwood extending into Grays Harbor. For years it was the only reliable winter roosting site for snowy owls in the Pacific Northwest — not the occasional vagrant, but dozens of them spread across the exposed gravel. Wildlife photographers from across the country used to converge here in January.
+score: 7.7
 ---
 
 Damon Point is the ragged southern tip of the Ocean Shores peninsula, a low gravel spit extending into the mouth of Grays Harbor. The landscape is raw and exposed — driftwood piles, beach grass, and an unobstructed view across the harbor to the open Pacific. It is one of the better birding spots in Grays Harbor County, particularly for shorebirds and raptors.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Iglesia de Santa María la Mayor
 type: poi
+score: 6.1
 ---
 
 The parish church on the central plaza of Verín was rebuilt in the 18th century on the site of an earlier medieval chapel. The granite facade is a restrained provincial baroque, with a single ornate portal flanked by pilasters and topped by a curved pediment. The two bell towers were added later and give the church its dominant profile on the town's skyline.

@@ -14,6 +14,7 @@ tags:
 - church
 title: Basilica de San Francisco
 type: poi
+score: 8.9
 ---
 
 The Basilica de San Francisco stands at the lower end of [Calle Sagarnaga](/southamerica/bolivia/lapaz/sagarnaga_street), where the market district tips down toward the city centre. The facade is the thing to look at first: carved stone that seems to overflow its frame, packed with detail that repays close attention. You will find European cherubs and saints, but also what looks like corn, passion fruit, tropical birds, and human faces that are unmistakably Andean. This mixing was deliberate and meaningful — the indigenous artisans who built the church inserted their own world into the fabric of the colonial church, and left it there for three hundred years.

@@ -2,6 +2,7 @@
 title: "Oroville Dam"
 type: poi
 tags: [sightseeing, history]
+score: 6.7
 ---
 
 At 235 meters (770 feet), Oroville Dam is the tallest dam in the United States — taller than Hoover Dam by more than 60 meters. Built between 1962 and 1968 as part of the California State Water Project, it's an earthfill dam rather than a concrete arch, making it less visually dramatic than some famous dams but impressive purely by scale.

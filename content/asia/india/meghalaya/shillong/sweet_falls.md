@@ -7,6 +7,7 @@ tags:
   - waterfall
 latitude: 25.5610
 longitude: 91.9587
+score: 6.6
 ---
 
 A single near-vertical drop of about 100 metres in a quiet patch of forest a few kilometres south of Shillong, near Happy Valley. Less developed than Elephant Falls — there is no entry gate and no crowd — but also without easy access to the base.

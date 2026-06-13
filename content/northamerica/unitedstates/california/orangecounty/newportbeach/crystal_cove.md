@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 story: "The 46 wooden beach cottages clustered above Crystal Cove are leftover from the 1920s and 30s, when Hollywood crews used the place to film South Seas movies. The state has restored about half of them and rents them out as inexpensive overnight accommodation — they book up the day the reservation window opens, a year ahead, in about a minute."
+score: 9.0
 ---
 
 Crystal Cove State Park stretches for 3.2 miles along the coast just south of Corona del Mar, with sandy beaches, tide pools, an upland backcountry of coastal sage scrub, and the wonderful Crystal Cove Historic District of restored 1920s beach cottages.

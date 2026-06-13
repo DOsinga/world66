@@ -13,6 +13,7 @@ story: >
   they appealed, delayed, and eventually the order was rescinded. The church was completed in 1668
   and is considered the finest example of Spanish Baroque architecture in Peru. The cathedral chapter
   reportedly never forgave them.
+score: 8.3
 ---
 
 The most imposing baroque facade on the Plaza de Armas in Cusco, built by the Jesuits between 1571 and 1668 on the site of the Inca palace of Huayna Capac. The facade is a masterpiece of carved stone — figures of saints, angels, and decorative foliage in the ornate **Churrigueresque** style, entirely covering the surface from door to belfry. Inside, the gold-covered altarpiece and painted walls show the high mestizo baroque style that developed in Cusco, blending European religious iconography with Andean symbols.

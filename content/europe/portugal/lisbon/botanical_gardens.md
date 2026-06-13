@@ -10,6 +10,7 @@ tags:
 - bairro_alto
 title: Botanical Gardens
 type: poi
+score: 6.6
 ---
 
 A Victorian-era botanical garden tucked off Rua da Escola Politécnica in the Príncipe Real neighbourhood, with shade trees, a collection of tropical plants, and a quiet atmosphere that makes it a good escape from the summer heat. The entrance is a short walk from Elevador da Glória.

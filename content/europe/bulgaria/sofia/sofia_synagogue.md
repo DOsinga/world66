@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Bulgaria's Jews — about 48,000 in 1940 — were the only Jewish community in occupied Europe to survive the Holocaust nearly intact. King Boris III and Bulgarian Orthodox bishops refused Nazi demands for deportation, and Sofia's synagogue stayed in use throughout the war. Most Bulgarian Jews emigrated to Israel after 1948."
+score: 8.1
 ---
 
 The largest Sephardic synagogue in southeastern Europe and one of the largest in continental Europe, consecrated in 1909. The exterior is a confection of Moorish, Venetian, and Viennese Secession motifs; the interior is centred on a vast bronze chandelier weighing more than two tonnes, lit by hundreds of bulbs.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 55.7306
 longitude: 12.5726
+score: 6.7
 ---
 
 The Experimentarium in Hellerup, north of the centre, is Denmark's science centre — a large interactive museum aimed at children but engaging enough for adults. The collection of hands-on experiments covers physics, biology, technology, and the human body. The building itself, a converted Tuborg brewery, was spectacularly renovated in 2017 and won several architectural awards.

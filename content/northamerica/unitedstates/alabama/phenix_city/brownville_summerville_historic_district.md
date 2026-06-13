@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Brownville-Summerville Historic District
 type: poi
+score: 6.8
 ---
 
 A small National Register historic district covering the older residential streets just north of downtown Phenix City, built up in the late 19th and early 20th centuries during the city's textile-mill boom. The district has good examples of Folk Victorian, Queen Anne and Craftsman houses — many wood-framed with deep porches — that survived the postwar transformation of the city.

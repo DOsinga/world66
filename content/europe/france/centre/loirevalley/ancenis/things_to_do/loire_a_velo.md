@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: 47.3648
 longitude: -1.1816
+score: 7.2
 ---
 
 The Loire à Vélo is an 800-kilometre signed cycle route following the river from its source to the Atlantic, and the Ancenis section is among the flattest and most scenic. The path runs along the levée — the flood embankment — on the south bank, with the Loire spreading wide to one side and fields of sunflowers or maize to the other depending on the season.

@@ -14,6 +14,7 @@ story: >
   song sung to it by the crowd — not of mockery but of encouragement, praising its noble effort and
   promising better fortune next time. The winning horse's trainer receives a cup of airag (fermented
   mare's milk) and pours it over the horse's hindquarters.
+score: 9.5
 ---
 
 The Naadam Festival, held annually on 11–13 July, is Mongolia's national celebration — the "Three Manly Games" of wrestling, horse racing, and archery staged at the National Sports Stadium and on the open steppe east of the city. It is the single best reason to visit Mongolia in July, one of the great public spectacles in Asia, and it remains genuinely Mongolian rather than tourist-packaged.

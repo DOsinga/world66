@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Eroded badlands canyon used as the alien planet in Starship Troopers"
+score: 6.4
 ---
 
 A 320-acre swallow-hole of eroded badlands about an hour west of Casper, dropping suddenly out of

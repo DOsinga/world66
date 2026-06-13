@@ -9,6 +9,7 @@ tags:
 - outdoors
 title: Canopy
 type: poi
+score: 8.4
 ---
 
 Canopy tours — zip-lining between platforms high in the rainforest — are one of Costa Rica's signature activities, and for good reason. You travel between tree-top platforms on steel cables, sometimes 25 metres or more above the forest floor, with the canopy stretching out around you in every direction.

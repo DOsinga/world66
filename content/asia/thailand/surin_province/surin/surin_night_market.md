@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 15.0614
 longitude: 103.7573
+score: 6.3
 ---
 
 The night market near Surin's train station is the best and cheapest eating option in the city. Stalls set up by late afternoon and the market reaches full swing around 6–9pm. The selection is classic Isan: grilled pork and chicken (ped yang, gai yang), som tam papaya salad in the fiercely sour local style, sticky rice, and larb — minced meat salad with toasted rice powder and herbs.

@@ -7,6 +7,7 @@ tags:
 title: Daun Penh
 type: poi
 neighbourhood: Daun Penh
+score: 8.6
 ---
 
 The original colonial core: the area around Wat Phnom, Post Office Square, the Central Market and the riverfront. Most of Phnom Penh's surviving French-era architecture is here, and most of the city's significant institutions — the Central Post Office, the old Banque de l'Indochine, the National Library, the National Museum.

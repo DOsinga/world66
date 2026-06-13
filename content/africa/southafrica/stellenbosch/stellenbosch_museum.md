@@ -12,6 +12,7 @@ story: >
   The Cape Dutch architecture you see in the museum's courtyard is one of the most
   distinctive building styles in the world — white-walled, thatched, with elaborate gabled
   facades that evolved from Dutch prototypes into something entirely South African.
+score: 8.2
 ---
 
 The Stellenbosch Village Museum is one of the best local history museums in South Africa, occupying a block of historic buildings in the town centre. Four houses representing different periods of Cape Dutch domestic life from 1709 to 1929 have been restored and furnished to period, giving visitors a genuine sense of how the town developed over two and a half centuries.

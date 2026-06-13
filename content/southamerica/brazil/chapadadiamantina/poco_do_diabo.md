@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -12.4833
 longitude: -41.4167
+score: 7.8
 ---
 
 Poço do Diabo (Devil's Pool) is one of the most spectacular swimming holes in Chapada Diamantina — a deep, bright-turquoise pool fed by a waterfall in a narrow canyon, with sheer quartzite walls rising on both sides and the water so clear that the sandy bottom is visible at several metres depth. The name suggests danger but the pool itself is calm, accessible, and exceptional.

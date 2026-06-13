@@ -9,6 +9,7 @@ tags:
 latitude: 10.7609
 longitude: 106.6985
 snippet: "Ho Chi Minh City's first Michelin-starred restaurant, reimagining Vietnamese street food"
+score: 8.0
 ---
 
 Ănăn Saigon in District 1 is the first restaurant in Ho Chi Minh City to receive a Michelin star. Chef Peter Cuong Franklin — a Vietnamese-American who returned to Vietnam to cook — takes the street food of his childhood and applies fine-dining technique without losing the soul of the originals. The result is phở with hand-pulled noodles and 36-hour broth, bánh mì deconstructed and reassembled, and bo la lot (beef in betel leaf) elevated into something remarkable.

@@ -16,6 +16,7 @@ story: >
   before seeing his son's triumph, but the dynasty he set in motion transformed
   Iran's religious identity permanently. The tomb is a pilgrimage site for Shia
   Muslims as well as a historical monument.
+score: 7.8
 ---
 
 The Tomb of Shaykh Haydar is the most significant historical monument in Meshkinshahr and one of the important Safavid-era sites in northwestern Iran. Shaykh Haydar was the leader of the Safaviyya Sufi order and the father of Shah Ismail, who would go on to establish the Safavid dynasty and transform Iran's religious landscape. The mausoleum is a graceful domed structure with tilework and calligraphic decoration, restored at various points over the centuries but preserving its essential architectural character.

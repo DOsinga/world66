@@ -14,6 +14,7 @@ tags:
 - architecture
 title: St Mary's Guildhall
 type: poi
+score: 8.9
 ---
 
 One of the best-preserved medieval guildhalls in England, and almost nobody outside Coventry seems to know it exists. Built in the 1340s and 1350s, it served as the seat of the powerful Guild of the Holy Trinity and later as the city's civic hall. The great hall has a magnificent oak-timbered ceiling, a 15th-century tapestry depicting the Last Judgement, centuries-old armour on the walls, and a row of original stained glass windows.

@@ -14,6 +14,7 @@ story: >
   One, George Sukeji Morikami, stayed on alone for sixty years and quietly built
   up a 200-acre vegetable farm — which he then donated, on his death in 1976, to
   Palm Beach County on condition it become a Japanese cultural park.
+score: 9.3
 ---
 
 Inland of Delray, in what was once swamp and pineapple fields, the Morikami is an authentic Japanese garden complex of six distinct styles — from the 9th-century paradise garden of the Heian period to a flat dry-rock karesansui — set around a small museum of Japanese art and the lake that was central to the original Morikami farm. It is unexpected, well-maintained, and easily the most contemplative attraction in this part of Florida.

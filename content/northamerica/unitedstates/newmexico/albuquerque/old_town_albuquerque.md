@@ -13,6 +13,7 @@ story: >
   out around the central plaza in the standard Spanish colonial grid. The San Felipe de Neri
   church, completed in 1793 after its predecessor collapsed, still stands on the north side
   of the plaza and has been in continuous use for over 200 years.
+score: 8.3
 ---
 
 Old Town is where Albuquerque began: a Spanish colonial settlement founded in 1706 around a central plaza with a church on one side. The San Felipe de Neri church anchors the plaza and remains active. The surrounding streets have been thoroughly converted into a tourist district — galleries, shops selling Native American jewelry and pottery, and restaurants — but the physical form of the old settlement survives beneath the commercial overlay.

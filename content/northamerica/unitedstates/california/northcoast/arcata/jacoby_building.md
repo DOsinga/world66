@@ -17,6 +17,7 @@ story: >
   surviving commercial structure in the city.
 sources:
   - https://en.wikipedia.org/wiki/Jacoby_Building
+score: 7.0
 ---
 
 The Jacoby Building at 791 Eighth Street is the oldest commercial building in Arcata, constructed in 1857 by merchant Garret Jacoby during the Gold Rush era when the town served as a supply hub for inland mining camps. It's a handsome two-story brick structure on the northeast corner of the Plaza — easy to miss if you don't know what you're looking at, but worth a moment's attention once you do.

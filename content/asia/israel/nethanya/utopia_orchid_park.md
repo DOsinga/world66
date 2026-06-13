@@ -6,6 +6,7 @@ longitude: 34.9200
 tags:
   - things_to_do
   - sight
+score: 4.9
 ---
 
 A short drive northeast of Netanya, in Kibbutz Bahan, Utopia is a covered tropical garden built around one of the largest orchid collections in the Middle East. Inside the climate-controlled glasshouses are several hundred species of orchid, plus carnivorous plants, tropical birds, and a small koi pond.

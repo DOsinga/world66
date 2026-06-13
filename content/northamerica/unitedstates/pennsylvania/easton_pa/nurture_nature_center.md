@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.6909
 longitude: -75.2137
+score: 6.5
 ---
 
 A small science centre on Northampton Street with a focus on the Delaware and Lehigh river systems — flooding, water quality, and climate. The headline exhibit is the **Science on a Sphere**, a six-foot suspended globe onto which NOAA satellite imagery is projected; it cycles through climate, weather, and ocean current data sets.

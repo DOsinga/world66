@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 59.4560
 longitude: 28.0450
+score: 6.4
 ---
 
 The pine forests that separate Narva-Jõesuu from the surrounding countryside are as much a part of the resort's appeal as the beach itself. Tall Scots pines grow close together, muffling road noise and casting long afternoon shadows across sandy paths. The air carries the resinous scent that makes Baltic beach forests distinctive.

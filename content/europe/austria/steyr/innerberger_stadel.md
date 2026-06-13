@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The Innerberger Stadel was a fortified grain store built 1611–1613 by the Eisenobmann (iron-trade overseer) for the workers of the imperial iron forges. Its sgraffitto facade — bristling figures, scrolls, and emblems — is the largest of its kind north of Italy."
+score: 7.6
 ---
 
 The Innerberger Stadel is one of Steyr's most striking buildings: a tall double-gabled granary covered head to toe in sgraffitto, on the Grünmarkt below the parish church. It now houses the Stadtmuseum, with displays on iron-working, scythe-making, knife-smithing, and the long history of Steyr-Daimler-Puch firearms and vehicles.

@@ -6,6 +6,7 @@ longitude: -124.1628
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 Ocean City State Park occupies the northern end of the Ocean Shores peninsula, just a few kilometres up the coast from the town centre. The park has direct beach access through the dunes and a network of trails through the coastal forest and wetland behind the dune line. It is the best access point on this stretch of coast for birding, and the tidal flats here are among the most productive in the region during shorebird migration.

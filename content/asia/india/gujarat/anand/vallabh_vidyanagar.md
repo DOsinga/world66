@@ -7,6 +7,7 @@ tags:
 latitude: 22.5600
 longitude: 72.9500
 snippet: Planned educational town adjacent to Anand, home to Sardar Patel University
+score: 6.8
 ---
 
 Vallabh Vidyanagar — universally shortened to V.V. Nagar — is a planned educational town that grew up immediately adjacent to Anand, separated from it by little more than a road. It was founded in 1949 by the independence-era politician and educationalist Bhaikaka (Bhailalbhai Patel), conceived as an affordable educational centre for students from rural Gujarat who could not afford the fees at established urban colleges. Today it is a compact campus town of some 200,000 people with a dozen colleges and several research institutes, anchored by Sardar Patel University, which was granted university status in 1955.

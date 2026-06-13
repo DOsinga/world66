@@ -7,6 +7,7 @@ tags:
   - walk
 latitude: 37.5614
 longitude: 22.7975
+score: 8.1
 ---
 
 The Arvanitia is the cliff-edge walking path that loops around the base of the Acronauplia rock, beginning at the southern edge of the old town and ending at the small pebble beach of Arvanitia. It is a flat, shaded, two-kilometre stroll with the Argolic Gulf on one side and limestone cliffs hung with prickly pear on the other.

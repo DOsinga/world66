@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 12.9647
 longitude: 79.7842
+score: 5.2
 ---
 
 The most reliable South Indian vegetarian chain in the world has a branch in Kanchipuram, and it earns its reputation here as elsewhere. The menu runs from morning tiffin (idli, dosa, vada, pongal) through full lunch thalis to evening snacks, all prepared to a consistent standard that is hard to find in unknown restaurants when you're short on time.

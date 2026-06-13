@@ -8,6 +8,7 @@ tags:
   - sight
   - historic
 story: "The castle rock has been continuously occupied since the Neolithic. Excavations on the summit have exposed levels from the Bronze Age, the Greek and Roman periods, and the medieval Spanish refortification — all visible today in a single open-air strip of trenches between the buildings."
+score: 8.7
 ---
 
 The Castle of Lipari sits on the rocky outcrop between the town's two bays, and is the centrepiece of any visit. The Spanish walls you see were built in the 1550s after a devastating Ottoman raid by the corsair Barbarossa; inside them, a tangle of narrow lanes, churches, and small museums occupy the medieval and earlier acropolis.

@@ -12,6 +12,7 @@ tags:
 - sight
 title: Kopinga Marae
 type: poi
+score: 8.8
 ---
 
 Kopinga is the cultural heart of the modern Moriori community — a contemporary

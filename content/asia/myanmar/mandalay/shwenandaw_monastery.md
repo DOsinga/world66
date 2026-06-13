@@ -8,6 +8,7 @@ tags:
 latitude: 21.9870
 longitude: 96.0852
 story: "This is the last surviving building from King Mindon's original 19th-century palace complex. All the other palace buildings were destroyed in the fires of 1945; Shwenandaw survived only because King Thibaw had moved it outside the palace walls in 1880, after his father died there and the building became associated with bad luck."
+score: 9.3
 ---
 
 The Shwenandaw Monastery is the finest example of 19th-century Burmese teak architecture surviving in Mandalay, and arguably in the country. Originally a chamber within the royal palace, it was moved outside the palace compound after the death of King Mindon and converted into a monastery. All the rest of the teak palace was destroyed in 1945 — making Shwenandaw uniquely precious.

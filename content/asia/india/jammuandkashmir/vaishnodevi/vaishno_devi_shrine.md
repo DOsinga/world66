@@ -8,6 +8,7 @@ tags:
   - sight
   - temple
 story: "The cave was sealed for centuries and only rediscovered in the early 1900s after a Brahmin from a nearby village reportedly received instructions from the goddess in a dream. An older, narrower natural cave — the original entrance, just two feet high in places — is still open for use one or two months a year when crowds are smaller."
+score: 9.3
 ---
 
 The shrine itself is a 30-metre natural cave at 1,585 metres on the **Trikuta Mountains**. There is no idol — the goddess is represented by three **pindis**, naturally formed rock outcrops standing for Maha Kali, Maha Lakshmi, and Maha Saraswati. Pilgrims pass through in a continuous line, take a brief *darshan*, and emerge on the other side.

@@ -13,6 +13,7 @@ story: >
   southward into the North Atlantic shipping lanes. The station's records from
   April 1912 are part of the historical investigation into the weather conditions
   that contributed to the disaster.
+score: 6.2
 ---
 
 The Hatteras Weather Bureau Station is a cheerful yellow-painted wood-frame building in Hatteras Village, built in 1901 and operated as a weather observation station until 1946. It is one of the oldest surviving structures of its kind on the Outer Banks, and its long weather record — stretching back to the 19th century — is still used by climatologists studying storm patterns on the Atlantic coast.

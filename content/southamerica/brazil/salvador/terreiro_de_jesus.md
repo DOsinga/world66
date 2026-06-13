@@ -8,6 +8,7 @@ tags:
 - sight
 - pelourinho
 snippet: Central Pelourinho square ringed by four churches
+score: 8.6
 ---
 
 The Terreiro de Jesus is the central square of the Pelourinho — a flat-paved plaza overlooked by the Cathedral, the church of São Pedro dos Clérigos, and the convent of São Domingos. It is also the routine gathering point for capoeira circles, which form most afternoons around the fountain.

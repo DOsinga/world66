@@ -13,6 +13,7 @@ story: >
   to its current 1,841 metres. After a 1972 fire and decades of neglect, locals
   fought a 25-year campaign to save it; the underwater observatory opened in 2003
   as part of the rescue plan.
+score: 9.0
 ---
 
 The jetty is the reason Busselton exists in its current form: a working timber pier that grew to be the longest of its kind in the Southern Hemisphere, and the centrepiece of the town's identity since the late 19th century. Closed to commercial shipping in 1972, it now functions as a 1.8 km promenade, fishing platform, and tourist attraction.

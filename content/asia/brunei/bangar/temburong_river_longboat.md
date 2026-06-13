@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, wildlife]
 latitude: 4.7086
 longitude: 115.0739
+score: 7.3
 ---
 
 The longboat ride up the Temburong River from Bangar to the edge of the national park is one of those journeys where the travel itself justifies the trip. The boats are narrow, covered craft that move quickly through brown jungle water, past overhanging vegetation, water monitor lizards basking on the banks, and occasional proboscis monkeys in the trees. The river narrows and shallows as you head upriver; in dry season the boatmen sometimes have to pole through shallow sections.

@@ -7,6 +7,7 @@ tags:
   - basque
 latitude: 41.19576
 longitude: -115.33059
+score: 7.5
 ---
 
 The Star Hotel is the oldest continuously operating Basque restaurant in Elko, and one of the oldest in Nevada, run by the same Basque family for generations. Meals are served family-style at communal tables: soup, salad, beans, French bread, and a rotating main course (typically lamb, chicken, or beef stew) arrive in sequence, whether you know your neighbours or not. Wine comes in a carafe; there are no menus.

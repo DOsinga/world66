@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Blijdorp Zoo
 type: poi
+score: 7.6
 ---
 
 One of the oldest zoos in the Netherlands and one of the best in Europe. The Oceanium -- an underwater walkthrough tunnel -- is the standout, but the Asian section with its bantengs and babirusa is equally impressive. Allow at least half a day. Easily reached by tram from Centraal Station.

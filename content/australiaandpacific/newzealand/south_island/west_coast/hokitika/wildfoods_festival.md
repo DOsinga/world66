@@ -8,6 +8,7 @@ tags:
 latitude: -42.7167
 longitude: 170.9747
 snippet: An annual March festival where adventurous eaters can try huhu grubs, smoked eel, and other West Coast curiosities
+score: 6.9
 ---
 
 The Hokitika Wildfoods Festival is held every March and has been running since 1990. It draws thousands of visitors to try foods that rarely appear on menus elsewhere: huhu grubs (the larva of a native beetle, eaten raw or fried), whitebait patties (a West Coast institution, whitebait being juvenile fish), wild venison, smoked eel, paua (abalone), and various preparations involving insect protein. The festival takes place on the showgrounds over a single weekend and combines food stalls with live music, markets, and considerable quantities of local beer and wine.

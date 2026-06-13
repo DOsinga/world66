@@ -15,6 +15,7 @@ tags:
 - landmark
 title: Coventry Cathedral
 type: poi
+score: 9.6
 ---
 
 The double cathedral — old ruins and new building — is the most powerful thing in Coventry and one of the most affecting war memorials in Britain. The old cathedral was burned out on the night of 14 November 1940; its shell was preserved rather than demolished, and Basil Spence's new cathedral was built alongside it, consecrated in 1962. The two are joined at the entrance so you pass through the ruins before entering the new building.

@@ -8,6 +8,7 @@ latitude: 36.5841
 longitude: -98.8786
 snippet: "Spring festival with guided diamondback hunts, snake-handling demos, and a carnival"
 story: "The hunt has run since the 1960s and is one of the oldest of its kind in the Southwest. Western diamondbacks caught during the weekend are weighed and measured, and a few of the largest are butchered on stage so curious visitors can try fried rattlesnake."
+score: 7.2
 ---
 
 A weekend each April when Waynoka turns into one of the most peculiar small-town festivals in the United States. Guided hunts head out into the gypsum hills to collect western diamondback rattlesnakes; back in town there are snake-handling demonstrations, a carnival on the main street, a parade, food vendors, and the inevitable rattlesnake meat to taste.

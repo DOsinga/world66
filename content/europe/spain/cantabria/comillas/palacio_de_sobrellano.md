@@ -9,6 +9,7 @@ latitude: 43.3835
 longitude: -4.2943
 sources:
   - https://en.wikipedia.org/wiki/Palacio_de_Sobrellano
+score: 8.2
 ---
 
 The Sobrellano Palace was built between 1881 and 1890 for the first Marquis of Comillas, Antonio López y López, one of the wealthiest men in 19th-century Spain — a fortune built largely on transatlantic trade and shipping, including, before abolition, the slave trade. The building was designed by Joan Martorell, the same architect responsible for the Pontifical University on the hill above, in a severe neo-Gothic style with pointed arches and stone towers that give it the look of a medieval castle.

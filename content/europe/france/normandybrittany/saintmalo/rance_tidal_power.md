@@ -6,6 +6,7 @@ latitude: 48.6181
 longitude: -2.0233
 story: >
   When it opened in 1966, the Rance tidal power station was the world's largest tidal power station — and it held that record for 45 years, until a South Korean plant overtook it in 2011. The project exploited the Rance estuary's extraordinary tidal range: up to 13.5 metres between high and low tide, one of the largest in the world. The dam generates power both on the incoming and outgoing tides, running its turbines in both directions.
+score: 7.2
 ---
 
 The Rance Tidal Power Station, about 4km south of Saint-Malo, is the world's first large-scale tidal power plant and still one of the largest. Built between 1961 and 1966, the dam crosses the Rance estuary near the village of La Richardais, and the road across the top serves as the main connection between Saint-Malo and Dinard — cutting what was once a long detour to a two-minute drive.

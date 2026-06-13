@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 68.4214
 longitude: 27.4177
+score: 7.6
 ---
 
 Several Sami-run reindeer farms in and around Saariselkä run short visits — usually a sleigh ride through the forest, a feeding session, and a fireside chat about the herder's life over coffee and salmon soup. It is one of the easiest ways to meet a working Sami family and to learn how the herding cycle still shapes the year here.

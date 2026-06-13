@@ -7,6 +7,7 @@ tags:
 - sight
 title: A Guarda
 type: poi
+score: 7.4
 ---
 
 A Guarda sits at the very southwestern corner of Galicia, where the river Miño

@@ -8,6 +8,7 @@ tags:
 latitude: -21.0998
 longitude: -175.3394
 story: "The flying foxes of Kolovai are considered tapu — sacred — and belong by tradition to the royal family of Tonga. Only the king may hunt them, and in practice no one does. The colony has roosted in the same casuarina trees by the main road for centuries; locals can identify individual trees that their grandfathers knew as bat trees."
+score: 8.0
 ---
 
 A roost of several thousand Pacific flying foxes hanging in the casuarina trees along the road through Kolovai village, half a kilometre inland from the beach. The bats are large — half a metre across with the wings open — and the colony is visible day and night, but the dusk fly-out is the moment.

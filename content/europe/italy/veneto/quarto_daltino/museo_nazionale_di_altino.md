@@ -15,6 +15,7 @@ story: >
   by birds taking flight before them. The refugees who settled on the
   lagoon islands became the founders of Venice — making this quiet museum
   beside a field the origin point of one of history's most improbable cities.
+score: 8.2
 ---
 
 The Museo Nazionale di Altino (also known as MANA — the National Archaeological Museum of Altino) occupies a purpose-built building beside the archaeological site of ancient Altinum, one of the most important Roman cities of northeast Italy before its destruction in the 5th century. The museum houses a remarkable collection of finds from the city: mosaics, inscribed stone funerary monuments, bronzes, glass, amphorae, and everyday domestic objects from a prosperous Roman port town that sat at the edge of the lagoon.

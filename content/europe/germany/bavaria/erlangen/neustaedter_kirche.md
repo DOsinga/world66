@@ -6,6 +6,7 @@ latitude: 49.5956
 longitude: 11.0056
 sources:
   - https://en.wikipedia.org/wiki/Neust%C3%A4dter_Kirche,_Erlangen
+score: 6.8
 ---
 
 The Neustädter Kirche is the main Protestant church of the Baroque Altstadt, built in the early 18th century as the church of the Huguenot refugee community that founded the planned new town. It stands in a prominent position near the Schlossgarten and is one of the better examples of Baroque ecclesiastical architecture in Franconia.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 34.1267
 longitude: 74.7433
+score: 7.8
 ---
 
 Hokersar is a 13.75-square-kilometre wetland reserve about 14 km northwest of Srinagar, a critically important staging and wintering ground for migratory birds on the Central Asian Flyway. Between October and March, tens of thousands of ducks, geese, waders, and other waterbirds arrive here from Siberia, Central Asia, and the Himalayas. The species list includes bar-headed geese, common pochards, tufted ducks, gadwalls, pintails, mallards, and occasional rarer visitors. In peak winter months the scale of the flocks is genuinely impressive.

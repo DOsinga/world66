@@ -9,6 +9,7 @@ tags:
 - swimming
 title: Akumal Bay
 type: poi
+score: 8.8
 ---
 
 Akumal Bay is a wide, sandy-bottomed half-moon protected by a long reef that breaks most of the Caribbean swell. The water is shallow — much of it waist-deep — and the snorkelling starts a few metres from the beach. Sea turtles, rays, parrotfish, and the occasional small barracuda all show up regularly.

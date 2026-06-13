@@ -6,6 +6,7 @@ longitude: 38.9340
 tags:
   - bars_and_cafes
   - cafe
+score: 7.0
 ---
 
 One of the classic 1930s cafés on Liberation Avenue, with a curved Art Deco facade, a chrome counter, and the kind of espresso machine that has not been redesigned since the war. The macchiato is excellent and costs almost nothing; the pastries, especially the bombolini and almond biscotti, are made on the premises every morning.

@@ -11,6 +11,7 @@ story: >
   linear — were built between 600 and 1200 CE by Late Woodland peoples and
   represent one of the best-preserved groups of effigy mounds in Wisconsin. Most
   other mound groups were ploughed under by 19th-century farmers.
+score: 7.1
 ---
 
 About 15 minutes south of Kewaskum, Lizard Mound County Park (formerly a state park, now operated by Washington County) preserves a striking group of prehistoric earthworks in a quiet oak forest. A short loop trail runs past the mounds, with interpretive signs explaining their shapes — most clearly recognisable when leaves are off the trees.

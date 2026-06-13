@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Fry Bread House
 type: poi
+score: 7.8
 ---
 
 Founded in 1992 by Cecilia Miller, a member of the Tohono O'odham Nation, the Fry Bread House serves the dish the way it is made on the Sonoran-desert reservation south of Tucson. The bread comes out hot, light, and not greasy — flattened by hand and dropped into the fryer to order. You eat it either savoury, piled with beans, chile, and lettuce taco-style, or sweet with honey and powdered sugar.

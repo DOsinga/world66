@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The beach at Ocean Shores is one of the few places in Washington where cars are legally permitted to drive on the sand — a tradition dating back to the town's founding in the 1960s when the developers marketed the peninsula as the "new Atlantic City of the West." The car culture faded; the beach stayed wild and wonderful.
+score: 8.4
 ---
 
 The beach at Ocean Shores runs for about six miles along the outer edge of the peninsula, facing directly into the Pacific. It is wide enough at low tide to feel genuinely expansive — you can walk for an hour in either direction without retracing your steps, and the waves are rarely gentle. Clam diggers, surfers, beachcombers, and people flying elaborate kites all share the sand without crowding it.

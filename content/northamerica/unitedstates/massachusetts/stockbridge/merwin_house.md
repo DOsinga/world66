@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 42.28240
 longitude: -73.31352
+score: 6.2
 ---
 
 Merwin House — also known as Tranquility — is a Federal-period house at 14 Main Street that was donated to Historic New England with its contents intact, including furniture collected by generations of an affluent New England family from the 1820s through the early twentieth century. The result is an unusually layered domestic interior: furniture and objects accumulated rather than curated, showing how a prosperous family actually lived rather than how a museum thinks they should have lived.

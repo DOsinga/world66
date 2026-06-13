@@ -14,6 +14,7 @@ story: >
   thousands of females come ashore in a single night — the beach becomes so
   densely packed with turtles that they dig up each other's previously laid
   eggs. A single arribada can involve 20,000 turtles or more.
+score: 8.6
 ---
 
 La Flor Wildlife Refuge protects one of Nicaragua's most important olive ridley sea-turtle nesting beaches, about 20 km south of San Juan del Sur. From July to January, turtles come ashore in large numbers to lay their eggs; between August and October, spectacular *arribadas* occur when thousands of females arrive simultaneously on a single night and transform the beach into a moving, shifting mass of reptiles.

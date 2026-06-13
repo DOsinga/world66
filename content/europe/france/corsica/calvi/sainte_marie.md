@@ -6,6 +6,7 @@ longitude: 8.7575
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The 19th-century parish church of the lower town, painted bright pink, with an octagonal bell tower that punctuates the harbour skyline as much as the citadel does. The building replaces an older Genoese church and is dedicated to the Assumption of the Virgin.

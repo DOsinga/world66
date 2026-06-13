@@ -6,6 +6,7 @@ latitude: 33.0667
 longitude: -16.3500
 story: >
   Christopher Columbus lived on Porto Santo in the early 1480s after marrying Filipa Moniz, the daughter of the island's first governor. His small stone house in the centre of Vila Baleira is preserved as a museum and contains one of only a handful of contemporary portraits of the explorer.
+score: 7.7
 ---
 
 Porto Santo is Madeira's smaller sister island, about 40 km to the northeast and reached by a daily ferry from Funchal (a slightly choppy 2-hour crossing) or a 15-minute flight. Where Madeira is steep and green, Porto Santo is flat and sandy — a single 9 km beach of golden sand fringes the entire south coast, the longest beach in the archipelago and the obvious reason most visitors come.

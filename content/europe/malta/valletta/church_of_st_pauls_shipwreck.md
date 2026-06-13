@@ -14,6 +14,7 @@ story: >
   identification with St Paul is ancient and total — the Maltese have long maintained that
   the shipwreck described in Acts 28, in which Paul was bitten by a viper and suffered
   no harm, took place in what is now St Paul's Bay, about 15 kilometres north of Valletta.
+score: 7.7
 ---
 
 This church, one of the oldest in Valletta, commemorates the shipwreck of St Paul on Malta in around 60 AD. According to the Acts of the Apostles, Paul was being transported to Rome as a prisoner when his ship was driven onto the Maltese coast in a storm. The church was founded in 1572 and rebuilt in its current Baroque form in the 18th century. It sits on St Paul's Street — Triq San Pawl — which runs parallel to Republic Street through the upper half of the city's grid.

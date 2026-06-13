@@ -9,6 +9,7 @@ tags:
   - museum
   - architecture
 story: "Local tradition says the hill itself was raised by Attila's Huns, who carried earth in their helmets so the leader could watch nearby Aquileia burn. Whatever the truth, the mound is artificial-looking enough that the legend has stuck for fifteen hundred years."
+score: 8.6
 ---
 
 The castle crowns a 138-metre hill in the centre of the city. The current Renaissance building, with a façade by Giovanni da Udine, replaces a 16th-century earthquake-shattered fortress and now houses the **Civic Museums** — the gallery of ancient art, the archaeological museum, the photography museum, and a print collection.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Opened in 1925 by the Lodares family, the passage was built to link Calle Mayor with Calle Tinte and gave the city a piece of Italian modernist architecture far grander than its small size warranted. It is the only commercial glass-roofed arcade left in Castilla-La Mancha."
+score: 8.0
 ---
 
 A 50-metre Italian-style shopping arcade running between Calle Mayor and Calle Tinte, with a soaring glass roof, marble floors, gilded balconies and frescoed allegorical figures of Industry and Commerce on the ceiling. Modernist in style and far more refined than anything else in central Albacete, it is the closest thing the city has to a postcard sight — and only a few minutes' walk from the cathedral.

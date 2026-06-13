@@ -8,6 +8,7 @@ latitude: -0.9355
 longitude: 100.3536
 story: >
   The museum is housed in a Minangkabau traditional house (rumah gadang) built in 1977 — its distinctive upswept roofline mimics the shape of buffalo horns, a reference to the founding legend of the Minangkabau people, who take their name from "minang" (victorious) and "kabau" (buffalo), after a ritual contest between a small local calf and a Javanese buffalo.
+score: 7.6
 ---
 
 The main cultural museum of West Sumatra occupies a large traditional Minangkabau building near the city centre, with its characteristic roof rising to two dramatic points at either end. Inside, the collection covers the full range of Minangkabau material culture: ceremonial costumes, traditional jewellery, musical instruments, weaving, wood carving, and everyday objects from across the highland villages.

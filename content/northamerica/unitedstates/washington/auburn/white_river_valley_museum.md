@@ -7,6 +7,7 @@ tags:
 latitude: 47.2991
 longitude: -122.2184
 story: "The museum preserves a 1920s vintage Japanese American community farm, one of the few surviving physical records of the thriving Nikkei agricultural community that once made the Green River Valley one of the most productive truck farming regions in the Pacific Northwest — before Executive Order 9066 forcibly removed them in 1942."
+score: 7.7
 ---
 
 The White River Valley Museum tells the story of the Green River Valley from its Muckleshoot and Duwamish indigenous inhabitants through the pioneer settlement period, the Japanese American farming community, and the wartime history of the region. The collection includes a 1920s replica of a downtown Auburn street, period photographs and artifacts, and a reconstructed Hooverville shack from the Great Depression.

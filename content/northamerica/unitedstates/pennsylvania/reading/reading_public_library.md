@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.33347
 longitude: -75.92833
+score: 6.6
 ---
 
 The Reading Public Library occupies a handsome Beaux-Arts building on Fifth Street, one of the better pieces of civic architecture in downtown Reading. The building dates from 1912 and was funded with a Carnegie grant — Andrew Carnegie funded over 2,500 public libraries, mostly in smaller American cities, and the Reading branch is one of the more attractive examples of the programme.

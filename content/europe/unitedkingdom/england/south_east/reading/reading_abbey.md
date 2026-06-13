@@ -14,6 +14,7 @@ story: >
   icumen in" was composed, around 1250, in what is now the oldest recorded vernacular
   song in the English language. The original manuscript survives in the British
   Library.
+score: 8.1
 ---
 
 Reading Abbey was founded by Henry I in 1121, and within a century had become one of the wealthiest and most powerful monasteries in England. It was dissolved by Henry VIII in 1539 — its last abbot, Hugh Faringdon, was executed on trumped-up charges of treason rather than simply surrendering the keys — and the stone was systematically plundered for building material across the following centuries. What remains is a substantial but fragmentary ruin: the gatehouse wall, parts of the nave, the inner gateway arch, and sections of the chapter house and cloister walks, set in a public garden near the Kennet.

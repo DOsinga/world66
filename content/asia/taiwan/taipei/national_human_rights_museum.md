@@ -9,6 +9,7 @@ tags:
 title: National Human Rights Museum (Jingmei)
 type: poi
 url: https://www.nhrm.gov.tw
+score: 8.6
 ---
 
 In the old Jingmei military detention complex in southern Taipei, the National Human Rights Museum is the country's principal memorial to the **White Terror** — the long Kuomintang dictatorship from 1949 to 1987 during which thousands of dissidents were imprisoned, tortured and executed. The museum preserves the cellblocks, courtrooms, and exercise yards largely as they were.

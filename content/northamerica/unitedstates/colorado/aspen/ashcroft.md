@@ -9,6 +9,7 @@ tags:
 story: At its peak in 1883 Ashcroft had 2,500 residents and was briefly larger than Aspen, with two newspapers, six hotels, and a sawmill. By 1885 the silver veins had run out, the population had dropped to 100, and most of the buildings were dismantled for materials and hauled down the valley to growing Aspen.
 title: Ashcroft Ghost Town
 type: poi
+score: 7.6
 ---
 
 The collapsed log buildings of Ashcroft stand in a high meadow at 2,900 metres in the Castle Creek Valley, twelve miles south of Aspen. The Aspen Historical Society maintains the site and there is a small visitor cabin in summer with displays on the town's brief silver-boom existence. About a dozen original wooden buildings still stand, including the hotel (Hotel View), the saloon, the post office, and several miners' cabins, all weathered to grey.

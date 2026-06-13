@@ -9,6 +9,7 @@ tags:
 - sight
 title: Ninna-ji
 type: poi
+score: 8.1
 ---
 
 Ninna-ji was founded in 888 as an imperial monastery and from that point until the Meiji Restoration its abbot was always a member of the imperial family — usually a former emperor or imperial prince — giving the temple a particular cultural prestige. The complex includes a striking five-storey pagoda, a large *kondō* (main hall) moved from the imperial palace in the 1620s, and the *Omuro Goten* — a separate enclosure of palace-style buildings, walking paths and small gardens behind it.

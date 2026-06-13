@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4587
 longitude: 6.8430
+score: 8.2
 ---
 
 The Quai Perdonnet runs east from the Grande Place along the lakeshore. It is flat, mostly car-free, and lined with the kind of large Belle-Epoque hotels that became the calling card of the Lake Geneva towns. Continuing east the promenade joins up with La Tour-de-Peilz and eventually Montreux — about an hour's walk all the way along the water.

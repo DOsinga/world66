@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 16.557
 longitude: 104.7486
 snippet: "French colonial-era Catholic cathedral, the most distinctive building in Savannakhet's old quarter"
+score: 7.3
 ---
 
 The Co-Cathedral of Saint Therese is a prominent French colonial structure in Savannakhet's riverside quarter, built during the French Indochina period. Its white facade and twin-towered form is visible across several blocks and marks the heart of the old colonial grid. The Catholic community in Savannakhet dates to the late 19th century; the church continues as an active parish serving Vietnamese and Lao Catholic families.

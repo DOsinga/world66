@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 7.8
 ---
 
 The Stoa of Attalos is the long colonnaded building on the east side of the Ancient Agora — a complete 1950s reconstruction of the 2nd-century BCE original, funded by John D. Rockefeller Jr. and built from quarried marble using the original techniques. It is the only intact ancient stoa in the world, and a useful reminder of what a Greek agora actually looked like.

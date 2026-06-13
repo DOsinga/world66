@@ -7,6 +7,7 @@ tags:
 - sight
 title: St. Michael's Cathedral
 type: poi
+score: 8.6
 ---
 
 The Cathedral of St. Michael sits at the southern end of the Castle District. The bishopric was founded by St. Stephen around 1009, making this one of the oldest sees in Hungary. The present cathedral is largely an early-20th-century neo-Romanesque rebuilding on much older foundations — the Gothic crypt below the choir survives from the medieval church.

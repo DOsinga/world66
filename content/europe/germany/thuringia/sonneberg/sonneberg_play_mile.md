@@ -7,6 +7,7 @@ tags:
   - family
 latitude: 50.3610
 longitude: 11.1773
+score: 6.1
 ---
 
 The Sonneberg Play Mile is a toy-themed town trail that starts near the station and leads through central Sonneberg by way of playful markers, sculptures and stops connected to the old toy trade. It is deliberately light-hearted, which suits the town better than a solemn heritage route would.

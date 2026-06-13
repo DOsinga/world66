@@ -12,6 +12,7 @@ story: >
   Morandi later addressed by bridge: the city's hills are steep enough to make walking between the
   upper historic centre and the lower commercial districts genuinely difficult. For nearly a century
   it has been carrying residents up and down a gradient that would otherwise require a long detour.
+score: 7.4
 ---
 
 The Catanzaro funicular is a short but genuinely useful piece of urban infrastructure dating from 1929. It connects the Piazza Roma area of the upper city with the lower Via Indipendenza, dropping about 60 metres over a track of around 350 metres. The cars are small, the ride takes about two minutes, and the views over the city rooftops during the descent are better than any formal viewpoint.

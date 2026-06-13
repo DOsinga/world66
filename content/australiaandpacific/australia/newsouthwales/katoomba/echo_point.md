@@ -12,6 +12,7 @@ tags:
   - landmark
 title: Echo Point
 type: poi
+score: 9.0
 ---
 
 Echo Point sits on the escarpment edge just south of Katoomba town centre, about 2 km from the railway station, and gives you an unobstructed view down into the Jamison Valley. The Three Sisters — three sandstone pillars rising from the valley floor — are directly in front of you, and on clear days the eucalyptus-haze blue that gives the Blue Mountains their name hangs over the ridgelines in every direction.

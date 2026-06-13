@@ -18,6 +18,7 @@ story: >
   is real — look up as you walk around the building and see for yourself.
 sources:
   - https://en.wikipedia.org/wiki/Ellis_County_Courthouse_(Texas)
+score: 8.9
 ---
 
 Completed in 1897 to a design by James Riely Gordon, the Ellis County Courthouse is among the finest examples of Romanesque Revival architecture in Texas and the unmistakable centrepiece of Waxahachie. Built from red Pecos sandstone trimmed with Texas granite, its central clock tower rises to 134 feet above the surrounding square. Two million bricks and 260 carloads of stone went into the construction — extravagant proof of the wealth that cotton brought to Ellis County in the late nineteenth century.

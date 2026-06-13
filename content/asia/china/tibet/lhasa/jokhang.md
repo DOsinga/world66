@@ -10,6 +10,7 @@ title: Jokhang Temple
 type: poi
 story: >
   The Jokhang's central object is the Jowo Shakyamuni — a gilded image of the Buddha as a young prince. According to tradition it was carried to Tibet in the 7th century as part of the dowry of the Chinese princess Wencheng, who married King Songtsen Gampo. Pilgrims complete years of prostrations across the plateau to be in the same room as this single statue.
+score: 10.0
 ---
 
 The Jokhang is the spiritual heart of Tibet. Built in 647 AD by King Songtsen Gampo, it is the most sacred temple in Tibetan Buddhism — older than the Potala and, for pilgrims, more important. From dawn onwards the courtyard fills with the steady thud of full-body prostrations as devotees press themselves flat against the flagstones, wooden hand-protectors clacking with each forward slide.

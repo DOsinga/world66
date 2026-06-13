@@ -7,6 +7,7 @@ tags:
 latitude: 4.7333
 longitude: -61.1167
 story: "The streambed here is a single sheet of solid jasper — a hard, polished red-orange stone formed nearly two billion years ago. When the water is low you can walk across it barefoot and feel the warmth in the rock."
+score: 8.4
 ---
 
 Quebrada de Jaspe — Jasper Creek — is one of the Gran Sabana's signature stops, just off the main road south of Kavanayén. A small river runs across a single slab of vivid red jasper, with the stone glowing through clear shallow water and turning brilliant in late afternoon light.

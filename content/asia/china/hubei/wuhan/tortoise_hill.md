@@ -9,6 +9,7 @@ tags:
   - park
   - hanyang
 neighbourhood: Hanyang
+score: 6.7
 ---
 
 Tortoise Hill, on the Hanyang side of the Yangtze, is the lower of the two paired hills that frame the river at the heart of the city — Snake Hill in Wuchang, Tortoise Hill in Hanyang. The name refers to the rounded shape of the ridge, said to resemble a tortoise drinking at the river.

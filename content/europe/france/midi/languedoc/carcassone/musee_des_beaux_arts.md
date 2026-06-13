@@ -8,6 +8,7 @@ tags:
   - bastide_saint_louis
   - museum
 neighbourhood: Bastide Saint-Louis
+score: 6.2
 ---
 
 The Musée des Beaux-Arts is housed in the old Présidial — the regional law court — facing place Carnot. The collection covers seventeenth- to twentieth-century French and European painting, with strong holdings of seventeenth-century Dutch and Flemish work and a small but good nineteenth-century French room (Courbet, Chassériau).

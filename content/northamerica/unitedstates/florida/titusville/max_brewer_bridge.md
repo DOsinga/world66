@@ -6,6 +6,7 @@ longitude: -80.7985
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 The high-arched bridge carrying SR 406 east from Titusville across the Indian River Lagoon to Merritt Island. The current four-lane bridge opened in 2011, replacing an older drawbridge, and includes a wide pedestrian and bike lane on the north side with built-in viewing benches.

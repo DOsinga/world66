@@ -12,6 +12,7 @@ tags:
 - sight
 title: Hapupu Dendroglyphs
 type: poi
+score: 9.4
 ---
 
 The J.M. Barker (Hapupu) National Historic Reserve protects one of the most

@@ -6,6 +6,7 @@ longitude: 35.7222
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 Tell Mar Elias, about 8 kilometres north-west of Anjara on the way toward [Ajlun](/asia/jordan/ajlun), is the traditional birthplace of the prophet Elijah and one of the other five Vatican-designated pilgrimage sites in Jordan. The hilltop, with sweeping views over the Jordan Valley, holds the ruins of two adjoining Byzantine basilicas dating from the sixth and seventh centuries, with mosaic floors still partly intact.

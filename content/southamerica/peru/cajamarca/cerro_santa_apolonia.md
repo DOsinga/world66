@@ -13,6 +13,7 @@ story: >
   Cajamarca culture — but the Spanish renamed the feature for the Inca and the name
   stuck. Whether or not any Inca actually sat there, the view from that stone chair
   over the Plaza de Armas and the surrounding valley is genuinely magnificent.
+score: 6.7
 ---
 
 Cerro Santa Apolonia is a hill on the western edge of Cajamarca's city centre, about 15 minutes on foot from the Plaza de Armas. The climb is not difficult — a set of stone steps leads to the summit — and the views over the city and the surrounding green valley are the reward. At about 2,900 metres, the hill stands roughly 150 metres above the city floor, which is enough to see the full extent of the colonial centre and the dairy farms spreading up the hillsides beyond.

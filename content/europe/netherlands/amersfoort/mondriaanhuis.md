@@ -15,6 +15,7 @@ tags:
 - museum
 title: Mondriaanhuis
 type: poi
+score: 7.8
 ---
 
 The birthplace of Piet Mondriaan, now a museum dedicated to Amersfoort's most famous son. The house recreates his childhood surroundings and traces his development from conventional landscape painter to the abstract pioneer of coloured rectangles. Good for understanding how a boy from a small Dutch town ended up changing modern art.

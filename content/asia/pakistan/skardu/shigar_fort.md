@@ -10,6 +10,7 @@ tags:
 - sight
 - history
 story: Shigar Fort — properly Fong-Khar, "the palace on the rock" — was built around 1634 by the Amacha rulers of Shigar. The Aga Khan Trust for Culture rebuilt it between 1999 and 2004 in a careful conservation project that won an Aga Khan Award for Architecture. Today the upper floors operate as a small luxury hotel, with the ground floor open as a museum.
+score: 8.5
 ---
 
 Shigar Fort, in the village of Shigar an hour northeast of Skardu, is one of the most successful heritage restorations in northern Pakistan. The seventeenth-century palace of the Amacha rajahs of Shigar fell into ruin during the twentieth century and was painstakingly rebuilt by the Aga Khan Trust over five years.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.689
 longitude: -75.3656
+score: 6.3
 ---
 
 Located near Delaware Coastal Airport a couple of miles east of the Circle, the Delaware Aviation Museum traces the history of flight in the First State. The collection includes vintage aircraft, memorabilia from Delaware-connected aviators, and exhibits on the state's military aviation history.

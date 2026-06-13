@@ -14,6 +14,7 @@ story: >
   ever since — pointing skyward, paint peeling, slowly becoming an unofficial
   symbol of upstate New York roadside whimsy. The shop is still in business
   underneath.
+score: 5.1
 ---
 
 Visible from miles around, the Volkswagen Beetle perched on top of an 80-foot brick smokestack at Bill Luck's Volkswagen has been Amsterdam's most idiosyncratic landmark since 1981. The car was hoisted up by a borrowed crane as a piece of advertising for the family-run garage below, and was never taken down.

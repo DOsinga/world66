@@ -8,6 +8,7 @@ latitude: 9.4992
 longitude: 76.3288
 sources:
   - https://en.wikipedia.org/wiki/Revi_Karunakaran_Memorial_Museum
+score: 6.9
 ---
 
 This private museum, established in memory of a local businessman and collector, houses a substantial collection of antiques, decorative arts, and curiosities gathered over several decades. The collection includes silver and ivory objects, antique furniture, European and Chinese porcelain, old weapons, glass, and period photographs of Kerala.

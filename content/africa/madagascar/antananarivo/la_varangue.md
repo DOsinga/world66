@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: La Varangue
 type: poi
+score: 5.9
 ---
 
 La Varangue occupies a beautifully restored colonial house in the upper town, its terrace overlooking a quiet garden a few minutes' walk from the Haute-Ville. The menu is franco-malgache — French technique applied to Malagasy ingredients — with zebu tenderloin, freshwater crayfish from the highlands, and vanilla-inflected desserts that make proper use of the country's most famous export. The wine list is short but thoughtful.

@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 55.4688
 longitude: 8.4490
+score: 4.8
 ---
 
 I.C. Møllerparken is a compact, well-kept municipal park just north of the central square, named for the local merchant and benefactor who paid for its first landscaping in the 1920s. Gravel paths thread between flowerbeds, a small ornamental pond, and a rose garden that peaks in late June.

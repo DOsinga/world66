@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 56.0734
 longitude: -2.7188
+score: 7.1
 ---
 
 A small uninhabited island in the Firth of Forth, just over a mile offshore from North Berwick's harbour. Craigleith was once one of the largest puffin colonies in Britain, with over 28,000 breeding pairs in the 1990s — until an invasive plant called tree mallow took over the burrows and the population collapsed. A conservation programme is slowly bringing the puffins back.

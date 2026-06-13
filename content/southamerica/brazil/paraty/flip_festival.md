@@ -10,6 +10,7 @@ story: >
   FLIP — the Festa Literária Internacional de Paraty — was founded in 2003 and quickly became one of the most important literary festivals in the world. Past headliners have included Salman Rushdie, Toni Morrison, and Chimamanda Ngozi Adichie. The colonial streets provide a backdrop unlike any other literary festival on earth.
 sources:
   - https://en.wikipedia.org/wiki/FLIP_(literary_festival)
+score: 8.3
 ---
 
 Every July, the Festa Literária Internacional de Paraty (FLIP) transforms this small colonial town into one of the world's great literary gatherings. Writers, publishers, translators, and readers from across Brazil and internationally converge on the historic centre for five days of talks, readings, debates, and discussions. The events take place in the cobblestone squares, colonial mansions, and a purpose-built big tent erected outside the old city walls.

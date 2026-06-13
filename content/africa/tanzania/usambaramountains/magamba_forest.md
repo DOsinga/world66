@@ -10,6 +10,7 @@ latitude: -4.744
 longitude: 38.285
 sources:
   - https://en.wikipedia.org/wiki/Magamba_River
+score: 7.7
 ---
 
 Magamba Forest is a protected forest reserve on the northern edge of the Western Usambaras, about 12 kilometres north of Lushoto. It is one of the better preserved forest patches in the Western Usambaras and offers the best chance in this range for forest birds — including the Usambara weaver, the African violet-backed starling, and various forest flycatchers.

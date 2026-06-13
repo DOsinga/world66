@@ -6,6 +6,7 @@ tags:
   - eating_out
 title: Forty Thieves Beach Bar
 type: poi
+score: 5.8
 ---
 
 One of Diani's oldest and best-known beach bars, Forty Thieves has been a fixture on the beach for many years and remains popular with visitors and residents alike. The food covers the usual beach-bar range — grilled fish, burgers, salads, and wood-fired pizza — executed reliably. The seafood platters are worth ordering when fresh catches are in.

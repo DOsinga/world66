@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 32.0110
 longitude: 112.1470
+score: 7.2
 ---
 
 The Xiangyang Museum occupies a Tang-style building at 1 North Street in the old Xiangyang district and holds more than four thousand artefacts spanning prehistoric times through the Qing dynasty. Entry is free, which makes it one of the better deals in Hubei cultural tourism. The six main halls move chronologically through the region's history: Neolithic pottery, bronze-age ritual vessels, Han dynasty jade and lacquerware, and ceramic and metalwork from later periods. The Three Kingdoms collection is particularly strong, reflecting the city's centrality to that period of Chinese history.

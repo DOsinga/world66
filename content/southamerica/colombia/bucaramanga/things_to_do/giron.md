@@ -16,6 +16,7 @@ story: >
   Bucaramanga itself. It was only in the nineteenth century, with the arrival
   of trade routes that bypassed the old colonial network, that the upstart
   plateau city overtook it.
+score: 8.5
 ---
 
 Eight kilometres southwest of Bucaramanga, Girón is a National Monument and one of Colombia's best-preserved colonial villages. The whitewashed walls, red-tiled roofs, cobbled streets, and carved wooden balconies are all genuinely old — this is not a restoration but a town that simply survived. The main square, with its early eighteenth-century cathedral and the smaller Church of Las Nieves, is the most atmospheric spot. The town sits on the banks of the Río de Oro, and the waterfront is pleasant for a walk. Combis (shared minibuses) run frequently from central Bucaramanga; the journey takes about 20 minutes. Come on a weekday if possible — on weekends Girón fills with day-trippers from Bucaramanga and the restaurants get stretched.

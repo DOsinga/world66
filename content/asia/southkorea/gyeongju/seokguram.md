@@ -7,6 +7,7 @@ tags:
 latitude: 35.7950
 longitude: 129.3492
 story: "Seokguram was lost to the outside world for centuries until a Korean postman sheltering from a storm stumbled upon it in 1909. Japanese administrators subsequently restored it, though they filled the interior with concrete in a well-intentioned but structurally damaging intervention that Korean conservators spent decades trying to correct. The grotto now has an artificial chamber installed to regulate humidity."
+score: 9.6
 ---
 
 A UNESCO World Heritage granite grotto 750 metres above sea level on Tohamsan mountain, housing one of the supreme works of Buddhist art in East Asia: a seated stone Buddha 3.5 metres tall, carved with extraordinary technical mastery in the 8th century. The figure sits at the centre of a domed rotunda whose walls are lined with carved relief figures — bodhisattvas, disciples, guardian kings — in a theological programme of exceptional sophistication.

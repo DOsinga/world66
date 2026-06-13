@@ -7,6 +7,7 @@ tags:
 - nature
 title: Laguna Miniques
 type: poi
+score: 6.8
 ---
 
 Laguna Miniques lies close to Miscanti and is usually visited on the same excursion. The water sits under the Miniques volcano in a spare landscape of rock, grass, and hard light.

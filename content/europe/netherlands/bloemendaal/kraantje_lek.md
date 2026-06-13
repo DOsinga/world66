@@ -14,6 +14,7 @@ tags:
 - things_to_do
 - restaurant
 - eating_out
+score: 6.1
 ---
 
 Kraantje Lek is a centuries-old café-restaurant set against the foot of the dunes a short walk from Overveen station and the entrances to the Zuid-Kennemerland park. The current single-storey thatched building is later than the original 17th-century inn but feels nearly as old: low ceilings, wooden tables, a coal stove. Outside is a large terrace under mature trees with cycle racks for two hundred.

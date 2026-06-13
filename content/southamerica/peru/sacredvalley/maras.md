@@ -6,6 +6,7 @@ latitude: -13.3003
 longitude: -72.1556
 snippet: Thousands of salt pans tumbling down a hillside, in continuous use since pre-Inca times
 story: The water that fills the pans comes from a single underground saltwater spring at the top of the slope, redirected down through a network of small channels. The pans have been owned and worked communally by local families for many generations — each household has rights to specific pans, traceable by tradition through a centralised village registry.
+score: 8.7
 ---
 
 One of the strangest and most photographed sights in the Sacred Valley. The Salineras are around 3,000 small terraced salt pans cascading down a hillside above the village of Maras. Each pan holds a few centimetres of brine, fed by an underground saline spring, and the salt is harvested by hand as the water evaporates.

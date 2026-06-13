@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 62.4545
 longitude: -114.3718
+score: 9.0
 ---
 
 Old Town is the original heart of Yellowknife, built on rocky outcrops and islets along the shore of Yellowknife Bay in the 1930s. The neighbourhood has a character unlike any other in Canada — a ramshackle, warmly human mix of wooden houses, log cabins, colourful houseboats frozen in the ice each winter, and floatplane docks where Cessnas and Beavers take off for remote lakes. It was here that gold rush prospectors first set up camp, and the informal, make-do spirit of those years has never entirely left.

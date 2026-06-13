@@ -1,6 +1,7 @@
 ---
 title: Bird and Wildlife Watching
 type: poi
+score: 8.3
 ---
 
 The national park contains a large area of Atlantic rainforest — one of the most biodiverse and threatened forest types on earth — and the birdlife is exceptional even by South American standards. Over 400 species have been recorded. Toucans, particularly red-breasted toucans, are common and visible from the walkways; blue-and-yellow macaws fly overhead in pairs; trogons, tanagers, and antbirds work the understorey. Dawn is the best time for birds, before the first buses arrive from both border cities.

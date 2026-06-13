@@ -16,6 +16,7 @@ story: >
   his scissors a moment later.
 sources:
   - https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge
+score: 9.4
 ---
 
 The Harbour Bridge is the other great Sydney icon, a single-arch steel bridge spanning 503 metres across the widest part of the harbour. Completed in 1932 after nine years of construction, it was then the widest long-span bridge in the world. Eight traffic lanes, two rail tracks, a cycle path and a footway cross it, and it remains the main vehicular link between the CBD and the North Shore.

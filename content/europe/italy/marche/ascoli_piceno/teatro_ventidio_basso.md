@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: The city's 19th-century opera house and concert hall
+score: 6.4
 ---
 
 The mid-19th-century opera house and main concert venue, named after the Roman general Publius Ventidius — a son of Ascoli who rose from slavery to consul. The interior is a typical Italian horseshoe of red plush and gilt; the acoustics carry a small voice cleanly. The autumn opera and chamber-music seasons are the highlights.

@@ -11,6 +11,7 @@ story: >
   The Tam-Tams started in the 1970s as an informal gathering of musicians around the George-Étienne Cartier Monument at the base of Mount Royal. Nobody organized it; nobody owns it. It simply happens, every Sunday from late spring through early autumn, as long as the weather allows. By noon the clearing fills with several thousand people and stays full until evening.
 sources:
   - https://en.wikipedia.org/wiki/Tam-Tams_(Montreal)
+score: 7.4
 ---
 
 Every Sunday from late May through September, a large clearing at the base of Mount Royal near the George-Étienne Cartier Monument transforms into Montreal's most democratic social event. Hundreds of drummers — djembes, bongos, frame drums, anything percussive — set up in a loose circle and play from mid-morning into the afternoon. Around them, thousands of Montrealers lay out blankets, spin hula hoops, juggle, practice contact improv, sell handmade jewellery, and simply sit in the sun.

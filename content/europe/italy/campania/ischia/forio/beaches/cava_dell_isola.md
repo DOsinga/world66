@@ -7,6 +7,7 @@ snippet: "Small volcanic-sand cove north of Forio — calmer and less visited th
 tags:
 - beaches
 - nature
+score: 6.7
 ---
 
 Cava dell'Isola is a compact cove on the northern edge of Forio, sheltered between two low headlands and facing southwest. The sand is dark — mixed volcanic and silicate, typical of this stretch of coast — and the water is calm behind the promontory, making it a good choice when Citara is exposed to swell. It is smaller than Citara and receives a fraction of the visitors, which is recommendation enough in August.

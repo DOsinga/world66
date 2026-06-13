@@ -15,6 +15,7 @@ story: >
   earlier building were salvaged and incorporated — about a dozen of the 213
   pillars holding up the roof today are believed to be the originals, carved
   more than a thousand years ago and worn smooth by centuries of touch.
+score: 9.3
 ---
 
 The Juma Mosque is unlike any other in Central Asia. There is no dome, no arched courtyard, no central iwan — just a flat-roofed hall the size of a city block, supported by 213 wooden columns spaced in a grid, each one different. The oldest are believed to date to the 10th century; others are 12th, 13th, 18th. Some are intricately carved with floral and geometric reliefs; others are plain timber. Light filters in through two small skylights in the ceiling, falling on small constellations of columns at a time.

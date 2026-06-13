@@ -8,6 +8,7 @@ tags:
   - bar
   - old_town
 neighbourhood: Old Town
+score: 6.6
 ---
 
 A genuine Old West saloon on Main Street that has been in business since 1958, set inside a former bank building from the 1920s. The bar still has the original tin ceiling, the swinging doors, the saddle bar-stools, and a live country band most nights. Tips get pinned to the wood-panelled walls.

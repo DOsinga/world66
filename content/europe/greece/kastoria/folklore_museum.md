@@ -8,6 +8,7 @@ title: Folklore Museum (Nerantzis-Aivazis Mansion)
 type: poi
 story: >
   The mansion was built by the Aivazis family, wealthy fur merchants of Greek-Jewish origin who had made their fortune trading across the Ottoman Empire. The Nerantzis family later owned the building. When it was converted into a museum in the 1970s, the rooms were preserved largely as they had been furnished in the 18th century — down to the kitchen implements, the embroideries on the walls, and the sleeping platforms built into the walls for guests.
+score: 7.9
 ---
 
 The Folklore Museum occupies the Nerantzis-Aivazis mansion, one of the finest surviving examples of the grand lakeside townhouses built by Kastoria's prosperous fur merchants in the 17th and 18th centuries. From outside, the building looks imposing — three storeys of stone rising directly from the lakeside road. Inside, it feels unexpectedly intimate.

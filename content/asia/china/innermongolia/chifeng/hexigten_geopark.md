@@ -9,6 +9,7 @@ latitude: 43.4500
 longitude: 117.5000
 story: >
   Hexigten contains a geological record spanning over 500 million years — from Cambrian marine sediments to Quaternary volcanic fields — compressed into a relatively small area. The UNESCO designation in 2005 was partly in recognition of this range: within a single day's drive, you can pass from Palaeozoic sea floor to Cretaceous grassland to Pleistocene glacial cirques. Few places on earth have such a compressed stratigraphic sequence.
+score: 9.0
 ---
 
 The Hexigten Global Geopark covers roughly 1,750 square kilometres of the Chifeng backcountry and is the centrepiece of what the prefecture markets as its "geological wonder" tourism. The park's attractions range from the Arshihaty Stone Forest to volcanic basalt columns, glacier-carved lakes, and high-altitude meadows that bloom with wildflowers in late June. Dali Lake, a large freshwater body within the geopark, offers boat trips and good birdwatching along the reedy shallows.

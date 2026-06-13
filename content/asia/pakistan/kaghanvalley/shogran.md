@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 34.7086
 longitude: 73.5314
+score: 7.1
 ---
 
 Shogran is a pine-covered plateau at around 2,400 metres, reached by a steep jeep track from Kiwai on the valley floor. The plateau itself is a broad, gently rolling meadow edged with conifers and scattered with tourist bungalows; from the ridge at the northern end, on clear days the views stretch to the snow-covered peaks above Naran and beyond. It's a quieter and prettier base than Naran for anyone not focused on Babusar Pass.

@@ -5,6 +5,7 @@ latitude: 31.0400
 longitude: 31.3570
 snippet: "A Delta covered market with a cosmopolitan past and a very lively present."
 tags: [things_to_do, market]
+score: 6.7
 ---
 
 Al-Khawagat — the name means "the foreigners" in Arabic — takes its name from the Greek, Jewish, and Lebanese merchants who once dominated its stalls. Mansoura, like many Delta cities, had a substantial Levantine trading class in the nineteenth and early twentieth centuries, and this covered market was their commercial heart. By the mid-twentieth century most had emigrated, but the market kept going under Egyptian ownership and has never really slowed down.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 57.6397
 longitude: 18.2925
+score: 8.8
 ---
 
 The county museum of Gotland houses the largest collection of picture stones in the world — the carved limestone slabs that Gotlanders erected from roughly the 5th to the 11th century, depicting Norse mythology, ships, warriors, and abstract patterns. Around 500 of these stones have been found on the island, and the museum holds the finest examples, including the dramatic Stora Hammars stones with their scenes of sacrifice and battle.

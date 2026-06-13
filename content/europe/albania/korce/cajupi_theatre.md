@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - theatre
+score: 5.9
 ---
 
 The city theatre, named for the early 20th-century Albanian poet Andon Zako Çajupi, sits on a small square off the main shopping street. The building is a handsome 1920s neoclassical pile, restored in the 2010s, with a 600-seat hall used for Albanian-language drama and the occasional touring opera or ballet.

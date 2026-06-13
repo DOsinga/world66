@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.0619
 longitude: -123.7933
+score: 6.3
 ---
 
 Benbow State Recreation Area occupies a broad bend in the South Fork of the Eel River beside the historic Benbow Inn. In summer, a temporary dam creates a warm swimming hole used by campers, families, and anyone looking to cool off after a long drive on US-101. The beach here is gravel and sand, with good spots to set up for an afternoon.

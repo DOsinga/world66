@@ -9,6 +9,7 @@ latitude: 37.8724
 longitude: -122.2577
 story: >
   The Campanile houses 61 carillon bells — the largest weighs 10,500 pounds — and runs one of the most active carillon programmes in the world. It also contains fossils from the La Brea Tar Pits on one of its interior floors, placed there more or less because the university had the fossils and the tower had the space.
+score: 8.3
 ---
 
 The 307-foot bell tower at the heart of the UC Berkeley campus is modelled on St Mark's Campanile in Venice, and the family resemblance is obvious enough that Berkeley people have called it the Campanile since it opened in 1915. It is the second-tallest free-standing bell-and-clock tower in the world.

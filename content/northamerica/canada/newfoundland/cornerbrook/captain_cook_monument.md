@@ -7,6 +7,7 @@ tags:
 latitude: 48.9580
 longitude: -57.9560
 story: "Cook charted the coast of Newfoundland with such precision that his charts were still in use 200 years later; he spent several summers here in the 1760s before his famous Pacific voyages."
+score: 7.2
 ---
 
 The Captain Cook Monument stands on Crow Hill, one of the high points above Corner Brook, and marks where Cook set up his surveying stations during several summers in the 1760s. Before he became the celebrated Pacific explorer, Cook spent years meticulously charting Newfoundland's complex coast, and the Bay of Islands required particular attention given its navigational hazards. The monument itself is modest — a simple marker — but the location is excellent.

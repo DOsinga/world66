@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Sawatdee Thai
 type: poi
+score: 5.4
 ---
 
 Well-prepared, reasonably priced Thai food on Osborne Street in the Village. Pleasant, unpretentious atmosphere and friendly service. A reliable neighbourhood standby for pad thai, curries, and larb.

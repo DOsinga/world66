@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 story: "Sculptor Jan Mitchell carved them from old timber pier piles in the 1990s; each character is based on a real Geelong figure — Wathaurong elders, swimmers, life-savers, footballers, a Greek fisherman. A scavenger hunt to find your favourite is the standard way to introduce visiting children to the waterfront."
+score: 7.9
 ---
 
 The defining feature of the Geelong waterfront is the line of 104 painted bollards — old timber pier piles cut and shaped into life-sized figures from the city's history. They start at Limeburners Point and run westward along Eastern Beach, past the Cunningham Pier and the carousel, all the way to the Western Beach Boat Ramp.

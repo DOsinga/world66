@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.1406
 longitude: 44.8183
+score: 8.2
 ---
 
 Scattered throughout the monastery grounds and carved into the cliff faces around it are dozens of khachkars — Armenian cross-stones, a form of religious art unique to Armenia. Each is a flat slab of tuff or basalt bearing an elaborately interlaced cross, surrounded by geometric and floral patterns of extraordinary delicacy. No two are identical; Armenian stonemasons considered each khachkar a unique spiritual statement.

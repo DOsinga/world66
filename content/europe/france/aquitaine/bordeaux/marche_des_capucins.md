@@ -9,6 +9,7 @@ latitude: 44.8347
 longitude: -0.5691
 neighbourhood: Saint-Michel
 snippet: Bordeaux's main covered food market, with oysters, foie gras, and charcuterie from 6am
+score: 8.5
 ---
 
 The Marché des Capucins is the city's principal covered food market, open from six in the morning until around one in the afternoon every day except Monday. It is primarily a wholesale and professional market that is also open to the public, which gives it a more genuine character than many tourist-focused markets. The produce stalls, cheese vendors, butchers, and charcuterie counters are serious operations.

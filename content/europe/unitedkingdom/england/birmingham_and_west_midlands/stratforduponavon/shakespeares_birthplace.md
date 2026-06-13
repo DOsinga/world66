@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Shakespeare%27s_Birthplace
 story: >
   The house on Henley Street was used as a butcher's shop, a pub, and a Victorian tourist attraction before it was purchased by a public subscription campaign in 1847, which beat off a rival American bid to buy and remove the building to the United States. The campaign raised £3,000 in a few months and the property was secured for the nation. This was one of the earliest examples of organised heritage preservation in England, predating the National Trust by nearly fifty years.
+score: 8.2
 ---
 
 Shakespeare's Birthplace is a timber-framed house on Henley Street where the poet was born in April 1564 and grew up before his move to London. The house is now the centrepiece of a visitor operation run by the Shakespeare Birthplace Trust, which administers all five of the main Shakespeare properties in and around the town. It is the most visited building in Stratford, and in summer the queue can be significant; the audio guides and interpretive material are reasonably good.

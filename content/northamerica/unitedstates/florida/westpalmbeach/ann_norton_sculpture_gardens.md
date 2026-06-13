@@ -10,6 +10,7 @@ tags:
 - garden
 title: Ann Norton Sculpture Gardens
 type: poi
+score: 7.8
 ---
 
 The Ann Norton Sculpture Gardens occupy seven acres of dense tropical planting around the Spanish-Revival house where the artist lived from 1948 until her death in 1982. Nine monumental brick sculptures stand in the garden — square shafts and abstract figures up to six metres high — and a small gallery in the studio holds her smaller wood and granite carvings.

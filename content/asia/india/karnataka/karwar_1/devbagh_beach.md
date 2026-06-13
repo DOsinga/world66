@@ -10,6 +10,7 @@ snippet: Scenic spit where the Kali River meets the sea, reachable by boat
 story: Devbagh sits at the very tip of a narrow peninsula where the Kali River, having wound through 160 kilometres of Western Ghats forest, finally meets the Arabian Sea. The contrast between the brown river water and the blue sea is visible from the beach as the two bodies of water swirl against each other in the shallows.
 sources:
   - https://en.wikipedia.org/wiki/Karwar
+score: 8.0
 ---
 
 Devbagh Beach occupies the tip of a narrow, forested spit projecting into the sea where the Kali River meets the Arabian Sea. Getting there requires a short boat ride from the main Karwar waterfront — a 10-minute crossing that is part of the attraction. The beach is quieter than Tagore Beach in town, backed by casuarinas and coconut palms, with views across the river mouth to the Sadashivgad hill.

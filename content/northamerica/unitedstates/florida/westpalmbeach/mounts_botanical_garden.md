@@ -8,6 +8,7 @@ tags:
 - garden
 title: Mounts Botanical Garden
 type: poi
+score: 7.4
 ---
 
 Mounts Botanical Garden is the largest public garden in Palm Beach County, a 20-acre collection of more than 2,000 species of plants laid out in 28 themed gardens. The Tropical Fruit Grove is its most visited section — a heavy-cropping orchard of mangoes, sapodillas, longans, and starfruits — and the Rare Plant House has a small but excellent collection of orchids, bromeliads, and unusual gingers.

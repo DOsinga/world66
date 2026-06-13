@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "In 1570 Georg Khevenhüller defended Hochosterwitz against the Turks by throwing his last ox over the wall — an act of bravado intended to suggest the defenders had food to spare. The ploy worked, the besiegers gave up, and the trick is still celebrated in local folklore."
+score: 9.2
 ---
 
 Twenty kilometres north-east of Klagenfurt, the castle of Hochosterwitz rises in a series of fourteen separate gateways up a steep limestone crag — the kind of dragon-castle you imagine when you imagine castles. It has stood essentially unchanged since the sixteenth century and has never been taken by force.

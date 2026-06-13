@@ -14,6 +14,7 @@ story: >
   his career.
 sources:
   - https://en.wikipedia.org/wiki/Courmayeur
+score: 6.5
 ---
 
 The Museo Alpino Duca degli Abruzzi occupies a building in the centre of Courmayeur dedicated to the history of mountaineering in the Mont Blanc range. The collections include early climbing equipment, photographs, maps, and documents relating to the pioneering ascents of the late eighteenth and nineteenth centuries — the era when Mont Blanc first became a magnet for adventurous Europeans and when Courmayeur began its long career as a mountaineering base.

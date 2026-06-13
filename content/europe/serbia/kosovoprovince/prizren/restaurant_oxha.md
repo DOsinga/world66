@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.2130
 longitude: 20.7400
+score: 6.1
 ---
 
 Oxha (meaning "hearth" in Albanian) is one of Prizren's most reliable restaurants for traditional Albanian cooking. Housed in a renovated Ottoman building near the old bazaar, it serves slow-cooked lamb and veal dishes, excellent tave, and seasonal vegetable preparations that reflect genuine regional cooking rather than tourist versions of it.

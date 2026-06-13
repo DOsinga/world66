@@ -8,6 +8,7 @@ latitude: 28.4680
 longitude: 104.9650
 story: >
   From the cable car at the right angle and the right season, the bamboo canopy looks genuinely oceanic — a continuous undulating surface of green extending to every horizon, broken only by the folds of the underlying hills. This is where the "sea" in the park's name earns its keep.
+score: 6.6
 ---
 
 The park operates two cable car systems, both offering elevated views across the bamboo canopy that cannot be replicated on foot. The main cable car climbs from the lower park entrance to an observation platform above the canopy line, and the view it reveals — uninterrupted bamboo on every hillside, fading into haze toward the surrounding mountains — is the image that defines the place.

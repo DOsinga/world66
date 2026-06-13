@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: 49.0132
 longitude: 8.4002
+score: 6.8
 ---
 
 The Karlsruhe Botanical Garden lies at the northern edge of the Schlosspark, directly behind the palace, and has been on the same site since the 18th century. The collection includes Mediterranean greenhouse plants, a cactus house, a lily pond, and extensive collections of native German flora.

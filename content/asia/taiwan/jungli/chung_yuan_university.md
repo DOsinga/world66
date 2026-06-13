@@ -7,6 +7,7 @@ tags:
 title: Chung Yuan Christian University
 type: poi
 snippet: "Large private university north-east of the centre, with a busy student quarter of cafes and street food"
+score: 5.8
 ---
 
 Chung Yuan Christian University was founded in 1955 by Christian academics and is one of the largest private universities in northern Taiwan, with around 15,000 students. The campus itself is a mix of mid-century concrete and newer glassy buildings on a hillside about 2 km north-east of the centre, and the surrounding streets — particularly Chung Yuan Road — make up the most lively student quarter in the city.

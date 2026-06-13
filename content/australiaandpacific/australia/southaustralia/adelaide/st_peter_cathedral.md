@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Anglican cathedral in North Adelaide, the grandest Victorian Gothic building in the city"
+score: 8.3
 ---
 
 St Peter's Cathedral in North Adelaide is the most ambitious 19th-century church in the state — a Gothic Revival building in local bluestone that was under construction from 1869 to 1904 and still dominates the skyline on the approach from the river. The twin spires are 54 metres tall. Inside, the stained glass windows and the timber reredos are the standouts; the overall effect is seriously cathedral-scaled in a way that Adelaide's compact city otherwise never quite manages.

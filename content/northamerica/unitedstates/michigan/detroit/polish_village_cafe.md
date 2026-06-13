@@ -10,6 +10,7 @@ tags:
 neighbourhood: Hamtramck
 title: Polish Village Cafe
 type: poi
+score: 7.0
 ---
 
 Polish Village Cafe is in a basement under a Polish-language bookstore in Hamtramck, the Polish enclave entirely surrounded by Detroit. The menu is the Polish standard: pierogi, golabki, kielbasa, dill pickle soup, czarnina (duck blood soup) for the adventurous. The room is wood-panelled and tiny and feels unchanged since the 1970s.

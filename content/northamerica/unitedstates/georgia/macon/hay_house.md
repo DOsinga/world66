@@ -17,6 +17,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Johnston%E2%80%93Felton%E2%80%93Hay_House
   - https://www.hayhousemacon.org/
+score: 8.4
 ---
 
 The Hay House is the finest antebellum mansion in Macon and one of the best examples of Italian Renaissance Revival architecture in the American South. Built between 1855 and 1859 by merchant William Butler Johnston, the house has 24 rooms and is extraordinary for the period: it had running water, central heating, a speaking tube communication system, and skylit interior spaces that are still impressively bright today.

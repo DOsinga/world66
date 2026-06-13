@@ -9,6 +9,7 @@ tags:
 latitude: -35.7243
 longitude: 174.3250
 story: Hundertwasser, the Austrian artist who lived for much of his later life in the Bay of Islands, sketched a design for converting the old council building in Whangarei before his death in 2000. It took another 22 years and a divisive local referendum to actually build it — the centre finally opened in 2022, complete with golden domes, tree-covered roof, and the artist's trademark refusal of straight lines.
+score: 8.5
 ---
 
 The Hundertwasser Art Centre opened in 2022, more than two decades after the Austrian artist sketched designs for it during one of his many visits to Northland. The building is unmistakably his: irregular floors, undulating walls, ceramic columns, a forest planted on the roof. It houses the only permanent Hundertwasser collection outside Vienna and the Wairau Maori Art Gallery.

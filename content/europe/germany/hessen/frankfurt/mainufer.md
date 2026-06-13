@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 50.1080
 longitude: 8.6800
+score: 7.5
 ---
 
 The Mainufer — the riverside park on both banks of the Main — is the open-air lung of the city. The north bank, from the Untermainbrücke past the Eiserner Steg to the railway bridge, is a wide promenade lined with plane trees, used by joggers, dog walkers and cyclists at all hours. The south bank, the Schaumainkai of the Museumsufer, is even busier on weekends, with the Saturday flea market (every other week, March to October) drawing thousands.

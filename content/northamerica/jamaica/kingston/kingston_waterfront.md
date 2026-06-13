@@ -8,6 +8,7 @@ latitude: 17.9778
 longitude: -76.7892
 story: >
   Kingston Harbour is one of the largest natural harbours in the Western Hemisphere — seventh largest in the world — a vast, almost completely enclosed body of water created by the Palisadoes spit on the south and the Blue Mountains to the north. It was this harbour that made Kingston the obvious site for the colonial capital after Port Royal collapsed into the sea in 1692.
+score: 6.0
 ---
 
 The Kingston Waterfront along Ocean Boulevard has been significantly redeveloped since the 1990s, and the result is a mixed bag: a promenade with views across the harbour, a new cruise ship terminal, some corporate hotels, and a few restaurants, all set against the backdrop of what is actually one of the finest natural harbours in the Americas.

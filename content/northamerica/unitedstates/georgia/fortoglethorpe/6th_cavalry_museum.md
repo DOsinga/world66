@@ -8,6 +8,7 @@ latitude: 34.9482
 longitude: -85.2463
 sources:
   - https://en.wikipedia.org/wiki/Fort_Oglethorpe,_Georgia
+score: 6.1
 ---
 
 Fort Oglethorpe was a United States Army cavalry post from 1902 to 1946, and the 6th Cavalry Museum on Barnhardt Circle preserves the history of that installation and of the regiment that was based here. The fort trained soldiers during both World Wars; during the Second World War it served as a basic training center and then as a prisoner of war camp for German officers.

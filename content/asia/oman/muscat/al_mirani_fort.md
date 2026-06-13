@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 23.6172
 longitude: 58.5931
+score: 6.4
 ---
 
 Al Mirani Fort stands on the western headland of Old Muscat harbour, facing Al Jalali Fort on the opposite side of the bay. The two Portuguese-built forts guard the entrance to the harbour from commanding positions on rocky outcrops that would have been nearly impossible to assault from the sea. Al Mirani — named from the Portuguese word for lookout — was constructed in the mid-16th century, though elements of an earlier Arab fortification likely preceded it on the same site. Together with Al Jalali, it formed a defensive pincer that controlled access to the anchorage for centuries.

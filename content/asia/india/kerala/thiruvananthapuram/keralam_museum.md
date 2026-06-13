@@ -8,6 +8,7 @@ latitude: 8.5082
 longitude: 76.9538
 sources:
   - https://en.wikipedia.org/wiki/Keralam_-_Museum_of_History_and_Heritage
+score: 7.8
 ---
 
 Keralam is a relatively new museum that opened in the complex near the Napier Museum, focusing on the history and cultural heritage of Kerala from prehistoric times to the modern era. The galleries are well designed and use a mix of artefacts, reconstructions, and multimedia presentations to tell the story of the region's ancient trade links, the spice economy, the various kingdoms that ruled here, and the social reform movements of the 19th and 20th centuries.

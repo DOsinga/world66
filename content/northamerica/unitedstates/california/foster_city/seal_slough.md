@@ -7,6 +7,7 @@ tags:
 - sight
 title: Seal Slough
 type: poi
+score: 7.4
 ---
 
 Seal Slough is a tidal channel at the northern edge of Foster City that supports a permanent colony of harbour seals. At low tide, the seals haul out onto the mudflats in numbers — sometimes dozens at a time — and can be watched from the footpath along the channel edge. This is one of the few places in the Bay Area where wild harbour seals are consistently visible without a boat trip.

@@ -6,6 +6,7 @@ longitude: 13.6017
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The Seebrücke Binz reaches 370 metres out into the Baltic, terminating at a small restaurant and a boat landing that handles excursions along the east coast to Sellin and the Königsstuhl. The current pier was rebuilt in 1994 in the spirit of the original 1902 structure, which a winter storm took down in 1942.

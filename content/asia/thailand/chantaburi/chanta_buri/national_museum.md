@@ -7,6 +7,7 @@ tags:
 snippet: "Provincial history and archaeology in an old colonial-era hospital"
 latitude: 12.6140
 longitude: 102.1140
+score: 7.6
 ---
 
 The provincial museum occupies a two-storey colonial building that once served as Chantaburi's main hospital. Its galleries cover the geology of the gem-bearing region, prehistoric finds from across the province, the local Chong people who were here before the Thai majority, the French occupation between 1893 and 1905, and the role of the city in Thai history.

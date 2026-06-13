@@ -10,6 +10,7 @@ address: Malcapuya Island, Palawan
 latitude: 11.7872
 longitude: 120.0833
 snippet: White-sand crescent beach about two hours south of Coron town
+score: 8.3
 ---
 
 Malcapuya is a small private island about two hours by boat south of Coron town, with what is widely considered the best beach in the Calamian group: a long, gently curving stretch of fine white sand backed by a low ridge of palms and grass. The water is shallow far out from shore and the reef just offshore is decent for snorkelling.

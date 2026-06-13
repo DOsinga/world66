@@ -12,6 +12,7 @@ story: >
   Upper Guinea. It stands as one of the oldest mosques in the country and
   remains the spiritual heart of the Malinke Muslim community, drawing
   worshippers from across eastern Guinea for Friday prayers.
+score: 8.2
 ---
 
 The Grande Mosquée is the most imposing landmark in Kankan and the centre of its Muslim identity. Built in the late 19th century, it follows the West African Sudano-Sahelian style — thick mudbrick walls, flat roof, and protruding wooden beams called torons that serve as permanent scaffolding for maintenance. The minaret is visible from much of the surrounding neighbourhood.

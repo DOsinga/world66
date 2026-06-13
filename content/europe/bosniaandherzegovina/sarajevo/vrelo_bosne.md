@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.2
 ---
 
 Vrelo Bosne is the spring source of the Bosna River, about 12 kilometres southwest of central Sarajevo in a forested park at the foot of Mount Igman. The springs well up from the base of the mountain in pools of extraordinarily clear water — turquoise in certain light, and cold year-round. The surrounding park is full of old plane trees, wooden bridges, and streams running through the grass.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Where the Snake meets the Clearwater — the head of slack-water navigation 465 miles inland from the Pacific.
+score: 6.9
 ---
 
 The Snake and Clearwater rivers meet at the foot of Lewiston Hill, with Clarkston on the Washington bank to the west and Lewiston, Idaho on the east. The confluence is what made this a place at all: it is the furthest inland port that ocean-going barges can reach by river, 465 miles from the mouth of the Columbia at Astoria, and the eastern terminus of one of the longest stretches of slack-water navigation in the world.

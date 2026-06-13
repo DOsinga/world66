@@ -6,6 +6,7 @@ longitude: 31.3620
 snippet: "An evening waterfront walk on the branch of the Nile that ended the Seventh Crusade."
 tags: [things_to_do, sight, nature]
 story: "In 1250, Louis IX of France assembled a massive Crusader fleet and sailed it up the Damietta branch of the Nile toward Cairo. Egyptian forces trapped and destroyed the fleet on this stretch of river, capturing the king himself. The strategic value of this waterway — the artery that could unlock Egypt's interior — shaped medieval geopolitics for a generation."
+score: 6.8
 ---
 
 The Damietta branch of the Nile runs along Mansoura's western edge, and the corniche that follows it is where the city comes to breathe. In the evenings the promenade fills with families, students from the university, and old men playing backgammon on folding tables. Feluccas and small motorboats move slowly on the water. The air smells of the river.

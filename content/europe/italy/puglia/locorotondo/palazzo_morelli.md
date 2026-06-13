@@ -8,6 +8,7 @@ tags:
   - centro_storico
   - sight
   - architecture
+score: 6.1
 ---
 
 Palazzo Morelli is one of Locorotondo’s most elegant noble houses, best known for its decorated portal and wrought-iron balconies. In a town where most beauty is modest and whitewashed, the palazzo adds a touch of aristocratic theatre.

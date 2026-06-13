@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.2275
 longitude: 26.0678
+score: 8.0
 ---
 
 The Chios Mastic Museum, opened in 2014 near the village of Pyrgi, is an architecturally striking underground structure designed by Anamorphosis Architects. It sits mostly below ground to minimise its visual impact on the landscape — the roof is visible as a curved form emerging from the hillside, but the building is essentially invisible from the surrounding mastic groves.

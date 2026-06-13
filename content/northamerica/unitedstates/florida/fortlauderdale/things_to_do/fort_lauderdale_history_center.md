@@ -8,6 +8,7 @@ tags:
 latitude: 26.11916
 longitude: -80.14591
 story: "The History Center complex includes the New River Inn, built in 1905 as the first hotel in the county, which survived every Florida real-estate bubble and bust because no one could agree on what to do with it — a condition that accidentally preserved it."
+score: 7.1
 ---
 
 The Fort Lauderdale History Center is a small museum complex on the north bank of the New River, a short walk from Stranahan House. The main building holds rotating exhibitions on Broward County history, from the Seminole wars and early settlement through the 1920s land boom and the transformation of the beachfront. The collection includes photographs, maps, and artifacts that give context to the older buildings you see on the river.

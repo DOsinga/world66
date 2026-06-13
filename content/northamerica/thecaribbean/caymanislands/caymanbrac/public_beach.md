@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 19.679
 longitude: -79.8867
+score: 6.5
 ---
 
 The Public Beach on the south-west coast is the longest stretch of white sand on Cayman Brac, a quiet curve of beach near the airport with shade trees, picnic shelters and shallow turquoise water. By Caribbean standards it is unfussy — no bars, no jet skis, no chair rental, and most days almost empty.

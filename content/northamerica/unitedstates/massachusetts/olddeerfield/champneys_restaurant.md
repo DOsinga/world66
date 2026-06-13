@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.5475
 longitude: -72.5986
+score: 5.3
 ---
 
 The restaurant at the Deerfield Inn, a few steps from the Historic Deerfield complex, serves New England cooking in a setting that fits the surroundings: white tablecloths, local produce, and a menu that changes with the seasons. Brunch on weekends is the most popular service; the dining room fills with museum visitors and families from the Pioneer Valley.

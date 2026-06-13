@@ -5,6 +5,7 @@ author: "Paul Oliver"
 isbn: "978-0521377515"
 tags:
   - books
+score: 7.3
 ---
 
 Paul Oliver's 1960 study — the first serious academic work on the blues — uses the lyrics of hundreds of recorded songs to reconstruct the social world of the African American South in the first half of the twentieth century. Flood, imprisonment, migration, poverty, work, and desire all appear in close reading of the music. Oliver, a British writer, approached the subject with an outsider's rigor; the book has never been superseded as a foundational text, and it remains unusually readable for a work of musicology.

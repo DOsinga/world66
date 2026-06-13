@@ -8,6 +8,7 @@ latitude: 26.8950
 longitude: 75.8012
 address: Diggi Palace, Shivaji Nagar, Jaipur
 snippet: The world's largest free literary festival, held at Diggi Palace each January
+score: 7.0
 ---
 
 The Jaipur Literature Festival — held at Diggi Palace every January since 2006 — has grown from a small gathering to what its organizers justifiably call the "greatest literary show on Earth." For five days, the pink-plastered courtyards of Diggi Palace host hundreds of writers from across the world: novelists, poets, politicians, historians, scientists, and filmmakers in conversation with each other and with audiences of tens of thousands.

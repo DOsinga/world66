@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - lagos_island
+score: 5.8
 ---
 
 A 15-hectare ceremonial square in the heart of Lagos Island, used for state events, parades, religious gatherings, and the occasional concert. It opened in 1972 over the site of the old colonial Race Course, and was named after Sir Abubakar Tafawa Balewa, Nigeria's first prime minister. The four white horses and seven red eagles over the entrance arch are now the most recognisable piece of nationalist architecture in the city. The square itself is open to the public during the day — quiet and bare unless an event is on — and the surrounding 26 Marina, the former colonial administrative buildings, are worth a slow walk past.

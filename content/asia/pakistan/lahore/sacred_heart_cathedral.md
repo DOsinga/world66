@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.7
 ---
 
 The Sacred Heart Cathedral is the Roman Catholic cathedral of Lahore, a late-19th-century Gothic Revival church just off the Mall. Its grey stone facade and twin towers face onto a small forecourt; the interior has a high-vaulted nave with stained glass and a marble altar.

@@ -13,6 +13,7 @@ story: >
   scheduled passenger service flew a distance of 87 miles and carried one passenger. The
   airline eventually moved its headquarters to Brisbane, then Sydney, but chose to build
   this museum back where it started, because Longreach is where the story begins.
+score: 8.9
 ---
 
 The Qantas Founders Museum at Longreach Airport is one of Australia's best aviation museums, and the only place where you can walk through a retired Boeing 747 and stand in the original Qantas hangar where the airline's early operations were based.

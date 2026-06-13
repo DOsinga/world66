@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 44.7815
 longitude: 128.4502
+score: 7.2
 ---
 
 Beyond the alpine ski runs, Yabuli maintains a cross-country skiing circuit through the forested slopes of the Zhangguangcai Range — a quieter and more meditative alternative to the lifts and crowds of the alpine area. The trail network winds through mature boreal forest, with Korean pine and larch creating a landscape that is genuinely beautiful in heavy snow. The trails are groomed in winter and well-marked.

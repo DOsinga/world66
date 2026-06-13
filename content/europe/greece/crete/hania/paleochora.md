@@ -10,6 +10,7 @@ latitude: 35.2327
 longitude: 23.6822
 sources:
   - https://en.wikipedia.org/wiki/Palaiochora
+score: 7.1
 ---
 
 Paleochora is the main village on Crete's remote southwestern coast — a small, low-key settlement on a narrow peninsula with a sandy beach on one side and a pebbly beach on the other, topped by the ruins of a 13th-century Venetian castle. It takes about 90 minutes to reach by bus or car from Hania, via a spectacular mountain road over the Selino plateau.

@@ -10,6 +10,7 @@ tags:
 - sight
 title: Limestone Bluffs
 type: poi
+score: 7.8
 ---
 
 The limestone bluffs are Cape Croker's signature feature — sheer grey rock faces rising from Georgian Bay, cut by the slow work of glaciers and waves over thousands of years. The Niagara Escarpment runs the length of the Bruce Peninsula and reaches its most dramatic at the cape's tip.

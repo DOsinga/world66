@@ -7,6 +7,7 @@ tags:
 latitude: 21.8865
 longitude: 95.9857
 story: "Sagaing has been a centre of Buddhist learning for so long that it functions almost as a separate monastic republic. The hill and surrounding area is home to hundreds of monasteries and nunneries where an estimated 6,000 monks and 3,000 nuns live and study — one of the highest concentrations of Buddhist religious communities in the world."
+score: 8.6
 ---
 
 Sagaing Hill, across the Irrawaddy River about 21 km southwest of Mandalay, is covered with more than 500 Buddhist temples, pagodas, and monasteries tucked into forested slopes and terraces. It is an extraordinary concentration of religious architecture spread across a hill perhaps 1.5 km wide — approaching from the river, it looks like a single giant complex, with white-and-gold spires emerging from the trees in every direction.

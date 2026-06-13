@@ -8,6 +8,7 @@ latitude: 27.0620
 longitude: 88.4750
 story: >
   Kalimpong's position in the horticultural world is extraordinary: the town and surrounding hills produce about 80 percent of India's commercially grown gladioli. The combination of altitude, rich soil, and moderate rainfall creates conditions that allow plants that struggle elsewhere in India to thrive here. The orchid nurseries in particular stock Himalayan species that you are unlikely to find anywhere else in the country.
+score: 6.6
 ---
 
 Kalimpong has been India's most important hill-station nursery centre for over a century. The town's mild climate and fertile hillside soils suit an enormous range of plants that struggle in the heat of the plains, and the nursery trade developed during the British period when hill-station residents wanted gardens that recalled England. Today the nurseries are an industry, shipping cut flowers and potted plants across India.

@@ -11,6 +11,7 @@ tags:
 - geology
 snippet: The remains of a quarried gypsum hill — a small green park with a wide view
 story: "The Kalkberg was once 80 metres high and crowned with a Welf castle that controlled the medieval city. Centuries of quarrying for gypsum to repair the salt evaporators reduced it to half that height; in 1932 it was declared Germany's first nature reserve to halt further destruction. The cap rock is what is left of a salt diapir — a column of evaporite minerals pushed up from depth — and is the geological reason Lüneburg sits where it does."
+score: 6.8
 ---
 
 A short walk west from the centre brings you to a small wooded hill with a calm panoramic view over the entire old town. The Kalkberg is what is left of a much larger gypsum outcrop — the cap rock of a deep salt dome — that supplied the lime kilns and gypsum quarries that fed the medieval city's building trades for six hundred years. By the 1920s it had been quarried down so far that locals petitioned for its protection.

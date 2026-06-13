@@ -11,6 +11,7 @@ story: >
   The cathedral is famous in architectural circles for what it lacks: the planned saint statues in its facade niches were never installed. One story holds that the stonemason responsible, a local craftsman, decided to carve the spaces into more fanciful decorative forms instead of orthodox religious figures, and was executed for his impiety. The truth is uncertain, but the facade is genuinely distinctive by the standards of Andean Baroque.
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_Basilica_of_St._Charles_Borromeo,_Puno
+score: 7.1
 ---
 
 The Cathedral of Puno dominates the main square (Plaza de Armas) with a facade of grey-white stone that is unusually restrained by the standards of Spanish colonial Baroque. Construction began in 1757 and the church took nearly a century to complete, which explains the mixture of styles visible in its proportions and ornament. The interior is cooler and darker than the exterior suggests, with an elaborate silver altar and carved choir stalls.

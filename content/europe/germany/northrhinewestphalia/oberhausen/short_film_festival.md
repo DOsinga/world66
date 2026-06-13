@@ -13,6 +13,7 @@ story: >
   freedom from the commercial industry. It became the founding document of the
   New German Cinema movement — Fassbinder, Herzog, and Wenders all emerged from
   the artistic environment it helped create.
+score: 8.3
 ---
 
 The International Short Film Festival Oberhausen has been running since 1954, making it one of the oldest film festivals in the world and the most prestigious short film festival in Germany. It takes place each May, screening several hundred films from around the world in competition alongside retrospectives, installations, and industry events.

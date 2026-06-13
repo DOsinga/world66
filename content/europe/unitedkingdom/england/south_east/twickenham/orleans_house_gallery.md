@@ -13,6 +13,7 @@ story: >
   had a significant French exile community. Louis Philippe later returned to
   France, led the 1830 July Revolution, and ruled as the last King of France
   until 1848, when he was forced into exile again — this time permanently.
+score: 7.7
 ---
 
 Orleans House Gallery is one of the better free art galleries in outer London, housed in a remarkable early 18th-century building that includes the Grade I-listed Octagon Room — a spectacular baroque pavilion added around 1720, with plasterwork attributed to Giovanni Bagutti. The gallery holds the Richmond Borough Art Collection, covering the history and art of the Thames Valley from the 17th century to the present.

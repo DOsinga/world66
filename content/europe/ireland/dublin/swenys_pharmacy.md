@@ -14,6 +14,7 @@ tags:
 title: Sweny's Pharmacy
 type: poi
 url: www.sweny.ie
+score: 7.4
 ---
 
 This Victorian pharmacy near Trinity College has barely changed since Leopold Bloom stopped in on 16 June 1904 to buy a bar of lemon soap — a purchase that echoes through *Ulysses*. The shop is now run by volunteers as a Joycean cultural space rather than a working pharmacy. Visitors can buy the famous lemon soap, pick up Joyce's books, and attend regular readings from *Ulysses* held on the premises.

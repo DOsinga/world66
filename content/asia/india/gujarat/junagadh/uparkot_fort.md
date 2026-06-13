@@ -12,6 +12,7 @@ story: >
   the city, and partly to its vast underground water cisterns, which allowed
   defenders to hold out indefinitely. One siege, by the Chudasama kings, is said
   to have lasted twelve years.
+score: 9.0
 ---
 
 Uparkot is a citadel of the first order — a walled plateau rising some 20 metres above the surrounding city on sheer cliff faces, occupied continuously from the Mauryan period (3rd century BC) through the Mughal era. Inside the walls are Buddhist rock-cut caves, step wells of striking engineering, cannons, mosques, and the remains of a palace. The whole enclosure is surprisingly large and takes 2–3 hours to explore properly.

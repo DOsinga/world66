@@ -14,6 +14,7 @@ story: >
   to hold problem animals from elsewhere in Tanzania, including a small population of
   reintroduced impala and zebra. It was upgraded to a full national park in 2013, making
   it the smallest in the country and probably one of the smallest in the world.
+score: 7.0
 ---
 
 Saanane Island is a 0.7-square-kilometre granite knob in Lake Victoria, just off the shore at Capripoint, and a fifteen-minute boat ride from the small National Park jetty in Mwanza. There are no large predators and the entire island can be walked in an hour or two on a loop of well-maintained footpaths, which makes it the rare African national park where you can wander on foot.

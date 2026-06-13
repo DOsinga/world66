@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The grooves cut into the Cardo's stone paving by Roman chariot wheels are still clearly visible. The spacing of the grooves — about 1.4 metres between axle tracks — is the same as the gauge of the modern rail standard, which was partly derived from Roman road engineering. Walking the Cardo, you are following the exact path of carts that travelled it two thousand years ago.
+score: 8.5
 ---
 
 The Cardo Maximus — the main colonnaded street of ancient Gerasa — runs for about 800 metres through the heart of the site from the Oval Plaza in the south to the North Gate. Hundreds of columns line both sides, most still standing to full height, their bases on raised pavement that defined the covered walkway on either side of the main traffic lane.

@@ -10,6 +10,7 @@ tags:
 snippet: "The city's principal Shinto shrine, founded in 1069 and the starting point for the UNESCO-listed Nagahama Hikiyama Festival each April."
 story: >
   The Nagahama Hikiyama Festival began in 1574 when Toyotomi Hideyoshi, celebrating the birth of his first son, donated festival money to the townspeople. The citizens used it to build ornate portable floats (hikiyama) and established the tradition of children performing kabuki theatre on miniature stages mounted on the floats. The twelve hikiyama are among the oldest surviving festival floats in Japan; each year only four are chosen to parade, and the selection is made by lot at the shrine on the first day of the festival.
+score: 7.6
 ---
 
 **Nagahama Hachiman-gu** (長浜八幡宮) is the city's main Shinto shrine, founded in 1069 under the patronage of Emperor Go-Sanjō to protect the region. The vermilion-painted structures are set in a grove of old trees a short walk north of the Kurokabe district, and the atmosphere is calm even when the surrounding streets are busy. Hachiman is the deity of archery and war, and the shrine retains a martial seriousness that distinguishes it from more decorative shrines.

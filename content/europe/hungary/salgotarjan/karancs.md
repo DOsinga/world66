@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 7.2
 ---
 
 At 729 metres, Karancs is the highest peak in the Karancs–Medves region and the local hiking landmark. The summit lookout tower gives a 360-degree view over the Cserhát and Mátra hills, the Slovak Carpathians to the north, and on rare clear days the snow line of the High Tatras a hundred kilometres further north.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.6300
 longitude: 10.9020
+score: 6.4
 ---
 
 The Great Mosque of Moknine is the historic congregational mosque at the heart of the old town, a whitewashed building typical of the Sahel mosque tradition. Dating in its current form from the medieval period, with later restorations, it forms the architectural centre of the medina alongside the covered market.

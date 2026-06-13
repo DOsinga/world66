@@ -13,6 +13,7 @@ story: >
   in Turkey, though Egerszalók's terraces were largely undiscovered until the
   late 20th century. When the Saliris resort was built around the springs in the
   2000s, the terraced formations were already dozens of metres tall.
+score: 8.7
 ---
 
 The salt hill at Egerszalók is one of the most unusual natural formations in Hungary: hot mineral water at 68°C rises to the surface and cascades down a hillside, depositing white calcium carbonate terraces that look like a miniature version of Pamukkale in Turkey. The effect is genuinely striking — a white sculptural landscape rising out of the Hungarian countryside.

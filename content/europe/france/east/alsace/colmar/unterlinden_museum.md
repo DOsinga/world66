@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 story: "The Issenheim Altarpiece was painted by Matthias Grünewald between 1512 and 1516 for the Antonite monastery of Issenheim, whose monks treated patients suffering from ergotism — Saint Anthony's Fire — a horrifying disease caused by infected rye that produced gangrene and hallucinations. The agony of the crucified Christ on the central panel, with its bruised, pitted skin, was meant to console the patients: he too had endured what they were enduring."
+score: 9.1
 ---
 
 The Unterlinden Museum, housed in a 13th-century Dominican convent and a contemporary extension by Herzog & de Meuron, is the single must-see in Colmar. The collection is built around the Issenheim Altarpiece, Matthias Grünewald's blistering early-16th-century masterpiece of crucifixion, resurrection and disease, displayed in the convent's former church.

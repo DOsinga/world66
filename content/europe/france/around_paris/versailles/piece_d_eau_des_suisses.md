@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.7990
 longitude: 2.1190
+score: 6.8
 ---
 
 The Pièce d'Eau des Suisses is a large rectangular lake at the south end of the formal gardens, dug between 1679 and 1682 by the Swiss Guards regiment — hence the name. It covers about 14 hectares and was the largest earthwork project in the creation of the Versailles gardens, requiring the draining of a swamp and the removal of enormous quantities of soil.

@@ -11,6 +11,7 @@ story: >
   are all buried in the Minot Enclosure here. The eldest, Benjamin, died at eleven in a train accident
   in front of his parents only weeks before Pierce's presidential inauguration. Jane wore mourning
   for the rest of her life and rarely appeared in public during her husband's term.
+score: 7.1
 ---
 
 The Old North Cemetery, just north of the State House, is the oldest burying ground in Concord and one of the most evocative quiet spots in the city. It dates to the 1730s, when Concord was the frontier town of Penacook, and contains gravestones carved with the death's-heads and weeping willows that signal each successive phase of New England funerary art.

@@ -11,6 +11,7 @@ story: >
   The name al-Arsah means "the place where caravans rest," and the covered market at this site was a stopping point for traders arriving from the interior as far back as the 16th century. The current structure is a 20th-century reconstruction rather than an original building, but the goods sold here — silver Bedouin jewellery, frankincense, traditional coffeepots, handwoven textiles — are the same kinds of items the caravans would have brought.
 sources:
   - https://en.wikipedia.org/wiki/Al-Arsa_Souq
+score: 7.4
 ---
 
 Souq al-Arsah is claimed to be the oldest covered market in the UAE, a shaded courtyard of small shops selling traditional Emirati crafts, silver jewellery, antiques, and frankincense. The architecture — whitewashed walls, wooden lattice screens, and a palm-wood roof — is the most authentic traditional building in Sharjah, even though it is partly a reconstruction.

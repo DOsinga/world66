@@ -9,6 +9,7 @@ latitude: 37.5500
 longitude: 85.3000
 story: >
   The petroglyphs at Molcha include scenes that could only have been carved by people who hunted wild Bactrian camels, a species now critically endangered and found in the wild only in a few areas of the Gobi and the Taklamakan fringe. The images date back at least 3,000 years, providing evidence that the species was once far more widespread across the desert margins of Central Asia.
+score: 8.1
 ---
 
 The Molcha River petroglyphs, roughly 180 kilometres from Cherchen town, are among the most extensive rock art sites in Xinjiang. A cliff face along the river carries thousands of carvings — hunters with bows, horses, Bactrian camels, ibex, deer, cattle, and abstract patterns — spanning at least two millennia from the Bronze Age through the Iron Age. The site is rarely visited by foreigners, and in good lighting the density of images on the rock face is remarkable.

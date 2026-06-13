@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 32.7279
 longitude: -114.6242
+score: 5.8
 ---
 
 The Garden Cafe sits adjacent to the Colorado River State Historic Park and has been the go-to spot for breakfast and lunch in Yuma for years. The setting is the draw — tables under orange trees in a garden courtyard, shaded and surprisingly lush for a desert city. Snowbirds discovered it long ago, so expect a wait on winter weekend mornings.

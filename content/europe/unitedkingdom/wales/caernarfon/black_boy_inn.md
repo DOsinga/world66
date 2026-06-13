@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - historic
+score: 7.3
 ---
 
 Hidden inside the walls on Northgate Street, the Black Boy Inn claims a continuous history back to 1522, which would make it one of the oldest surviving inns in North Wales. The interior — heavy beams, flagstone floors, open fires, low ceilings — looks the part, with rooms named after sea captains and slate masters and a small cobbled courtyard at the back.

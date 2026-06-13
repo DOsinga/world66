@@ -5,6 +5,7 @@ tags: [things_to_do, day_trips, wine]
 latitude: 48.2500
 longitude: 17.2000
 story: The Small Carpathians wine region produces wine on the slopes immediately north and east of Bratislava — a situation unique among European capitals, where a proper wine country begins within 20 km of the city centre. The region's Welschriesling and Frankovka Modrá were drunk at the court of the Hungarian kings when Bratislava was their capital.
+score: 7.8
 ---
 
 The Small Carpathians wine region begins just north of Bratislava, making it one of the most accessible wine day trips from any European capital. The wine route runs through a series of small towns — Svätý Jur, Pezinok, Modra, Vinosady — each with its own wine producers, cellars open for tasting, and the quiet charm of a small Slovak town in the process of rediscovering its viniculture.

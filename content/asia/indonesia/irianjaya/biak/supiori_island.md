@@ -13,6 +13,7 @@ story: >
   proliferation has created dozens of small regencies with minimal
   infrastructure but formal government status. Supiori today is essentially
   roadless beyond its coastline and is primarily accessed by boat.
+score: 8.5
 ---
 
 The island immediately north of Biak, separated by a narrow strait, Supiori is almost entirely covered by protected rainforest and is home to some of the most pristine marine environment in the Cenderawasih Bay region. Much of the island falls within conservation areas and it sees very few visitors, making it one of the more genuinely remote day-trip destinations accessible from Biak.

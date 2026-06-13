@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - nature
+score: 7.3
 ---
 
 Punta Imperatore marks the westernmost point of Ischia, a dramatic headland where the cliffs overhang the sea and the lighthouse — built in the 19th century — has guided ships past the island for over 150 years. The promontory drops sheer into deep water on three sides, and the sense of exposure is considerable. On days when the Maestrale blows from the northwest, the spray reaches the lighthouse terrace.

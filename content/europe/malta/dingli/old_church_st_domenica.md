@@ -6,6 +6,7 @@ longitude: 14.3839
 tags:
 - sight
 - historic
+score: 6.3
 ---
 
 The Old Church of St Domenica is a tiny medieval chapel on the eastern edge of Dingli village, dating from the mid-fifteenth century. Its single nave, low pitched roof and squat bell-cot are entirely characteristic of pre-Baroque rural Maltese church-building — a kind of structure that survives in only a handful of places on the islands.

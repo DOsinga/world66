@@ -7,6 +7,7 @@ tags:
 - sight
 title: Red Forest
 type: poi
+score: 6.4
 ---
 
 In the four days following the accident, the pine forest immediately downwind of the reactor absorbed an estimated 100 grays of radiation — enough to kill the trees outright. Their needles turned ginger and the wood became the most contaminated stretch of countryside on the planet. The army bulldozed most of it under a layer of sand in 1986; what stands today is a second growth, still hot enough that guides slow vehicles down rather than stop.

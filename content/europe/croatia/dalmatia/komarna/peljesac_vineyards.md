@@ -12,6 +12,7 @@ story: >
   the most prized — its near-vertical terraces, baked by the sun and
   reflected by the sea, were the first Croatian wine region to receive
   protected origin status, in 1961.
+score: 7.7
 ---
 
 The Pelješac peninsula is one of the great red-wine regions of the Mediterranean, the home of Plavac Mali — a thick-skinned grape that produces some of Croatia's most ambitious wines. From Komarna, an hour's drive across the bridge brings you to the central wine villages of Potomje, Trstenik, and Janjina.

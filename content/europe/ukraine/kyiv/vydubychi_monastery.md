@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.4128
 longitude: 30.5740
+score: 8.4
 ---
 
 A small, quiet 11th-century monastery on the Dnieper south of the city centre, founded around 1070 and one of the oldest religious complexes in Kyivan Rus. Unlike the Lavra, it never became a tourist destination, and its grouping of small whitewashed churches has the feel of a working country monastery — even though it is now well inside the city limits.

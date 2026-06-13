@@ -8,6 +8,7 @@ tags:
 latitude: 47.218
 longitude: -122.432
 story: Bob's Java Jive opened in 1927 and has been serving drinks in the same 25-foot concrete coffee-pot-shaped building ever since. The structure was built as a promotional gimmick — a giant coffee pot to attract passing motorists — and converted to a bar and live music venue that has outlasted every trend in Tacoma's hundred-year-old commercial history. It is on the National Register of Historic Places.
+score: 6.8
 ---
 
 Bob's Java Jive is a Tacoma institution shaped like a two-handled coffee pot — a 1920s roadside novelty that has survived for nearly a century by being genuinely good at what it does. The building is concrete, painted to look like its namesake vessel, and sits on South Tacoma Way far enough from downtown to feel like a destination rather than a tourist stop.

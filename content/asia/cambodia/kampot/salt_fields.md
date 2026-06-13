@@ -13,6 +13,7 @@ story: >
   subject to a monopoly tax that was a major source of revenue. During the Khmer Rouge
   period the salt industry was collectivised and then largely abandoned; revival has
   been slow, with cheap imported salt from Vietnam undercutting Cambodian producers.
+score: 7.3
 ---
 
 The salt fields between Kampot and Kep are best seen from the road in the dry season — January to April — when the pans are active and salt is piled in white mounds along the bunds. Workers use wooden rakes to push the salt into pyramids, and the geometric pattern of the flooded pans, reflecting the sky, is excellent for photography in the right light.

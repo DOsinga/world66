@@ -13,6 +13,7 @@ story: >
   into tufa, then erosion carved the fairy chimneys and valleys that draw
   visitors from across the world. Kayseri's symbol created its region's
   greatest attraction.
+score: 7.8
 ---
 
 Mount Erciyes rises to 3,917 metres at the southern edge of Kayseri, a symmetrical volcanic cone that is visible from most of the city and from large parts of central Anatolia on clear days. It is the highest peak in the Taurus Mountains east of the Konya plain, and its permanent snowfields feed springs that have supported settlements in the region since antiquity.

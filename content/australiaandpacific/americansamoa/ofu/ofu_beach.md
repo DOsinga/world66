@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -14.177
 longitude: -169.653
 story: "Local Samoan tradition holds that the forest strip between the coastal road and the beach is inhabited by aitu — supernatural spirits — which keeps most locals away from the shoreline and leaves this extraordinary beach almost entirely empty, even on the best days."
+score: 9.6
 ---
 
 Ofu Beach runs for nearly two miles along the island's southern coast, backed by dense coastal forest and fronted by a fringing reef that begins just a short swim offshore. The sand is fine coral, bright white, and largely untouched. On most visits you can walk the length of it and see no other people.

@@ -7,6 +7,7 @@ tags:
   - fishing
 latitude: 46.0754
 longitude: -113.0893
+score: 6.5
 ---
 
 The Clark Fork River runs through the Deer Lodge Valley and offers good trout fishing accessible right from town. The upper Clark Fork here holds brown and rainbow trout; access points are plentiful and most stretches are fishable without a guide, though local outfitters can arrange guided float trips. The river corridor also makes for pleasant walking — cottonwood galleries along the banks provide shade and good birdwatching in spring and autumn.

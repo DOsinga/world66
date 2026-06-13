@@ -12,6 +12,7 @@ story: >
   Unlike in the novel, no one has been murdered here — at least, not officially.
 sources:
   - https://en.wikipedia.org/wiki/Melk_Abbey
+score: 9.4
 ---
 
 Stift Melk is the reason people come to Melk, and it more than justifies the trip. The Benedictine abbey occupies a rocky outcrop above the Danube, and the view of its golden-yellow Baroque facade rising from the cliff is one of the great sights of the Austrian Danube. The building dates from the early eighteenth century, commissioned by Abbot Berthold Dietmayr and designed by Jakob Prandtauer, though a monastery has stood on this site since the eleventh century.

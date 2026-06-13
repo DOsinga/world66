@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.8140
 longitude: 25.4098
+score: 7.8
 ---
 
 Several of Bojentsi's finest Bulgarian Renaissance houses operate as small museums, and they are worth the modest entrance fee. The interiors are remarkably well-preserved, with original carved wooden ceilings, wooden floors, traditional furniture, and domestic objects of the 18th and 19th centuries. The carving is particularly fine — local craftsmen were famous across the Ottoman Balkans for their woodworking.

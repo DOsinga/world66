@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 52.2870
 longitude: 76.9409
+score: 5.7
 ---
 
 The S. Toraighyrov Pavlodar Regional Universal Scientific Library is one of the city's main cultural institutions. It is named for Sultanmahmut Toraighyrov, the Kazakh poet and writer whose life was closely tied to the region.

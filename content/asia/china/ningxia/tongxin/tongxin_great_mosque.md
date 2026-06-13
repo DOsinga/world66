@@ -9,6 +9,7 @@ latitude: 36.9650
 longitude: 105.9112
 story: >
   During the Cultural Revolution (1966–1976), Red Guards targeted mosques and temples across China for destruction or forced conversion to secular use. The Tongxin Mosque survived because the community told authorities it was a grain storehouse. For a decade it sat locked, its prayer hall empty of worshippers but its structure intact — a deception that preserved one of the finest pieces of Chinese Islamic architecture in the northwest.
+score: 8.4
 ---
 
 The Tongxin Great Mosque — Tongxin Qingzhen Dasi — was built during the early Ming dynasty, probably in the late 14th century, and is widely considered one of the oldest surviving mosques in China. It escaped the fate of most Islamic architecture in the northwest — repeated destruction, damage, or modernisation — through a combination of remoteness and community ingenuity. What survives is an unusually intact example of a fully Chinese architectural vocabulary adapted to Islamic worship.

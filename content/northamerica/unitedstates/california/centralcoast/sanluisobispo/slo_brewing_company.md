@@ -8,6 +8,7 @@ latitude: 35.2793
 longitude: -120.6596
 address: 1119 Garden Street, San Luis Obispo, CA 93401
 url: slobrewing.com
+score: 5.9
 ---
 
 SLO Brewing Company has been producing craft beer in San Luis Obispo since 1988, making it one of California's older surviving craft breweries. The original downtown location on Garden Street is a large, comfortable pub with a stage — they do live music several nights a week, which gives the place a different energy than a standard brewery taproom. The beer list runs to a dozen or so taps of their own production.

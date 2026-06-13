@@ -14,6 +14,7 @@ story: >
   of what it means to live in Korea's industrial capital.
 sources:
   - https://en.wikipedia.org/wiki/Ulsan_Museum
+score: 7.8
 ---
 
 The Ulsan Museum occupies a modern building adjacent to Ulsan Grand Park in Nam-gu, giving visitors a chance to combine cultural and green-space time in a single outing. The permanent collection covers the full sweep of the region's history, from the famous Bangudae Petroglyphs — Bronze Age rock carvings of whales and animals that put Ulsan on the world heritage map — through the Joseon dynasty to the dramatic industrial transformation of the twentieth century.

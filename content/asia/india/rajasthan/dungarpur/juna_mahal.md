@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The walls and ceilings of the Juna Mahal hold one of the largest surviving cycles of Rajput miniature painting in private hands — Krishna legends, royal hunts, Kama Sutra panels, and battle scenes layered on top of each other over four centuries. The Maharawal still keeps the keys; you collect them at the Udai Bilas reception before walking up the hill."
+score: 8.8
 ---
 
 The Juna Mahal, the Old Palace, is the reason most travellers come to Dungarpur. The seven-storey fortress was begun in the 13th century and grew floor by floor as the rulers of Dungarpur added rooms above the original gate. From outside it looks like a plain hill fort. Inside, it is one of the finest painted palaces in Rajasthan — almost every wall and ceiling is covered in miniature murals, mirror work, glass mosaic, and Mewar-school frescoes.

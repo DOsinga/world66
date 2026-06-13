@@ -12,6 +12,7 @@ story: >
   in a single sweep. For mountaineers it is the defining feature of the Hunza landscape. 
   The base camp trek puts you on the glacier at the foot of this face — close enough that 
   the scale becomes almost incomprehensible.
+score: 8.9
 ---
 
 The trek to Rakaposhi Base Camp is one of the most accessible serious mountain walks from Gilgit. The trailhead is at Minapin village, a short drive north of Gilgit on the Karakoram Highway, and the walk to base camp takes two to three days at a comfortable pace. The route climbs through forest and moraines to a high camp on the glacier with direct views of Rakaposhi's south face.

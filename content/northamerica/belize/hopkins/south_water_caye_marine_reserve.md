@@ -8,6 +8,7 @@ tags:
   - diving
 latitude: 16.8000
 longitude: -88.0833
+score: 8.4
 ---
 
 The South Water Caye Marine Reserve covers a large area of the barrier reef about 20 km east of Hopkins — much closer and more accessible than Glover's Reef. The snorkeling is excellent: healthy coral heads, clear water, and an unusually good chance of seeing manatees in the grass beds near the cayes. West Snake Caye and the waters around Blue Ground Range are particularly worth visiting.

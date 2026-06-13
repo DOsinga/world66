@@ -8,6 +8,7 @@ tags:
 - sight
 title: Horn in the West
 type: poi
+score: 6.9
 ---
 
 Horn in the West is a sprawling outdoor drama about the settlement of the Carolina mountains during the American Revolution. Played out in a forest amphitheatre on the southeast edge of Boone, the production has run nightly through the summer since 1952 and is a fixture of the town's cultural calendar.

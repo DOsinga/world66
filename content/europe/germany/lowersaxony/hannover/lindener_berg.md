@@ -8,6 +8,7 @@ tags:
 latitude: 52.3617
 longitude: 9.7167
 snippet: Small hill in the Linden district with city views and an old water tower
+score: 7.0
 ---
 
 A 90-metre hill rising out of the otherwise-flat Linden district, crowned with a brick-built water reservoir from 1879 (the Wasserhochbehälter) and an open park. The view east takes in the whole sweep of the city centre — the Town Hall dome, the Maschsee and the spires of the Marktkirche.

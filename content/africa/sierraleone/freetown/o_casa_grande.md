@@ -10,6 +10,7 @@ tags:
 neighbourhood: Aberdeen
 latitude: 8.4860
 longitude: -13.2792
+score: 5.5
 ---
 
 O Casa Grande sits on the lagoon side of Aberdeen and is one of the better Italian-Portuguese restaurants in Freetown. The wood-fired pizza oven, the seafood pasta, and the bacalao are all dependable. The terrace catches the breeze off the creek.

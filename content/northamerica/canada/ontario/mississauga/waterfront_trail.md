@@ -8,6 +8,7 @@ tags:
 neighbourhood: Port Credit
 latitude: 43.5499
 longitude: -79.5862
+score: 7.8
 ---
 
 The Waterfront Trail runs the full 22 km of Mississauga's Lake Ontario shoreline from the Toronto boundary at Long Branch to the Oakville boundary west of Clarkson. Most of it is paved and traffic-free, weaving past the harbours at Port Credit and Lakeview Park, the Adamson Estate, and Jack Darling Memorial Park.

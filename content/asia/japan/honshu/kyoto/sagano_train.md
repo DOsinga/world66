@@ -8,6 +8,7 @@ tags:
 - sight
 title: Sagano Scenic Railway
 type: poi
+score: 6.5
 ---
 
 The Sagano Scenic Railway runs a small vintage diesel train along a seven-kilometre stretch of disused JR track between Arashiyama (Torokko Saga) and Kameoka in the hills west of Kyoto. The route follows the Hozu River through a steep wooded gorge that is otherwise unreachable by road, with a series of bridges, short tunnels, and slow stretches where the train comes nearly to a halt above the rapids below.

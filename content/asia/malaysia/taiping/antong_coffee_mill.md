@@ -13,6 +13,7 @@ story: >
   drums are still in use, and the mill still roasts and packages coffee by hand using
   methods unchanged from the 1930s. Watching the roasting process is free — the owners
   welcome curious visitors.
+score: 7.7
 ---
 
 The Antong Coffee Mill operates from a pre-war shophouse in the old town and has been roasting coffee since 1933 using the same wood-fired drum roasters. This is not a heritage theme park — it is a working mill that still produces and sells coffee by the bag. The roasting process happens daily, and the smell of freshly roasted beans permeates the surrounding street.

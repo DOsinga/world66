@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - kremlin_district
+score: 7.5
 ---
 
 The Museum of Tatarstan Statehood History sits inside the Kazan Kremlin in the restored old Cadet Corps building. It covers the Volga Bulgar state, the Khanate of Kazan, Russian rule, and modern Tatar autonomy with a useful linear chronology that fills in the gaps left by the more general National Museum.

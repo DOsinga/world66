@@ -12,6 +12,7 @@ story: >
   Suspended in mid-flight on its dramatic stand, the boat is the reason the
   city of Fremantle was rebuilt for the 1987 defence and the reason most of
   what visitors love about the place today exists.
+score: 8.9
 ---
 
 The Western Australian Maritime Museum, in a striking sail-shaped building on Victoria Quay, covers the state's relationship with the sea — from the Dutch east-India shipwrecks of the seventeenth century, through the convict transports of the nineteenth, to modern shipbuilding, yacht racing, and fishing fleets. The collection is unusually rich for a regional museum.

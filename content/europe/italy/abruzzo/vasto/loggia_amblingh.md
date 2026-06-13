@@ -6,6 +6,7 @@ longitude: 14.7115
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The Loggia Amblingh is the long arcaded terrace that runs along the seaward edge of the centro storico — built in the 16th century as a covered walk for the noble families of Vasto, and still the prime spot for an evening passeggiata.

@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: BBB
 type: poi
+score: 4.9
 ---
 
 BBB (Burma Bite Bistro) became a fixture on the backpacker trail for its Western-friendly menu in a country where European food was hard to find. Located near the palace moat in central Mandalay, it serves steaks, pasta, and coconut fish alongside Burmese dishes. The steak with mushrooms — the "N-steak" as it appeared on the original handwritten menu — acquired something of a cult following among travellers arriving overland.

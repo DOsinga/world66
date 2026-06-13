@@ -9,6 +9,7 @@ tags:
 latitude: 43.0747
 longitude: 12.6056
 story: "The Basilica was begun in 1228, two years after Francis's death and the very year of his canonisation, on a hill the saint had asked to be buried on — at the time the 'Hill of Hell' where executions took place. Within decades it had become one of the great pilgrimage sites of Europe."
+score: 9.9
 ---
 
 The Basilica is the great religious-art monument of Umbria, two churches stacked on a single hillside above the town. The Lower Church, dim and low-vaulted, holds frescoes by Cimabue, Pietro Lorenzetti, and Simone Martini — the Martini cycle of St. Martin in the south transept chapel is one of the finest fresco cycles in Italy. Below it, in the crypt, is the tomb of St. Francis himself, the focus of a quiet, constant pilgrim traffic.

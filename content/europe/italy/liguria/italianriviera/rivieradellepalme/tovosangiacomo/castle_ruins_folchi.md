@@ -8,6 +8,7 @@ latitude: 44.183
 longitude: 8.273
 story: >
   The Del Carretto marquises, who controlled this stretch of the Riviera delle Palme from the 13th century, built this fortress to command the Maremola valley. When Spain absorbed the marquisate in 1598, the castle's strategic importance faded. Today its ruined walls are shared with lizards and the view.
+score: 6.5
 ---
 
 The ruins of a medieval feudal castle occupy the hill of Folchi above Tovo San Giacomo, offering a fine vantage point over the Maremola valley and down toward the Ligurian coast. The walls and towers are in various states of collapse but the setting is atmospheric, especially in the slanted light of late afternoon.

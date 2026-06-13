@@ -9,6 +9,7 @@ longitude: -79.565
 snippet: 1962 bridge spanning the Pacific entrance to the Panama Canal
 sources:
   - https://en.wikipedia.org/wiki/Bridge_of_the_Americas
+score: 6.7
 ---
 
 The Bridge of the Americas — originally called the Thatcher Ferry Bridge — was completed in 1962 and was for decades the only fixed link across the Panama Canal. It carries the Pan-American Highway over the Canal's Pacific entrance and has a certain elegance as a piece of mid-century engineering: a steel arch bridge with a main span of 344 metres, rising high enough to let the largest ships of the era pass beneath.

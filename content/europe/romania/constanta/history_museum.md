@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - museum
 story: The museum's most celebrated object is the **Glykon serpent**, a coiled marble statue of a syncretic Greek-Roman snake god with a human face, dredged from the seabed in 1962. Lucian of Samosata wrote a satirical biography of the cult in the 2nd century; the Constanța Glykon is the most complete surviving cult statue and one of the strangest objects in any Romanian museum.
+score: 8.8
 ---
 
 The **Muzeul de Istorie Națională și Arheologie** sits on Piața Ovidiu in the old town, occupying the former city hall — a Greek-revival building with a long front portico. It holds the country's most important collection of antiquities from the Greek, Hellenistic and Roman periods on the Black Sea coast, drawn from the long history of **Tomis** and the surrounding sites of Dobruja.

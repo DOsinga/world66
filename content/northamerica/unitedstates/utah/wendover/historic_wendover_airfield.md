@@ -9,6 +9,7 @@ tags:
 title: Historic Wendover Airfield Museum
 type: poi
 story: "The 509th Composite Group trained here in total secrecy from 1944 to 1945 before dropping the atomic bombs on Hiroshima and Nagasaki. The remote desert location was chosen precisely because it was so isolated — there were no civilians nearby to notice the unusual aircraft manoeuvres. The hangar where the Enola Gay crew trained is still standing and is the centrepiece of the museum."
+score: 8.4
 ---
 
 The Historic Wendover Airfield is the most completely preserved WWII Army Air Force base remaining in the United States. The base operated from 1940 to 1969, and its remoteness — 120 miles from Salt Lake City in the middle of the salt desert — made it ideal for training programmes that required secrecy. The most significant of these was the 509th Composite Group, the unit that carried out the atomic bomb missions over Japan in August 1945.

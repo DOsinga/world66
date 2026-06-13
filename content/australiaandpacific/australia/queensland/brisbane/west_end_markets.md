@@ -9,6 +9,7 @@ tags:
 latitude: -27.4838
 longitude: 153.0004
 snippet: "Saturday morning farmers market with food stalls beside the river"
+score: 7.7
 ---
 
 The West End Markets at Davies Park run every Saturday morning from around 6am to noon and are the most authentic market experience in Brisbane. The focus is on fresh produce — seasonal fruit and vegetables from Queensland growers, eggs, bread, coffee — alongside a ring of food stalls selling everything from shakshuka to Japanese breakfast. It is the kind of market where locals actually shop, not just browse.

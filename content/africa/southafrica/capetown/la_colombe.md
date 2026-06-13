@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: La Colombe
 type: poi
+score: 7.6
 ---
 
 La Colombe sits in the Cape Dutch homestead of Silverhurst Estate in Constantia, one of Cape Town's oldest wine-producing valleys. The cooking is French in its underlying structure — careful stocks, precise sauces, balanced compositions — but uses South African ingredients throughout, from Karoo lamb to the Constantia valley wines on the list. The setting, with the estate's gardens outside the windows, makes for a more relaxed version of fine dining than the city's converted-warehouse options.

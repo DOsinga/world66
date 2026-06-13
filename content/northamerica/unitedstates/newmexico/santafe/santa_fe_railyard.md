@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 35.6794
 longitude: -105.9469
+score: 8.0
 ---
 
 A 50-acre former rail yard ten minutes' walk south of the Plaza, redeveloped in the 2000s into a mix of galleries, restaurants, parks, and the still-active Santa Fe train depot. The architecture is post-industrial — corrugated metal, brick, exposed steel — and a deliberate counterpoint to the adobe everywhere else.

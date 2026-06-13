@@ -7,6 +7,7 @@ tags:
 - market
 title: Fish Market (Lonja de Pescado)
 type: poi
+score: 7.1
 ---
 
 The Lonja de Pescado at Vinaròs port is where the fleet's catch is auctioned each afternoon, Monday to Friday. The auction itself is not open to casual visitors but the activity around the port in the late afternoon — fishing boats returning, crates of fish and shellfish being unloaded, buyers and vendors congregating — is worth watching.

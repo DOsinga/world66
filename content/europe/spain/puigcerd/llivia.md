@@ -12,6 +12,7 @@ story: The 1659 Treaty of the Pyrenees gave France all the "villages" of the Cer
   ceded by Spain. Llívia, with its medieval town charter, was technically a town,
   not a village. The negotiators noticed. Spain kept it, and four hundred years later
   it is still surrounded by France.
+score: 8.1
 ---
 
 Llívia is a Spanish enclave inside French territory — about three kilometres from Puigcerdà and reached by a short corridor road that crosses no border. Its anomalous status dates to the 1659 Treaty of the Pyrenees, which redrew the frontier across the Cerdanya valley but exempted Llívia because of its formal status as a town.

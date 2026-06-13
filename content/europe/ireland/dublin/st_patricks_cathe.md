@@ -18,6 +18,7 @@ story: >
   epitaph, which he wrote himself in Latin, is translated by W.B. Yeats as: "Swift
   has sailed into his rest; Savage indignation there cannot lacerate his breast."
   Both Swift and his companion Esther Johnson (Stella) are buried beneath the nave.
+score: 8.2
 ---
 
 St Patrick's Cathedral is the national cathedral of the Church of Ireland and the largest church in Ireland. It stands on one of the oldest Christian sites in Dublin — a well at which St Patrick is said to have baptised converts around 450 AD. The present building dates from 1191, rebuilt and extended in the 13th century, and substantially restored in the 1860s with funds from the Guinness family.

@@ -8,6 +8,7 @@ tags:
   - museum
 title: Lyn and Exmoor Museum
 type: poi
+score: 6.5
 ---
 
 A small local museum in Lynton, housed in a cottage near the town hall, covering the history of the twin villages and the wider Exmoor area. The collection includes photographs and documents from before and after the 1952 flood, exhibits on the Victorian tourism that shaped the town, local geology, and the traditional industries of the moor — farming, charcoal burning, and fishing.

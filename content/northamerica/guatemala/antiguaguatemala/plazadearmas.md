@@ -9,6 +9,7 @@ tags:
 - sights
 title: Plaza de Armas
 type: poi
+score: 7.9
 ---
 
 The heart of Antigua, and one of the finest colonial squares in Central America. At its centre stands the Fuente de las Sirenas (Fountain of the Sirens), designed in 1739 by Miguel Porras — the sinuous mermaid figures have become a symbol of the city. The fountain wasn't purely ornamental: it served as a water source for households without private supply well into the 20th century.

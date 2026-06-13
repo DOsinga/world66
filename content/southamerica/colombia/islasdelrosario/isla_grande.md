@@ -8,6 +8,7 @@ latitude: 10.1900
 longitude: -75.7500
 story: >
   Isla Grande was the site of Pablo Escobar's private island compound in the 1980s. The structures were long abandoned after his death in 1993 and largely reclaimed by vegetation. What was once a monument to narco excess is now just another patch of tropical jungle — which, in its own way, is a more interesting story.
+score: 7.6
 ---
 
 The largest island in the archipelago and the most visited by those who want to stay overnight rather than just do a day trip. Isla Grande has a few small guesthouses and ecolodges set among the palms and mangroves, and its beaches are quieter than those close to the main tour boat landing points.

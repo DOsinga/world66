@@ -13,6 +13,7 @@ story: >
   pushes ice downslope faster than it melts. But the glacier has retreated dramatically:
   photographs from the 1990s show the ice tongue reaching to where visitors now walk through
   barren moraine.
+score: 8.3
 ---
 
 Mingyong Glacier descends from the flanks of Kawa Karpo into a valley about 26 kilometres from Feilai Temple, making it one of the most accessible glaciers in China. At 11 kilometres long and averaging 500 metres wide, it is also one of the largest on the eastern edge of the Himalayas. Reaching the glacier involves a drive to the trailhead near Mingyong village followed by a walk of two to three hours across old moraine and through forest to the current ice face.

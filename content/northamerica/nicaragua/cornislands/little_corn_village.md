@@ -7,6 +7,7 @@ tags:
 snippet: "The single settlement on Little Corn, where the panga from Big Corn arrives"
 latitude: 12.2828
 longitude: -82.9719
+score: 7.6
 ---
 
 Little Corn has one village, on the western side of the island where the panga from Big Corn comes in. It is a string of wooden houses, dive shops, small restaurants and a few simple guesthouses along a concrete path that runs back from the dock. There are no cars; everything moves on foot or in wheelbarrows.

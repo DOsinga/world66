@@ -7,6 +7,7 @@ tags:
 latitude: 36.0195
 longitude: -95.9571
 snippet: "Casual waterfront dining along the Arkansas River, anchored by the Riverwalk Crossing development"
+score: 4.9
 ---
 
 The cluster of restaurants at Riverwalk Crossing handles the bulk of dining in Jenks. The format is overwhelmingly casual — burgers, tacos, wood-fired pizza, American bar food — and the main selling point is outdoor seating with a view of the Arkansas River rather than any particular kitchen. The crowd is mostly aquarium visitors during the day and Tulsa day-trippers in the evenings.

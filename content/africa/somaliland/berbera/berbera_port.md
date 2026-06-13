@@ -8,6 +8,7 @@ latitude: 10.4456
 longitude: 45.0218
 story: >
   Berbera's deep-water port became strategically crucial to Ethiopia after Eritrean independence in 1993 stripped landlocked Ethiopia of its Red Sea coastline. Ethiopia began routing a significant portion of its trade through Berbera, transforming the port from a ruin into one of the most important trade gateways in the Horn of Africa. In 2016, DP World of Dubai signed a 30-year concession to operate and expand the port — a deal that drew considerable geopolitical attention.
+score: 7.2
 ---
 
 Berbera's port is the economic heart of Somaliland and one of the deepest natural harbours on the Gulf of Aden. The quays can accommodate large container ships, and the cranes, warehouses, and vehicle storage areas give the waterfront a purposeful, industrial energy very different from the sleepy town behind it.

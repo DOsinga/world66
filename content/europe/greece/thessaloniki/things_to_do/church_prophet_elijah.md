@@ -8,6 +8,7 @@ tags:
 latitude: 40.6408
 longitude: 22.9483
 snippet: 14th-century Byzantine church in Ano Poli with original frescoes
+score: 7.6
 ---
 
 The Church of Prophet Elijah in Ano Poli is one of the finest late Byzantine churches in Thessaloniki, built in the early 14th century and retaining original frescoes in surprisingly good condition. The building uses the cross-in-square plan typical of the Palaeologan period, with four columns supporting the central dome and elaborate brickwork decoration on the exterior.

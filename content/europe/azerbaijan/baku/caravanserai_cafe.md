@@ -8,6 +8,7 @@ tags:
   - cafe
   - icherisheher
 neighbourhood: Icherisheher
+score: 6.9
 ---
 
 The fifteenth-century Multani caravanserai inside the Old City has been turned into a courtyard restaurant and cafe — high arched brickwork, low tables, slow service, and a remarkable atmosphere after dark when the lanterns come on. For an afternoon pot of tea with the city's signature pastries (badambura with almonds, shakerbura with walnuts), there is nowhere better.

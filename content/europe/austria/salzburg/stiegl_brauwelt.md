@@ -6,6 +6,7 @@ longitude: 13.0181
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 The Stiegl brewery at the western edge of the city has been making beer here since 1492 and now operates a large visitor centre — a working museum that walks you through the entire process, ending with three free tastings in the brewery taphouse.

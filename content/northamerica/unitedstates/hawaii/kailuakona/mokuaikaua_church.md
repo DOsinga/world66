@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The first Christian missionaries arrived in Kona aboard the brig Thaddeus in 1820. The original thatched church on this site was destroyed by fire in 1835. The present 1837 building was constructed by Hawaiian workers using lava-rock blocks and lime mortar made from burned and ground coral; the timbers were ohia logs from the slopes of Mauna Loa, shaped by hand."
+score: 7.3
 ---
 
 Mokuaikaua Church is the oldest Christian church in the Hawaiian Islands, completed in 1837 by Hawaiian Christians under the direction of the missionaries from the Thaddeus mission. The dark lava-rock walls are nearly four feet thick and the bell tower is the tallest structure on Alii Drive, visible from across Kailua Bay.

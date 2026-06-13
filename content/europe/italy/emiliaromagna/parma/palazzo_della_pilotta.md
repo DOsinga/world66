@@ -9,6 +9,7 @@ tags:
   - museum
   - architecture
 story: "The palace's name comes from 'pelota,' a Basque ball game the Spanish garrison played in its courtyards in the 17th century. Bombing in 1944 destroyed much of the building, and the postwar restoration left whole stretches of brick exposed — a deliberate decision to record rather than disguise the damage."
+score: 8.8
 ---
 
 The vast brick bulk of the Palazzo della Pilotta dominates the western edge of Parma's old town. Begun under the Farnese in the late 16th century and never fully finished, it was severely damaged in 1944 and restored with much of its scarring left visible. Inside, it now houses three of the city's most important institutions: the Galleria Nazionale, the Biblioteca Palatina, and the Teatro Farnese.

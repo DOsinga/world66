@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - hike
+score: 7.0
 ---
 
 Mount Herman is the closest summit to Monument and the obvious half-day outing for anyone wanting to climb something. The trailhead is reached by Mount Herman Road, a Forest Service road that branches off Highway 105 north of Palmer Lake. The road is rough — high clearance is helpful and four-wheel drive is not a bad idea in shoulder seasons.

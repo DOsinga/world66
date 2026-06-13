@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - downtown
   - sight
+score: 8.1
 ---
 
 Memphis in May is the city's major annual festival season — a month of events in May that includes some of the best-attended music and food events in the South. The Beale Street Music Festival, held on a weekend in early May at Tom Lee Park on the riverfront, draws major headlining acts across multiple stages, with a lineup that typically mixes blues, soul, country, rock, and hip-hop. It is one of the more musically diverse festivals in the region and draws crowds from across the country.

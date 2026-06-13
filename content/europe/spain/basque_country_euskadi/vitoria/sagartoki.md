@@ -8,6 +8,7 @@ tags:
   - restaurant
   - ensanche
 neighbourhood: Ensanche
+score: 7.6
 ---
 
 The pintxo bar that put Vitoria on the gastronomic map. Senén González and his team have won multiple national pintxo championships for inventions like the huevo frito (a perfect "fried egg" made with potato confit and yolk reconstructed in a moulded form). The bar groans with thirty or more dishes; the back-room restaurant serves a longer tasting menu of the same ideas.

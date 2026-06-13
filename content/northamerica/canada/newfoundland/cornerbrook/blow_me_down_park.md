@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.9700
 longitude: -58.0200
+score: 7.7
 ---
 
 Blow-Me-Down Provincial Park occupies a rugged headland west of Corner Brook, where cliffs drop toward the Bay of Islands and the wind, as the name suggests, is a genuine consideration. The park has hiking trails ranging from easy coastal walks to more demanding routes up the headland, and the views across the bay to the islands and the Long Range Mountains beyond are some of the finest in western Newfoundland. The name is one of the great Newfoundland place names — a tradition of direct, descriptive naming that the island does better than anywhere.

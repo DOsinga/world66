@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Long terrace above the salt flat below the town, the classic Timimoun view"
+score: 7.6
 ---
 
 The town sits on a low escarpment looking out across an immense sebkha — a flat, white-crusted salt depression that, in the rare years it rains heavily, briefly fills with shallow water and reflects the sky. Beyond the sebkha the dunes of the Grand Erg Occidental rise on the horizon. The view from the terrace below the old town, particularly at sunrise and sunset when the rust-red walls catch the light against the pale flats, is the postcard image of Timimoun and worth lingering over.

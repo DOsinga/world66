@@ -6,6 +6,7 @@ longitude: -86.9505
 tags:
   - things_to_do
   - museum
+score: 6.6
 ---
 
 The island museum occupies a former hotel on the Malecón and offers a useful primer on the natural and cultural history of Cozumel. Four small galleries cover geology and reef ecology, the Maya period, the colonial era, and the modern fishing village.

@@ -12,6 +12,7 @@ tags:
   - sight
 title: Leighlinbridge Castle
 type: poi
+score: 7.0
 ---
 
 Leighlinbridge Castle — known locally as Black Castle — stands on a grassy bank above the River Barrow, just downstream of the village's medieval stone bridge. What survives is essentially the lower half of a square Norman keep: a stub of masonry maybe ten metres high, with the remains of vaulting visible inside and the corner of an outer wall traceable in the grass.

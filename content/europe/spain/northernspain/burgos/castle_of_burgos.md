@@ -11,6 +11,7 @@ story: >
   When the French retreated the following year, they blew up the castle's
   magazine, destroying most of what remained of the medieval structure. The
   explosion was heard thirty kilometres away.
+score: 6.8
 ---
 
 The castle hill dominates Burgos from above the old town, and the views from the top justify the twenty-minute climb. The castle itself was one of the great fortresses of medieval Castile but was almost entirely destroyed in 1813 when the retreating French blew up the powder magazine. The ruins that remain give little sense of the original scale, but the excavated underground cisterns and tunnels are interesting.

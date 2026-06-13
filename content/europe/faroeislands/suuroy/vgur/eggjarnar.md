@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: A clifftop viewpoint south of Vágur with a dramatic drop straight into the Atlantic
 story: "During the Second World War, the British built a radar station at Eggjarnar to track German shipping in the North Atlantic; the concrete bunkers are still there at the top of the cliff. Local children used to dare each other to crawl out to the very edge and look straight down into the surf five hundred feet below."
+score: 8.1
 ---
 
 Eggjarnar -- often called Skúvanes after the local name for the great skuas that nest here -- is the cliff edge south of Vágur. The land tilts gently up from the village to a flat clifftop, then ends abruptly in a near-vertical drop of about 140 metres straight into the sea. There is no fence and no warning sign; walk carefully.

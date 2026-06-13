@@ -14,6 +14,7 @@ tags:
 - sight
 title: Groot Constantia
 type: poi
+score: 8.7
 ---
 
 The oldest wine estate in South Africa, Groot Constantia dates back to 1685 when Governor Simon van der Stel was granted the land. The Manor House is furnished with Cape Dutch furniture from the mid-1700s alongside Chinese, Japanese, Rhenish, and Delft porcelain, offering a vivid picture of colonial farm life.

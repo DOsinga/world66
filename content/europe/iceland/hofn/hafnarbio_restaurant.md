@@ -8,6 +8,7 @@ tags:
 - restaurant
 - seafood
 snippet: Casual and slightly cheaper langoustine restaurant — a solid second option in Höfn
+score: 6.9
 ---
 
 Humarhöfnin ("The Lobster Harbour") offers a more relaxed atmosphere than Pakkhús with largely the same raw material — the langoustine come from the same waters. The dining room is less formal and the prices are marginally lower, which makes it a good option when Pakkhús is fully booked or when you want something less event-like. The langoustine soup is an excellent starter: rich, sweet, and warming after a day on a glacier.

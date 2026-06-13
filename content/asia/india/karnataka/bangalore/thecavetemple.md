@@ -6,6 +6,7 @@ tags:
 - sight
 title: Sri Gavi Gangadhareshwara Temple
 type: poi
+score: 8.2
 ---
 
 Sri Gavi Gangadhareshwara Temple — also called the Cave Temple — is one of Bangalore's most unusual religious sites, a Shiva temple built inside a natural cave on a rocky hillock. The temple was consecrated by Kempe Gowda in the 16th century, though the cave itself is far older. Four monolithic stone pillars stand at the entrance, and inside, the darkness of the cave gives the space a particular sanctity. A rare idol of Agni, the Hindu god of fire, is among the sculptures within.

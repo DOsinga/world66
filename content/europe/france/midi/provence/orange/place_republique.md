@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The main old-town square, ringed by cafés and plane trees
+score: 6.3
 ---
 
 The Place de la République is the principal café square of old Orange, a short walk from the cathedral and a couple of blocks from the theatre. Ringed by tall plane trees and a row of cafés with terraces facing each other across the cobbles, it fills up around midday in summer and stays busy into the evening.

@@ -16,6 +16,7 @@ tags:
 - outdoor
 title: Cape Point and Cape of Good Hope
 type: poi
+score: 9.4
 ---
 
 Cape Point and the adjoining Cape of Good Hope are the dramatic, weather-beaten tip of the Cape Peninsula, an hour and a half south of central Cape Town. The reserve covers about 7,750 hectares of fynbos, dunes, beaches and rocky coast, and is home to baboons, eland, ostrich and the endemic bontebok.

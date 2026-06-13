@@ -13,6 +13,7 @@ story: >
   but no one is quite sure when or how the measurement was first made.
   One thousand Eimer (buckets) would be about 56,000 litres — roughly
   what 7 hectares of vineyard might produce in an excellent vintage.
+score: 8.2
 ---
 
 Spitz an der Donau is a wine village in the middle of the Wachau, slightly larger and more lived-in than Dürnstein, with a market square, several wine Heurigen, and a good Gothic parish church with a notable altar. The village sits below the Tausendeimerberg vineyard, one of the most celebrated in the Wachau, whose Rieslings and Grüner Veltliners appear at the top of Austrian wine lists.

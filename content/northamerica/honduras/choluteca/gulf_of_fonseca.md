@@ -8,6 +8,7 @@ latitude: 13.1100
 longitude: -87.3800
 story: >
   The Gulf of Fonseca is one of the few places in the world where three countries share a single bay — Honduras, El Salvador, and Nicaragua all have coastline here. This was a source of diplomatic tension for decades; the International Court of Justice made a ruling on territorial waters in 1992 that brought some resolution, though the fishing communities on all three shores had always shared the water more peacefully than their governments.
+score: 8.0
 ---
 
 The Gulf of Fonseca is a large Pacific bay shared between Honduras, El Salvador, and Nicaragua, accessible from Choluteca by road to the small port of Coyolito or the beach of Cedeño. The gulf is dotted with volcanic islands, the most accessible of which is Isla del Tigre, with the colonial town of Amapala and beaches that see almost no tourists.

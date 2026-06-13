@@ -16,6 +16,7 @@ story: >
   as part of the population exchange, and the mosque became a museum. Now it sits in the central 
   market area used as an exhibition space — the descendants of those crypto-Jews still live in 
   Turkey, largely unaware of their origins.
+score: 7.1
 ---
 
 Yeni Camii, built in 1902 by the Italian architect Vitaliano Poselli, is architecturally unlike any other mosque in Greece. Its eclectic facade mixes Islamic and European elements — a wide porch with arched windows, a tile-covered dome, and stone facades that borrow from both Ottoman and Art Nouveau design — reflecting the unique status of the community it was built for.

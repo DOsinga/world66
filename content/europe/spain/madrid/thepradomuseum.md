@@ -9,6 +9,7 @@ tags:
 - museum
 title: The Prado Museum
 type: poi
+score: 9.8
 ---
 
 One of the world's great art museums and the crown jewel of Madrid's cultural scene. The Prado holds an extraordinary collection of European painting from the 12th to the 19th century, with particular depth in Spanish masters. The Velazquez rooms alone justify a visit -- Las Meninas is here -- and the Goya collection, from early tapestry cartoons to the devastating Black Paintings, is the largest anywhere.

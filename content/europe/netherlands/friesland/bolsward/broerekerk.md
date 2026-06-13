@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 8.1
 ---
 
 The Broerekerk was a Franciscan friary church founded in the 13th century. After the Reformation it served as a Protestant church and a storehouse, and in 1980 it was gutted by fire. Rather than demolish or rebuild conventionally, the ruin was stabilised and a modern glass roof installed over the surviving brick walls in 2006.

@@ -6,6 +6,7 @@ latitude: -0.1187
 longitude: 34.7447
 story: >
   The sanctuary was established in 1992 to protect a population of impala that had survived inside the city limits — one of the few urban wildlife sanctuaries in Africa. When the lake level rose unusually high in the early 2000s, part of the sanctuary flooded and the hippos moved in and stayed.
+score: 6.6
 ---
 
 The Kisumu Impala Sanctuary sits right on the shore of Lake Victoria, a small but pleasant reserve covering less than a square kilometre. The impala herd is healthy and easily seen, and there are also waterbuck, vervet monkeys, and a reliable population of hippos in the lake shallows — the same animals that sometimes appear at Hippo Point at sunset.

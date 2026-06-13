@@ -6,6 +6,7 @@ tags:
   - beach
 latitude: 39.6750
 longitude: 15.8190
+score: 7.8
 ---
 
 Diamante's main beach runs the full length of the town, three kilometres of mixed sand and pebbles backed by the lungomare. The water is unusually clear for a beach right next to a town, thanks to the steep drop-off just offshore and the absence of any major river. Pieces of the bottom are stony, so water shoes are useful.

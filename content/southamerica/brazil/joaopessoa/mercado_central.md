@@ -6,6 +6,7 @@ longitude: -34.8813
 tags:
   - shopping
   - market
+score: 6.0
 ---
 
 João Pessoa's central craft market is the best place in the city to buy northeast Brazilian handicrafts — hammocks, lace, embroidered textiles, painted ceramics, and leather goods. Prices are negotiable and the quality varies, so browse a few stalls before committing. The market is in the historic centre, close to the Igreja São Francisco.

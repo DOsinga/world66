@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Sakaraboutou is a re-enactment of an 1897 Dyula victory over Samori Touré's invading forces. Young men dress as warriors, wave wooden swords, and parade through the Muslim quarter — an unusual case of a Muslim community publicly commemorating a military victory through carnival rather than prayer."
+score: 7.3
 ---
 
 The Sakaraboutou is the Dyula counterpart to the Kulango Bedu — a noisy, colourful parade through Bondoukou's Muslim quarter, usually held just after the end of Ramadan. Young men in costume, sometimes blackened with charcoal, sometimes painted, run through the streets shouting and brandishing weapons in stylised combat.

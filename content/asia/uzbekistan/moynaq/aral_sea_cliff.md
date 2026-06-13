@@ -8,6 +8,7 @@ latitude: 43.7683
 longitude: 59.0214
 story: >
   The cliff at Moynaq is the former shoreline — the place where the town's lakeside promenade ended and the water began. Standing on it today, you look out not over water but over an almost perfectly flat desert that extends to the horizon. The concrete anchor monument installed here in the 1990s was intended as a memorial to the fishermen and the port; instead it has become a marker of absence, pointing at nothing where the sea used to be.
+score: 8.2
 ---
 
 The bluff at the edge of the old town is where Moynaq's lakeside promenade once ended at the water. Now it overlooks the Aralkum desert — the former sea bed, visible as a flat expanse of salt and sand extending north to the horizon. A concrete anchor and a sign mark the former shoreline.

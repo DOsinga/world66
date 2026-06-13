@@ -9,6 +9,7 @@ tags:
   - hiking
 story: >
   Volcán Barú is one of the very few places in the world where you can see both the Pacific and Caribbean oceans at the same time from a single point. The trick is to be on the summit before dawn on a clear morning; the curvature of the isthmus is just right and the volcano is just high enough.
+score: 9.0
 ---
 
 At 3,475 metres, Volcán Barú is the highest point in Panama and an active stratovolcano, though the last eruption was around 1550. The cone dominates the highlands of Chiriquí; on a clear day you can see it from Boquete, Cerro Punta, and most of David.

@@ -8,6 +8,7 @@ tags:
 - park
 title: Bagh Ibne Qasim
 type: poi
+score: 6.1
 ---
 
 A large public park at Clifton Beach, built on reclaimed land along the Arabian Sea. One of the biggest urban parks in Pakistan, with walking paths, gardens, and sea views. Popular with families in the evenings.

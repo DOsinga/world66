@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kausarnag Meadows
 type: poi
+score: 7.3
 ---
 
 Between Aharbal Falls and the high lake of Konsarnag, the Veshaw valley climbs through a long band of alpine meadows used for centuries by Gujjar and Bakarwal nomads as summer pasture. Wooden huts and stone shelters dot the high grass; horses, sheep, and the occasional Gujjar guard dog graze.

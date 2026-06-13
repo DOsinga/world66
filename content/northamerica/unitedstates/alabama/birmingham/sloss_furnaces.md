@@ -9,6 +9,7 @@ tags:
 title: Sloss Furnaces National Historic Landmark
 type: poi
 story: "Sloss Furnaces operated continuously from 1882 to 1971, producing pig iron that helped build Birmingham into the South's industrial capital. Workers — mostly Black laborers — endured brutal conditions, including a convict lease system that put prisoners to work in the furnaces for private profit. The site is now a museum and one of the few preserved blast furnace complexes in the country."
+score: 9.2
 ---
 
 Sloss Furnaces is the best place in Birmingham to understand the scale of the iron and steel industry that built the city. The two blast furnaces, ore bins, casting sheds, and maze of pipes and machinery have been left largely as they were when the plant shut down in 1971. Walking through is genuinely impressive — the structures are enormous and the industrial archaeology is dense.

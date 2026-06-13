@@ -6,6 +6,7 @@ longitude: -64.630934
 tags:
   - things_to_do
   - sport
+score: 6.3
 ---
 
 The Estadio Alfonso Chico Carrasquel is the home ground of the Caribes de Anzoátegui, one of the eight teams in Venezuela's professional winter baseball league (LVBP). Baseball is by far the most popular sport in eastern Venezuela; a Caribes game in season (October to January) is loud, partisan, and a fixture of local life.

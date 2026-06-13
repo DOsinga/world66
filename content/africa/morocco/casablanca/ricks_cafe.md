@@ -7,6 +7,7 @@ tags:
 latitude: 33.5979
 longitude: -7.6285
 snippet: A faithful recreation of the fictional bar from the 1942 film, built by an American diplomat in 2004
+score: 4.6
 ---
 
 Rick's Café is an unabashed act of nostalgic theatre: a recreation of the film set from the 1942 Humphrey Bogart movie, built in a 19th-century riad in the old medina by Kathy Kriger, a retired American diplomat, in 2004. The connection to the actual film is zero — "Casablanca" was shot entirely in Hollywood and no part of it was filmed here — but Kriger built the place anyway, and it has become one of the city's most popular restaurants.

@@ -7,6 +7,7 @@ tags:
 latitude: -12.845
 longitude: 28.175
 snippet: Reservoir southwest of the city centre with boating, swimming and birdwatching
+score: 4.4
 ---
 
 Mindolo Dam is a reservoir about seven kilometres southwest of the city centre, and the nearest thing Kitwe has to a recreational green space. The dam area has a boating club, a swimming pool, a bar, and space for picnics. On weekends it draws Kitwe residents looking to get out of the urban landscape for a few hours. The birdwatching around the dam and its fringing vegetation is reasonable — various waders, kingfishers, and open-country raptors are regularly seen.

@@ -12,6 +12,7 @@ tags:
 - bar
 title: Canon's Gait
 type: poi
+score: 6.8
 ---
 
 A reliable Royal Mile pub at the Canongate end with a basement music room that hosts local bands, comedy and folk sessions most nights. Good range of Scottish ales on tap and an unpretentious crowd of locals — rare on this stretch of the Royal Mile.

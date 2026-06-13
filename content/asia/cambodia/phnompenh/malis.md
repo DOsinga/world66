@@ -9,6 +9,7 @@ title: Malis
 type: poi
 neighbourhood: BKK1
 snippet: The benchmark upmarket Khmer restaurant
+score: 7.1
 ---
 
 Malis on Norodom Boulevard is the restaurant most Cambodian families pick for a special occasion, and the one to send visiting friends to if you want them to take Khmer cuisine seriously. The garden setting is genuinely beautiful — open-air pavilions around a central pond — and the menu is built around classical Khmer dishes presented with care.

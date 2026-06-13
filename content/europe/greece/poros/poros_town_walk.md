@@ -7,6 +7,7 @@ tags:
 - walk
 title: Poros Town and Clock Tower
 type: poi
+score: 7.9
 ---
 
 The town of Poros occupies the volcanic Sferia peninsula — the southern of the two islands that make up Poros — and is one of the prettiest small-town waterfronts in the Saronic Gulf. The ferry port is busy with boats crossing the 200-metre channel to Galatas on the Peloponnese, but step back from the quay and the lanes become quiet and residential quickly.

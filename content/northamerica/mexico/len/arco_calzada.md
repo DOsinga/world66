@@ -8,6 +8,7 @@ tags:
 latitude: 21.1195
 longitude: -101.6841
 story: "The arch was built in 1884 to mark the entrance to what was then the most elegant boulevard in the city. It became the unofficial symbol of León after the devastating flood of 1888, when the city was nearly destroyed and rebuilt — the arch was one of the few structures that survived."
+score: 7.3
 ---
 
 The Arco de la Calzada is León's most recognizable landmark: a neoclassical triumphal arch marking the beginning of the Calzada de los Héroes, the city's main pedestrian boulevard. The arch dates to the 1880s and has become the symbol of the city, appearing on postcards and souvenirs.

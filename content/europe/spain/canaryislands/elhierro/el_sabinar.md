@@ -10,6 +10,7 @@ story: >
   The trees of El Sabinar — Phoenician junipers (Juniperus phoenicea) — have been growing on the southwestern plateau for thousands of years. The trade winds blow so consistently from the northeast that every tree has been bent and twisted into extraordinary contorted shapes, all leaning permanently southwest as if bowing away from the prevailing wind. Some of the larger specimens are over a thousand years old.
 sources:
   - https://en.wikipedia.org/wiki/La_Frontera,_Santa_Cruz_de_Tenerife
+score: 8.6
 ---
 
 El Sabinar is a scattered forest of ancient Phoenician junipers on El Hierro's southwestern plateau, famous for the grotesque shapes the trees have been forced into by centuries of exposure to the Canary trade winds. Every trunk, branch, and twig is bent permanently southwest, sculpted by the wind into forms that look genuinely surreal against a clear sky.

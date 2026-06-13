@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Longyear Glacier is retreating fast: aerial photos from 1936 show its tongue reaching almost to the houses of Nybyen, where today there is bare moraine. The hike up the lateral moraine to the ice gives a one-to-one view of how much has melted in a human lifetime."
+score: 8.6
 ---
 
 The Longyear Glacier rises at the head of the valley directly south of Nybyen. From the last houses, a marked path climbs the lateral moraine for a couple of hours to the snout. The route is rough but technically easy in summer; bring sturdy boots and respect the meltwater channels and crevasses.

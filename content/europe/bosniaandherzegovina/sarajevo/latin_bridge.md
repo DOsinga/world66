@@ -9,6 +9,7 @@ tags:
   - historic
 story: >
   Archduke Franz Ferdinand was shot on 28 June 1914 by Gavrilo Princip, a Bosnian Serb nationalist, as his motorcade passed the bridge. The shot triggered the chain of alliances that became World War I — more than 17 million dead. A small museum at the corner of the bridge documents the assassination and its aftermath.
+score: 7.2
 ---
 
 The Latin Bridge is a modest Ottoman stone bridge over the Miljacka River, unremarkable architecturally. What makes it one of the most significant bridges in the world is what happened at its northern end on 28 June 1914: the assassination of Archduke Franz Ferdinand of Austria, heir to the Austro-Hungarian throne, by Gavrilo Princip. The shot that killed the Archduke and his wife Sophie set off the chain of mobilisations and treaty obligations that produced World War I.

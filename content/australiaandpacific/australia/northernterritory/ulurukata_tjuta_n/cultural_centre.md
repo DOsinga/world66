@@ -8,6 +8,7 @@ longitude: 131.0339
 tags:
 - things_to_do
 - museum
+score: 7.9
 ---
 
 The cultural centre, near the entrance to the park, is the best place to learn about the Anangu, the Tjukurpa law that governs the landscape, and the long campaign that returned the park to its traditional owners in 1985. Exhibits cover Anangu food, hunting, family law and the joint-management arrangement with Parks Australia.

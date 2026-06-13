@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 5.4
 ---
 
 Đồ Sơn is the closest beach resort to Haiphong, on a narrow peninsula about twenty kilometres south of the city. It was a fashionable seaside escape during the French period; the colonial-era hotels and villas still stand among newer Vietnamese hotels along the seafront.

@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Avondale
 type: poi
+score: 7.2
 ---
 
 Avondale is Birmingham's most interesting neighborhood for an evening out. The area east of downtown has concentrated a cluster of craft breweries, independent restaurants, and music venues along 3rd Avenue South. Avondale Brewing Company, the anchor of the neighborhood, hosts outdoor concerts and has a large beer garden that fills on weekends. The surrounding blocks have built up a supporting cast of good bars and casual restaurants.

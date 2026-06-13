@@ -11,6 +11,7 @@ story: >
   St Peter's is one of the finest examples of Norman church architecture in England, and it was almost demolished in the 19th century when its parish was merged with a neighbouring church. The Victorian restorer George Gilbert Scott saved it, undertaking a sympathetic restoration in the 1850s that preserved the exceptional quality of its carved stonework. The zigzag and billet moulding around the chancel arch is among the most elaborate Norman decorative work surviving in the country.
 sources:
   - https://en.wikipedia.org/wiki/St_Peter%27s_Church,_Northampton
+score: 8.1
 ---
 
 St Peter's, on Marefair, is a Grade I listed Norman church of exceptional quality that is now redundant — no longer used for regular worship — and in the care of the Churches Conservation Trust. The interior is a serious piece of Norman architecture: round arches with elaborate carved decoration, a rich chancel arch, and carved capitals that show the skill of 12th-century Northampton stonemasons.

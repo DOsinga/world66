@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: "Romantic 18th-century landscape park with a thatched château above the cliffs"
+score: 8.4
 ---
 
 A short walk from the entrance to Møns Klint, Liselund is one of the prettiest small estates in Denmark — a Romantic-era landscape park created in the 1790s by the French-Danish nobleman Antoine de la Calmette for his wife Lise. The main house, Liselund Gammel Slot, is a tiny thatched manor in restrained classical style, more cottage than château; it can be visited on guided tours in summer.

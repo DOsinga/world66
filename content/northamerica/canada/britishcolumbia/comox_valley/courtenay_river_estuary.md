@@ -8,6 +8,7 @@ tags:
 - sight
 title: Courtenay River Estuary
 type: poi
+score: 7.8
 ---
 
 The Puntledge and Tsolum rivers meet at the south edge of Courtenay to form the short Courtenay River, which fans out into a 65-square-kilometre estuary at the head of Comox Harbour. The mudflats and eelgrass beds are a globally significant overwintering site for trumpeter swans (sometimes 2,000 birds at once), Canada geese, and dozens of duck species.

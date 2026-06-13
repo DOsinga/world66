@@ -6,6 +6,7 @@ longitude: 11.78
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 Four spectacular limestone towers rise above the Sella Pass — the Torri del Sella, instantly recognisable in any Dolomite skyline shot. Their first ascent in 1890 by the Innsbruck climber Hans Helversen was a milestone in early Alpine climbing, and the routes on the towers remain classics today.

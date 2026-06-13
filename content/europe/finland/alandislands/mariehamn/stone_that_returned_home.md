@@ -14,6 +14,7 @@ story: >
   years, involved correspondence with geologists across Scandinavia, and resulted in a
   journey that most people would consider absurd and that Westerberg considered essential.
   There is a small installation in Mariehamn commemorating the project.
+score: 5.9
 ---
 
 The Stone That Returned Home is a small public artwork in Mariehamn commemorating an eccentric and touching private project: a local man's decades-long effort to identify the geological origin of a stone found on Åland and return it to where the glaciers had originally taken it from — a site in Norway. The installation is modest but the story behind it, which has been covered internationally, is genuinely affecting.

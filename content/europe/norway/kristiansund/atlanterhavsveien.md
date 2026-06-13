@@ -13,6 +13,7 @@ story: >
   of the eight bridges — has a crest designed to make the road appear to end 
   in mid-air, a trick that has made it one of the most photographed roads in 
   northern Europe.
+score: 9.1
 ---
 
 The Atlantic Ocean Road (Atlanterhavsveien) is an 8-kilometre stretch of National Route 64 that crosses a series of small islands and skerries between Averøy and the mainland, connected by eight bridges. The road was built between 1983 and 1989 and is now the most photographed highway in Norway — storm waves regularly break over the Storseisund Bridge, and in calm weather the view across the open sea to the mountains is remarkable.

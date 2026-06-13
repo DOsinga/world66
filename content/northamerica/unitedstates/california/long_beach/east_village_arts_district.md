@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 33.7720
 longitude: -118.1850
+score: 6.3
 ---
 
 The East Village Arts District, centred on the streets around East Broadway and Linden Avenue in downtown Long Beach, is the city's most interesting neighbourhood for art galleries, studios, and independent businesses. It developed in the early 2000s as artists moved into the relatively affordable warehouse spaces near downtown, and it now has a recognisable character that distinguishes it from both the corporate waterfront and the grittier parts of downtown.

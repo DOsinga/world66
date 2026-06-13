@@ -8,6 +8,7 @@ tags:
 - sight
 title: Parque Recreacional Sur
 type: poi
+score: 5.6
 ---
 
 Parque Recreacional Sur is the largest green space inside the urban boundary of Valencia, occupying around eighty hectares of low hills on the southern edge of the city near the Plaza de Toros. The park was laid out in the 1970s and is a favourite weekend escape for valencianos: jogging paths, a lake with rented pedalos, picnic areas under the gallery forest, and a small open-air theatre used for concerts on national holidays.

@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Biete_Gabriel-Rufael
 story: >
   Biete Gabriel-Rufael is connected to the outside world by a single carved stone bridge suspended over a wide trench — the only way in or out. The church was likely a defensive structure as much as a place of worship: if the bridge were removed, the building would be completely inaccessible. It has been called a "fortress church," and the narrow, fortress-like windows reinforce that reading.
+score: 7.6
 ---
 
 Biete Gabriel-Rufael — the House of the Archangels Gabriel and Raphael — is part of the southeastern group and notable for its dramatic approach: a single high bridge spans the trench separating the church from the rest of the complex. The exterior is austere compared to some of its neighbours, with plain surfaces and narrow openings that give the building a fortified character.

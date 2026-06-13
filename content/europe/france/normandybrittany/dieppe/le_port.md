@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.92778
 longitude: 1.08056
+score: 7.2
 ---
 
 Dieppe's working harbour is still one of the busier fishing ports on the Normandy coast. The fish market — the criée — operates in the early morning when the boats return, and the quayside near the ferry terminal gives a good view of the trawlers, the ferries to Newhaven, and the general working business of a harbour that has been doing roughly the same thing for centuries.

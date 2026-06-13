@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.8480
 longitude: -90.5358
+score: 6.4
 ---
 
 The Xmuch'haltún Botanical Garden sits inside the Baluarte de Santiago, one of the original colonial bastions of the city wall. The contrast between the thick military stonework of the fort and the tropical garden it now contains is quietly surreal — palms, ferns, bromeliads, and flowering trees growing where soldiers once watched for approaching pirate ships.

@@ -7,6 +7,7 @@ tags:
   - beaches
   - sight
 snippet: "Most popular beach resort near Sungailiat, with clean white sand and calm water"
+score: 6.4
 ---
 
 Tanjung Pesona is the most visited beach on Bangka, and with good reason. The sand is clean and white, the water is calm and clear, and there are enough facilities — resorts, restaurants, sunloungers — that you can spend a full day without having to think too hard. It sits just north of Sungailiat, about 20 km from the main resort area, and gets the gentle northeast coast conditions that make swimming comfortable most of the year.

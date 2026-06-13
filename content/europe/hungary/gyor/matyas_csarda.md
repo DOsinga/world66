@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.6845
 longitude: 17.6320
+score: 6.0
 ---
 
 A traditional Hungarian csárda (country inn-style restaurant) that has been feeding visitors near the old town for decades. The menu doesn't deviate far from the classics — halászlé (fisherman's soup), töltött káposzta (stuffed cabbage), and various preparations of pork — but it does them well. The paprika-heavy dishes are rich and warming, exactly what you want after a long day on your feet.

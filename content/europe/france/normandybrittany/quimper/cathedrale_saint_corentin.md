@@ -14,6 +14,7 @@ story: >
   cathedral is unique in Brittany.
 sources:
   - https://en.wikipedia.org/wiki/Quimper_Cathedral
+score: 8.9
 ---
 
 The Cathédrale Saint-Corentin is the centrepiece of Quimper's old town and one of the finest Gothic cathedrals in Brittany. Building began in the 13th century, but the two distinctive spires — the feature that defines the city's skyline — weren't completed until the 1850s. The statues mounted high between the towers represent King Gradlon, the mythical founder of Quimper, surveying his city from horseback.

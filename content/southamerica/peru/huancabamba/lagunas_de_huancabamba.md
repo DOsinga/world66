@@ -15,6 +15,7 @@ tags:
 - landmark
 title: Lagunas de Huancabamba (Las Huaringas)
 type: poi
+score: 9.2
 ---
 
 Above Huancabamba, at altitudes between 3,500 and 4,000 metres on the high páramo, a series of glacial lakes known collectively as Las Huaringas has been a centre of Andean healing practice for centuries. The most sacred of these lakes — Laguna Shimbe and Laguna Negra — are visited by curanderos (traditional healers) and their clients, who travel from across Peru and Ecuador seeking ritual cleansing ceremonies involving immersion in the bitterly cold water.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.258
 longitude: 32.29
+score: 5.0
 ---
 
 Port Said is a designated free trade zone, and shopping is one of the main reasons Egyptians from Cairo and the Delta cities make the trip. Electronics, imported foodstuffs, perfumes, clothing, and household goods are sold here at prices lower than elsewhere in Egypt, with no customs duties applied.

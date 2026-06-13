@@ -13,6 +13,7 @@ story: >
   was surpassed in size only by those in Florence and St. Paul's in London. The
   original portrait of George Washington by Gilbert Stuart hangs inside — the
   same image reproduced on the one-dollar bill.
+score: 7.8
 ---
 
 The 1904 Rhode Island State House sits on a hill north of downtown, its white Georgia marble dome visible from much of the city. The building is open to the public on weekdays, and free guided tours explain the history of the state and the building's architecture. From the steps, there's a sweeping view south over the Providence skyline.

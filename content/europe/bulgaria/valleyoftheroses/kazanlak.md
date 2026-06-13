@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.6167
 longitude: 25.4
+score: 6.9
 ---
 
 The largest town in the valley, sitting roughly at its centre with about 45,000 residents. Kazanlak is not pretty in the way Plovdiv or Veliko Tarnovo are pretty — it is a working town that grew up around the rose industry and a sizable arms factory. But it is the natural base for everything in the valley: the rose fields, the Thracian tombs, the Rose Museum, and the road up to Buzludzha all start from here.

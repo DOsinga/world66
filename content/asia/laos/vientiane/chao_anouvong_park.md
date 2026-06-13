@@ -7,6 +7,7 @@ tags:
 - sight
 title: Chao Anouvong Park
 type: poi
+score: 6.7
 ---
 
 At the southern end of the Mekong promenade stands a large bronze statue of Chao Anouvong, the last king of Vientiane, who launched an ill-fated rebellion against Siamese rule in 1828. The Siamese answer was to raze his capital so thoroughly that nothing but Wat Si Saket survived. The statue, unveiled in 2010 to mark Vientiane's 450th anniversary, shows him pointing across the Mekong — and across the modern border with Thailand.

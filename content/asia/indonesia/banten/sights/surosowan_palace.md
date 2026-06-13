@@ -9,6 +9,7 @@ tags:
 - sight
 title: Surosowan Palace
 type: poi
+score: 7.7
 ---
 
 The ruins of Surosowan Palace sit in the old city of Banten, once the seat of one of Java's most powerful sultanates. Built in the 16th century, the palace served as the political center of the Sultanate of Banten until the Dutch dismantled it in the early 1800s.

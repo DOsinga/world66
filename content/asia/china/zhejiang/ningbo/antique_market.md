@@ -7,6 +7,7 @@ tags:
   - gulou_district
 latitude: 29.876
 longitude: 121.545
+score: 6.7
 ---
 
 The antique market in the Gulou district operates from a series of covered stalls and small shops on the lanes east of the Drum Tower, and is most active on weekend mornings when dealers from the surrounding region bring fresh stock. The inventory is characteristic of Zhejiang antique markets: Ningbo wood carvings (the city's signature craft), ceramics from the Longquan kilns, bronze items, old photographs and paper ephemera from the Republican era, and a substantial volume of convincing fakes that requires expertise to identify.

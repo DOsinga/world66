@@ -7,6 +7,7 @@ snippet: A 12,000-capacity outdoor concert venue that draws major touring acts e
 tags:
 - things_to_do
 - sight
+score: 6.7
 ---
 
 The Ameris Bank Amphitheatre, in Encore Park on Alpharetta's north side, is one of the major outdoor concert venues in the Atlanta metro area — a 12,000-capacity covered amphitheatre with a large lawn that hosts dozens of touring acts each summer. The Atlanta Symphony Orchestra has its summer residency here.

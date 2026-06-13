@@ -9,6 +9,7 @@ sources:
   - https://en.wikipedia.org/wiki/Mer_de_Glace_ice_cave
 story: >
   The Mer de Glace has been receding dramatically since the mid-19th century. To make the retreat visible, markers on the rock face beside the Montenvers station show exactly where the glacier surface stood in 1820, 1850, 1900, 1950, and subsequent decades. The drop is extraordinary — in 1820 the ice surface was more than 150 metres higher than it is today.
+score: 9.2
 ---
 
 The Mer de Glace — Sea of Ice — is the largest glacier in France and the second largest in the Alps. It is 12 kilometres long, up to 400 metres deep, and contains an estimated four billion cubic metres of ice. The easiest way to reach it is by the Montenvers rack railway, which climbs from Chamonix station to the Montenvers viewpoint at 1,913 metres in around 20 minutes.

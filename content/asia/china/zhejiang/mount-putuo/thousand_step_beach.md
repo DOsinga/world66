@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.0050
 longitude: 122.3900
+score: 6.6
 ---
 
 Thousand Step Beach (*Qianbu Sha*) is the longer of the island's two main beaches, running for over a kilometre along the eastern shore and backed by pine trees and gently sloping sand. The beach is accessible to swimmers from late spring through early autumn, and the combination of pilgrims paddling and ordinary tourists swimming is peculiar and charming in equal measure. Buddhist monks on their way between temples occasionally walk the length of the beach, sandals in hand.

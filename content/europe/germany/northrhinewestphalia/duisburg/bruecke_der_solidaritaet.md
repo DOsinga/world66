@@ -9,6 +9,7 @@ longitude: 6.7386
 sources:
   - https://en.wikipedia.org/wiki/Br%C3%BCcke_der_Solidarit%C3%A4t
 story: "The Bridge of Solidarity got its name during the strike wave of 1987, when steel workers at the Rheinhausen plant were fighting plant closures. During the protests, workers and their families blocked the bridge for weeks in demonstrations that became a landmark moment in Ruhr labour history. The bridge was given its current name in memory of that struggle."
+score: 5.8
 ---
 
 The Brücke der Solidarität (Bridge of Solidarity) crosses the Rhine between the Rheinhausen and Hochfeld districts of Duisburg. A conventional-looking rail and road bridge, it acquired its name and its historical significance during the steelworkers' strikes of 1987, when workers protesting the closure of the Krupp-Rheinhausen steelworks blockaded it in one of the most dramatic labour confrontations of postwar German industrial history.

@@ -7,6 +7,7 @@ tags:
   - hampden
 latitude: 39.3276
 longitude: -76.6393
+score: 7.4
 ---
 
 The Avenue — officially West 36th Street — is the commercial strip at the heart of Hampden, Baltimore's most characterful working-class neighbourhood. The two-block stretch between Falls Road and Keswick Avenue contains the greatest concentration of vintage shops, independent boutiques, unusual restaurants, and the kind of establishments that defy easy categorisation of any neighbourhood in the city.

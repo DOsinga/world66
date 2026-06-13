@@ -8,6 +8,7 @@ tags:
   - pub
 latitude: 41.4089
 longitude: -75.6611
+score: 5.9
 ---
 
 Poor Richard's is an unpretentious downtown pub on Spruce Street, a few minutes from Courthouse Square. The food is straightforward bar fare — burgers, wings, a respectable fish-fry on Fridays — and the beer list is short but covers a couple of decent local breweries.

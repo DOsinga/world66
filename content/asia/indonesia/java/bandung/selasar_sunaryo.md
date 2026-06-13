@@ -8,6 +8,7 @@ tags:
 snippet: Sculpture and contemporary art space in the hills above Dago
 latitude: -6.8483
 longitude: 107.6253
+score: 8.1
 ---
 
 Selasar Sunaryo is the personal museum and studio complex of the sculptor Sunaryo, one of Indonesia's most prominent contemporary artists. The space — opened in 1998, designed in a tropical-modernist style around a steep slope above the Dago Pakar forest — combines permanent display of Sunaryo's own work with rotating exhibitions of contemporary Indonesian art.

@@ -7,6 +7,7 @@ tags:
 - wine
 title: Santa Clara Valley Wine Region
 type: poi
+score: 7.0
 ---
 
 The hills around Morgan Hill form the southern end of the Santa Clara Valley American Viticultural Area, one of California's oldest wine regions — grapes were planted here by Franciscan missionaries and later by Italian immigrants in the 19th century. The region is far less trafficked than Napa or Sonoma, which means tasting room visits tend to be relaxed, staff know you by name by your second glass, and prices are considerably more reasonable.

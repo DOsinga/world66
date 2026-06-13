@@ -14,6 +14,7 @@ story: >
   century was to serve foreign residents who had developed Japanese hiking as a sport.
   The Rokko range now has an extensive network of trails that attracts millions of
   Japanese walkers each year.
+score: 7.7
 ---
 
 Mount Rokko rises steeply behind Kobe, providing the city with a dramatic mountain backdrop visible from the harbour. At 931 metres, it is not the highest mountain in the Kansai region, but its accessibility from central Kobe — cable car from Rokko Station on the Hankyu Rokko Line — and the views it provides over Osaka Bay make it one of the most-visited mountains in Japan.

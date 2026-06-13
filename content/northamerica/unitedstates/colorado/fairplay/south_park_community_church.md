@@ -9,6 +9,7 @@ latitude: 39.2247
 longitude: -105.9992
 sources:
   - https://en.wikipedia.org/wiki/South_Park_Community_Church
+score: 5.8
 ---
 
 A handsome Carpenter Gothic church from 1874, listed on the National Register of Historic Places. The building is a good example of the delicate wooden Gothic Revival style popular in rural America during the late 19th century — pointed arched windows, steep gabled roof, and decorative woodwork that required considerable skill given the remoteness of its location.

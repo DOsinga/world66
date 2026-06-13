@@ -12,6 +12,7 @@ story: >
   the bay — produced one of Southern Thailand's most successful youth teams. Panyee FC won
   six South Thailand Youth Soccer Championships between 2004 and 2010, all while training
   on a sloping wooden surface surrounded by water.
+score: 7.8
 ---
 
 Ko Panyi is a Muslim fishing village of around 1,600 people built almost entirely on wooden stilts over the water of Phang Nga Bay. It was founded around the end of the 18th century by Bugis fishermen from Indonesia, who were not permitted to own land on the Thai mainland. The result is a settlement that floats: houses, a mosque, a school, restaurants, and souvenir stalls all perched on pilings driven into the shallow bay, with the limestone karst towers of the bay rising above it on all sides.

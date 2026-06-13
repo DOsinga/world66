@@ -10,6 +10,7 @@ longitude: -3.9386
 snippet: The visitor centre and battlefield site marking Robert the Bruce's decisive 1314 victory over Edward II
 story: >
   No-one is entirely sure where the main battle took place. The Bruce Carse, marshy ground where the English knights bogged down, has been built over by Stirling's southern suburbs, and decades of archaeological survey have produced very little physical evidence. The visitor centre and equestrian statue of Bruce stand on what was probably the Scots' camp rather than the battlefield itself — the actual fighting most likely happened a few hundred yards north, beneath what is now a housing estate.
+score: 7.4
 ---
 
 The Bannockburn Heritage Centre sits at the edge of the battlefield where Robert the Bruce defeated Edward II of England on 23–24 June 1314 — a victory so complete that it effectively secured Scottish independence until the Treaty of Union nearly four hundred years later. The centre, run by the National Trust for Scotland, was redesigned in 2014 for the battle's 700th anniversary and replaces a description-heavy old museum with a 3D digital battlefield experience and a "Battle Game" where visitors take command of the Scottish or English forces.

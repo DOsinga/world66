@@ -7,6 +7,7 @@ tags:
 neighbourhood: City Centre
 latitude: 43.5931
 longitude: -79.6428
+score: 6.0
 ---
 
 Square One is one of Canada's largest shopping malls — over 360 stores spread over two storeys, including a Hudson's Bay, a Holt Renfrew, a Saks Fifth Avenue, a David's Tea on every other corner, and a vast food court that mirrors the city's diversity better than any guidebook. The mall acts as Mississauga's de facto downtown.

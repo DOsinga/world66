@@ -6,6 +6,7 @@ longitude: 5.0397
 tags:
   - bars_and_cafes
   - bar
+score: 7.0
 ---
 
 A high-ceilinged wine bar in a converted stone-vaulted cellar behind Les Halles. The wine list runs to several hundred Burgundies — including by-the-glass pours of producers that elsewhere only appear by the bottle. Food is short and seasonal: charcuterie boards, regional cheeses, a couple of warm plates a day.

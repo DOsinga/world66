@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 47.5200
 longitude: -116.1100
+score: 7.2
 ---
 
 The Coeur d'Alene National Forest surrounds Kellogg on three sides and provides the outdoor recreation that anchors the town's post-mining economy. The forest covers over 700,000 acres of northern Idaho Panhandle country, with elk, moose, white-tailed deer, and black bear in the valleys, and mountain goats higher up.

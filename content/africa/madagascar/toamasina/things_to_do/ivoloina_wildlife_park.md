@@ -9,6 +9,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/Parc_Zoologique_d%27Ivoloina
+score: 8.6
 ---
 
 The Ivoloina Wildlife Park (Parc Zoologique d'Ivoloina) is a nature reserve and zoo set within a patch of coastal rainforest beside the Ivoloina River, about 12 kilometres north of Toamasina. It is operated by the Madagascar Fauna and Flora Group, a consortium of some 40 zoos and universities that has been running captive breeding and release programmes here since the early 1990s.

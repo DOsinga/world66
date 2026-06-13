@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.2395
 longitude: -6.3324
+score: 8.1
 ---
 
 The Carrick-a-Rede rope bridge connects the mainland cliff to a small island, 30 metres above the sea, across a gap of 20 metres. Salmon fishermen originally rigged it each summer to reach the island, where they could intercept the fish on their migration along the coast. The National Trust took over and now runs it as a visitor attraction, and the bridge has become one of the most photographed spots on the Causeway Coast.

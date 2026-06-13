@@ -8,6 +8,7 @@ latitude: -7.9406
 longitude: -79.1736
 story: >
   In 2006, archaeologists at Huaca El Brujo uncovered the mummy of a woman who appears to have been a powerful ruler of the Moche — adorned with gold and copper headdresses, surrounded by sacrificed victims, and buried with war clubs, usually a male symbol of authority. Named the Lady of Cao, she became evidence that Moche society included women at the highest levels of political and religious power, upending previous assumptions about the culture.
+score: 9.0
 ---
 
 The Huaca El Brujo complex, about 60 kilometres north of Trujillo, is a less-visited but extraordinary Moche ceremonial site. It consists of three main mounds, the most excavated of which — Huaca Cao Viejo — has polychrome murals comparable in quality to those at the Huaca de la Luna.

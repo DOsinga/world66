@@ -8,6 +8,7 @@ tags:
 - bar
 title: Letka Tu-104 Aeroplane Bar
 type: poi
+score: 5.7
 ---
 
 In a fenced patch of grass on the eastern edge of Olomouc sits a real Soviet-built Tupolev Tu-104 jetliner — one of the first commercial jets in the world — that has been a bar since the 1970s. The plane sits on its own undercarriage, propped up under the wings, and you climb in via a steel staircase to drink at small tables along the original fuselage.

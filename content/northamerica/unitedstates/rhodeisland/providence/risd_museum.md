@@ -14,6 +14,7 @@ story: >
   craftsmanship of miniature objects. The museum also holds an ancient Roman
   mosaic floor, reassembled from fragments and displayed flat on a gallery
   floor so visitors can walk around it.
+score: 9.0
 ---
 
 The Rhode Island School of Design Museum on Benefit Street holds one of the strongest small art collections in New England. The 100,000-piece collection runs from ancient Egyptian artifacts and Gorham silver to Impressionist paintings and contemporary art, with particular strength in American decorative arts and textiles. For a design-school museum, the breadth is surprising.

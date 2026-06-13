@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 53.2042
 longitude: 5.7940
+score: 6.9
 ---
 
 The Prinsentuin ("prince's garden") was laid out in 1648 as the private pleasure garden of the stadtholders of Friesland. Surrounded on three sides by the city's outer canal, it preserves the geometric plan of a seventeenth-century Renaissance garden: long allées of trees, lawns, a rose garden, and a small bandstand.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.9180
 longitude: 109.6490
+score: 7.0
 ---
 
 The trail up to Ji Chang village from the valley takes two to three hours return, climbing through tea plantations before opening out to rice terraces with views back down to the Linxi River and the Wind-and-Rain Bridge. The path is well marked and the gradient is manageable — stone steps for the steeper sections, packed earth trail through the tea fields. The upper sections pass through forest with decent bird life, and the views from the ridge are significantly better than anything visible from the valley floor.

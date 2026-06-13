@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 45.6671
 longitude: 12.2429
+score: 6.5
 ---
 
 Le Beccherie claims — credibly — to be the birthplace of tiramisu. The owner Ado Campeol said his wife and her pastry chef invented the dish here in 1972, and the original recipe was deposited with a notary. The restaurant now serves a traditional Trevigian menu in dignified surroundings just off Piazza dei Signori.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 10.6358
 longitude: -71.6358
+score: 7.8
 ---
 
 The Santa Bárbara barrio on the eastern edge of the old centre is the most visually rewarding neighbourhood in Maracaibo — a tight grid of 19th-century houses in the *marabino* style, with wooden shutters, tiled roofs, interior courtyards and a colour palette running from ochre to terracotta to faded blue. The neighbourhood was restored in the 1990s and remains the most intact example of traditional Maracaibo architecture.

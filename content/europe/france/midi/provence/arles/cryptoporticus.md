@@ -13,6 +13,7 @@ story: >
   creating a level platform on sloping ground. During the Second World War the
   vaults were used by the French Resistance as a hiding place, a subterranean
   secrecy matching the original Roman ingenuity.
+score: 8.5
 ---
 
 Beneath the Place du Forum in Arles lies a remarkable Roman structure: a horseshoe-shaped gallery of underground vaulted corridors built in the first century BC as a subterranean foundation for the forum above. The cryptoporticus is damp, cool, and lit by small high windows — an eerie space that has survived remarkably well.

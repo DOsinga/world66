@@ -10,6 +10,7 @@ longitude: 14.3744
 snippet: "A 14th-century cloister with intertwined arches in Moorish-Gothic style — one of the most atmospheric spots in Sorrento"
 story: >
   The cloister was built in the 14th century on the site of an earlier Byzantine church. In summer it hosts open-air classical music concerts — the arched colonnade acts as a natural acoustic shell, and the performances under the stars, with Vesuvius visible beyond the garden, have been running since the 1960s.
+score: 7.8
 ---
 
 The Cloister of San Francesco adjoins the Church of San Francesco, a short walk from Piazza Tasso near the Villa Comunale gardens. The cloister dates from the 14th century and is notable for its interlaced arches — a Moorish-Gothic hybrid that gives it a different character from the more austere cloisters elsewhere in the region. The columns alternate between simple cylindrical forms and more elaborate twisted designs, and flowering vines typically cover the upper walls in summer.

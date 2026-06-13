@@ -7,6 +7,7 @@ tags:
 - sight
 title: Angkor Village Apsara Theatre
 type: poi
+score: 6.2
 ---
 
 **The Angkor Village Apsara Theatre** hosts nightly performances of traditional Khmer apsara dance in an open-air pavilion designed to evoke an Angkor-era banquet hall. Apsara dance is one of the most distinctive art forms of mainland Southeast Asia: dancers in elaborate gilded costumes and headdresses move with extraordinary slow control, using the precise backward-bending finger positions that appear on every apsara carving in the Angkor temples. The tradition was nearly extinguished during the Khmer Rouge period, when most of Cambodia's classical artists were killed, and its revival is a significant cultural achievement.

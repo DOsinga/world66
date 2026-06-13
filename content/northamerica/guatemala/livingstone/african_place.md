@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: African Place Bar
 type: poi
+score: 5.8
 ---
 
 The most famous bar in Livingston, African Place is a reggae and punta bar on the main street that has been drawing travelers for decades. The music is often live, the rum drinks are cheap, and the clientele is a mix of locals and travelers that reflects Livingston's particular character. It gets going after 9pm.

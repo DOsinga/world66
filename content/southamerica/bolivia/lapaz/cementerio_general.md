@@ -14,6 +14,7 @@ tags:
 - sight
 title: Cementerio General
 type: poi
+score: 8.5
 ---
 
 The General Cemetery is a fifteen-minute walk northwest of the city centre, and it operates on a scale and with a logic that is entirely its own. The standard burial here is not underground but in a niche in a wall — a small sealed compartment in a stack of identical compartments that rises four or five storeys high. These walls of niches are arranged in grid-like blocks with named lanes between them, so navigating the cemetery has the same character as navigating a neighbourhood. Wealthier families have invested in elaborate mausoleums that function like small buildings, with stained glass, interior chapels, and carved stone facades. The contrast between the modest stacked niches and the architectural ambition of the mausoleums is extreme and very instructive about La Paz's social geography.

@@ -14,6 +14,7 @@ story: >
   architecture, which blends Arabic, Chinese, and European elements. The small dome over
   the main prayer hall has a distinctly Chinese profile unlike almost any other mosque in
   Indonesia.
+score: 7.2
 ---
 
 The Kali Pasir Mosque is the oldest mosque in Tangerang and one of the oldest in the region, established in 1700 on the banks of the Cisadane River in the heart of what was then the Chinese quarter. It is a living document of the cultural exchange that shaped this part of Java — built by Muslims, constructed with Chinese help, and sitting in a neighbourhood that has always been majority Chinese.

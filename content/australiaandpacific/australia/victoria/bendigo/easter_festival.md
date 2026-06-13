@@ -9,6 +9,7 @@ longitude: 144.279
 sources:
   - https://en.wikipedia.org/wiki/Bendigo_Easter_Festival
   - https://www.bendigoeaster.com.au/
+score: 7.7
 ---
 
 Bendigo's Easter Festival is one of Australia's oldest continuous festivals, running since 1871. The centrepiece is the Easter Saturday procession — a street parade through the centre of town featuring Sun Loong, the [Golden Dragon Museum](/australiaandpacific/australia/victoria/bendigo/golden_dragon_museum)'s imperial dragon, carried by dozens of participants along the main streets. It draws crowds from across Victoria and fills the city's accommodation well in advance.

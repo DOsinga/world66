@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.1696
 longitude: 136.9079
+score: 6.6
 ---
 
 Yokoi invented ankake spaghetti in 1963 — a peculiarly Nagoyan dish of thick spaghetti briefly fried in oil then served under a sticky brown ankake sauce of beef broth, ketchup, white pepper and chopped vegetables, almost always topped with fried egg and a Vienna sausage. It tastes like nothing else in Italian cooking and is now a fixture across the city.

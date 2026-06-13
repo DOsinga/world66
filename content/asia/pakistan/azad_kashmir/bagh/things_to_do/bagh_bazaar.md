@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 33.9800
 longitude: 73.7738
+score: 5.6
 ---
 
 The main bazaar in Bagh town is a compact, workaday market serving the district's population. Stalls sell everyday goods, fabrics, and household items alongside seasonal produce. From August through October, local apple orchards come into harvest and fruit is piled up across the market — Kashmiri apples are a regional speciality worth picking up.

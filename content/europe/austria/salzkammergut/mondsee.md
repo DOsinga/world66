@@ -14,6 +14,7 @@ story: >
   board has been grateful ever since, and Mondsee now draws a steady stream
   of pilgrims who arrive expecting a cathedral and find a very pleasant
   market town with a reasonable beach.
+score: 7.4
 ---
 
 Mondsee — Moon Lake — is one of the warmest lakes in the Salzkammergut, reaching water temperatures of up to 25°C in summer. The town of Mondsee at its northern end is a pleasant market town with the imposing Benedictine basilica, a small museum of Neolithic pile-dwelling culture (the lake was a major Neolithic settlement area), and several decent restaurants. The lake is popular for sailing and windsurfing; the consistent afternoon breezes that come down from the Salzkammergut Mountains make it one of the better sailing venues in Austria.

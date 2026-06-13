@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: -11.6047
 longitude: 34.2972
+score: 7.6
 ---
 
 Most lodges in Nkhata Bay can arrange a half-day trip in a local dugout canoe (bwato) with one of the fishermen who work the bay. The boats are made from a single hollowed-out tree, sit low in the water, and require a certain trust in their slim wooden sides — but they are seaworthy enough to have done the job here for generations.

@@ -15,6 +15,7 @@ story: >
   Cabaña next door at 9pm each night: soldiers in 18th-century costume fire a
   cannon to commemorate the closing of the city gates, a ritual continued since
   colonial times with a gap only during the revolutionary transition.
+score: 8.9
 ---
 
 El Morro Castle, completed in 1589 at the entrance of Havana Bay, is the fortress that defined Havana's defensive geography for three centuries — a dramatic promontory fortification with a lighthouse, thick walls, and views across the bay entrance that make clear why Spanish engineers chose this site. Together with the Fortaleza de San Carlos de la Cabaña on the same headland, it forms the largest colonial military complex in the Americas.

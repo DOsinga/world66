@@ -13,6 +13,7 @@ story: >
   of shops below it. The khan's inner courtyard has no supporting columns — the
   huge brick arches span the space directly, reaching 13 metres high. Medieval
   architects called it the most audacious unsupported span in the Islamic world.
+score: 8.3
 ---
 
 Khan Murjan is a medieval caravanserai built in the 14th century in the commercial heart of old Baghdad, and its extraordinary interior is one of the finest pieces of Islamic architecture in Iraq. The inner courtyard is roofed by a sequence of massive brick arches rising 13 metres, creating a dramatic, shadowed space that once sheltered merchants arriving from across the Islamic world.

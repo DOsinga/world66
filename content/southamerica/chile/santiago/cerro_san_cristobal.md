@@ -9,6 +9,7 @@ latitude: -33.4136
 longitude: -70.6337
 story: >
   The 22-metre statue of the Immaculate Conception at the summit was installed in 1908 and consecrated by Pope Pius X, who blessed it remotely via telegraph — an early and unexpected use of the technology. The statue was designed by the Chilean sculptor Samuel Román and cast in France. On clear winter days the Andean skyline behind it includes Aconcagua, the highest peak in the Americas at 6,961 metres.
+score: 8.9
 ---
 
 Cerro San Cristóbal rises 880 metres above sea level, 300 metres above the city floor, and dominates the northern skyline of Santiago. It is the largest urban park in the city and one of the best places in South America to get a panoramic view of a metropolis backed by a mountain range. On a clear winter day — most days from May to August — the entire Andean cordillera is visible, from Aconcagua in the north to the Maipo volcanoes in the south.

@@ -8,6 +8,7 @@ snippet: A 1925 Beaux-Arts library, one of the great public libraries in America
 tags:
   - things_to_do
   - architecture
+score: 8.6
 ---
 
 The Cleveland Public Library main building (the Walker & Weeks-designed Main Library, completed in 1925) is one of the finest Beaux-Arts public libraries in the United States, with a marble vestibule, a coffered ceiling in the main reading room, and a Special Collections department holding the largest chess collection in the world (the John G. White Chess Collection — over 32,000 items).

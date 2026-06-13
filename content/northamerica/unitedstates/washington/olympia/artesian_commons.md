@@ -15,6 +15,7 @@ story: >
   being capped during downtown redevelopment, and in 2014 the city turned
   the surrounding lot into a small public plaza. Locals say drinking from
   the well guarantees you will return.
+score: 6.8
 ---
 
 A small downtown pocket park built around a free-flowing artesian well — a city quirk that has somehow survived a century of downtown change. Residents line up daily with five-gallon water jugs and bottles to fill from the well's stainless steel spigot. The water comes from a deep aquifer, runs naturally cold and is well filtered by the geology above.

@@ -12,6 +12,7 @@ story: >
   near-total summer isolation. Before the road, the only way in or out between May and
   October was on foot over one of the high passes. The drive from Kargil to Padum, which
   now takes a gruelling 8 hours on a good day, was previously a week's walk.
+score: 8.1
 ---
 
 At 4,400 metres, the Pensi La is the principal road pass into Zanskar from Kargil, and the view from the top on a clear day is extraordinary: the entire Zanskar Valley spreads below to the south, with the Drang-Drung Glacier — one of the largest glaciers in Ladakh — visible to the north. The glacier feeds the Stod River and has been steadily retreating in recent decades; photographs from the 1970s show it reaching far closer to the road than it does now.

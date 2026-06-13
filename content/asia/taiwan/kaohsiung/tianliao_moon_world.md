@@ -7,6 +7,7 @@ tags:
 latitude: 22.8639
 longitude: 120.3989
 snippet: Eroded badlands landscape resembling the surface of the moon
+score: 8.0
 ---
 
 A surreal landscape of grey, eroded clay hills about 45 km north of central Kaohsiung. The land is mudstone that erodes easily with each rainstorm, so vegetation cannot get a foothold — the result is a maze of bare ridges and gullies that looks more like a moonscape than a Taiwanese hillside.

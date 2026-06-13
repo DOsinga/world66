@@ -8,6 +8,7 @@ snippet: Tortellini in brodo and tagliatelle al ragù made the strictly traditio
 tags:
 - food
 - university_quarter
+score: 6.8
 ---
 
 Anna Maria has been a fixed point of Bolognese eating for decades. The signed photographs of regulars cover the walls — opera singers, actors, professors who came back week after week. The cooking is the strict orthodox Bolognese repertoire: tortellini in brodo at every season, tagliatelle al ragù with the long-cooked Emilian sauce, bollito misto in winter, gramigna con salsiccia, and the occasional surprise from the day's market.

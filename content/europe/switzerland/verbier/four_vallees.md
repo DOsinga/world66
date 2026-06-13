@@ -7,6 +7,7 @@ tags:
 title: 4 Vallées Ski Area
 type: poi
 snippet: Switzerland's largest connected ski area, 410 km of pistes
+score: 9.4
 ---
 
 The 4 Vallées is the largest connected ski area in Switzerland, linking Verbier with Nendaz, Veysonnaz, Thyon, La Tzoumaz and Bruson via more than 90 lifts and 410 km of marked piste. The terrain ranges from gentle beginner runs above La Tzoumaz to some of the steepest patrolled blacks in the Alps below Mont Fort.

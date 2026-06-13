@@ -13,6 +13,7 @@ story: >
   Soviet and Chinese patrols shot at each other across it. Standing on the bank
   at Beiji Village, the water between the two countries is perhaps 200 metres
   wide.
+score: 7.1
 ---
 
 The Amur River at Beiji Village is the actual border between China and Russia, and the Russian shore is close enough to see clearly. The trees on both banks are the same boreal species; the silence is the same silence. In summer, the river runs brown and swift; in winter it freezes solid and the ice creates a flat white expanse where the water was. For a few weeks each year, before the ice is judged too thin or too soft, local vehicles occasionally drive across to the Russian side through authorised crossings further east.

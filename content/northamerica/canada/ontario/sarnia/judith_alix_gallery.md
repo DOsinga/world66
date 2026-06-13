@@ -10,6 +10,7 @@ tags:
 address: 147 Lochiel Street, Sarnia
 opening_hours: 11:00–17:00 Tuesday–Sunday
 admission: Free
+score: 7.3
 ---
 
 The JNAAG, as it is known locally, is the unexpectedly strong small art gallery in downtown Sarnia, housed in a restored 1910 bank building. The permanent collection focuses on Canadian art from the Group of Seven onwards, including works by Lawren Harris, A.Y. Jackson, and Tom Thomson, donated mostly from the Alix family's private holdings.

@@ -1,6 +1,7 @@
 ---
 title: "Missouri River Recreation"
 type: poi
+score: 7.6
 ---
 
 The Missouri River is the reason Williston exists — the fur trade, the army posts, the steamboat era, and even the railroad all followed the river — and it remains the most rewarding natural feature in the immediate area. The confluence reach between the Yellowstone and the upper Lake Sakakawea reservoir is one of the few stretches of the Missouri that still flows in something close to its original state, with braided channels, cottonwood forests, and sandbars that shift with the spring floods.

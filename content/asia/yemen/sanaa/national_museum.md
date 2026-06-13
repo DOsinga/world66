@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: The country's main archaeological collection, in the former royal palace
+score: 8.6
 ---
 
 The National Museum is housed in Dar al-Shukr, the former palace of Imam Yahya — a many-storeyed Yemeni-style building just outside the old city walls. The collection traces Yemen's history from prehistoric times through the great kingdoms of Saba, Ma'in, Qataban, and Himyar to the Islamic period, with particular strength in pre-Islamic stone inscriptions, bronze sculpture, and alabaster reliefs from Marib, Shabwa, and the lost southern Arabian civilisations.

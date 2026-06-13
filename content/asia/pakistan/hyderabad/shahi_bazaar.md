@@ -9,6 +9,7 @@ latitude: 25.389167
 longitude: 68.372222
 sources:
   - https://en.wikipedia.org/wiki/Shahi_Bazaar
+score: 8.0
 ---
 
 The main traditional market of Hyderabad, north of the old city centre. Shahi Bazaar (Royal Market) has been the commercial heart of Sindh's second city for centuries. It is particularly known for Sindhi craft goods: ajrak (block-printed shawls in deep blue and red), lacquered furniture, embroidered textiles, Sindhi topi (the distinctive embroidered cap), and bangles.

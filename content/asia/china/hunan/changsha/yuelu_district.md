@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 28.1847
 longitude: 112.9327
+score: 7.6
 ---
 
 Yuelu District occupies the west bank of the Xiang River, centred on Hunan University and Yuelu Mountain. The character here is very different from the east bank: greener, quieter, university-shaped, with cafes and bookshops serving students and faculty mixed with temples and mountain trails serving older visitors. The area around the Yuelu Academy and the university campus is one of the more pleasant parts of Changsha for aimless walking.

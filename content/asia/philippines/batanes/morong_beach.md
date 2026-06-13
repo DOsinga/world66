@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.435
 longitude: 121.948
+score: 7.2
 ---
 
 Morong is the calmest beach on Batan, facing west and sheltered from the worst of the Pacific swells that pound the island's east coast. The sand is dark grey-brown — volcanic, like everything else in Batanes — and the water is clear enough to swim in during the March-to-May season when the sea settles down. It is not a tropical postcard beach, but it is a genuinely peaceful place to sit for an hour.

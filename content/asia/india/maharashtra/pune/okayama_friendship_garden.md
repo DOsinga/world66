@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.1
 ---
 
 A 25-acre Japanese garden modelled on the Korakuen garden in Okayama, Pune's sister city in Japan. Said to be the largest Japanese-style garden outside Japan, the layout has tea pavilions, stone lanterns, a stream with a koi pond, and a series of trimmed lawns arranged for slow walking and contemplation.

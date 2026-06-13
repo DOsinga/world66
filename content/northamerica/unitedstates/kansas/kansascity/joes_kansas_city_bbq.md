@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.0341
 longitude: -94.6740
+score: 8.0
 ---
 
 Joe's Kansas City is consistently ranked among the best barbecue restaurants in the country, and in a city of serious competitors that's a real claim. Originally operating out of a gas station (the original location at 47th and Mission in Kansas City, Kansas is still inside a working BP), Joe's has expanded but maintained its reputation for exceptional smoked meats.

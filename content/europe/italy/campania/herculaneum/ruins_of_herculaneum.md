@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Herculaneum
 story: >
   For decades archaeologists believed the town had been evacuated in time. Then in the 1980s, excavations at the marina uncovered hundreds of skeletons huddled in the boat sheds — entire families, soldiers still in armour, a woman with jewellery and a baby in her arms. They had waited for the sea to recede. It never did.
+score: 9.7
 ---
 
 Herculaneum is one of the best-preserved Roman towns in the world, sealed in 79 AD when Vesuvius sent pyroclastic surges — superheated avalanches of gas and rock — pouring down the mountainside. Unlike Pompeii, which was buried under metres of pumice, Herculaneum was entombed in volcanic material that carbonised wood, cloth, and food rather than simply smashing them. The result is extraordinary: wooden beams, doors, beds, and furniture have survived nearly two thousand years.

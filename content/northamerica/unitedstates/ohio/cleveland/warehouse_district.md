@@ -7,6 +7,7 @@ snippet: The 19th-century warehouse blocks turned into bars and lofts
 tags:
   - things_to_do
   - neighbourhood
+score: 6.8
 ---
 
 The Warehouse District is the few blocks of downtown immediately west of Public Square, built up in the second half of the 19th century with cast-iron commercial buildings serving the Lake Erie shipping trade. After a long decline, the buildings were converted to lofts and bars during the 1990s and the area is now Cleveland's main downtown nightlife district.

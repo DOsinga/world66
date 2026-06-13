@@ -9,6 +9,7 @@ story: >
   dropping over 600 vertical metres from the mountain to the valley base. After snowfall
   the run can take up to 40 minutes to complete at a sedate pace — or considerably less
   if you ignore that advice.
+score: 6.5
 ---
 
 The toboggan run (Talabfahrt Weglosen) descends from the ski area back down to the valley base at Weglosen, covering over 600 vertical metres of descent. Rental sleds are available at the base and the top; the run is illuminated on certain evenings so that night sledging is also possible.

@@ -8,6 +8,7 @@ tags:
   - sight
   - innere_stadt
 story: "Trotsky played chess at Café Central before the Russian Revolution. In January 1917, when the Austro-Hungarian foreign minister was told that revolution was imminent in Russia, he allegedly replied: 'And who shall lead this revolution? Perhaps Herr Bronstein, who sits over there at the Café Central?' Bronstein was Trotsky."
+score: 7.4
 ---
 
 The grandest of Vienna's surviving traditional coffeehouses, occupying the vaulted ground floor of the Palais Ferstel. Café Central opened in 1876 and quickly became a meeting place for the intellectual elite — Freud, Trotsky, Lenin, Adler, and the writers Peter Altenberg and Karl Kraus were all regulars. A papier-mâché figure of Altenberg still sits at the entrance.

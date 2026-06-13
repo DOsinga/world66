@@ -13,6 +13,7 @@ story: >
   for travellers on the road between the Caucasian kingdoms. It has survived
   without major reconstruction, meaning the stones underfoot are the same ones
   medieval merchants and monks walked on for centuries.
+score: 7.1
 ---
 
 The Sanahin Bridge is a medieval stone arch bridge spanning the Debed River in the centre of Alaverdi, one of the oldest and best-preserved medieval bridges in Armenia. It dates to the 11th century and connects the upper part of the town to the Sanahin district on the opposite bank of the river.

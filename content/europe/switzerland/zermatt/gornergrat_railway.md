@@ -14,6 +14,7 @@ story: >
   From the summit at 3,089 metres, twenty-nine peaks over 4,000 metres are
   visible; the Matterhorn fills the sky to the southwest and the Gorner Glacier
   sprawls below.
+score: 9.4
 ---
 
 The Gornergrat Railway climbs from Zermatt village to 3,089 metres at the Gornergrat summit in 33 minutes, making it the easiest way to reach an extraordinary alpine panorama. The open observation platform at the top is exposed and cold even in summer — bring a warm layer regardless of the weather below. In winter the railway serves as access to the Gornergrat ski area.

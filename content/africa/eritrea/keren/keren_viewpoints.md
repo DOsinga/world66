@@ -8,6 +8,7 @@ tags:
 - sight
 - nature
 snippet: Granite outcrops ringing the city offer views down into the bowl where Keren sits
+score: 7.3
 ---
 
 Keren sits in a bowl of granite hills, and climbing one of the surrounding outcrops gives you a view that explains the city's character immediately: a compact settlement in a rocky basin, surrounded by hills that kept it defensible for centuries and made it so difficult to take in 1941. The granite is dramatic — rounded boulders and steep faces — and the climbs, while none of them are technical, require some scrambling.

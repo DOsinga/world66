@@ -6,6 +6,7 @@ longitude: 21.7632
 tags:
   - things_to_do
   - neighbourhood
+score: 7.8
 ---
 
 Varousi is the old Turkish quarter of Trikala, clustered at the base of the castle hill. It's the most atmospheric part of the city — a dense cluster of old stone houses, some dating from the Ottoman period, connected by narrow lanes that have been gradually restored and repopulated with cafes, wine bars, and small restaurants. The neighbourhood has been carefully preserved rather than heavily developed, which gives it an unhurried character.

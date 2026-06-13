@@ -8,6 +8,7 @@ tags:
   - bar
 sources:
   - https://en.wikipedia.org/wiki/Porto_Seguro
+score: 5.9
 ---
 
 A well-established bar on the Passarela do Álcool strip, known for its extensive menu of house-infused *cachaças* — passion fruit, ginger, cinnamon, *umbu*, and a dozen others, presented in large glass jars along the bar. The standard order is a shot flight: four small glasses of different flavours, typically free to customers who buy a drink, though the portions are generous enough that most people end up buying more.

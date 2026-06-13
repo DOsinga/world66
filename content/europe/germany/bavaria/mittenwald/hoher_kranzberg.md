@@ -7,6 +7,7 @@ tags:
   - sight
 title: Hoher Kranzberg
 type: poi
+score: 7.3
 ---
 
 A 1,391-metre summit immediately west of Mittenwald, reached by a sequence of two chairlifts that climb out of the valley behind the town. The summit is grassy and unintimidating — an easy 10-minute walk from the top station — but the panorama across to the bare cliffs of the Karwendel is spectacular and the descent on foot, via the Korbinianhütte, is one of the classic walks of the area.

@@ -15,6 +15,7 @@ story: >
   farmers carry in melons, pomegranates, and walnuts from surrounding villages,
   and the permanent stalls fill with buyers who have been coming to the same vendors
   for decades.
+score: 8.6
 ---
 
 The Panjshanbe Bazaar is the beating heart of Khujand and one of the largest covered markets in Central Asia. The current building — a high Soviet-era structure with an elaborate mosaic-tiled facade — was built in the 1960s and 1970s, but the market it houses is immeasurably older, an unbroken thread of commerce on the Silk Road.

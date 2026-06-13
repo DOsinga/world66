@@ -14,6 +14,7 @@ tags:
 - music_venue
 title: Bluebird Cafe
 type: poi
+score: 9.0
 ---
 
 A 90-seat listening room in the Green Hills neighbourhood, and one of the most important small venues in American music. The Bluebird invented the songwriter-in-the-round format: four writers sit on stage and take turns performing the songs they wrote, often explaining what the song is about or how it came to be written. The format strips out the spectacle and leaves only the song.

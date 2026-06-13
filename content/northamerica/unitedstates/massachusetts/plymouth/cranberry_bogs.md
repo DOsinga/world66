@@ -9,6 +9,7 @@ tags:
   - sight
 title: Cranberry Bogs
 type: poi
+score: 6.8
 ---
 
 Plymouth County sits in the heart of Massachusetts cranberry country — the low, boggy terrain inland from the coast is ideal for the crop, and the harvest runs from late September through October. At peak harvest the bogs are flooded, turning the landscape an extraordinary deep red as the berries float to the surface to be corralled by harvesters in waders.

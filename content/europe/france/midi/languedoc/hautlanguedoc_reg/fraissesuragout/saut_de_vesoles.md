@@ -8,6 +8,7 @@ tags:
 latitude: 43.6142
 longitude: 2.8118
 story: "The cascade is fed by the overflow from the Lac de Vésoles reservoir far above. The thousand-step path was not always a leisure trail — local people used it for generations to carry provisions up to the farms on the plateau, a journey that had to be made year-round regardless of weather."
+score: 7.8
 ---
 
 The most spectacular natural sight in the Fraisse-sur-Agout area, the Saut de Vésoles is a powerful waterfall plunging from the plateau edge down to the valley floor. The cascade is visible from a distance and audible long before you reach it.

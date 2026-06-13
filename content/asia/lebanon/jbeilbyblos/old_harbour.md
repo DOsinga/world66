@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.1197
 longitude: 35.6464
+score: 8.4
 ---
 
 Byblos's old harbour is one of the most picturesque on the Lebanese coast — a small natural port ringed by fishing boats and seafood restaurants, with the walls of the archaeological site rising on one side and the Mediterranean stretching to the horizon on the other. The harbour has been in continuous use for thousands of years: Phoenician traders loaded cedar logs and olive oil here bound for Egypt; Roman galleys sheltered in the same cove. Today it hosts a small fishing fleet, pleasure craft, and a line of restaurants on the quayside.

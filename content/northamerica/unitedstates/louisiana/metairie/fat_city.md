@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.9947
 longitude: -90.1579
+score: 6.2
 ---
 
 Fat City is a commercial and entertainment district in the eastern end of Metairie that had its heyday in the 1970s, when it became one of the liveliest nightlife zones in the metro area. It declined sharply in the 1980s and 90s, but has staged a genuine comeback over the past decade with new restaurants and bars moving into the old strip-mall spaces.

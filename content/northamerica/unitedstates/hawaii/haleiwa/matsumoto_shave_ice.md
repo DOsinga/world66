@@ -6,6 +6,7 @@ tags:
   - haleiwa_town
 latitude: 21.5902
 longitude: -158.1034
+score: 6.2
 ---
 
 Matsumoto's at 66-087 Kamehameha Highway has been the canonical North Shore shave ice destination since 1951, when Mamoru and Helen Matsumoto opened a general store that evolved into a shave ice institution. The queue snakes out the door most days, but it moves quickly, and the result — a mound of finely shaved ice soaked in flavored syrup, optionally topped with azuki beans and sweetened condensed milk — is worth the wait.

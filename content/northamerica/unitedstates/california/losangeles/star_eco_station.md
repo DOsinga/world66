@@ -12,6 +12,7 @@ tags:
 title: STAR ECO Station
 type: poi
 url: www.ecostation.org
+score: 5.8
 ---
 
 A non-profit wildlife rescue center and environmental museum in Culver City housing over 100 species of endangered and exotic animals — tropical birds, wildcats, reptiles, and sea life — that have been confiscated by government agencies. Admission is modest and the hands-on encounter with wildlife gives it an educational edge that conventional zoos sometimes lack.

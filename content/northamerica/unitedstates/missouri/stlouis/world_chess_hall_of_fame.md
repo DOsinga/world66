@@ -8,6 +8,7 @@ tags:
 latitude: 38.6453
 longitude: -90.2580
 story: A 4.5-metre-tall king chess piece stands on the sidewalk outside the building — once held the Guinness record for the world's largest chess piece. Inside, exhibits change regularly; past shows have included a recreation of Bobby Fischer's hotel suite from the 1972 World Championship in Reykjavik.
+score: 7.4
 ---
 
 The World Chess Hall of Fame moved to St Louis in 2011, settling in the Central West End across the street from the Saint Louis Chess Club — itself one of the leading chess centres in the world. St Louis has emerged unexpectedly as the capital of American chess, largely through the patronage of billionaire Rex Sinquefield.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Isla Portete
 type: poi
+score: 6.8
 ---
 
 A short boat ride north of Mompiche, Isla Portete (also called Isla de Portete or Portete Beach) is a quieter alternative to the main village beach. The island has a long stretch of pale sand backed by low vegetation, with calm water that is better for swimming than the surf-exposed main beach. Boats leave from Mompiche when there are enough passengers or can be hired privately for a few dollars.

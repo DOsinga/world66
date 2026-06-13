@@ -8,6 +8,7 @@ latitude: 36.72
 longitude: -119.72
 story: >
   The Central Valley produces about a third of all the food grown in the United States. The stone-fruit orchards that make the Blossom Trail possible — peach, nectarine, almond, plum, and cherry — bloom in sequence from late February through March, the exact timing varying by species and elevation. A late frost can wipe out the blossoms in a night; the trail's spectacular quality is partly luck.
+score: 7.3
 ---
 
 The Fresno Blossom Trail is a 62-mile driving route through the stone-fruit and citrus orchards southeast of the city, best experienced from late February through March when the trees are in full flower. The route passes through the communities of Clovis, Sanger, Reedley, and Selma — the agricultural heartland of the San Joaquin Valley — with orchards of peach, almond, nectarine, plum, and cherry trees blooming in overlapping waves.

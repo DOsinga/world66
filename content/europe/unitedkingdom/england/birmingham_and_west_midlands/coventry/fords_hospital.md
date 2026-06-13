@@ -13,6 +13,7 @@ tags:
   - architecture
 title: Ford's Hospital
 type: poi
+score: 8.2
 ---
 
 Ford's Hospital on Greyfriars Lane is one of the finest surviving examples of half-timbered almshouse architecture in England, and it sits so unexpectedly in central Coventry that many visitors walk straight past the entrance on the lane. Built around 1509 by merchant William Ford to house poor men and their wives, the building is a masterpiece of late medieval timber framing: the upper storeys jut out over the narrow courtyard, and the carved barge-boards and projecting gables give it an almost theatrical richness.

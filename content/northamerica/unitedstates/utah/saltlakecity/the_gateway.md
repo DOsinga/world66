@@ -7,6 +7,7 @@ tags:
 latitude: 40.7672
 longitude: -111.9019
 address: 400 West 100 South
+score: 4.8
 ---
 
 The Gateway, an open-air mixed-use development between 200 South and North Temple, opened in 2001 around the restored Union Pacific Railroad station. The complex stretches several blocks and combines shopping, restaurants, the Clark Planetarium, Discovery Gateway children's museum, and apartments.

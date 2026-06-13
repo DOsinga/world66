@@ -6,6 +6,7 @@ longitude: 81.0033
 tags:
   - things_to_do
   - museum
+score: 6.7
 ---
 
 The modern archaeological museum near the main entrance was funded by UNESCO and is one of the best of its kind on the island. Glass cases display bronzes, ivories and ceramics from the excavations, and large-scale models reconstruct the major buildings as they stood when complete — useful before you walk out among the ruins.

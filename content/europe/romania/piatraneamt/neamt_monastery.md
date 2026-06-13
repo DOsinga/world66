@@ -14,6 +14,7 @@ tags:
   - sight
 title: Neamț Monastery
 type: poi
+score: 8.8
 ---
 
 Neamț Monastery, 12 km west of Piatra Neamț, is the oldest and most important monastery in Romania, with origins in the 14th century. The main church — the Church of the Ascension, rebuilt by Ștefan cel Mare in the 1490s — became the architectural model for Moldavian church construction for the following century. The plan, proportions, and decorative program were copied across the region.

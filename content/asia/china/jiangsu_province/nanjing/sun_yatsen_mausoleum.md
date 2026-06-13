@@ -9,6 +9,7 @@ tags:
 - sight
 - mausoleum
 story: The 392 steps up to the main hall are said to represent the 392 million Chinese people at the time of Sun Yat-sen's death in 1925. From the bottom, the entire staircase appears to be nearly flat — an optical illusion created by the progressive widening of each landing. Only once you start climbing does the steepness become apparent.
+score: 9.0
 ---
 
 Sun Yat-sen Mausoleum (中山陵) is the most visited site on Purple Mountain. Sun Yat-sen, founder of the Chinese Republic, died in 1925 and requested burial in Nanjing. The mausoleum was completed in 1929 in a design blending traditional Chinese palace architecture with Western monumental forms. A long marble ceremonial way leads from the ceremonial gateway through blue-roofed memorial archways to the white marble hall at the summit.

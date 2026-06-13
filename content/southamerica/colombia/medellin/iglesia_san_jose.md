@@ -9,6 +9,7 @@ tags:
 - el_centro
 title: Iglesia de San José
 type: poi
+score: 6.4
 ---
 
 A handsome late-nineteenth-century colonial-revival church on the small Parque San José downtown, with a quiet interior of dark wood and gilded altarpieces. Less visited than the Catedral Metropolitana a few blocks away and consequently a more contemplative stop on a walking circuit of the centre. Mass several times daily; otherwise the church is largely empty.

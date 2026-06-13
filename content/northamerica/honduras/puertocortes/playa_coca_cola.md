@@ -8,6 +8,7 @@ tags:
 latitude: 15.8458
 longitude: -87.9750
 snippet: "Local town beach on the western edge of the bay"
+score: 5.6
 ---
 
 Playa Coca Cola is the town beach of Puerto Cortés, a curve of light sand along the western side of the bay. The name comes from the long-gone beachfront kiosk that once sold soft drinks here. It is busy on weekends and during Semana Santa, when families drive in from San Pedro Sula and fill the beach with sun shelters and portable grills.

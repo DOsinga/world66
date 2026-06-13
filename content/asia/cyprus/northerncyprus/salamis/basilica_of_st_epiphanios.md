@@ -6,6 +6,7 @@ longitude: 33.9025
 tags:
 - things_to_do
 - sight
+score: 7.2
 ---
 
 In the centre of the site, surrounded by low pines, lie the foundations of what was once the largest church on Cyprus — the 4th-century basilica built by St. Epiphanios, the influential bishop of Salamis-Constantia. Only the column bases, low walls and floor plan remain, but the footprint is huge: a three-aisled nave with a separate baptistery to the south.

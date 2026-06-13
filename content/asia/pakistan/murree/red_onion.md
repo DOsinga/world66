@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: Red Onion
 type: poi
+score: 5.6
 ---
 
 A Murree institution since 1993, right on The Mall. The menu covers Mexican, Italian, Chinese, Pakistani, and continental dishes. Prices are moderate, the decor is modern by local standards, and the staff are friendly. A good all-rounder when you cannot agree on a cuisine.

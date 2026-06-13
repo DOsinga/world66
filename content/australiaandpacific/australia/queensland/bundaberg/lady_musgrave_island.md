@@ -8,6 +8,7 @@ tags:
 snippet: "Day trips to the southernmost coral cays of the Great Barrier Reef"
 latitude: -23.9015
 longitude: 152.3956
+score: 9.0
 ---
 
 The two coral cays of **Lady Musgrave** and **Lady Elliot** Islands are the closest pieces of the Great Barrier Reef to Bundaberg and the cheapest way to see it from mainland Queensland.

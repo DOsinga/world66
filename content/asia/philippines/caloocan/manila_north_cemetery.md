@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Several thousand people live permanently inside the cemetery's mausoleums, working as caretakers and tomb-cleaners for the families who own the plots. Children attend school, families cook and sleep among the marble tombs, and an unofficial economy operates within the cemetery's walls — making it one of Manila's most extraordinary informal communities."
+score: 8.5
 ---
 
 The Manila North Cemetery is one of the largest in Southeast Asia — 54 hectares of mausoleums, family plots, and gravel paths just south of Caloocan's historic centre. It is also a genuinely extraordinary place: families live among the dead, occupying tombs as houses and tending the plots of the wealthy in exchange for shelter. The result is a strange, slightly unsettling community that has fascinated photographers and journalists for decades.

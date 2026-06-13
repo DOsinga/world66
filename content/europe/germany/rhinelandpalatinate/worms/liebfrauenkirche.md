@@ -13,6 +13,7 @@ story: >
   estate-bottled wine from the Liebfrauenstift-Kirchenstück vineyard is still produced, and bears
   little resemblance to the supermarket version.
 snippet: "14th-century Gothic church that gave its name to Liebfraumilch"
+score: 7.0
 ---
 
 A graceful twin-spired Gothic church standing alone in the middle of vineyards north of the city

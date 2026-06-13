@@ -7,6 +7,7 @@ tags:
 - downtown
 latitude: 38.6306
 longitude: -90.1995
+score: 8.0
 ---
 
 The St Louis Public Library's Central branch occupies a Cass Gilbert-designed Beaux-Arts building from 1912 — funded, like many central libraries of its era, by Andrew Carnegie. The building underwent a 70-million-dollar renovation in 2012 that scrubbed decades of grime, restored painted ceilings, and added a glassed-in modern auditorium underneath.

@@ -5,6 +5,7 @@ tags: [things_to_do, nature, sight]
 latitude: -9.6833
 longitude: 15.5667
 story: The Black Rocks rise abruptly from the savannah like a ruined castle — massive dark monoliths up to 200 metres high. In the 17th century they were the natural fortress of Queen Nzinga, the Mbundu ruler who fought the Portuguese for forty years; her footprints, locals will tell you, are still pressed into one of the rocks.
+score: 8.6
 ---
 
 About 115 km west of Malanje, the Pedras Negras are unmistakable: huge volcanic outcrops scattered across an otherwise empty plain, looking nothing like anything else in the region. You can drive right to their base, scramble around the lower slopes, and with a guide reach viewpoints over the surrounding country.

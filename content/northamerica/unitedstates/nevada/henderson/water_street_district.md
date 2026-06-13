@@ -8,6 +8,7 @@ latitude: 36.032727
 longitude: -114.983047
 sources:
   - https://en.wikipedia.org/wiki/Water_Street_District_(Henderson,_Nevada)
+score: 6.4
 ---
 
 Water Street is Henderson's downtown — a compact strip of older commercial buildings that predates the suburban sprawl that surrounds it. The city has invested in revitalizing the area, and it now has a reasonable concentration of locally-owned restaurants, bars, and small shops, along with the Pass Casino (one of the few downtown gambling establishments in the Las Vegas Valley that isn't on the Strip).

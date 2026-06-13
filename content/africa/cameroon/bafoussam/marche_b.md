@@ -8,6 +8,7 @@ latitude: 5.4745
 longitude: 10.4280
 sources:
   - https://www.openstreetmap.org
+score: 6.4
 ---
 
 Marché B is Bafoussam's secondary market and considerably less visited by travellers than the larger Marché A a few hundred metres to the west. That is partly its appeal — the mix of secondhand clothing, hardware, and everyday household goods here is aimed squarely at local buyers, and the prices reflect it. This is where you find secondhand European and American clothing arriving through the West African ports, sold in bulk bales and then by the piece at prices that make Western charity shops look expensive.

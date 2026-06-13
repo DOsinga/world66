@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - klcc
   - sight
+score: 6.8
 ---
 
 A modern aquarium tucked beneath the KL Convention Centre, with around 5,000 animals across 250 species — sand tiger sharks, giant freshwater stingrays from the Mekong, electric eels, sea otters, and a small Amazon flooded-forest exhibit. The headline feature is a 90-metre walk-through acrylic tunnel beneath a tropical reef tank that puts visitors face to face with the sharks and rays gliding overhead.

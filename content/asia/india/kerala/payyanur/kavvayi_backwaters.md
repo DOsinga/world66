@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Kavvayi_Backwaters
   - https://en.wikipedia.org/wiki/Kavvayi_Islands
+score: 8.0
 ---
 
 Kavvayi Backwaters form the largest backwater system in northern Kerala, covering 37 square kilometres of interconnected channels, islands, and lagoons near Payyanur. They are far less visited than the famous Alleppey backwaters further south and retain a genuine quality that the more touristy stretches have lost — fishing villages, coconut groves, and quiet channels that you share with kingfishers rather than houseboat convoys.

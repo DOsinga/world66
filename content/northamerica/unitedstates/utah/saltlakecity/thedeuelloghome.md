@@ -7,6 +7,7 @@ tags:
 - historic_house
 title: The Deuel Log Home
 type: poi
+score: 5.8
 ---
 
 The Deuel Log Home, built in 1847, is one of the oldest surviving structures from the original Mormon settlement of the Salt Lake Valley. It now stands near Temple Square, between the Museum of Church History and Art and the Family History Library, having been relocated from its original site to preserve it.

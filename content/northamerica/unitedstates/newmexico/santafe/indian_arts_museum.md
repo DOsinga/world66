@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 35.6726
 longitude: -105.9239
+score: 8.6
 ---
 
 The principal museum of Native American art in New Mexico, on Museum Hill next to the folk art museum. The collections cover Ancestral Puebloan pottery, contemporary Native art, weavings, and a remarkable jewellery hall — including signature pieces by Charles Loloma, Maria Martinez, and other defining twentieth-century artists.

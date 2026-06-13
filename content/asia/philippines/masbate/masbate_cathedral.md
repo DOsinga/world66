@@ -9,6 +9,7 @@ latitude: 12.3686
 longitude: 123.6188
 sources:
   - https://en.wikipedia.org/wiki/Masbate_Cathedral
+score: 5.8
 ---
 
 The Cathedral of Saint Anthony of Padua is the main Catholic church of Masbate City and the seat of the Diocese of Masbate, established in 1998. The building sits prominently on Quezon Street near the city centre and serves as the focal point for the religious festivals that punctuate Masbate's calendar — particularly the Feast of Saint Anthony in June and the Holy Week processions.

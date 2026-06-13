@@ -7,6 +7,7 @@ tags:
 latitude: 48.8156
 longitude: 8.1322
 story: "The Iffezheim spring meeting and the late-summer **Grosse Woche** are the most prestigious flat-racing events in Germany. The course was built in 1858 with funding from Baden-Baden's casino, to keep wealthy visitors entertained when the gaming tables shut for the day."
+score: 5.6
 ---
 
 The **Iffezheim** racecourse, about ten kilometres north-west of Baden-Baden, is the home of German thoroughbred racing. Three meetings a year — spring, late summer (the *Grosse Woche*), and autumn — draw crowds of 50,000-plus and bring the same theatrical Ascot-style dress codes you would expect at any old-money racing venue.

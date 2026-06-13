@@ -8,6 +8,7 @@ tags:
 latitude: 32.7741
 longitude: -117.2293
 snippet: A 4,200-acre aquatic park — the largest in the US — designed for watersports, picnics, and views of downtown
+score: 6.4
 ---
 
 Mission Bay was a shallow tidal marsh until the 1940s, when the city dredged it into a recreational lagoon as part of a comprehensive plan for the area. The result is a 4,200-acre aquatic park — the largest man-made aquatic park in the United States — ringed by 27 miles of shoreline, most of it sandy beach, with calm protected water inside and the Pacific ocean outside.

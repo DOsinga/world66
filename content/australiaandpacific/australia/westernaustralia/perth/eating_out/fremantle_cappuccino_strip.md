@@ -7,6 +7,7 @@ tags:
   - outdoor_dining
 latitude: -32.0555
 longitude: 115.7480
+score: 6.9
 ---
 
 South Terrace in Fremantle has been known as the Cappuccino Strip since the 1980s, when Italian-Australian café culture took hold here earlier than almost anywhere else in Australia. The outdoor tables and umbrellas along this block of South Terrace — facing the Fremantle Markets and the pedestrian traffic of the town centre — constitute one of the most genuinely pleasant al-fresco eating and drinking experiences in Western Australia. It is not the most sophisticated café scene in the country, but it has the good sense to be outside in excellent weather, which counts for a great deal.

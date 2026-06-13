@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, deli]
 latitude: 51.7213
 longitude: -9.4367
+score: 7.1
 ---
 
 A fifteen-minute drive north of Bantry, on the road to Glengarriff, sits one of West Cork's great food shops — a delicatessen and tapas bar opened by the late Val Manning in the 1970s and continued today by his successors. The shelves are a survey of the region's small producers: Gubbeen cheeses, Sally Barnes smoked fish, Arbutus breads, raw honey, charcuterie from local farms.

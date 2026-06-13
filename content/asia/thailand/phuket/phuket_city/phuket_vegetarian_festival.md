@@ -14,6 +14,7 @@ story: >
   Gods. Phuket's Chinese community adopted the festival as an annual observance, and it has grown into one of the most
   extraordinary religious events in Southeast Asia — famous worldwide for the acts of self-mortification performed by
   spirit mediums.
+score: 8.7
 ---
 
 The Phuket Vegetarian Festival runs for nine days each year, beginning on the first evening of the ninth lunar month (typically October). It is a Taoist festival of Chinese origin, dedicated to the Nine Emperor Gods, and it involves rituals of purification: participants follow a strict vegetarian diet, dress in white, and the most devoted act as spirit mediums, performing acts of extreme devotion — walking on hot coals, climbing ladders of blades, and piercing their cheeks and tongues with skewers and other objects — believed to be proof of divine possession.

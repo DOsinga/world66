@@ -15,6 +15,7 @@ story: >
   conservation. The whole village — rorbuer, drying racks, jetties, store — was
   catalogued and restored. Many of the cabins are still in use by winter
   fishermen and let to tourists in summer.
+score: 8.8
 ---
 
 Nusfjord sits at the head of a narrow, almost enclosed fjord on the southern coast of Flakstadøya, reached by a winding three-kilometre side road off the E10. The yellow and red rorbuer (fishermen's cabins) cluster around the inner basin, with drying racks for cod still in use through the winter season. The village is essentially private — owned by the company that runs the hotel and rorbu rentals — but the harbour, the chapel, and the historic store are all open to visitors.

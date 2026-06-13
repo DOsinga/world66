@@ -15,6 +15,7 @@ story: >
   at night the pontoons were chained together and the bridge served as a toll crossing. The current
   reconstruction operates the same mechanism, though now mostly as a demonstration rather than
   a practical ferry.
+score: 9.4
 ---
 
 Guangji Bridge, built in 1170, is one of the oldest surviving bridges in China and the one structure in Chaozhou that every visitor makes time for. It spans the Han River in a hybrid form — stone arches at both ends, with a central section of floating pontoons that were designed to be unmoored to allow large vessels to pass. The mechanism still functions, and watching the pontoon section swing open is a particular pleasure if you happen to be there at the right time.

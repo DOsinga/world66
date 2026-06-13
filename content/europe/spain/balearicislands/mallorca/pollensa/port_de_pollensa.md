@@ -6,6 +6,7 @@ longitude: 3.0817
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 Port de Pollença — Puerto Pollensa to most British visitors — is the beach resort six kilometres east of the old town. It curves around a long sheltered bay, with a sandy beach running for most of its length and the Pine Walk (Passeig Anglada Camarasa) along the shore as the prettiest promenade on the north of the island.

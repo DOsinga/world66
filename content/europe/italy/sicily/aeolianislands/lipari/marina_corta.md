@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.3
 ---
 
 Marina Corta is the smaller and more atmospheric of Lipari town's two harbours, on the south side of the castle rock. Small fishing boats and ferries to short-hop destinations tie up here; the quayside is lined with cafes and gelaterias. Two churches — the small Anime del Purgatorio out on a tiny harbour breakwater and San Giuseppe just inland — give the square its character.

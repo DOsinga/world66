@@ -6,6 +6,7 @@ tags:
   - eating_out
 title: Market Food Stalls
 type: poi
+score: 5.3
 ---
 
 The central market in M'Baïki has a cluster of food stalls where women sell cooked food throughout the morning. Beignets (fried dough), grilled plantain, roasted peanuts, and skewers of meat appear regularly. Freshly prepared groundnut sauce ladled over rice or cassava is a market staple.

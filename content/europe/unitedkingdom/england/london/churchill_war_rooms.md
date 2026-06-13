@@ -15,6 +15,7 @@ opening_hours: Daily 9:30am-6pm (last entry 5pm)
 url: www.iwm.org.uk
 story: >
   When the war ended in August 1945, the lights were turned off and the doors were locked. The site was forgotten for decades — there are notes pinned to walls dated 1945, maps still showing front lines, an unsmoked cigar on a desk. The Map Room was opened to the public almost exactly as it had been left, including the original sugar lumps in a tin, which the staff had hoarded throughout rationing.
+score: 9.1
 ---
 
 A flight of steps down from St James's Park leads to a low-ceilinged warren of rooms where Churchill, his War Cabinet, and the joint planning staff ran Britain through the Second World War. The site was a working bunker from August 1939 to August 1945, then sealed up and left untouched until it opened as a museum in 1984. The Map Room, the Cabinet Room, the transatlantic telephone room (a cleverly disguised lavatory door), and Churchill's own bedroom all survive as they were used.

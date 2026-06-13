@@ -8,6 +8,7 @@ latitude: 28.0000
 longitude: 102.4000
 story: >
   Luoji Mountain's Chinese name means "Congealed Dew Mountain," a reference to the unusual moisture concentration on its upper slopes — the same climatic feature that feeds the hot springs at its base and gives the summit glacial lakes their extraordinary clarity. The 72 peaks above 4,000 metres made it a significant reference point in Yi cosmology long before it became a hiking destination.
+score: 8.5
 ---
 
 Luoji Mountain, rising southeast of Xichang to its highest point at 4,359 metres, is the most dramatic natural feature accessible from the city with proper planning. The mountain's 72 peaks above 4,000 metres contain glacial lakes, hot springs at the lower altitudes, and high-alpine terrain that sees very few Western visitors. The standard approach from the village of Maxiang on the western slope takes two to three days round trip.

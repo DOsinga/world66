@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Sumur Gumuling
 type: poi
+score: 7.1
 ---
 
 An underground mosque connected by tunnels to Taman Sari and the old palace near Pasar Ngasem. The circular structure with its atmospheric underground passages has become a popular spot for photography and music video shoots. The section of tunnel leading toward Parangtritis beach is now closed for safety reasons.

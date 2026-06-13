@@ -10,6 +10,7 @@ story: >
   Le Corbusier visited the M'zab Valley in 1931 and was so struck by Mozabite urbanism that it influenced some of his most important theoretical work. The way the ksour organize housing, circulation, and community around a religious centre — with private space strictly separated from public — fed directly into his ideas about the relationship between architecture and society. He never credited the source explicitly.
 sources:
   - https://en.wikipedia.org/wiki/Ghardaïa
+score: 8.8
 ---
 
 The old town of Ghardaia is the largest of the five M'zab ksour and the most accessible for visitors. Built by Ibadi Mozabites over a thousand years ago, it rises in concentric tiers of pale yellow and ochre houses around a central mosque and minaret at the hilltop. The streets are narrow enough to create shade even at midday — a deliberate design for desert conditions.

@@ -6,6 +6,7 @@ longitude: 44.3278
 tags:
   - things_to_do
   - sport
+score: 4.6
 ---
 
 A multi-purpose stadium north of the old city, home to Najaf FC of the Iraqi Premier League. Football is taken seriously in southern Iraq, and matches against rivals from Baghdad and Basra draw raucous crowds.

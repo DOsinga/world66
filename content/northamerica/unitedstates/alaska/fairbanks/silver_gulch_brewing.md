@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 64.8227
 longitude: -147.6094
+score: 6.2
 ---
 
 Silver Gulch holds the distinction of being the northernmost brewery in the United States, a fact it displays proudly. The brewpub is located about 10 miles south of downtown Fairbanks on the Old Richardson Highway in Fox, a former mining settlement.

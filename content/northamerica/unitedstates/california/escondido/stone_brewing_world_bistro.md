@@ -8,6 +8,7 @@ tags:
   - restaurant
 latitude: 33.1157
 longitude: -117.1199
+score: 6.4
 ---
 
 Stone Brewing is one of the best-known craft breweries in the United States, and its World Bistro and Gardens at the Escondido headquarters is a destination in its own right. The restaurant is set in a converted warehouse surrounded by gardens, with an outdoor dining area full of palms and boulders that feels like a Southern California fantasy version of a beer garden.

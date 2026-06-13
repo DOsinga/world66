@@ -9,6 +9,7 @@ longitude: -114.0785
 snippet: "Professional summer theatre company staging Broadway musicals for over 60 years"
 story: >
   The Bigfork Summer Playhouse began in 1960 when a group of theatre students and professionals decided that a small Montana village on Flathead Lake was exactly where they wanted to spend their summers. The gamble paid off — the company has maintained professional standards while growing into one of Montana's most beloved cultural institutions, drawing audiences from across the region.
+score: 6.8
 ---
 
 The Bigfork Summer Playhouse has been staging professional theatre in this small Montana village since 1960, which makes it one of the longest-running professional summer companies in the Northwest. The productions are full-scale Broadway musicals and comedies, performed by professional actors and musicians recruited from around the country.

@@ -15,6 +15,7 @@ story: >
   California. It was added to the National Register of Historic Places in 1993.
 sources:
   - https://en.wikipedia.org/wiki/Hotel_Arcata
+score: 6.9
 ---
 
 The Hotel Arcata anchors the southwest corner of the Plaza — a four-story brick building from 1915 that has been in continuous operation ever since. It's a National Historic Place and the most prominent piece of early twentieth-century architecture in the city center. The ground floor houses a restaurant and bar that open onto the Plaza, and the upper floors remain a working hotel.

@@ -8,6 +8,7 @@ latitude: 30.6595
 longitude: 104.0549
 story: >
   People's Park contains what may be the world's most democratic teahouse culture. On any weekday afternoon, hundreds of retirees occupy bamboo chairs around the park's tea pavilions, paying a few yuan for bottomless jasmine tea served in traditional covered bowls (gaiwan). Ear-cleaners and masseuses circulate through the crowd. Between sessions they play mahjong, practise tai chi, or simply watch the city pass by. In a culture of hurry, it is an island of deliberate slowness.
+score: 8.3
 ---
 
 People's Park in the city centre is Chengdu's living room. The park's teahouses are the most atmospheric in the city — large outdoor pavilions where old men spend the afternoon with jasmine tea and newspapers, punctuated by the clack of mahjong tiles. The park also has a small lake with rowing boats, a memorial to the Sichuan Railway Protection Movement (an uprising that inadvertently triggered the 1911 revolution), and a good night market around the edges after dark.

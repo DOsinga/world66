@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: 35.439662
 longitude: -95.986514
+score: 5.6
 ---
 
 Two small lakes near Henryetta provide the main outdoor recreation for the area. Lake Henryetta, just south of town, is the larger of the two and the site of the annual Fourth of July fireworks display. Both lakes are stocked and popular with local anglers — bass and catfish are the main catches. Nichols Lake is quieter and better for a relaxed afternoon.

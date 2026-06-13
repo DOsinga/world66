@@ -7,6 +7,7 @@ tags:
 title: River Ouse
 type: poi
 snippet: "York's central river, best seen by boat or from the riverside walks connecting the bridges"
+score: 6.9
 ---
 
 The River Ouse runs through the heart of York, dividing the city's old commercial quarter from the area around the Minster and the castle. The riverside walk from Lendal Bridge south to Skeldergate Bridge, and then back on the opposite bank, is one of the pleasant walks in the city — taking in the backs of the Georgian terraces, the boatyards, and the open space of the riverbanks. In summer the river is busy with hired rowing boats and pleasure cruisers; in winter it sometimes floods, and the lower riverside paths can be submerged.

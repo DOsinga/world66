@@ -9,6 +9,7 @@ latitude: 39.3833
 longitude: 45.5667
 story: >
   Batabat Lake sits at around 2,200 metres altitude and was created when a landslide dammed the Shahbuz River — a relatively recent geological event in a district full of ancient human history. The Farhad Tower, a Bronze Age watchtower, stands near the lake's shore; the juxtaposition of a prehistoric fortification and a lake that did not exist in prehistoric times says something about how thoroughly this landscape has shifted over the millennia.
+score: 7.8
 ---
 
 Batabat Lake is a high-altitude alpine lake in the Shahbuz district, used as a water reservoir and notable for its scenery and the mineral springs nearby. The lake sits in mountain country at over 2,000 metres, surrounded by the peaks of the Zangazur range.

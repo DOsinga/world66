@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 22.9930
 longitude: 120.2040
+score: 6.4
 ---
 
 T-Ear is a compact bar and cafe in the old centre that operates as a coffee shop during the day and transitions into a cocktail bar in the evenings. The space is in a restored Japanese-era building with low ceilings, wooden beams, and the kind of slightly eccentric decor — vintage signage, mismatched furniture, shelves of odd objects — that Tainan's independent cafe culture does well. The coffee is good; the cocktails lean toward creative variations on sours and highballs using local spirits and seasonal fruit.

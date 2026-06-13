@@ -8,6 +8,7 @@ latitude: 47.6540
 longitude: 23.5720
 sources:
   - https://en.wikipedia.org/wiki/Baia_Mare
+score: 7.6
 ---
 
 Baia Mare's name means "Great Mine" and the city's identity has been shaped by centuries of silver and gold extraction from the surrounding mountains. The Miners' Museum documents this heritage through equipment, photographs, and reconstructed mine workings. It is more interesting than it might sound: the scale of the historical mining operations was remarkable, and the social history of the mining communities is told with some depth.

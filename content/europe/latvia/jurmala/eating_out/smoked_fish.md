@@ -1,6 +1,7 @@
 ---
 title: "Smoked Fish"
 type: poi
+score: 6.9
 ---
 
 Smoked fish is the defining food of Jurmala and the wider Riga coast. Baltic sprat (brislings), smoked eel, and hot-smoked Baltic herring are all local staples, and you'll find them sold from small kiosks, at market stalls, and on restaurant menus throughout the town. The best versions are hot-smoked over alder wood and eaten the same day — the flesh is soft and intensely flavoured, very different from the vacuum-packed product sold in supermarkets.

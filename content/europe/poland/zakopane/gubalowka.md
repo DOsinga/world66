@@ -7,6 +7,7 @@ tags:
 - sight
 title: Gubałówka
 type: poi
+score: 8.0
 ---
 
 Gubałówka (1,120 m) sits directly above Zakopane and is the easiest high viewpoint from the town — reached in five minutes by the funicular railway from the bottom of Krupówki Street. The view from the top takes in the entire Zakopane valley with the main Tatra ridge behind it, and on clear days extends south into Slovakia.

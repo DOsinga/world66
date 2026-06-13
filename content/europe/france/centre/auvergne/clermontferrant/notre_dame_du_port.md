@@ -14,6 +14,7 @@ tags:
 - church
 title: Basilique Notre-Dame du Port
 type: poi
+score: 8.8
 ---
 
 Notre-Dame du Port is a Romanesque basilica in the old town of Clermont-Ferrand, a few minutes' walk from the cathedral, and one of the most important Romanesque monuments in France. It was inscribed as a UNESCO World Heritage Site in 1998 as part of the Santiago de Compostela pilgrimage routes, which pass through the Auvergne on the Via Podiensis. The church dates from the 11th and 12th centuries and is built in the distinctive Auvergnat Romanesque style: stocky, dark, with a monumental quality quite different from the more delicate Norman and Loire Valley churches.

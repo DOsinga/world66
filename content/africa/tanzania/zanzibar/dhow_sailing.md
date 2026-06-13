@@ -8,6 +8,7 @@ tags:
   - activities
   - culture
 snippet: Traditional wooden sailing vessels and the best way to see Zanzibar from the sea
+score: 7.6
 ---
 
 A **dhow** is the traditional lateen-rigged wooden sailing vessel that has connected the Swahili coast, the Arabian Peninsula, Persia, and India for over a thousand years. Zanzibar was one of the great dhow ports of the Indian Ocean — monsoon winds allowed reliable round trips between Arabia and East Africa, carrying slaves, ivory, spices, and cloth. The monsoon economy shaped everything about the island, from its language to its architecture to its cuisine.

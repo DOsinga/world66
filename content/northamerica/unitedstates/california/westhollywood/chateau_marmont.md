@@ -11,6 +11,7 @@ longitude: -118.3686
 story: "John Belushi died in bungalow 3 on 5 March 1982. Jim Morrison tried to swing from the roof by his fingers. Led Zeppelin rode motorcycles through the lobby. The hotel's policy of complete discretion — no photographs, staff trained to forget what they saw — made it the place where the industry came to misbehave, and it still operates on that understanding today."
 sources:
   - https://en.wikipedia.org/wiki/Chateau_Marmont
+score: 7.8
 ---
 
 The Chateau Marmont at 8221 Sunset was built in 1927 as apartments in a Norman castle style — turrets, steeply pitched rooflines, a facade that looks faintly European from the boulevard below. Harry Cohn of Columbia Pictures told his stars to stay here if they wanted to misbehave; the advice was taken seriously for the next seventy years.

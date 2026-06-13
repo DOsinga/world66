@@ -11,6 +11,7 @@ story: >
   slang term "macaroni" for a dandy or fashionable gentleman — a usage immortalised
   in the American song "Yankee Doodle." How the name arrived on this particular
   beach is lost to Caribbean history.
+score: 8.5
 ---
 
 Macaroni Beach is the showpiece of Mustique: a wide arc of pale sand on the Atlantic-facing eastern coast, framed by sea-grape trees at each end and open to the full force of the easterly swells. The surf here is more energetic than on the leeward side, making it the best spot on the island for bodyboarding or simply watching waves do interesting things.

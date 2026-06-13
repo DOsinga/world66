@@ -6,6 +6,7 @@ tags:
 - sight
 title: Camellia Gardens
 type: poi
+score: 7.2
 ---
 The grounds of Soutomaior castle are among the finest gardens in Galicia, a region whose mild, wet climate produces conditions close to ideal for camellias and other acid-loving plants. Hundreds of camellia specimens grow throughout the terraced gardens, ranging from compact bushes to trees several metres tall, and the collection includes cultivars that are rare elsewhere in Europe. From January through March the colours are extraordinary — deep reds, pinks, and whites massed against the grey granite walls of the castle.
 

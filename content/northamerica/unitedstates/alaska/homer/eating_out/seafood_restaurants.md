@@ -7,6 +7,7 @@ tags:
 latitude: 59.6060
 longitude: -151.4870
 snippet: Fresh halibut, salmon, and crab at the seafood restaurants on Homer Spit
+score: 6.8
 ---
 
 The Spit has several seafood restaurants and fish markets where you eat what came off the boats that morning. The Fish Dock and Captain Pattie's Fish House are the best-known, both serving halibut in various preparations — grilled, battered and fried, in chowder — alongside Dungeness crab, Kachemak Bay oysters, and fresh salmon. Prices are honest by Alaska standards (which means elevated by the standards of anywhere else), and the quality is high.

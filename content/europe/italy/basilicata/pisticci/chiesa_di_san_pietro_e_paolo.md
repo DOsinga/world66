@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.3908
 longitude: 16.5571
+score: 6.8
 ---
 
 The church of Saints Peter and Paul is the main church of Pisticci's old centre, with a baroque facade that rises above the main piazza. The interior contains several notable paintings and wooden carvings, including a carved wooden choir typical of southern Italian baroque churches, and the scale of the building reflects the historic wealth of the town at its height.

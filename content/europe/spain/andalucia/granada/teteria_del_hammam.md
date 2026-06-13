@@ -10,6 +10,7 @@ tags:
 - albaicin
 title: Tetería del Hammam
 type: poi
+score: 6.1
 ---
 
 A Moroccan-style tearoom on a quiet street near Plaza Nueva, perfect for winding down after an afternoon at the Alhambra. The menu runs to dozens of teas from around the world — light Darjeelings, strong Pakistani blends, fragrant North African mints — all served in elegant teapots. There are biscuits and small cakes to go with them.

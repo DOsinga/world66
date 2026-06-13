@@ -8,6 +8,7 @@ tags:
   - sight
   - innere_stadt
 story: "By Habsburg custom, the body of a deceased emperor was divided three ways: the heart was placed in a silver urn at the Augustinerkirche, the entrails went to the Stephansdom, and the rest was interred here in a richly decorated tin coffin. Maria Theresa's double sarcophagus, designed for herself and her husband, is the largest in the crypt and shows them rising from the dead together."
+score: 8.7
 ---
 
 Beneath the modest Capuchin church on Neuer Markt lies the burial place of 145 members of the Habsburg dynasty, from the Thirty Years' War to the present day. The Kaisergruft has been used continuously since 1633 and is divided into ten vaults that grow progressively more theatrical: simple stone tombs give way to enormous rococo sarcophagi.

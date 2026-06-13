@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic_house
+score: 5.8
 ---
 
 The Robert L. McKenzie House (also known as the Belle Booth House) is a Queen Anne residence at 17 East 3rd Court, built in 1907 for one of Panama City's founding entrepreneurs. It is the oldest surviving residential building downtown, with a wrap-around porch, decorative shingled gables, and a small turret with a steeply pitched roof.

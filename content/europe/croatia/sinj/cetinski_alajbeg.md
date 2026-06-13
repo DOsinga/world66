@@ -6,6 +6,7 @@ longitude: 16.6404
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 A handsome stone building in the centre of town that serves as the headquarters of the Viteško Alkarsko Društvo — the Knights' Alkar Society that organises the tournament. The courtyard is lined with old photographs of past winners (alkari), and the building also functions as ceremonial venue and event space.

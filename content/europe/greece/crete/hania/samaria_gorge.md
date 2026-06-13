@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Samaria_Gorge
 story: >
   The narrowest point of the gorge — the Iron Gates (Sideroportes) — is just 3 metres wide, with walls rising 300 metres on either side. The gorge is home to the Cretan wild goat (kri-kri), now found almost nowhere else in the world. The gorge was carved by the Tarraios River over millions of years and was inhabited continuously from Minoan times until the village of Samaria was evacuated in 1962 to create the national park.
+score: 9.5
 ---
 
 The Samaria Gorge is the most famous day trip from Hania and one of the great walks in Greece. The route descends 16 km from the Omalos plateau at 1,227 metres to the village of Agia Roumeli on the Libyan Sea, passing through the White Mountains National Park on a well-maintained trail through towering limestone cliffs, pine and cypress forest, and the narrow Iron Gates passage. Allow five to seven hours; the gorge is open from May to early October.

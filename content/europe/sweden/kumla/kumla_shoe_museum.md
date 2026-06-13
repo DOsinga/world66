@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 59.1172
 longitude: 15.1249
+score: 7.8
 ---
 
 The Kumla Shoe Museum (Skomuseet) tells the story of the shoe manufacturing industry that once made Kumla one of Sweden's most productive industrial towns. At its peak in the mid-20th century, the town had dozens of shoe factories and was producing a significant fraction of all footwear sold in Sweden. The decline of domestic manufacturing through the 1970s and 1980s shuttered most of them.

@@ -8,6 +8,7 @@ latitude: 26.7502
 longitude: 83.3742
 sources:
   - https://en.wikipedia.org/wiki/Gorakhpur
+score: 5.9
 ---
 
 Arogya Mandir is a well-known naturopathy and Ayurvedic hospital and research centre near the Gorakhnath Temple complex. Founded in connection with the Nath tradition's long association with traditional medicine and yoga therapy, it attracts patients from across north India seeking treatment for chronic conditions through natural means — diet, yoga, herbal treatment, and fasting cures.

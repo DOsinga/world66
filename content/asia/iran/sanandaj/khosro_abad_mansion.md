@@ -15,6 +15,7 @@ story: >
   performances, was meant to impress Persian officials while remaining distinctly of this place.
 sources:
   - https://en.wikipedia.org/wiki/Khosro_Abad_Mansion
+score: 8.2
 ---
 
 The Khosro Abad Mansion is the most impressive historical building in Sanandaj, dating to the Zand and early Qajar periods (18th–19th century). Built by the Kurdish governors of Senna as a residence and seat of regional power, it combines the formal elements of Persian palace architecture — iwan porticos, decorative tile work, mirrored reception rooms — with local Kurdish sensibilities.

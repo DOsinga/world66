@@ -9,6 +9,7 @@ latitude: 7.6097
 longitude: 99.0614
 story: >
   The wooden shophouses along Old Town's main street were built on stilts over the water by Chinese merchants in the late 19th century, many of whom came from the same coastal villages in southern China. The sea gypsies (Chao Leh) who live at the southern end of Old Town have their own distinct language and traditions, and their settlement here predates both the Chinese traders and the Thai state.
+score: 8.4
 ---
 
 Old Town (Ban Ko Lanta) on the island's east coast is the most atmospheric spot on Koh Lanta — a row of wooden shophouses built over the water on stilts, with fishing boats tied up below and cats sleeping in the shade. The architecture dates from the late 19th century, when this was a prosperous trading port settled by Chinese merchants and sea gypsies.

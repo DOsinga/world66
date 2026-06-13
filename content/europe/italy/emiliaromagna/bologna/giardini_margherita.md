@@ -7,6 +7,7 @@ snippet: Bologna's largest central park, with a boating lake and summer kiosks
 tags:
 - things_to_do
 - park
+score: 6.3
 ---
 
 Just outside Porta Santo Stefano on the southern edge of the old city walls, the Giardini Margherita is the city's main park — laid out in 1879 in the loose English landscape style. Boulevards loop past lawns, a small lake with rowing boats, an Etruscan tomb relocated here for display, and the Serre dei Giardini, a former greenhouse complex now used as a bar and cultural centre.

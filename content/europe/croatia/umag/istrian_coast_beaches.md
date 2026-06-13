@@ -8,6 +8,7 @@ latitude: 45.4450
 longitude: 13.5180
 sources:
   - https://en.wikipedia.org/wiki/Umag
+score: 7.2
 ---
 
 The coastline north of Umag offers the best beaches in the immediate area — a succession of pebble and rock bays with clear, sheltered water. Several carry the EU Blue Flag for water quality. The beaches around Katoro and Stella Maris, a kilometre or two north of the old town, are clean and well-maintained; they get busy in August but are never as overcrowded as the more famous beaches further south in Istria.

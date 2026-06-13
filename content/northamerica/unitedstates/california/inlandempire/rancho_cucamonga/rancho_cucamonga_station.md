@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Rancho_Cucamonga_station
+score: 4.3
 ---
 
 The Metrolink station on the Inland Empire/Orange County Line, opened in 1993 and serving direct trains to Los Angeles Union Station (about 70 minutes), San Bernardino, and Riverside. The station sits off Milliken Avenue near Victoria Gardens and is within easy walking distance of the shopping and cultural centre.

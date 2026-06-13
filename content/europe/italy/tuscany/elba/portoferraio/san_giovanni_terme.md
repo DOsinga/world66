@@ -7,6 +7,7 @@ tags:
 latitude: 42.7928
 longitude: 10.3219
 snippet: "A small thermal spa using local seabed mud, in the village of San Giovanni just south of Portoferraio."
+score: 5.8
 ---
 
 San Giovanni is a small village across the inner bay from Portoferraio, three kilometres by road. Its claim to fame is the **Terme San Giovanni**, a modest thermal spa that uses local seabed mud rich in marine minerals — drawn from the bay just offshore — for traditional Italian *fango* treatments. The spa has been operating since the 1960s and is popular with Italian and German visitors for its rheumatic and dermatological treatments.

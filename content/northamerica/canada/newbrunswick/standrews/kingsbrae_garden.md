@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - garden
+score: 7.9
 ---
 
 Twenty-seven acres of landscaped horticulture sit on a hillside above the centre of St. Andrews, built out of the gardens of several adjoining nineteenth-century summer estates. Kingsbrae is among the best public gardens in Atlantic Canada — a mix of formal beds, woodland walks, a knot garden, a children's fantasy garden, a labyrinth, and a small working alpaca paddock that children invariably remember most.

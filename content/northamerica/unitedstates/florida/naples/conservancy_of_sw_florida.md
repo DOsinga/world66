@@ -9,6 +9,7 @@ latitude: 26.166
 longitude: -81.788
 story: >
   The centre rehabilitates injured and orphaned wildlife with the goal of returning animals to the wild. Some permanently injured animals that cannot be released become resident ambassadors — the centre is particularly known for its work with sea turtles, Florida panthers, and gopher tortoises, and has released hundreds of each species over the decades.
+score: 6.7
 ---
 
 The Conservancy of Southwest Florida operates a 21-acre nature centre on the Gordon River, just north of downtown, where injured and orphaned wildlife is rehabilitated for release back into the wild. Visitors can observe the rehabilitation process through viewing windows, take a guided electric boat tour along the mangrove-fringed river, and walk through a native plant garden. The small natural history museum provides context on the Southwest Florida ecosystem — the edge of the Everglades begins just a few miles east.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.0761
 longitude: 18.2283
+score: 8.1
 ---
 
 Széchenyi Square is the main public space in Pécs and the obvious starting point for exploring the city. It is a generous pedestrian square lined with outdoor cafés and presided over by the Mosque of Pasha Qasim — the former Ottoman mosque now used as a Catholic church, whose red-stone dome and minaret stub create an immediately distinctive skyline. The Baroque Trinity Column stands in the centre of the square, and the 18th-century town hall closes off one end.

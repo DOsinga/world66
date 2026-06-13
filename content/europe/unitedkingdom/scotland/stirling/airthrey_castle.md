@@ -8,6 +8,7 @@ tags:
 latitude: 56.1482
 longitude: -3.9135
 snippet: A late 18th-century country house by Robert Adam, now part of the University of Stirling campus
+score: 6.6
 ---
 
 Airthrey Castle is a small Gothic Revival country house designed in 1791 by Robert Adam for Robert Haldane of Airthrey. It is one of Adam's last commissions — he died the following year — and the only one in central Scotland. The exterior is a compact, picturesque assemblage of round towers, battlements and pointed windows; the interior was reworked in the 19th century and the original Adam plan has been heavily altered.

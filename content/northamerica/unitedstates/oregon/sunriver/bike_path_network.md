@@ -13,6 +13,7 @@ story: >
   deliberate decision to keep most internal streets off-limits to through
   traffic, which is why it remains possible today to ride from one end of the
   community to the other without crossing a single car road.
+score: 7.1
 ---
 
 Sunriver has roughly 55 kilometres of paved bike paths that loop through the entire community. The paths are completely separated from car traffic, which makes them genuinely pleasant rather than just usable — you can put children on bikes and let them go. The network connects the resort facilities, the nature centre, the marina, and most of the residential areas.

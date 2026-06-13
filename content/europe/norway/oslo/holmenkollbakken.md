@@ -16,6 +16,7 @@ tags:
 - holmekollen
 title: Holmenkollen Ski Jump
 type: poi
+score: 8.1
 ---
 
 The Holmenkollen ski jump is Oslo's most recognizable landmark: a sweeping steel and concrete arch visible from much of the city, rising above the dark spruce forest of the Nordmarka hills. The current structure was completed in 2011 and replaced a jump that had stood since 1980.

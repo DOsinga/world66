@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 46.0680
 longitude: 23.5700
+score: 8.3
 ---
 
 The National Museum of Unification is housed inside the Alba Carolina Citadel and covers Alba Iulia's history from Dacian times through the Roman, medieval, Ottoman, Habsburg, and Romanian periods. The museum's name refers to the 1918 Great National Assembly held in this city, at which Transylvania voted to unite with Romania — one of the defining moments of modern Romanian history.

@@ -8,6 +8,7 @@ latitude: 36.8628
 longitude: -5.1816
 story: >
   Some of the houses along this street have been continuously occupied for over five centuries. During the Reconquista, Christian settlers moved into cave dwellings that Moorish families had carved out of the rock long before them. Several of those same spaces are now bars serving cold beer and jamón.
+score: 8.7
 ---
 
 Calle Cuevas de la Sombra — the Street of the Caves of the Shadow — runs parallel to its sunlit sister street on the opposite bank of the Trejo. Where Cuevas del Sol feels open and bright, this street is darker and more enclosed, the rock overhang pressing lower, the light more muted. It is the more dramatic of the two, and many visitors prefer it for exactly that reason.

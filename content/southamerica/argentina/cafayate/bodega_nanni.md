@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -26.0721
 longitude: -65.975
+score: 7.2
 ---
 
 Bodega Nanni is the most accessible winery in Cafayate for visitors without a car, located just a few blocks from the main plaza. It is a small, family-run operation — the kind of place where you can walk in off the street, taste the wines, buy a bottle, and have a brief conversation with someone who actually made what you are drinking. The Torrontés is the signature wine, and it is very good; the organic Malbec is also worth noting.

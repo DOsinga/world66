@@ -9,6 +9,7 @@ latitude: 35.8698
 longitude: 128.5961
 sources:
   - https://en.wikipedia.org/wiki/Dongseongno_Festival
+score: 5.8
 ---
 
 Dongseongno (동성로) is Daegu's main pedestrian street, a broad promenade in the heart of the city lined with cafes, clothing shops, street food stalls, and the occasional large entertainment complex. It is the social centre of the city, particularly busy in the evenings and on weekends when the population seems to double. The street has a young energy — Daegu has several universities and a large student population.

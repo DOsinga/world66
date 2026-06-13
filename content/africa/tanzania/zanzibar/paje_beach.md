@@ -8,6 +8,7 @@ tags:
   - beach
   - sight
 snippet: East coast kite-surfing capital with long shallow lagoon and lively beach bars
+score: 7.9
 ---
 
 Paje is Zanzibar's east coast in its most concentrated form — a long stretch of white sand backed by palms, with a wide, shallow lagoon at low tide that turns the water jade-green. The consistent trade winds blowing off the Indian Ocean between June and October have made Paje the undisputed kite-surfing capital of East Africa. Schools line the beach offering beginner lessons and equipment rental, and on a good afternoon the sky above the lagoon is full of kites.

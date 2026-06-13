@@ -7,6 +7,7 @@ tags:
 snippet: The central public square of ancient Apollonia
 latitude: 40.7218
 longitude: 19.4727
+score: 7.6
 ---
 
 The agora was the political and commercial heart of Apollonia: a long rectangular plaza lined with stoas, temples, and public buildings. Only the foundations and lower courses survive, but the layout is legible on the ground and gives a clear sense of how the lower city worked.

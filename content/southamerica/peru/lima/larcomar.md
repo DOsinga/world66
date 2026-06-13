@@ -9,6 +9,7 @@ tags:
   - miraflores
 neighbourhood: Miraflores
 snippet: Open-air mall cut into the Miraflores cliff face
+score: 4.6
 ---
 
 **Larcomar** is an open-air shopping and entertainment complex cut into the side of the Miraflores cliff below Parque Salazar — three terraced levels overlooking the Pacific, designed so the buildings sit below the level of the Malecón above. It opened in 1998 and is the most visible commercial development of the modern Miraflores boom.

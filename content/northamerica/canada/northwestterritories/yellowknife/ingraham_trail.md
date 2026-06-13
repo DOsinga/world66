@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 62.472
 longitude: -114.177
+score: 7.7
 ---
 
 The Ingraham Trail (Highway 4) runs 70 kilometres east of Yellowknife through the boreal shield landscape of lakes, granite outcrops, and spruce forest. It is the main recreational corridor for the city — a road that leads to campgrounds, canoe routes, fishing spots, and wilderness hiking, all within an hour of downtown. The scenery is classic subarctic Canada: clean and spare, with water visible almost everywhere.

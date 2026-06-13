@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 5.1995
 longitude: -3.7415
+score: 5.9
 ---
 
 Chez Vincent is one of the long-established beach restaurants at Grand-Bassam, set back slightly from the sand with a covered terrace that catches the sea breeze. It has been feeding weekend visitors from Abidjan for decades and knows what they want: grilled barracuda, attiéké, cold Bock or Flag beer, and a view of the ocean.

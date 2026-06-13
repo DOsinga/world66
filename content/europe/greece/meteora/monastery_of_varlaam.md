@@ -12,6 +12,7 @@ story: >
   not just tourist attractions. The great barrel used to haul monks, provisions,
   and building materials still hangs at the entrance gate. Until 1923, when the
   first steps were carved, every person and every stone was lifted by rope.
+score: 9.3
 ---
 
 The Monastery of Varlaam stands on the second-highest rock formation at Meteora, reached by 195 steps cut into the cliff. Founded in the 14th century by the monk Varlaam, the current buildings date largely from the 16th century, when brothers Nektarios and Theophanes rebuilt the complex. The catholicon (main church) was completed in 1548 and contains exceptional frescoes including a remarkable full-wall depiction of the Apocalypse.

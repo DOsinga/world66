@@ -14,6 +14,7 @@ story: >
   to Martinique, rebuilt the estate, and founded the distillery in 1917 on the exact ground
   where the pyroclastic flow had passed. The manor house he built — still standing — faces
   directly toward the crater that killed his parents.
+score: 8.2
 ---
 
 The Depaz Distillery, on the lower slopes of Mont Pelée just above Saint-Pierre, is one of Martinique's most atmospheric rum producers. It makes agricole rum — distilled from fresh sugarcane juice rather than molasses — in the AOC-certified Martinique style, and the estate bottles include aged expressions worth seeking out. The manor house, built by Victor Depaz after the 1902 disaster, overlooks the cane fields and the bay.

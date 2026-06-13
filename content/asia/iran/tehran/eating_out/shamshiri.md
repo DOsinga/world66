@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.6752
 longitude: 51.4238
+score: 6.8
 ---
 
 Shamshiri is one of the oldest restaurants in Tehran — a basement establishment near the Grand Bazaar that has been serving traditional Persian food since the 1940s. The location, in the narrow lanes south of the bazaar, is slightly hard to find but worth the effort: the clientele is merchants and workers from the bazaar, which is a good sign in any city.

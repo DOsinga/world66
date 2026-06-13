@@ -13,6 +13,7 @@ tags:
 title: Dublin Castle
 type: poi
 url: https://www.dublincastle.ie
+score: 8.5
 ---
 
 Dublin Castle has been the centre of power in Ireland since the Normans built a fortification here in the early 13th century. The site was already significant before that — a Viking stronghold stood here, and traces of it are visible in the Undercroft below the modern courtyard. The city's name derives from *Dubh Linn*, the "Black Pool" of the River Poddle, which once ran through what is now the Castle Garden.

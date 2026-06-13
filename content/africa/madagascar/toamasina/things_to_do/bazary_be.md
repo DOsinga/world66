@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 8.0
 ---
 
 The Bazary Be — Malagasy for "big market" — is the commercial and social centre of Toamasina, and the single attraction most frequently recommended to visitors. It occupies a dense block of covered alleys in the heart of the old town and operates daily from early morning until late afternoon.

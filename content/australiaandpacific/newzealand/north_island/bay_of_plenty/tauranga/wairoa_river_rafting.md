@@ -7,6 +7,7 @@ tags:
   - adventure
 latitude: -37.7980
 longitude: 176.0300
+score: 7.8
 ---
 
 The Wairoa River offers some of the most dramatic white-water rafting in the North Island. The river runs through a steep gorge south of Tauranga, with Grade 4 and 5 rapids including the impressive Tuahu drop. The catch is that the river is only navigable when the Aniwhenua Dam upstream releases water — this happens approximately one weekend per month — so timing is essential.

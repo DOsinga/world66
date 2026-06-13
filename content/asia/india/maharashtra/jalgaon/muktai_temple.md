@@ -10,6 +10,7 @@ story: >
   Muktabai, the saint to whom the temple is dedicated, was the youngest of four siblings — the others being Nivritti, Dnyaneshwar, and Sopan — who were orphaned at a young age and then excommunicated by the Brahmin community for being born to parents who had taken vows but returned to household life. Despite this, all four became revered saints, and Muktabai's poetry is still read as some of the most direct spiritual verse in Marathi literature.
 sources:
   - https://en.wikipedia.org/wiki/Muktainagar
+score: 6.3
 ---
 
 Muktainagar, about 45 km west of Jalgaon, takes its name from the 13th-century saint-poet Muktabai, a disciple of the Warkari tradition whose temple draws pilgrims from across Maharashtra year-round. The town sits on the Tapti River, and the temple complex is on the riverbank — a setting that makes it particularly atmospheric in the cool of the morning.

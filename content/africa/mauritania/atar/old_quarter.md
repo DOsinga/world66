@@ -6,6 +6,7 @@ longitude: -13.0553
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 Atar's old quarter clusters around the original market area and contains some of the finest traditional Mauritanian mud-brick architecture outside of Chinguetti. The buildings are constructed of stone and dried mud in the classic Adrar style: thick walls for insulation against the desert heat, small windows, flat roofs with ornamental parapets. Some structures date from the 18th century or earlier.

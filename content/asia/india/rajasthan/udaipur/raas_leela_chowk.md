@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Two of Udaipur's most famous boat passengers were James Bond (in *Octopussy*) and Queen Elizabeth II, who took the royal launch out for a private tour during her 1961 state visit. The wooden boats are still made in nearby Picholi village using traditional joinery."
+score: 9.2
 ---
 
 The single most essential experience in Udaipur — a one-hour boat ride out across **Lake Pichola** at sunset, departing from the **Rameshwar Ghat** jetty inside the City Palace complex. The standard tour passes close to the Lake Palace and lands at Jag Mandir island for a brief stop on the marble terrace.

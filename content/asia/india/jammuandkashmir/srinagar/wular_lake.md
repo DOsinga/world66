@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.3500
 longitude: 74.5667
+score: 7.6
 ---
 
 Wular Lake, about 60 km northwest of Srinagar near Bandipora, is one of Asia's largest freshwater lakes and a significant wetland ecosystem of a completely different character from Dal Lake. Where Dal is intimate and densely inhabited, Wular is vast and exposed — at its maximum (which varies dramatically with the season) it covers over 200 square kilometres, though it has shrunk significantly from its historical extent due to siltation and encroachment. The Jhelum River flows through it.

@@ -6,6 +6,7 @@ longitude: 145.5406
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 A cluster of wind turbines on the Bass Coast hills west of town, the Wonthaggi Wind Farm is visible from the Cape Paterson road and forms an unexpected counterpoint to the coal mine a few kilometres east — the old and new energy industries of the same stretch of coast. The wind farm is not a visitor attraction in itself (there is no tour), but the turbines are striking at close range from the road, and the site offers views across Bass Strait on clear days.

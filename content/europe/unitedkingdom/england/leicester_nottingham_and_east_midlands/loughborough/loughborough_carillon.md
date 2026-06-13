@@ -15,6 +15,7 @@ story: >
   built in Britain.
 sources:
   - https://en.wikipedia.org/wiki/Loughborough_Carillon
+score: 6.8
 ---
 
 The Loughborough Carillon stands 46 metres tall in Queen's Park and is one of the finest examples of a carillon in Britain. A carillon is a musical instrument played from a keyboard that rings tuned cast bells — Loughborough has 47 of them, ranging from small trebles to a large bourdon that can be heard for miles. Recitals are given in summer from the open lantern of the tower, sending the music across the park.

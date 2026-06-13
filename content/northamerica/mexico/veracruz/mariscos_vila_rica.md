@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Mariscos Villa Rica
 type: poi
+score: 6.6
 ---
 
 Mariscos Villa Rica is one of the most consistently recommended seafood restaurants in Veracruz, known particularly for its huachinango a la veracruzana — whole red snapper in the classic tomato, olive, caper, and chile sauce that is the signature dish of the region. The fish comes from the Gulf, the vegetables from the coastal state's farms, and the recipe has the confidence of a place that has been doing the same thing well for a long time.

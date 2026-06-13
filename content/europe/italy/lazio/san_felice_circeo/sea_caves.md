@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.2241
 longitude: 13.0828
+score: 6.9
 ---
 
 A series of sea caves cut into the base of the Monte Circeo sea cliffs, accessible only by boat from the harbour below the old town. The most visited are Grotta delle Capre (Goats Cave) and Grotta dell'Impiso, both opening at sea level and allowing small boats to nose inside. The light inside the caves — filtered through the water and reflected off the walls — is the main visual draw, varying from deep green to turquoise depending on the angle and time of day.

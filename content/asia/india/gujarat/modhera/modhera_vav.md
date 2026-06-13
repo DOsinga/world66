@@ -8,6 +8,7 @@ latitude: 23.58262
 longitude: 72.13700
 sources:
   - https://en.wikipedia.org/wiki/Modhera_Vav
+score: 7.2
 ---
 
 Gujarat is famous for its vavs — elaborately carved stepwells that were once central to both the practical water supply and the religious life of communities across the region. The Modhera Vav, located within the Sun Temple complex area, is one of the smaller but still beautifully preserved examples. Like all Solanki-era stepwells, it descends in a series of carved stone tiers to the water level, with ornamental pillars and decorative friezes at each landing.

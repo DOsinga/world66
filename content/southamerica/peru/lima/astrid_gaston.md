@@ -10,6 +10,7 @@ tags:
 neighbourhood: San Isidro
 snippet: The first temple of modern Peruvian cooking, in a colonial mansion
 url: astridygaston.com
+score: 8.3
 ---
 
 **Astrid y Gastón**, opened in 1994 by Gastón Acurio and his pastry-chef wife Astrid Gutsche, was the restaurant that essentially invented the modern, refined version of Peruvian cuisine — drawing together regional ingredients, French technique, and a sense of national pride that the Lima food scene had previously lacked. It has been a fixture of the World's 50 Best for nearly two decades.

@@ -8,6 +8,7 @@ latitude: 17.1217
 longitude: -61.8525
 sources:
   - https://en.wikipedia.org/wiki/St._John%27s_Harbour,_Antigua_and_Barbuda
+score: 5.7
 ---
 
 St. John's Harbour is the main port and commercial gateway of Antigua and Barbuda. On cruise ship days it can be packed with visiting passengers, but early morning and evening the harbour has a working-port character — fishing boats unloading, supply vessels at anchor, and the distant smell of salt air and diesel.

@@ -8,6 +8,7 @@ tags:
 - ruins
 title: Hierapolis Necropolis
 type: poi
+score: 8.0
 ---
 
 The Hierapolis necropolis stretches for almost two kilometres north of the city gate, with over a thousand tombs from the 2nd century BC to the early Byzantine period. It is the largest surviving necropolis in Anatolia and one of the most varied — sarcophagi, tumuli, house-tombs and temple-style mausoleums all sitting next to each other along what was once the main road into town.

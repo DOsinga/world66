@@ -15,6 +15,7 @@ story: >
   re-introduced to the island in 1947 and 1948 from Alberta, and their
   descendants now number in the thousands — one of the densest populations in
   eastern Canada.
+score: 9.2
 ---
 
 Cape Breton Highlands National Park protects the broad basalt plateau that forms the roof of the island, where the boreal forest thins to windswept tundra and the cliffs drop straight into the Gulf of St Lawrence. The park covers about 950 square kilometres and the Cabot Trail bisects it, giving access to trailheads, viewpoints, and the two main park communities at Cheticamp (western entrance) and Ingonish (eastern entrance).

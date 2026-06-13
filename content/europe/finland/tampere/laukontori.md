@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 61.4950
 longitude: 23.7600
+score: 7.7
 ---
 
 Laukontori is a market square on the south shore of the Tammerkoski Rapids where Lake Pyhäjärvi begins. In summer it becomes Tampere's most lively outdoor gathering spot, with market stalls, outdoor seating at the restaurant barges moored along the waterfront, and the Tampere-Virrat ferry departing from the adjacent quay.

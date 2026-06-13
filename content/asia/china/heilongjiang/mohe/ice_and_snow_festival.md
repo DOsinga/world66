@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.4772
 longitude: 122.5247
+score: 6.8
 ---
 
 Mohe's Ice and Snow Festival runs through January and February, built around the theatrical possibilities of -40°C cold rather than any architectural ambition. The centrepiece demonstrations — throwing a cup of boiling water into the air and watching it vaporise instantly into a cloud of ice crystals, or soaking a piece of clothing and watching it freeze into a sculpture within minutes — are genuinely spectacular rather than gimmicky. At these temperatures, water behaves in ways that are visually startling even when you know the physics.

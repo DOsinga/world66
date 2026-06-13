@@ -8,6 +8,7 @@ tags:
 latitude: 6.6906
 longitude: 99.6483
 snippet: "The main beach on Ko Tarutao — long, empty, backed by casuarinas, with the park HQ at one end."
+score: 7.0
 ---
 
 Pante Malacca is the bay where boats from Pak Bara arrive on Ko Tarutao. A long arc of fine grey-white sand runs for over a kilometre, backed by a thin strip of casuarina pines and the low buildings of the national park headquarters. Outside the brief boat arrivals it is generally almost empty, even in high season — most visitors continue straight on to Ko Lipe rather than stay overnight on Tarutao.

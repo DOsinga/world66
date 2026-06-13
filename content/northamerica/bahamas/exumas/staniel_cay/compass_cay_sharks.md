@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 24.2667
 longitude: -76.5083
+score: 8.4
 ---
 
 Compass Cay's marina, about ten miles north of Staniel, has become famous for the resident pack of nurse sharks that hang around the dock waiting to be fed. They are large — up to three metres — slow, and effectively harmless: nurse sharks have small mouths and a vacuum-like feeding style designed for crustaceans, not swimmers.

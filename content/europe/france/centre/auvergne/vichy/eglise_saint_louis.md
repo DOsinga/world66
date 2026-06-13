@@ -6,6 +6,7 @@ latitude: 46.1245
 longitude: 3.4260
 sources:
   - https://en.wikipedia.org/wiki/Vichy
+score: 6.1
 ---
 
 The Église Saint-Louis is the principal Roman Catholic church of Vichy, a substantial nineteenth-century building in a neo-Gothic style that fits the general ambience of the thermal district. It is not an exceptional church by French standards, but it is a well-executed example of the period's religious architecture, and the interior has some good stained glass and decorative details worth noting. The church sits at the quieter, residential end of the central district, away from the main thermal circuit.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 6.9
 ---
 
 The Mercado Municipal of Concepción is the practical heart of the town, where the surrounding region converges to buy and sell. Fresh produce from the Concepción department, provisions for river journeys, meat, clothing, and household goods are all available. The meat section is typically Paraguayan — quantities of beef, particularly the cuts used for asado, dominate.

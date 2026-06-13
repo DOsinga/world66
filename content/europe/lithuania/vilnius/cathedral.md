@@ -14,6 +14,7 @@ tags:
   - church
 title: Vilnius Cathedral
 type: poi
+score: 8.7
 ---
 
 The Vilnius Cathedral stands at the foot of Gediminas Hill on Cathedral Square, and is the spiritual heart of the city. A church has stood on this site since the 13th century — built to mark Lithuania's conversion to Christianity in 1251 — and was rebuilt multiple times following wars, fires, and floods. The current building is a monumental neoclassical design completed in the late 18th century, with a tall bell tower alongside it that offers another elevated perspective over the old town.

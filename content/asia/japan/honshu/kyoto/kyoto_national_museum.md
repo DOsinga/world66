@@ -8,6 +8,7 @@ tags:
 - sight
 title: Kyoto National Museum
 type: poi
+score: 8.8
 ---
 
 The Kyoto National Museum opened in 1897 in a red-brick French-Renaissance pavilion designed by Tokuma Katayama — the same architect who built the Akasaka Detached Palace in Tokyo — and was joined in 2014 by a sleek glass-and-steel extension by Yoshio Taniguchi. The combined museum houses the foremost public collection of pre-modern Japanese art outside Tokyo, with particular strength in Buddhist sculpture and painting drawn from temples in and around Kyoto.

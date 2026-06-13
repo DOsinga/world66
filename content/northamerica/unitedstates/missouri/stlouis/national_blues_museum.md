@@ -9,6 +9,7 @@ tags:
 - downtown
 latitude: 38.6312
 longitude: -90.1899
+score: 6.6
 ---
 
 The National Blues Museum opened in downtown St Louis in 2016, telling the story of the blues from its Mississippi Delta origins through to its influence on rock, jazz, soul, and contemporary music. St Louis was a critical waypoint on the migration of blues musicians north — Chuck Berry grew up in north St Louis, Albert King recorded here, and the city has a continuous tradition of its own.

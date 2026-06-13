@@ -8,6 +8,7 @@ tags:
 snippet: National botanical garden inland from the city centre
 latitude: -33.0291
 longitude: -71.4889
+score: 8.2
 ---
 
 The Jardín Botánico Nacional lies a few kilometres inland from the centre, in a wooded valley off the road to El Salto. It is Chile's national botanical garden and contains more than three thousand species spread across themed sections — a Chilean native garden, a cactus and succulent collection, a palm grove, sections for South African and Australian flora.

@@ -9,6 +9,7 @@ snippet: 1939 Streamline Moderne hotel that hosted Sukarno and the Bandung Confe
 latitude: -6.9221
 longitude: 107.6104
 story: "Charlie Chaplin stayed here in 1932 while filming travel footage for his film City Lights, and the Bandung Conference delegations of 1955 — including Nehru, Zhou Enlai and Nasser — all used the Savoy Homann as their main hotel. The Mercedes that drove them down Asia-Afrika Street is still parked in the lobby."
+score: 8.0
 ---
 
 The Savoy Homann on Asia-Afrika Street is the grand dame of Bandung's Art Deco hotels, an unmissable Streamline Moderne building completed in 1939 to a design by A.F. Aalbers. The curved white facade, ribbon windows and rounded balconies are pure interwar maritime moderne, and the hotel has been carefully maintained — the lobby, the bar and the courtyard pool all retain their original character.

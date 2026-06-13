@@ -8,6 +8,7 @@ tags:
 - park
 title: Bluecoat Garden
 type: poi
+score: 6.8
 ---
 
 A small, walled garden tucked into the courtyard of the Bluecoat arts centre — one of the very few peaceful green spaces in the city centre. Free to enter during opening hours, with benches under flowering shrubs and a small café spilling onto the cobbles in summer.

@@ -14,6 +14,7 @@ story: >
   greatest poems in the Chinese language. Du Fu died on a boat on the Xiang
   River in 770, heading south, aged 58. His poems written during these last
   years have a clarity that comes from someone who knows time is running out.
+score: 6.9
 ---
 
 The Du Fu River Pavilion (Tianmen Pavilion) stands on the western bank of the Xiang River near the old city centre, marking the site where the Tang dynasty poet Du Fu lived during the last years of his life. Du Fu spent 769 and 770 AD in Changsha, his health failing, writing the remarkable sequence of late poems that conclude his literary output. He died on a boat on the river in 770, heading south. The pavilion built in his memory has been rebuilt and relocated over the centuries; the current structure overlooks the river from a position close to where he lived.

@@ -6,6 +6,7 @@ latitude: 4.6333
 longitude: -75.4833
 snippet: The wax palm valley above Salento — Colombia's tallest trees and most photographed landscape
 story: The wax palm (Ceroxylon quindiuense) is Colombia's national tree and the tallest palm species in the world, reaching up to 60 metres. The valley was saved from cattle clearance in the 1980s by a campaign that culminated in the declaration of Los Nevados National Park, which now protects the upper reaches of the valley.
+score: 9.5
 ---
 
 A day out from Armenia and the area's signature landscape. From Salento, jeep willys leave from the main square and drop you at the trailhead, where a loop walk of four to six hours climbs through cloud forest to a hummingbird reserve called Acaime, then descends back through the open valley among the wax palms.

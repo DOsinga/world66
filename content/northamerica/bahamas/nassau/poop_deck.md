@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 25.0790
 longitude: -77.3239
+score: 5.8
 ---
 
 A perennial favourite for seafood, with two locations: the older one at East Bay Street (near Nassau Yacht Haven) and a flashier sibling at Sandyport on West Bay Street. Both have outdoor decks looking onto the water and serve the **broiled grouper, garlic shrimp, and the Bahamian Mudslide** for which the place is known.

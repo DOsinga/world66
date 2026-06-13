@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.6
 ---
 
 The Eastern Beach swimming enclosure is one of the gems of 1930s public-works architecture in Australia — a curving Art Deco bathing pavilion and a sheltered tidal pool extending into Corio Bay. The original baths opened in 1939; after years of decline they were comprehensively restored in the early 1990s and now form the centrepiece of the waterfront.

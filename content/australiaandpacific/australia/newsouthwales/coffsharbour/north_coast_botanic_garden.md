@@ -5,6 +5,7 @@ latitude: -30.2942
 longitude: 153.1250
 snippet: 20-hectare garden of subtropical and rainforest plants
 tags: [things_to_do, sight, garden]
+score: 6.9
 ---
 
 The North Coast Regional Botanic Garden sits five minutes' walk from the town centre, wrapped around a remnant pocket of mid-north-coast rainforest that the town never cleared. The collection focuses on subtropical species — the local hibiscus, banksias, the rare bunya pines from south-east Queensland — and includes a Chinese, Japanese and sensory garden in the more cultivated section near the entrance.

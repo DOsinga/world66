@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.2304
 longitude: -8.8667
+score: 8.5
 ---
 
 Cabo Home is the southwestern tip of the Morrazo peninsula, a dramatic headland with two lighthouses and views straight out to the Cíes Islands. The beach of Melide sits below the cape between the lighthouses, in a sheltered bay with turquoise water and a long arc of fine sand. On calm days it looks more Caribbean than Galician.

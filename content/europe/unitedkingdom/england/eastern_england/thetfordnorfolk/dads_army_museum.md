@@ -15,6 +15,7 @@ story: >
   with the telltale signs of the 1970s removed. A number of local people appeared 
   as extras throughout the show's nine-series run, and some of the locations — 
   including the grassy area used for parade ground scenes — are still recognisable today.
+score: 6.7
 ---
 
 The small market town of Thetford was used as the filming location for most of the exterior scenes of the BBC's beloved 1970s sitcom *Dad's Army*, and this volunteer-run museum commemorates that connection with genuine enthusiasm. On display are original props, costumes, scripts, photographs, and a reconstructed set from the show. There is a replica of the platoon office and a collection of personal memorabilia donated by cast members' families.

@@ -10,6 +10,7 @@ tags:
 - bar
 title: Aurora
 type: poi
+score: 4.6
 ---
 
 Aurora is one of Banff's busiest late-night spots, with a main dance floor, a separate martini and cigar lounge, and VIP sections. The crowd skews young and loud — ski season brings the most energy, with après-ski rolling straight into the evening. On weekends, expect a queue and a cover charge. It sits on Banff Avenue near the main strip, so easy to reach on foot from most hotels.

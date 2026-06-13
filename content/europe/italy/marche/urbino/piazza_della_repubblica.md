@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 43.7264
 longitude: 12.6360
+score: 6.9
 ---
 
 Three of Urbino's main streets converge on this triangular piazza, the social hub of the city. It is where Via Mazzini from the Porta Valbona meets Corso Garibaldi and Via Raffaello. A clean 19th-century fountain stands in the middle.

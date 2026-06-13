@@ -10,6 +10,7 @@ tags:
 title: Provincial Museum
 type: poi
 url: http://www.museolugo.org
+score: 7.6
 ---
 
 Housed in a former convent, the Provincial Museum of Lugo covers the region's long history

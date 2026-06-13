@@ -9,6 +9,7 @@ latitude: 54.7750
 longitude: 17.5380
 story: >
   The testing range at Łeba was established by the Luftwaffe in 1940 and used to test the Hs 293 radio-guided glide bomb — one of the world's first operational anti-ship guided missiles — before it was deployed in combat operations against Allied shipping in the Atlantic and Mediterranean. The remote Baltic coastline was chosen specifically for its secrecy.
+score: 7.4
 ---
 
 On the beach strip north of Łeba, reached by cycling or walking along the beach road, lies a strange collection of concrete bunkers, launch ramps, and testing infrastructure dating from the Second World War. The German military established a secret weapons testing range here in 1940, using the deserted coastline to trial radio-guided bombs and early missiles away from Allied surveillance.

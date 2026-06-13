@@ -11,6 +11,7 @@ title: Kara Market
 type: poi
 story: >
   Kara's market is one of the main trading hubs for northern Togo's main ethnic groups — the Kabyé, Tem, and Bassar peoples. You will find traditional Kabyé pottery alongside Chinese-made goods, and healers selling dried herbs and animal parts for traditional medicine alongside women selling groundnut paste and smoked fish.
+score: 7.3
 ---
 
 Kara's market is one of the most active commercial spaces in northern Togo. Most stalls sell food and household goods — groundnuts, yam flour, dried fish, chilli, cloth — but the real spectacle is the trading that happens between sellers and buyers locked in the slow, good-natured negotiation that makes West African markets worth a morning of your time even if you are buying nothing.

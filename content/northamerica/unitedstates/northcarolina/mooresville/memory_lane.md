@@ -6,6 +6,7 @@ longitude: -80.8378
 tags:
   - things_to_do
   - museum
+score: 8.2
 ---
 
 Memory Lane is a private museum on the southern edge of Mooresville with one of the largest privately-held racing-car collections in the country: roughly 200 cars at any time, from early-1950s NASCAR Modifieds and dirt-track Sportsman cars to high-water-mark stock cars from the 1970s and 1980s.

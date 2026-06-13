@@ -9,6 +9,7 @@ snippet: Riverside promenade along the Nile
 tags:
 - things_to_do
 - sight
+score: 5.9
 ---
 
 Minya's Corniche runs along the east bank of the Nile through the city centre and is the social heart of the town in the evening, when families come out to walk and sit by the water. The river is wide here and the views across to the desert escarpment on the west bank are good, particularly at sunset.

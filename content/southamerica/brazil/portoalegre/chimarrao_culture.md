@@ -5,6 +5,7 @@ tags:
 - sight
 title: Chimarrão Culture
 type: poi
+score: 7.0
 ---
 
 Chimarrão is not a tourist attraction but it is one of the defining experiences of time spent in Porto Alegre, and understanding it makes everything else make more sense. The drink is maté — the dried and ground leaves of the yerba mate plant — prepared in a distinctive way: packed into a **cuia** (a gourd, traditionally made from an actual gourd but now often wooden or leather-covered), moistened with hot (not boiling) water, and sipped through a **bombilla** (a metal straw with a filter at the bottom). It is intensely bitter, an acquired taste, and consumed in enormous quantities throughout the day.

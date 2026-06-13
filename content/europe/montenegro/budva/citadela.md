@@ -9,6 +9,7 @@ tags:
   - landmark
   - castle
 snippet: Medieval citadel at the tip of Budva's walled peninsula with sea views
+score: 7.8
 ---
 
 The Citadela occupies the highest point of Budva's old town peninsula and is the most prominent landmark on the waterfront when approaching by sea. The current fortifications date from the Venetian period, though the site has been fortified since antiquity. It was badly damaged in the 1979 earthquake but has been restored, and a small museum inside holds maritime artefacts, antique weapons, and a modest library of old books in several languages.

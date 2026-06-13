@@ -8,6 +8,7 @@ tags:
 title: Rochester Cathedral
 type: poi
 story: "Rochester Cathedral is the second oldest cathedral foundation in England, established in 604 AD by Justus, a monk sent from Rome as part of Augustine's mission to convert the English. Only Canterbury, founded just seven years earlier, predates it. The building you see today is mostly Norman and medieval, but the site has been continuously used for Christian worship for over 1,400 years."
+score: 8.8
 ---
 
 Rochester Cathedral stands beside the castle at the heart of the old city, and together the two buildings define the character of the place. The cathedral is compact by English standards — less imposing than Canterbury, which is visible on a clear day from the castle battlements — but no less rewarding for that. The west front is particularly striking, a fine example of Norman Romanesque work that has survived largely intact.

@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "The Brickyard's nickname comes from the 3.2 million bricks that paved the original 1909 track surface. Only a one-yard strip at the start/finish line remains — drivers kiss it after winning the Indy 500, a tradition started by NASCAR's Dale Jarrett in 1996."
+score: 9.4
 ---
 
 The Indianapolis Motor Speedway is the most famous race track in the world and the home of the Indy 500, run every Memorial Day weekend since 1911. The 2.5-mile oval is also a NASCAR venue (the Brickyard 400) and a Formula 1 host in years past. With a capacity of around 250,000 — over 400,000 for the 500 itself — it is the largest sports venue on the planet.

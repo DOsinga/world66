@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.9690
 longitude: 36.0680
+score: 6.2
 ---
 
 The embankment along the Oka River is the main public promenade of Oryol — a pleasant riverside walk flanked by old linden trees, with benches and views across the water to the city's historic left bank. It is where locals come to walk in the evenings, and it gives a relaxed sense of provincial Russian city life at its most unhurried.

@@ -13,6 +13,7 @@ story: >
   campus. Their annual chile fiesta in the fall draws heat-seekers from across
   the Southwest to sample varieties that simply do not exist in commercial
   markets.
+score: 6.7
 ---
 
 The Chile Pepper Institute at New Mexico State University is the only institute in the world dedicated to the research and education of Capsicum peppers. The institute breeds new pepper varieties (including several record-holders for heat level), maintains seed banks of hundreds of chile varieties, and serves as the scientific centre for what New Mexico treats as a matter of cultural identity.

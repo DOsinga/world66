@@ -9,6 +9,7 @@ tags:
 - sight
 - park
 story: "The gardens were laid out in 1745 by military engineer Jacques-Philippe Mareschal after the city's water shortages forced an audit of the ancient Roman waterworks. The work uncovered the temple complex and basin around the spring, so the engineering brief evolved into a public garden."
+score: 8.8
 ---
 
 The Jardins de la Fontaine, laid out in 1745, count among the oldest public gardens in Europe. They were built around the ancient spring that gave Nîmes its name — Nemausus, a Celtic and then Roman water deity — and incorporate the Roman ruins of the sanctuary that grew up around it.

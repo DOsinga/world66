@@ -9,6 +9,7 @@ tags:
 - sight
 story: >
   The fort was built by the Portuguese in the 17th century to defend the entrance to the port of Santos — one of the most valuable in the colony. It was named Forte do Monduba originally, and renamed Forte dos Andradas only in the 19th century, after the Andrada e Silva brothers, political leaders of Brazilian independence. The connection to independence is appropriate: it was through Santos that Brazil's first coffee shipments left for Europe, generating the wealth that eventually funded the independence movement.
+score: 6.8
 ---
 
 The Forte dos Andradas occupies a dramatic headland at Morro do Monduba, overlooking the southern entrance to the Santos Channel. The fortress dates to the 17th century, when the Portuguese needed to defend their richest port from pirates and rival colonial powers. The original walls are still largely intact.

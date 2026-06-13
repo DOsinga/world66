@@ -14,6 +14,7 @@ tags:
   - sight
 title: Madonna of the Trail
 type: poi
+score: 5.6
 ---
 
 The Madonna of the Trail statue on the east side of downtown Richmond is one of twelve identical monuments placed along the National Old Trails Road in 1928 by the Daughters of the American Revolution. The statues mark the route of the old National Road (US 40), the first federally funded highway, which runs straight through Richmond on its way from Cumberland, Maryland to Vandalia, Illinois.

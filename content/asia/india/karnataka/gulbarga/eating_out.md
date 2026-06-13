@@ -1,6 +1,7 @@
 ---
 title: Eating Out
 type: poi
+score: 1.2
 ---
 
 **saradagi**

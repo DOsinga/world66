@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 46.398
 longitude: -112.735
+score: 6.9
 ---
 
 Main Street between the Old Prison and the railway tracks is a National Register historic district — a remarkably intact run of late 19th and early 20th-century commercial buildings that survived the railroad downturns largely because the town never got the money for a full rebuild. Brick storefronts, cast-iron columns, painted advertisements still legible on the brick.

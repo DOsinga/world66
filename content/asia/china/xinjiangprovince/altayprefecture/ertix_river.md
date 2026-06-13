@@ -11,6 +11,7 @@ story: >
   The Ertix (Irtysh) is the only river in China that drains toward the Arctic Ocean rather than into the Pacific or Indian basins. It rises in the Altay Mountains, flows west through Kazakhstan, then northwest across Siberia, emptying into the Ob River and ultimately the Kara Sea. That a river originating in Xinjiang should end in the Arctic is one of the stranger geographical facts in Chinese nature.
 sources:
   - https://en.wikipedia.org/wiki/Irtysh
+score: 6.4
 ---
 
 The Ertix River — known in Russian as the Irtysh — flows along the northern edge of Altay Prefecture before crossing into Kazakhstan and eventually reaching Siberia. It is the only river in China whose waters find their way to the Arctic Ocean, making it a geographic curiosity as well as a beautiful stretch of riverine landscape.

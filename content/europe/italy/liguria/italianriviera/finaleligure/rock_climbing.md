@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.1750
 longitude: 8.3350
+score: 8.6
 ---
 
 The limestone cliffs above Finale Ligure offer some of the best sport climbing in Italy, with several hundred routes on crags at every exposure and in every grade from beginner to elite. The rock is compact and featured limestone that provides excellent friction and a variety of movement styles — slabs, tufas, pocket-pulling, and some exceptional cave routes.

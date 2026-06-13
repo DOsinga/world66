@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 5.7
 ---
 
 The Reformed Church at the top of the old village has parts dating back to the 15th century — a late-Gothic choir, a tall whitewashed nave, and the typical bare interior of a Reformed church in the Bündner Reformation tradition. The Prättigau was one of the early Reformed regions in eastern Switzerland and the village has been Protestant since 1622.

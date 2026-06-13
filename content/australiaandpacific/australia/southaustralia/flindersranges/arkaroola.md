@@ -13,6 +13,7 @@ story: >
   life forms known — in the hills of the northern Flinders. His goal was to protect both
   the geological heritage and the native fauna from grazing pressure. The sanctuary is
   now one of Australia's best examples of private conservation at scale.
+score: 8.3
 ---
 
 Arkaroola Wilderness Sanctuary sits in the remote northern Flinders Ranges, a private reserve covering 610 square kilometres of rugged ridgelines, gorges, and springs. It is four to five hours by car from Adelaide on partly unsealed roads, and that distance keeps visitor numbers low and the feeling of wilderness intact.

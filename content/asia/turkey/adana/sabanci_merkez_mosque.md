@@ -12,6 +12,7 @@ story: >
   was originally reserved for the holy mosque at Mecca and once provoked
   controversy. The Sabancı version was raised in Adana without complaint —
   by then, the rule had long since been quietly relaxed.
+score: 7.4
 ---
 
 The Sabancı Central Mosque, opened in 1998, is the largest mosque in Turkey by capacity and one of the largest in the Middle East: up to 28,500 worshippers fit beneath its central dome and four semi-domes. From the river embankment it presents a complete riff on classical Ottoman architecture — six pencil minarets, a stepped dome cascade, deep arcades — at a scale that classical Ottoman architects never quite attempted.

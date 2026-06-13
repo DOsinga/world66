@@ -7,6 +7,7 @@ tags:
 title: Sylvester Park
 type: poi
 snippet: Olympia's oldest park, framed by the Old Capitol
+score: 6.3
 ---
 
 The four-acre square in the centre of downtown, deeded to the city in 1850 by founder Edmund Sylvester and laid out as a public park almost immediately. The 1893 Old Capitol building on the east side gives the square its character — a heavy stone Romanesque pile that briefly housed the state legislature before the current Capitol was built.

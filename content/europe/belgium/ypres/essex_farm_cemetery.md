@@ -15,6 +15,7 @@ story: >
   not available. The following morning, sitting in the back of an ambulance,
   McCrae saw the poppies growing among the graves and wrote the poem that has
   never been out of print since.
+score: 8.3
 ---
 
 About 4 km north of Ypres, Essex Farm Cemetery is where Canadian doctor and soldier John McCrae wrote "In Flanders Fields" in May 1915. The Advanced Dressing Station where McCrae worked — concrete bunkers built into the canal bank — has been preserved alongside the cemetery. Standing in the bunkers, you can see exactly the stretch of canal bank and the low flat ground where the graves and the poppies were, and understand how the poem emerged from this specific landscape.

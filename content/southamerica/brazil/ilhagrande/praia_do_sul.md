@@ -9,6 +9,7 @@ latitude: -23.176
 longitude: -44.288
 sources:
   - https://en.wikipedia.org/wiki/Praia_do_Sul_Biological_Reserve
+score: 8.6
 ---
 
 The southwestern tip of the island is a strictly protected biological reserve covering about 36 square kilometres of forest, dunes, and a long arc of beach where green and loggerhead sea turtles still nest. Access is restricted: only authorised guides can lead visits, and you cannot stay overnight.

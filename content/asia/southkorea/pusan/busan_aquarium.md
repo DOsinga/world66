@@ -10,6 +10,7 @@ tags:
 title: Busan Aquarium
 type: poi
 url: www.busanaquarium.com
+score: 5.4
 ---
 
 Located right on Haeundae Beach, Busan Aquarium (SEA LIFE Busan) houses over 250 species in themed zones that take you from local Korean waters through to tropical reefs and deep ocean habitats. The highlight is a long glass tunnel through the main tank where sharks, rays, and sea turtles glide overhead.

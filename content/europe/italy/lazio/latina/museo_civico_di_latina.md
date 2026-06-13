@@ -7,6 +7,7 @@ tags:
 latitude: 41.4667
 longitude: 12.9036
 snippet: City museum covering the history of Latina and the Pontine Marshes reclamation
+score: 7.1
 ---
 
 The Museo Civico di Latina documents the story of how the Pontine Marshes — a vast malarial wetland that defied Roman, medieval, and Papal drainage attempts for two millennia — were finally drained between 1930 and 1935 under Mussolini's Bonifica Integrale programme. The undertaking was one of the largest public works projects in Italian history: 3,000 km of canals dug, 400,000 hectares of land reclaimed, and five new towns (Latina, Sabaudia, Pontinia, Aprilia, and Pomezia) built in less than five years and settled by farming families from the Veneto and Friuli.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 60.9250
 longitude: -46.0650
+score: 8.1
 ---
 
 Kvanefjeld is the mountain above Narsaq, rising to around 830 metres and offering the best views in the area — out over Tunulliarfik Fjord, the surrounding mountains, and on clear days across to the Greenland ice sheet. The ascent takes two to three hours from town and is manageable for reasonably fit walkers; the terrain is tundra and rock, without marked trails, so basic navigation skills help.

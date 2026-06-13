@@ -10,6 +10,7 @@ story: >
   Hungary's first Christian king — was born in 969. Stephen was crowned here on Christmas Day in
   the year 1000, and the city remained the seat of Hungarian royal power until the Mongol invasion
   of 1241 drove the court to Buda.
+score: 8.4
 ---
 
 The Basilica of Esztergom is the largest church in Hungary and the seat of the Roman Catholic Archbishop — the Primate of Hungary. The current building was constructed between 1822 and 1869 on the site of the original medieval cathedral, destroyed during the Ottoman period. The interior is vast and cool, with a rotunda dome visible from kilometres away and one of the largest altarpieces in the world.

@@ -18,6 +18,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/IJmuiden_sea_lock
   - https://en.wikipedia.org/wiki/North_Sea_Canal
+score: 8.4
 ---
 
 The IJmuiden Sea Lock, opened in 2022, is the largest sea lock in the world: 500 metres long and 70 metres wide, capable of handling the biggest vessels afloat. It sits at the point where the North Sea Canal meets the North Sea, and watching an enormous container ship or bulk carrier pass through the lock chamber is one of the more extraordinary industrial spectacles the Netherlands offers.

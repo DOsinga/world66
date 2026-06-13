@@ -6,6 +6,7 @@ longitude: 8.5000
 tags:
   - things_to_do
   - sight
+score: 8.7
 ---
 
 The Aïr Mountains — *Aïr Tenere* in Tamasheq — rise to the east and north-east of In-Gall, a granite massif standing 2,000 metres above the surrounding desert and one of the great Saharan landscapes. The mountains were inscribed as a UNESCO World Heritage Site in 1991 (now listed as in danger) for their unique high-desert ecology and for the prehistoric rock art found across their valleys.

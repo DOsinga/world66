@@ -6,6 +6,7 @@ longitude: 0.5482
 tags:
   - bars_and_cafes
   - bar
+score: 5.9
 ---
 
 The Park Tavern is a back-street community pub a couple of streets behind the railway station, a CAMRA-recognised real-ale specialist with eight constantly rotating cask handpumps and a fridge full of regional craft cans. The interior is a single small wood-panelled room with a real fire in winter and a small enclosed beer garden out the back.

@@ -15,6 +15,7 @@ story: >
   plateau above, at around 1,900 metres, was used as a military airfield during
   World War II, the aircraft landing on the flat alpine meadow and taking off
   over the falls' edge. The area is now a protected nature reserve.
+score: 8.8
 ---
 
 The Engstligen Falls are the best reason to visit Adelboden in summer. The waterfall drops 600 metres off the edge of the Engstligenalp plateau in two parallel streams — impressive in early summer when snowmelt swells the flow, and still impressive in late summer when the water has dropped but the drop gains in clarity. The base of the falls is about a 45-minute walk from Adelboden village along a well-maintained path through the gorge.

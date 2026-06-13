@@ -10,6 +10,7 @@ story: >
   At the end of the war the prisoner Dorence Atwater secretly copied the camp's death register and smuggled the list out of Andersonville. Clara Barton, who would later found the American Red Cross, used Atwater's list to identify nearly all 13,000 graves by name — a remarkable feat given the chaos of the prison's final months. Without Atwater and Barton, most of the headstones in the cemetery would simply read "Unknown US Soldier."
 sources:
   - https://en.wikipedia.org/wiki/Andersonville_National_Cemetery
+score: 8.3
 ---
 
 Andersonville National Cemetery sits just north of the prison stockade. It holds the graves of nearly 13,000 Union soldiers who died at the camp — most of them buried shoulder to shoulder in trenches that have since been marked with individual white headstones in long, tight rows. The cemetery remains an active military cemetery and is still used for the burial of American veterans.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "The only surviving medieval town gate in the East Riding, built 1409–10"
+score: 7.8
 ---
 
 The North Bar is a fifteenth-century brick gateway and the only surviving medieval town gate in the old East Riding. Built between 1409 and 1410, it is also one of the earliest substantial brick structures in England, predating the Tudor brick revival by several decades. Traffic still passes through it, which gives it an unforced sense of being a working part of the town rather than a museum piece.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 0.8810
 longitude: -79.9010
+score: 6.3
 ---
 
 Tonsupa is the quieter, slightly more upmarket cousin to Atacames, sitting about 3 km up the coast. The beach is similar — dark sand, warm water, reasonable waves — but the atmosphere is calmer and the crowd more mixed. Several apartment complexes have been built here over the past two decades, giving it more of a residential resort feel than Atacames's lively beach-bar strip.

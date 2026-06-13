@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 65.5928
 longitude: 19.1736
+score: 8.2
 ---
 
 Arvidsjaur sits in deep boreal forest and is one of the better bases in Swedish Lapland for dog sledding and snowmobile safaris. Several operators run trips of varying length — from two-hour introductions to multi-day expeditions sleeping in wilderness cabins.

@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Bengal Spice
 type: poi
+score: 4.9
 ---
 
 A long-standing Indian restaurant on The Mall in Clifton, one of Bristol's more upmarket neighbourhoods. Bengal Spice has built a loyal following with well-executed subcontinental cooking — expect solid curries, good balti dishes, and attentive service in a comfortable setting. Reasonable prices for the area.

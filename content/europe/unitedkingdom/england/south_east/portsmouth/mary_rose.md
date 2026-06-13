@@ -9,6 +9,7 @@ tags:
   - historic_dockyard
 story: "When the wreck was raised in October 1982, around 60 million people watched it on live television — a global audience comparable to a moon landing. Among the more than 19,000 objects recovered were the remains of about 179 sailors, the ship's dog (Hatch), and the world's oldest known surviving piece of chocolate, found in a pewter bowl. Hatch the dog is on display in the museum."
 neighbourhood: Historic Dockyard
+score: 9.5
 ---
 
 A spectacular modern museum built around the recovered timbers of Henry VIII's Tudor warship, which sank in the Solent on 19 July 1545 in full view of the king watching from Southsea Castle. The wreck was found in 1971, surveyed for a decade, and raised from the seabed in 1982 in one of the most ambitious underwater archaeology projects ever undertaken.

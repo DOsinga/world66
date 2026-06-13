@@ -7,6 +7,7 @@ tags:
 latitude: 42.8146
 longitude: 10.3329
 snippet: "Roman finds from across Elba, housed in a Medici-era saltpetre store at the tip of the old harbour."
+score: 6.5
 ---
 
 The Linguella Museum occupies a long single-storey building on the spit of land that closes off the eastern side of Portoferraio's harbour — originally a Medici saltpetre store, later a salt warehouse, now a museum of the archaeology of Elba. The collection is modest but well-presented and covers everything from prehistoric flint tools through Roman amphorae raised from local wrecks to medieval ceramics from the Pisan and Genoese periods.

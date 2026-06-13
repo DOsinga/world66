@@ -10,6 +10,7 @@ longitude: -3.9478
 snippet: One of Scotland's largest and most historically important castles, perched on a volcanic crag above the old town
 story: >
   When the masons working on the Royal Palace finished its astonishing carved facade in 1542, they probably did not expect their work to be hidden under whitewash for four centuries. The Stuart kings used the palace as a showcase of Renaissance art; the British army that took the castle over after the Jacobite risings had no use for ornament and painted everything in regulation buff. The 21st-century restoration stripped the paint back, recovered the original pigments and re-wove the Unicorn Tapestries on hand looms — a 13-year project that returned the rooms to something close to how James V would have seen them.
+score: 9.5
 ---
 
 Stirling Castle is one of the largest and most strategically positioned castles in Britain. It stands on Castle Hill, a volcanic crag with cliffs on three sides, dominating the river crossing where the Lowlands meet the Highlands. The site has been fortified for at least a thousand years, but the buildings you see today belong mostly to the Stewart period — the great age of Scottish royal building between 1490 and 1600.

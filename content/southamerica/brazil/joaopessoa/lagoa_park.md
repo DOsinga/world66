@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 story: "The lake at the centre of the park is the terminus for the city's bus network — a practical accident of urban planning that means the Lagoa is simultaneously a green retreat and the transport hub of João Pessoa. Buses for the beach districts depart from around its edges."
+score: 7.1
 ---
 
 Parque Solon de Lucena — universally called the Lagoa — is the green lungs of the city centre and the spot where most visitors intersect with João Pessoa's daily life. A shallow artificial lake fills the middle of the park, ringed by tall royal palms and shaded walking paths. Office workers have lunch here; students sprawl on the grass; old men play dominoes under the trees.

@@ -9,6 +9,7 @@ latitude: 36.6799
 longitude: -6.1371
 sources:
   - https://en.wikipedia.org/wiki/Church_of_San_Miguel_(Jerez_de_la_Frontera)
+score: 8.2
 ---
 
 San Miguel is widely considered the finest Gothic church in Jerez, and its tower is the most beautiful in the city — an elaborately carved late-Gothic structure whose upper stages lean into almost Plateresque richness. The church was begun in the fifteenth century on the site of a former mosque and completed over the following two centuries, with Baroque elements added later.

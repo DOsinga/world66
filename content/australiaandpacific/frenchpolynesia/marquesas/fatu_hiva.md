@@ -8,6 +8,7 @@ latitude: -10.4833
 longitude: -138.6667
 story: >
   Thor Heyerdahl spent a year on Fatu Hiva in the late 1930s with his wife, attempting to live like Polynesian islanders and escape modern civilization. The experience convinced him that the Pacific islands had been settled from the east — from South America rather than Southeast Asia — and led eventually to the Kon-Tiki expedition. His memoir of the Fatu Hiva year, simply called "Fatu-Hiva," captures the island at a moment when the old ways were still visible beneath the colonial surface.
+score: 9.1
 ---
 
 Fatu Hiva is the southernmost and most remote of the Marquesas, reachable only by boat — there is no airstrip. The island is famous for its tapa cloth, made from the beaten bark of the paper mulberry tree and decorated with traditional Marquesan geometric patterns. It is considered the finest tapa production in all of French Polynesia, and the women of Fatu Hiva guard their patterns and techniques carefully.

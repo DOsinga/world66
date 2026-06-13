@@ -14,6 +14,7 @@ story: >
   the better-known minarets of Bukhara and Samarkand. The geometric brick patterns on the
   shaft are so precisely laid that scholars have debated whether they were planned in advance
   or improvised by the master craftsmen during construction.
+score: 8.5
 ---
 
 The Uzgen Minaret is a slender brick tower about 27 metres high, built around 1011 CE during the Karakhanid dynasty. It stands beside the three Karakhanid mausoleums on a bluff above the Kara Darya river. The tower is notable for its intricate surface decoration: the shaft is divided into horizontal bands, each carrying a different geometric pattern in relief brickwork. The craftsmanship is considered among the finest examples of early Islamic architecture in Central Asia.

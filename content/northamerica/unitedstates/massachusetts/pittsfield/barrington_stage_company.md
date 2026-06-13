@@ -9,6 +9,7 @@ latitude: 42.4570
 longitude: -73.2538
 sources:
   - https://en.wikipedia.org/wiki/Barrington_Stage_Company
+score: 7.6
 ---
 
 Barrington Stage Company gives Pittsfield one of the Berkshires' strongest theatre reasons to stay in town. Its productions range from musicals to new plays, and the company has helped make North Street feel like a real cultural corridor rather than just a main street.

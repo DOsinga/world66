@@ -8,6 +8,7 @@ tags:
 latitude: 32.7328
 longitude: -117.1468
 snippet: The city's main history museum, in Balboa Park, with rotating exhibitions on San Diego from the Spanish period to the present
+score: 6.9
 ---
 
 The San Diego History Center occupies a 1926 building in Balboa Park, adjacent to the Museum of Art and the Timken. The permanent collection covers San Diego from the Kumeyaay period through the Spanish missions, the Mexican era, and American development up through the mid-twentieth century. The photographic archive — over two million images — is the museum's greatest asset and the source of much of what is visible in the gallery exhibitions.

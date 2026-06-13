@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.8368
 longitude: -2.336
+score: 6.6
 ---
 
 Sabden Brook runs through the village from the slopes of Pendle Hill west toward the Calder. A footpath follows much of its course and makes a good gentle walk for an hour or two — pasture, dry stone walls, the occasional bridge, and water clear enough to see the bed.

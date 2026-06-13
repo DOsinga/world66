@@ -7,6 +7,7 @@ longitude: 103.3667
 tags:
 - things_to_do
 - culture
+score: 7.4
 ---
 
 About twelve kilometres north of Kuantan, the village of Beserah is one of the most traditional fishing communities on the Pahang coast. The village is best known for its production of salted and dried fish — the catch comes in early each morning, and by mid-morning the drying racks are full. What makes Beserah distinctive is that fishermen still use buffalo-drawn carts to haul the catch from the boats to the drying area, a practice that has been filmed and photographed so often it risks becoming self-conscious, but remains genuine.

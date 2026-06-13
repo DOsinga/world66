@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "By the middle of the nineteenth century the Cité had decayed into a slum and the French government was preparing to demolish it. The medievalist Prosper Mérimée intervened, the architect Eugène Viollet-le-Duc was hired in 1853, and a five-decade restoration began that gave the walls their conical slate roofs. Purists have argued ever since that the result is more 19th-century fantasy than 13th-century reality."
+score: 9.5
 ---
 
 The Cité is the walled town on the hill east of the Aude — 52 towers, two concentric rings of ramparts, and just over three kilometres of curtain wall enclosing a small inhabited quarter and a separate inner castle. It is the largest medieval fortified town in Europe and the second-most-visited monument in France after the Eiffel Tower.

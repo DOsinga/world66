@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0500
 longitude: -73.7950
+score: 7.7
 ---
 
 The Saratoga Performing Arts Center (SPAC) is an outdoor amphitheater in the state park, seating 5,000 under a covered pavilion with lawn seating for thousands more. The New York City Ballet and Philadelphia Orchestra are summer residents, performing their full classical seasons here each July. Rock, pop, and jazz acts fill the rest of the calendar.

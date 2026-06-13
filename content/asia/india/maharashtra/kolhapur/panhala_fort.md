@@ -9,6 +9,7 @@ latitude: 16.8123
 longitude: 74.1086
 story: >
   In 1660, Shivaji was besieged at Panhala by Adil Shah II's general Siddi Jauhar with an army of 40,000. He was surrounded for three months before staging a daring escape at night, sending a decoy (his barber Shiva Kashid, who resembled him) to draw the pursuing cavalry while Shivaji rode hard for Vishalgad 60 km away. Shiva Kashid was captured and killed; Shivaji escaped.
+score: 8.6
 ---
 
 One of the most significant forts in Maharashtra, built in the 12th century and later the headquarters of Adil Shah of Bijapur before becoming a key stronghold of Shivaji and the Maratha Empire. The fort sits on a plateau at 900 metres elevation, 21 km from Kolhapur, with views across the Deccan plateau and the Western Ghats.

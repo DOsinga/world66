@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Tajogaite
   - https://en.wikipedia.org/wiki/2021_Cumbre_Vieja_volcanic_eruption
+score: 7.8
 ---
 
 In September 2021, the Tajogaite volcano erupted on La Palma's Cumbre Vieja ridge, producing the most destructive eruption in the island's recorded history. By the time it ended in December, lava had buried entire neighbourhoods, crossed the main road on the western coast, and reached the sea north of Puerto Naos. The island rebuilt remarkably quickly — most of the infrastructure is restored — but the lava fields themselves remain, black and raw, covering several square kilometres of what had been farmland and housing.

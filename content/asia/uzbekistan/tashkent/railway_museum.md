@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 41.2906
 longitude: 69.2772
+score: 6.4
 ---
 
 An open-air collection of Soviet steam, diesel, and electric locomotives, parked on disused track just south of the main railway station. About thirty engines are on display, some dating to the early twentieth century, several of them open to climb into.

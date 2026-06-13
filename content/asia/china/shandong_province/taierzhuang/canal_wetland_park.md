@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.5700
 longitude: 117.7500
+score: 6.4
 ---
 
 The Canal Wetland Park at the edge of Taierzhuang was the first national wetland park in China to be built around the theme of canal wetlands — the ecosystem that developed along the Beijing-Hangzhou Grand Canal over centuries of use and gradual abandonment. The park covers a substantial area of reeds, shallow lakes, and canal-side vegetation, and supports over 1,000 species of plants and animals.

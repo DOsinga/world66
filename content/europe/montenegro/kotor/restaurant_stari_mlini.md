@@ -6,6 +6,7 @@ longitude: 18.7544
 tags:
   - eating_out
   - restaurant
+score: 7.1
 ---
 
 Stari Mlini ("Old Mills") occupies an 18th-century mill complex on the waterfront a few kilometres north of Kotor, at Ljuta, with tables on a stone terrace built over a spring-fed stream. The dining room is in a vaulted stone hall with the original mill wheel still in place behind a glass screen.

@@ -9,6 +9,7 @@ tags:
   - miraflores
 neighbourhood: Miraflores
 snippet: Dozens of well-fed stray cats inhabit the central park of Miraflores
+score: 4.8
 ---
 
 Lima's most photographed colony of cats lives in the heart of Miraflores at **Parque Kennedy**. Dozens of them — and the number fluctuates — sleep on the benches, nest in the flower beds, and patrol the grass at all hours. An animal-welfare NGO sterilises and vaccinates the colony, neighbours and street vendors feed them, and Miraflores municipal council has refused several proposals to relocate them.

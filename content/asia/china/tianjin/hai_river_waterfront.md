@@ -7,6 +7,7 @@ tags:
 latitude: 39.1336
 longitude: 117.2054
 snippet: "Rebuilt riverside promenade lined with European concession buildings and lit-up bridges"
+score: 7.3
 ---
 
 The Hai River flows through central Tianjin and its banks have been transformed into one of the most pleasant walking areas in the city. The riverside promenade stretches several kilometres through the old concession districts, passing beneath ornate bridges and alongside restored colonial-era buildings that now house restaurants, bars, and hotels.

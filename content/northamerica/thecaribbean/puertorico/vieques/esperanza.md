@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 18.0972
 longitude: -65.4708
+score: 7.1
 ---
 
 If Isabel Segunda is where Vieques does its administrative business, Esperanza is where it relaxes. A single waterfront strip — the malecón — runs along a calm bay, lined with bars, restaurants, and a few guesthouses. The beach is mediocre by Vieques standards but the dining and drinking is by some distance the best on the island.

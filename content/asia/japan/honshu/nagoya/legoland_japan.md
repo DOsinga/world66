@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.0454
 longitude: 136.8492
+score: 5.6
 ---
 
 The Asian outpost of the Legoland chain opened in 2017 on reclaimed land near Nagoya Port, the second in Asia after Malaysia. The park is firmly pitched at children aged 2 to 12 — gentler rides than a typical theme park, with an aquarium, a Lego Discovery centre, and a Miniland zone that recreates Tokyo, Osaka, Kyoto, Hiroshima and Nagoya in around 11 million bricks.

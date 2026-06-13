@@ -6,6 +6,7 @@ phone: 209-825-8400
 title: Shopping in Manteca
 type: poi
 url: www.basspro.com
+score: 3.2
 ---
 
 Beyond the basics

@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 17.7317
 longitude: 73.1715
+score: 7.8
 ---
 
 Karde is a beautiful crescent-shaped beach about 6 km south of Dapoli, sheltered by headlands on both sides and backed by coconut palms. It is less visited than Murud and tends to be calmer — the bay shape moderates the swell and makes it one of the better swimming beaches in the area during the season (October to May).

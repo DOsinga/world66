@@ -9,6 +9,7 @@ tags:
   - history
 latitude: 8.4894
 longitude: -13.2058
+score: 8.4
 ---
 
 The original Fourah Bay College building, finished in 1845, stands as a romantic vine-covered ruin on the waterfront at Cline Town. Several of its arched windows and the central facade have survived; the rest is being slowly absorbed by the forest. There is something genuinely affecting about standing in the empty shell of what was once the first university in Sub-Saharan Africa.

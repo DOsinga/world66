@@ -8,6 +8,7 @@ latitude: 33.5839
 longitude: 130.3796
 sources:
   - https://en.wikipedia.org/wiki/Fukuoka_Art_Museum
+score: 7.6
 ---
 
 The Fukuoka Art Museum sits on the southern edge of Ohori Park, a city art museum with a collection that balances traditional Japanese and Asian art against an international modern and contemporary collection. The modern section holds works by Dalí, Warhol, and Miró alongside significant Japanese 20th-century pieces; the traditional Asian galleries cover pottery and decorative arts from across East and Southeast Asia.

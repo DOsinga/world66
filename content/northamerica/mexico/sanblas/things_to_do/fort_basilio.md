@@ -15,6 +15,7 @@ story: >
   The poem mourns a lost era: "What say the Bells of San Blas / To the ships that
   southward pass / From the harbour of Mazatlan?" The bells Longfellow imagined are
   gone, but the crumbling walls remain.
+score: 7.4
 ---
 
 Fort Basilio — also known as La Contaduría (the accountant's house) — stands on a hill above the mouth of the San Blas River, reached by a short steep path from the town centre. The fortifications were built in the 18th century when San Blas was an important Pacific port and naval base; at its peak the town was the major departure point for Spanish expeditions to California and the Pacific Northwest.

@@ -7,6 +7,7 @@ tags:
   - sight
 title: Anse-à-Galets
 type: poi
+score: 5.2
 ---
 
 Anse-à-Galets is the administrative centre of Gonâve Island and the arrival point for all boats from the mainland. It is a small Haitian coastal town in the full sense — market stalls, motor bikes, concrete buildings in various states of construction, a waterfront where fishing boats come and go. The population is several thousand; the town has a church, a health clinic, and a market. Beyond that, infrastructure is minimal.

@@ -15,6 +15,7 @@ story: >
   his workshop tools and original model engines.
 sources:
   - https://en.wikipedia.org/wiki/McLean_Museum
+score: 8.0
 ---
 
 The McLean Museum and Art Gallery — now officially called the Watt Institution — is Greenock's main museum and the best starting point for understanding both the town and the Industrial Revolution. The James Watt collection is the centrepiece: tools, models, letters, and instruments that tell the story of the engineer who changed the world from this small Scottish port.

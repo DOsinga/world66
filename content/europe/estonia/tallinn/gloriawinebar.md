@@ -7,6 +7,7 @@ tags:
 latitude: 59.4342
 longitude: 24.7422
 snippet: Old Town restaurant in 1930s Estonian Art Deco style with a serious wine cellar
+score: 6.9
 ---
 
 Gloria is the grande dame of Tallinn restaurants — an Old Town establishment opened in 1937 and restored to its original Art Deco interiors, with the most serious wine cellar in the city (some 40,000 bottles at last count). The cooking is European classical: duck confit, beef tenderloin, lobster bisque — not adventurous, but executed with real skill.

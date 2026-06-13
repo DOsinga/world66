@@ -17,6 +17,7 @@ story: >
   credence.
 sources:
   - https://en.wikipedia.org/wiki/Rau%C3%B0feldsgj%C3%A1
+score: 7.7
 ---
 
 Rauðfeldsgjá is a narrow ravine cut into the southern flank of Snæfellsjökull, accessible from a small car park on the road between Arnarstapi and Búðir. The entrance to the ravine is a crack in the rock barely wide enough for one person, opening into a corridor that narrows further as you walk in. A stream flows through the bottom of the ravine; waterproof boots allow you to walk further into the increasingly dramatic cleft.

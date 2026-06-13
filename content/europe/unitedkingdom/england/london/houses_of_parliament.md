@@ -14,6 +14,7 @@ admission: Free to view exterior; UK Parliament tours ticketed
 url: www.parliament.uk
 story: >
   The original Palace of Westminster burned to the ground on the night of 16 October 1834, in a fire started by overheated stoves used to dispose of tally sticks — wooden Exchequer accounting tools. J.M.W. Turner watched from the Thames and produced two of his finest paintings of the blaze. The replacement, designed by Charles Barry and decorated by Augustus Pugin, is the building we see today — finished in 1870 and still the seat of both Houses of Parliament.
+score: 9.3
 ---
 
 The most photographed building in London for good reason. The 96-metre Elizabeth Tower — what nearly everyone calls Big Ben, though the name properly belongs only to the 13.5-tonne hour bell — sits at the north end of the Palace of Westminster, looking out over Westminster Bridge and the Thames. Restoration scaffolding came off in 2022 and the gilded clock faces are now back to their original Victorian colour scheme.

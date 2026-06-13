@@ -10,6 +10,7 @@ tags:
   - polana
   - architecture
 neighbourhood: Polana
+score: 7.6
 ---
 
 The **Hospital Central de Maputo** was inaugurated in 1939 and is the country's largest medical facility, with around 1,500 beds. The complex is a remarkable example of late-colonial modernist architecture, conceived as a "hospital-park" by the Portuguese architects Vasco Regaleira, Daniel da Silva and António Cabral — long low ward blocks set in landscaped grounds, with verandas, breezeways and tropical planting designed to keep wards cool before air conditioning.

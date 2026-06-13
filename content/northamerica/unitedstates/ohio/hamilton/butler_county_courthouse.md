@@ -9,6 +9,7 @@ latitude: 39.3999
 longitude: -84.5618
 story: >
   The courthouse was designed by David W. Gibbs and built between 1885 and 1889. It is one of the finest Richardsonian Romanesque courthouses in Ohio, and its clock tower is the dominant landmark on the Hamilton skyline — a reminder that Butler County was once one of the wealthiest counties in the state.
+score: 7.8
 ---
 
 The Butler County Courthouse anchors the downtown and makes an immediate impression. Built of Ohio sandstone between 1885 and 1889, the building is a confident example of Richardsonian Romanesque architecture: rounded arches, heavy stonework, and a tower that rises over the city with a self-assurance that civic buildings rarely have anymore.

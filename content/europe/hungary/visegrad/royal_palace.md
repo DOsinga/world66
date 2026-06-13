@@ -9,6 +9,7 @@ tags:
   - museum
 story: >
   The Royal Palace was largely forgotten after the Ottoman invasion of 1526 — the buildings were buried under debris and flooding, and for centuries the site was a vacant meadow. Hungarian archaeologists only rediscovered the palace complex in the 1930s, and excavations have continued intermittently ever since. Much of what you see today is faithful reconstruction based on the archaeological record, not original material.
+score: 8.6
 ---
 
 The Royal Palace at Visegrad was the favoured residence of Matthias Corvinus, the 15th-century Hungarian king whose court was one of the most culturally sophisticated in Europe. The complex included a famous Renaissance fountain (the Hercules Fountain, a copy of which stands in the courtyard today), grand reception halls, and elaborately decorated royal apartments. The original was destroyed after the Ottoman conquest of 1526 and only rediscovered by archaeologists in the 20th century.

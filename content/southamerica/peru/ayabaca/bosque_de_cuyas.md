@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -4.6705
 longitude: -79.7430
+score: 7.8
 ---
 
 A cloud forest reserve a few kilometres below Ayabaca, reachable by mototaxi in about twenty minutes. The forest is partly virgin, with ancient trees draped in moss and bromeliads and a small waterfall at the far end of the main trail. The canopy is thick enough that it stays cool even at midday, and the contrast with the open hillsides above town is striking.

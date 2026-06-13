@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 37.5043
 longitude: 15.0810
+score: 7.8
 ---
 
 The basilica of San Nicolò l'Arena, attached to the Benedictine monastery on Piazza Dante, is the largest church in Sicily and one of the strangest. The vast bare facade was never finished, with squared protrusions where columns should have stood, giving the church the look of an enormous unfinished sketch.

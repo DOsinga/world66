@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Tamamo-koen
 type: poi
+score: 7.9
 ---
 
 The park immediately east of Takamatsu Station occupies the former grounds of Takamatsu Castle (Takamatsu-jo), one of only three castles in Japan built directly on the coast. The main tower was demolished after the Meiji Restoration and what remained was destroyed by wartime bombing, but the moats — still filled with seawater — survive, along with a few turrets and gate structures. Herons and cormorants fish in the moat. The setting, with the sea visible beyond the walls, gives a clear sense of why this was considered a strategically formidable site.

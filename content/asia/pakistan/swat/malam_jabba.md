@@ -7,6 +7,7 @@ tags:
 latitude: 34.8067
 longitude: 72.5783
 story: "Malam Jabba has the only proper ski resort in Pakistan — a small Italian-built chairlift station that was destroyed by the Taliban in 2008, then rebuilt and reopened. It is at 2,652 metres, with the runs topping out around 3,200."
+score: 7.3
 ---
 
 Malam Jabba is a hill station 39 km northeast of Saidu Sharif, accessed by a switchbacking road up from the main Swat highway. The mountain has Pakistan's only commercial ski operation, with a chairlift, a couple of cleared runs, and a rebuilt hotel at the base. The season is typically December to March, conditions permitting.

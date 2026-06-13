@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.3025
 longitude: 10.5745
+score: 7.3
 ---
 
 The Hofgarten — the court garden behind the Residenz — is one of the best-preserved baroque gardens in Bavaria. Laid out in the early 18th century, it consists of formal parterres flanked by clipped lime trees, with long axes and gravel walks in the French style. The orangery wing on the south side forms a handsome backdrop and is used for concerts during the summer Rokoko-Festspiele.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - mall
+score: 8.0
 ---
 
 The Lahore High Court occupies one of the great Indo-Saracenic civic buildings of the subcontinent — a long red-brick pile with white-marble domes, completed in 1889 to a design by Sir Ganga Ram. The building combines British court typology (panelled chambers, oak benches, a tower with a clock) with deeply Indian decorative detail.

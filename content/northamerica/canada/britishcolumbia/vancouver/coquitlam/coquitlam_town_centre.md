@@ -8,6 +8,7 @@ tags:
 latitude: 49.2915
 longitude: -122.7906
 snippet: The planned downtown of Coquitlam, transformed since the 2016 opening of the Evergreen SkyTrain extension
+score: 5.6
 ---
 
 Coquitlam Town Centre is the planned downtown area of the city — a one-square-kilometre district of mid-rise apartment towers, a major shopping mall, civic buildings and parkland. It was originally laid out in the 1980s, but the area saw a major building boom after the Evergreen Extension of the SkyTrain Millennium Line opened in 2016, bringing rapid transit access from downtown Vancouver.

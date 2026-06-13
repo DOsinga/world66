@@ -15,6 +15,7 @@ story: >
   unusual to find a vendor who has sold ponchos in Amsterdam or New York.
 sources:
   - https://en.wikipedia.org/wiki/Otavalo_(city)
+score: 9.0
 ---
 
 The heart of Otavalo's famous market, Plaza de los Ponchos fills with colour every Saturday when hundreds of Otavaleño vendors set up stalls selling handwoven textiles, blankets, ponchos, hammocks, jewellery, and carvings. The sheer variety is extraordinary — you can find anything from traditional Andean patterned cloth to acrylic tourist goods, so take your time and look carefully.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.217
 longitude: -3.733
+score: 8.0
 ---
 
 Malmsmead is a hamlet on the Devon–Somerset border where Badgworthy Water joins Oare Water before becoming the East Lyn River. The old stone bridge and the ford next to it have been photographed by every visitor since Lorna Doone established the area as a literary destination in the 1880s.

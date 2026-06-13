@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 43.5514
 longitude: 7.0121
+score: 7.8
 ---
 
 The Marché Forville is Cannes's best morning market and one of the finest covered markets on the Côte d'Azur. It operates every morning except Monday (when a flea market takes over) inside a covered hall near the Vieux Port, with vendors selling local produce, cheese, charcuterie, flowers, and fresh fish. This is where Cannes cooks shop.

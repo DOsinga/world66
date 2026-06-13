@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.7626
 longitude: 8.2418
+score: 5.8
 ---
 
 The Caracalla Therme is the modern thermal-bath complex next door to the Friedrichsbad, opened in 1985 and named for the Roman emperor who supposedly bathed at Baden-Baden during a campaign on the Rhine. It is far less ceremonial than its older neighbour — swimsuit required throughout the main pools, families welcome, day passes by the hour.

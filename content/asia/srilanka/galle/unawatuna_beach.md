@@ -9,6 +9,7 @@ tags:
 latitude: 6.0096
 longitude: 80.2491
 story: A coral reef offshore breaks the worst of the Indian Ocean swell, so Unawatuna is one of the few south-coast beaches where you can safely swim in most months. The reef itself was severely damaged by the 2004 tsunami and is recovering slowly.
+score: 6.4
 ---
 
 Unawatuna is the closest beach to Galle, a five-kilometre tuk-tuk ride east. A long crescent of yellow sand curves around a sheltered bay, with palm trees behind and a shoulder of jungle-covered headland at each end. The water is calm and clear by Sri Lankan standards — the offshore reef takes the force out of the swell — and snorkelling around the eastern headland turns up reef fish, sea turtles and the occasional moray eel.

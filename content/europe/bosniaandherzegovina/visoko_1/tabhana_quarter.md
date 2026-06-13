@@ -6,6 +6,7 @@ longitude: 18.1773
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 The narrow lane along the riverbank south of the old market is the surviving fragment of Visoko's once-famous tannery district. The town was the leather and shoemaking capital of the Ottoman Bosnian provinces, and at its peak a hundred tabhana workshops operated here, drawing water from the Fojnička.

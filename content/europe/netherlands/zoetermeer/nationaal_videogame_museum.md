@@ -8,6 +8,7 @@ latitude: 52.0589
 longitude: 4.4941
 story: >
   The museum opened in 2016 in a converted building in Zoetermeer's Stadshart and holds thousands of playable exhibits spanning more than five decades of gaming history — from Pong-era hardware to early home computers to the console generations. Everything works. Nothing is behind glass.
+score: 8.1
 ---
 
 The Nationaal Videogame Museum is exactly what it claims to be: the Netherlands' dedicated archive of video game history, housed across multiple floors in central Zoetermeer. The collection spans five decades, from the earliest arcade machines and home computers of the 1970s and 1980s through the full progression of console generations, and the vast majority of exhibits are playable.

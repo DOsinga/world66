@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 4.8906
 longitude: 114.9445
+score: 4.5
 ---
 
 Tamu Kianggeh is BSB's main open-air market, set along the banks of the Kianggeh River in the heart of the city. It is busiest in the mornings — go between 7am and noon — when vendors spread out produce, fish, jungle vegetables, herbs, and local snacks across wooden tables under canvas awnings. You will find things here that do not appear in supermarkets: jungle ferns, wild honey, giant river prawns, and a bewildering variety of bananas.

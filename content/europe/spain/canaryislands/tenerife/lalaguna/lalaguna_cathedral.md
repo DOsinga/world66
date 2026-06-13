@@ -17,6 +17,7 @@ story: >
   newest.
 sources:
   - https://en.wikipedia.org/wiki/La_Laguna_Cathedral
+score: 7.8
 ---
 
 The Cathedral of La Laguna — officially the Cathedral of San Cristóbal de La Laguna — was founded in the 16th century on the site of an earlier church and rebuilt repeatedly over the following centuries. The current structure is largely 18th-century in the interior, with the neogothic west front added in the early 20th century. The interior is broad and well-proportioned, with carved wooden choir stalls, carved altarpieces, and the accumulated religious art of four centuries of island history.

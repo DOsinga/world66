@@ -8,6 +8,7 @@ tags:
 latitude: 32.72
 longitude: -2.66
 snippet: Long hikes through desert, hammada and mountain landscapes around the oasis
+score: 7.4
 ---
 
 The countryside around Figuig is dramatic and almost entirely empty of other tourists. To the south and east, hammada (rocky desert plateau) extends toward the Algerian border. The surrounding mountains — part of the Atlas foothills — can be explored on foot in half-day or full-day circuits from the oasis.

@@ -8,6 +8,7 @@ story: >
   The Dzhumaya Mosque was built in the 1360s, shortly after the Ottoman conquest of Plovdiv. Sultan Murad I reportedly converted an existing church — the Cathedral of Saint Petka Tarnovska — into the mosque, reusing the site if not the structure. It is one of the oldest Ottoman mosques in the Balkans still in use for regular worship.
 sources:
   - https://en.wikipedia.org/wiki/Dzhumaya_Mosque
+score: 7.9
 ---
 
 The Dzhumaya Mosque stands in the central square of Plovdiv, its pencil-thin minaret a counterpoint to the Roman stadium ruins visible nearby. It is one of the oldest Ottoman mosques in Europe still in active use — built in the 14th century and preserved through the Bulgarian national period that followed Ottoman rule, partly because of its architectural merit, partly because of Plovdiv's pragmatic urban history.

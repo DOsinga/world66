@@ -12,6 +12,7 @@ story: >
   Salesians who run the museum chose the design after consulting
   with elders from all seven Northeast states — the same number as
   the building's floors.
+score: 8.4
 ---
 
 The most ambitious museum in northeast India: seven floors of galleries covering the tribal cultures of all seven Northeast Indian states. The collection runs to thousands of objects — Naga headhunter trophies, Khasi weaving looms, Mizo bamboo flutes, Manipuri ritual masks — laid out by theme rather than tribe, so each floor compares textiles, weapons, or religion across the region.

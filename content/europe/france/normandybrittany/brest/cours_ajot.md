@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.3834
 longitude: -4.4926
+score: 6.4
 ---
 
 The Cours d'Ajot is a long promenade on the cliffside above the military port, planted with lime trees and offering an uninterrupted view over the Rade de Brest — one of the world's finest natural harbours, almost completely enclosed by the Crozon Peninsula to the south. On clear days you can see the Presqu'île de Crozon and, beyond it, the Atlantic.

@@ -9,6 +9,7 @@ latitude: -14.7930
 longitude: -39.0455
 story: >
   Construction on the current cathedral began in 1931 and took over two decades to complete. During that time the cacao economy collapsed — the region was decimated by witches' broom fungus in the 1980s — but the building pressed on, funded by donations from fazendeiros who were rapidly going broke.
+score: 7.0
 ---
 
 The Cathedral of São Sebastião dominates the Praça Dom Eduardo in the historic centre, a grand neoclassical building with twin towers that is visible from most of the waterfront. Its scale reflects the ambitions of the cacao boom years, when Ilhéus was producing the majority of Brazil's cacao and its merchants were spending freely.

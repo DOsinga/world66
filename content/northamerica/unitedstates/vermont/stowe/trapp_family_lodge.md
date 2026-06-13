@@ -9,6 +9,7 @@ latitude: 44.4655
 longitude: -72.7452
 story: >
   Maria von Trapp, who fled Austria with her family before World War II and whose story inspired The Sound of Music, chose Stowe because the Vermont hills reminded her of the Austrian Alps. She bought the farm in 1942. The original lodge burned down in 1980; the current building is a replacement, but the von Trapp family still operates the resort.
+score: 8.0
 ---
 
 The Trapp Family Lodge sits on 2,600 acres of rolling hillside above Stowe village, with views across the valley to Mount Mansfield that make the comparison to Austria understandable. The lodge is a full resort with rooms, a spa, and a restaurant — but non-guests can access the trails and explore the property. In winter, the lodge operates one of the best cross-country ski trail networks in New England, with over 60 km of groomed tracks through the wooded hills.

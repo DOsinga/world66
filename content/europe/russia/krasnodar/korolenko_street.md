@@ -15,6 +15,7 @@ story: >
   the Kuban steppe was and is among the most productive agricultural land in Russia,
   and Yekaterinodar was the trading hub. The street is named for the Russian writer
   Vladimir Korolenko, who was exiled to the Caucasus in the 1880s.
+score: 7.2
 ---
 
 Korolenko Street in the central part of Krasnodar retains a higher concentration of 19th and early 20th century merchant architecture than the main Krasnaya Street, which was widened and partially rebuilt in the Soviet period. The buildings here — solid multi-storey structures in various eclectic revival styles — reflect the prosperity of the pre-revolutionary Yekaterinodar merchant class.

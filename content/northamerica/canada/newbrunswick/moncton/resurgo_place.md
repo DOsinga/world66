@@ -8,6 +8,7 @@ tags:
 title: Resurgo Place
 type: poi
 snippet: Combined city museum and science centre near downtown
+score: 7.3
 ---
 
 Resurgo Place is Moncton's main museum, a hybrid science centre and city-history museum housed in a modern building on Mountain Road just up from downtown. The city-history galleries trace Moncton's growth from a Mi'kmaq fishing and meeting place through the era of wooden shipbuilding (which collapsed when steel hulls took over), the arrival of the railway, and the Acadian cultural revival of the 20th century.

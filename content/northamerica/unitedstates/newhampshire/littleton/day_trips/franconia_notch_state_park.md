@@ -9,6 +9,7 @@ latitude: 44.1409
 longitude: -71.6818
 sources:
   - https://en.wikipedia.org/wiki/Franconia_Notch_State_Park
+score: 9.5
 ---
 
 The crown jewel of the western White Mountains, Franconia Notch State Park sits about 12 miles south of Littleton along I-93. The park packs a remarkable amount into one valley: the Flume Gorge, a narrow granite chasm with waterfalls and wooden walkways threading through it; Echo Lake, a clear mountain lake at the base of Cannon Mountain with a beach and canoe rental; and the Cannon Mountain Aerial Tramway, which carries visitors 2,180 feet to the summit with views stretching into Vermont, Maine, and Quebec on clear days.

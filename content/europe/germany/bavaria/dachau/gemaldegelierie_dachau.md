@@ -14,6 +14,7 @@ story: >
   1870s and 1880s found irresistible. By 1900, Dachau was one of the major
   artists' colonies in the German-speaking world, with a reputation entirely
   unconnected to its later, darker history.
+score: 7.2
 ---
 
 The Gemäldegalerie Dachau holds the town's art collection, focused on the works of the Dachau School — the artists' colony that flourished here from the 1870s to the early 20th century. The painters who gathered here, including Carl Spitzweg, Ludwig Dill, Arthur Langhammer, and Adolf Hölzel, were attracted by the distinctive quality of light over the moorlands. Their landscapes capture a now-vanished agricultural world: the flat meadows, the willows, the working farm life of late 19th-century Bavaria.

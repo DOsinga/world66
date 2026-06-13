@@ -10,6 +10,7 @@ story: >
 title: HNLMS Abraham Crijnssen
 type: poi
 snippet: Second World War minesweeper famous for disguising itself as an island to escape Japanese forces
+score: 7.5
 ---
 
 The HNLMS Abraham Crijnssen is one of the most remarkable vessels in the Marinemuseum's outdoor collection. This Jan van Amstel-class minesweeper was launched in 1936 and served in the Dutch East Indies at the outbreak of the Pacific War. Her extraordinary escape from Java in 1942 — disguised as a moving island using cut vegetation — made her a celebrated figure in Netherlands naval history.

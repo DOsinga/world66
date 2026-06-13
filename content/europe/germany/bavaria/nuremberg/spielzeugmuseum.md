@@ -7,6 +7,7 @@ tags:
 - museum
 title: Spielzeugmuseum
 type: poi
+score: 6.9
 ---
 
 Nuremberg has been a centre of the toy industry since the 16th century, which makes the Toy Museum a fitting institution. The collection spans tin soldiers, mechanical toys, and an impressive series of antique dolls' houses that document domestic life across several centuries. There is also a large Playmobil and Lego section popular with younger visitors.

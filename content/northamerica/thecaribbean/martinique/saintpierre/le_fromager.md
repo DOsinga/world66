@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 14.7418
 longitude: -61.1759
+score: 5.4
 ---
 
 Le Fromager is one of Saint-Pierre's better-regarded restaurants, occupying a terrace position with views over the bay toward the ruins. It serves Creole cuisine — grilled langouste (spiny lobster), fish prepared in court-bouillon, accras, and the blaff (white fish poached in spiced broth with lime) that Martinique does particularly well. Portions are substantial and presentation is unpretentious.

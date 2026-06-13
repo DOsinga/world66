@@ -8,6 +8,7 @@ tags:
 title: Bab Semmarine
 type: poi
 snippet: "The monumental southern gate of Fes el-Jdid, Gate of the Farriers"
+score: 7.8
 ---
 
 Bab Semmarine — the Gate of the Farriers — is the main southern entrance to Fes el-Jdid, built by the Merinids in the fourteenth century. It is a massive horseshoe-arched gate with carved stone decoration and the remnants of zellige. The name records the blacksmiths and horse-equipment makers whose workshops once occupied this street.

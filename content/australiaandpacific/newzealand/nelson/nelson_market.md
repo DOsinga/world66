@@ -7,6 +7,7 @@ tags:
   - market
 latitude: -41.2706
 longitude: 173.2841
+score: 6.8
 ---
 
 The Nelson Market takes over Montgomery Square every Saturday morning, with two hundred or so stalls covering local produce, baked goods, crafts, plants, and a row of food trucks. It is the main weekly gathering for the town and the region's growers and makers, and worth timing a visit around if you can.

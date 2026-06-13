@@ -10,6 +10,7 @@ tags:
 - sight
 title: Old Town of Djenné
 type: poi
+score: 9.3
 ---
 
 The old town of Djenné is one of the great surviving examples of pre-colonial West African urbanism. Inscribed by UNESCO in 1988 along with nearby Djenné-Djenno, the dense network of two-storey mud-brick houses, narrow lanes, and small courtyards has been continuously inhabited for at least eight hundred years. Walking the streets is the main experience of Djenné — there is no specific itinerary, just an endless unfolding of doorways, facades, rooftops, and small open squares that connect them.

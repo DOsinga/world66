@@ -11,6 +11,7 @@ story: >
   family home in England. It has been a restaurant since the 1970s.
 sources:
   - https://en.wikipedia.org/wiki/Briarhurst_Manor
+score: 5.8
 ---
 
 Briarhurst Manor is the most celebrated restaurant in Manitou Springs, occupying a handsome 1872 English-style manor house set in gardens beside Fountain Creek. The building itself is worth seeing — pink rhyolite stone, gabled rooflines, Victorian interiors — and the setting is remarkable for a place that is also a serious working restaurant. The cooking is upscale American with Colorado ingredients: Rocky Mountain trout, elk, lamb, seasonal vegetables.

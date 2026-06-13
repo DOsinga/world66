@@ -10,6 +10,7 @@ longitude: -90.6680
 story: "The museum's permanent collection includes a significant holding of work by Grant Wood, the Iowa-born painter best known for American Gothic. Wood lived and worked in the region, and the Dubuque collection includes several of his lesser-known paintings and drawings alongside the iconic work, giving a fuller picture of an artist who is often reduced to a single image."
 sources:
   - https://en.wikipedia.org/wiki/Dubuque_Museum_of_Art
+score: 7.2
 ---
 
 The Dubuque Museum of Art occupies a 1911 Carnegie library building that has been thoughtfully expanded. The permanent collection focuses on American art with particular strength in regional Iowa work and a notable Grant Wood holding. The temporary exhibition program brings traveling shows from larger institutions that would otherwise not reach this part of the Midwest.

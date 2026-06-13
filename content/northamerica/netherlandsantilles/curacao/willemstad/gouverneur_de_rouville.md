@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 12.1086
 longitude: -68.9363
+score: 6.0
 ---
 
 Gouverneur de Rouville occupies a restored 19th-century mansion on the Otrobanda waterfront, with a terrace looking directly across the harbour at the Handelskade — arguably the best restaurant view in Willemstad. The menu leans toward local Curaçaoan and Caribbean dishes: keshi yena, stoba, grilled fish with funchi (the local cornmeal porridge), and a good selection of seafood.

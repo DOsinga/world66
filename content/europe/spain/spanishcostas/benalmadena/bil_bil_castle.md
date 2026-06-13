@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 The Castillo del Bil-Bil is a small terracotta-coloured castle on the seafront, built in 1934 as a private villa in a romantic neo-Arabic style. It looks like something from a North African film set and is one of the more photogenic buildings on the coast.

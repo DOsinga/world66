@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "When industrial pollution and electric trams in Bombay began to interfere with magnetic instruments in the 1890s, the colonial observatory was moved here in 1904 — and the records from this site form one of the longest continuous magnetic and seismological data sets in Asia."
+score: 4.7
 ---
 
 The Indian Institute of Geomagnetism's Colaba Observatory sits on the edge of town and has been recording geomagnetic and seismological data for over a century. The grounds are not formally open to the public, but the historic buildings can be seen from outside and the institute occasionally hosts open days.

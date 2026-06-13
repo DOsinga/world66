@@ -12,6 +12,7 @@ story: >
   The cathedral was built in 1900 by the Russian Imperial authorities as a pointed statement of Russian dominance over the Baltic provinces. It was deliberately sited on Toompea Hill, the historic seat of Estonian power, facing the Estonian parliament. After Estonian independence in 1918, there were serious proposals to demolish it. The cathedral survived, though the debate about what it represents has never fully stopped.
 sources:
   - https://en.wikipedia.org/wiki/Alexander_Nevsky_Cathedral,_Tallinn
+score: 8.1
 ---
 
 The Alexander Nevsky Cathedral is the most visible Orthodox church in Tallinn, its bulbous golden onion domes rising above Toompea Square in deliberate contrast to the pink baroque parliament building opposite. Built between 1894 and 1900 in Russian Revival style on the orders of Tsar Alexander III, it is architecturally impressive and historically loaded — a symbol of Russian imperial power planted at the heart of the old Estonian city.

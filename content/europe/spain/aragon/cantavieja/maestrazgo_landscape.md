@@ -7,6 +7,7 @@ tags:
 - nature
 title: Maestrazgo Landscape and Walking
 type: poi
+score: 8.6
 ---
 
 **The Maestrazgo** is one of Spain's least-visited mountain regions, a high plateau of limestone upland, deep ravines, and abandoned villages between the provinces of Teruel and Castellón. Cantavieja sits at its heart and makes a good base for exploring by car or on foot. The landscape has an austere drama that is very different from the popular Pyrenees or Picos de Europa to the north: the villages are small and extremely quiet, the roads empty, and the sense of historical depth — medieval towers, Civil War memory, centuries of rural depopulation — is palpable in every direction.

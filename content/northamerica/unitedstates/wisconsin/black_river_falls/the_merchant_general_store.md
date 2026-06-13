@@ -11,6 +11,7 @@ tags:
 title: The Merchant General Store
 type: poi
 url: http://www.themerchantgeneralstore.com
+score: 5.3
 ---
 
 An antique and general store on Main Street carrying a mix of vintage goods, collectibles, and locally made items. It has an old-fashioned general store character — part hardware, part curio shop, part small-town general goods retailer — that fits the Main Street setting.

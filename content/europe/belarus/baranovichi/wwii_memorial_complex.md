@@ -8,6 +8,7 @@ latitude: 53.1352
 longitude: 26.0181
 sources:
   - https://en.wikipedia.org/wiki/Baranovichi
+score: 6.4
 ---
 
 Like virtually every Belarusian city, Baranovichi has a substantial memorial complex dedicated to those killed during the Second World War — known here as the Great Patriotic War. The complex includes an eternal flame, stone monuments, and plaques listing the names of local victims. Belarus lost roughly a third of its entire population during the war, and the memorials in every town reflect the scale of that trauma in a way that can be difficult for visitors from less affected countries to absorb.

@@ -10,6 +10,7 @@ tags:
 address: 68-25 Honmachi, Himeji
 opening_hours: 10:00–17:00; closed Mondays
 admission: ¥300 permanent; varies for special exhibitions
+score: 6.9
 ---
 
 Housed in a red-brick former army warehouse from 1905, the Himeji City Museum of Art is one of those small Japanese museums that turn out to be more interesting than they sound. The collection focuses on Belgian and French modern painting — a quirk that goes back to the city's twinning with Charleroi — alongside Japanese artists from the prefecture.

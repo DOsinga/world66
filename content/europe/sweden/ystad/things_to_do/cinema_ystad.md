@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Bio Saga
 type: poi
+score: 6.5
 ---
 
 Bio Saga on Hamngatan is one of Sweden's oldest continuously operating cinemas, with a 1910 Art Nouveau facade and a single-screen auditorium that has been restored rather than gutted. It is also where Henning Mankell's Kurt Wallander goes to forget the latest case — the cinema appears in several of the novels.

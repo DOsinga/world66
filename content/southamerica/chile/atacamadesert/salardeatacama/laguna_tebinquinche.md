@@ -7,6 +7,7 @@ tags:
 - nature
 title: Laguna Tebinquinche
 type: poi
+score: 7.8
 ---
 
 Laguna Tebinquinche is a wide, shallow lagoon where the salt flat opens toward the Andes. It is less about one dramatic object than about light: pinks, blues, whites, and volcano shadows moving across water.

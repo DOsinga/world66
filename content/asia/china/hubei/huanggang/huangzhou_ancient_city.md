@@ -9,6 +9,7 @@ latitude: 30.4340
 longitude: 114.8790
 story: >
   Huangzhou is one of the few places in Hubei where Song dynasty urban fabric has survived in recognisable form. Most Chinese cities were either comprehensively rebuilt in the twentieth century or are restorations. Huangzhou's comparatively slow economic development — the prefecture remains one of Hubei's poorer areas — meant that less demolition happened, leaving a genuine rather than reconstructed historic quarter. This accidental preservation is not unusual in poorer Chinese cities, and it makes Huangzhou more interesting to walk than many better-known heritage destinations.
+score: 6.8
 ---
 
 Huangzhou, the historic urban core of what is now Huanggang city, preserves a section of Song, Ming, and Qing dynasty architecture that gives a genuine sense of the layered history of this Yangtze river town. The ancient city quarter contains traditional courtyard buildings, old street alignments, and fragments of civic infrastructure that have survived less through deliberate preservation than through the relative economic quietness of the region. It rewards slow walking rather than sight-by-sight ticketing.

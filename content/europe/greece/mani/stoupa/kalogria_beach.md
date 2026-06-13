@@ -8,6 +8,7 @@ tags:
   - beaches
   - swimming
   - beach
+score: 7.9
 ---
 
 Kalogria Beach is the quieter of the two main beaches, a ten-minute walk north over the headland from Stoupa Beach. It is smaller, more pebbly, and noticeably cooler because of the underwater springs that bubble up directly off the shore.

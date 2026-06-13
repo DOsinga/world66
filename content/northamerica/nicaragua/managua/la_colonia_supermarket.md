@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 12.1080
 longitude: -86.2565
+score: 4.5
 ---
 
 La Colonia is Nicaragua's main domestic supermarket chain and a practical stop for travellers stocking up on supplies. The Carretera Masaya branches are well stocked with local food products that make good purchases to take home: Nicaraguan coffee (look for Selecto or Presto labels, or ask for coffee from Matagalpa), run añejo (aged rum from Compañía Licorera), local chocolate, and packets of pinolillo (a toasted corn and cacao drink mix).

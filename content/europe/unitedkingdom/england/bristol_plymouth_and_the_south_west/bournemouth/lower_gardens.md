@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The Victorian pleasure gardens running from the pier into the town centre, with bandstand, mini-golf, and Italian gardens
+score: 7.5
 ---
 
 The Lower Gardens are the heart of Bournemouth's seafront, a narrow strip of grass, ponds, and ornamental planting following the little River Bourne up from the pier to the town centre. They were laid out by Decimus Burton in 1873 -- one of the earliest English seaside pleasure gardens -- and survive in something close to their original form.

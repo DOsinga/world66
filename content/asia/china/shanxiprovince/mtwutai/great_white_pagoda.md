@@ -14,6 +14,7 @@ story: >
   inscription found during early twentieth-century repairs places at least some
   of the deposit in the late sixth or early seventh century. The mast at the
   summit carries 252 small bells, audible from across the valley on a still day.
+score: 8.2
 ---
 
 The Great White Pagoda — formally the Sarira Stupa of Tayuan Temple — is the visual centre of Mt. Wutai. At 56 metres it is the tallest building in the monastic valley, and its onion-shaped white form is visible from every direction. The current brick structure was built in 1577, replacing an earlier Yuan-period stupa, but the relic deposit at its base goes back further still.

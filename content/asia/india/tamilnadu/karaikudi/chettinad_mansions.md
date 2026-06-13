@@ -13,6 +13,7 @@ story: >
   trade declined in the mid-20th century, the community largely migrated to Chennai and abroad, 
   leaving the houses behind. An entire civilisation's material culture sits half-empty in these 
   silent rooms.
+score: 9.2
 ---
 
 Karaikudi and the 73 surrounding villages contain some of the most extraordinary domestic architecture in India — the palatial mansions of the Nattukotai Chettiar community, built in the 19th and early 20th centuries from the profits of trading networks stretching across Burma, Malaysia, and Ceylon.

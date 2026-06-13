@@ -12,6 +12,7 @@ story: >
   populate the route, which is why Burgos has a street called "Calle de la
   Puebla de Francos" (Street of the French Settlement). Some pilgrims still
   camp at the municipal albergue beneath the castle walls for free.
+score: 7.2
 ---
 
 Burgos is one of the major staging posts on the Camino Francés — the main pilgrimage route from Saint-Jean-Pied-de-Port in France to Santiago de Compostela. The route through the city is well-marked with yellow arrows and brass scallop shells set into the pavement, leading pilgrims from the eastern suburbs through the old town past the cathedral and out westward into the meseta.

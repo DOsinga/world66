@@ -10,6 +10,7 @@ latitude: 38.6025
 longitude: -122.5999
 sources:
   - https://en.wikipedia.org/wiki/Chateau_Montelena
+score: 8.9
 ---
 
 The most historically significant winery at the northern end of the Napa Valley. Chateau Montelena's 1973 Chardonnay won the white wine category at the 1976 Paris tasting — the so-called Judgment of Paris — a blind competition that placed California wines above France's best. It was a pivotal moment for the American wine industry and the estate wears its history well.

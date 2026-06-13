@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 48.5250
 longitude: 9.0589
 snippet: "Founded in 1477, still defining the character of the town"
+score: 7.4
 ---
 
 Tübingen is a university town in the truest sense: the Eberhard Karl University, founded in 1477, has shaped the place for more than five centuries and still does — around a third of the population are students. The university is spread across the old town and northern districts, with the older humanities and theology faculties clustered in the medieval centre.

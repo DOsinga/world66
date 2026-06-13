@@ -6,6 +6,7 @@ longitude: -118.4400
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The section of the Trans Canada Trail that runs through Grand Forks follows the abandoned grade of the Columbia & Western Railway — pleasingly flat, well-graded, and wide enough for cycling. Going east you can ride to Christina Lake (about 20 km) and beyond toward Castlegar; going west the trail climbs gently up the Kettle River valley.

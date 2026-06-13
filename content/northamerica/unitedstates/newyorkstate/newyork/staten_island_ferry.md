@@ -12,6 +12,7 @@ story: >
   since 1997 — a decision made partly to compete with the subway, and partly because the
   fare collection was costing more than the revenue. Today it carries about 22 million passengers
   a year, making it one of the busiest ferry systems in the world.
+score: 8.8
 ---
 
 The Staten Island Ferry is the best free activity in New York. The 25-minute crossing from Whitehall Terminal in lower Manhattan to St. George on Staten Island passes the Statue of Liberty, the Ellis Island immigration station, Governor's Island, and the full Lower Manhattan skyline — some of the most recognisable urban scenery in the world. The ferry runs 24 hours a day, every 30 minutes during off-peak hours, every 15 minutes at rush hours. It costs nothing.

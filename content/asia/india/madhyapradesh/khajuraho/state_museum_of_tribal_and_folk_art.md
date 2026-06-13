@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 24.8515
 longitude: 79.9285
+score: 6.5
 ---
 
 The State Museum of Tribal and Folk Art (Rajya Tribal Sangrahalaya) offers a good counterpoint to a day spent among the medieval stone temples. The collection focuses on the living traditions of Madhya Pradesh's tribal communities — the Gondi, Bhil, Baiga, and others — with exhibits of painted scrolls, terracotta figures, metal castings, masks, and decorated everyday objects.

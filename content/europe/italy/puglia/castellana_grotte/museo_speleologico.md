@@ -7,6 +7,7 @@ tags:
   - museum
 title: Museo Speleologico Franco Anelli
 type: poi
+score: 5.9
 ---
 
 The Museo Speleologico Franco Anelli sits at the cave entrance and is named for the speleologist who first descended into the abyss in January 1938. The displays cover the geology and biology of the cave system, the history of the exploration, and the wider karst landscape of the Murge plateau. There are mineral samples, photographs of the early expeditions, and a small section on the cave-dwelling fauna — blind crustaceans, beetles, and the occasional bat.

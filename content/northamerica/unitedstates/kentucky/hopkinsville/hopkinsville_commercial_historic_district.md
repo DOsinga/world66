@@ -8,6 +8,7 @@ tags:
 snippet: National Register historic district with 19th-century commercial buildings
 latitude: 36.8636
 longitude: -87.4861
+score: 6.6
 ---
 
 The commercial core of Hopkinsville is a National Register Historic District centred on Main Street, with late 19th and early 20th century commercial buildings that reflect the town's tobacco-era prosperity. The L&N Railroad Depot, now a community space, anchors the south end. Grace Episcopal Church, a Gothic Revival building from the 1880s, is the architectural highlight.

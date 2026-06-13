@@ -6,6 +6,7 @@ longitude: -84.9550
 tags:
   - things_to_do
   - nature
+score: 8.1
 ---
 
 A 246,000-acre research reserve protecting the lower Apalachicola River, the bay, and the barrier islands — one of the largest estuarine reserves in the United States. The reserve runs a small but excellent visitor centre at Eastpoint, on the mainland side of the bridge, with displays on the bay's ecology, the oyster industry, and the freshwater wars with Georgia.

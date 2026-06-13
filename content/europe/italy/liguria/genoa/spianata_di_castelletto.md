@@ -7,6 +7,7 @@ tags:
 - sight
 type: poi
 snippet: Terrace viewpoint over the old city, reached by funicular from Piazza del Portello
+score: 8.3
 ---
 
 The Spianata di Castelletto is a public terrace on the hillside above the old city, reached by the Portello funicular from Piazza del Portello (a short walk from Via Garibaldi). The view from the terrace looks directly down over the red-tiled roofs of the caruggi to the port, with the sea beyond and the hills on either side.

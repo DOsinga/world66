@@ -10,6 +10,7 @@ longitude: -0.1116
 story: "The church's sturdy profile fits Torla's frontier history. This was a village facing both the high mountains and the old routes toward France, so religious, civic, and defensive instincts tended to overlap."
 sources:
   - https://www.turismo-ordesa.com/pueblos/1/torla-ordesa
+score: 6.4
 ---
 
 The Church of San Salvador is the main landmark inside Torla's village core, a mountain church whose plain strength suits the setting. It is worth seeing less for ornate detail than for how naturally it belongs among the stone houses.

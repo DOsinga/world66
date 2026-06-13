@@ -17,6 +17,7 @@ story: >
   widely regarded as the most perfect sculpture to survive from ancient Egypt.
 sources:
   - https://en.wikipedia.org/wiki/Pyramid_of_Khafre
+score: 9.2
 ---
 
 The second pyramid, built by Khufu's son Khafre around 2530 BC, looks taller than his father's because it sits on higher ground and retains a cap of its original polished white casing stones at the summit. This is the only pyramid at Giza that gives you any sense of what all three once looked like — fully clad in gleaming limestone, they would have been visible from the Sinai on a clear day.

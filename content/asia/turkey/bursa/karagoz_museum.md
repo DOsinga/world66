@@ -13,6 +13,7 @@ story: >
   stopped to watch them, delaying the building. Sultan Orhan had them executed, then felt such 
   remorse that he commissioned a shadow puppeteer to recreate their antics. The story is probably 
   legend, but Bursa has claimed the tradition ever since.
+score: 6.2
 ---
 
 The Karagöz Museum near the bazaar quarter celebrates the Turkish shadow puppet tradition, which is said to have originated in Bursa in the 14th century. The museum holds a collection of antique Karagöz puppets made from painted camel hide, theatrical sets and accessories, and historical documents tracing the development of the art form across the Ottoman Empire.

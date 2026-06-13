@@ -7,6 +7,7 @@ tags:
 - sight
 title: Old Location Cemetery
 type: poi
+score: 7.4
 ---
 
 The Old Location was the area west of central Windhoek where most Black residents of the city lived until 1959, when the apartheid authorities forced them out to make way for white suburbs. Eleven people died in the protests against the move; today only the cemetery and a small monument remain.

@@ -9,6 +9,7 @@ tags:
   - monument
 title: Yorktown Victory Monument
 type: poi
+score: 7.5
 ---
 
 The Yorktown Victory Monument rises above the village near the river, commemorating the American and French victory of 1781. Its tall granite column is one of the most visible landmarks in town.

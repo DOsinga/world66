@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Abseiling and sliding down slot canyons in the surrounding ranges
+score: 7.5
 ---
 
 Canyoning trips run from Queenstown into the slot canyons of the Mt Aspiring foothills, where you descend a steep stream by abseiling, sliding, and jumping into pools. The two main operators are Canyoning NZ and Queenstown Canyoning, with half-day and full-day trips at a range of difficulty levels.

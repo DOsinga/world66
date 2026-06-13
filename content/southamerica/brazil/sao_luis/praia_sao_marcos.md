@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.49
 longitude: -44.305
+score: 6.7
 ---
 
 São Marcos beach is in a more sheltered position than Calhau, facing the bay rather than the open Atlantic, and the water here is calmer and warmer. The beach is popular with families for this reason, and the calmer conditions make it better for swimming with children or for anyone who finds the open-ocean waves at Calhau too strong.

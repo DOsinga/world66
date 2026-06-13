@@ -8,6 +8,7 @@ story: Fort Kijkduin was built on the order of King Louis Napoleon and completed
 title: Fort Kijkduin
 type: poi
 snippet: Napoleonic coastal fortress in the dunes with grey seal colony nearby
+score: 8.0
 ---
 
 Fort Kijkduin is a Napoleonic-era coastal fortress built into the dunes at the very tip of the North Holland peninsula. Construction was ordered by Louis Napoleon, King of Holland, and the fort was completed in 1811. It was designed to control the Marsdiep strait — the deep channel between the mainland and Texel — and to guard Den Helder's naval anchorage from attack by sea. The fort is circular in plan, with a moat, earthwork bastions, and a central keep, all partially buried in the dunes.

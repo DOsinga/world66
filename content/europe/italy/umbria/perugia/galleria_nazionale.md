@@ -14,6 +14,7 @@ story: >
   He was also, famously, a notorious sceptic: Giorgio Vasari records that Perugino refused to
   take religious commissions on any terms that required him to depict heaven, since he did not
   believe in it.
+score: 8.8
 ---
 
 The Galleria Nazionale dell'Umbria occupies the top floor of the Palazzo dei Priori, the great Gothic palace that dominates Piazza IV Novembre. Its collection covers Umbrian painting from the 13th to 18th centuries and includes major works by Perugino (whose altarpieces are among the finest examples of central Italian Renaissance painting), Pintoricchio, Fra Angelico (on loan from Florence), and Piero della Francesca.

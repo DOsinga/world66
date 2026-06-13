@@ -15,6 +15,7 @@ story: >
   collection that grew out of those fairs is now a museum of more than 3,500
   jugs from across the Mediterranean and Latin America, including pieces
   designed by Pablo Picasso and Salvador Dalí.
+score: 7.0
 ---
 
 The Museu del Càntir is unique in Europe: a museum devoted entirely to the càntir, the spouted ceramic jug used for centuries to carry and cool drinking water across the Mediterranean. The collection was assembled by local enthusiast Jaume Clavell from the 1950s onward, opened to the public in 1975, and moved to a purpose-built modern building on the central square in 2000.

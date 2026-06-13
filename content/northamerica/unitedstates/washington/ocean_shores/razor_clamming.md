@@ -8,6 +8,7 @@ tags:
   - wildlife
 story: >
   Washington's razor clams are some of the finest on the Pacific Coast — fast-growing, sweet-fleshed, and found just inches below the surface at low tide. The Washington Department of Fish & Wildlife opens the beach for specific clamming days each season, and the news reliably draws thousands of people from across the state. The record one-day harvest from this stretch of coast topped 400,000 clams.
+score: 8.1
 ---
 
 Razor clamming is the signature activity of the Washington coast, and Ocean Shores is one of the state's most productive clamming beaches. The season typically runs from late autumn through early spring, with specific dig dates set by the Washington Department of Fish and Wildlife based on population surveys and biotoxin testing. You need a Washington shellfish/seaweed license, which is sold at local sporting goods shops and convenience stores.

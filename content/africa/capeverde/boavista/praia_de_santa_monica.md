@@ -10,6 +10,7 @@ latitude: 16.0250
 longitude: -22.7050
 sources:
   - https://en.wikipedia.org/wiki/Boa_Vista,_Cape_Verde
+score: 8.5
 ---
 
 A vast arc of white sand stretching roughly 25 kilometres along Boa Vista's eastern coast, Santa Mónica is one of the longest beaches in Africa and one of the most genuinely undeveloped. There are no facilities, no vendors, and — outside nesting season — sometimes no other visitors at all. The sea here is Atlantic and powerful; currents make swimming unpredictable, so wade in cautiously and watch the conditions.

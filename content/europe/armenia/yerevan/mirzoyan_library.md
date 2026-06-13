@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - cafe
 address: 10 Mher Mkrtchyan Street
+score: 7.5
 ---
 
 A photography library and cafe inside a restored 19th-century house on a small street behind Northern Avenue. What began as one collector's archive of photography books has expanded into one of Yerevan's most pleasant indoor-outdoor cafe-bars, with a small bookshop, regular exhibitions, and a leafy back garden that turns into a wine and small-plates spot in the evenings.

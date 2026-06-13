@@ -7,6 +7,7 @@ tags:
 snippet: "Intimate basement theatre staging modern German plays"
 latitude: 47.99611
 longitude: 7.84861
+score: 6.5
 ---
 
 The Wallgraben-Theater is Freiburg's main fringe theatre, housed in a small basement venue near the Rathaus. Founded in 1962, it stages contemporary German-language drama, classics, and one-person shows, with a focus on tightly written plays for casts of two to four actors.

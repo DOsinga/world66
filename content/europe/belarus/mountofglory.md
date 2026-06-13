@@ -9,6 +9,7 @@ tags:
 - sights
 title: Mount of Glory
 type: poi
+score: 6.8
 ---
 
 About 20 kilometres east of Minsk on the M2 highway, the Mound of Glory (Kurgan Slavy) is one of Belarus's most recognizable Soviet monuments. The 35-metre artificial hill was built in 1969 from soil brought from the nine Hero Cities of the USSR and from battlefields across Belarus, commemorating the Red Army's liberation of the country in 1944.

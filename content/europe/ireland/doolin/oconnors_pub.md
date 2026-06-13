@@ -8,6 +8,7 @@ latitude: 53.0131
 longitude: -9.3795
 story: >
   O'Connor's has been at the centre of Clare traditional music for over a century. In the 1960s it was one of the first pubs in Ireland where well-known musicians from across the county would gather for informal sessions, a practice that helped define what became known as the Clare style of fiddle and flute playing.
+score: 7.7
 ---
 
 O'Connor's in Fishstreet is the most famous of Doolin's three pubs and the one most associated with traditional Irish music. Sessions happen most evenings, and the standard of playing is consistently high — this is a real session where musicians play for themselves, not a performance put on for tourists.

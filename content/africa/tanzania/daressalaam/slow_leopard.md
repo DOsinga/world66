@@ -8,6 +8,7 @@ tags:
 - msasani
 title: The Slow Leopard
 type: poi
+score: 5.5
 ---
 
 A nineteen-twenties Masaki villa converted into a multi-room bar and restaurant, a five-minute walk from the Slipway. The big garden is the draw — bare bulbs in a fig tree, low cushioned seating, a fire pit lit on cool evenings, and a smoker by the kitchen door that turns out pulled pork and ribs through the small hours. Live music two or three nights a week tilts toward jazz and Afrobeat.

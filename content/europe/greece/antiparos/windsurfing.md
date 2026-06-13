@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.0022
 longitude: 25.0308
+score: 6.9
 ---
 
 The channel between Antiparos and Paros is one of the best windsurfing spots in the Cyclades, funnelling the Meltemi wind that blows reliably through the Aegean from late June to early September. The western coast of Antiparos faces directly into this wind, and the water in the channel is shallow enough for beginners but challenging enough for experienced riders in strong conditions.

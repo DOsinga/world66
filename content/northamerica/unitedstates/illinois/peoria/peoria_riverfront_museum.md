@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 40.6851
 longitude: -89.5899
+score: 7.8
 ---
 
 The Peoria Riverfront Museum opened in 2012 on the Illinois riverfront and combines art, science, and local history under one roof — an unusual combination that works better than it might sound. The building anchors the revitalized riverfront district and includes a permanent collection of American art, science exhibits, a planetarium, and a giant-screen theater. It is one of the better regional museums in central Illinois and worth a couple of hours.

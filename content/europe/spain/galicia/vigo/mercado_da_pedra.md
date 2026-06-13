@@ -5,6 +5,7 @@ tags: [things_to_do, eating_out, market, sight]
 latitude: 42.2358
 longitude: -8.7249
 story: "The oyster women of Vigo — the ostioneiras — have worked these granite tables since at least the 18th century, and the tradition has survived through every economic crisis and redevelopment. The market's name comes from the stone slabs they use to shuck; a dozen oysters with lemon and Albariño costs about three euros, making it possibly the best-value eating experience in Spain."
+score: 7.5
 ---
 
 The Mercado da Pedra sits at the foot of the old town, just back from the waterfront along Rúa da Pescadería. It is not a formal market building but an informal gathering of stone tables where local women sell freshly shucked oysters, clams, cockles, and other shellfish direct from the Ría de Vigo.

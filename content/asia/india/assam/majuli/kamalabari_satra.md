@@ -11,6 +11,7 @@ story: >
   important as a centre of classical Assamese literature, and the Natun Kamalabari subdivision — a branch
   established by a group of reformist monks in the 18th century — still maintains a tradition of accepting
   visitors as guests, which is unusual among Majuli's satras.
+score: 8.4
 ---
 
 Kamalabari Satra is one of Majuli's older and more academically oriented monasteries, with a long tradition of scholarship in classical Assamese literature and music. It consists of two divisions — Natun (new) and Uttar (north) Kamalabari — established when different monastic lineages diverged. Natun Kamalabari is particularly welcoming to visitors and often arranges accommodation within the satra compound for those who want to spend more time understanding the community.

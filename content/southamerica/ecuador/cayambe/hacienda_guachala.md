@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: -0.1667
 longitude: -78.1667
+score: 6.9
 ---
 
 Hacienda Guachalá is considered the oldest hacienda in Ecuador, its recorded history going back to the 16th century when it was a Jesuit agricultural estate. The hacienda sits a few kilometres south of Cayambe in a green valley, surrounded by carefully maintained gardens and pasture land. The main house and its chapel have been restored over several centuries and today the property operates as a boutique guesthouse with a restaurant serving traditional Ecuadorian food.

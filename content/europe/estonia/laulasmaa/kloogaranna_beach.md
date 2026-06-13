@@ -4,6 +4,7 @@ type: poi
 latitude: 59.3449
 longitude: 24.2470
 tags: [things_to_do, beach]
+score: 6.8
 ---
 
 Three kilometres south of Laulasmaa, Kloogaranna offers a similar long stretch of pale sand and pine forest but with slightly more infrastructure — a railway station with direct trains from Tallinn, a campsite, a few summer cafés, and a beach volleyball area. It tends to be the busier of the two beaches simply because it is easier to reach without a car.

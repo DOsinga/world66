@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.1682
 longitude: -81.7907
+score: 7.4
 ---
 
 The Naples Zoo occupies 43 acres of historic botanical garden land in the northeast of the city, with the original gardens — planted in the 1920s by Julius Fleischmann of the yeast and gin dynasty — still providing a lush backdrop for the animal enclosures. The zoo has a genuine conservation mission, with a focus on species from Florida and the Caribbean: alligators, Florida panthers, manatees (when in residence), and various big cats. The primate boat tour, which takes visitors by boat past islands where groups of primates roam freely, is the signature experience and a genuinely distinctive way to see the animals.

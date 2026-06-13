@@ -11,6 +11,7 @@ story: >
   The Battle of Chickamauga in September 1863 was the bloodiest two-day battle of the entire Civil War. Nearly 35,000 men were killed or wounded in the thick forest around Chickamauga Creek. Union General William Rosecrans lost the battle after a gap opened in his line — a gap caused partly by a misread order. Confederate General James Longstreet drove through that gap and routed the Union right flank. Only a stubborn rearguard action by General George Thomas — earning him the nickname "Rock of Chickamauga" — prevented a complete disaster.
 sources:
   - https://en.wikipedia.org/wiki/Chickamauga_and_Chattanooga_National_Military_Park
+score: 8.8
 ---
 
 Established in 1890, Chickamauga and Chattanooga National Military Park was the first and is the largest national military park in the United States. The Chickamauga section, straddling the Georgia–Tennessee border near Fort Oglethorpe, preserves the ground where Union and Confederate forces fought one of the most brutal engagements of the Civil War over two days in September 1863.

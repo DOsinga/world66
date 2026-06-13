@@ -14,6 +14,7 @@ story: >
   that trucks and buses must sometimes use their lowest gears. When it opened 
   in 2009, it replaced a ferry crossing that had operated for generations and 
   cut travel times to Averøy from 20 minutes to under 8.
+score: 6.3
 ---
 
 The Atlantic Ocean Tunnel (Atlanterhavstunnelen) connects Kristiansund to Averøy Municipality beneath the sea. Opened in 2009, it runs about 5.7 kilometres at a maximum depth of 250 metres — deep enough that the descent is noticeable and the ventilation system becomes audible. For drivers heading to the Atlantic Ocean Road, it is the practical route; for anyone interested in Norwegian civil engineering, the tunnel itself is worth knowing about.

@@ -8,6 +8,7 @@ tags:
   - history
 latitude: 6.02796
 longitude: 80.21813
+score: 8.1
 ---
 
 The National Maritime Museum occupies a vast 1671 Dutch warehouse just inside the Old Gate of the fort — the same building, with its row of pointed arches, that appears in nineteenth-century photographs of Galle. The collection covers Sri Lanka's maritime history from prehistoric times to the present, with strong sections on the Indian Ocean spice trade, ship construction and shipwreck archaeology.

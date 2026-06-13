@@ -8,6 +8,7 @@ latitude: 78.2271
 longitude: 15.6089
 sources:
   - https://en.wikipedia.org/wiki/Svalbard_Bryggeri
+score: 6.2
 ---
 
 The world's northernmost brewery makes the most of its location — the Isbjørn (Polar Bear) IPA, the Midnight Sun Pale Ale, and the seasonal Dark Season Porter are all named for the Svalbard experience. Brewing here requires importing everything except the water, which is glacial meltwater from the surrounding mountains. The brewery runs tours and has a tap room where you can drink a beer with a view of the mountains at 78 degrees north.

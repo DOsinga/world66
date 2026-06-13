@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 37.9747
 longitude: 126.5306
+score: 6.8
 ---
 
 The Chomsongdae is a small stone astronomical observatory dating from the 10th century — one of the oldest surviving structures of its kind in East Asia. It consists of five upright stone pillars supporting a flat slab, on which Koryo astronomers placed instruments to observe celestial movements and calculate the calendar.

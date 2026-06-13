@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Surfing
 type: poi
+score: 8.7
 ---
 
 Costa Rica has become one of the world's top surfing destinations, and it's easy to see why. Warm water year-round, consistent swells on both the Pacific and Caribbean coasts, and breaks suited to every level from first-timers to experts.

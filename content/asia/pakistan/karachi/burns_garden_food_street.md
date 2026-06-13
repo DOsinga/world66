@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Burns Garden Food Street
 type: poi
+score: 7.1
 ---
 Burns Garden is a small colonial-era park in Saddar, and the streets immediately around it have become an informal food street where vendors and small restaurants serve the kind of food that sustained Karachi's working population long before the city had shopping mall food courts. The stalls set up from the late afternoon onwards and run well into the night, specialising in Karachi street staples: nihari, haleem, bun kebabs, freshly fried snacks, and the chai that comes with everything.
 

@@ -8,6 +8,7 @@ tags:
 latitude: 45.9032
 longitude: 6.1372
 snippet: "Vast lakeside lawn — the city's outdoor living room and venue for the Annecy Lake Festival"
+score: 8.1
 ---
 
 The Pâquier is a long flat lawn between the lake and the Avenue d'Albigny, big enough that on a sunny weekend most of Annecy seems to be on it: families picnicking, students sunbathing, kids on rollerblades, paragliders folding their canopies after landing on the grass.

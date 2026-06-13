@@ -7,6 +7,7 @@ tags:
   - diving
 title: Punta Ballo
 type: poi
+score: 7.6
 ---
 
 Punta Ballo is a white sand beach about 8 kilometres south of Sipalay proper, the base for most of the serious diving in the area. Artistic Diving and Easy Diving both operate here, offering trips to the full range of Sipalay's 40-plus dive sites. The beach is less visited than Sugar Beach and has a quieter, more purposeful atmosphere — most people here are divers, not sunbathers.

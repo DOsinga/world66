@@ -16,6 +16,7 @@ story: >
   lots radiating outward. That original street grid survives intact today,
   making Worthington one of the few Ohio towns where the founding-era layout
   is still clearly legible on the ground.
+score: 8.1
 ---
 
 The heart of Worthington is its historic district on and around High Street, a compact area of Federal-style buildings dating largely from the 1810s to the 1850s. Unlike many Ohio towns that lost their early architecture to fire or redevelopment, Worthington's downtown survived largely intact, and the streetscape along the Village Green gives a genuine sense of what a prosperous early Ohio settlement looked like.

@@ -8,6 +8,7 @@ tags:
 title: Jnan Sbil Gardens
 type: poi
 snippet: "Shaded public gardens on the edge of Fes el-Jdid — the medina's best escape"
+score: 8.3
 ---
 
 The Jnan Sbil are a pair of walled public gardens on the western edge of Fes el-Jdid, originally the private gardens of the royal palace and opened to the public in the 1960s. They are the greenest and most tranquil space in the old city — wide paths under eucalyptus and orange trees, a central pool with fountains, and benches where local families come to sit and talk in the evenings.

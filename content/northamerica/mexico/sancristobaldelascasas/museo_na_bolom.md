@@ -16,6 +16,7 @@ story: >
   1993 at the age of 92 — by which time she had devoted 40 years to the same
   cause, fighting for the rights and survival of the Lacandon people and the
   forest they lived in.
+score: 8.2
 ---
 
 Casa Na Bolom is one of the most unusual museums in Mexico, housed in a 19th-century house in the northern part of San Cristóbal. It was the home and working base of the archaeologist Frans Blom and his partner, the photographer and activist Gertrude Duby-Blom, who together made it a centre of research into the Maya highlands and the Lacandon rainforest to the east.

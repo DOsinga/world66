@@ -14,6 +14,7 @@ tags:
 title: Fort De Soto Park
 type: poi
 url: www.pinellascounty.org/park/05_ft_desoto.htm
+score: 8.7
 ---
 
 A 1,136-acre county park on five connected islands at the mouth of Tampa Bay, consistently ranked among the best beaches in the country. The North Beach and Swim Area is the draw — wide white sand, shallow clear water, and none of the commercial clutter that afflicts Clearwater Beach. The park also has excellent kayaking through mangrove channels, a historic Spanish-American War-era fort (free to enter), fishing piers, and a dog beach that is genuinely popular.

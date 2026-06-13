@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.6575
 longitude: 44.6453
+score: 4.8
 ---
 
 An unexpected piece of art in the centre of Stepantsminda: two concrete medieval-style towers, painted with bold geometric murals that blend traditional Caucasian motifs with contemporary street art. The towers were created as part of an arts initiative and stand out sharply against the mountain backdrop behind them.

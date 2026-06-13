@@ -10,6 +10,7 @@ longitude: 35.7273
 snippet: Small archaeological collection housed inside Ajlun Castle
 sources:
   - https://en.wikipedia.org/wiki/Ajloun_Archaeological_Museum
+score: 6.4
 ---
 
 A modest but worthwhile museum located within Ajlun Castle itself, displaying finds recovered from the site and the surrounding governorate. The collection includes Bronze Age pottery, Hellenistic coins, Roman glass, Byzantine mosaic fragments, and Islamic-period metalwork — a compressed timeline of the region's long occupation. Labels are in Arabic and English.

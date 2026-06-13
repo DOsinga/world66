@@ -16,6 +16,7 @@ story: >
   The nave was planned but never begun; the builders ran out of money, ambition,
   and time. What stands today is the choir, transept, and apse of a cathedral
   that should have been the tallest in the world.
+score: 9.2
 ---
 
 The Cathédrale Saint-Pierre is one of architecture's great uncompleted ambitions — and, paradoxically, more interesting for being unfinished than most complete cathedrals are. Construction in its current form began in 1225 under Bishop Milon de Nanteuil, who wanted to surpass every existing Gothic church in height. The choir vault, finished in 1272, reached 48.5 metres — still the highest Gothic choir vault ever built, a record that has never been broken.

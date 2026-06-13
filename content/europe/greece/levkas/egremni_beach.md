@@ -8,6 +8,7 @@ tags:
 - beach
 - sight
 story: "A magnitude 6.5 earthquake in November 2015 brought down a huge section of the cliff above Egremni, destroying the long staircase that used to lead down to the beach. For years it was reachable only by boat; a new path was eventually rebuilt, though access remains harder than it once was."
+score: 8.7
 ---
 
 A long strip of pale sand and pebbles below sheer white cliffs on the western coast, between Porto Katsiki and Kathisma. Egremni is wilder than its neighbours — fewer facilities, more space — and after the 2015 earthquake the easy access of the old staircase was lost.

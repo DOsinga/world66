@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - wildlife
+score: 5.7
 ---
 
 The Bird Park, opened in 2021 on the eastern side of Sukhna Lake, holds about 500 birds from 50 species in two large walk-through aviaries: a tropical aviary with cockatoos, parrots and toucans, and a separate exotic-birds aviary with mandarin ducks and golden pheasants. The mesh is high enough and the planting dense enough that you forget you're indoors.

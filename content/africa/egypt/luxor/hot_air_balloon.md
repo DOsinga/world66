@@ -7,6 +7,7 @@ tags:
 latitude: 25.730000
 longitude: 32.610000
 snippet: "Dawn flight over the West Bank necropolis, one of the most spectacular ways to see ancient Thebes"
+score: 8.3
 ---
 
 Hot air balloon flights over Luxor's West Bank at sunrise are one of Egypt's great tourist experiences, and among the few that genuinely live up to their reputation. Flying at low altitude over the temples and desert as the sun rises behind the cliffs gives a perspective on the scale and distribution of ancient Thebes that is impossible from the ground. On a clear morning, with the Valley of the Kings, the Temple of Hatshepsut, and Medinet Habu all visible below, the effect is extraordinary.

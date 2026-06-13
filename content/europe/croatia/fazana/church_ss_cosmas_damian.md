@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.9276
 longitude: 13.8052
+score: 6.1
 ---
 
 The main parish church of Fazana, built in the 15th century on the foundations of an earlier structure, dominates the small central square of the old town. The building is a straightforward example of Istrian Gothic-Renaissance — a style that distinguishes the coast from the more ornate churches of the Croatian interior. The bell tower is a landmark visible from the sea.

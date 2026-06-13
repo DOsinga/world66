@@ -5,6 +5,7 @@ snippet: The point where the two rivers meet, known locally as Le Grognon
 tags: [things_to_do, sight]
 latitude: 50.4621
 longitude: 4.8669
+score: 8.0
 ---
 
 The tip of the rocky spur where the Sambre flows into the Meuse is the geographic and historical core of Namur, known to locals as **Le Grognon** ("the snout"). It was where the first settlement grew up, and excavations in the 2010s uncovered substantial Gallo-Roman remains beneath the modern paving.

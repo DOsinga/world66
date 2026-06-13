@@ -14,6 +14,7 @@ story: >
   while seeking treatment. The delay meant thousands of inscribed bones were
   consumed as medicine before anyone realised they were the oldest written
   documents in Chinese history.
+score: 9.5
 ---
 
 The Yin Ruins are the excavated remains of the last capital of the Shang dynasty, occupied from roughly 1300 to 1046 BCE and now a UNESCO World Heritage Site. The site covers about 30 square kilometres, though the museum and display area focus on the core palace-temple district near the modern village of Xiaotun. Walking through the excavation zones, you can see foundations of royal buildings, storage pits, and the distinctive rammed-earth construction techniques of the Bronze Age. The scale of the original city — home to perhaps 100,000 people at its peak — only becomes apparent when you look at maps showing the full extent of finds across the northern suburbs of modern Anyang.

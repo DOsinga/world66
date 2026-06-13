@@ -9,6 +9,7 @@ title: Stade du 28 Septembre
 type: poi
 story: >
   On 28 September 2009 — coincidentally the stadium's namesake date, the anniversary of the 1958 independence referendum — soldiers loyal to the junta of Captain Moussa Dadis Camara opened fire on a peaceful pro-democracy rally inside. More than 150 protesters were killed, dozens of women raped, and the stadium became a turning point in Guinea's transition. Years later, the trial of the perpetrators finally began in 2022.
+score: 5.4
 ---
 
 The Stade du 28 Septembre, Guinea's national stadium, is named after the date in 1958 when Guineans voted by 95% against joining the French Community — the only French African colony to choose immediate full independence. The original stadium dates from the 1960s and was expanded in the 2010s for an Africa Cup of Nations qualifying campaign.

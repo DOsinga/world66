@@ -8,6 +8,7 @@ tags:
 title: Volcán del Totumo
 type: poi
 story: The Volcán del Totumo looks like a small hill from a distance — it's only about 15 metres high — but the top is a crater filled with warm, mineral-rich mud. Whether it's technically an active volcano or simply a mud volcano (fumarole) is debated, but what's not in question is that tourists have been lowering themselves into the grey soup for decades. The mud is dense enough to make swimming impossible but buoyant enough to make sinking feel unlikely, and the alleged therapeutic properties have never been proven but are fiercely claimed by the local attendants.
+score: 6.0
 ---
 
 Volcán del Totumo sits about 50km northeast of Cartagena, near the village of Galerazamba. It's a mud volcano — a geological phenomenon where gases and mud bubble up from underground — and the crater at the top has been turned into an outdoor mud bath. Visitors climb the cone, lower themselves into the warm grey mud, and float, wallow, and be kneaded by attendants for as long as they like. Afterwards, women in the adjacent lagoon rinse you off for a tip.

@@ -8,6 +8,7 @@ latitude: -3.3200
 longitude: 37.7000
 story: >
   Lake Chala is a caldera lake — formed in a volcanic crater — sitting on the border between Tanzania and Kenya. Its waters are fed entirely by underground sources connected to Kilimanjaro's ice cap, which means the lake level has barely changed for centuries. Swimming in the lake was banned for years after a crocodile attack on a tourist in 2002; it has since been cautiously permitted again, though the crocodiles are still there.
+score: 8.2
 ---
 
 Lake Chala is a striking crater lake about 55 kilometres east of Moshi, straddling the Tanzania-Kenya border at an elevation of around 850 metres. The lake sits inside a steep-walled volcanic crater, with no river inflow or outflow visible at the surface — it is fed by underground springs and drained the same way. The water is a deep, glassy blue-green, and the crater walls drop steeply to the shore.

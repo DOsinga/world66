@@ -12,6 +12,7 @@ story: Eismeer station was carved out of the rock in 1905 to give workers a rest
   an afterthought — engineers blasted a viewing shaft outward during a rest break
   and discovered it opened onto an ice wall. The Atlas Obscura has listed this as
   the second-highest train station in Europe.
+score: 7.4
 ---
 
 Eismeer (Sea of Ice) station sits at 3,160 metres inside the Eiger, one of two intermediate stops on the Jungfrau railway between Eigergletscher and the Jungfraujoch. A window blasted through the rock opens directly onto the Ischmeer glacier, one of the upper tributaries of the Grindelwald glaciers — you look out through a hole in a sheer ice face onto a vast snowfield.

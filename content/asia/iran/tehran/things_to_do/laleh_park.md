@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.7136
 longitude: 51.4023
+score: 6.3
 ---
 
 Laleh Park (Laleh means "tulip" in Persian) is the largest and most pleasant park in central Tehran — a broad green space in the cultural district that is surrounded by the Carpet Museum, the Museum of Contemporary Art, the City Theater, and the Laleh International Hotel. It serves as the breathing room between these cultural institutions, and on spring and autumn evenings it is full of families, students, and couples.

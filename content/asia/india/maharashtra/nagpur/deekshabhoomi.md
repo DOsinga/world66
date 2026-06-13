@@ -11,6 +11,7 @@ story: >
   On 14 October 1956, Dr. B.R. Ambedkar — the architect of India's constitution — stood here and renounced Hinduism, taking the Three Jewels and Five Precepts of Buddhism. An estimated 600,000 Dalits converted with him that day. Ambedkar died just six weeks later. The date is now observed as Dhamma Chakra Pravartan Din, and the site draws millions of pilgrims each year.
 sources:
   - https://en.wikipedia.org/wiki/Deekshabhoomi
+score: 8.4
 ---
 
 Deekshabhoomi is one of the most significant Buddhist pilgrimage sites in India and the most important site in the Dalit Buddhist movement. It marks the exact spot where Dr. B.R. Ambedkar — jurist, economist, and principal drafter of the Indian constitution — converted to Buddhism along with an estimated 600,000 followers on 14 October 1956, in the largest mass religious conversion in recorded history.

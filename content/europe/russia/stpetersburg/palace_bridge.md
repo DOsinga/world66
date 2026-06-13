@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 59.9411
 longitude: 30.3081
+score: 7.1
 ---
 
 The Palace Bridge is the bascule bridge in front of the Winter Palace that links the city centre with Vasilievsky Island, and it is the most photographed of the city's many drawbridges. Built between 1912 and 1916, it carries cars and pedestrians by day; at night, between roughly 1 am and 5 am from late April through November, both spans lift to let river traffic through.

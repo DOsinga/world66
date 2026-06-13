@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Synagogue_of_Tomar
 story: >
   In 1496, King Manuel I of Portugal decreed that all Jews must convert to Christianity or leave the country. Most who remained became "New Christians" — conversos watched with suspicion by the Inquisition for generations. The synagogue in Tomar was built in 1430 and functioned as a place of Jewish worship for barely sixty years before the edict ended Jewish public life on the peninsula. The building was subsequently used as a prison, a granary, a chapel, and a haystore before its significance was recognised.
+score: 8.0
 ---
 
 The Synagogue of Tomar is one of the best-preserved medieval synagogues on the Iberian peninsula, a small but dignified building tucked into a narrow street in the old town. Built in the early fifteenth century, it served Tomar's Jewish community for a brief and ultimately tragic period before the forced conversions and expulsions of 1496–97 ended Jewish communal life in Portugal. The building's survival is largely fortuitous — its thick walls and vaulted stone interior found various practical uses over the centuries.

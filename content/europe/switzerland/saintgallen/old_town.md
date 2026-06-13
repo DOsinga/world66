@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 47.4238
 longitude: 9.3760
+score: 8.0
 ---
 
 Saint Gallen's old town is compact and walkable, clustered around the abbey precinct on the hillside above the valley. Its most distinctive feature is the carved and painted oriel windows — projecting bay windows — that adorn the facade of almost every old building. Over a hundred survive, ranging from simple timber bays on merchant houses to elaborate multi-storey examples on guild buildings.

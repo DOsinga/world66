@@ -9,6 +9,7 @@ tags:
   - architecture
   - art_nouveau
 snippet: 1905 Art Nouveau apartment block on the Republicii corso
+score: 7.2
 ---
 
 The Palatul Moskovits was built in 1905 for the Moskovits family — pharmacy owners and one of the wealthier Jewish dynasties of pre-war Oradea — to designs by Komor Marcell and Jakab Dezső. It is one of the earliest and most exuberant Art Nouveau buildings in the city, with a curved corner tower, balconies on cantilevered iron brackets, and elaborate floral plasterwork.

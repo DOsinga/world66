@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -1.1600
 longitude: 136.1833
+score: 7.8
 ---
 
 The main beach on Biak's eastern coast, about 15 km from the town centre by road, Bosnik is a long stretch of white sand facing the calm waters of Cenderawasih Bay. The bay is sheltered from the open Pacific swells, which makes the water consistently calm and the snorkelling directly off the beach productive — the reef begins close to shore and the visibility is typically excellent.

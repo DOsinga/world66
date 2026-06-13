@@ -7,6 +7,7 @@ tags:
 - landmark
 title: The Debod Temple
 type: poi
+score: 8.2
 ---
 
 This Egyptian temple dates from the fourth century BC and originally stood near Aswan. When the rising waters behind the Aswan Dam threatened it, Spain helped with the international rescue effort, and Egypt donated the temple in gratitude in 1968. It was rebuilt stone by stone in the Parque del Oeste, on a hilltop near the Plaza de España.

@@ -8,6 +8,7 @@ tags:
 - centro
 latitude: -3.1305
 longitude: -60.0220
+score: 7.8
 ---
 
 Run by the Federal University of Amazonas, the Museu Amazônico is the most serious museum in town for understanding the indigenous peoples of the Amazon basin. The permanent collection covers the Tikuna, Yanomami, Sateré-Mawé and other groups of the upper Rio Negro, with feather work, ceremonial masks, manioc-processing tools, and a rebuilt Yanomami shabono.

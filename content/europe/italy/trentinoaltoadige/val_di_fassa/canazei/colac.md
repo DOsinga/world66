@@ -6,6 +6,7 @@ longitude: 11.7828
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 A blocky limestone peak rising to 2,716 metres just south of Canazei, Colac is one of the most accessible via ferrata in the valley. The Via Ferrata dei Cinque Torri climbs steep slabs to the summit ridge with a stunning view across to the Marmolada.

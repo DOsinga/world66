@@ -9,6 +9,7 @@ latitude: 29.5616
 longitude: 106.5538
 story: >
   The People's Auditorium was built in 1954 and deliberately designed to echo the Temple of Heaven in Beijing — a signal from the new Communist government that Chongqing, though it had been the nationalist wartime capital, was now fully integrated into the People's Republic. The architect Zhang Jiade merged traditional Chinese palace architecture with Soviet grandeur on a genuinely imposing scale. The result is one of the finest examples of 1950s Chinese civic architecture.
+score: 7.8
 ---
 
 The People's Auditorium (人民大礼堂, Rénmín Dàlǐtáng) is the defining landmark of central Chongqing — a vast ceremonial building with a blue-tiled circular roof and a colonnade stretching 296 metres across the front. It stands in the people's square that also houses the Three Gorges Museum, and the two together form the civic heart of the city.

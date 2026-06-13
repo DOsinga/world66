@@ -13,6 +13,7 @@ story: >
   boys who hawked newspapers on city corners. The statue was commissioned by
   a local newspaper proprietor; the boy depicted is thought to have been
   based on a real Great Barrington newsboy.
+score: 5.6
 ---
 
 Standing on Main Street, the Newsboy Statue is one of Great Barrington's most charming historical curiosities — a life-sized bronze boy, papers under one arm, mid-shout, erected in 1895. It is believed to be the world's first public monument to a working-class child rather than a historical or political figure.

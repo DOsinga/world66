@@ -10,6 +10,7 @@ title: Ikon Gallery
 type: poi
 snippet: "Free contemporary art gallery in a converted Victorian school"
 url: www.ikon-gallery.org
+score: 7.2
 ---
 
 One of Europe's leading contemporary art galleries, housed in a converted Victorian Gothic school at Brindleyplace. Ikon shows international contemporary artists in a programme of temporary exhibitions; admission is free. The building, with its striking red brick and terracotta exterior, is itself a landmark of the Brindleyplace development.

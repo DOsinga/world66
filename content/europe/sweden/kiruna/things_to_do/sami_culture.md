@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 67.8497
 longitude: 20.5944
+score: 7.9
 ---
 
 The Kiruna area is part of Sápmi, the traditional homeland of the Sámi people that spans northern Norway, Sweden, Finland, and Russia. Swedish Lapland has an estimated 20,000–25,000 Sámi, and the culture is woven into daily life here in ways that are easy to miss if you don't look for them.

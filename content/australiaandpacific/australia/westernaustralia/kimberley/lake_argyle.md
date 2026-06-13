@@ -12,6 +12,7 @@ story: >
   pasturelands and homesteads of the Durack family, whose pioneering cattle story was later told
   in Mary Durack's classic book Kings in Grass Castles. The old Durack homestead was relocated stone
   by stone to higher ground before the valley was flooded, and can still be visited near the dam wall.
+score: 7.6
 ---
 
 Lake Argyle is Western Australia's largest reservoir and one of the largest freshwater bodies in Australia — about 18 times the size of Sydney Harbour at full capacity. Created by the Ord River Dam in 1972, it flooded a wide valley in the eastern Kimberley to create a reservoir that supports irrigation farming downstream in the Ord River scheme. The landscape it created is striking: red sandstone hills and islands rising from the blue water, with no horizon in sight from some vantage points.

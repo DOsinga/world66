@@ -8,6 +8,7 @@ tags:
 - market
 - sight
 snippet: Monday market where Bilen and Tigre herders trade camels, one of the last of its kind in East Africa
+score: 8.8
 ---
 
 The camel market at Keren is one of the last of its kind in East Africa where camels are still actively traded as working animals rather than tourist spectacle. The Bilen and Tigre herders who bring animals from the surrounding desert region have been trading here for centuries, and the market retains a functional seriousness that distinguishes it from the folkloric versions you find elsewhere. Camels change hands, deals are argued over, tea is drunk, and the whole thing operates on its own unhurried clock.

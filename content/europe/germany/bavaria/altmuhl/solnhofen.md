@@ -16,6 +16,7 @@ story: >
   specimens have now been found in the Solnhofen limestone, all in this stretch of Bavaria.
 sources:
   - https://en.wikipedia.org/wiki/Solnhofen_Limestone
+score: 8.5
 ---
 
 The Solnhofen limestone quarries, in the hills south of the Altmühl river, are one of the most important geological sites in the world. The fine-grained Jurassic limestone — laid down in a tropical lagoon about 150 million years ago — has preserved fossils in exceptional detail, including intact feathers, soft tissue, and insects. The most famous find is Archaeopteryx, the transitional fossil between dinosaurs and birds.

@@ -8,6 +8,7 @@ address: "Place des Cardeurs, 13100 Aix-en-Provence"
 latitude: 43.5306
 longitude: 5.4467
 snippet: Long pedestrian square lined end to end with cafe-restaurant terraces
+score: 5.6
 ---
 
 Place des Cardeurs is the late-night heart of Aix — a long pedestrian square behind the Hotel de Ville, fringed with the terraces of a dozen bistros, bars, and pizza joints. The whole strip glows on warm evenings with heaters, candles, and the smell of grilled meat.

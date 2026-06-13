@@ -6,6 +6,7 @@ longitude: -111.9447
 tags:
   - things_to_do
   - sight
+score: 8.8
 ---
 
 Technically just over the line in Phoenix's Papago Park, the Desert Botanical Garden is the best single introduction to Sonoran desert ecology you can get without putting on hiking boots. Five trail loops walk you through cactus, agaves, wildflowers, and species from desert biomes worldwide. Saguaros 30 feet tall stand directly over the path.

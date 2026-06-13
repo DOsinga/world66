@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -26.9188
 longitude: -49.0670
+score: 6.9
 ---
 
 Frohsinn ("cheerfulness" in German) is one of Blumenau's oldest and most beloved beer halls, in business since the early 20th century. The menu runs to classic German-Brazilian food — eisbein (pork knuckle) with sauerkraut and bread dumplings, several types of grilled sausage, and the house draft beer in half-litre and litre glasses. The dining room is large, convivial, and loud on weekend evenings.

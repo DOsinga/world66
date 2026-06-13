@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Arch 22
 type: poi
+score: 7.3
 ---
 
 The large ceremonial gateway at the entrance to Banjul, built in 1996. Climb to the observation deck for one of the better views over the city and the river. The small museum inside covers the 1994 coup and the early Jammeh years — historically interesting, if obviously one-sided.

@@ -8,6 +8,7 @@ tags:
 snippet: A 12th-century Hindu temple near the rim of the Lonar Crater
 latitude: 19.9836
 longitude: 76.5197
+score: 7.3
 ---
 
 Daitya Sudan — "Slayer of Demons" — is a Hemadanti-style temple from the Chalukya period, probably 12th century, dedicated to Vishnu in his form as the destroyer of the demon Lonasura. Local legend says the crater was made when Vishnu struck Lonasura down on this spot.

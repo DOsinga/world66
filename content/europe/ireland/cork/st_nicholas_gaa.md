@@ -7,6 +7,7 @@ tags:
 - ballyvolane
 title: St Nicholas' GAA
 type: poi
+score: 5.8
 ---
 
 St Nicholas' is the local Gaelic Athletic Association club serving Ballyvolane and the adjacent Blackpool area. The club runs Gaelic football and hurling for all ages, and matches at the local grounds are the kind of thing that defines a Cork northside weekend.

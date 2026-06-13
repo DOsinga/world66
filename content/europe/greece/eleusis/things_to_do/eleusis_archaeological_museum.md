@@ -8,6 +8,7 @@ latitude: 38.0481
 longitude: 23.5426
 sources:
   - https://en.wikipedia.org/wiki/Archaeological_Museum_of_Eleusis
+score: 8.2
 ---
 
 The museum sits directly inside the sanctuary precinct and is included in the site admission. It is small, well-organized, and full of finds that make the abstract history of the Mysteries concrete.

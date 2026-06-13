@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.4783
 longitude: -99.4854
+score: 5.8
 ---
 
 Parque Viveros is Nuevo Laredo's largest public park, a 50-hectare expanse of woodland on the eastern edge of the city overlooking the Rio Grande. It feels genuinely detached from the noise and heat of the border crossing — there are walking trails through stands of native mesquite and huisache, a small zoo with local wildlife, and shaded picnic areas that fill up on weekend afternoons with Nuevo Laredo families.

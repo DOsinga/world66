@@ -7,6 +7,7 @@ tags:
 latitude: 58.2505
 longitude: 22.4840
 snippet: "Public park surrounding the castle with a moat walk, lime trees, and views of the fortifications"
+score: 7.1
 ---
 
 The green belt around Kuressaare Castle is one of the more pleasant places to spend an hour in the town. The moat still holds water and the path along its edge offers changing views of the castle's massive dolomite-block walls, particularly good in the long light of a summer evening. Lime trees line the paths, and in summer the park fills with locals who use it as an everyday amenity rather than a tourist destination.

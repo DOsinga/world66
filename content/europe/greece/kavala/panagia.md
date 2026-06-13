@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 40.9350
 longitude: 24.4180
+score: 8.8
 ---
 
 Panagia is the old city of Kavala, occupying the rocky promontory that juts into the bay east of the modern harbour. It is the best reason to come to Kavala. The medieval walls enclose a tight quarter of Ottoman-era houses with overhanging upper floors, cobbled lanes, sea views, and the main monuments: the Byzantine castle at the tip of the promontory, the Imaret complex, the house of Mehmet Ali, and the Kamares aqueduct at the gateway into the neighbourhood.

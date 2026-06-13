@@ -13,6 +13,7 @@ story: >
   enough to make it a cult spot among regular visitors. The beach itself is backed
   by jungle with no development in sight, a quality that has become genuinely rare
   along the Riviera Nayarit coast.
+score: 7.7
 ---
 
 La Lancha is the surf destination that more experienced wave-riders from Sayulita graduate to when the main break feels too tame or too crowded. It lies about 8 kilometres south of town — a 25-minute drive — and offers faster, more powerful waves in a far less crowded setting.

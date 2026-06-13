@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 - art
+score: 6.8
 ---
 
 Deji Art Museum occupies several floors inside the Deji Plaza luxury mall in Xinjiekou, making it one of the more unusual museum locations in China. The museum hosts rotating exhibitions of contemporary Chinese and international art, with a programme that tilts toward immersive and digital installations alongside more conventional gallery shows.

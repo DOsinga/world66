@@ -16,6 +16,7 @@ story: >
   let visitors queue up to look — Jupiter's cloud bands, the rings of Saturn,
   and the Milky Way are all routine sights here that are invisible from Portland
   or Eugene.
+score: 8.0
 ---
 
 The Oregon Observatory is the public astronomy facility of the Sunriver Nature Center and Observatory. It sits at the edge of the resort community, just far enough from the street lights to take real advantage of Central Oregon's famously clear skies. The main telescope is a 0.7-metre (28-inch) reflector, one of the largest dedicated to public viewing in the Pacific Northwest.

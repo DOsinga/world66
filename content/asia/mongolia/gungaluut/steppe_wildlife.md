@@ -12,6 +12,7 @@ story: >
   in herds of millions — one of the great mass movements of large mammals on earth — but habitat
   pressure has fragmented their range. Gun-Galuut represents an island of intact habitat close
   enough to the capital to reach in a few hours.
+score: 8.2
 ---
 
 The open steppe of Gun-Galuut supports a range of mammals that have become rare across much of Mongolia's populated areas. Mongolian gazelle are the most visible — graceful, fast animals that move in fluid groups across the grassland. Argali, the largest wild sheep in the world, inhabit the higher slopes of the Baits and Berkh mountain ranges. Wolves and foxes are present but rarely seen.

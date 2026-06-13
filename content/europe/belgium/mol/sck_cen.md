@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.2190
 longitude: 5.0930
+score: 8.0
 ---
 
 The SCK CEN — Studiecentrum voor Kernenergie — was established in 1952, making it one of the earliest nuclear research centres in Europe and among the most significant still operating. It sits on a large campus north of Mol, within the pine and heathland of the Kempen, and houses several research reactors including BR2, which has been in operation since 1963 and is one of the most powerful materials testing reactors in the world. The work done here spans nuclear safety, medical isotope production — isotopes made at SCK CEN are used in cancer diagnosis and treatment across Europe — and research into the long-term disposal of radioactive waste.

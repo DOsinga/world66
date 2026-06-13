@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 8.0
 ---
 
 The Covered Market on Earl Street is a Grade II-listed iron-and-glass structure built between 1870 and 1875 — a survival from Preston's Victorian heyday as a regional market town. The wrought-iron roof spans the whole interior in a single sweep, supported on slender cast columns; it was painstakingly restored in the 2010s.

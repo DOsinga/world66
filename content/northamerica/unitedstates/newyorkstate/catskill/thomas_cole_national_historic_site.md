@@ -10,6 +10,7 @@ longitude: -73.8619
 sources:
   - https://en.wikipedia.org/wiki/Thomas_Cole_National_Historic_Site
   - https://www.thomascole.org/
+score: 8.8
 ---
 
 Thomas Cole's home and studio, known as Cedar Grove, is the birthplace of the Hudson River School — America's first major landscape painting movement. Cole arrived here in 1836 and spent the rest of his life painting the scenery of the Catskills and Hudson Valley from this spot. The site preserves two studios, the Federal-style house, and grounds that feel much as they did when Cole walked them.

@@ -11,6 +11,7 @@ snippet: "4,500-year-old temple with painted murals — among the oldest in the 
 story: "The murals at Ventarrón include a net-and-deer hunting scene painted around 2000 BC — making them roughly contemporary with the construction of Stonehenge and older than most Egyptian tomb paintings. Chiclayo sits in one of the longest continuously inhabited agricultural valleys in the Americas."
 sources:
   - https://en.wikipedia.org/wiki/Ventarron
+score: 6.8
 ---
 
 Ventarrón is a ceremonial temple site on the Reque River about 20 km southeast of Chiclayo, excavated from 2007 onwards and dated to around 2000 BC. The mud-brick platform mound is among the oldest structures ever found on the Peruvian coast, and the painted murals discovered inside — showing a hunting scene with nets and deer — pushed back the timeline for monumental art in the Americas by centuries.

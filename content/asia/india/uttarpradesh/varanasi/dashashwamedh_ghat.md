@@ -13,6 +13,7 @@ story: >
   fire, chanting, and bells that has become one of the most-photographed rituals in India.
 sources:
   - https://en.wikipedia.org/wiki/Dashashwamedh_Ghat
+score: 9.0
 ---
 
 Dashashwamedh Ghat is the most famous of Varanasi's 80-plus ghats and the most crowded — both with pilgrims who come to bathe in the Ganges and with visitors who come to watch the nightly Ganga Aarti. The ghat is ancient: it was rebuilt in 1748 by the Maratha ruler Peshwa Balaji Baji Rao, and before him by other rulers over many centuries. Its name means "the place of the ten horse sacrifice" — referring to a fire ritual said to have been performed here by the god Brahma.

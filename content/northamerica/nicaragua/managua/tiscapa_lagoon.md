@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Tiscapa_Lagoon_Natural_Reserve
 story: >
   The lagoon sits inside a volcanic crater formed over 10,000 years ago. The Somoza family built a presidential residence and a military prison on the crater rim; political prisoners were reportedly tortured in cells overlooking the water. The silhouette of Augusto Sandino — the nationalist guerrilla hero whose movement inspired the Sandinistas — now stands at the highest point of the rim, visible from across the city.
+score: 8.1
 ---
 
 Tiscapa Lagoon is a small, deep lake in a volcanic crater right in the middle of Managua. The reserve covers about 12 hectares and the crater rim gives one of the best panoramic views of the city and Lake Managua beyond. On a clear day you can see the volcanoes Momotombo and Mombacho on the horizon.

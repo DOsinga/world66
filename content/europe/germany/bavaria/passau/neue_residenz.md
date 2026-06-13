@@ -9,6 +9,7 @@ tags:
 latitude: 48.5724
 longitude: 13.4600
 snippet: "The opulent Baroque palace of the prince bishops, with a celebrated Rococo stairwell"
+score: 7.4
 ---
 
 The Neue Residenz, adjacent to St. Stephan's Cathedral, was built in the late 17th and early 18th centuries as the urban palace of the prince bishops of Passau — one of the wealthiest ecclesiastical rulers in the Holy Roman Empire. The building's Baroque facade is imposing, but the interior is the real treasure: the stairwell is a masterpiece of Rococo plasterwork, with cascading stucco decoration rising to a painted ceiling.

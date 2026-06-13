@@ -12,6 +12,7 @@ tags:
 - sight
 title: Quartz Mountain State Park
 type: poi
+score: 8.0
 ---
 
 Quartz Mountain State Park is built around a set of pink granite outcrops on the shore of Lake Altus-Lugert, about 50 kilometres (30 miles) north of Altus — easily the best day-trip destination from the city. The "Quartz Mountain" here is a low rocky peak rather than an actual mountain, but the rocks are striking, the lake is wide and good for swimming and fishing, and the surrounding land is genuinely scenic for the Oklahoma plains.

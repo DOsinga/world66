@@ -11,6 +11,7 @@ tags:
 - sight
 title: Presque Isle Park
 type: poi
+score: 8.5
 ---
 
 Presque Isle ("almost an island") is a forested basalt peninsula that juts into

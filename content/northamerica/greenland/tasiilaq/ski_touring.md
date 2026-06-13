@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 65.614
 longitude: -37.63
+score: 8.5
 ---
 
 East Greenland has a well-earned reputation among ski tourers as one of the world's great winter destinations. From February to May, the sea ice is stable and the mountains above Tasiilaq provide excellent terrain for ski touring, with long descents, reliable snow, and the kind of silence that is simply unavailable in European resorts. The icecap provides extreme multi-day ski touring for experienced parties.

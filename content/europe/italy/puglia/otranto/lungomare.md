@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.1467
 longitude: 18.4898
+score: 5.8
 ---
 
 The lungomare runs from the harbour around the foot of the castle and along the bay to the north. In the evening it is the main passeggiata — locals walking, eating granita, watching the lights come on across the water. The harbour itself is small and still working, with fishing boats unloading the morning catch on the quay.

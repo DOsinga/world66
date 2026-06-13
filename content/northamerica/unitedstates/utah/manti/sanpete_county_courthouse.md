@@ -9,6 +9,7 @@ latitude: 39.268056
 longitude: -111.635833
 sources:
   - https://en.wikipedia.org/wiki/Sanpete_County_Courthouse
+score: 7.0
 ---
 
 The Sanpete County Courthouse at 160 North Main Street is a handsome Romanesque Revival building from the 1890s, listed on the National Register of Historic Places. Its red-brick facade and round-arched windows make it one of the more distinguished public buildings in central Utah.

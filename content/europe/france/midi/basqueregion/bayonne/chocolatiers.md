@@ -8,6 +8,7 @@ latitude: 43.4935
 longitude: -1.4750
 story: >
   Bayonne's chocolate tradition began in the late 16th or early 17th century, when Spanish Jews expelled from Spain settled in the city and began producing chocolate using the cacao they brought from their trade networks. The city's chocolatiers jealously guarded their monopoly for generations, successfully keeping out rival producers from Biarritz and other nearby towns.
+score: 7.8
 ---
 
 The Rue du Port-Neuf and surrounding streets in Grand Bayonne are lined with artisan chocolatiers — some of them operating for more than a century, making Bayonne one of the oldest chocolate cities in France. The shops are genuine ateliers, not tourist boutiques, and the quality is uniformly high.

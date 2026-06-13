@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - historic_centre
+score: 5.3
 ---
 
 A serious craft-beer bar with rotating taps from Russian and European microbreweries, a long bar counter in dark wood, and a younger, professional crowd. The list runs to 20-plus taps including local Ural breweries.

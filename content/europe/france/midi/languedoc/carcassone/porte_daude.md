@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 neighbourhood: La Cité
+score: 6.8
 ---
 
 The Porte d'Aude is the western gate of the Cité, opening onto a steep stair down to the Aude river and the Pont Vieux. It is the more dramatic of the two main gates — narrower, hemmed in by tall walls on both sides, and built with multiple right-angle turns to slow any attacker.

@@ -14,6 +14,7 @@ story: >
   poems — fevered, hallucinatory, saturated with Catholic imagery — as among the most
   powerful in the language. His grave on the hillside has become a place of literary
   pilgrimage, particularly among Vietnamese students.
+score: 6.6
 ---
 
 On the hillside above Qui Nhon, overlooking the bay, stands the grave and memorial to Han Mac Tu, one of the most celebrated Vietnamese poets of the early 20th century. He spent his last years at the Quy Hoa leprosarium below, and his grave has become a pilgrimage site for Vietnamese literature lovers.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Some of the carved Larven (wooden masks) carried by the Narren are family heirlooms two or three centuries old, repainted but never recarved. The Gschell Narren wear hundreds of bronze bells stitched to their costume; a procession costs the wearer hours of rehearsal and a few kilograms of metal."
+score: 9.4
 ---
 
 The Rottweiler Fasnet is the most famous Swabian-Alemannic carnival, and the city's biggest event of the year. The main day is Fasnetsmontag, the Monday before Ash Wednesday, when the Narrensprung begins: thousands of masked Narren — Gschell, Biss, Federhannes, Schantle, Fransenkleid and others — pour through the Schwarzes Tor at eight in the morning and process down Hauptstrasse in waves over six hours.

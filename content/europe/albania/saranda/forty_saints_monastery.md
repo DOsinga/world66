@@ -13,6 +13,7 @@ story: The monastery takes its name from the Forty Martyrs of Sebaste — Christ
   Christian worship since Byzantine times, and the monastery was an important centre
   of Albanian Orthodoxy in the region before the communist anti-religion campaign
   of 1967 destroyed most religious institutions.
+score: 6.8
 ---
 
 The Monastery of the Forty Saints is an Orthodox monastery on a hillside just east of Saranda, one of the oldest Christian sites in the area. The current buildings are a reconstruction — the original monastery was destroyed during Enver Hoxha's 1967 anti-religion campaign, which closed every place of worship in Albania and declared the country the world's first officially atheist state. The monastery has been partially restored since the 1990s.

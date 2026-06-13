@@ -11,6 +11,7 @@ tags:
 neighbourhood: Downtown
 title: Cliff Bell's
 type: poi
+score: 7.5
 ---
 
 Cliff Bell's opened in 1935 as a high-end downtown supper club and ran for forty years before closing. After thirty years dark, it was painstakingly restored and reopened in 2006 with the original mahogany bar, glass-block walls, and Art Deco fittings intact. The current owners run it as a jazz club, with live music almost every night and a respectable kitchen.

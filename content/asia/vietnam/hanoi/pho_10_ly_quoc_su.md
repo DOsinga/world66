@@ -7,6 +7,7 @@ tags:
 latitude: 21.0321
 longitude: 105.848
 snippet: "Reliable, crowded pho counter near St. Joseph's — go early"
+score: 7.4
 ---
 
 Pho 10 on Ly Quoc Su is not trying to be the most remarkable pho in Hanoi; it is trying to be reliable, consistent, and good, and at this it succeeds. The restaurant is a few minutes' walk from St. Joseph's Cathedral, in a neighborhood that sees both Vietnamese regulars and tourists who've wandered over from Hoan Kiem Lake. The stock is properly made — long-cooked bones, charred ginger and onion, star anise and cinnamon — and the beef sliced to order. The portions are correct.

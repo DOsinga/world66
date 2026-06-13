@@ -8,6 +8,7 @@ tags:
 latitude: 16.1862
 longitude: 81.1398
 story: "The Dutch East India Company (VOC) established one of its earliest Indian trading posts at Machilipatnam in 1605, making it a key node in the pepper and textile trade between India and the Netherlands. The cemetery holds some of the oldest European graves on the subcontinent, with inscriptions that pre-date the British Raj by over a century."
+score: 7.4
 ---
 
 Machilipatnam was among the first Indian ports to attract the Dutch East India Company (VOC) in the early 17th century, and the Dutch Cemetery is the most tangible remnant of that era. The cemetery contains European graves dating from the 1600s and 1700s, with Dutch, English, and French traders all buried here at various points during the colonial competition for this port.

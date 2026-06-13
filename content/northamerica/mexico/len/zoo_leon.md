@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.1112
 longitude: -101.6598
+score: 6.1
 ---
 
 Zoo León is one of the better municipal zoos in the Bajío region, set in a large park on the eastern edge of the city. The zoo has around 2,000 animals across 260 species, with habitats that are reasonably spacious by Mexican standards. Big cats, African and American ungulates, primates, and a well-regarded reptile section make up the core collection.

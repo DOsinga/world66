@@ -5,6 +5,7 @@ tags: [things_to_do, sight, museum]
 latitude: 25.50028
 longitude: -80.44500
 story: Latvian immigrant Edward Leedskalnin spent 28 years, working alone and at night, carving and arranging more than 1,100 tons of oolitic limestone into walls, gates, and furniture. He never explained how he moved the multi-ton blocks. He claimed it was a monument to his lost teenage love in Latvia, the girl who jilted him the day before their wedding.
+score: 8.2
 ---
 
 Coral Castle sits just north of Homestead and is one of Florida's strangest tourist attractions. A nine-ton gate swings open at the touch of a finger, perfectly balanced on a truck-bearing pivot. A heart-shaped table weighs more than a small car. A telescope tower points at the North Star. Leedskalnin built it all with hand tools, pulleys, and what he called his "knowledge of the secrets of the pyramids."

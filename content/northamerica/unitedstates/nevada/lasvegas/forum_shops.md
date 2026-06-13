@@ -10,6 +10,7 @@ tags:
 - center_strip
 story: >
   The painted-sky ceiling shifts from sunrise through to dusk and back again every three hours, a continuous loop that has been running since the mall opened in 1992 — though most shoppers never notice the cycle because they assume the sky is static.
+score: 5.6
 ---
 
 The Forum Shops opened in 1992 as the first themed shopping mall on the Strip and remains one of the highest-grossing per-square-foot retail spaces in the United States. The interior is a Roman fantasia: marble columns, fountains, a painted barrel-vaulted "sky" that runs through a constant dawn-to-dusk cycle, and animatronic statues that come to life on the hour at the Fall of Atlantis fountain.

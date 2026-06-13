@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 64.0781
 longitude: -16.2200
+score: 7.1
 ---
 
 Harbour seals have colonised Jökulsárlón and haul out on the floating ice floes in impressive numbers — as many as a hundred animals at a time can sometimes be counted from the shoreline. The seals are entirely habituated to human presence and will regard boats with mild curiosity before returning to sleep. They are the year-round residents of the lagoon, unlike the summer-only Arctic terns that also nest here.

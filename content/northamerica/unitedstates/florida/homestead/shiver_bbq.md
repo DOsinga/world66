@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, barbecue]
 latitude: 25.4720
 longitude: -80.4810
+score: 6.8
 ---
 
 Shiver's has been smoking pork shoulder, brisket, and ribs in Homestead since the 1950s, surviving Hurricane Andrew, multiple changes of ownership, and the slow national homogenisation of regional barbecue. It is one of the last classic Southern barbecue joints in South Florida — wooden booths, sweet tea, paper plates.

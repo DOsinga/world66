@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -0.8500
 longitude: 134.0800
+score: 5.8
 ---
 
 Amban Beach is the most accessible swimming beach near central Manokwari, a short ride by ojek (motorcycle taxi) from the city centre. The water is calm and relatively clear, making it a popular spot for an afternoon swim. Vendors sell food and drinks along the shore on weekends, when local families come out in force.

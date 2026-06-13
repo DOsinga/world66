@@ -10,6 +10,7 @@ snippet: Upscale golden-sand bay backed by casuarinas, popular with local famili
 story: Surin became Phuket's "millionaire's row" beach in part because of the Amanpuri resort, which opened in 1988 as Aman Resorts' first property. The understated pavilion architecture, designed by Ed Tuttle, set a template for luxury resort design across Asia that is still imitated today.
 sources:
   - https://en.wikipedia.org/wiki/Amanpuri
+score: 8.5
 ---
 
 Surin Beach is a 600-metre bay backed by casuarina trees on Phuket's west coast, about 15 kilometres north of Patong. The sand is golden and the setting is handsome, but Surin is best known for its atmosphere rather than its swimming — the steep sand shelf and strong undertow during the monsoon make the water temperamental, and red flags are not always heeded.

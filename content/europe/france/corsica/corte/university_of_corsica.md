@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.2992
 longitude: 9.1533
+score: 6.6
 ---
 
 The Università di Corsica Pasquale Paoli was one of the first universities founded in Corsica, established by the independent republic in 1765. When the French took the island in 1769, they suppressed it — it was not refounded until 1981, after a long campaign by Corsican cultural and autonomy movements. Today it is the island's only university, with around 4,000 students spread across campuses in Corte, Ajaccio, and Biguglia.

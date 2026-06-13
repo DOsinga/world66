@@ -8,6 +8,7 @@ tags:
   - sight
   - shopping
   - market
+score: 6.9
 ---
 
 The Mercado Municipal, two blocks inland from the seafront, is Mindelo's covered fruit, vegetable, and dry-goods market: a single tall colonial-era hall with iron columns and a long staircase rising to a galleried first floor. The stalls run from local produce — papaya, cassava, plantain, fresh herbs — to imported staples and household goods.

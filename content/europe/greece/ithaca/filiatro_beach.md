@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 38.3697
 longitude: 20.7411
+score: 7.1
 ---
 
 Filiatro is one of the easier beaches to reach from Vathy — a fifteen-minute drive east on a good road. It is a pebble-and-shingle crescent backed by olive trees and dramatic cliffs, with water that is almost unreasonably clear and turquoise.

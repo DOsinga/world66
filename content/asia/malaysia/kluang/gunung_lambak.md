@@ -14,6 +14,7 @@ story: >
   still stands at the summit.
 sources:
   - https://en.wikipedia.org/wiki/Mount_Lambak
+score: 7.4
 ---
 
 Gunung Lambak, at 510 metres, is Kluang's most accessible nature destination and the dominant local peak. The mountain is an inselberg — geologically distinct from the surrounding landscape, rising steeply from the flat Johor lowlands. A well-maintained trail network with wooden bridges makes the ascent accessible to walkers of average fitness; the summit takes about two hours at a steady pace.

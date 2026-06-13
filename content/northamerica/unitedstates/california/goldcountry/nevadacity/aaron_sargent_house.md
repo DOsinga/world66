@@ -10,6 +10,7 @@ longitude: -121.02056
 address: "449 Broad St, Nevada City, CA"
 snippet: "Home of the US senator who first proposed women's right to vote in Congress"
 story: "Aaron Sargent was a Nevada City newspaper editor before entering politics. In 1878 he introduced the women's suffrage amendment to the US Senate — the exact wording later used in the 19th Amendment, ratified in 1920, forty-two years after Sargent first proposed it."
+score: 5.9
 ---
 
 This Greek Revival house on Broad Street was home to Aaron Augustus Sargent, one of the more consequential politicians to emerge from the Gold Country. A newspaper editor who arrived in Nevada City during the Gold Rush, Sargent went on to serve as a California congressman and senator, and in 1878 introduced the constitutional amendment that would eventually become women's suffrage.

@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: -36.1264
 longitude: 174.5747
+score: 4.9
 ---
 
 Mangawhai Village is the older, inland half of the community — sometimes just called Mangawhai — about four kilometres south of the Heads. It sits at the head of the harbour where the road from State Highway 1 reaches the coast.

@@ -14,6 +14,7 @@ story: >
   temples, but on a much smaller scale. What makes it remarkable is that it
   survived largely unnoticed by mainstream Indian archaeology until relatively
   recently, and remains far less visited than its quality deserves.
+score: 8.4
 ---
 
 The Dharmarajeshwara Temple is a rock-cut Shaiva temple carved from a single rock outcrop in the countryside near Mandsaur town. Comparable in technique (if not in scale) to the famous cave temples of Ellora, it features detailed sculptural work from the medieval period that has survived in good condition.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Just offshore from Capo Ferro lie the Monaci rocks, where in 1962 the cargo ship Esso Malta wrecked and spilled fuel along this coast — one of the incidents that pushed the local authorities to designate the surrounding waters as a marine protected area decades later."
+score: 7.4
 ---
 
 The Capo Ferro Lighthouse marks the southern entrance to the Strait of Bonifacio and the Maddalena archipelago, and the headland it sits on is the easiest viewpoint in the area for a long look across to Corsica. Built in 1858 and still active, the lighthouse stands on a granite promontory above some of the most photogenic stretches of the Costa Smeralda coastline.

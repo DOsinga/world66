@@ -6,6 +6,7 @@ longitude: 4.4876
 tags:
 - things_to_do
 - architecture
+score: 8.6
 ---
 
 The former headquarters of the Holland-America Line, the shipping company that carried hundreds of thousands of European emigrants to New York from this very building. Constructed in 1901 in an exuberant Art Nouveau style — towers, turrets, and a grand riverside facade — it was the last piece of Europe that generations of emigrants saw before boarding their ships.

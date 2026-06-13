@@ -5,6 +5,7 @@ snippet: Serbian Orthodox cathedral rebuilt on a hill overlooking Mostar, with a
 tags: [things_to_do, sight, religious]
 latitude: 43.3494
 longitude: 17.8142
+score: 7.2
 ---
 
 High on a hill east of the centre, the rebuilt Holy Trinity Cathedral is the seat of the Serbian Orthodox Eparchy of Zahumlje and Herzegovina. The original 1873 cathedral was one of the largest in the Balkans and the most important Orthodox building in Mostar; it was destroyed in 1992 at the start of the war. Reconstruction began in 2010 and is broadly complete.

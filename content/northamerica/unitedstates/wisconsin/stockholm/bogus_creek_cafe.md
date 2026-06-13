@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 44.4813
 longitude: -92.2597
+score: 7.2
 ---
 
 Bogus Creek Cafe & Bakery is a small, cheerful cafe that has served as the social centre of Stockholm for years. The menu is simple: good coffee, homemade soups, sandwiches on fresh-baked bread, and excellent pastries. In summer, tables on the street fill up quickly on weekends with cyclists from the Great River Road trail.

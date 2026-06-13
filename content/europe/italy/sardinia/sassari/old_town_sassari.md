@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.726
 longitude: 8.558
+score: 8.3
 ---
 
 The old town of Sassari occupies the medieval core of the city — a tangle of narrow lanes, stone staircases, and small squares that climbs the hill from the Fontana del Rosello to the cathedral. The architecture reflects the various rulers who have controlled the city: Pisan and Genoese Gothic, Spanish Baroque churches, and plain Sardinian vernacular housing of grey stone and wrought-iron balconies.

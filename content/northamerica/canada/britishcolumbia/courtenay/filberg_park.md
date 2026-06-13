@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.6743
 longitude: -124.9367
+score: 7.3
 ---
 
 The Filberg Heritage Lodge and Park occupies nine acres of waterfront at Comox — ten minutes from Courtenay — and is one of the most pleasant green spaces in the Comox Valley. The property was the private estate of Robert Filberg, a lumber executive, who built a Scandinavian-influenced lodge in 1929 and developed the grounds over decades. It was bequeathed to the municipality on his death and is now a public park.

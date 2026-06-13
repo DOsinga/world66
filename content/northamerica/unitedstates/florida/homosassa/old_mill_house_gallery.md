@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 28.7872
 longitude: -82.6210
+score: 5.4
 ---
 
 A small printing museum housed in a 1920s wood-framed building in Old Homosassa, run by veteran printer Jim Anderson. The collection covers two centuries of letterpress — Linotypes, hand presses, type cases, posters and the smell of ink and machine oil that goes with all of it.

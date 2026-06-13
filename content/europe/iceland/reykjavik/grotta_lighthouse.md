@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Tidal-island lighthouse at the city's western tip, the best Northern Lights spot in town
+score: 7.6
 ---
 
 At the western tip of the Seltjarnarnes peninsula, where the Reykjavik suburbs run out into the sea, stands a small white lighthouse on a tidal islet. At low tide a sandy causeway lets you walk out to it; at high tide the island is cut off.

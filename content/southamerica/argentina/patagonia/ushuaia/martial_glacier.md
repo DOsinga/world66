@@ -8,6 +8,7 @@ latitude: -54.7845
 longitude: -68.3250
 story: >
   The glacier has retreated dramatically since the mid-20th century — photographs from the 1940s show a wall of ice where hikers now walk through scrubby bush. The change is visible and striking, and the bare rock where the glacier once sat is clearly visible from town, making Ushuaia an unusually legible illustration of climate change.
+score: 7.8
 ---
 
 The Martial Glacier sits above Ushuaia on the mountain slope directly behind the city. Getting there takes about 45 minutes on foot from the upper end of town, or you can take the chairlift (aerosilla) that runs most of the year from a base station on Av. Luis Martial. The lift terminates around 1,000 metres elevation; from there a trail continues steeply up to the remnant glacier and spectacular views over the Beagle Channel and the city below.

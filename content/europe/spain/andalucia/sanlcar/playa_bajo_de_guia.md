@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.7825
 longitude: -6.3490
+score: 7.4
 ---
 
 Sanlúcar's beach is not the wide, crowded strand of the Costa del Sol — it's a long river beach where the Guadalquivir meets the Atlantic, with Doñana's pine trees and marshes visible across the water. In summer, horse races are held here at low tide, which is one of the most unusual sporting events in Spain: racehorses galloping on wet sand beside an estuary, with the sherry-triangle towns behind them and a nature reserve ahead.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 11.7910
 longitude: 99.8040
+score: 6.2
 ---
 
 About four kilometres south of the town centre, this science park was established to honour King Mongkut (Rama IV), who was an accomplished astronomer and mathematician — and who came to Prachuap Khiri Khan Province in 1868 to observe a total solar eclipse from a hilltop site nearby. The park contains a museum of natural history, an aquarium (Waghor Aquarium), and outdoor exhibits spread across pleasant grounds.

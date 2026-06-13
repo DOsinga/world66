@@ -10,6 +10,7 @@ tags:
 - museum
 title: Jersey Museum
 type: poi
+score: 7.8
 ---
 
 The island's main museum, covering Jersey's natural and human history, the traditions of the Jèrriais-speaking rural community, and the island's distinctive industries — knitting, cider-making, the Jersey cow. Temporary exhibitions run through the year. A sensible first stop for any visitor wanting to understand what makes Jersey different from the UK.

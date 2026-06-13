@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.3
 ---
 
 The Penang Town Hall, completed in 1883, is the older of two grand white civic buildings facing the Padang. It was the seat of the colonial city council and the venue for the bowls clubs, balls and concerts of late-Victorian Penang. The two-storey Renaissance Revival design — pediments, columns, balconies, gleaming white stucco — was modelled on European municipal halls and built using imported materials and convict labour.

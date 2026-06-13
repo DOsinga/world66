@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.7152
 longitude: 85.5208
+score: 8.0
 ---
 
 The distinctive geodesic steel tower at the high point of the Nagarkot ridge is the classic spot for the sunrise view over the Himalayas. It stands at about 2,165 metres and offers a 360-degree panorama: on a clear morning, you can see eight of Nepal's Himalayan ranges from here, including Manaslu, Ganesh Himal, Langtang, Jugal, Rolwaling, and — on very clear days — a distant glimpse of Everest to the north-east.

@@ -10,6 +10,7 @@ address: 1010 Broad Street, San Luis Obispo, CA 93401
 admission: Free
 opening_hours: Wed–Mon 11:00–17:00; closed Tuesday
 url: sloma.org
+score: 6.4
 ---
 
 The SLO Museum of Art occupies a small building at the edge of Mission Plaza, steps from the creek and directly adjacent to the Mission. Admission is free, which removes any reason not to look in. The collection focuses on California artists, particularly those from the Central Coast, and rotates through temporary exhibitions several times a year.

@@ -5,6 +5,7 @@ tags: [things_to_do, church]
 snippet: "Chennai's oldest church, built by Portuguese sailors guided by light"
 latitude: 13.038208
 longitude: 80.262348
+score: 6.9
 ---
 
 Luz Church (Nossa Senhora da Luz) in Mylapore is one of the oldest European churches in Chennai, built by Portuguese sailors in 1516. The name comes from the Portuguese word for light — according to tradition, sailors caught in a storm off the coast spotted a mysterious light onshore and followed it to safety. They built a small chapel on the spot in gratitude.

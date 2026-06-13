@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 36.3356
 longitude: -96.7900
+score: 6.8
 ---
 
 The Pawnee Nation of Oklahoma is headquartered in Pawnee, their presence giving the town a cultural and historical dimension that most visitors don't expect. The Pawnee people — one of the major Plains nations — were relocated from Nebraska to Oklahoma in 1874 after sustained pressure from the US government. The tribal headquarters on Harrison Street includes administrative offices and a cultural centre.

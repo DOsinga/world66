@@ -8,6 +8,7 @@ tags:
 latitude: 9.3055
 longitude: 123.2985
 snippet: "The seafront promenade — Dumaguete's social heart at all hours"
+score: 7.5
 ---
 
 Rizal Boulevard is the long seafront promenade that runs along the Bohol Sea at the edge of the city. It is the undisputed social heart of Dumaguete: at sunset, families wheel prams here, students sit along the seawall, and vendors sell barbecued corn and buko juice. The Boulevard is where you feel the character of the city most clearly.

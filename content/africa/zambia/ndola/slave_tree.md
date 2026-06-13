@@ -13,6 +13,7 @@ story: >
   Arab and Swahili traders used the shade of this tree as a gathering point when trading
   enslaved people from central Africa in the 18th and 19th centuries. A plaque records
   the names of known traders who operated in the area. The tree itself survived them all.
+score: 5.1
 ---
 
 The Slave Tree is one of Ndola's most significant historic sites — a large, ancient fig tree in the city centre that served as a meeting and trading point for Arab and Swahili slave traders in the 18th and 19th centuries. The tree has been declared a national monument and is surrounded by a small park. An interpretive display explains the history of the East African slave trade in the Copperbelt region.

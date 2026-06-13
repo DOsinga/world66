@@ -9,6 +9,7 @@ tags:
   - zurich_west
 neighbourhood: "Zurich-West"
 snippet: "Urban-garden bar under the railway viaduct — Zurich-West's most-loved summer hangout"
+score: 6.2
 ---
 
 Frau Gerolds Garten — "Mrs. Gerold's Garden" — is the sprawling urban-garden bar that became, almost overnight in 2012, the social centre of Zurich-West. The site is a pocket of land along the railway viaduct in Kreis 5: shipping containers, raised vegetable beds, repurposed seating, a wooden stage, and a long open-air bar serving local craft beer, wine, and weekly-changing food from a rotation of small kitchens.

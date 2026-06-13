@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 51.2094
 longitude: -2.6450
+score: 6.3
 ---
 
 The Market Place at the centre of Wells is a wide medieval square ringed by Georgian and Tudor buildings, with the cathedral towers visible above the roofline. A market has been held here since 1201; the Wednesday and Saturday markets continue today and are among the oldest continuously operating markets in Somerset.

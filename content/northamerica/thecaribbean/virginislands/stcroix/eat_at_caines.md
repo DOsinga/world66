@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 17.7471
 longitude: -64.7035
+score: 5.9
 ---
 
 Eat @ Caine's is a Christiansted lunch spot that has earned genuine local loyalty for its roti and West Indian daily plates. Roti — a soft flatbread wrapped around a curried filling of chicken, goat, or chickpeas — arrived in the Virgin Islands with Trinidadian and Guyanese migrants and is now a cornerstone of the local food culture. Caine's version is generous and well-seasoned, considerably better than the tourist-facing alternatives around the waterfront.

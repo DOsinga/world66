@@ -7,6 +7,7 @@ snippet: Pedestrian shopping street at the heart of the city
 tags:
 - things_to_do
 - sight
+score: 6.6
 ---
 
 The Peatonal 21 de Mayo runs from Plaza Colón through the centre to Plaza Vicuña Mackenna — a tree-shaded pedestrian street lined with shops, ice-cream parlours, money-changers (for the Peruvian border crossing) and inexpensive restaurants. It is the heart of everyday Arica and where most of the city's footfall happens.

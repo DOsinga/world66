@@ -9,6 +9,7 @@ latitude: 38.5852
 longitude: 68.7634
 story: >
   The Dushanbe Ismaili Centre is one of only six Ismaili Centres in the world (the others are in London, Paris, Lisbon, Dubai, and Toronto), designed by Farshid Moussavi and completed in 2009. Tajikistan has one of the largest Ismaili Muslim populations in the world, concentrated in the Pamir Mountains (Gorno-Badakhshan). The centre is a gift from the Aga Khan to the Tajik Ismaili community.
+score: 8.1
 ---
 
 The Ismaili Centre is the finest piece of contemporary architecture in Dushanbe — a building that engages intelligently with both Islamic architectural tradition and modern design. The exterior uses white marble and glass in layered forms that reference traditional Ismaili design principles; the interior is open, light-filled, and serene.

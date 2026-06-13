@@ -13,6 +13,7 @@ story: >
   in bold geometric patterns using natural pigments — white lime, red ochre, black
   ash — applied in bands that follow the horizontal stone courses of the walls.
   UNESCO included this practice on its Intangible Cultural Heritage list in 2017.
+score: 8.4
 ---
 
 The traditional architecture of the Asir highlands is among the most visually distinctive in Saudi Arabia. Multi-storey stone tower houses, built from local schist layered in horizontal courses, rise three to five floors above narrow lanes. The lower floors traditionally housed livestock and storage; the upper floors were residential, with small windows and decorated parapets.

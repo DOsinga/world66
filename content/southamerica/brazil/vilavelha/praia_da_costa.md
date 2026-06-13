@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: -20.344
 longitude: -40.291
+score: 7.4
 ---
 
 Praia da Costa is Vila Velha's main urban beach: a long, straight stretch of sand with a wide promenade, plenty of beach kiosks selling caipirinhas and grilled snacks, and reliable conditions for swimming. It fills up on weekends with locals from across the metropolitan area but remains manageable on weekdays.

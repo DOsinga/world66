@@ -9,6 +9,7 @@ tags:
 title: Ararat
 type: poi
 snippet: Eclectic paper shop with postcards and unusual gifts
+score: 5.5
 ---
 
 

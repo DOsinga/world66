@@ -14,6 +14,7 @@ story: >
   Rudyard Kipling's poem "The Ballad of the King's Mercy" and drew intense British interest 
   in the region. Hayward was the first Westerner to map several of the surrounding valleys 
   before his violent end at age 30.
+score: 7.3
 ---
 
 The Old British Cemetery in Gilgit holds the graves of British officers, explorers, and administrators who died in this remote posting during the colonial era. Gilgit was a British Political Agency — effectively a forward base in the Great Game — and the cemetery reflects the hazards of that posting: mountain accidents, disease, and occasionally violence.

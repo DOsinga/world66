@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.9
 ---
 
 The single-nave baroque church of the Capuchin order stands at the eastern edge of the main square, built in the 1690s on land granted to the friars by the Hochburg family. Its interior is unusually plain by Hungarian baroque standards — the Capuchins kept things austere — but the painted main altar and a side chapel with a wooden Pietà are worth a few minutes.

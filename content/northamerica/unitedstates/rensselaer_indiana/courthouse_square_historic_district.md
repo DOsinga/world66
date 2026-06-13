@@ -5,6 +5,7 @@ tags: [things_to_do, sight, neighbourhood]
 latitude: 40.9361
 longitude: -87.1519
 snippet: "Block of late-Victorian brick storefronts ringing the courthouse"
+score: 7.5
 ---
 
 The four blocks surrounding the courthouse form Rensselaer's Courthouse Square Historic District, listed on the National Register. Most of the buildings date from the boom years between 1880 and 1910, when the arrival of the railroad brought a brief surge of prosperity to the county seat.

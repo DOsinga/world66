@@ -12,6 +12,7 @@ story: >
   rubble: a solid gold casket containing Buddha relics and gold, silver, and
   jade plaques. These are now displayed inside the rebuilt stupa, which —
   uniquely among pagodas — is hollow and can be walked through from the inside.
+score: 6.9
 ---
 
 The Botahtaung Pagoda stands at the southeastern end of the downtown waterfront, near the river. The stupa is unusual in that it is hollow — visitors can walk through a mirrored and gilded interior corridor that winds around the relic chamber at the centre. The effect is somewhat disorienting and quite unlike any other pagoda in Myanmar.

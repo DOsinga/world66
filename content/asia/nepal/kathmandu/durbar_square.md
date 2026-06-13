@@ -14,6 +14,7 @@ story: >
   is ongoing and some structures remain scaffolded or restricted. The earthquake exposed something
   important: these were not museum pieces but living religious buildings in daily use, and
   their loss was felt as communal grief, not just as heritage damage.
+score: 9.5
 ---
 
 Kathmandu Durbar Square, also called Basantapur, is the historic royal plaza at the centre of the old city and one of three UNESCO World Heritage Durbar Squares in the Kathmandu Valley (the other two being in Patan and Bhaktapur). It is a dense concentration of medieval temples, palaces, courtyards, and statues accumulated over centuries of Malla rule — the effect on first arrival is overwhelming.

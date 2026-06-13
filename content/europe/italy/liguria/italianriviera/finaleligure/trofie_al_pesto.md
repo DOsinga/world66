@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 44.1693
 longitude: 8.3440
+score: 6.9
 ---
 
 Finale Ligure is a good place to understand Ligurian cooking as it is actually eaten rather than as it is performed for tourists. Pesto here means Genovese basil, garlic, pine nuts, Parmigiano, Pecorino, and Ligurian DOP olive oil ground together — nothing from a jar. It is served on trofie (short twisted pasta) or trenette, sometimes with green beans and potato cooked into the same pot, which is the classic way.

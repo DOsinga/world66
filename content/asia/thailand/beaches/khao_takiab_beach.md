@@ -8,6 +8,7 @@ tags:
 - beach
 title: Khao Takiab Beach
 type: poi
+score: 7.0
 ---
 
 Khao Takiab — "Chopstick Hill" — is a beach and headland about 7 kilometres south of Hua Hin. The beach is calmer and less crowded than the main Hua Hin stretch, with a colony of monkeys living on the wooded hill above. A Buddhist temple sits at the top, with views along the coast. The bay has opportunities for swimming and local fishing boats offer trips out to nearby islands. Hua Hin itself is a short drive north for restaurants, markets, and night life.

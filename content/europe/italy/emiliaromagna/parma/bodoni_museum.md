@@ -6,6 +6,7 @@ longitude: 10.32597
 tags:
   - things_to_do
   - museum
+score: 7.4
 ---
 
 The Bodoni Museum, on the upper floor of the Palazzo della Pilotta, is devoted to Giambattista Bodoni (1740–1813), the printer and type designer whose elegant typefaces are still in use worldwide and whose name has been borrowed by every word-processor on the planet. The collection holds Bodoni's actual punches, matrices, and finished books, and the visit is essentially a walk through the workshop where modern typography was largely invented.

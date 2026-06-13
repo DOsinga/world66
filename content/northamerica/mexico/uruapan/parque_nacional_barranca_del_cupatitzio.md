@@ -8,6 +8,7 @@ latitude: 19.4178
 longitude: -102.0678
 story: >
   The Cupatitzio River takes its name from the Purépecha phrase meaning "where the rivers sing." The spring that gives the park its most dramatic feature — a stream bursting from mossy rock face as if from nowhere — is called La Rodilla del Diablo, the Devil's Knee, because the water seems to appear from solid stone with no visible source uphill.
+score: 8.4
 ---
 
 The Parque Nacional Barranca del Cupatitzio sits at the western edge of Uruapan's city centre and is extraordinary by any standard, let alone for an urban park. The Cupatitzio River emerges from underground springs here, surfacing through a tumble of mossy volcanic rock amid dense tropical vegetation — tree ferns, orchids, and palms — that feels almost absurdly lush given that you can walk here from the main plaza.

@@ -14,6 +14,7 @@ story: >
   into warehouses and detention centres between 1968 and 1979. After Macías was
   overthrown and executed by his own nephew, the cathedral was restored to
   religious use.
+score: 7.8
 ---
 
 St. Elizabeth's Cathedral stands at the heart of Malabo's historic centre, its twin towers visible from most of the city. Built in Spanish colonial style with a cream-and-ochre facade, it is the most architecturally significant building in the capital and serves as the seat of the Archbishop of Malabo.

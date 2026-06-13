@@ -9,6 +9,7 @@ tags:
   - bar
 title: Stiefel
 type: poi
+score: 5.8
 ---
 
 Stiefel is a beer hall in the European tradition installed in a Victorian building in Barrio Amón. The house draught beers are brewed on site and the selection rotates, but there is always a lager, a dark, and something seasonal. The clientele is a mix of local professionals and international visitors who have found their way from the nearby boutique hotels. The kitchen serves substantial Germanic food — sausages, schnitzel, pretzels — that pairs well with the beer.

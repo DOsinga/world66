@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Glacial tarn high in the Remarkables
+score: 8.0
 ---
 
 A small alpine lake cupped in a granite cirque at 1,800 m in the Remarkables, just above the ski field car park. The walk in takes about 45 minutes and gains 150 m of elevation. The path is rough but clear, and the lake itself — fringed with snow patches well into summer — is one of the more dramatic high places near Queenstown that you can reach in a morning.

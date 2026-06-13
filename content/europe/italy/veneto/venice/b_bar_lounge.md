@@ -9,6 +9,7 @@ tags:
 - san_marco
 title: B Bar Lounge
 type: poi
+score: 5.7
 ---
 
 The bar of the Bauer Hotel on Campo San Moisè, a short walk from Piazza San Marco. The interior is ornate — chandeliers, plush seating, moody lighting — and the cocktail list leans toward classics, well executed. The terrace has a view of the beginning of the Grand Canal. Beer starts around five euros; cocktails run considerably higher.

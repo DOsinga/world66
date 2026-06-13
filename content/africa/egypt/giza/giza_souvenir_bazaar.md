@@ -8,6 +8,7 @@ tags:
 - ahramat_district
 title: Giza Pyramid Souvenir Bazaar
 type: poi
+score: 4.0
 ---
 
 The streets leading up to the Giza Plateau entrance are lined with souvenir shops and informal stalls selling the full range of Egyptian tourist goods: papyrus paintings (many made from banana leaf rather than real papyrus — ask to see the flexibility test), alabaster miniature pyramids and Sphinxes, gold and silver cartouche jewellery with your name in hieroglyphics, pashmina shawls, and pharaonic-theme everything.

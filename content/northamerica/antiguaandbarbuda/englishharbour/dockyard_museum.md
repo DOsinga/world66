@@ -7,6 +7,7 @@ tags:
   - history
 title: Dockyard Museum
 type: poi
+score: 6.9
 ---
 
 The Dockyard Museum occupies the Naval Officer's and Clerk's House, built in 1855 and now one of the best-preserved historic buildings in the complex. The collection focuses on the Royal Navy's history in the Eastern Caribbean, with artefacts, charts, paintings, and documents covering the period from the 1720s through to the closure of the British naval presence in the region. A few items with direct connections to Nelson are on display, including his telescope.

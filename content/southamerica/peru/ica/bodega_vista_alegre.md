@@ -4,6 +4,7 @@ type: poi
 latitude: -14.0467
 longitude: -75.7186
 tags: [things_to_do, sight]
+score: 6.6
 ---
 
 Vista Alegre is the largest commercial winery in the Ica valley, founded in 1857 by the Picasso family. The estate is more industrial than Tacama but still worth a visit, with extensive cellars, modern bottling lines, and a tasting room that pours the full pisco range.

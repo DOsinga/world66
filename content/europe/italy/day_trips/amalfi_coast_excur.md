@@ -7,6 +7,7 @@ tags:
 - day_trip
 title: Amalfi Coast excursion
 type: poi
+score: 8.7
 ---
 
 The Amalfi Coast stretches about 50 kilometres along the southern side of the Sorrentine Peninsula, from Positano in the west to Vietri sul Mare in the east. The coastal road (SS163) is an experience in itself — carved into sheer cliffs with hairpin turns and views that make passengers forget about the driving.

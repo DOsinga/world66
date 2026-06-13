@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 34.2332
 longitude: 108.9499
 snippet: One of the three Tang temples where Indian Buddhism was translated into Chinese
+score: 7.9
 ---
 
 Founded in the late 3rd century, Daxingshan was one of the three great translation centres of Chinese Buddhism during the Tang dynasty (the others being Daci'en and Jianfu). The Indian monk Amoghavajra worked here in the 8th century to translate the foundational texts of esoteric Buddhism. The original buildings were destroyed in the late Tang and the present halls are mostly Qing-era reconstructions.

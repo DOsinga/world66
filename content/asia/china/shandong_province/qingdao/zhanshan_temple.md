@@ -6,6 +6,7 @@ tags:
   - sight
 title: Zhanshan Temple
 type: poi
+score: 8.2
 ---
 
 Built in 1934, Zhanshan Temple is the largest Buddhist temple in Qingdao and a working monastery with a resident community of monks. Unlike many Chinese temples that feel more like museums, this one has genuine religious activity — monks chanting in the main hall, incense burning in the courtyards, and pilgrims making offerings at dawn.

@@ -10,6 +10,7 @@ longitude: 21.0284
 snippet: "Hands-on science museum on the Vistula — one of the most visited attractions in Poland"
 sources:
   - https://en.wikipedia.org/wiki/Copernicus_Science_Centre
+score: 7.5
 ---
 
 The Copernicus Science Centre is one of the most visited museums in Poland, opened in 2010 on the Vistula embankment. It is an entirely hands-on experience: 450 interactive exhibits across four themed zones covering the human body, technology, mathematics, light, and sound. It also operates a planetarium and a rooftop garden with further exhibits.

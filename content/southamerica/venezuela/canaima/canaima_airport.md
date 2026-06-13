@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 6.2319
 longitude: -62.8542
+score: 6.2
 ---
 
 Canaima Airport (IATA code CAJ) is a single grass-and-asphalt strip on the edge of the village, served by small twin-engined Cessnas and Islanders from Ciudad Bolívar and Puerto Ordaz. It is the only practical way in and out for visitors: there is no road.

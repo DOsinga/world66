@@ -15,6 +15,7 @@ tags:
 title: National Museum of Colombo
 type: poi
 neighbourhood: Cinnamon Gardens
+score: 8.5
 ---
 
 The National Museum occupies a white Italianate building set in formal gardens in Cinnamon Gardens, opened in 1877. The collection spans Sri Lanka's history from prehistoric times through the Anuradhapura, Polonnaruwa, and Kandyan periods to the colonial era, and includes archaeological finds from across the island, traditional masks, ceremonial objects, and a strong section on the ancient hydraulic civilizations of the dry zone.

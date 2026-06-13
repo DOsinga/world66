@@ -8,6 +8,7 @@ snippet: The historic village restaurant once led by Michelin-starred Bernard Ro
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 The Relais de Bracieux was the village's gastronomic anchor for forty years, run by the chef Bernard Robin who held two Michelin stars from the 1980s into the early 2000s. Robin retired and the property has changed hands; under successive new owners, the kitchen has been more or less consistent in its Sologne cooking — game, freshwater fish, mushroom dishes, and the asparagus that grows just outside the village.

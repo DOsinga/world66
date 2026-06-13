@@ -15,6 +15,7 @@ story: >
   nearly a tonne of gold. When it closed, the underground workings were sealed
   and largely forgotten until they were reopened as a tourist attraction in 1986.
   Miners who worked the mine in its final years still guided the first tours.
+score: 9.0
 ---
 
 The Central Deborah is Bendigo's most visceral gold rush experience. Ninety-minute underground tours take you 60 metres below the surface into the actual tunnels where miners worked by candlelight, drilling and blasting quartz reefs in search of gold. Guides explain the geology, the equipment, and the brutal conditions — hard-rock gold mining was dangerous, exhausting work, and the mine did not let you forget it.

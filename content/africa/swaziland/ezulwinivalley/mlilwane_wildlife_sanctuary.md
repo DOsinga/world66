@@ -13,6 +13,7 @@ story: >
   Swazi king to back wildlife conservation at a time when most of the country's large mammals
   had already been hunted out. Reilly is largely credited with saving Swaziland's conservation
   movement.
+score: 8.8
 ---
 
 Mlilwane is Eswatini's oldest protected area, and it has an unusual quality: because it has no predators — lions, leopards, and hyenas were removed or never reintroduced — you can walk, cycle, or ride horses through the reserve without a guide. This makes for an experience that is quite different from the fenced-vehicle safari of larger African parks. You move at your own pace, the animals are habituated to people on foot, and warthogs and nyala graze within a few metres.

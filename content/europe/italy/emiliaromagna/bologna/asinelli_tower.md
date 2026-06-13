@@ -6,6 +6,7 @@ tags:
 - sights
 title: Asinelli Tower
 type: poi
+score: 8.5
 ---
 
 At 97 metres, the Asinelli Tower is the taller of Bologna's famous Two Towers and the tallest leaning medieval tower in Italy. Built between 1109 and 1119, it has served as a fortress, a prison, and a watchtower over the centuries.

@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 40.6285
 longitude: 14.4802
+score: 7.1
 ---
 
 Da Ferdinando sits right on Spiaggia del Fornillo, its tables practically in the water. It has been a Positano institution for decades — simple grilled fish, pasta with local clams, and bruschetta eaten with your feet in the pebbles and a boat tied up nearby. The menu doesn't change much and doesn't need to.

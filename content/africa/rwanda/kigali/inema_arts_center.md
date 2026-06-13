@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -1.9381
 longitude: 30.0786
+score: 7.6
 ---
 
 Inema Arts Center is the leading contemporary art space in Kigali, founded in 2012 by brothers Innocent and Emmanuel Nkurunziza in a converted building in Kacyiru. The gallery shows work by Rwandan and East African artists, with a focus on painting, sculpture, and mixed media. The name — Inema means "beautiful" in Kinyarwanda — sets the tone: this is a place that takes art seriously and presents it well.

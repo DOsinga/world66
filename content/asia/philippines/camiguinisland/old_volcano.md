@@ -13,6 +13,7 @@ story: >
   the new ground level — it now stands in a field of rough volcanic rock, its lower half underground,
   its bells still intact in the upper story. The effect is surreal: a full-sized belfry emerging from
   the ground as if the earth is slowly swallowing it.
+score: 8.0
 ---
 
 The ruins of Gui-ob Church (sometimes called the Old Volcano) stand on the lower slopes of Mount Vulcan Daan — the oldest of Camiguin's seven volcanoes, which erupted in 1871 and buried this entire settlement. The 19th-century Spanish colonial church was overwhelmed by lava and ash; what remains is the stone campanile protruding from the solidified volcanic field, surrounded by rough black rock and sparse vegetation slowly reclaiming the surface.

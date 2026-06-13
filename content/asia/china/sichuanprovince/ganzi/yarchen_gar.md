@@ -16,6 +16,7 @@ story: >
   beyond the temple itself; monks and nuns live in small wooden cabins that they
   build and own. In winter, floodwaters rise around the settlement, sometimes
   isolating it entirely.
+score: 9.4
 ---
 
 Yarchen Gar is one of the most extraordinary places in western China and genuinely unlike anything else in the world. About 80 kilometres south of Ganzi on a flat floodplain surrounded by grassy hills, the settlement consists of a central temple complex surrounded by thousands of tiny wooden cabins packed tightly together — a temporary-looking city of pure religious devotion. The resident community of monks and nuns numbers in the thousands and runs into the tens of thousands during major teaching periods.

@@ -8,6 +8,7 @@ snippet: A bronze fountain memorial to the Cleveland war dead
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The Fountain of Eternal Life is a 35-foot bronze and granite memorial on the Mall, sculpted by Marshall Fredericks and dedicated in 1964. A single male figure rises from a circle of flames, ringed by four sphinxes that face the cardinal directions, in a composition that the artist described as "Peace Arising from the Flames of War."

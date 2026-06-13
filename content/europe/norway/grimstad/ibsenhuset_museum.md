@@ -13,6 +13,7 @@ story: >
   tending the dispensary. When he finally left for Christiania in 1850, he left
   most of his possessions behind and never returned. The museum preserves
   exactly the room where he worked and wrote, unchanged in its essentials.
+score: 8.6
 ---
 
 The Ibsen Museum in Grimstad is Norway's oldest museum of its kind and the best place to understand the playwright's formative years. The young Henrik Ibsen came here aged 15 to work as a pharmacist's apprentice and spent six difficult years in Grimstad before escaping to Christiania (now Oslo) in 1850. The original pharmacy — where he tended the dispensary and, in his spare moments, wrote his first play — has been preserved and opened to the public.

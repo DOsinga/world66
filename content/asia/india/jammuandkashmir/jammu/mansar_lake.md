@@ -7,6 +7,7 @@ tags:
   - day_trip
 latitude: 32.6950
 longitude: 75.1400
+score: 6.8
 ---
 
 A natural lake about 60 km east of Jammu, Mansar is sacred to Hindus and draws a mix of pilgrims and day-trippers. The Sheshnag Temple on the lake shore — dedicated to the serpent deity — is the main religious site, and the water itself is considered holy. Boating on the lake is permitted and popular with local families.

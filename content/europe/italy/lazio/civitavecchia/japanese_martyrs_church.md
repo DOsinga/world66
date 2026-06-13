@@ -15,6 +15,7 @@ story: >
   style. The link to Civitavecchia comes via the samurai-diplomat Hasekura
   Tsunenaga, who landed at the port on his 1615 papal mission and is
   commemorated by a statue nearby.
+score: 7.8
 ---
 
 A small 20th-century church on the seafront with one truly distinctive feature: the interior is covered floor to ceiling with frescoes and mosaics by the Japanese Catholic artist **Luca Hasegawa**, depicting the martyrdoms of 1597 and other scenes of early Japanese Christianity. The style fuses Italian religious painting with Japanese woodblock-print sensibilities — figures with Asian features, kimonos, and Japanese landscape backgrounds.

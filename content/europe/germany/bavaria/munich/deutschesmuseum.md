@@ -11,6 +11,7 @@ tags:
 title: Deutsches Museum
 type: poi
 url: www.deutsches-museum.de
+score: 9.4
 ---
 
 The largest museum of science and technology in the world, spread across an island in the Isar. The collection spans classical mechanics to space travel, with over 28,000 objects on display. Highlights include a walk-through replica coal mine, an entire aviation hall, a Faraday cage with live lightning demonstrations, and original equipment from pioneers like the Wright brothers and Rudolf Diesel.

@@ -8,6 +8,7 @@ latitude: 12.7289
 longitude: 103.1239
 story: >
   Wat Banan is sometimes called the little Angkor Wat, and while the comparison overstates it, the structural similarities are real. Built in the 11th century during the same Khmer empire period that produced Angkor, the five towers of Wat Banan are laid out in a pattern that predates Angkor Wat by several decades, making it a predecessor rather than an imitation.
+score: 7.9
 ---
 
 Wat Banan sits atop a hill 25 kilometres south of Battambang, reached by a climb of some 350 steps that passes through jungle and past old stone carvings. The hilltop reveals five Angkorian towers built from laterite and sandstone in the 11th century, ruined but recognisably Khmer. The views across the rice paddies and fruit orchards of the Battambang plain from the temple's base are excellent.

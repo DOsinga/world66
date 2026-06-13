@@ -8,6 +8,7 @@ tags:
 - mall
 title: Shangri-La Plaza
 type: poi
+score: 5.5
 ---
 
 Shangri-La Plaza sits opposite SM Megamall on EDSA and aims at a more affluent clientele — international luxury brands, a curated selection of restaurants, and the Grand Atrium performance space where weekend concerts and cultural events happen. The mall is connected to the adjacent EDSA Shangri-La hotel by an air-conditioned walkway, and together they anchor the most polished end of the Ortigas commercial district.

@@ -9,6 +9,7 @@ latitude: 33.20861
 longitude: -87.56805
 story: >
   The Bama Theatre opened in 1938 as a movie palace in the atmospheric Spanish Colonial Revival style. It survived the downtown decline of the 1970s and 1980s — narrowly, and only through the efforts of local preservationists who converted it into a performing arts center. The painted ceiling and ornate proscenium arch are intact. It is one of the best surviving examples of a small-town American movie palace in the South.
+score: 7.2
 ---
 
 The Bama Theatre is an atmospheric 1938 movie palace on Greensboro Avenue, now Tuscaloosa's main performing arts venue. The building's Spanish Colonial Revival interior — barrel-vaulted ceiling, ornate plasterwork, and warm lighting — was designed to transport patrons from Depression-era Alabama into something altogether more glamorous.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 23.6580
 longitude: 116.6300
+score: 7.2
 ---
 
 Chaozhou street food centres on the night market area near the old city, where vendors set up from early evening serving a rotating cast of Teochew snacks: rice noodle rolls (kueh chap) in a dark herbal broth, oyster omelette, and various cold dishes of marinated tofu, vegetables, and offal from the lu wei master stock. Most stalls are cash-only and serve until late.

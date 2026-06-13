@@ -8,6 +8,7 @@ longitude: 131.07
 tags:
 - things_to_do
 - sight
+score: 8.1
 ---
 
 Talinguru Nyakunytjaku — "place to look from the sand dunes" — is the park's purpose-built sunrise viewing area on the eastern side of Uluru, with a network of raised platforms and short paths that thin out the crowds. From here you can see both Uluru and, on the western horizon, the silhouette of Kata Tjuta.

@@ -15,6 +15,7 @@ story: >
   with no medical training beyond a manual and instructions radioed from a naval doctor 
   in Australia. The sailor survived. The Silversides survived. Most things they went up 
   against did not.
+score: 8.2
 ---
 
 The USS Silversides (SS-236) is one of the most decorated and best-preserved WWII submarines in existence, permanently moored on the Muskegon waterfront and open for self-guided tours. She earned the Presidential Unit Citation for her extraordinary record in the Pacific — second only to the USS Wahoo in confirmed tonnage sunk — and you can walk through the full length of the boat, from the forward torpedo room through the cramped crew quarters, engine room, and control room.

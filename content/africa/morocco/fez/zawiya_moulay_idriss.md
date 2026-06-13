@@ -8,6 +8,7 @@ tags:
 title: Zawiya of Moulay Idriss I
 type: poi
 snippet: "The hilltop tomb of Fez's founder in Zerhoun, worth a day trip"
+score: 5.4
 ---
 
 While the great shrine of the city is the Zaouia Moulay Idriss II in the heart of Fes el-Bali, the founder himself — Moulay Idriss I, who established the first settlement on this site in 789 — is buried in Moulay Idriss Zerhoun, a small hill town about 60km northwest of Fez near the Roman ruins of Volubilis. The town that grew around his grave is itself an important pilgrimage destination.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -22.7468
 longitude: -41.8817
+score: 5.7
 ---
 
 Anexo is one of the better bars on Rua das Pedras, with an open terrace that fills up from early evening and stays busy until late. The cocktail list is serious for a beach town: the caipirinhas are made with premium cachaça from the interior of Brazil, and the bartenders take a reasonable amount of pride in their work. Food is available — grilled meats, small plates — but the bar is the real draw.

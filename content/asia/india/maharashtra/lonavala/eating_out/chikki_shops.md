@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 18.7500
 longitude: 73.4067
+score: 5.9
 ---
 
 Lonavala's defining product and the thing most visitors leave with: **chikki**, a hard brittle made from peanuts (or cashews, almonds, sesame, or coconut) bound with jaggery — unrefined cane sugar. The result is a dense, sweet-crunchy slab that keeps well and travels without refrigeration, making it the ideal gift-from-the-hills. Dozens of variants exist — peanut is the standard, cashew is the premium version — and most shops also sell a softer **fudge** (more like a dense toffee) in chocolate and other flavours.

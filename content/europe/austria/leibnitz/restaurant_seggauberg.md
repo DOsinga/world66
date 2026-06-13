@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 46.7806
 longitude: 15.5233
+score: 5.5
 ---
 
 The restaurant at Schloss Seggau offers the most scenic dining in the area, with a terrace looking out over the vineyards toward Slovenia. The menu focuses on Styrian regional cooking — pumpkin seed salad, local beef, seasonal game — paired sensibly with wines from the estate's own cellar.

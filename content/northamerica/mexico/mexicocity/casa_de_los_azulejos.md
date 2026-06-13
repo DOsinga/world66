@@ -7,6 +7,7 @@ neighbourhood: Centro Histórico
 address: "Avenida Francisco I. Madero 4"
 latitude: 19.4334
 longitude: -99.1399
+score: 7.0
 ---
 
 The House of Tiles is a Baroque palace whose façade is entirely clad in azulejo tiles from Puebla. Built for the Counts of the Valle de Orizaba in the 16th and 17th centuries, the tile cladding was added in the 18th, supposedly after the family heir had been told he would never amount to "a house of tiles." Today it houses a branch of the Sanborns chain — a department-store-cum-restaurant — and you can sit in the central courtyard for a coffee.

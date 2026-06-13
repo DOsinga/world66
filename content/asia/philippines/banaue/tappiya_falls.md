@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.9392
 longitude: 121.1365
+score: 8.1
 ---
 
 A 70-metre waterfall in a deep pool below Batad village, reached by an hour's hike on a stone path through the terraces. The walk down loses several hundred metres of elevation; the walk back is brutal, especially in the heat. But the pool at the bottom is cold and deep, you can swim, and at midweek you may have it more or less to yourself. Local guides from Batad are mandatory and charge a flat rate per group.

@@ -7,6 +7,7 @@ tags:
 latitude: 27.5848
 longitude: 89.8699
 story: "At roughly 160 metres long, the Punakha Suspension Bridge is one of the longest traditional suspension bridges in Bhutan. It swings above the Pho Chhu river, decorated with prayer flags that ripple in the river breeze, offering views upstream toward the pale bulk of Punakha Dzong."
+score: 8.3
 ---
 
 The Punakha Suspension Bridge is one of the longest traditional suspension bridges in Bhutan, spanning the Pho Chhu (Male River) near the dzong. It is draped in prayer flags and sways gently as you cross, with the river visible far below through the wooden planks. The crossing takes only a few minutes but feels adventurous, and the view upstream toward Punakha Dzong from the middle of the bridge is one of the best vantage points in the valley.

@@ -7,6 +7,7 @@ snippet: Lithuania's main contemporary art institution, in a Soviet-era building
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 The Contemporary Art Centre (Šiuolaikinio meno centras) on Vokiečių Street is Lithuania's main institution for international contemporary art. The large exhibition spaces — housed in a former administrative building — host rotating shows that bring significant international artists to Vilnius alongside Lithuanian contemporary work. The programming is ambitious for a city of this size.

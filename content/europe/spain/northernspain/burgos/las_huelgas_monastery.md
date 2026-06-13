@@ -12,6 +12,7 @@ story: >
   shrouds and textiles inside were so well-preserved that they are now among
   the most important examples of twelfth and thirteenth-century Spanish textile
   art in existence.
+score: 8.6
 ---
 
 The Monastery of Santa María la Real de Las Huelgas is one of the most important Cistercian foundations in Spain, still inhabited by a community of Cistercian nuns and housing the royal pantheon of medieval Castile. Founded by Alfonso VIII and his wife Eleanor of England (daughter of Henry II and Eleanor of Aquitaine), it was the most powerful convent in Spain for centuries — the abbess had the authority to hear confessions, a power normally reserved for priests.

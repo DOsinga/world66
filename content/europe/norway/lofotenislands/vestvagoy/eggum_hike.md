@@ -8,6 +8,7 @@ latitude: 68.2053
 longitude: 13.6048
 story: >
   The outdoor sculpture at Eggum is by Swiss artist Markus Raetz, who is known for works that change completely as you move around them. Seen from one angle it reads as a human face; from another it dissolves into abstract form. It was installed in 1992 and has weathered into the landscape beautifully, becoming part of the place rather than a foreign intrusion — which is exactly what Raetz intended.
+score: 8.2
 ---
 
 The old coastal footpath from Unstad to Eggum is one of the finest short hikes in Lofoten — about 5 km one way, along cliff tops with views across to the outer islands and down onto rocky coves. The path is well-marked and manageable in good conditions, though sections can be muddy after rain. It attracts everyone from serious hikers to families with children, and the contrast between the exposed coast and the sheltered valleys inland is striking throughout.

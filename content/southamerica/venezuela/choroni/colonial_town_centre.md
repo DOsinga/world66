@@ -11,6 +11,7 @@ story: >
   Choroni was founded in the late sixteenth century as an agricultural settlement growing cacao and sugar. The colonial street grid and many of the coloured houses date from the eighteenth century, surviving relatively intact because the town was too isolated and economically marginal to attract the kind of development that altered other Venezuelan coastal towns.
 sources:
   - https://en.wikipedia.org/wiki/Choron%C3%AD
+score: 7.2
 ---
 
 Choroni's colonial centre is a small grid of streets lined with colourful painted houses with terracotta roofs, wooden shuttered windows, and shaded verandas. The Plaza Bolívar at the centre is the social hub of the town itself (not to be confused with Puerto Colombia's plaza, a short walk away, which handles the beach crowd). At midday, the shaded streets are empty and quiet; in the early morning and late afternoon, local life moves at an unhurried pace through the market and the shops along the main street.

@@ -10,6 +10,7 @@ longitude: 27.908617
 story: "Hector Pieterson was 12 years old when he was shot dead by police on 16 June 1976, the first child killed in the student uprising. The photograph of his body being carried by a fellow student, with his sister running alongside, became one of the most published images of the apartheid era — seen by millions worldwide and instrumental in building international pressure against the South African government."
 sources:
   - https://en.wikipedia.org/wiki/Hector_Pieterson_Museum
+score: 8.8
 ---
 
 The Hector Pieterson Museum stands on the site of the 16 June 1976 uprising in Orlando West, where schoolchildren protesting the imposition of Afrikaans as a medium of instruction were met with police gunfire. Hector Pieterson, aged 12, was among the first to be killed; the museum takes his name and documents the uprising and its context in detail.

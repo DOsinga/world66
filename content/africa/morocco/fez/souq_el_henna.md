@@ -9,6 +9,7 @@ tags:
 title: Souq el-Henna
 type: poi
 snippet: "Small square selling henna, kohl, and traditional cosmetics beside Dar Batha"
+score: 7.3
 ---
 
 The Henna Souk is a small, pleasant square near Place Nejjarine where vendors sell traditional cosmetics and medicines: powdered henna, kohl, argan oil, oud resin, dried flowers used in Moroccan medicine, and the black antimony that Fassi women use as eyeliner. The pace is lower-key than the main souk thoroughfares, and the products are genuinely local rather than made-for-tourist.

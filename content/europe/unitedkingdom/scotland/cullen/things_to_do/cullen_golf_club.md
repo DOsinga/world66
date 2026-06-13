@@ -7,6 +7,7 @@ tags:
 - sport
 title: Cullen Golf Club
 type: poi
+score: 5.6
 ---
 
 Founded in 1870, Cullen Golf Club sits on the cliffs at the west end of town with sweeping views over the Moray Firth. The 18-hole course is short but tricky, with sea winds and undulating terrain keeping things interesting. Popular with both locals and visitors, and green fees are reasonable. The clubhouse serves drinks and light meals.

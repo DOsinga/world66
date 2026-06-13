@@ -10,6 +10,7 @@ latitude: 53.3036
 longitude: -1.1156
 sources:
   - https://en.wikipedia.org/wiki/Worksop_Priory
+score: 7.9
 ---
 
 Worksop Priory — formally the Priory Church of Our Lady and Saint Cuthbert — is the finest medieval building in the town and one of the more substantial Norman survivals in the East Midlands. Founded as an Augustinian priory in the twelfth century, the nave of the church is largely original Norman and Early English work, with characteristically solid round pillars and deep-set windows.

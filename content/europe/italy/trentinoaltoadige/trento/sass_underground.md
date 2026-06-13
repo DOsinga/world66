@@ -13,6 +13,7 @@ story: >
   more than a decade of excavation and engineering the site was opened to the public in
   2008 — preserved in situ under glass walkways with the modern city humming directly
   overhead.
+score: 8.1
 ---
 
 SASS (Spazio Archeologico Sotterraneo del Sas) is a striking underground museum directly beneath the Piazza Cesare Battisti, in the centre of Trento. The site exposes a substantial section of the Roman city of Tridentum — paved streets, the foundations of houses, a stretch of the eastern city wall and gate, and the remains of a bath complex.

@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/West_Main_Street_Historic_District_(Oconto,_Wisconsin)
+score: 5.8
 ---
 
 A historic district along West Main Street in the city of Oconto, listed on the National Register of Historic Places for its collection of commercial and residential buildings from the late nineteenth and early twentieth centuries. The district reflects the prosperity that came to Oconto County during the logging boom of the 1880s and 1890s, when the timber from the northern forests moved through the county's mills and the money built solid brick storefronts and comfortable houses.

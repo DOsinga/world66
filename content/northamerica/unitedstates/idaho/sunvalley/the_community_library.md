@@ -6,6 +6,7 @@ longitude: -114.3617
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 A privately funded, free-to-use library in central Ketchum that has been open since 1955. It runs an outsized programme for a town of seven thousand people — author talks, lecture series, oral-history projects, and a strong regional history collection in the Regional History Department on the second floor.

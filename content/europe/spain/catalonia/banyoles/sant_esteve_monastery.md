@@ -13,6 +13,7 @@ story: >
   Its relics drew pilgrims on the route to Santiago de Compostela, and the town of
   Banyoles grew up to serve them — the market square, the old town grid, all of it
   traces back to this original monastic foundation.
+score: 7.4
 ---
 
 The Benedictine monastery of Sant Esteve is the oldest standing religious building in Banyoles, its origins in the 8th century predating much of Catalonia's better-known monastic heritage. The current building is primarily Romanesque and Gothic, rebuilt in stages from the 12th century onward, with a fine Gothic cloister and a Romanesque apse at its oldest core.

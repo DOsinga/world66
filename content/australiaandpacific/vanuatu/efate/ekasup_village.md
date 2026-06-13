@@ -6,6 +6,7 @@ longitude: 168.3433
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Ekasup is a working ni-Vanuatu village a short drive east of Port Vila that runs cultural tours for visitors. The guides — villagers in traditional dress — walk you through kava preparation, medicinal plant gardens, basket weaving, and a custom dance.

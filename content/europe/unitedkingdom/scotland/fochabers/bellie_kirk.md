@@ -15,6 +15,7 @@ story: >
   statement of ducal ambition as much as a place of worship.
 sources:
   - https://en.wikipedia.org/wiki/Bellie_Kirk
+score: 6.4
 ---
 
 Bellie Kirk stands at the heart of the planned village, its neoclassical facade giving the main square much of its Georgian character. Built in 1798 to a design commissioned by the Duke of Gordon, it follows the pattern of many Scottish parish churches of the period — a formal exterior with a functional interior — but the quality of the stonework and the proportions of the portico lift it above the ordinary.

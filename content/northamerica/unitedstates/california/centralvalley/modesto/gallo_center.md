@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Gallo Center is downtown Modesto's main performing arts venue, opened in 2007 on the site of an old department store. The 1,200-seat Mary Stuart Rogers Theater and the smaller Foster Family Theater host touring Broadway shows, the Modesto Symphony Orchestra, opera and ballet, comedy nights and lectures.

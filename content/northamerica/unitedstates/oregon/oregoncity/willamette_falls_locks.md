@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Oldest multi-lift navigation locks in the United States, completed 1873"
+score: 6.8
 ---
 
 The Willamette Falls Locks are a canal lock system built around the falls to allow river navigation past the cascade. Completed in 1873, they are the oldest multi-lift navigation locks still in existence in the United States. The locks enabled steamboat and barge traffic on the upper Willamette River, opening the interior of Oregon to commercial development.

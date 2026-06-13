@@ -4,6 +4,7 @@ longitude: 30.2055
 tags: [things_to_do, sight]
 title: Slavianski Bazaar Festival
 type: poi
+score: 6.7
 ---
 
 The Slavianski Bazaar (Slavic Bazaar) is Vitebsk's major annual event — an international festival of music and performing arts held each July that draws performers and visitors from across the former Soviet Union and beyond. The main concerts take place at the open-air Summer Amphitheatre, a large purpose-built venue that holds thousands of people. The festival atmosphere transforms the city centre for the week it runs: outdoor stages, street food, and crowds that are unusual in a city of Vitebsk's otherwise quiet temperament.

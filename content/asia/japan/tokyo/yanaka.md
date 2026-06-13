@@ -7,6 +7,7 @@ tags:
 latitude: 35.7271
 longitude: 139.7667
 snippet: Old-Tokyo neighbourhood that survived earthquakes and bombs, still feels like Edo
+score: 9.3
 ---
 
 Yanaka is Tokyo's most intact old neighborhood — a warren of temples, wooden houses, craft shops, and narrow lanes in northern Tokyo that survived the 1923 earthquake and the 1945 firebombing largely unscathed. Walking here feels like stepping back a hundred years, not because it is preserved in amber but because it continued developing at its own pace while the rest of the city was rebuilt from scratch.

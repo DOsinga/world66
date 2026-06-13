@@ -9,6 +9,7 @@ tags:
 address: '114 West Central Avenue'
 latitude: 36.702778
 longitude: -97.084722
+score: 6.4
 ---
 
 The Ponca City Milling Company Elevator — universally known locally as the Robin Hood Elevator, after the Robin Hood flour brand once milled here — is a complex of cylindrical concrete grain silos built in the 1920s on the west side of downtown. It is one of a vanishing type of small-city grain elevator that once stood beside the railway in every farming town in the Great Plains.

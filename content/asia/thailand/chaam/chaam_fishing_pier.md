@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.8007
 longitude: 99.9647
+score: 5.8
 ---
 
 The fishing pier at the northern end of Ruamchit Road is a pleasant place to spend an early evening. Local fishermen haul in squid and mackerel while vendors set up charcoal grills along the pier's edge, and the light off the Gulf at dusk can be spectacular. It is not a tourist attraction in any formal sense — just one of those spots that gives a town its texture.

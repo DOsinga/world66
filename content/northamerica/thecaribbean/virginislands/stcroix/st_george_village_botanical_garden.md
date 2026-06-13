@@ -14,6 +14,7 @@ story: >
   a place where you walk through tropical horticulture and plantation history
   simultaneously — the native plants and the ruins coexist without one
   being dressed up to obscure the other.
+score: 7.2
 ---
 
 St. George Village Botanical Garden occupies 16 acres in the island's center, laid out across the remains of a Danish-era sugar plantation workers' village that was abandoned after the 1878 labor rebellion. The garden specializes in native and naturalized Caribbean plants, with collections of tropical fruit trees, medicinal plants, and the dry forest species that once covered much of St. Croix before plantation agriculture cleared it. The ruins of the plantation village — cisterns, sugar boiling house, estate buildings — are woven into the garden paths.

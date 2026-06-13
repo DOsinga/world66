@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 43.7892
 longitude: 4.8320
+score: 7.2
 ---
 
 Saint-Rémy's Wednesday morning market takes over the Place de la République and the surrounding streets of the old town from 8am to 1pm, and it is one of the best markets in the Alpilles. The stalls sell fresh vegetables, herbs (dried lavender, herbes de Provence, thyme by the bunch), cheeses, charcuterie, olives, local olive oil, and honey. There are also fabric and clothing stalls, and sellers of Provençal textiles — the bright printed cotton patterns that have become synonymous with the region.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - beach
 story: Teluk Cempedak — Cempedak Bay, named after a fruit tree — was once a quiet fishing beach before the Hyatt arrived in the 1980s and put it on the tourist map. Unlike the long exposed strands further up the coast, the bay is naturally sheltered by headlands on both sides, which keeps the water calmer than elsewhere on Pahang's coast even during the northeast monsoon season.
+score: 8.4
 ---
 
 Kuantan's main beach sits about five kilometres east of the city centre, a genuine bay rather than an exposed stretch of coast. The headlands on either side break the swell, making the water calmer than at most east-coast Malaysian beaches. The sand is pale and wide at low tide, and the promontory to the north has a short trail through secondary forest to a viewpoint.

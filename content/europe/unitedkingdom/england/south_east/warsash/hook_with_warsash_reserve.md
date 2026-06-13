@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 7.7
 ---
 
 The intertidal mudflats and salt marshes along the Solent shore south of the village form one of the south coast's most important wintering grounds for wading birds. Brent geese (over 1,000 wintering at the peak count), curlew, redshank, and the occasional spoonbill are all reliably present from October to March.

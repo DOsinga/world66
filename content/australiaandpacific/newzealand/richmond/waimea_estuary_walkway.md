@@ -6,6 +6,7 @@ tags:
 - sight
 title: Waimea Estuary Walkway
 type: poi
+score: 6.4
 ---
 
 The Waimea Estuary Walkway runs from central Richmond north to the estuary edge, following the course of the Waimea River through riverside reserves and past wetland areas. The full path takes about ninety minutes each way; most people walk the first half-hour to the river bend and back, which gives a good taste of the landscape without a long commitment.

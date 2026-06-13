@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 52.3817
 longitude: 5.1657
+score: 6.3
 ---
 
 The **Pampushout** is the broad belt of mixed woodland that wraps the western flank of Almere, between Almere-Stad and Almere-Poort. It was planted from scratch on the new polder soil in the 1970s and 80s — mostly poplar, willow and birch, with some oak and pine — and is now a full-grown forest crossed by an excellent network of cycle paths, bridle ways and footpaths.

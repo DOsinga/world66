@@ -8,6 +8,7 @@ tags:
 latitude: 18.449
 longitude: -64.431
 snippet: The small administrative centre of Virgin Gorda, also known as The Valley
+score: 5.8
 ---
 
 Spanish Town — known locally as The Valley — is the only settlement on Virgin Gorda of any size. About 2,000 of the island's 4,000 residents live in or near it. The name dates from the 16th century when the Spanish briefly held the area; almost nothing of that period survives, but the name has stuck. The town stretches along a flat valley between two ridges on the south-west coast, with the ferry dock and Yacht Harbour at one end and the airport about a mile inland.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3807
 longitude: -4.1034
+score: 5.9
 ---
 
 The Zoo de Santillana del Mar is one of the larger zoological parks in the north of Spain, set in attractive grounds on the outskirts of town. It specialises in conservation of endangered species and has a notable collection of iberian wolves, along with big cats including snow leopards and Asiatic lions. The zoo is particularly focused on Iberian fauna and European wildlife conservation programmes.

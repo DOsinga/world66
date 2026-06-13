@@ -8,6 +8,7 @@ tags:
 - landmark
 title: The Pack o' Cards
 type: poi
+score: 7.5
 ---
 
 The Pack o' Cards is a Grade II*-listed early-Georgian house in the centre of Combe Martin, instantly recognisable by its tiered profile of four shrinking floors stacked one on top of the other. The building's iconography is unmistakable: 52 windows for the cards in a deck, 13 doors for the cards in each suit, four floors for the suits, and four turrets for the aces. It was built around 1690 by Squire George Ley, supposedly from a card-game windfall.

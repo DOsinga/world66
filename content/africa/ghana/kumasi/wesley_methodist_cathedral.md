@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 6.6936
 longitude: -1.6233
+score: 6.1
 ---
 
 A white-and-grey landmark just south of Adum, Wesley Methodist Cathedral is one of the most visible reminders of Ghana's deep Methodist roots. The current building dates from the 1930s and replaced an earlier mission chapel. Sunday services here are loud, joyous, and packed.

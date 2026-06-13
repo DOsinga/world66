@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 52.22200
 longitude: 6.89600
+score: 7.1
 ---
 
 Enschede had a substantial Jewish community in the 19th and early 20th centuries, drawn by the textile industry that dominated the region. The community was disproportionately hard hit during the Second World War — Enschede's proximity to the German border meant deportations began early. Remarkably, the community's rabbi, Leizer Lewi, helped hide more than 100 Jewish families in the Twente countryside, an operation that saved many lives.

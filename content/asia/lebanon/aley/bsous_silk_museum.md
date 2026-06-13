@@ -6,6 +6,7 @@ longitude: 35.5721
 tags:
   - things_to_do
   - museum
+score: 8.3
 ---
 
 About four kilometres west of Aley, in the village of Bsous, a restored 19th-century silk factory now houses a small but excellent museum about Lebanon's silk trade. The Mount Lebanon silk industry was a major source of wealth in the 1800s — French capital, mulberry trees on every terrace, and tens of thousands of women winding silk in small filatures. The Bsous building is one of the few that survived the industry's collapse after the First World War.

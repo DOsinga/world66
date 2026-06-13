@@ -13,6 +13,7 @@ tags:
 - sight
 title: Changlimithang Stadium
 type: poi
+score: 6.1
 ---
 
 Bhutan's national stadium, located in the centre of Thimphu near the Wang Chhu river. Outside major sporting events, the ground is used for traditional archery tournaments — regular fixtures that are open to the public. Watching a Bhutanese archery contest is one of the more unusual spectator experiences available in the country: archers shoot from 145 metres, and a hit on the small wooden target triggers a ritual dance from the scorer's teammates. The stadium is also one of the main venues for the Thimphu Tshechu festival in autumn.

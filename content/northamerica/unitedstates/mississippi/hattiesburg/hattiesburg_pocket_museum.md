@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 31.3275
 longitude: -89.2858
+score: 6.6
 ---
 
 The Hattiesburg Pocket Museum is a tiny rotating exhibition space in a former alleyway window in downtown Hattiesburg — a miniaturised museum display visible through a street-level window, changing several times a year with new themes and tiny artefacts. It's a micro-institution: the curatorial effort is serious, the scale is deliberately absurd.

@@ -3,6 +3,7 @@ title: "Château Park"
 type: poi
 latitude: 47.006
 longitude: 0.318
+score: 7.9
 ---
 
 The park that once surrounded Cardinal Richelieu's demolished château now survives as a 1,000-acre (400-hectare) public garden — an unexpected expanse of green for a small provincial town. The layout follows the formal French tradition associated with Le Nôtre: long, straight tree-lined allées, geometric planting, and a strong central axis.

@@ -11,6 +11,7 @@ tags:
   - sight
   - park
 neighbourhood: Baixa
+score: 8.2
 ---
 
 The **Jardim Tunduru** (Tunduru Gardens) is the green core of central Maputo — a small but mature botanical garden laid out in 1885 by the English landscape gardener Thomas Honney. The layout follows the formal Victorian style: looping paths, statues on plinths, sculpted lawns and an avenue of date palms. The trees, more than a century old now, are the real attraction: huge banyans, a baobab, a stand of Madagascar travellers' palms, and several specimens that turn up nowhere else in central Maputo.

@@ -6,6 +6,7 @@ longitude: 148.2920
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The **Humbug Point Nature Recreation Area** sits on the northern shore of Georges Bay, between St Helens and Binalong Bay. A network of marked walking tracks runs through dry coastal forest and along the shoreline; the **Skyline Tier track** climbs to a granite outcrop with panoramic views over the bay, the town, and the open sea.

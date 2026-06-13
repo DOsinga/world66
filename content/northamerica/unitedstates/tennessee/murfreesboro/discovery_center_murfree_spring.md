@@ -8,6 +8,7 @@ latitude: 35.8386
 longitude: -86.3869
 sources:
   - https://en.wikipedia.org/wiki/Discovery_Center_at_Murfree_Spring
+score: 6.5
 ---
 
 The Discovery Center is a children's museum and nature centre built around the Murfree Spring wetlands, one of the few natural spring complexes remaining in Middle Tennessee. The museum has interactive science and history exhibits aimed at younger visitors, but the boardwalk through the wetlands is interesting for adults too — it passes through a small but genuine wetland ecosystem in the middle of the city, with herons, turtles, and seasonal wildflowers.

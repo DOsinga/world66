@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.81
 longitude: -171.68
+score: 7.8
 ---
 
 The most historically notable feature on Kanton is the remains of the Pan American Airways refuelling base established in 1939. Pan Am built the facility to support its Boeing 314 Clipper flying boat service connecting Hawaii, Samoa, and New Zealand — a route that required a mid-ocean fuel stop that only a few remote atolls could provide. Kanton's sheltered lagoon was ideal. Buildings, infrastructure, and the bones of the flying boat era remain on the island in various stages of tropical decay.

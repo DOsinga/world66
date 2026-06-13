@@ -12,6 +12,7 @@ story: >
   days of masked dance-dramas. The performances re-enact the victory of Buddhism over
   the old Bon religion and are accompanied by the deep drone of long copper horns —
   ragdong — that can be heard across the valley floor below.
+score: 8.5
 ---
 
 Karsha is the largest and most important monastery in Zanskar, a complex of white-walled buildings that climbs the cliffs on the north side of the valley, directly across the Stod River from Padum. Around 150 monks are resident here, and the monastery belongs to the Gelugpa school, the same order as the Dalai Lama. The complex includes a number of temples of different periods, the oldest sections dating to around the 10th century.

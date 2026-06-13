@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.415
 longitude: -68.937
+score: 5.6
 ---
 
 The Casa de Campo marina sits along a protected inlet a few kilometres from La Romana town and functions as a self-contained village of waterfront restaurants, boutiques, ice cream shops, and a small fishing port. The marina itself berths yachts from across the Caribbean and regularly hosts regattas. Non-guests of the Casa de Campo resort can drive or taxi in, use the restaurants, and walk the dockside promenade.

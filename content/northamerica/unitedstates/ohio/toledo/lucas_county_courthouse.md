@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.7
 ---
 
 The Lucas County Courthouse on Adams Street is downtown Toledo's most imposing 19th-century building — a Beaux-Arts pile of Berea sandstone and Indiana limestone topped with a 196-foot dome, completed in 1897. The interior atrium is open to the public on weekdays and is worth a look for the marble staircases, the bronze and marble figures, and the murals in the rotunda.

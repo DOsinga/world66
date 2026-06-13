@@ -7,6 +7,7 @@ tags:
 latitude: 51.86
 longitude: -4.31
 snippet: The earthworks of the Roman amphitheatre of Moridunum, the only visible Roman site in west Wales
+score: 6.9
 ---
 
 The Roman town of Moridunum was the tribal capital of the Demetae and one of only two Roman *civitates* (chartered towns) in Wales — the other being Caerwent in the south-east. It covered roughly the area of the modern eastern town centre, but almost nothing survives above ground. The exception is the amphitheatre, which sits in a small grassed enclosure off Priory Street on the eastern edge of the town.

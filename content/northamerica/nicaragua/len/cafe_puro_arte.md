@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 12.4349
 longitude: -86.8781
+score: 6.2
 ---
 
 Café Puro Arte is a popular gathering place that functions as both a café and a cultural venue — exhibitions of photography and painting rotate on the walls, and occasional live music fills the interior courtyard. It serves good Nicaraguan coffee and a range of drinks, and the atmosphere is more relaxed than the party-oriented hostels.

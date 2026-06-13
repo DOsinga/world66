@@ -9,6 +9,7 @@ story: >
   above the desert floor. It is the world's second-largest monolith after Uluru in
   Australia. The comparison is apt in more than size: both are ancient, isolated rock
   masses in vast flat desert, and both inspire a similar sense of geological improbability.
+score: 8.7
 ---
 
 Ben Amera is a massive granite inselberg rising dramatically from the flat desert about 100 km south of Zouerate, near the border with Western Sahara. At 633 metres above the surrounding plain, it is Africa's largest monolith and one of the most remarkable geological formations on the continent. The approach road is sandy piste requiring a 4x4; guided trips from Zouerate are possible, and the drive through open desert is itself worth the journey.

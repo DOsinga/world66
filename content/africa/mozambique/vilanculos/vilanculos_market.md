@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -21.9996
 longitude: 35.3167
+score: 6.6
 ---
 
 The central market in Vilanculos is a good place to spend an hour on any morning. Stalls sell fresh fish brought in daily from the bay, fruit, vegetables, and spices. The dhow-building and repair work that goes on at the beach nearby is worth watching too — the boats are made with hand tools using local timber, the same way they have been for centuries.

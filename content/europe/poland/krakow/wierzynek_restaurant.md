@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 50.0603
 longitude: 19.9373
+score: 6.8
 ---
 
 Wierzynek claims to be the oldest restaurant in Poland, tracing its history to a 1364 banquet hosted by the merchant Mikołaj Wierzynek for King Casimir III and a gathering of European monarchs. Whether or not the current restaurant on the same site has genuine continuity with that medieval feast is a matter for historians, but the building is genuinely old and the claim has been respectable enough to draw generations of heads of state, including Charles de Gaulle, Fidel Castro, and numerous popes on their way to visit Krakow.

@@ -9,6 +9,7 @@ latitude: 40.7836
 longitude: -74.5312
 story: >
   The winter of 1779–1780 at Morristown was worse than Valley Forge by almost any measure. Temperatures dropped to -16°F, snow fell 28 times between November and April, and soldiers froze in huts they built themselves at Jockey Hollow. Washington wrote to Congress that the army was "more than once upon the point of disbanding." They held together — barely — and went on to win the war.
+score: 9.3
 ---
 
 America's first national historical park encompasses several sites spread across Morristown and the surrounding hills. The park's main unit, the Ford Mansion, served as Washington's headquarters during the terrible winter of 1779–1780, and the house has been preserved with period furnishings. The adjoining museum covers the Continental Army's two winters here.

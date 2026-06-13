@@ -11,6 +11,7 @@ opening_hours: 9:00-16:30 daily
 snippet: Forbidding military fort on the ridge above Amber, home to Asia's largest wheeled cannon
 story: >
   The Jaivana cannon at Jaigarh is the largest wheeled cannon ever made — an eight-ton bronze monster cast in 1720. When it was finally test-fired in the 18th century, the single shot reportedly landed 35 km away, creating a lake where it landed, though the cannon was never used in battle.
+score: 8.1
 ---
 
 Jaigarh Fort sits on the ridge directly above Amber Fort, connected by a long underground passage, and was the military strongpoint that defended the entire Amber area. Where Amber is palatial and decorative, Jaigarh is strictly functional — massive walls, watchtowers, and a foundry complex where cannons were cast.

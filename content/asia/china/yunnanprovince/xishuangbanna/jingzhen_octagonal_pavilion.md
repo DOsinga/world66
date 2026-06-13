@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - temple
+score: 8.5
 ---
 
 The Jingzhen Bajiao Ting — Octagonal Pavilion — is one of the prettiest pieces of historic Dai architecture in Yunnan. Built in 1701 in the village of Jingzhen, west of Menghai, it served as the meeting hall of senior Buddhist monks from across the Sipsongpanna kingdom. The eight-sided structure rises in tiered roofs to a tall finial, the proportions cleanly worked out, the eaves studded with small bells that ring in the breeze.

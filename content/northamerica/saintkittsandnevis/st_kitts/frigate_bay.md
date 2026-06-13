@@ -8,6 +8,7 @@ tags:
   - sight
   - southeast_peninsula
 neighbourhood: Southeast Peninsula
+score: 6.8
 ---
 
 The most developed beach on St. Kitts, a few minutes' drive south of Basseterre and ringed by hotels and condos. Frigate Bay is actually two beaches back to back across a narrow isthmus: the calm Caribbean side and the rougher Atlantic side a five-minute walk away.

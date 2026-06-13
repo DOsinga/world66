@@ -7,6 +7,7 @@ tags:
 latitude: -7.9984
 longitude: -34.8503
 snippet: 17th-century hilltop church with panoramic views, now housing a museum of sacred art
+score: 7.2
 ---
 
 The Igreja de Nossa Senhora do Amparo was built in the late 17th century on one of Olinda's upper terraces, and its position gives it views that rival the Alto da Sé. The building suffered damage over the centuries and has been restored multiple times; the current exterior is largely 18th-century work, with the characteristic white-painted facade and blue tile trim of Pernambucano colonial architecture.

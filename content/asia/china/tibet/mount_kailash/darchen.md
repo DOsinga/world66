@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.1080
 longitude: 81.4170
+score: 4.9
 ---
 
 Darchen is the gateway settlement at the southern base of Mount Kailash, at 4,560 metres. It is a small, functional town that has grown specifically to serve the flow of pilgrims and trekkers. Guesthouses, small restaurants, equipment hire, and food stalls cluster here, and most visitors spend at least one night before beginning the kora. The town has electricity, basic medical facilities, and enough facilities to sort out any last-minute gear problems.

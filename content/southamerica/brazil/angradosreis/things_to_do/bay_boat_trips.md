@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -23.1600
 longitude: -44.2400
+score: 8.2
 ---
 
 Schooners and smaller motorboats leave from Angra's marina throughout the day on circuits of the bay, stopping at beaches on the smaller islands and at good snorkelling spots. A full-day trip typically visits three or four stops: clear water over coral at spots like Ilha da Gipóia, calm sandy beaches on uninhabited islands, and a seafood lunch at a floating restaurant or beach bar.

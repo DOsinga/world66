@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "The lake is named from the Maasai word 'muteita', meaning 'dust place', a reference to the dry, dusty conditions of the surrounding plains during much of the year."
+score: 7.8
 ---
 
 The shallow alkaline waters of Lake Elmenteita stretch for around 18 square kilometres on the floor of the Great Rift Valley. The lake is part of the Kenya Lake System UNESCO World Heritage Site and remains one of the few Rift Valley lakes where you can walk the shoreline on foot, unhindered by park gates or vehicle-only rules.

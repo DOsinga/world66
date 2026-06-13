@@ -13,6 +13,7 @@ story: >
   "The Arsenal at Springfield" — one of the first American anti-war poems. He
   imagined the stacked rifles as a kind of cathedral organ whose notes were
   death. His wife Fanny, who accompanied him on the visit, suggested the subject.
+score: 8.5
 ---
 
 The Springfield Armory was the primary manufacturer of small arms for the United States military from 1777 to 1968 — nearly two hundred years of American military history concentrated in a complex of brick buildings on a hill above the city centre. It produced the Springfield rifle of the Civil War, the Springfield 1903 used in both World Wars, and the M1 Garand that General Patton called "the greatest battle implement ever devised."

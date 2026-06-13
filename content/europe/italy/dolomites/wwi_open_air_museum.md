@@ -14,6 +14,7 @@ story: >
   without exposure. One Italian tunnel system, the Lagazuoi mine, was detonated in 1917
   with 35 tonnes of explosives in one of the largest non-nuclear military detonations
   in history — the explosion was heard in Venice, 150 kilometres away.
+score: 7.9
 ---
 
 The WWI front passed directly through the Dolomites, with Italian and Austrian forces fighting at altitude for three years across terrain that was already extreme before you added combat. The physical evidence remains: tunnels, trenches, bunkers, and galleries are preserved at several accessible sites, and hiking through these spaces — where soldiers lived, worked, and died a century ago — is one of the most affecting experiences the Dolomites offer.

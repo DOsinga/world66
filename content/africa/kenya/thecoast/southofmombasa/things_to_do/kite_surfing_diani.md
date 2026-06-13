@@ -7,6 +7,7 @@ tags:
   - activity
 title: Kite-Surfing at Diani
 type: poi
+score: 7.4
 ---
 
 Diani Beach has built a strong reputation as one of East Africa's best kite-surfing destinations. The lagoon between the beach and the reef provides flat, shallow water, and the south-east trade winds blow steadily from June through September — creating near-ideal conditions. Several schools along the beach offer tuition for beginners and equipment hire for experienced riders.

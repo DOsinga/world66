@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.5444
 longitude: -3.9954
+score: 6.5
 ---
 
 The High Moorland Visitor Centre is the main information point for Dartmoor National Park, housed in a former dairy in the centre of Princetown. It holds exhibitions on the geology, history, and wildlife of the moor, with particular emphasis on the Bronze Age settlements — Dartmoor has one of the highest concentrations of prehistoric monuments in Europe, including stone rows, stone circles, and hundreds of pounds (enclosures) built by farming communities four thousand years ago.

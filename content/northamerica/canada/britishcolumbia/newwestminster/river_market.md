@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 49.2035
 longitude: -122.9084
+score: 6.3
 ---
 
 The River Market at the Quay is the commercial heart of New Westminster's waterfront — a covered market in a converted historic building with views across the Fraser River. Inside: local food vendors, artisan stalls, a food court, and enough variety to justify an hour's browse. Outside on the boardwalk, the views across the broad grey Fraser to the Surrey shore give a sense of how large and commercial this river once was.

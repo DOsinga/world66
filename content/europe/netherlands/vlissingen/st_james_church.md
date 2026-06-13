@@ -9,6 +9,7 @@ tags:
   - architecture
   - church
 story: "The current tower replaced one that collapsed onto the nave in 1911. The original had stood for nearly 500 years and was the dominant landmark of Vlissingen's skyline — sailors used it to steer in from the Western Scheldt. The new tower, finished in 1913, was deliberately built shorter, so as never to threaten the church again."
+score: 7.2
 ---
 
 The Sint-Jacobskerk dominates the small market square at the heart of the old town. The Gothic church dates to the late 14th century, with parts rebuilt many times — most dramatically after the 1911 tower collapse. Inside, the most notable feature is the simple Calvinist whitewash and the high vaulted ceiling.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 36.4542
 longitude: 10.7347
+score: 8.0
 ---
 
 Nabeul's pottery tradition is one of the oldest continuous craft industries in North Africa. The distinctive blue-and-white glazed ceramics — bowls, plates, tiles, and decorative pieces — have been produced here for centuries, and the town still has dozens of active workshops where you can watch potters at the wheel and tiles being hand-painted. The techniques and patterns draw on a mixture of Phoenician, Roman, Arab, Ottoman, and Andalusian influences accumulated over millennia of coastal trade.

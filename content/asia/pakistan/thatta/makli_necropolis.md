@@ -9,6 +9,7 @@ latitude: 24.76
 longitude: 67.902
 snippet: "The world's largest necropolis: 10 square kilometres of royal tombs spanning 400 years."
 story: "Makli Hill contains the graves of an estimated one million people — kings, queens, saints, scholars, and soldiers of the Samma, Arghun, Tarkhan, and Mughal dynasties — compressed into the most densely concentrated collection of royal funerary architecture in the world. Some tombs are as elaborate as small mosques; others are simple stone slabs. The necropolis was in continuous use from the 14th to the 18th century, with each ruling dynasty adding to the complex. Walking through it is like reading four centuries of Sindhi history in stone."
+score: 9.6
 ---
 
 Makli is one of the most remarkable archaeological sites in Asia — a UNESCO World Heritage Site covering approximately 10 square kilometres on a rocky ridge above Thatta, containing an estimated 500,000 to one million graves. It is widely considered the largest necropolis in the world.

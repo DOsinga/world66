@@ -8,6 +8,7 @@ story: >
   During the Civil War, the Huntsville Depot was seized by Union forces in April 1862 — one of the earliest successful Union penetrations into the Deep South. Confederate prisoners were held in the depot's upper floor, and many of them scratched graffiti into the brick walls that survives to this day, including names, dates, and small drawings. The graffiti is among the most vivid and intimate records of the war's human experience in the South.
 sources:
   - https://en.wikipedia.org/wiki/Huntsville_Depot_(Alabama)
+score: 7.7
 ---
 
 The Huntsville Depot, built in 1860, is the oldest surviving railroad depot in Alabama and one of the oldest in the United States. It stands on the Norfolk Southern line at the northern edge of downtown, exactly where it was when trains first rolled through on the Memphis and Charleston Railroad — the first line to connect the Atlantic seaboard with the Mississippi River. The building itself is a sturdy two-story brick structure that has changed relatively little since the Civil War.

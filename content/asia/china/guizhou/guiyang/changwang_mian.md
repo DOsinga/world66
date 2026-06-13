@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.5763
 longitude: 106.7120
+score: 7.2
 ---
 
 Changwang mian is Guiyang's version of the breakfast noodle bowl that is a staple across southwest China. The Guiyang variant uses rice noodles in a broth that includes pig intestines (changwang means "intestines and stomach") and blood curd, seasoned with chilli oil, fermented black beans, and a garnish of peanuts and spring onion. It is emphatically not for cautious eaters, but it is the authentic morning meal of the city and it is excellent.

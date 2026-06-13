@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 62.2432
 longitude: 25.7394
+score: 7.8
 ---
 
 Harju Park occupies the pine-forested ridge that runs through the western part of central Jyväskylä, giving the city its most dramatic natural feature — a sandy esker ridge rising sharply above the surrounding streets. The park has been a recreational area since the 19th century and is still the city's most used green space, with paths running through the pines and an observation tower at the top offering views over the city and the surrounding lakes.

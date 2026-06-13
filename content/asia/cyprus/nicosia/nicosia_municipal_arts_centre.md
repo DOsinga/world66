@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.1685
 longitude: 33.3540
+score: 7.4
 ---
 
 The Nicosia Municipal Arts Centre (NiMAC) is the most significant contemporary art venue in Cyprus, housed in a beautifully restored Ottoman-era building near the Pafos Gate. The building — formerly a powerhouse dating from the early 20th century — has been converted into gallery spaces that host rotating exhibitions of Cypriot and international contemporary art, as well as performance and film events. The conversion is handled with care, preserving the industrial architecture while creating flexible, well-lit spaces.

@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: 41.5921
 longitude: -93.6128
+score: 7.3
 ---
 
 The Botanical Garden's geodesic dome — opened in 1979 and reinvented after a 2014 renovation — is the most distinctive piece of architecture on the east riverfront and the city's go-to escape from a Midwestern February. Inside, a tropical conservatory holds more than 1,200 species, including an unusually good orchid collection and a stand of mature palms tall enough to clear the dome's lower ribs.

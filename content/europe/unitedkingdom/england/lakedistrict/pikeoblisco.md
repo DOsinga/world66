@@ -7,6 +7,7 @@ tags:
 - hiking
 title: Pike o' Blisco
 type: poi
+score: 8.3
 ---
 
 Pike o' Blisco (705 m) is one of the most satisfying shorter fell walks in the Lake District. You can tackle it as a standalone half-day outing from the Old Dungeon Ghyll car park, or fold it into a longer and truly magnificent circuit around the head of Great Langdale taking in Crinkle Crags, Bowfell, and perhaps Rossett Pike and the Langdale Pikes as well.

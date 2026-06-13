@@ -8,6 +8,7 @@ tags:
 latitude: 38.8893
 longitude: -77.0502
 story: "The undercroft was used as a maintenance facility for decades after the memorial opened, and park rangers discovered walls covered in stalactite-like calcium carbonate formations — essentially stalagmites growing inside a federal monument, the result of water seeping through the marble for ninety years. They are still there."
+score: 7.2
 ---
 
 Beneath the Lincoln Memorial is a basement that most visitors never see. The undercroft was never intended to be part of the memorial experience — it served as a maintenance and storage space — but the NPS has opened it to tours as part of an ongoing effort to reveal the monument's hidden infrastructure.

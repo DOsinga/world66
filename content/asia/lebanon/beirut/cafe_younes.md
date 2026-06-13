@@ -8,6 +8,7 @@ tags:
 neighbourhood: Hamra
 latitude: 33.8951
 longitude: 35.4793
+score: 7.6
 ---
 
 Younes has been roasting coffee in Hamra since 1935 and brewing it for customers since the 1980s. The current cafe, on Nehme Yafet Street, is a quiet, slightly bookish room of older students, journalists, and longtime regulars.

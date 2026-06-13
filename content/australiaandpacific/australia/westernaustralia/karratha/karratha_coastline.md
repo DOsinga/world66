@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - swimming
+score: 6.3
 ---
 
 Karratha's location on the Pilbara coast gives it access to a string of beaches and tidal inlets that are genuinely good for fishing, beach camping, and simple coastal enjoyment — particularly in winter, when the Pilbara's extreme summer heat gives way to mild days and cool nights. The water is warm year-round and clear where rocky headlands break the tidal flow.

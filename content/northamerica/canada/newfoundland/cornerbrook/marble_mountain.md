@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: 48.99
 longitude: -57.80
+score: 8.1
 ---
 
 Marble Mountain, about 12km east of Corner Brook in the Humber Valley, is the only real alpine ski area in Newfoundland and one of the best on the Atlantic coast. The vertical drop is 488 metres — respectable by any standard — and the terrain is genuinely varied, with runs for beginners through to serious experts. The snowfall here is heavy and reliable; the mountain's position catches Atlantic moisture as it moves inland, and the Humber Valley regularly gets more snow than most of eastern Canada.

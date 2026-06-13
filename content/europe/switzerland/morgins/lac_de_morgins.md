@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.2486
 longitude: 6.8467
+score: 6.3
 ---
 
 A small mountain lake sitting above the village at around 1,350 metres, reached in about forty minutes on foot via a waymarked trail that climbs through pastures and larchwood. In summer the water is calm and reflects the surrounding ridges on still mornings. There is a lakeside restaurant open in season, and the grass banks make a decent lunch spot.

@@ -6,6 +6,7 @@ tags: [things_to_do, sight, nature]
 latitude: 10.3079
 longitude: -84.8104
 story: "Strangler figs germinate high in another tree, dropping roots that fuse to the ground over decades, then thicken and squeeze the host until it dies and rots away. What is left is a free-standing hollow tower of fused fig roots — exactly what you see here."
+score: 6.7
 ---
 
 Just off the road between Santa Elena and the Monteverde reserve, an enormous strangler fig has long since killed its host tree and left a hollow column of intertwined roots. The roots have fused into a natural ladder, and travellers have been climbing up the inside for years.

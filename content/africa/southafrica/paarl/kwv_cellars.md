@@ -8,6 +8,7 @@ latitude: -33.7401
 longitude: 18.9761
 sources:
   - https://en.wikipedia.org/wiki/KWV
+score: 7.8
 ---
 
 KWV (Ko-operatieve Wijnbouwers Vereniging van Zuid-Afrika — the Co-operative Wine Growers' Association of South Africa) is one of the country's most storied wine institutions, founded in 1918. Its cellars in Paarl include the enormous Cathedral Cellar, a vast underground space whose architecture rivals any church, with vaulted ceilings supported by oak columns that are themselves works of art.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - landmark
 - unesco
+score: 9.4
 ---
 
 The cluster of nineteen mills at Kinderdijk is the largest concentration of historic windmills in the Netherlands, listed by UNESCO since 1997. They sit along two parallel canals at right angles to the Lek river, where the Alblasserwaard polder meets the dike. Eight Nederwaard mills along one canal, eight Overwaard mills along the other, with a few stragglers nearby. The view down the row, especially in low morning or evening light, is the postcard image of Holland.

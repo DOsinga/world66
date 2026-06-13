@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.6
 ---
 
 A monumental Rationalist building from 1940, originally built as the local headquarters of the Italian Fascist party — the Casa del Fascio. It is one of the largest single colonial-era buildings in the city, with a long facade of square pillars and a vast central hall.

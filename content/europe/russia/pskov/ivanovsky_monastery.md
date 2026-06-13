@@ -8,6 +8,7 @@ latitude: 57.8258
 longitude: 28.3181
 sources:
   - https://en.wikipedia.org/wiki/Ivanovsky_Monastery,_Pskov
+score: 7.1
 ---
 
 The Convent of the Nativity of Saint John the Baptist is one of Pskov's older monastic foundations, established in the 12th century on the high bank above the Pskova River. The main church, rebuilt in stone in the 16th century, is a good example of the Pskovian Romanesque style — compact, whitewashed, with the low stepped arches and unadorned walls that characterise this local tradition.

@@ -13,6 +13,7 @@ story: >
   also created the Lake Gardens. The stained glass windows were brought from England,
   and the wooden pews are original. The church still holds regular services and is not
   a museum — it is a functioning congregation.
+score: 6.8
 ---
 
 All Saints' Church stands on a quiet street near the Lake Gardens and is one of the oldest Anglican churches in Malaysia, consecrated in 1886. The building is a simple white colonial structure with a modest spire, set in a garden of large trees that make it easy to overlook if you are not paying attention. Inside, the original wooden pews and stained glass windows imported from England give the interior a timeless calm.

@@ -12,6 +12,7 @@ tags:
 - architecture
 title: La Churcha
 type: poi
+score: 7.2
 ---
 
 The small white wooden church above Samaná's waterfront is one of the more unusual historical buildings in the country. Built in the 1820s for the African American freedmen who settled in Samaná on the invitation of Haitian president Jean-Pierre Boyer, it is officially the African Methodist Episcopal Church but everyone knows it as La Churcha, an English-influenced corruption of the Spanish church.

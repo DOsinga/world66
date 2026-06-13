@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.8918
 longitude: -0.5014
+score: 8.0
 ---
 
 Mont-de-Marsan's most surprising attraction occupies two medieval towers on the edge of the old town. The Despiau-Wlérick museum is devoted to early twentieth-century figurative sculpture, centred on the work of two local masters: Charles Despiau and Robert Wlérick. Both were working in Paris during the interwar years, rejecting abstraction in favour of careful, humanist portraiture and figure work.

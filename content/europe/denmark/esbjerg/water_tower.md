@@ -9,6 +9,7 @@ tags:
 latitude: 55.4644
 longitude: 8.4500
 story: "The architect, Christian Hansen Clausen, drew the design from Nuremberg's Spittlertor in Bavaria — an odd choice for a brand-new Danish port town, but Esbjerg was a city in search of an instant identity in 1897, and a fake-medieval water tower made about as much sense as anything else."
+score: 8.0
 ---
 
 Esbjerg's signature building is the redbrick water tower on the bluff above the harbour, completed in 1897 to the design of Christian Hansen Clausen. It looks like a transplanted German medieval gate — squat, square, and topped with crenellations and corner turrets — which is exactly what Clausen intended. For the new and rather plain port city it provided an instant landmark, and it has been the postcard image of Esbjerg ever since.

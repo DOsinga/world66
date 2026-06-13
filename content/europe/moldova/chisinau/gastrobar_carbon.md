@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.0252
 longitude: 28.8326
+score: 6.2
 ---
 
 Carbon is one of the more accomplished modern restaurants in Chisinau — a small, dimly lit gastrobar near Stefan cel Mare park with a daily-changing tasting menu and an à la carte that leans on local produce: spring lamb from the south, river fish from the Dniester, fermented vegetables from house-made starters. The wine list focuses on small Moldovan producers, with around 80 references and a knowledgeable sommelier.

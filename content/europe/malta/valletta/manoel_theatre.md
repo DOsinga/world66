@@ -15,6 +15,7 @@ story: >
   functioned as a garrison theatre and continued to stage performances through both world
   wars. The interior — three tiers of boxes in wood and gilded plaster — has changed
   remarkably little since the 18th century.
+score: 8.4
 ---
 
 The Manoel Theatre on Old Theatre Street is one of the oldest working theatres in Europe, built in 1731 and still staging opera, theatre, and ballet. The building is intimate by any standard — it seats fewer than 700 — and the horseshoe-shaped auditorium with its three tiers of boxes feels genuinely 18th century. It is the main venue for the Malta Philharmonic Orchestra and hosts the local opera season, which draws serious productions and international singers.

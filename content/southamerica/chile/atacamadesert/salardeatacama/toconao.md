@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Toconao
 type: poi
+score: 6.9
 ---
 
 Toconao is a small oasis village built of pale volcanic stone, with orchards, irrigation channels, and a quiet square that makes a useful pause between desert stops. Its church and separate bell tower are simple, handsome, and very northern Chile.

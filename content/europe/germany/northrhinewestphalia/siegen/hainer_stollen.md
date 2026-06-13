@@ -9,6 +9,7 @@ latitude: 50.873
 longitude: 8.025
 story: >
   In 1944 and 1945, as Allied bombing campaigns intensified, the Nazis moved hundreds of artworks from Westphalian museums into the Hainer Stollen mine shaft for safekeeping. When American troops arrived in 1945, they discovered the cache, which included paintings, sculptures, and cultural artefacts of considerable importance. The discovery became one of the significant art recovery operations of the war's final months, and the mine's role in protecting — and nearly losing — these objects has been documented in wartime records and local histories.
+score: 6.9
 ---
 
 The Hainer Stollen is an abandoned mine shaft in the hills above Siegen, connected to the Siegerland's centuries-old iron-ore mining tradition. It gained its place in history during the Second World War, when Nazi cultural authorities used it to hide artworks evacuated from Westphalian museums to protect them from Allied bombing. The collection stored here included significant paintings and sculptures, recovered by American forces in 1945.

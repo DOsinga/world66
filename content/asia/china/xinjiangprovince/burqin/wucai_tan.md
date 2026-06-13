@@ -9,6 +9,7 @@ tags:
 - nature
 title: Wucai Tan
 type: poi
+score: 8.2
 ---
 
 Wucai Tan, usually translated as Colourful Beach, is Burqin's signature excursion. Low cliffs of red, ochre, grey, and purple sediment rise above the Irtysh River, catching the late sun while poplars and water soften the foreground.

@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 31.1335
 longitude: -81.3934
+score: 5.8
 ---
 
 Half Shell is a small, casual seafood and oyster bar a block from Neptune Park. The kitchen does Lowcountry classics — shrimp and grits, fried oysters, she-crab soup — alongside a respectable raw bar. The room is small and tight; the back patio is the better seat in good weather.

@@ -14,6 +14,7 @@ story: >
   plagued these islands for centuries. The church of Pantanassa at the
   centre dates to the same period and is one of the best-preserved examples
   of late medieval Cycladic architecture in the archipelago.
+score: 8.2
 ---
 
 The Hora — the hilltop capital of Sikinos — divides into two parts: Chorio, the older agricultural village, and Kastro, the fortified medieval settlement at its edge. Both are beautiful, but Kastro is the more striking. Houses with shared exterior walls form a continuous defensive perimeter around a central square, with the church of Pantanassa dominating the middle. In high summer the square fills briefly in the evenings; for most of the year it is nearly empty.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.4406
 longitude: -65.7158
+score: 6.8
 ---
 
 A steep concrete staircase climbs from the eastern edge of town to a small chapel and a statue of Christ on Cerro Corazón de Jesús. It is the easiest viewpoint over Tupiza and the surrounding canyons, reached in about twenty minutes from Plaza Independencia.

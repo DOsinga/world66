@@ -6,6 +6,7 @@ longitude: 21.1834
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 The central square is shaded by an enormous plane tree, ringed with kafenia and tavernas, and built on a slope steep enough that the upper terrace is two storeys higher than the lower. In the cold months the older men sit at the cafés in heavy black wool capes, smoking and arguing over the news. In summer the square fills with tourists from the buses, but mornings and evenings remain unmistakably local.

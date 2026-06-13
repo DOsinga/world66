@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - park
 - garden
+score: 7.3
 ---
 
 The English-style garden was laid out in the early 19th century by the architect Victor Dubois at the request of Louis-Henri-Joseph de Bourbon, Prince of Condé. It occupies the area immediately west of the Petit Château and stands in deliberate contrast to the formal geometric grids of Le Nôtre on the eastern side of the canal.

@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: Galeien Bistro
 type: poi
+score: 5.5
 ---
 
 A fish bistro on Hundvåg, one of the islands that fringe Stavanger's eastern shore. Good, straightforward seafood in an unpretentious setting — the kind of local spot that doesn't need to advertise.

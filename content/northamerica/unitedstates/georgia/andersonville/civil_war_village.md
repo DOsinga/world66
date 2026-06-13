@@ -7,6 +7,7 @@ tags:
 latitude: 32.1975
 longitude: -84.1418
 sources: []
+score: 5.9
 ---
 
 Andersonville village, just outside the national historic site, has been preserved as a small Civil War-era town. A short main street is lined with restored buildings: a country store, a couple of antique shops, a Drummer Boy Museum, and the old railroad depot where prisoners arrived in 1864 to be marched the last half-mile to the stockade.

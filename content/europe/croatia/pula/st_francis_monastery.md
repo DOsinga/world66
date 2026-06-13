@@ -8,6 +8,7 @@ latitude: 44.8699
 longitude: 13.8436
 story: >
   The church treasury holds a small Roman glass bowl from the 1st or 2nd century AD, used as a reliquary and kept here since medieval times. It is one of the finest pieces of ancient glasswork in Croatia and almost never photographed, tucked behind the altar in the sacristy.
+score: 7.5
 ---
 
 The Franciscan monastery of St. Francis dates from the 13th century and occupies a quiet spot near the old town, easy to miss between the louder monuments. The church has a simple single-nave Gothic interior with some good carved detail in the sacristy, which also holds a small but excellent collection of Roman glass, jewellery, and coins.

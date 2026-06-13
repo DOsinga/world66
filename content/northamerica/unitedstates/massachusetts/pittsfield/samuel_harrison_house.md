@@ -9,6 +9,7 @@ latitude: 42.4522
 longitude: -73.2515
 sources:
   - https://en.wikipedia.org/wiki/Samuel_Harrison_House
+score: 6.7
 ---
 
 The Samuel Harrison House honours an important Pittsfield minister, abolitionist, and chaplain of the famed 54th Massachusetts Infantry. It is a small historic house, but it opens a wider story about Black life, faith, and anti-slavery politics in the Berkshires.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 6.1
 ---
 
 Cansado is a small planned suburb south of Nouadhibou, built in the 1960s by the SNIM iron ore company to house its workers and engineers. The grid of low concrete bungalows, palm trees, and the SNIM social club is a strange echo of mid-century company-town architecture in the middle of the Sahara.

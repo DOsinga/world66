@@ -8,6 +8,7 @@ tags:
 latitude: 25.8500
 longitude: 100.1583
 story: "Xizhou was a wealthy merchant town in the 19th and early 20th centuries, when Bai families grew rich from caravans on the Tea Horse Road. Many of the town's 100+ surviving courtyard houses were built by these merchant clans — the Yan family compound, now restored as a hotel and museum, was once the largest private house in Yunnan. American journalist Joseph Rock based himself in Xizhou for part of his time in Yunnan (1922–1949), writing the dispatches for National Geographic that inspired James Hilton's *Lost Horizon* and the modern myth of Shangri-La."
+score: 8.7
 ---
 
 A village of preserved Bai courtyard houses about 25 km north of Dali Old Town on the western shore of Erhai Lake. Several of the merchant compounds have been opened as small museums or boutique hotels — the **Yan Family Compound** is the largest and best-preserved.

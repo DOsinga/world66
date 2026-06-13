@@ -12,6 +12,7 @@ story: >
   crowdfunding campaign raised over two million dollars to buy it and gift it
   to the national park, securing public access to one of the country's most
   photogenic stretches of coast.
+score: 8.9
 ---
 
 Awaroa is the largest tidal inlet on the Coast Track and one of the most beautiful stops in the park — a wide, shallow basin of pale sand that drains and fills twice a day, ringed by bush-covered hills. The Awaroa hut sits at the head of the inlet, and the famous crossing at low tide takes you across what is effectively a kilometre of beach.

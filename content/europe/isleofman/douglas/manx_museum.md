@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 54.15445
 longitude: -4.48187
+score: 8.4
 ---
 
 The national museum of the Isle of Man, on Kingswood Grove in the centre of Douglas. The collection covers the full sweep of Manx history and culture, from the prehistoric Bronze Age hill forts and Viking settlements through to the 20th century. The Celtic cross collection is outstanding — the Isle of Man has some of the finest surviving Celtic stonework in the British Isles.

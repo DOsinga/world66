@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Route 66 Murals
 type: poi
+score: 6.1
 ---
 
 Joplin sat on Route 66 for the highway's entire active life, and the city has made a point of marking that heritage. A series of murals along Main Street and the historic roadway depict the imagery of the Mother Road — diners, Airstream trailers, filling stations, and the neon signage of a mid-century America that was still in love with the open road.

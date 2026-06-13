@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.5075
 longitude: -88.0333
+score: 7.3
 ---
 
 The Estadio General Francisco Morazán is one of San Pedro Sula's three football stadiums and the home ground of Real Club Deportivo España, one of Honduras's most successful and best-supported clubs. The stadium holds around 35,000 spectators and is named after the 19th-century Central American federalist hero Francisco Morazán.

@@ -14,6 +14,7 @@ story: >
   complete, blending baroque and neoclassical elements in ways that reflect
   changing architectural fashions across the construction period. The towers
   were not finished until the 19th century, long after the main nave was in use.
+score: 7.7
 ---
 
 The Cathedral Basilica of Potosí faces the Plaza 10 de Noviembre, the main square of the city, and anchors the colonial urban core alongside the Casa de la Moneda. The current building dates largely from the late 18th century, with a facade that combines baroque decoration with neoclassical restraint — a contrast to the exuberant mestizo baroque of the smaller churches nearby.

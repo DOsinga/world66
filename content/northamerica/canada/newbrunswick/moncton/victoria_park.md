@@ -9,6 +9,7 @@ tags:
 title: Victoria Park
 type: poi
 snippet: Small downtown park with bandstand, summer concerts, and a cenotaph
+score: 5.8
 ---
 
 Victoria Park is a small green square just west of downtown Moncton, ringed by older Victorian and Edwardian houses. The central bandstand hosts free outdoor concerts on summer evenings; in winter there is a small skating rink. The First World War cenotaph at one end is the focus of the city's Remembrance Day services.

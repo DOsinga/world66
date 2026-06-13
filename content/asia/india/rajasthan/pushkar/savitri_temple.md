@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.4805
 longitude: 74.5578
+score: 7.3
 ---
 
 The Savitri Temple sits on top of a steep hill that rises directly behind the town, dedicated to Brahma's first wife (or according to some accounts, his consort who was absent from the ceremony described in the Brahma Temple legend). The climb takes about 30-40 minutes on a stepped path from the town centre; a ropeway has also been installed for those who prefer not to walk.

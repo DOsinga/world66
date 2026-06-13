@@ -9,6 +9,7 @@ longitude: 21.0244
 snippet: "Poland's largest art museum with medieval and ancient collections alongside European painting"
 sources:
   - https://en.wikipedia.org/wiki/National_Museum,_Warsaw
+score: 8.8
 ---
 
 The National Museum in Warsaw is the largest art museum in Poland, with a collection spanning ancient Egypt to the 20th century. The highlight for many visitors is the Gallery of Medieval Art — one of Europe's finest collections of medieval religious painting and sculpture. The Faras Gallery contains Nubian Christian frescoes from Sudan, excavated by a Polish-led expedition in the 1960s before the area was flooded by the Aswan Dam.

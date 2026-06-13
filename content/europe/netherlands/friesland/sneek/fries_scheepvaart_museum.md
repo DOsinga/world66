@@ -9,6 +9,7 @@ latitude: 53.0323
 longitude: 5.6631
 url: "https://www.friesscheepvaartmuseum.nl"
 address: "Kleinzand 14, Sneek"
+score: 8.3
 ---
 
 The Fries Scheepvaart Museum traces the maritime history of Friesland from the 17th century to the present day, with model ships, navigation instruments, paintings and a sizeable collection devoted to the Elfstedentocht — the legendary eleven-cities ice skating race that, weather permitting, traverses the Frisian lakes. The collection is housed in a handsome row of merchant houses on the Kleinzand canal.

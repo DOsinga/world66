@@ -12,6 +12,7 @@ story: >
   backpackers in the 1990s, when the only way to get there was a boat from Kuala Besut
   and the only accommodation was wooden huts on the sand. The bungalow operations today
   are a bit more solid but the fundamental setup hasn't changed much.
+score: 7.6
 ---
 
 Long Beach on Pulau Perhentian Kecil is the most social stretch of sand on either island — a 500-metre crescent of pale sand backed by a line of budget bungalows, dive shops, and beach restaurants. The water is shallow for about 50 metres out, making it safe for swimmers, and the snorkelling at the rocky headlands on either end of the bay is good without needing to hire a boat.

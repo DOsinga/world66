@@ -8,6 +8,7 @@ latitude: 48.7783
 longitude: -123.6144
 sources:
   - https://en.wikipedia.org/wiki/Mount_Tzouhalem
+score: 8.0
 ---
 
 Mount Tzouhalem rises to about 580 metres directly north of Cowichan Bay, and its network of trails — managed partly as a municipal forest, partly as Cowichan Garry Oak Preserve — is some of the best hiking on Vancouver Island for its accessibility. The lower slopes have Garry oak meadows that bloom in spring, and the upper trails give panoramic views across Cowichan Bay, the Saanich Peninsula, and the Olympic Mountains in Washington State.

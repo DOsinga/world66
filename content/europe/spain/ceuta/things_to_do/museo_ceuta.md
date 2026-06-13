@@ -6,6 +6,7 @@ longitude: -5.3183
 tags:
   - things_to_do
   - museum
+score: 7.6
 ---
 
 Ceuta's city museum covers the full arc of the territory's history, from Phoenician and Roman settlement through the Byzantine, Arab, and Portuguese periods to the present Spanish administration. The collection includes Roman mosaics found locally, Islamic ceramics, Portuguese-era armour, and material from the Spanish Civil War period, when Ceuta was an early base for Franco's Nationalist forces. The explanations are largely in Spanish, but the artefacts speak clearly enough.

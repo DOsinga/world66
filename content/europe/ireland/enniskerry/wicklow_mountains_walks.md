@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.192
 longitude: -6.17
+score: 8.8
 ---
 
 Enniskerry is an excellent base for walking in the Wicklow Mountains, one of the largest upland areas in Ireland and just 30 kilometres from Dublin. Several well-marked trails start from or near the village. The Wicklow Way, Ireland's first long-distance walking route, passes through the hills above the village; the section from Enniskerry south towards Glendalough is one of the more popular day walks in the country.

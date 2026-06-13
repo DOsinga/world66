@@ -6,6 +6,7 @@ longitude: -3.6883
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 Real Madrid's stadium, one of the most famous football grounds in the world and the site of fifteen European Cup / Champions League titles. The 81,000-seat ground was opened in 1947 and named after the long-serving club president; it has just emerged from a multi-year reconstruction that added a retractable roof, a steel-clad facade, and an underground pitch storage system.

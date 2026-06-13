@@ -10,6 +10,7 @@ tags:
 - things_to_do
 title: Cinnamon Cruises
 type: poi
+score: 6.6
 ---
 
 A sunset cruise on the Thu Bon River lasting nearly three hours, with cocktails and a spread of Vietnamese dishes. The spring rolls are excellent — light crispy batter with prawn filling — and the views of Hoi An's lantern-lit waterfront from the river are hard to beat. A relaxed way to spend an evening after a day in the old town.

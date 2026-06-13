@@ -9,6 +9,7 @@ tags:
 latitude: 43.5456
 longitude: -5.6611
 story: "The baths were discovered in 1903 when workers were digging foundations for a new building — standard story for Roman sites. What's unusual is what was found: the complex dates from the 1st century AD and includes the hot room (caldarium), warm room (tepidarium), cold room (frigidarium), and the underfloor heating system (hypocaust) in remarkably complete condition. This was not a military installation but a civilian bathhouse serving a Roman town called Gigia, whose name eventually became Gijón."
+score: 7.4
 ---
 
 The Campo Valdés baths are the most significant Roman remains in Asturias, preserved beneath a glass shelter at the base of the Cimadevilla headland. The complex was built in the first century AD and served the Roman settlement of Gigia for several centuries; what survives includes the floor plan of all the main rooms, sections of original mosaic, and the hypocaust pillars that carried the underfloor heating. The interpretation is clear and thoughtful, with models and explanatory panels that place the baths within the wider context of Roman Asturias.

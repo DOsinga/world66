@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 story: "On a calm day, boat captains nose their vessels right through the sea-cut arch in Piercy Island, off Cape Brett — but the gap is only about ten metres wide and Maori legend says paddling through it brings good fortune for the day ahead. The tradition is still observed: tour boats let passengers reach up and touch the rock as they pass through."
+score: 7.5
 ---
 
 The Hole in the Rock is the classic boat-trip destination from Paihia and Russell. Tour vessels run out to Cape Brett, the eastern headland of the bay, where wind and waves have eaten a tunnel right through Piercy Island. On calm days the boats slip through the gap one at a time, ducking under the dripping basalt roof while gannets nest overhead.

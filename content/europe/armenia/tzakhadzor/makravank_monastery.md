@@ -9,6 +9,7 @@ latitude: 40.5275
 longitude: 44.7372
 sources:
   - https://en.wikipedia.org/wiki/Makravank_Monastery
+score: 7.1
 ---
 
 Makravank is a small Armenian church-complex in the Makravan district of [Hrazdan](/europe/armenia/kotayk_marz), a few kilometres from Tsaghkadzor. The monastery dates from the medieval period and occupies a quiet position set apart from the town. It is less visited than Kecharis and consequently has a more contemplative atmosphere — you are unlikely to encounter other tourists here.

@@ -13,6 +13,7 @@ tags:
 - sight
 title: Fergus Falls Regional Treatment Center
 type: poi
+score: 8.6
 ---
 
 The enormous red-brick psychiatric complex that dominates the hill north of downtown is one of the most striking derelict buildings in Minnesota. It was built in the 1890s in the Kirkbride plan style — a design theory that held that mental illness could be treated through architecture, with long curving wings designed to allow light and air to reach every room. At its peak the complex housed over 1,600 patients and was essentially a self-contained city with its own farm, bakery, and power plant.

@@ -7,6 +7,7 @@ latitude: 34.8505
 longitude: 32.8161
 story: >
   The village story goes that when phylloxera wiped out the vineyards of France in the late 19th century, a French king (or in some versions a French envoy) came to Lania in search of healthy vine stock — the soils of the Troodos had escaped the blight — and waited under one of the great oaks of the village while cuttings were prepared. That tree, supposedly more than 800 years old, finally collapsed under its own weight in 1997. The second oak still standing is now legally protected.
+score: 6.6
 ---
 
 On the edge of the village stands one of the great trees of Cyprus — a Cyprus golden oak (Quercus alnifolia, the island's national tree), state-protected and at least several centuries old. Its companion, even larger and according to local tradition the older of the pair, came down in 1997.

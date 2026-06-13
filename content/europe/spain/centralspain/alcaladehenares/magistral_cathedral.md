@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.4805
 longitude: -3.3693
+score: 7.5
 ---
 
 The Magistral Cathedral of Alcalá de Henares is one of only two churches in the world to hold the title "magistral" — a distinction requiring that all its canons hold doctorates in theology. The tradition dates to the founding of the university, when Cardinal Cisneros established the arrangement to ensure a learned clergy for his new educational city. The current Gothic structure was built between 1497 and 1516, and the interior holds a fine Renaissance altarpiece and several notable tombs.

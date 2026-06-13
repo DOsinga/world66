@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -24.7947
 longitude: -65.4153
+score: 7.2
 ---
 
 The Artisan Market occupies a converted 19th-century colonial building on Avenida San Martín, a short walk south of the centre. It is the best place in Salta to buy quality craft goods: woven textiles from the puna communities, carved wooden pieces, ceramics, silver jewellery, and leather goods. The quality is notably higher than the tourist-market stalls around the plaza.

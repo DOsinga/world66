@@ -12,6 +12,7 @@ story: >
   in 1967 featured four of the era's top matadors — Antoñete, Curro Girón, Paco Camino,
   and El Pireo — turning what was a regional event into a nationally significant one
   from the very start.
+score: 6.5
 ---
 
 The Plaza Monumental de Toros de Pueblo Nuevo is Venezuela's premier bullring, with capacity for 15,000 spectators. Built in 1967 to a design by Eduardo Santos Castillo, it becomes the focal point of the city every January during the Feria de San Sebastián — the largest fair in Venezuela and one of the most important taurine events in Latin America.

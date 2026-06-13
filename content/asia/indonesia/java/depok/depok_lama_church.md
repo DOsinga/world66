@@ -9,6 +9,7 @@ tags:
 - church
 title: GPIB Immanuel Depok
 type: poi
+score: 6.3
 ---
 
 The GPIB Immanuel church sits in the small grid of streets known as Depok Lama, near the old centre south of the railway. The current building is a 19th-century rebuilding of an earlier 1714 structure, in plain colonial-Protestant style: white walls, a simple bell tower, dark wood pews inside.

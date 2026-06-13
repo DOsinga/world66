@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.766
 longitude: 59.021
+score: 7.6
 ---
 
 Moynaq has a small museum dedicated to the Aral Sea disaster and the history of the town's fishing industry. The collection includes historical photographs of the port in its functioning years, maps showing the sea's retreat decade by decade, samples of the fish species that were once caught here, and documents from the Soviet-era cannery that employed much of the town's population.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 40.7081
 longitude: -73.9571
+score: 8.1
 ---
 
 Williamsburg, across the East River from Midtown Manhattan, is the Brooklyn neighbourhood most associated with the gentrification wave that transformed New York's outer boroughs from the late 1990s onward. What was once an industrial and working-class district of Polish, Hasidic Jewish, and Puerto Rican communities is now the most densely creative-class neighbourhood in America — independent restaurants, music venues, vintage shops, art studios, and rooftop bars packed into a grid of streets between the waterfront and Bushwick.

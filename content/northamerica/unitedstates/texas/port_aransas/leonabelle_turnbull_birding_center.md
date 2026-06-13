@@ -16,6 +16,7 @@ story: >
   roseate spoonbill, which nests nearby, has been adopted as the Port Aransas city bird.
 sources:
   - https://www.portaransas.org/things-to-do/nature-and-parks/leonabelle-turnbull-birding-center/
+score: 8.2
 ---
 
 The Leonabelle Turnbull Birding Center at 1356 Ross Ave is a 700-foot wheelchair-accessible boardwalk over a freshwater pond and surrounding wetlands at the north end of town. Entry is free and the site is open every day from sunrise to sunset. An ADA-compliant observation tower gives a panoramic view over the marsh, where roseate spoonbills, black-bellied whistling-ducks, least grebes, and a rotating cast of herons, egrets, and shorebirds can reliably be found.

@@ -7,6 +7,7 @@ tags:
 latitude: 42.4100
 longitude: -78.6200
 snippet: Good kayaking and steelhead fishing in the creek valleys below the Allegheny foothills
+score: 6.4
 ---
 
 Cattaraugus Creek runs through the hills below Ashford, carving deep valleys in the shale and sandstone of the Allegheny Plateau. When water levels are cooperative — typically spring and after heavy rain — the creek offers decent kayaking through wooded gorges, with several access points along County Route 75.

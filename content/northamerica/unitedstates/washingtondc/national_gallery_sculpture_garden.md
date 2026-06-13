@@ -7,6 +7,7 @@ tags:
   - the_national_mall
 latitude: 38.8917
 longitude: -77.0232
+score: 6.6
 ---
 
 The National Gallery of Art Sculpture Garden occupies 6.1 acres between the West Building and the Mall, opened in 1999. The garden holds 17 large-scale sculptures by 20th-century artists — Claes Oldenburg and Coosje van Bruggen's Typewriter Eraser, Louise Bourgeois's Spider, Roy Lichtenstein's House I — arranged around a central fountain that becomes an ice-skating rink in winter.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.9199
 longitude: 14.4425
+score: 5.4
 ---
 
 The Gauci Tower is one of several watchtowers built during the period of Knights Hospitaller rule over Malta. Constructed in the late seventeenth or early eighteenth century, it stands on a ridge north of Naxxar with views across the northern part of the island. The tower is not generally open to visitors but is worth seeing from the outside as an example of the Maltese defensive architecture that dots the island's landscape.

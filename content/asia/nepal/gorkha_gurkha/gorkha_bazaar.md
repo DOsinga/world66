@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 28.0005
 longitude: 84.6330
+score: 6.3
 ---
 
 Gorkha Bazaar is the commercial heart of the town, a busy, unpretentious strip of shops, tea stalls, and small restaurants stretched along the main road below the Durbar hill. This is not a tourist bazaar — it serves the local population and the surrounding villages, which makes it genuine in a way that the craft markets of Pokhara and Kathmandu are not. You will find dried goods, hardware, fabrics, and mobile phone shops alongside Nepali daal bhat restaurants that charge very little and expect no fuss.

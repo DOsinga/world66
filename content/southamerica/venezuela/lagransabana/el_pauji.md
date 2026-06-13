@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 4.4667
 longitude: -61.5833
+score: 7.6
 ---
 
 El Paují is a small community 70 km west of Santa Elena de Uairén along a rough unpaved road. It started as a remote artist's colony in the 1980s and still has that flavour: organic gardens, hand-built guesthouses, a tiny gallery, and a slow rhythm at odds with the gold-mining country around it.

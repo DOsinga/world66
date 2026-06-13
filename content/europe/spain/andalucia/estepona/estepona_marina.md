@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 36.4195
 longitude: -5.1456
 snippet: "Attractive marina with restaurants, fish market, and sailing facilities"
+score: 6.2
 ---
 
 Estepona's marina is one of the better-designed on the Costa del Sol — relatively compact, with the quayside restaurants facing the moored yachts and the fish market at the far end providing a working counterpoint to the leisure boats. The fish market (lonja) sells the morning's catch from a small fleet that still operates out of Estepona, and the market building next door has fresh produce.

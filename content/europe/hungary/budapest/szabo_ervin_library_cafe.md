@@ -8,6 +8,7 @@ tags:
 - sight
 title: Szabó Ervin Library
 type: poi
+score: 8.9
 ---
 
 The Szabó Ervin Library is built around the Wenckheim Palace, an 1890s private mansion that was converted into a public library in 1931. The mansion's original rooms — grand reading halls with carved wood panelling, painted ceilings, wrought-iron galleries, and ornate fireplaces — are open to visitors who buy a day pass. The café on the ground floor of the palace wing is one of the most beautiful places to have a coffee in the city.

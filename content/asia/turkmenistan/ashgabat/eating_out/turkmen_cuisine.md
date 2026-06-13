@@ -1,6 +1,7 @@
 ---
 title: "Turkmen Cuisine"
 type: poi
+score: 6.7
 ---
 
 Turkmen cooking centres on a handful of dishes done well rather than a wide repertoire. Plov — the Central Asian rice pilaf cooked with lamb fat, carrots, and onion in a large cast-iron kazan — is the cornerstone of any serious meal, and Ashgabat's plov houses are the best place to eat it: cooked fresh in the morning, sold until it runs out, eaten communally from a shared dish. Shashlik (skewered and chargrilled lamb or beef) is everywhere, served with raw onion, fresh flatbread, and a scattering of herbs. Manty — large steamed dumplings filled with minced lamb and onion — are another staple, sometimes served with a soured cream or a meat broth.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Reconstructed traditional village near the Corniche, showing pre-oil Khobar"
+score: 5.8
 ---
 
 The Heritage Village near the southern Corniche is a small open-air reconstruction of how Khobar looked before the oil money arrived in the 1940s — low coral-stone houses with wooden balconies, a date palm market square, a traditional dhow shipyard, and demonstrations of pre-industrial crafts: pearl diving equipment, basket weaving, the old fishing nets.

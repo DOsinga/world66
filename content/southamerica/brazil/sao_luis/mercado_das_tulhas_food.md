@@ -7,6 +7,7 @@ tags:
   - market
 latitude: -2.529
 longitude: -44.301
+score: 7.3
 ---
 
 The food section of the Mercado das Tulhas (also known as Casa das Tulhas) has several small food stalls serving regional snacks and lunch plates at minimal prices. The quality varies but the best stalls do excellent *bolinho de arroz de cuxá* (fried rice cakes with the cuxá sauce), *pão de batata* (potato bread), and the various fried snacks that form the street food vocabulary of Maranhão.

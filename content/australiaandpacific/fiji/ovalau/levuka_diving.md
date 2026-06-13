@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do]
 latitude: -17.6818
 longitude: 178.8347
+score: 8.1
 ---
 
 The fringing reef directly off Levuka and around the rest of Ovalau is uncrowded, healthy, and unusually accessible — most dive sites are a five- or ten-minute boat ride from the harbour. Hard coral cover is good, soft corals exceptional, and the channels host reef sharks, eagle rays, and the occasional pelagic. The reef shelves quickly so even snorkellers see plenty.

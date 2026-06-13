@@ -16,6 +16,7 @@ story: >
   permanently without explanation. The house passed through various hands — including a stint
   as a brothel — before the city acquired it in 1970. It is now a museum in an advanced state
   of restoration.
+score: 7.2
 ---
 
 Villa Montezuma is the most theatrical Victorian building in San Diego — an 1887 Queen Anne mansion in Sherman Heights commissioned for concert pianist and spiritualist Jesse Shepard, designed with a tower, multiple gables, elaborate stained glass depicting Greek myths and literary figures, and more decorative woodwork per square foot than seems structurally advisable.

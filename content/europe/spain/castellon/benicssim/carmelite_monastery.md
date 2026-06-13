@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Carmelite Monastery
 type: poi
+score: 7.1
 ---
 
 High on the pass through the Desert de les Palmes stands the Carmelite monastery from which the natural park takes its name. The Discalced Carmelites — the contemplative branch reformed by Saint Teresa of Ávila — founded a wild "desert" retreat here in 1697; the original mid-eighteenth-century stone buildings were rebuilt after a landslide and remain in continuous use by a small community of monks.

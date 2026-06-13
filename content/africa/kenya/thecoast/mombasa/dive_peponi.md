@@ -12,6 +12,7 @@ tags:
 title: Dive Peponi
 type: poi
 url: www.peponidivers.ch
+score: 5.4
 ---
 
 A dive operation based at Bahari Beach Hotel on Mombasa's north coast, run under Swiss management. The diving here is on the Malindi–Watamu reef system, part of a marine national park — good visibility, hard and soft coral, and a decent chance of sea turtles. They run PADI courses and guided dives for all levels, and can arrange day trips along the coast.

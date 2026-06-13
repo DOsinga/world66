@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.8430
 longitude: 19.7150
+score: 7.6
 ---
 
 A traditional *katun* — summer shepherd's settlement — on the upper pastures of Bjelasica, used by families from the surrounding villages who move their flocks up here from late May to mid-September. Vranjak is one of the more accessible katuns, with a cluster of wooden huts, a rough track for 4x4 access, and a couple of families who put visitors up for a night in basic but warm cabins.

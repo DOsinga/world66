@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.342
 longitude: -91.1952
+score: 6.2
 ---
 
 The 1917 Pike County Courthouse anchors the town square in the centre of Bowling Green, and it is a handsome example of the civic architecture that small Missouri counties built during the early 20th century. The square around it holds a three-part war memorial that honours the approximately 1,300 Pike County residents who served in conflicts from the World Wars through to Desert Storm — a striking number for such a small county, and a testament to how thoroughly these conflicts touched every corner of rural America.

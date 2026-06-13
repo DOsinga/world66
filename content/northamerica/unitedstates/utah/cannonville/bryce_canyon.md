@@ -13,6 +13,7 @@ tags:
 - sight
 title: Bryce Canyon National Park
 type: poi
+score: 9.8
 ---
 
 Bryce Canyon National Park sits 15 miles northwest of Cannonville and is the reason most visitors come to this corner of Utah. The park's amphitheaters — natural bowl-shaped formations carved into the orange and red Claron limestone — hold thousands of hoodoos, the irregular spire formations that have made Bryce Canyon visually unlike any other landscape on earth. The Navajo Loop and Queens Garden trails descend into the main amphitheater at Bryce Point, threading between hoodoos and through narrow slot sections. Sunrise over the rim, when the first light turns the orange rock to near-fluorescent red, is one of the set-piece experiences of American national park travel.

@@ -8,6 +8,7 @@ tags:
   - walking
 title: "Gardon Riverside"
 type: poi
+score: 5.8
 ---
 
 The Gardon runs through Alès and gives the town its easiest open space. Paths and bridges along the river are good for a short walk, especially in the evening when the heat drops.

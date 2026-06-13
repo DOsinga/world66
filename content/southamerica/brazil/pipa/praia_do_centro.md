@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - swimming
+score: 7.6
 ---
 
 The town beach — Pipa's social engine and the place most visitors spend their days. The sand is wide at low tide, the water is calm and shallow, and a strip of *barracas* (beach bars) runs along the back of the beach serving cold beer, *caipirinhas*, and grilled fish to a soundtrack of forró and reggae. Sun loungers and shade umbrellas are for hire.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 35.2161
 longitude: -80.8562
+score: 7.2
 ---
 
 South End is Charlotte's fastest-changing neighbourhood, a former industrial corridor along the LYNX Blue Line light rail that has transformed over the past decade into one of the city's most active dining and entertainment districts. Converted warehouses and new construction alternate along South Boulevard, with breweries, restaurants, wine bars, and a growing number of boutiques and creative businesses filling the ground floors.

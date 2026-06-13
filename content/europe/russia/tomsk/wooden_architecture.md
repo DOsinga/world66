@@ -10,6 +10,7 @@ longitude: 84.9482
 story: >
   The carved wooden houses of Tomsk were built by craftsmen who arrived with the cigar-rolling families of the 19th century — but the decorative tradition goes further back to a guild of Siberian woodcarvers who developed their own regional style, featuring elaborate window surrounds, cornices, and friezes that have no real equivalent anywhere else in Russia. The finest surviving example, the House with Dragons at ulitsa Krasnoarmeyskaya 68, is named for the carved serpentine creatures flanking its upper windows.
 snippet: Siberia's finest collection of ornately carved wooden houses, unique in all of Russia
+score: 9.4
 ---
 
 Tomsk's wooden architecture is the city's defining attraction. While most Siberian cities were rebuilt in Soviet concrete, Tomsk preserved an extraordinary collection of 19th-century wooden houses, their facades decorated with elaborate carved friezes, ornate window surrounds, and fanciful cornices. Walking the streets of the old town — particularly Krasnoarmeyskaya, Tatarskaya, and the streets near Resurrection Hill — is like walking through an open-air museum.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: "Tantalus-Round Top Drive"
 type: poi
+score: 7.1
 ---
 
 The Tantalus-Round Top Drive is a 13-kilometre loop through the rainforest above Honolulu, accessible by car from the city. The road climbs from Makiki through dense forest to the Pu'u 'Ualaka'a State Wayside, where a short walk brings you to a lookout with one of the best elevated views of Honolulu — the entire city spread below, with Diamond Head and the ocean to the south and the interior mountains to the north.

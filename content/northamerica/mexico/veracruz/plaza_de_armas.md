@@ -6,6 +6,7 @@ tags:
 - sight
 title: Plaza de Armas
 type: poi
+score: 8.1
 ---
 
 The Plaza de Armas is the heart of Veracruz and one of the most animated main squares in Mexico. The Palacio Municipal and the Cathedral flank it on two sides; the portales — covered arcades lined with cafes — run along the other sides, their tables extending out into the plaza. Most evenings, son jarocho musicians set up in the square and couples dance on the paving stones in a way that feels entirely natural rather than performed for tourists.

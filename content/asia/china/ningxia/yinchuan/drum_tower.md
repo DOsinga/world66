@@ -13,6 +13,7 @@ story: >
   street remains the social centre of Yinchuan's Hui community — visit in
   the early evening when the market stalls fill with people and the smell of
   cumin lamb drifts across from the nearby restaurants.
+score: 6.2
 ---
 
 Yinchuan's Drum Tower anchors the old city district and the pedestrian street that runs in front of it. Like most Chinese drum towers, it once housed the drums and bells that marked the hours and called citizens to attention in times of emergency.

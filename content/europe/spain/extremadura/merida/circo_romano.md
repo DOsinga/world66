@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9161
 longitude: -6.3378
+score: 7.8
 ---
 
 The Roman Circus is the largest of Mérida's monuments, and the most striking for being so empty: an oval of nothing, 400 metres long, defined by the low remains of the spina and the long curve of seating banks now grassed over. It once held 30,000 spectators for chariot races and was in use into the late Roman period. There is little to interpret beyond the silence and the scale, but the visitor centre at the entrance includes a good model and a film reconstructing the races.

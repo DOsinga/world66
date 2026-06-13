@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 18.0961
 longitude: -65.4658
+score: 8.4
 ---
 
 Sun Bay — Playa Sombé in Spanish — is the most accessible and most beautiful of the public beaches, a long arc of pale sand backed by coconut palms a five-minute drive east of Esperanza. The water is shallow, clear, and consistently calm, making it the default swimming beach for families and weekenders.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Reconstructed Georgian seaport with Royal Navy galleries and HMS Trincomalee"
+score: 9.1
 ---
 
 The Hartlepool branch of the National Museum of the Royal Navy is built around HMS Trincomalee, but it's more than just the ship. The site is laid out as a reconstructed Georgian seaport — cobbled streets, shopfronts of a chandler, a tailor, a printer — with costumed guides who handle questions without lecturing.

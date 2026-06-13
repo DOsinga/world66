@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Biete_Medhane_Alem
 story: >
   Medhane Alem is believed to be a replica of the original Church of the Holy Sepulchre in Jerusalem — King Lalibela's answer to building a New Jerusalem in the Ethiopian highlands. A series of 28 pillars surrounds the exterior on three sides, and five more rows of pillars fill the interior. Remarkably, every pillar was left standing as the craftsmen chiselled the rock away around them.
+score: 9.4
 ---
 
 Biete Medhane Alem — the House of the Saviour of the World — is the largest rock-hewn church at Lalibela and, by some estimates, the largest rock-cut church anywhere on earth. Measuring roughly 33 metres long, 23 metres wide, and 11 metres high, the structure was carved as a monolith from the surrounding red volcanic tufa, so that the entire building, including its forest of 72 exterior and interior columns, emerged from a single block of rock.

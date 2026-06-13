@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - cetate
+score: 5.8
 ---
 
 Casa Bunicii ("Grandma's House") on Vasile Alecsandri Street is one of the city's most reliable Romanian restaurants — a converted townhouse with several small dining rooms, hung with embroidered tablecloths and grandmother-vintage photographs. The menu is straightforward Banat cooking: smoked carp ciorba, sarmale (stuffed cabbage), mititei, and a long list of papanasi for dessert.

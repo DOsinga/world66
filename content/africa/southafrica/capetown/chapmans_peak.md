@@ -18,6 +18,7 @@ tags:
 - sight
 title: Chapman's Peak Drive
 type: poi
+score: 9.2
 ---
 
 Chapman's Peak Drive snakes for nine kilometres along the cliff edge between Hout Bay and Noordhoek, with the Atlantic dropping away to your right and sheer sandstone cliffs rising to your left. There are several signposted viewpoints with parking, and the road is the centrepiece of any Cape Peninsula day-trip itinerary.

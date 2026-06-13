@@ -8,6 +8,7 @@ tags:
 - sight
 - pelourinho
 snippet: Cloister and azulejo panels of the great gold church
+score: 8.5
 ---
 
 Adjoining the gilded church of São Francisco, the Franciscan convent has the more contemplative interior. The cloister is lined with Portuguese azulejo tile panels — 37 in total — depicting maxims from Horace, an unusual classical programme for a Catholic religious building. The chapter house, refectory, and library are also worth the supplementary ticket.

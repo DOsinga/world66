@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.6
 ---
 
 The cathedral on Plaza Colon is the kind of building you do not expect to find in northern Chile. It is built entirely of cast iron and steel, prefabricated in Gustave Eiffel's Paris workshops and shipped out in pieces in 1876. The Neo-Gothic styling is conventional — pointed arches, a small rose window, a slim steeple — but the construction is anything but: every wall and column is bolted iron, painted off-white inside, and the roof is corrugated metal.

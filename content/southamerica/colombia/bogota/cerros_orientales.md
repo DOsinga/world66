@@ -7,6 +7,7 @@ tags:
 latitude: 4.6100
 longitude: -74.0510
 snippet: "Bogota's eastern hills — hiking, cycling and views over the city"
+score: 8.1
 ---
 
 The forested hills that form Bogota's eastern backdrop are part of the Reserva Forestal Protectora Bosque Oriental, a protected forest that runs for 50 km along the edge of the city. From almost anywhere in Bogota you can see them; from the hills themselves, you can see the whole city spread across the savanna below.

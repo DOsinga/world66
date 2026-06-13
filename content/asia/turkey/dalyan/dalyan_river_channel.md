@@ -7,6 +7,7 @@ tags:
 - sight
 title: Dalyan River Channel
 type: poi
+score: 8.1
 ---
 
 The river that gives Dalyan its name is technically a network of reed-lined channels carrying the outflow of Köyceğiz Lake south to the sea. The main channel runs past the town, under the Lycian tombs, and out through the marshes to the sandbar at Iztuzu.

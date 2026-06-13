@@ -15,6 +15,7 @@ story: >
   coordinated artillery strikes and flanking moves through terrain that had
   seemed impassable. From the Kargil War Memorial you can see exactly the
   ground they crossed.
+score: 7.2
 ---
 
 Tololing is the dominant peak visible from Drass and from the Kargil War Memorial, its dark ridgeline rising to around 5,140 metres above the valley. During the 1999 Kargil War, Pakistani forces occupied the heights and could observe and fire on the Srinagar–Leh highway directly below — a highway that was India's only land supply route to Ladakh. Recapturing the peak was the first major objective of the Indian counter-offensive.

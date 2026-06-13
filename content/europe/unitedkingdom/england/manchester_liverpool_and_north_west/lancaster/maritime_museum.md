@@ -14,6 +14,7 @@ story: >
   The Custom House where profits were registered still stands on the quay.
 sources:
   - https://en.wikipedia.org/wiki/Lancaster_Maritime_Museum
+score: 8.1
 ---
 
 The Maritime Museum occupies the Custom House on St George's Quay, a fine Georgian building designed by Richard Gillow in 1764 — the same Gillow whose furniture workshop became the famous Gillows of Lancaster. The location is deliberate: this is where Lancaster's maritime trade was administered, and the museum takes that history seriously.

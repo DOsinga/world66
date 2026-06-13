@@ -6,6 +6,7 @@ longitude: -74.8030
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 Cool Scoops, on New Jersey Avenue in North Wildwood, is a deliberate throwback to a 1950s soda fountain: pink booths, a full-size restored Edsel parked in the dining room, and waitresses in poodle skirts who refill the chocolate sauce on request. The ice cream is locally made by Hershey's of Pennsylvania.

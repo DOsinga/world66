@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Au Café Chaud
 type: poi
+score: 5.2
 ---
 
 A popular bar on Rue Briçonnet in the heart of Tours' old quarter, with a small dance floor that fills up on weekends. Good for an evening drink before or after dinner — the street itself is lively with other bars and restaurants, so it's easy to make a night of it.

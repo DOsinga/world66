@@ -13,6 +13,7 @@ story: >
   there are no rivers on an atoll — and the water is refreshed through the passes in the reef.
   The black-lipped oysters farmed here are sensitive to water quality; the farmers have an
   economic incentive to keep the lagoon clean that no regulation could replicate.
+score: 8.8
 ---
 
 The central lagoon of Manihiki is enormous — roughly 35 square kilometres of sheltered water ringed by some 40 low coral islets, most of them uninhabited. The water is extraordinarily clear, shifting from turquoise in the shallows to deep blue over the centre. On a calm day the surface is almost mirror-flat.

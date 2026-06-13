@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -12.5517
 longitude: -41.4067
+score: 8.1
 ---
 
 Ribeirão do Meio is a series of natural waterslides and pools on the Ribeirão river about 6 kilometres from Lençóis, one of the best swimming spots in the park and among the most popular day trips from town. The river has carved a smooth channel through the quartzite rock, creating a series of natural slides that deposit swimmers into deep, crystal-clear pools of chilly water.

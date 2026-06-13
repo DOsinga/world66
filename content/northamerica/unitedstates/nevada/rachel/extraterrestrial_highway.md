@@ -13,6 +13,7 @@ story: >
   of the Nevada Test and Training Range, which includes Area 51, and the restricted airspace
   above means you will see almost no commercial aircraft, but you may see things moving in the
   sky that are harder to explain.
+score: 8.2
 ---
 
 Nevada State Route 375, officially the Extraterrestrial Highway, runs 158 miles through the high desert between Warm Springs and Crystal Springs, passing through Rachel roughly in the middle. Driving it is an experience in itself: the road is arrow-straight across a broad valley floor, flanked by desert ranges, and the silence and emptiness are absolute. Traffic is light enough that you can stop in the middle of the road for photographs without much risk.

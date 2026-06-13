@@ -16,6 +16,7 @@ story: >
   are among the best preserved examples of Mamluk architecture in Syria.
 sources:
   - https://en.wikipedia.org/wiki/Hammam_Yalbugha
+score: 7.8
 ---
 
 Hammam Yalbugha is a Mamluk-era bathhouse at the foot of the Citadel mound, built in 1491. It is one of the largest and best-preserved traditional bathhouses in Syria — a magnificent building with a carved stone facade, a series of domed rooms in graduated temperatures, and beautiful star-shaped skylights that filter light onto the marble-clad interior.

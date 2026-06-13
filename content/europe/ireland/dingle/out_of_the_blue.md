@@ -6,6 +6,7 @@ longitude: -10.2755
 tags:
   - eating_out
   - restaurant
+score: 7.7
 ---
 
 Out of the Blue is a tiny, no-reservation seafood restaurant in a converted bait shed on Dingle pier, and probably the most talked-about restaurant in town. The menu changes daily on a chalkboard, depending on what came in off the boats, and the cooking is as minimal as the room — pan-fried fish, a sauce, vegetables. No chips. No tomato ketchup. The owners are firm on the point.

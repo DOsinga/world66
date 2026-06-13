@@ -7,6 +7,7 @@ tags:
 latitude: 33.5590
 longitude: 133.5300
 snippet: Kōchi is one of Japan's great sake regions — drink it at source
+score: 7.2
 ---
 
 Kōchi prefecture produces some of Japan's most respected sake, distinguished by its dry, clean style — *karakuchi* rather than the sweeter *amakuchi* of some other regions. The climate and the soft water of the Shikoku mountains suit sake brewing, and the city's culture of serious drinking has always given local brewers a ready audience.

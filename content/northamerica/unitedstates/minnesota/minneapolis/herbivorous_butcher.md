@@ -9,6 +9,7 @@ latitude: 44.9898
 longitude: -93.2527
 story: >
   Siblings Kale and Aubry Walch opened the first 100% vegan butcher shop in the United States in Northeast Minneapolis in 2016, having funded it through a Kickstarter campaign that raised $55,000 in 72 hours — still one of the most successful food-related crowdfunding campaigns in Minnesota history. The shop was an immediate national story; lines stretched around the block on opening day.
+score: 6.7
 ---
 
 The Herbivorous Butcher in Northeast Minneapolis bills itself as the first vegan butcher shop in America, selling plant-based versions of deli meats, cheeses, and prepared foods that look and taste sufficiently like their animal-based counterparts to confuse even committed carnivores. The shop produces everything in-house from wheat gluten, tofu, nuts, and other plant proteins.

@@ -8,6 +8,7 @@ tags:
   - forest
 latitude: 58.6350
 longitude: 8.9450
+score: 7.5
 ---
 
 The hills behind Tvedestrand carry some of the northernmost oak forests in Europe — a distinctive coastal woodland that thrives on the relatively mild climate of the Sørlandet shore. Several marked trails lead up from the town into this forest, with routes ranging from an easy hour's stroll to half-day walks that reach viewpoints over the fjord and the outer islands.

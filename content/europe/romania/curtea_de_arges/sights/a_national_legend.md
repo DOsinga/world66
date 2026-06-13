@@ -9,6 +9,7 @@ tags:
 - story
 title: Curtea de Arges Cathedral
 type: poi
+score: 9.0
 ---
 
 The Curtea de Arges Cathedral is one of Romania's most celebrated buildings, both for its architecture and the legend attached to it. Founded by Prince Neagoe Basarab in the early 16th century, it stands in the grounds of a monastery about 1.5 km north of the town center.

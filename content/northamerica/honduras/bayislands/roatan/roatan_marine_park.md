@@ -7,6 +7,7 @@ tags:
 snippet: "Community-run reef protection NGO — visitor centre, mooring buoys, cleanups"
 latitude: 16.3051
 longitude: -86.5934
+score: 5.6
 ---
 
 The **Roatán Marine Park** is the community-led NGO that manages the Sandy Bay–West End Marine Reserve, the stretch of reef along the island's most-dived north-west coast. The visitor centre and shop sit in the middle of West End and are worth a few minutes of any visitor's time.

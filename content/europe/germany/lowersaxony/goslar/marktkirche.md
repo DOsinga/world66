@@ -7,6 +7,7 @@ tags:
 - sight
 title: Marktkirche St Cosmas und Damian
 type: poi
+score: 7.8
 ---
 
 The main parish church of Goslar rises directly off the market square, its two towers unequal in height — the south one short and slate-clad, the north one taller and open to visitors. The building was begun in around 1150 as a flat-roofed Romanesque basilica and rebuilt with Gothic vaults in the fourteenth century. Inside, the surviving twelfth-century stained-glass roundels in the south aisle are among the oldest in northern Germany.

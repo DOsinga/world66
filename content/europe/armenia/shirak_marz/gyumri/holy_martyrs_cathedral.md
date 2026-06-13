@@ -11,6 +11,7 @@ story: >
   Armenian Catholics have existed as a distinct community since the 18th century, when Armenians fleeing Ottoman persecution sought union with Rome in exchange for protection.
   The Holy Martyrs Cathedral in Gyumri serves as the mother church for Armenian Catholics across an enormous region spanning Armenia, Georgia, Russia, and Eastern Europe —
   a reminder that even in a city famous for its Apostolic churches, Catholic Armenians have been part of the landscape for centuries.
+score: 7.0
 ---
 
 The Cathedral of the Holy Martyrs is the seat of the Armenian Catholic Ordinariate, serving the Armenian Catholic community across a vast region. The building stands close to Vartanants Square and is visually striking — built in Armenian architectural style with the characteristic conical cupola, but with Catholic devotional imagery inside rather than Apostolic. It was damaged in the 1988 earthquake and subsequently rebuilt.

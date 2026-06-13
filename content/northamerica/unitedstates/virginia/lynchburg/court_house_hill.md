@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 37.4142
 longitude: -79.1436
+score: 7.8
 ---
 
 Court House Hill is the most architecturally distinguished neighbourhood in Lynchburg, sitting on a promontory above the James River with a view that explains why this hill attracted the city's most prosperous residents. The district contains about 50 acres of Federal, Greek Revival, Gothic Revival, and Italianate buildings, most dating from the city's tobacco-wealth period of the mid-19th century.

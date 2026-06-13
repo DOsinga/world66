@@ -1,6 +1,7 @@
 ---
 title: "Jazz bars and kissaten"
 type: poi
+score: 6.5
 ---
 
 Kunitachi has a quietly serious coffee and music culture that goes back decades. The kissaten — old-style Japanese coffee shops, often dimly lit, with high-quality sound systems and a no-laptop etiquette — are still going in the back streets around the station, serving single-origin pour-overs and occasionally playing vinyl at a volume that makes conversation secondary. These places have a loyal regular clientele and are some of the better spots in the western suburbs to sit quietly and drink good coffee.

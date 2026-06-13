@@ -9,6 +9,7 @@ latitude: 43.8600
 longitude: 125.3200
 story: >
   Nanhu Park was designed during the Manchukuo era as a pleasure ground for the population of the planned capital. The lake and gardens were laid out according to Japanese landscape design principles, and the result is a park with more spatial sophistication than most Chinese urban parks of its era. The current visitors — families, retirees doing tai chi, couples on the lakeside path — have no particular awareness of this origin, which is perhaps the most fitting memorial to the park's history.
+score: 7.1
 ---
 
 Nanhu Park in southeastern Changchun is one of the city's most pleasant large parks, centred on Nanhu Lake with extensive gardens, walking paths, and recreational facilities that make it a genuine hub of city life rather than just a tourist amenity. The lake is used for boating in summer and skating when conditions permit in winter, and the surrounding park areas are large enough for proper walks rather than just circuits.

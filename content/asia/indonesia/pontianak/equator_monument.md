@@ -16,6 +16,7 @@ story: >
   with its globe and arrow is a 1930 reconstruction and enlargement.
 sources:
   - https://en.wikipedia.org/wiki/Equator_Monument
+score: 6.8
 ---
 
 The Tugu Khatulistiwa — Equator Monument — stands a few kilometres north of Pontianak's city centre, marking the point where the equator crosses the Kapuas River. The original wooden post was erected by a Dutch expedition in 1928; the current structure is a 1930 reconstruction featuring a large arrow pointing north and south along the zero-degree latitude line.

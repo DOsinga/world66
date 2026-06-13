@@ -8,6 +8,7 @@ latitude: 32.5375
 longitude: 35.8556
 sources:
   - https://en.wikipedia.org/wiki/Yarmouk_University
+score: 5.8
 ---
 
 Yarmouk University is one of the most respected universities in the Arab world, founded in 1976 on the southern edge of Irbid. Its large, well-maintained campus is the beating heart of the city — tens of thousands of students from across Jordan and the wider Arab world give Irbid its distinctive youthful energy, and the university district around the main gates is where you find cheap food, coffee shops open late, and internet cafes packed into every block.

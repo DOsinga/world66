@@ -11,6 +11,7 @@ story: >
   closed. The bathing routine has barely changed in that time: porcelain tub, sitz bath, vapor
   cabinet, needle shower, hot pack, and massage, in that order.
 snippet: "The original 1912 bathhouse, still running its century-old soaking routine"
+score: 8.5
 ---
 
 The traditional experience — and the one you should pick if you want to know what taking the waters

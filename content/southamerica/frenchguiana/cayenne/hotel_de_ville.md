@@ -9,6 +9,7 @@ tags:
 latitude: 4.9382
 longitude: -52.3350
 address: "Rue de Rémire, Cayenne"
+score: 5.6
 ---
 
 Cayenne's town hall is an elegant tropical adaptation of French civic architecture, built in the late 19th century: pale stuccoed walls, tall green-shuttered windows, and a sloping wooden balcony designed for the climate. It dominates one end of the Rue de Rémire, a few blocks from the Place des Palmistes.

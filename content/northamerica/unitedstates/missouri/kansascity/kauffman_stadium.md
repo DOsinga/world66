@@ -12,6 +12,7 @@ tags:
 - sports
 title: Kauffman Stadium
 type: poi
+score: 7.2
 ---
 
 Kauffman Stadium is the home of the Kansas City Royals and one of the most beloved ballparks in Major League Baseball. The stadium, opened in 1973 and renovated in 2009, seats about 37,000 and features a distinctive 322-foot waterfall and fountain system behind the outfield walls — the largest privately-funded water feature in the world when it was installed. On summer evenings, watching baseball here with the fountains lit and the skyline visible to the northwest is one of the great experiences Kansas City offers.

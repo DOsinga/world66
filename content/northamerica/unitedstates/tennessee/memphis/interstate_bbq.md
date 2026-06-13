@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - barbecue
+score: 7.3
 ---
 
 Interstate Bar-B-Q on South Third Street has been a South Memphis institution since 1972, when Jim Neely opened it in a converted grocery store. The portions are substantial, the smoke is real, and the ribs — both wet and dry — are among the most discussed in the city. The beef brisket is less typical for Memphis barbecue and demonstrates a Texas influence that some appreciate and some don't. The sauce, sweet and thick, is the kind people either love or find cloying.

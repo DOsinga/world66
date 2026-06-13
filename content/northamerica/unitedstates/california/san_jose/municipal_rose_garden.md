@@ -9,6 +9,7 @@ latitude: 37.3413
 longitude: -121.9213
 sources:
   - https://en.wikipedia.org/wiki/Municipal_Rose_Garden_(San_Jose)
+score: 6.8
 ---
 
 San Jose's Municipal Rose Garden, in the Rose Garden neighbourhood northwest of downtown, holds about 4,000 rose plants across nearly 200 varieties. The garden was laid out in 1937 on the site of an old prune orchard and has been maintained by city gardeners and volunteers ever since. In 2010 the All-America Rose Selections named it the best public rose garden in the United States.

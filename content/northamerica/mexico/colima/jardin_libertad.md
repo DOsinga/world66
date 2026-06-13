@@ -4,6 +4,7 @@ type: poi
 latitude: 19.2436
 longitude: -103.7245
 tags: [things_to_do, square]
+score: 6.5
 ---
 
 Colima's main square — officially Jardin Libertad, but everyone just calls it the Plaza Principal — is the heart of the city. Shaded portales run along three sides, a wrought-iron bandstand sits in the middle, and the cathedral and Palacio de Gobierno close the fourth side. The trees keep the square cool even at noon.

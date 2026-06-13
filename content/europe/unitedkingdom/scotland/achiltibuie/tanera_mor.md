@@ -5,6 +5,7 @@ tags: [things_to_do, island]
 latitude: 58.01111
 longitude: -5.40833
 story: Tanera Mòr is home to Scotland's only private post office — it has issued its own stamps since 1970, which are valid for mail carried by the island's boat to the mainland.
+score: 7.8
 ---
 
 Tanera Mòr is the largest of the Summer Isles and the only one with any permanent habitation — a small fishing community that has seen its population dwindle to a handful of full-time residents. The island sits in the mouth of Loch Broom, visible from Achiltibuie's shoreline on clear days, and it rewards the short boat crossing with total quiet, seabird colonies, and views back to the mainland mountains.

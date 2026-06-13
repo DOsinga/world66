@@ -13,6 +13,7 @@ tags:
   - architecture
 title: Old College
 type: poi
+score: 8.0
 ---
 
 The original building of Aberystwyth University, and one of the most striking pieces of Gothic Revival architecture on the Welsh coast. The Old College was built in the 1860s as a hotel, then converted into the first college of the University of Wales in 1872 — an event that became a defining moment in the history of Welsh education and national identity.

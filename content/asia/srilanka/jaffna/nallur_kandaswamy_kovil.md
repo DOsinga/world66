@@ -14,6 +14,7 @@ story: >
   25-day festival in July–August draw hundreds of thousands of pilgrims. During the festival,
   male devotees pierce their bodies with metal skewers as an act of devotion and walk the
   processional route in states of apparent trance.
+score: 9.1
 ---
 
 The great Hindu temple of Jaffna, dedicated to Lord Murugan, and the spiritual heart of Tamil Sri Lanka. The gopuram — the towering ornate gate tower — rises above the surrounding streets in a cascade of painted deities and intricate carvings that makes it visible from well across the neighbourhood of Nallur, just east of the city centre.

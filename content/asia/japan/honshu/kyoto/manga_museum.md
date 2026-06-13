@@ -8,6 +8,7 @@ tags:
 - sight
 title: Kyoto International Manga Museum
 type: poi
+score: 6.9
 ---
 
 The Kyoto International Manga Museum occupies a former elementary school in the centre of the city — the building itself, from 1929, is a small period delight, with terrazzo stairs and high wooden classrooms. The museum opened in 2006 as a joint venture between the city and Kyoto Seika University and holds more than 300,000 manga volumes in long open-stack reading rooms that wrap around the entire building. Visitors are encouraged to pull a book off the shelf and read on the steps, the grass, or anywhere they can find space.

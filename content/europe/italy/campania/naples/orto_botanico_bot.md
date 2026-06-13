@@ -11,6 +11,7 @@ tags:
 - sight
 title: Orto Botanico
 type: poi
+score: 5.9
 ---
 
 Thirty acres of palms, ferns, cacti, and flowering plants founded by Joseph Bonaparte and Joachim Murat at the start of the 19th century. A quiet escape from the city noise, surrounded by high walls. Free admission; open weekday mornings.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 37.0270
 longitude: 22.1200
+score: 7.2
 ---
 
 The Kalamata seafront is one of the most genuinely pleasant in the Peloponnese: a long sandy beach backed by a pedestrianised promenade lined with cafes, restaurants, and the distinctive fan palms that give the area its subtropical character. Navarino Street runs parallel to the beach and has the densest concentration of bars and restaurants for evening eating and drinking.

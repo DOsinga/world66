@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Guildhall was gutted by a German firebombing raid on 10 January 1941. The clock tower kept ringing the hours all through the blitz; the rest of the building was a shell. It was rebuilt and reopened in 1959 by the queen."
+score: 6.4
 ---
 
 The grand Victorian town hall on Guildhall Square is the architectural centrepiece of the modern city. Designed in 1890 in a Classical Revival style by William Hill, with a tall central tower and a colonnaded portico, it was severely damaged in a 1941 bombing raid and reconstructed in the 1950s.

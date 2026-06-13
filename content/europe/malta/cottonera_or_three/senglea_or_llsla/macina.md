@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 The Macina is the curious wedge-shaped fortified building on the waterfront below the Senglea bastions, originally a 16th-century crane (*macina*) for lifting masts and rigging onto warships in the Galley Harbour below. It was the largest piece of dockyard machinery in the Mediterranean for centuries.

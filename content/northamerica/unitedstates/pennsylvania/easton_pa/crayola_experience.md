@@ -15,6 +15,7 @@ story: >
   been headquartered in the Lehigh Valley ever since; the factory
   itself is now in nearby Forks Township, but the visitor experience
   lives in downtown Easton.
+score: 5.3
 ---
 
 A four-storey activity centre and not, despite the older name, a working factory. The Crayola Experience occupies Two Rivers Landing on Centre Square and is designed almost entirely around hands-on art for younger children — a colour-melting station, a wax-figure machine that lets you mould your own crayon, naming and labelling stations, plus large-scale interactive screens.

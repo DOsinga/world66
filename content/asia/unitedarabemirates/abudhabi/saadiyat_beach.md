@@ -9,6 +9,7 @@ tags:
 neighbourhood: Saadiyat Island
 latitude: 24.5515
 longitude: 54.4470
+score: 7.5
 ---
 
 The long stretch of white sand on the eastern side of Saadiyat, open to the public for a modest entry fee. The water is shallow and calm, the sand fine enough to be soft underfoot, and the dunes behind are protected nesting ground for hawksbill turtles between March and June.

@@ -9,6 +9,7 @@ tags:
 latitude: 23.0156
 longitude: 72.5838
 snippet: "Mughal-era Sufi mosque and tomb complex, Jamalpur"
+score: 7.5
 ---
 
 Sardar Khan's Roza, completed in 1683, is a serene Mughal-era tomb-and-mosque complex in the Jamalpur area at the southern edge of the old walled city. The complex includes the tomb of **Nawab Sardar Khan**, a Mughal governor of Gujarat, in a smallish marble mausoleum surrounded by a colonnaded cloister. The 60-pillared **Sardar Khan Mosque** in the same compound is one of the most graceful smaller mosques in the city.

@@ -10,6 +10,7 @@ story: >
   The Black River Gorges is the last stronghold of the Mauritius flying fox, a large fruit bat with a wingspan approaching a metre. During mango and fig season you can sometimes see dozens of them hanging from the forest canopy, then launching themselves at dusk in slow, broad spirals over the gorge. They are a keystone species — without them pollinating and dispersing seeds, large sections of native forest could not regenerate.
 sources:
   - https://en.wikipedia.org/wiki/Black_River_Gorges_National_Park
+score: 8.9
 ---
 
 The Black River Gorges National Park covers the largest remaining tract of native forest in Mauritius, protecting deep gorges, river valleys, and highland plateau in the island's mountainous southwest. The park is accessible from several points around the Chamarel area, with a network of trails ranging from easy riverside walks to full-day ridge traverses with significant elevation gain.

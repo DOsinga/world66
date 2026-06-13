@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: La Corchuela
 type: poi
+score: 5.9
 ---
 
 A classic local taberna that has been pouring beer and serving free tapas for decades. Order a caña and what arrives alongside it — a slice of jamón, a piece of tortilla, a stewed migas with chorizo — depends entirely on what the kitchen feels like. The dining room behind the bar serves more substantial plates of pork cheeks in red wine, rabo de toro, and the regional cocido extremeño.

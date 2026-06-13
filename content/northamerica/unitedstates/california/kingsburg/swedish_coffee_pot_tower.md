@@ -10,6 +10,7 @@ story: >
   The coffee pot tower was built in 1931 as a standard municipal water tower, but in the 1970s the city council voted to give it a Swedish make-over as part of a broader effort to distinguish Kingsburg from every other small Central Valley town. They painted it red with white trim and added a lid and spout. It became the town's symbol — proof that a water tower can become an icon with enough conviction.
 sources:
   - https://en.wikipedia.org/wiki/Kingsburg,_California
+score: 5.8
 ---
 
 The Swedish Coffee Pot Water Tower is Kingsburg's most immediately recognisable feature — a 1930s water tower painted to look like an enormous red Swedish coffee pot, complete with lid, spout, and handle. It looms over the town centre at around 40 metres and is visible for miles across the flat San Joaquin Valley.

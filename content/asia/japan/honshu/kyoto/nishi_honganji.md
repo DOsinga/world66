@@ -9,6 +9,7 @@ tags:
 - sight
 title: Nishi Hongan-ji
 type: poi
+score: 8.6
 ---
 
 Nishi Hongan-ji is the older of the two Hongan-ji headquarters and is the principal seat of the Honganji branch of Jōdo Shinshū. The temple was moved to its current site in 1591 on the orders of the warlord Toyotomi Hideyoshi; in 1602 his successor Tokugawa Ieyasu deliberately split the sect by granting a separate plot a few hundred metres to the east — the origin of the rival Higashi Hongan-ji.

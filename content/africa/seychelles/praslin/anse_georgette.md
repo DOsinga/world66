@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, outdoor, swimming, beaches, sight]
 latitude: -4.3030
 longitude: 55.6900
+score: 8.8
 ---
 
 Anse Georgette is immediately west of Anse Lazio, separated by a rocky headland, and many people rank it even more beautiful — wilder, less visited, and backed by untouched palm forest. Access is restricted to guests of the Lemuria Resort, which occupies the land above the beach, but non-guests can reach it on foot via a coastal path (ask at the resort) or by arranging access through them.

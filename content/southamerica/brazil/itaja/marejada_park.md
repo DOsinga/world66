@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Marejada festival every October celebrates the Azorean Portuguese settlers who founded Itajaí in 1860 — the highlight is the bacalhau (salt cod) cooked in vast wood-fired ovens at the park, attended by tens of thousands."
+score: 6.1
 ---
 
 The city's main event park, on the south bank of the Itajaí-Açu river. The Marejada festival in October fills the grounds for ten days with food stalls, live music — fado, popular Brazilian — and folkloric dance from the descendants of the Azorean settlers.

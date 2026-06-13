@@ -5,6 +5,7 @@ snippet: "Modest Catholic church on the main road, a relic of Spanish missionary
 tags: [things_to_do, sight, church]
 latitude: 7.3451
 longitude: 134.4848
+score: 5.6
 ---
 
 The Sacred Heart Church sits on Koror's main commercial strip and is easy to miss between the dive shops and concrete shophouses. It is the Catholic parish church for Koror and a reminder that Palau was a Spanish possession from the 1500s until 1899, when Spain sold the islands to Germany after losing the Spanish-American War.

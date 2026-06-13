@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.81113
 longitude: -91.24855
+score: 7.2
 ---
 
 The Cathedral of Saint Joseph the Workman is the seat of the Roman Catholic Diocese of La Crosse and the most architecturally significant religious building in the city. Built in the 1950s in a modernist interpretation of Gothic forms, it has a soaring interior with tall narrow windows and a clean, unornamented quality that feels contemporary without feeling cold.

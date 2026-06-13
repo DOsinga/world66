@@ -13,6 +13,7 @@ tags:
 - bars_and_cafes
 - bar
 - tulum_pueblo
+score: 6.7
 ---
 
 Batey is the pueblo's most beloved bar, an open-fronted place on Calle Centauro Sur with a Cuban-leaning menu and live music most nights. The signature drink is the fresh sugar cane mojito, made with guarapo (cane juice) crushed on the spot by the converted Volkswagen at the entrance. The cocktail list extends from there into Cuban classics, dark and stormies, and a long list of rums by the glass.

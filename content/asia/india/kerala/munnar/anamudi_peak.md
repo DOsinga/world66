@@ -8,6 +8,7 @@ latitude: 10.1666
 longitude: 77.0600
 story: >
   Anamudi means "elephant's forehead" in Malayalam, and the peak does have a rounded, massive profile that resembles its namesake when seen from the surrounding valleys. At 2,695 metres it is the highest point in South India and the highest peak in the Western Ghats — significantly higher than the more famous peaks of northern India's lesser ranges. Climbing it requires a forest department permit and is only possible within Eravikulam National Park, which manages access to protect the fragile high-altitude ecosystem.
+score: 8.1
 ---
 
 Anamudi, at 2,695 metres the highest peak in South India, stands within the boundaries of Eravikulam National Park, about 15 kilometres from Munnar. It is a substantial summit by the standards of the peninsular hills — higher than anything in Sri Lanka or peninsular Malaysia — and the high-altitude grasslands around it support the Nilgiri tahr population that the park was established to protect.

@@ -11,6 +11,7 @@ tags:
 - shopping
 title: Pack Rats
 type: poi
+score: 6.4
 ---
 
 Pack Rats has got to be one of the coolest shops in Oklahoma City. You will find just about anything in the line of popular culture collectibles -- character items, advertising memorabilia, and a little of every other type of collectible imaginable. Even if you are not buying, it is a great place to browse.

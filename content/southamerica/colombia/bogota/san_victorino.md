@@ -7,6 +7,7 @@ tags:
 latitude: 4.6076
 longitude: -74.0830
 snippet: "Bogota's sprawling wholesale market district — clothes, electronics, hardware, food"
+score: 8.2
 ---
 
 San Victorino is the city's traditional commercial district west of La Candelaria, a dense maze of small shops, stalls, and warehouses selling everything imaginable at wholesale prices. It is where Bogotanos come for cheap clothing, electronics, household goods, and fabrics. The market spills into the surrounding streets and operates every day of the week.

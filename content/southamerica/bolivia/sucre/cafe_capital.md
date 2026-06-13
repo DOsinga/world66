@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - cafe
 snippet: Excellent specialty coffee a block from the cathedral
+score: 7.0
 ---
 
 Cafe Capital is a small specialty coffee shop on Plaza 25 de Mayo's south side, easy to miss between larger establishments. The owner roasts beans from Bolivian producers in the Yungas and Caranavi regions — single-origin Bolivian coffee has improved dramatically over the past decade and Cafe Capital is one of the best places in Sucre to taste it. Espresso, V60 pour-overs, cold brew, and a short menu of pastries and sandwiches.

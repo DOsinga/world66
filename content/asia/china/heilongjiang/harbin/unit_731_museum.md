@@ -10,6 +10,7 @@ story: >
   Unit 731 was the Imperial Japanese Army's covert biological and chemical warfare research unit. Between 1936 and 1945, it conducted lethal experiments on thousands of prisoners — Chinese, Soviet, Korean, and Allied — at its Pingfang facility south of Harbin. The site was demolished by the Japanese as they retreated, but the scale of the facilities and the nature of the experiments were so extreme that substantial ruins and documentation survived.
 sources:
   - https://en.wikipedia.org/wiki/Unit_731
+score: 7.8
 ---
 
 The Unit 731 Museum in Pingfang, about 25 kilometres south of central Harbin, is one of the most important and disturbing memorial sites in Asia. The facility was the headquarters of the Imperial Japanese Army's biological warfare unit during the Second Sino-Japanese War — a place where systematic medical experiments were carried out on prisoners, described in military documents euphemistically as "logs."

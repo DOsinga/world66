@@ -9,6 +9,7 @@ latitude: 39.3300
 longitude: 75.8300
 story: >
   Mahmud Kashgari compiled the Diwan Lughat al-Turk (Compendium of the Turkic Dialects) in Baghdad around 1072-1077, producing the first systematic encyclopedia of the Turkic language family. It contained the earliest known map to place a Turkic-speaking land at the centre of the world. The original manuscript survived in a single copy, discovered in a private library in Istanbul in 1914.
+score: 7.4
 ---
 
 The mausoleum of Mahmud Kashgari, the 11th-century scholar who produced the first comprehensive dictionary of Turkic languages, lies about 45 kilometres southwest of Kashgar in the village of Upal. It is not a grand monument — a simple domed structure in a walled compound on a low hill above an agricultural valley — but the site is quiet and the setting is appealing, with views of the mountains and the poplar-lined fields below.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.8
 ---
 
 The First Reformed Church at 160 Neilson Street is the descendant of New Brunswick's original Dutch Reformed congregation, founded in 1717. The Dutch settled the Raritan valley early — the city itself was Dutch before it was English — and this church traces directly to that community. The current 1812 building is a fine example of Federal-style ecclesiastical architecture, with a tall white steeple and a clear interior with a simple pulpit.

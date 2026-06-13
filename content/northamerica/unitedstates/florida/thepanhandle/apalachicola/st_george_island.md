@@ -9,6 +9,7 @@ tags:
   - nature
 story: >
   Until 1965 there was no bridge — you reached the island by boat or not at all. The four-mile causeway built that year, replaced in 2004, transformed the island, but development was kept low-rise by Florida state acquisition of the entire eastern third for the state park.
+score: 7.0
 ---
 
 A 28-mile barrier island across the bay from Apalachicola, reached by the John Gorrie Memorial Bridge and a four-mile causeway. The island is narrow, mostly low dunes and slash pine, with the Gulf on one side and the bay on the other. St. George Island State Park covers the eastern nine miles — empty white-sand beach, a campground, and a lighthouse.

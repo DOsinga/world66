@@ -10,6 +10,7 @@ latitude: 13.1658
 longitude: -61.2271
 story: >
   In 1793 Captain William Bligh — the same Bligh of the Bounty mutiny — completed the breadfruit voyage he had been trying to make for five years, delivering 544 breadfruit plants from Tahiti to St Vincent. They were intended as a cheap food source for enslaved plantation workers, who famously rejected the fruit at first. One of those original Bligh plantings, or a direct descendant, is still growing in the gardens.
+score: 8.1
 ---
 
 The St Vincent Botanical Garden is the oldest in the western hemisphere, founded in 1765 to propagate medicinal and economic plants for the British colonies. It still occupies the same 20-acre slope just above Kingstown — a quiet, well-maintained park of mahogany avenues, royal palms, cycads and tropical fruit trees.

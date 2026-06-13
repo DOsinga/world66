@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Royal_Shakespeare_Theatre
 story: >
   The current Royal Shakespeare Theatre opened in 2011 after a major rebuild that replaced most of the 1932 building while retaining its distinctive brick tower. The rebuild was controversial — it removed the controversial 1970s auditorium and replaced it with a thrust stage design, meaning the audience wraps around three sides of the stage as in an Elizabethan playhouse. The transformation from a traditional proscenium to a thrust stage fundamentally changed the relationship between actors and audience, and the RSC credits it with a significant improvement in the quality of the performances.
+score: 9.3
 ---
 
 The Royal Shakespeare Theatre sits on the bank of the Avon in the centre of Stratford, its distinctive brick tower one of the architectural landmarks of the town. The RSC has been based here since 1879, producing Shakespeare's plays in repertory with the company's own permanent ensemble of actors. The current building, completed in 2011 after a decade-long reconstruction, has a thrust stage that puts the audience on three sides of the playing space — a format that makes the theatre feel intimate despite its 1,040 seats.

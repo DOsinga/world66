@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - museum
 - art
+score: 6.8
 ---
 
 The Museo Civico of Teramo is the city's picture gallery, with works from the fifteenth to the twentieth century — strong on Abruzzese painters and including some good examples of the Neapolitan Baroque that travelled north along the coast. The collection is housed in a handsomely restored historic palazzo just off the central piazza.

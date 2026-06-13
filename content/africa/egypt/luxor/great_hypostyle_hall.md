@@ -12,6 +12,7 @@ story: >
   The Great Hypostyle Hall was built by Seti I and completed by Ramses II in the late 13th century BC. Its 134 papyrus-shaped columns cover 6,000 square metres — enough floor space for both St Paul's Cathedral and St Peter's in Rome combined. The two tallest columns, in the central nave, are 21 metres high and have capitals large enough to hold 50 standing people. When the hall was complete, it was roofed with stone slabs and would have been almost completely dark inside, lit only by clerestory windows high in the walls.
 sources:
   - https://en.wikipedia.org/wiki/Great_Hypostyle_Hall
+score: 9.5
 ---
 
 The Great Hypostyle Hall at Karnak is one of the most overwhelming architectural experiences in Egypt. Walking among 134 enormous columns, each carved and painted with relief scenes, gives a sense of the weight and ambition of ancient Egyptian religious architecture that photographs cannot capture. The hall is partly open to the sky now, after the roof collapsed in antiquity, but even exposed it retains a sense of compression and density.

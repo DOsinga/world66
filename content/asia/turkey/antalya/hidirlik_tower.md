@@ -10,6 +10,7 @@ latitude: 36.88138
 longitude: 30.70361
 story: >
   The Hıdırlık Tower's original purpose has been debated for centuries — Roman lighthouse, tomb, watchtower, or some combination of all three. The lower square section is Roman (probably 2nd century CE), while the upper round part is Byzantine. No inscription has been found to settle the question.
+score: 7.0
 ---
 
 Hıdırlık Tower sits at the southern tip of the Kaleiçi peninsula, where the old city walls meet the cliff edge above the Mediterranean. The squat, sturdy Roman-era tower is surrounded by Karaalioğlu Park, a long clifftop garden with dramatic views down to the sea and west along the coast towards the Taurus Mountains.

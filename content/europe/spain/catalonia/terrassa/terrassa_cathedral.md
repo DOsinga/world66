@@ -6,6 +6,7 @@ longitude: 2.011667
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The Cathedral of the Holy Spirit (Catedral del Sant Esperit) is Terrassa's bishopric cathedral, sitting on the Plaça Vella in the medieval old town. The current building is largely 19th-century, but parts of the structure go back to the 15th century, and it has been the principal parish church of the town for centuries.

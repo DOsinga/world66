@@ -7,6 +7,7 @@ tags:
   - shopping
 title: Fábrica La Aurora
 type: poi
+score: 7.7
 ---
 
 Fábrica La Aurora is a converted 19th-century textile factory on the north edge of the historic centre, now housing a collection of galleries, antique dealers, and design studios. The industrial architecture — high iron ceilings, brick columns, large windows — has been preserved and the building repurposed into one of the best browsing destinations in San Miguel.

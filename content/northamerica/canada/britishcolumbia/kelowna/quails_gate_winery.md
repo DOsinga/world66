@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 49.8431
 longitude: -119.5657
+score: 8.1
 ---
 
 Quails' Gate is one of the Okanagan's most respected wineries, occupying an estate on the west bank of Okanagan Lake with vineyards that slope down toward the water and views across to the Kelowna mountains. The estate has been producing wine since the 1950s and the quality is consistently high — the Chardonnay and Pinot Noir are the most celebrated, and the wines regularly appear on serious Canadian restaurant lists.

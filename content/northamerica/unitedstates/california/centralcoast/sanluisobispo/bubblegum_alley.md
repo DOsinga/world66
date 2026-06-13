@@ -10,6 +10,7 @@ address: 733 Higuera Street (between Broad and Garden Streets), San Luis Obispo,
 admission: Free
 story: >
   The alley has been accumulating gum since the late 1950s, and no one is entirely sure how it started. The most common story traces it to a rivalry between Cal Poly and Santa Barbara City College students around 1958, though rival origin myths exist. The city has cleaned it twice in its history — once in the 1970s and once in the 1990s — and both times the gum was back within weeks. The city gave up and it's now considered a local landmark, which means the cleaning crews leave it alone and tourists contribute to it instead.
+score: 6.1
 ---
 
 A 70-foot alley between two buildings on Higuera Street, its brick walls layered floor-to-ceiling in more than thirty years of accumulated chewing gum. Wads of gum in every color, some arranged into words, faces, hearts, and insults, most just pressed flat against whatever was nearest. The smell is mild and slightly sweet. The texture is unsettling if you touch anything.

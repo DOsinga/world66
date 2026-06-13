@@ -7,6 +7,7 @@ tags:
 latitude: 21.0407
 longitude: 105.8362
 snippet: "Small lakeside neighborhood and the spot where John McCain was shot down in 1967"
+score: 6.4
 ---
 
 Truc Bach Lake is a small lake in the Ba Dinh district, separated from the much larger West Lake to its west by the Thanh Nien road. The lake and the neighborhood around it are quieter and more residential than the Old Quarter, and the area makes for a pleasant walk or cycle ride — the roads around the lake are lined with trees, cafes, and small restaurants. The Tran Vu Quan temple sits on its northern shore.

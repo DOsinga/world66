@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.1650
 longitude: 123.5860
+score: 7.2
 ---
 
 Hoyop-Hoyopan (the name means "blow-blow" in Bicolano, after the draft of air through the passages) is a limestone cave system about 30 kilometres west of Legazpi in the municipality of Camalig. The cave is large enough to explore on a guided walk of around an hour, with stalactite and stalagmite formations, a small underground river, and several chambers large enough to have hosted human habitation — archaeological finds from Neolithic period settlements were made inside.

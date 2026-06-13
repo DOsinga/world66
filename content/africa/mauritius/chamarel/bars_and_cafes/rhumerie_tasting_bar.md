@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -20.4270
 longitude: 57.3830
+score: 6.4
 ---
 
 The tasting bar at the Rhumerie de Chamarel is the obvious place in Chamarel to have a serious drink. After the distillery tour, or independently, you can sit at the bar and work through the range: white rum, aged expressions, and flavoured rums infused with vanilla, coconut, and other island botanicals. The terrace looks out over the cane fields and down toward the coast.

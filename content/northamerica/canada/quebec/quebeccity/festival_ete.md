@@ -9,6 +9,7 @@ longitude: -71.2133
 snippet: Massive outdoor music festival in early July on the Plains of Abraham
 sources:
   - https://en.wikipedia.org/wiki/Quebec_City_Summer_Festival
+score: 8.1
 ---
 
 One of the largest outdoor music festivals in North America, held for eleven days in early July. The Festival d'été de Québec uses the Plains of Abraham, the Vieux-Port, and several other outdoor stages across the city. The headliner stages draw major international acts — the festival has hosted Paul McCartney, The Rolling Stones, David Bowie, and hundreds of others since its founding in 1968.

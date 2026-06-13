@@ -9,6 +9,7 @@ tags:
 - bar
 title: The Agora
 type: poi
+score: 7.1
 ---
 
 One of Cleveland's and the country's finest rock concert venues, an institution for over 40 years that has hosted many rock legends. For rock enthusiasts visiting the Rock and Roll Hall of Fame, this is the best choice for live music. Located between downtown and University Circle on Euclid Avenue; take a cab or bus if you do not have a car.

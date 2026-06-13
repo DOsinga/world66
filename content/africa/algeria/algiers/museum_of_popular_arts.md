@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museum of Popular Arts
 type: poi
+score: 8.0
 ---
 
 Indigenous arts and crafts — carpets, jewellery, ceramics and furniture — housed in an Ottoman palace built in 1570 and later used by the French as a town hall. The palace itself is as interesting as the collection it contains.

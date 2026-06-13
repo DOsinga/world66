@@ -8,6 +8,7 @@ tags:
 - nature
 title: Hainan Tropical Botanical Garden
 type: poi
+score: 7.2
 ---
 
 The Tropical Botanical Garden west of central Sanya is a research-and-display garden specialising in the tropical flora of southern China and Southeast Asia. The grounds are extensive — figure on three to four hours if you want to see the main sections — and include a palm grove, an aroid and bamboo collection, a fruit-tree section with most of the regional commercial species (mango, lychee, longan, durian, dragonfruit, jackfruit), and a useful medicinal plants display with bilingual labels.

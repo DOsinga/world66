@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 41.0340
 longitude: 29.0440
+score: 8.0
 ---
 
 Kuzguncuk is a small neighbourhood on the Asian shore of the Bosphorus, north of Üsküdar, that has maintained the kind of multicultural character most of Istanbul has lost. Greeks, Armenians, Jews, and Muslims lived here side by side for centuries, and a synagogue, a church, and a mosque still stand within metres of each other on the same street — one of the few places in Istanbul where this remains visible.

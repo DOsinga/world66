@@ -7,6 +7,7 @@ tags:
 - books
 title: 'Fiji''s Wild Beauty: A Photographic Guide to Coral Reefs of the South Pacific'
 type: poi
+score: 6.7
 ---
 
 Over 750 photographs of Fiji's underwater world, from soft corals to the creatures that inhabit them. More visual document than travel guide, but a good companion for divers heading to Rainbow Reef or the Namena Marine Reserve.

@@ -10,6 +10,7 @@ story: >
   a single train can carry over 20,000 tonnes of ore in more than 200 wagons, stretching
   over two kilometres. The sheer weight of these trains has flattened the track so many
   times that the line has been rebuilt several times over its history.
+score: 9.1
 ---
 
 The iron ore train between Zouerate and [Nouadhibou](/africa/mauritania/nouadhibou) is one of the great eccentric rail journeys on earth. Once a day, the train assembles in Zouerate — sometimes two to three kilometres of ore wagons — and heads west across 700 km of open Sahara. Passenger wagons are attached to the rear, or you can ride for free in the open ore wagons. The ore wagon option is cold at night, covered in iron dust by morning, and completely memorable.

@@ -9,6 +9,7 @@ latitude: 16.3308
 longitude: -61.3506
 story: >
   Le Moule was Guadeloupe's first capital before Pointe-à-Pitre took over that role. The town never quite recovered its former prominence, but the waves that made the north Atlantic coast dangerous for colonial-era shipping turned out to be exactly what modern surfers wanted.
+score: 7.3
 ---
 
 Le Moule, on the Atlantic north coast of Grande-Terre, is the surfing capital of Guadeloupe. The town faces open ocean and receives consistent Atlantic swells that produce reliable waves — nothing enormous, but good enough to support a surf culture that has grown steadily since the 1980s.

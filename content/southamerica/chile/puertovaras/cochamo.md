@@ -8,6 +8,7 @@ snippet: "Yosemite-style granite valley two hours southeast"
 latitude: -41.51000
 longitude: -72.30000
 story: "Cochamó's granite walls — the Trinidad, the Capicúa, the Cerro Trinidad — were largely unexplored by climbers until the late 1990s, when a group of Chilean and Argentine climbers began establishing free routes on them. The valley now hosts some of the best big-wall climbing in South America, with routes up to a thousand metres long."
+score: 8.7
 ---
 
 The Cochamó valley, two hours southeast of Puerto Varas at the head of the Reloncaví fjord, is one of the wildest places easily reached from town. Vertical granite walls rise straight from a temperate rainforest of southern beech and alerce trees, with waterfalls dropping down them, and the comparison with Yosemite is fair if a thousand kilometres further from anywhere.

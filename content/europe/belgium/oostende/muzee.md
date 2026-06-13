@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 type: poi
+score: 8.5
 ---
 
 MuZee is Ostend's main art museum, housed in a converted department store on the seafront. The collection covers Belgian modern art from the late 19th century onwards, with particular strength in the Ostend School — Ensor, Spilliaert, and their contemporaries who worked in and around the city. The Ensor rooms are the most visited, but the survey of 20th-century Belgian painting is broader and more interesting than the museum's reputation suggests.

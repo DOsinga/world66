@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, archaeology]
 latitude: 35.8556
 longitude: 9.2061
+score: 7.1
 ---
 
 The Makthar Museum stands at the entrance to the archaeological site and was inaugurated in 1967. The collection is modest in scale but well-chosen: artefacts from excavations at Mactaris spanning the Numidian, Punic, Roman, Christian, and Byzantine periods. The standout pieces are the carved steles — funerary and votive monuments — including the Ghorfa steles discovered near the site in 1967, which provide insight into religious practice in Roman North Africa.

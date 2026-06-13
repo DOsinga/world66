@@ -7,6 +7,7 @@ tags:
 - family
 title: Kansas City Zoo
 type: poi
+score: 6.3
 ---
 
 Kansas City Zoo covers over 200 acres in Swope Park — one of the largest urban parks in the United States — making it one of the bigger zoos in the country. The Africa section is the centerpiece: a sprawling re-created savanna with giraffes, elephants, rhinos, and zebras in large naturalistic habitats. A train tour loops through the Africa section and is the most popular way to see it, though walking the trails gets you closer to the animals.

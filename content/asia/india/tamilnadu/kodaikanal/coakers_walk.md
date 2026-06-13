@@ -7,6 +7,7 @@ tags:
 latitude: 10.2295
 longitude: 77.4891
 story: "The walk was built in 1872 by Lieutenant Coaker, a British officer stationed at Madurai who saw in the escarpment edge a place to exercise with a view. The path has changed little since, though the telescope at the midpoint is a later addition."
+score: 7.3
 ---
 
 Coaker's Walk is a 1 km paved path cut into the edge of the escarpment, offering views down to the plains 2,000 metres below when the clouds cooperate. The mist rolls in unpredictably — come early morning for the best chance of clear air, and be prepared to see nothing at all if the weather has turned. When it is clear, the drop is spectacular.

@@ -12,6 +12,7 @@ story: >
   suspended 152 metres above the gorge — one of the steeper cable car crossings in Ecuador, powered
   by a Nissan pickup motor bolted to a frame on the far bank. The basket swings gently in the gap
   between two walls of cloud forest, which tends to concentrate the mind.
+score: 7.9
 ---
 
 The Nambillo waterfalls are reached by a combination of tarabita (cable car) across the Rio Nambillo gorge and a forest trail on the far side. Seven waterfalls are strung along the trail — named Reina, Madre, Colibri, Guarumos, Ondinas, Maderos, and Nambillo — ranging from curtain falls to narrow drops into deep pools. The trail takes two to four hours return depending on how far you go and how long you spend swimming.

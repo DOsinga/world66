@@ -7,6 +7,7 @@ tags:
 - nature
 title: Parque Tantauco
 type: poi
+score: 7.9
 ---
 
 Parque Tantauco protects a large swath of southern Chiloé, with peat bogs, forests, lakes, and longer trails than most casual visitors attempt. It is wilder and less convenient than the central island sights.

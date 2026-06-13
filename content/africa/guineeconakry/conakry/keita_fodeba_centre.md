@@ -7,6 +7,7 @@ tags:
 - cultural_centre
 title: Keita Fodeba Centre for Acrobatic Arts
 type: poi
+score: 7.7
 ---
 
 Named after the choreographer and politician Fodéba Keïta — founder of the Ballets Africains, briefly Guinea's interior minister, and ultimately one of Sékou Touré's most prominent victims at Camp Boiro — the Centre Fodéba Keïta is Guinea's national training school for acrobatic and circus arts. It is one of the most respected institutions of its kind in Africa, and its graduates regularly join Cirque du Soleil and other major international touring companies.

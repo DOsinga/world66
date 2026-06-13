@@ -6,6 +6,7 @@ longitude: 12.2200
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 Pomposa sits in the middle of the Parco del Delta del Po, a Unesco-listed wetland of lagoons, rice fields, dunes and pine woods stretching from Comacchio in the south to the mouth of the Po in the north. It is one of the best birdwatching areas in Italy: pink flamingos, herons, avocets, glossy ibis and breeding terns all use the lagoons, and in winter the marshes fill with ducks.

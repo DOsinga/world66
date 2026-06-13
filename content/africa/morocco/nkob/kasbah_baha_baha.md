@@ -7,6 +7,7 @@ tags:
 - museum
 latitude: 30.6086
 longitude: -7.4337
+score: 6.6
 ---
 
 Kasbah Baha Baha is one of the few traditional Nkob kasbahs to have been carefully restored and opened to outside visitors. The owners — a local family who returned to the village after years working abroad — have converted part of the structure into a small ethnographic museum displaying old Berber jewellery, agricultural tools, kitchen and weaving implements, and explanatory panels on kasbah construction and palmery agriculture.

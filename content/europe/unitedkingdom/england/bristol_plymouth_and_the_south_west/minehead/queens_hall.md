@@ -6,6 +6,7 @@ longitude: -3.4677
 tags:
   - things_to_do
   - sight
+score: 5.0
 ---
 
 The Queen's Hall is a small theatre and cinema on the seafront, built in 1914 as part of the town's expansion into a holiday resort. It has been run as a venue almost continuously ever since, showing films most days and hosting live music, stand-up, and amateur drama.

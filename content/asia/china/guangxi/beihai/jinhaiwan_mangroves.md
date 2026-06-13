@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 21.5167
 longitude: 109.0500
+score: 6.9
 ---
 
 The Jinhaiwan mangrove forest on the western edge of the city is one of the more accessible mangrove ecosystems on China's southern coast. Elevated boardwalks wind through the forest for several kilometres, passing through the canopy of the mangrove trees and giving views down to the tidal mudflats where crabs, mudskippers, and wading birds work the exposed substrate at low tide.

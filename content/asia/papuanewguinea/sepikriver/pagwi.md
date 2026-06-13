@@ -8,6 +8,7 @@ tags:
   - town
 latitude: -4.0565
 longitude: 143.0298
+score: 5.2
 ---
 
 Pagwi is the principal road-river junction on the Sepik: a rough seven-hour ride from Wewak on the north coast over the Prince Alexander Range brings you here, and the river takes over. There is a basic guesthouse, a small market, and a handful of operators who run trips downriver — typically three to seven days by motorised longboat through the Middle Sepik to the Chambri Lakes and back.

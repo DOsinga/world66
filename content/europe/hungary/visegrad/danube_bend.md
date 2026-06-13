@@ -6,6 +6,7 @@ longitude: 18.9317
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The Danube Bend — Dunakanyar in Hungarian — is one of the great river views of Central Europe. Just north of Visegrad, the Danube makes a dramatic right-angle turn from its eastward course and swings south toward Budapest, hemmed in between wooded hills on both banks. The view from the Citadel above town is the classic vantage point, but the curve of the river is also visible from the main road and from the riverbank promenade in Visegrad itself.

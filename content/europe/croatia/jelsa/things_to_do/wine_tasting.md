@@ -6,6 +6,7 @@ tags:
   - food_and_drink
 latitude: 43.1608
 longitude: 16.6930
+score: 7.2
 ---
 
 Hvar is one of Croatia's better wine islands, and Jelsa is surrounded by the vineyards that produce the local Plavac Mali — a full-bodied red with high tannins that pairs well with grilled lamb and octopus. Several wineries in the hills above town welcome visitors for tastings; Vina Ivan Dolac is among the most accessible, producing wine from grapes grown on the island's steep south-facing terraces.

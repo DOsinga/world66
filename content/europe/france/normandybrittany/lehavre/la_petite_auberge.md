@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: La Petite Auberge
 type: poi
+score: 5.4
 ---
 
 La Petite Auberge is one of Le Havre's most dependable traditional restaurants, serving Norman cuisine in a stone-walled dining room near the old cathedral quarter. The menu follows the seasons and the market: expect fish from the morning's catch at the port, duck from the bocage, and a dessert trolley that takes Calvados and cream more seriously than is strictly advisable.

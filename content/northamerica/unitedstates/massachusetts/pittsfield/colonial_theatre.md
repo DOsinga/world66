@@ -10,6 +10,7 @@ latitude: 42.4462
 longitude: -73.2539
 sources:
   - https://en.wikipedia.org/wiki/Colonial_Theatre_(Pittsfield,_Massachusetts)
+score: 7.7
 ---
 
 The Colonial Theatre is Pittsfield's restored showpiece, a richly decorated early twentieth-century theatre on South Street. Its interior has the gilt, balconies, and theatrical confidence of an era when even medium-sized cities built performance spaces with serious ambition.

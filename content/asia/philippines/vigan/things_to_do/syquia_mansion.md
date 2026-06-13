@@ -1,6 +1,7 @@
 ---
 title: "Syquia Mansion"
 type: poi
+score: 7.8
 ---
 
 The Syquia Mansion is the ancestral home of Elpidio Quirino, the sixth President of the Philippines, and one of the best-preserved ilustrado houses in Vigan. Built in the late 19th century and now operated as a museum, it gives a more intimate picture of upper-class Ilocano life than the grand heritage streetscape outside suggests — the rooms are arranged much as they would have been in Quirino's childhood, with period furniture, family photographs, and personal effects preserved behind glass.

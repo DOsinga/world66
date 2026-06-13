@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.3890
 longitude: -81.6590
+score: 7.4
 ---
 
 Catty Shack Ranch is a non-profit sanctuary for big cats — lions, tigers, leopards, pumas, jaguars, and other large felines — that cannot be released into the wild because they were born in captivity or rescued from illegal ownership situations. It is not a zoo: the animals live in large enclosures and are not displayed for entertainment. The ranch offers guided tours that allow visitors to see the animals up close while learning about the individual histories of each resident.

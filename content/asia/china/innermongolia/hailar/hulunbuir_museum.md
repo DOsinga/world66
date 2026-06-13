@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 49.2097
 longitude: 119.7711
+score: 7.2
 ---
 
 The Hulunbuir Museum in central Hailar covers the natural history, archaeology, and cultural heritage of the prefecture — one of the largest administrative divisions in China. The natural history sections are solid, with good exhibits on the steppe ecosystem, the region's mammal and bird fauna, and the geology of the Hulunbuir basin. The cultural sections cover the multiple ethnic groups that have lived here: Mongolian, Ewenki, Daur, and Buryat communities all have their own displays.

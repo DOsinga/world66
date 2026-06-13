@@ -1,6 +1,7 @@
 ---
 title: "Portman Street"
 type: poi
+score: 6.7
 ---
 
 Portman Street is Oakleigh's main commercial strip, running through the centre of the suburb and connecting the train station to the Eaton Mall precinct. It has the character of a working suburban high street — a mix of Greek delis, independent grocers, bakeries, fruit shops, and service businesses that cater to the local community rather than to visitors.

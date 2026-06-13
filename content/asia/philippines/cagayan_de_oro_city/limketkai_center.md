@@ -5,6 +5,7 @@ latitude: 8.482
 longitude: 124.654
 snippet: "CDO's main upscale mall, the city's primary hub for sit-down restaurants and air-conditioned relief"
 tags: [eating_out, restaurant]
+score: 5.2
 ---
 
 Limketkai Center is the dominant mall in CDO and the place where most of the city's better restaurants are concentrated. The complex includes a large shopping mall, a hotel, and an outdoor strip of restaurants and cafes that stays busy through the evening. It sits along CM Recto Avenue, roughly central in the city, and is well-connected by jeepney routes from most parts of CDO.

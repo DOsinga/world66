@@ -14,6 +14,7 @@ story: >
   Washington Navy Yard, where invading British troops chipped off pieces of
   the carved decoration during the 1814 burning of Washington — the damage is
   still visible today.
+score: 6.3
 ---
 
 The oldest military monument in the United States, erected in 1806 to honour six naval officers killed during the First Barbary War (1801-1805) off the coast of Tripoli. The monument moved twice before settling at the Naval Academy in 1860 — first from Washington to the US Capitol grounds in 1831, then to its current spot on the academy's main quad.

@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/Army_Museum_of_Western_Australia
+score: 6.4
 ---
 
 The Army Museum of Western Australia occupies the original 1910 Artillery Barracks on Burt Street, a fine red-brick complex on the rise above the harbour. The collection covers the state's military involvement from the colonial period to recent peacekeeping deployments, with strong holdings on the two World Wars and the Vietnam War.

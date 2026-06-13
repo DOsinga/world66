@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.4221
 longitude: -5.0782
+score: 7.2
 ---
 
 Lusty Glaze is the prettiest of Newquay's town beaches — a small cove enclosed by tall cliffs, with sand at low tide and a beach restaurant and bar set into the rocks at the back. It is technically privately owned (one of the few private beaches in Britain) but is open to the public free of charge.

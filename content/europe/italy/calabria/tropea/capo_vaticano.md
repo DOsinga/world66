@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 38.6203
 longitude: 15.8444
+score: 8.7
 ---
 
 Capo Vaticano, about 12 kilometres south of Tropea by road, is the most dramatic headland on the Coast of the Gods — a rocky promontory rising to a lighthouse above a series of coves and beaches that are among the finest in Calabria. The water here is extraordinarily clear, sheltered by the cape from the open sea, and the coves at Santa Maria and Grotticelle attract snorkellers and divers as well as swimmers.

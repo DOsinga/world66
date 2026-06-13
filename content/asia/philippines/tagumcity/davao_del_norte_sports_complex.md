@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 7.4551
 longitude: 125.7836
+score: 5.8
 ---
 
 The largest sports complex in the Davao region, a significant provincial facility on the western edge of Tagum City. The complex includes a large stadium, swimming facilities, courts for basketball and other sports, and grounds that host regional competitions and community events. It was built to position Tagum as a sports hub for southern Mindanao.

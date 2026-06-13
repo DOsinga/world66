@@ -8,6 +8,7 @@ tags:
 latitude: 40.3489
 longitude: -75.0408
 snippet: 1768 Quaker meeting house, the oldest religious building in Bucks County
+score: 7.2
 ---
 
 The Buckingham Friends Meeting House, built in 1768, is the oldest surviving religious building in Bucks County and one of the most intact 18th-century Quaker structures in Pennsylvania. The meeting was founded in 1705 by Quaker settlers who had come from Buckinghamshire in England — hence the name — and the current building replaced an earlier wooden structure that had served the community for sixty years.

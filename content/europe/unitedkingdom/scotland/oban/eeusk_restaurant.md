@@ -6,6 +6,7 @@ longitude: -5.4705
 tags:
   - eating_out
   - restaurant
+score: 6.5
 ---
 
 Eeusk (pronounced "aysk", Gaelic for "fish") is the most consistently praised seafood restaurant in Oban. It occupies a harbourfront position with large windows overlooking the bay and serves langoustines, scallops, haddock, and crab at a level of quality that makes it worth booking well in advance in summer.

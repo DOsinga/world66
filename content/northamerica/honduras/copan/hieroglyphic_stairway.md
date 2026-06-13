@@ -9,6 +9,7 @@ latitude: 14.8368
 longitude: -89.1424
 story: >
   The stairway was damaged by a collapse that scattered the individual stone blocks and partially disordered the inscription. When archaeologists first reassembled it in the 1940s, they had to make educated guesses about the sequence of many steps, and the reconstruction is now known to contain errors. The lower portion of the stairway — which had remained in place — is securely read, but scholars debate the correct order of some of the upper steps. Reading the full inscription correctly requires correlating the stairway with other Copán monuments and inscriptions.
+score: 9.0
 ---
 
 The Hieroglyphic Stairway on Temple 26 in the Principal Group is the longest known Maya inscription, covering 63 steps with approximately 2,200 carved glyphs. The stairway was commissioned by King Smoke Shell around AD 755 to celebrate the Copán dynasty's history and legitimacy. The steps rise steeply from the base of the pyramid to the summit temple; figure sculptures of seated kings are interspersed along the central axis.

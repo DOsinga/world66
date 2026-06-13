@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -20.4105
 longitude: 57.7090
+score: 6.6
 ---
 
 Mahébourg's waterfront faces Grand Port Bay, the largest lagoon on Mauritius, and the promenade along the seafront is the social heart of the town. In the late afternoon, locals walk, cycle, and sit out watching the water. The view across the bay takes in the mountains of the south coast and, on clear days, the distant outline of Île aux Aigrettes.

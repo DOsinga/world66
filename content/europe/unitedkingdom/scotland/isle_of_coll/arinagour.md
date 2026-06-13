@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Arinagour means 'shieling of the goats' in Gaelic. The double row of whitewashed cottages was laid out by the Stewart lairds in the 1830s during the Clearances, when the population was forcibly moved off the better farmland."
+score: 5.8
 ---
 
 Arinagour is the only village on Coll and where the CalMac ferry from [Oban](/europe/unitedkingdom/scotland/oban) ties up. A single street of white-painted cottages curls around the bay, with the small Coll Hotel at one end and the pier at the other. Most of the island's 150 or so residents live here or in the surrounding crofts.

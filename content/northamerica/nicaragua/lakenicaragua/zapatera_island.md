@@ -6,6 +6,7 @@ longitude: -85.8330
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 Zapatera is the lake's second-largest island and one of its quietest — a forested, sparsely inhabited volcanic island just south of Granada that has been protected as a national park since 1983. Pre-Columbian inhabitants left some of the most important sculptural art in Central America here: massive basalt statues of deities, warriors and animals, many now in the museum of the Convento San Francisco in [Granada](/northamerica/nicaragua/granada).

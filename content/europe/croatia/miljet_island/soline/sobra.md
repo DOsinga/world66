@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trip]
 latitude: 42.733333
 longitude: 17.6
+score: 5.7
 ---
 
 Sobra is where the ferry from Dubrovnik arrives and most first-time visitors to Mljet land, but few stay long. The village is a working port rather than a tourist destination — a small harbour, a handful of houses, a café or two, and a bus stop. For travellers based in Soline or the national park end of the island, Sobra is primarily a ferry connection, but it's also the gateway to Mljet's less-visited eastern half, which lacks the national park designation and the organised tourism that comes with it.

@@ -7,6 +7,7 @@ tags:
 latitude: 37.0019
 longitude: -8.9406
 story: "Tonel faces southwest and catches the full force of the Atlantic swells that have crossed uninterrupted from the Americas. The result is consistent, powerful surf that draws serious surfers from across Europe. On a big day, waves routinely reach 3–4 metres. On a small day, it's still wild."
+score: 7.2
 ---
 
 The main surf beach for Sagres, tucked beneath the fortress cliffs on the south side of the headland. The beach is wide and dramatic, with good surf almost year-round. Surf schools operate here in summer and autumn; the season extends well into winter for experienced surfers who don't mind the cold. Boards and wetsuits can be rented from outfitters in the village.

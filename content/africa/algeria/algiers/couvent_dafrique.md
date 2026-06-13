@@ -6,6 +6,7 @@ longitude: 3.0400
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The Couvent d'Afrique is a hilltop monastery and school at the northern end of Algiers, close to Notre Dame d'Afrique. The adjacent lookout point offers one of the most sweeping panoramas over the city and the Bay of Algiers. From here the full scale of the natural amphitheatre is clear: the hills curving around the bay, the white buildings cascading to the port, and beyond the Mediterranean horizon.

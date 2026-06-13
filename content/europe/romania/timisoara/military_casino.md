@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 The Military Casino sits on King Michael I Boulevard, opposite Liberty Square — a Renaissance-Revival palace from 1885 designed by the Viennese architects Helmer and Fellner (the same firm responsible for the Opera). It served as the officers' social club for the Habsburg garrison and continues today as a military officers' association building, with a concert hall and exhibition rooms on the upper floors.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Craigston Castle
 type: poi
+score: 7.6
 ---
 
 Four miles north-east of Turriff, Craigston Castle is one of the more idiosyncratic survivals of early 17th-century Scottish baronial architecture. Built in 1604–07 by the Urquhart family — the same family that produced the eccentric scholar Sir Thomas Urquhart, translator of Rabelais — it has an unusual U-shaped plan with the two wings of the U joined at the top by a single ornately carved stone arch supporting an upper gallery.

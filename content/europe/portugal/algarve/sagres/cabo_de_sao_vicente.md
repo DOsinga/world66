@@ -8,6 +8,7 @@ tags:
 latitude: 37.0231
 longitude: -8.9944
 story: "The lighthouse at São Vicente is the most powerful in Europe, with a beam visible 60 nautical miles out to sea. Before GPS, every ship sailing between northern Europe and the Mediterranean passed this cape and took a bearing off it. Standing here in a westerly gale, looking at nothing but open ocean all the way to America, the navigators' courage becomes easier to understand."
+score: 8.3
 ---
 
 The true southwestern tip of continental Europe — a clifftop promontory with a lighthouse, a small fort, and an exposed car park that fills up at sunset regardless of season. The cliffs drop 75 metres to the sea on three sides. On a windy day the spray comes up and the light goes golden; it's one of those places that earns its own legend.

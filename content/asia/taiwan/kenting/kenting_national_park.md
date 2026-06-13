@@ -8,6 +8,7 @@ latitude: 22.0000
 longitude: 120.8000
 story: >
   Kenting was designated Taiwan's first national park in 1984. Its mixed coral grassland ecosystem is unique in Taiwan — the open savanna on the cape's eastern side was created centuries ago by indigenous Paiwan farming practices, and without active management it would quickly revert to forest.
+score: 8.7
 ---
 
 Kenting National Park covers the entire Hengchun Peninsula and surrounding sea, encompassing beaches, coral reefs, tropical forests, and the peculiar open grassland of the cape — a 33,000-hectare reserve that protects the most biodiverse corner of Taiwan. The park spans three ecological zones: the western side facing the Taiwan Strait has calm beaches and developed resort areas; the eastern Pacific coast is rockier and more exposed, with dramatic wave action; the interior contains limestone hills and cave systems.

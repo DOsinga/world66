@@ -13,6 +13,7 @@ story: >
   from the Cantabrian Sea just outside the bay, and the best of them — from
   Santoña, about 40 km east — are considered among the finest anchovies in the
   world, sold in small tins and jars that travel home in suitcases across Europe.
+score: 8.2
 ---
 
 The Mercado de la Esperanza, an iron-framed covered market built in 1904, is the culinary heart of Santander. Its two levels are packed with stalls selling everything the Cantabrian coast and interior produces: gleaming fresh fish and shellfish on the ground floor, with percebes (barnacles), navajas (razor clams), and whatever was caught that morning laid out on crushed ice; fruit and vegetables from the valley farms; local cheeses, cured meats, and the region's outstanding tinned anchovies on the upper floor.

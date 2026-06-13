@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Norman Foster concert hall with three auditoriums on the Tyne
+score: 7.8
 ---
 
 The shimmering steel-and-glass concert hall on the Gateshead bank, designed by Norman Foster and opened in 2004. Renamed The Glasshouse International Centre for Music in 2024 after a corporate sponsorship change but still known to everyone locally as the Sage. Three auditoriums of different sizes host the Royal Northern Sinfonia, touring orchestras, pop and folk acts, and a heavy programme of jazz.

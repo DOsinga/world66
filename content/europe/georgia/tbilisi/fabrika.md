@@ -8,6 +8,7 @@ tags:
 - sight
 title: Fabrika
 type: poi
+score: 6.6
 ---
 
 Fabrika — "Factory" — is a former Soviet garment factory on Ninoshvili Street that was converted in 2017 into one of Tbilisi's most successful creative spaces. The factory courtyard is lined with shipping container shops and bars, and the surrounding buildings house studios, a hostel, a climbing wall, and several full restaurants. The whole complex is one of the best places to get a feel for the Tbilisi creative scene.

@@ -14,6 +14,7 @@ story: >
   stack together.
 sources:
   - https://en.wikipedia.org/wiki/Lake_Sidihoni
+score: 6.7
 ---
 
 Lake Sidihoni sits on the highland plateau in the interior of Samosir, about 9 kilometres from Pangururan, at an elevation above the surrounding Lake Toba. It is a small, shallow lake surrounded by rice fields and forest, unremarkable in itself but remarkable for its geographical position — it is often described as a lake on an island in a lake on an island (the island in question being Sumatra). The recursive geography is genuinely unusual.

@@ -10,6 +10,7 @@ longitude: -1.8461
 sources:
   - https://en.wikipedia.org/wiki/Bono_Manso
   - https://en.wikipedia.org/wiki/Bono_people
+score: 7.6
 ---
 
 About 16 km north of Techiman, the village of Bono Manso sits on the site of what was once the capital of the Bono state — a city that stood for roughly 700 years before the Asante destroyed it in 1723. At its height, it was a genuine urban centre with distinct residential quarters, active shrine complexes, and workshops producing pottery and metalwork. Muslim traders from the Mali Empire maintained a presence here, exchanging salt and textiles for gold and kola.

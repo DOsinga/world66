@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 story: "The Procession began in 1990 with about 35 people walking through downtown to honour the artist Susan Johnson's late father. By the 2020s it had grown to over 150,000 participants — one of the largest public commemorations of the dead in North America."
+score: 8.3
 ---
 
 The All Souls Procession is Tucson's defining annual event — a two-mile mass walk through downtown on the Sunday after Halloween, in which tens of thousands of people in skeleton makeup, masks, and costumes carry photographs, written intentions and effigies of their dead through the streets to a final urn-burning ceremony.

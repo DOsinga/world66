@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.4103
 longitude: 51.3997
+score: 7.0
 ---
 
 Umm Salal Mohammed Fort, about 20 km north of Doha, is a restored 19th-century Qatari fort surrounded by a small village of traditional courtyard houses. It is less visited than Doha Fort and gives a better sense of how rural Qatar lived before the oil era. The fort tower stands intact and the surrounding settlement — low mud-brick walls, shaded courtyards — has been sympathetically preserved.

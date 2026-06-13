@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.1505
 longitude: -8.8618
+score: 6.8
 ---
 
 The Casino Figueira on the promenade is one of the defining landmarks of the town — a historic institution that has been part of Figueira's resort character since the late 19th century. The main building is worth seeing for the architecture alone: a grand presence on the seafront that sets the tone for the whole resort.

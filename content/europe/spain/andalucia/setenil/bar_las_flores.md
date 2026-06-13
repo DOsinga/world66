@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 36.8628
 longitude: -5.1817
+score: 6.3
 ---
 
 Bar Las Flores sits on Calle Cuevas de la Sombra, the darker of the two cave streets, and has been a local fixture for decades. The bar serves the kind of simple tapas that locals actually eat rather than the slightly more tourist-oriented versions found on the busier Cuevas del Sol: patatas bravas, tortilla española, boquerones fritos, and whatever the kitchen has decided to prepare that day.

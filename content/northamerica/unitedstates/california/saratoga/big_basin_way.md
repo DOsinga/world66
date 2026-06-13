@@ -7,6 +7,7 @@ tags:
 latitude: 37.2638
 longitude: -122.0232
 snippet: Saratoga's village main street with restaurants, wine bars, and boutiques
+score: 6.5
 ---
 
 Big Basin Way is the commercial spine of Saratoga Village, a low-key strip of restaurants, wine bars, and boutiques that manages to feel genuinely local rather than curated for tourists. The street runs along a small creek and is lined with mature trees, giving it a leafy, almost small-town character that feels unlikely given its proximity to the tech campuses of Cupertino and San Jose.

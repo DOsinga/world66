@@ -9,6 +9,7 @@ tags:
   - bar
   - uzupis
 neighbourhood: Užupis
+score: 7.2
 ---
 
 The Užupio Kavinė (Užupis Cafe) occupies a riverside terrace on the Vilnia River, straddling the point where you cross from the old town into the self-declared republic. In good weather the outdoor seating on the small bridge and riverbank terrace is the most pleasant spot for a coffee or beer in Vilnius. The mermaid sculpture of Užupis sits on the riverbank just downstream.

@@ -15,6 +15,7 @@ story: >
   specimens are exceptional not just for their size but for their completeness —
   unlike most fossils, which are fragments, many here preserve the entire animal
   in extraordinary detail.
+score: 7.2
 ---
 
 The Centro de Interpretação do Geoparque de Arouca in the town centre is the starting point for understanding what makes this landscape unusual. The permanent exhibition explains the geopark's geology in accessible terms: how the region formed as ancient seafloor sediment, why the trilobites are so large and so well preserved, and what the landscape looked like 465 million years ago.

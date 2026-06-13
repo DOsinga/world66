@@ -9,6 +9,7 @@ latitude: 35.5617
 longitude: -98.0350
 story: >
   Fort Reno was established in 1874 to keep order on the Cheyenne and Arapaho Reservation. Its strangest chapter came during the Second World War, when more than a thousand German and Italian POWs were held here — most working on local farms. A small cemetery on the post holds the graves of seventy of those who died in captivity, alongside US cavalry burials and a number of horses and mules.
+score: 8.4
 ---
 
 Fort Reno sits on a low rise about five miles west of El Reno. The cavalry post was active from the Indian Wars through the First World War, became a remount depot for army horses and mules, and finished its government career as a USDA research station, which it still is.

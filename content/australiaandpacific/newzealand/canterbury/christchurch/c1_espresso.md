@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: -43.5316
 longitude: 172.6341
+score: 6.5
 ---
 
 C1 Espresso occupies a former post office building on High Street and has made the most of its infrastructure inheritance: food arrives via pneumatic tube. The sliders, fries, and milkshakes travel through the original post office tube system from the kitchen to individual tables, emerging with a thump and a puff of air that never entirely loses its novelty. This could be a gimmick that obscures mediocre food, but the kitchen takes itself seriously enough that it does not need the tubes to justify the visit — they are a bonus.

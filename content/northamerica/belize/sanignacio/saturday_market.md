@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 17.1576
 longitude: -89.0703
+score: 8.2
 ---
 
 The Saturday market sets up on the lot behind the town square and is the cultural event of the week in western Belize. Mennonite farmers from Spanish Lookout drive in with eggs and cheese, Maya vendors come down from the Cayo villages with herbs and palm-leaf brooms, and creole stallholders sell stew chicken and rice-and-beans plates that count as one of the best cheap lunches in the country.

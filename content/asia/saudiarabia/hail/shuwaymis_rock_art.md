@@ -15,6 +15,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Rock_Art_in_the_Ha'il_Region
   - https://whc.unesco.org/en/list/1472/
+score: 8.8
 ---
 
 The second UNESCO-listed rock art site in the Ha'il region, Shuwaymis lies about 140 kilometres south of the city and is considerably more remote than Jubbah. That remoteness is part of its appeal: the site sees fewer visitors, the landscape of black basalt hills and pale desert feels genuinely wild, and the density of petroglyphs on the rock surfaces is, if anything, greater than at Jubbah.

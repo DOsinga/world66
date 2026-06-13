@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - eating_out
   - neighbourhood
+score: 8.2
 ---
 
 South Baldwin Avenue, between the I-210 freeway and Las Tunas Drive, is the spine of Arcadia's Chinese food scene. The strip mall after strip mall along these blocks holds some of the best Chinese restaurants in California — regional cuisines from Sichuan, Shanghai, Beijing, and Taiwan, with high turnover, mostly Chinese-speaking clientele, and no Westernised concessions.

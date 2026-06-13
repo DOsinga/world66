@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.0575
 longitude: -120.1225
+score: 8.1
 ---
 
 Sugar Pine Point is the largest state park on Lake Tahoe, stretching along the West Shore south of Tahoe City with over two miles of shoreline. The park contains a mixture of old-growth pine forest, a historic estate, beaches, and cross-country ski trails — it is one of the more versatile spots at the lake.

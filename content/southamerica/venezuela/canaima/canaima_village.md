@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 6.2333
 longitude: -62.8500
+score: 5.3
 ---
 
 The village of Canaima is the small Pemón community on the eastern shore of the lagoon — a scatter of palm-thatched houses, a few simple posadas, a basic airstrip, and the agencies that organise excursions to the falls. Around 1,200 people live here, almost entirely Pemón, and most of the local economy runs on tourism plus a handful of subsistence crops.

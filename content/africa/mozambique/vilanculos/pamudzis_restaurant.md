@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: -21.998996
 longitude: 35.320475
+score: 5.7
 ---
 
 One of the consistently recommended places for seafood in Vilanculos, Pamudzi's serves the standard lineup of Mozambican coastal cooking: grilled prawns, peri-peri crab, fish grilled over coals, and pão (the crusty Portuguese bread that accompanies everything). The setting is informal and the portions generous.

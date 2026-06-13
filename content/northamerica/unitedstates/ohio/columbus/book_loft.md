@@ -13,6 +13,7 @@ story: >
   things, a saloon, a grocery, and a dance hall. The owners kept expanding into adjoining
   spaces over the years until the shop grew to 32 interconnected rooms — meaning that a
   customer who gets genuinely lost in the poetry section is not entirely exaggerating.
+score: 7.7
 ---
 
 The Book Loft is one of the most beloved independent bookshops in America, occupying 32 rooms spread through a Victorian-era building in German Village. Navigating the shop involves going up stairs, through low doorways, and into what seem like closets that turn out to contain entire sections on art history or maritime adventure. There is a map, but most people ignore it.

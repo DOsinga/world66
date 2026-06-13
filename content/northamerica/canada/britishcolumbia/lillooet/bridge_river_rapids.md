@@ -15,6 +15,7 @@ story: >
   and dip nets to harvest the fish. The fishery is one of the oldest continuously
   used food sites in North America, and the St'át'imc continue to fish here today
   under Aboriginal rights protections.
+score: 8.0
 ---
 
 The Bridge River Rapids, also known as Six Mile Rapids, are a dramatic set of whitewater rapids on the Fraser River north of Lillooet, where the Bridge River flows in from the west. The confluence creates powerful hydraulics that have been a significant salmon fishery for the St'át'imc people for millennia. During the salmon run in late summer, you can watch traditional dip-net fishing from the banks, one of the most visually striking fishing traditions in Canada.

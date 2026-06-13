@@ -8,6 +8,7 @@ tags:
 - nature
 - day_trips
 snippet: "Sea cave on the Luštica peninsula, lit electric blue by refracted sunlight"
+score: 6.5
 ---
 
 The Plava Špilja sits on the open Adriatic side of the Luštica peninsula, about half an hour by speedboat from the Herceg Novi promenade. The cave is large enough for small boats to enter, and around midday sunlight reflecting off the white sand floor turns the whole interior an unreasonable shade of blue.

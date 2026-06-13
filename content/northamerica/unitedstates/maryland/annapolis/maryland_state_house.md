@@ -14,6 +14,7 @@ story: >
   new nation. It was here that George Washington resigned his commission as
   commander-in-chief in December 1783 and Congress ratified the Treaty of Paris
   that ended the Revolutionary War.
+score: 9.3
 ---
 
 Completed in 1779, the Maryland State House is the oldest US state capitol still in continuous legislative use. The wooden dome — held together entirely by wooden pegs, with not a single nail — was the tallest in America when built and remains the largest wooden dome in the country. Inside, the Old Senate Chamber has been restored to its 1783 appearance, with the lectern from which Washington resigned standing in the corner.

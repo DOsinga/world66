@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Chamberlain_Bridge
 story: >
   The Chamberlain Bridge was named after Joseph Chamberlain, the British Colonial Secretary who visited Barbados in 1897 — a trip during which he was reportedly pelted with fruit by dockworkers unhappy with British colonial policy. The bridge was named in his honour anyway, presumably by the colonial government rather than the dockworkers.
+score: 6.2
 ---
 
 The Chamberlain Bridge is the western footbridge across the Careenage, connecting the Wharf area to the main body of the historic centre. It is a modest structure — a swing bridge, originally, though now fixed — but its ornamental lampposts and balustraded ironwork make it the most photogenic crossing in Bridgetown. Most photographs of the Careenage are taken from or near here.

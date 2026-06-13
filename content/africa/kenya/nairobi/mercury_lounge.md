@@ -8,6 +8,7 @@ tags:
 latitude: -1.2625
 longitude: 36.8038
 snippet: Westlands' best-known live music bar, with local bands, Afrobeats nights, and a buzzing outdoor terrace
+score: 5.9
 ---
 
 Mercury Lounge is one of the most reliable venues in Westlands for live music and a good night out. The bar draws a mixed crowd of Nairobi residents — Kenyan, expat, and traveller — and has a decent outdoor terrace that fills up on weekends. Live acts tend to start late (after 11pm) and run into the early morning.

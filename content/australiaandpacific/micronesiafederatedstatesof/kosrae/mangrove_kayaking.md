@@ -10,6 +10,7 @@ story: >
   The mangrove channels of Kosrae's Yela area form a marine nursery that has been formally protected since the 1990s. Studies have found that the lagoon's fish populations are significantly higher near intact mangrove areas than in comparable unprotected stretches — proof, if any were needed, that the Kosraean decision to restrict development along the mangrove margins was one of the better conservation choices made in the Pacific.
 sources:
   - https://en.wikipedia.org/wiki/Yela_Ka_Forest
+score: 8.0
 ---
 
 The mangroves along Kosrae's western shore are among the most extensive in Micronesia, and paddling through them is one of the island's most distinctive experiences. Where the channels run inland, the canopy closes overhead — prop roots descend on all sides, the light turns green, and the sound of the ocean disappears. At high tide it is possible to paddle deep into the mangrove interior by sea kayak or traditional outrigger canoe; at low tide the channels become too shallow. The timing of trips is governed by the tides rather than by the clock.

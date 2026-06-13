@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 28.6800
 longitude: 115.8900
+score: 5.6
 ---
 
 Nanchang's ancient city walls, originally built during the Tang dynasty and substantially rebuilt in the Ming, were largely demolished during the twentieth century. Small sections survive in the Donghu district, integrated into the surrounding urban fabric in ways that require some searching to find. The most accessible surviving section is preserved as a heritage site near the old north gate area, where a stretch of Ming-dynasty brickwork remains standing.

@@ -7,6 +7,7 @@ longitude: 139.5475
 snippet: "Open-air museum of 25 traditional Japanese farmhouses from across the country"
 story: >
   One farmhouse on the hillside here is over 400 years old and came from Niigata Prefecture, where it sheltered three generations of a farming family through the heavy mountain winters. When the village was developed, the entire structure was numbered beam by beam, dismantled, and shipped to Kawasaki — a practice that has preserved buildings that would otherwise have rotted or burned.
+score: 8.3
 ---
 
 On a hillside in Ikuta Ryokuchi Park, about 25 traditional Japanese buildings — farmhouses, merchant shops, a village water mill, and a kabuki stage — have been collected from around the country and reassembled in an open-air museum. The buildings span roughly 400 years of vernacular architecture and represent regional styles from Tohoku, the Japan Alps, and the Kanto plain.

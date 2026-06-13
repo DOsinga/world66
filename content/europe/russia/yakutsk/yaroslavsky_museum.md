@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 62.0312
 longitude: 129.7341
+score: 8.2
 ---
 
 The Yaroslavsky Museum is Yakutsk's main museum of regional history and ethnography. Its collection covers the Yakut people and the smaller indigenous nations of the Sakha Republic — Evenki, Evens, Yukaghirs, and Chukchi — with displays of clothing, shamanic equipment, hunting tools, and everyday objects.

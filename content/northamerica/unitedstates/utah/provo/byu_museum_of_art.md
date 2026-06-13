@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.2490
 longitude: -111.6493
+score: 7.8
 ---
 
 The Brigham Young University Museum of Art is consistently ranked among the best art museums in Utah and the Mountain West — and it is free, which makes it an easy addition to any visit to Provo. The permanent collection runs to over 17,000 objects, with strength in 19th-century American art, European old masters, and Asian works. Temporary exhibitions are well-selected and often include significant travelling shows that might otherwise only appear in larger cities.

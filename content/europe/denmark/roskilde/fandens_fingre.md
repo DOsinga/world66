@@ -8,6 +8,7 @@ latitude: 55.6330
 longitude: 12.0700
 story: >
   Local legend has it that these distinctive scratched rock formations outside Roskilde are the claw marks left by the Devil when he tried to stop the building of the cathedral. The scratches are in fact natural erosion marks in the rock, but the folk explanation has been attached to them for centuries and is recorded in church histories of the town.
+score: 4.8
 ---
 
 On the outskirts of Roskilde, a group of rocks bears distinctive parallel scratches that local legend attributes to the Devil's fingers — his attempt to claw his way into the town to prevent the building of the cathedral. The geological explanation is far less dramatic, but the stones are an interesting example of how natural features get absorbed into local mythology around ancient religious sites.

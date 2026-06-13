@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 5.635
 longitude: -73.527
+score: 6.4
 ---
 
 Pastelería Francesa, two blocks from the Plaza Mayor, is the best cafe in Villa de Leyva for breakfast or a mid-morning break. A French-trained baker produces proper croissants, pain au chocolat, and tarts alongside Colombian pastries — a combination that shouldn't work as well as it does, but does. The coffee is good, the setting is a pleasant colonial room with tables spilling onto the street, and the wifi functions.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 3.676
 longitude: 18.586
+score: 6.6
 ---
 
 A few kilometres south of Zinga, the Lobaye River flows into the Oubangui, creating a confluence that is a notable landmark on the river journey. The Lobaye drains a large portion of the southwestern Central African Republic through rainforest and gallery woodland before meeting the larger river. The confluence is visible from the river as a change in water colour and character, and the area around it is relatively rich in wildlife — birds in particular.

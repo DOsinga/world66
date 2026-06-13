@@ -9,6 +9,7 @@ tags:
   - viewpoint
 title: "Fort Vauban"
 type: poi
+score: 6.8
 ---
 
 Fort Vauban stands above central Alès, a reminder that the Cévennes were once politically and religiously troublesome country. The fort itself is plain and controlled, but its position gives a useful view over the town and valley.

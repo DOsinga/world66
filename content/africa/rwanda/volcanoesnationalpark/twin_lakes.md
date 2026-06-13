@@ -9,6 +9,7 @@ latitude: -1.4531
 longitude: 29.8461
 sources:
   - https://en.wikipedia.org/wiki/Lake_Burera
+score: 7.3
 ---
 
 Lakes Burera and Ruhondo are twin crater lakes in the valleys east of Musanze, set in deeply folded hills covered in tea plantations and subsistence farms. The landscape around the lakes is some of the most intensively terraced in Rwanda — every slope cultivated to the waterline. From the road above, the view across the lake to the Virunga volcanoes in the north is one of the best in the region.

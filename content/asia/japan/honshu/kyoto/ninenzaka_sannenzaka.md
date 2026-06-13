@@ -9,6 +9,7 @@ tags:
 - walk
 title: Ninen-zaka and Sannen-zaka
 type: poi
+score: 7.8
 ---
 
 The two stone-paved slopes of Ninen-zaka ("two-year slope") and Sannen-zaka ("three-year slope") connect the temples of Kiyomizu-dera and Kōdai-ji through one of the best-preserved fragments of Edo-period Kyoto. Wooden machiya townhouses, tea houses, sweet shops, and small workshops line the slopes on both sides; nearly every visible building is a designated *Important Preservation District* property and any new construction must conform to a strict historic-character code — which is why the modern shops you pass are still housed in old wood and tile.

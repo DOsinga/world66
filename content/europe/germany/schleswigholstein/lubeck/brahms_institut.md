@@ -8,6 +8,7 @@ snippet: One of the world's most important Brahms research collections, in a hil
 tags:
 - things_to_do
 - museum
+score: 5.8
 ---
 
 The Brahms-Institut at the Lübeck Academy of Music holds one of the world's most important collections of manuscripts, first editions, letters, and photographs related to Johannes Brahms — about 17,000 individual items. The collection is housed in the neo-Gothic Villa Brahms on the Jerusalemsberg hill north of the Altstadt.

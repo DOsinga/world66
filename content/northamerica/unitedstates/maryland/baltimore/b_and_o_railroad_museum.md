@@ -13,6 +13,7 @@ story: >
   Despite this inauspicious start, the B&O went on to become one of the great American
   railroads and the catalyst for the entire American railroad network. The roundhouse
   it built in 1884 is now one of the finest railroad museum buildings in the world.
+score: 8.7
 ---
 
 The B&O Railroad Museum is housed in an 1884 roundhouse that is architecturally one of the most impressive industrial buildings in Baltimore. The circular structure was designed to house the turntable that moved locomotives between tracks, and today it contains a spectacular collection of 19th and early 20th century locomotives and rolling stock.

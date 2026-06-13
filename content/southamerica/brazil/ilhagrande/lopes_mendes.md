@@ -8,6 +8,7 @@ tags:
 latitude: -23.1789
 longitude: -44.1217
 story: "The sand is so fine and well-graded that it squeaks underfoot — a quirk caused by spherical quartz grains rubbing against each other. Sandcastle-builders complain it is impossible to stack, which may be why almost no one has tried to build anything on the beach itself."
+score: 9.3
 ---
 
 Lopes Mendes is the beach that turns up on the postcards: a three-kilometre arc of pale, almost white sand on the east coast of the island, backed by Atlantic Forest and broken only by a few rocky outcrops at the ends. The Atlantic rolls in cleanly here, with waves big enough for casual surfing on most days; the water is warm and clear.

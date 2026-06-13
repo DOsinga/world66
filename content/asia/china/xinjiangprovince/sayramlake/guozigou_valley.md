@@ -8,6 +8,7 @@ latitude: 44.2800
 longitude: 81.4500
 story: >
   The Guozigou road was one of the most challenging engineering projects in Xinjiang's modern development: the gorge walls are too steep for a conventional highway, requiring tunnels cut through cliff faces and bridges spanning drops that make looking down inadvisable. The combination of infrastructure and landscape is one of the unexpected pleasures of western Chinese travel.
+score: 7.6
 ---
 
 The Guozigou valley — Valley of the Fruit Ditch — lies between Yining and Sayram Lake, carrying the main road and river through a dramatic gorge cut through the northern flanks of the Tian Shan. The valley is spectacular on its own terms: sheer cliff walls, a fast-flowing river below, sudden openings onto meadows, and the contrast between enclosed gorge and open sky that makes mountain road travel compelling.

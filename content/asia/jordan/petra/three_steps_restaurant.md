@@ -7,6 +7,7 @@ tags:
 latitude: 30.3225
 longitude: 35.4778
 address: "Main road, Wadi Musa"
+score: 5.6
 ---
 
 A reliable mid-priced restaurant on the main road through Wadi Musa, with a good mezze spread, charcoal-grilled lamb chops, and a wood-fired pizza menu for the more cautious traveller. Tables outside in the cooler months.

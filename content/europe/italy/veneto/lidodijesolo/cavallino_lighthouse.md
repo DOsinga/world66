@@ -7,6 +7,7 @@ snippet: Working 19th-century lighthouse at the tip of the Cavallino peninsula
 tags:
 - things_to_do
 - landmark
+score: 6.9
 ---
 
 At the western tip of the Cavallino peninsula — at the entrance to the Venetian Lagoon — a 48-metre brick lighthouse marks the point where the Adriatic meets the lagoon waters. Built in 1872, it is still in service, and the surrounding pinewoods and beaches form a quieter alternative to the busy Jesolo strip.

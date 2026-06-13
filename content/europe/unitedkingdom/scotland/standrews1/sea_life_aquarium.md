@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 56.3428
 longitude: -2.8017
+score: 4.9
 ---
 
 The St Andrews Aquarium occupies a clifftop building on The Scores, directly above the sea, and is principally aimed at families with children. It is modest in scale compared to the large commercial aquariums in British cities, but it has one notable advantage: a good collection of North Sea and Scottish coastal species in tanks that are a reasonable size for the animals.

@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: -2.5275
 longitude: -44.3025
+score: 6.4
 ---
 
 Villa Colonial Café occupies a charming colonial building in Praia Grande, with a shaded courtyard that makes it one of the more pleasant spots in the historic centre for a mid-morning coffee or an afternoon drink. It's a bit more refined than the neighbourhood's reggae bars — a good place to sit with a book and watch people walk past the azulejo facades.

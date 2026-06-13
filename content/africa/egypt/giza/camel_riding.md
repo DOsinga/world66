@@ -7,6 +7,7 @@ tags:
 - sight
 title: Camel and Horse Riding
 type: poi
+score: 6.1
 ---
 
 The Giza Plateau is large enough that walking it in full sun takes real effort, and the traditional way to cover it is by camel or horse. Operators with both animals are stationed at Panorama Point near the south-western edge and at various points inside the complex. A full circuit of the plateau by camel takes 45 minutes to an hour and gives you a commanding view of the monuments from above the usual crowd level.

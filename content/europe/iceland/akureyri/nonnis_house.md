@@ -9,6 +9,7 @@ latitude: 65.667086
 longitude: -18.0861
 story: >
   The "Nonni" books — about an Icelandic boy's adventures — were written by Jón Sveinsson and became beloved children's classics across Germany, Austria, and Japan in the early 20th century. They are largely forgotten in the English-speaking world, but in Iceland and among European readers of a certain age they remain a touchstone of childhood reading.
+score: 6.7
 ---
 
 Nonni's House is the childhood home of Jón Sveinsson, the Icelandic Jesuit priest who wrote the "Nonni" series of children's books in the early 20th century. The books, written in German, became enormously popular in Europe and Japan, and the house has been preserved and opened as a small museum dedicated to Sveinsson's life and work.

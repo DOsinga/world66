@@ -9,6 +9,7 @@ tags:
 - sight
 - roman
 - viewpoint
+score: 8.3
 ---
 
 The Tour Magne — "great tower" — crowns Mount Cavalier above the Jardins de la Fontaine. Augustus's engineers built it around 15 BC, partly as the high point of the Roman city's defensive walls, partly as a visible statement of the new imperial order. Three storeys of dressed stone survive; the top has been gone for centuries.

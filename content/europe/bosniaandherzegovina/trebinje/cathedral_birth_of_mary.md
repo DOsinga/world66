@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The 19th-century Serbian Orthodox cathedral on the edge of the old town
+score: 7.3
 ---
 
 The seat of the Eparchy of Zahumlje-Herzegovina, a striking 19th-century Serbian Orthodox church on the eastern edge of the Trebinje old town. The two-towered cathedral was completed in 1908 and combines Serbian medieval architectural forms (raised central dome, three-apse east end) with late-Habsburg materials and detailing.

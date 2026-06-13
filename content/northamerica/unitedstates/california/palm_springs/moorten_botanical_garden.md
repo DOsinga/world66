@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8100
 longitude: -116.5440
+score: 7.1
 ---
 
 A small, family-run cactus garden near the south end of Palm Canyon Drive, operating since 1938 and now run by the founder's grandson. The Moorten Garden has more than 3,000 species of desert plants from around the world — Sonoran, Mojave, and Chihuahuan desert plants, plus species from the Atacama, the Australian outback, and the African Karoo.

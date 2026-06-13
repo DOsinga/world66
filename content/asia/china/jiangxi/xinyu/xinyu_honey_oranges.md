@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 27.8186
 longitude: 114.9167
+score: 5.8
 ---
 
 Xinyu honey oranges (新余蜜橘) hold a geographical indication status and are among the most widely exported agricultural products from Jiangxi. The fruit is small-to-medium sized, very sweet, with a thin skin that peels easily — notably different in flavor from the more acidic oranges produced elsewhere in the province. The main harvest season runs from October to December, when oranges are sold from every platform cart and market stall in the city.

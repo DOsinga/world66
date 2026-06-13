@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.6
 ---
 
 The 1934 railway station is one of Pointe-Noire's signature buildings — a long Art Deco façade with a central clock tower and corner towers, fronted by a wide colonnaded portico. It marks the western terminus of the Congo-Ocean railway, the colossal forced-labour project that finally connected the port to Brazzaville and the interior.

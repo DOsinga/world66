@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.3128
 longitude: 69.2972
+score: 7.0
 ---
 
 The main Russian Orthodox cathedral of Tashkent, built in the 1870s and still serving the city's substantial Russian-speaking community. Gold onion domes top a yellow-and-white brick structure; the interior has the icons, gold screens, and incense smoke of any working Russian church.

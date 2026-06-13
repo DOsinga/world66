@@ -9,6 +9,7 @@ tags:
 title: Colombo Fort Railway Station
 type: poi
 neighbourhood: Fort
+score: 7.3
 ---
 
 Colombo Fort Railway Station is the main railway hub of Sri Lanka and one of the busiest transport nodes in the country. The building itself — a colonial-era station opened in 1908 — is worth a look: the long platforms, the British-era signage, and the general air of controlled chaos characteristic of Asian rail travel. It's also one of the best places in the city to observe the daily rhythms of Sri Lankan life.

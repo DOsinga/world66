@@ -7,6 +7,7 @@ tags:
 latitude: 13.034
 longitude: 80.268
 snippet: "Chennai's oldest neighbourhood, the heart of Tamil Brahmin culture and classical arts."
+score: 9.1
 ---
 
 Mylapore is the oldest continuously inhabited neighbourhood in Chennai, predating the British colonial city by millennia. While the colonial city developed around Fort St George to the north, Mylapore had been a settlement — and a major port — since at least the 1st century AD.

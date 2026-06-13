@@ -7,6 +7,7 @@ tags:
 - bar
 title: Traditional Ahwas (Coffeehouses)
 type: poi
+score: 6.2
 ---
 
 The ahwa — the traditional Egyptian coffeehouse — is one of the great institutions of Cairo life. In Giza's residential neighbourhoods, away from the tourist strip, you find these all-male (by tradition, though less rigidly so than before) establishments on almost every corner: plastic chairs, small metal tables, a television showing football, and men spending hours over a single glass of tea or a cup of coffee, playing backgammon or dominoes and filling the air with shisha smoke.

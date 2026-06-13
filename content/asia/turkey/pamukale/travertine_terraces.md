@@ -12,6 +12,7 @@ story: >
   By the 1980s the terraces had been largely ruined. Hotels had diverted the thermal water for their own swimming pools, and visitors driving cars across the formations had turned whole sections grey and lifeless. UNESCO listing in 1988 forced the demolition of the hotels built directly on the ridge, the closure of the road across the terraces, and a long restoration process that has — slowly, imperfectly — brought the white colour back to much of the slope. The barefoot-only rule, mocked by some tourists, is the reason the terraces still exist.
 sources:
   - https://en.wikipedia.org/wiki/Pamukkale
+score: 9.0
 ---
 
 The travertine terraces of Pamukkale are among the most arresting natural landscapes in Turkey: a cascade of brilliant white limestone shelves down a 200-metre hillside, filled with shallow pools of warm, milky-blue mineral water. The formations were created over millennia as calcium carbonate-rich thermal springs cooled on contact with the air, depositing layer after layer of white limestone. The pools vary in depth from a few centimetres to about half a metre, and the water temperature is around 35°C.

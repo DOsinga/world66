@@ -16,6 +16,7 @@ tags:
 - sight
 - architecture
 - altinho
+score: 6.8
 ---
 
 The Maruti Temple sits high on the Altinho hill above Fontainhas — a small saffron-coloured shrine to the monkey god Hanuman, lit at night against the dark slope so that it is visible from much of the lower town. The current building is mostly 19th-century, raised after the relaxation of the Portuguese Inquisition's restrictions on Hindu worship, but the cult has been continuous on this site since the 17th century.

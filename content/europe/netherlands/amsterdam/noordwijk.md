@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Noordwijk
 type: poi
+score: 5.8
 ---
 
 Noordwijk aan Zee is one of the best beach towns on the Dutch North Sea coast, about 40 minutes from Amsterdam by car. A wide, clean stretch of sand backed by high dunes draws surfers, kite surfers, and sunbathers from spring through autumn. Beach pavilions (strandtenten) line the shore from April to October, serving drinks and food with your feet in the sand.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.7
 ---
 
 Past Belisirma, on the right bank of the river. The Columned Church takes its name from four free-standing columns carved out of the tufa to support the central dome — a small architectural feat in a single piece of rock.

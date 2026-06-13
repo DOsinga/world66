@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.7355
 longitude: 19.1464
+score: 7.2
 ---
 
 The Cathedral of St. Francis Xavier is the main Catholic church of Banská Bystrica, standing on the north side of Námestie SNP. The building began as a 14th-century Gothic church and was subsequently remodelled in the Baroque style, giving it a richly decorated interior at odds with the relatively plain exterior.

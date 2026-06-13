@@ -6,6 +6,7 @@ longitude: 85.8637
 tags:
   - things_to_do
   - museum
+score: 7.7
 ---
 
 The Museum of Justice, housed in the old wing of the Orissa High Court, is one of only a handful of judicial museums in India and a quietly worthwhile stop. It documents the history of the courts in Odisha from the colonial period through to the present, with original case files, judges' robes, photographs and a small collection of furniture from the early courtrooms.

@@ -11,6 +11,7 @@ story: >
   pulled from the permafrost near Fairbanks in 1979. The specimen was so well preserved that
   researchers reportedly cooked and ate a small piece of the neck meat at a dinner celebrating
   the find.
+score: 9.2
 ---
 
 The Museum of the North is the best museum in Interior Alaska, and its building alone is worth the trip. Designed to evoke the sweeping lines of the Alaska Range and the aurora borealis, the white-and-glass structure sits on a ridge above the University of Alaska Fairbanks campus with views across the Tanana Valley.

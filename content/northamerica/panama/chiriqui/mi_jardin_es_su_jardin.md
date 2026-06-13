@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - garden
+score: 5.8
 ---
 
 "My Garden Is Your Garden" is a private estate garden on the northern edge of Boquete that the owners — the Roquebert family — have opened to the public free of charge for several decades. It is two hectares of meandering paths, ponds, and lawns set against the Barú backdrop, planted with thousands of species of tropical and temperate flowers.

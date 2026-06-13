@@ -9,6 +9,7 @@ tags:
   - sight
   - museum
   - family
+score: 7.5
 ---
 
 The Aquatika aquarium on the bank of the Korana focuses on the freshwater life of Croatia's rivers and karst springs — a refreshingly local subject. The collection moves you upstream from large slow lowland rivers to crystal-clear mountain pools, with the fish, crayfish and amphibians that go with each habitat.

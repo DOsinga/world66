@@ -7,6 +7,7 @@ tags:
   - religion
 latitude: 38.119
 longitude: 13.366
+score: 8.4
 ---
 
 The Oratorio di Santa Zita, alongside the church of the same name near the harbour, is Serpotta's earlier and more ambitious masterpiece. Begun in 1685 and finished in 1717, the walls are covered with allegorical figures, angels, putti, and a remarkable three-dimensional plaster reconstruction of the Battle of Lepanto on the entrance wall.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.5
 ---
 
 A 125-foot spire of pre-formed concrete, gleaming pale blue and steel, rises out of a roundabout at the corner of Frank Lloyd Wright Boulevard and Scottsdale Road. Wright designed it in the 1950s as the cap for a proposed Arizona State Capitol building that was never built. It was finally constructed in 2004, almost half a century after his death, as a public monument to his Arizona legacy.

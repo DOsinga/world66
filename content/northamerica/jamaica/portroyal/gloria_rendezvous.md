@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Gloria's Seafood
 type: poi
+score: 6.1
 ---
 
 Gloria's has been serving Port Royal's signature dish — fried red snapper or escovitch fish with bammy and festival — for decades, and is the place most Kingstonians will tell you to visit. The restaurant has two locations a few streets apart; the original is on Queen Street and the larger second site overlooks the harbour.

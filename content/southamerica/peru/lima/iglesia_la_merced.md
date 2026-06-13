@@ -11,6 +11,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Histórico
 snippet: One of the most ornate baroque facades in Lima
+score: 8.1
 ---
 
 Halfway down Jirón de la Unión, the **Iglesia de la Merced** has the most elaborate carved-stone Baroque facade in central Lima — a churrigueresque tour-de-force of saints, columns, and floral patterns dating from the 1730s. The Merced order was the first to celebrate Mass in Lima, in 1535, and the church has been continuously in use ever since.

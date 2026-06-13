@@ -9,6 +9,7 @@ latitude: 7.6
 longitude: -59.5
 story: >
   Shell Beach takes its name from the vast midden-like accumulation of shells that covers the sand — a legacy of centuries of indigenous harvesting. But its modern fame rests on the living: leatherback turtles, the largest sea turtles on earth, haul themselves out of the Atlantic here in numbers that make this one of the Caribbean's most important nesting sites.
+score: 9.0
 ---
 
 Shell Beach is one of Guyana's most remarkable protected areas — roughly 145 kilometres of undeveloped Atlantic coastline running northeast from the Waini River mouth, designated a protected area to safeguard nesting sea turtles. Leatherback, hawksbill, green, and olive ridley turtles all come ashore between March and August to lay eggs, with leatherbacks arriving in the greatest numbers from April to July.

@@ -8,6 +8,7 @@ tags:
 latitude: 36.3070
 longitude: -106.0510
 snippet: "Ancient Tewa pueblo ruins on the hillside above the springs"
+score: 7.2
 ---
 
 Above the spring resort, a short trail leads up the volcanic hillside to the ruins of Posi Ouinge, a large ancestral Tewa pueblo inhabited between roughly 1350 and 1500 CE. At its height, the settlement had several hundred rooms arranged around plazas on the mesa edge. The Tewa-speaking people who lived here regarded the springs below as a source of spiritual and physical healing.

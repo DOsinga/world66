@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.6700
 longitude: 117.0100
+score: 6.6
 ---
 
 Jinan's Natural History Museum covers the geology, fossils, and wildlife of Shandong and the broader northeast China region. The dinosaur section is reasonably strong — Shandong has been an important site for dinosaur excavations, particularly hadrosaurs and sauropods from the Cretaceous — and the geological exhibits explain the limestone karst formation that makes Jinan's spring system possible.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The old fish market square between the Dom and the Lahn
+score: 6.8
 ---
 
 Fischmarkt sits between the cathedral and the river, where the fish caught in the Lahn were once sold. The square is small but graced by some of the best-preserved late-Gothic houses in the city, with carved beams and overhanging upper storeys. The 18th-century **Marktbrunnen** fountain in the middle was the main water source for this corner of the Altstadt.

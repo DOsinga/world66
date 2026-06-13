@@ -13,6 +13,7 @@ story: >
   annual income of England — was eventually paid, raising taxes in England
   to a level not seen before or since. Leopold used part of the money to
   found the cities of Wiener Neustadt and Friedberg.
+score: 8.9
 ---
 
 Dürnstein is the most visited town in the Wachau, a small village of some 800 people whose blue-and-white Baroque church tower has become the symbol of the entire valley. The village is compact and largely pedestrianised, with a pretty main street, several wine restaurants, and a viewpoint above the town toward the castle ruins on the cliff.

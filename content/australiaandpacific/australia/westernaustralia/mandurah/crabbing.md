@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "When the season opens each December the bridges and jetties of Mandurah fill with families dropping nets at dawn. The annual Crab Fest on the foreshore in March is one of the largest free community festivals in Western Australia and draws crowds of more than 100,000 over a weekend."
+score: 7.3
 ---
 
 The blue manna crab (also called the blue swimmer or *Portunus armatus*) is Mandurah's defining export and the centrepiece of summer in the city. The season runs from December through April, and during those months thousands of locals turn out with drop nets and scoop nets at the foreshore, the bridge, and the canal mouths.

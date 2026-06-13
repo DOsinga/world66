@@ -10,6 +10,7 @@ story: >
   The first Rhine cruise steamers began operating in 1816, just as the Romantic movement's vision of the valley was being fully established through poetry and painting. Tourism and Romanticism grew up together here in an unusually direct way — the castles travellers came to see had already been romanticised in literature before most of them set foot on a boat.
 sources:
   - https://en.wikipedia.org/wiki/Rhine_Gorge
+score: 9.1
 ---
 
 Taking a river boat through the gorge remains one of the best ways to appreciate the Middle Rhine Valley. The Köln-Düsseldorfer shipping company runs regular scheduled passenger services from Cologne to Mainz from April through October; you can board and disembark at any of the river towns. The section between Bingen and Koblenz — the 65-kilometre heart of the valley — takes about 3–4 hours downstream and 5–6 hours upstream.

@@ -10,6 +10,7 @@ latitude: 39.2298
 longitude: -120.2710
 sources:
   - https://en.wikipedia.org/wiki/Granite_Chief_Wilderness
+score: 8.3
 ---
 
 The Granite Chief Wilderness covers 19,048 acres of the Tahoe National Forest directly above Olympic Valley. It is roadless and undeveloped — no mechanised equipment, no bikes — which keeps it quieter than the resort trails below. The wilderness takes its name from Granite Chief (elevation 9,006 feet), the highest point in the Tahoe basin's western rim.

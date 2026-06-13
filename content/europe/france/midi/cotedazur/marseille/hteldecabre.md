@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: "H\xF4tel de Cabre"
 type: poi
+score: 6.2
 ---
 
 Dating from 1535, this is the oldest surviving house in Marseille, built in a blend of Gothic and Renaissance styles for Louis de Cabre. The carved facade features medallion portraits and ornate window frames that have survived nearly five centuries of Mediterranean weather.

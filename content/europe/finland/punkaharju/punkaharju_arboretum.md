@@ -8,6 +8,7 @@ tags:
 snippet: A research arboretum of native and foreign trees
 latitude: 61.7847
 longitude: 29.3268
+score: 6.3
 ---
 
 Next to the ridge, the Finnish Forest Research Institute has been growing trees here since the 1920s — a working laboratory rather than a manicured park. Hundreds of species are planted in stands and lines, with labels giving the Latin name and origin. You can see Siberian larch, North American Douglas fir, Japanese spruce, and a famous "clone collection" of Scots pine that maps the genetic variation across Finland.

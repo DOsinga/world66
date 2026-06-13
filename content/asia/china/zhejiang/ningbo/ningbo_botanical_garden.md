@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.8700
 longitude: 121.5000
+score: 6.2
 ---
 
 Ningbo's botanical garden covers over a hundred hectares in the western part of the city and is one of the larger public green spaces in the urban area. The garden is divided into themed sections covering native Zhejiang flora, subtropical and tropical species in heated glasshouses, bonsai collections, a bamboo grove, and a substantial water garden centred on a large ornamental lake. The spring flowering season (March–April) brings plum, peach, and wisteria blooms; autumn provides good foliage colour in the Japanese maple and ginkgo sections.

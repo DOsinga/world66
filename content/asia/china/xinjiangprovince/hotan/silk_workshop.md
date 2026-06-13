@@ -8,6 +8,7 @@ latitude: 37.1100
 longitude: 79.9200
 story: >
   The ikat technique used to produce atlas silk involves dyeing the warp threads before weaving, creating a pattern that bleeds slightly at the edges — the characteristic "blurred" quality that identifies the fabric. It arrived in the Tarim Basin from Central Asia over a thousand years ago and has been woven in Hotan ever since, passing from mother to daughter in the workshop families of the old city.
+score: 7.7
 ---
 
 Hotan has been a centre of silk production for at least fifteen centuries, and the atlas silk — ikat-woven fabric with its characteristic blurred geometric patterns — produced here is distinctive enough that it has received protected geographical indication status. Several workshops in the old city still produce it using traditional handlooms, and visiting one provides a direct encounter with a craft that has changed very little.

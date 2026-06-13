@@ -9,6 +9,7 @@ latitude: 40.9468
 longitude: -90.3661
 sources:
   - https://en.wikipedia.org/wiki/Orpheum_Theater_(Galesburg)
+score: 6.8
 ---
 
 The Orpheum Theater on Kellogg Street opened in 1916 and remains one of the best-preserved early 20th-century movie palaces in downstate Illinois. The building went through the standard pattern of mid-century decline and late 20th-century rescue, and today operates as a performing arts venue hosting live music, theater, and community events.

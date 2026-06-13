@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.7408
 longitude: -5.1641
+score: 6.9
 ---
 
 The Museo Lara is an eccentric private collection assembled over a lifetime by Juan Antonio Lara, filling a handsome mansion near the Puente Nuevo with an extraordinary miscellany. Antique clocks, weapons, scientific instruments, typewriters, musical boxes, and a full section dedicated to objects related to witchcraft and the Inquisition fill room after room. The effect is less museum than cabinet of curiosities on a grand scale.

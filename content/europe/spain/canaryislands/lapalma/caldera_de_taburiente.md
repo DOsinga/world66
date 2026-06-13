@@ -11,6 +11,7 @@ story: >
   The Caldera is not actually a caldera in the volcanic sense — it did not form by collapse into an empty magma chamber. Modern geology identifies it as a massive erosion basin created over millions of years as the original volcanic peak was cut apart by water and landslide. The Guanche people who inhabited La Palma before the Spanish conquest called the place Taburiente and treated it as sacred. When Spanish forces finally conquered the island in 1493, one of the last Guanche chiefs, Tanausú, held out for months inside the Caldera before being captured by treachery rather than force.
 sources:
   - https://en.wikipedia.org/wiki/Caldera_de_Taburiente_National_Park
+score: 9.4
 ---
 
 The Caldera de Taburiente is the great geographical fact of La Palma — a collapsed volcanic crater eight kilometres across and nearly 1,500 metres deep, ringed by walls of basalt and laurel forest and threaded by streams that converge into the Río Almendro below. The national park covers the entire caldera and its rim, and the hiking here is outstanding.

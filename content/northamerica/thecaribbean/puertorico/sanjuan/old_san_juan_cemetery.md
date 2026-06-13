@@ -9,6 +9,7 @@ tags:
   - old_san_juan
 neighbourhood: Old San Juan
 story: "Among the white-marble graves is the tomb of Pedro Albizu Campos, the nationalist leader imprisoned by the US government for 26 years, who claimed the FBI subjected him to radiation experiments while he was in custody. Independence-supporting Puerto Ricans still leave flowers on the slab."
+score: 8.5
 ---
 
 The Cementerio Santa María Magdalena de Pazzis is a small bleach-white graveyard tucked between the seaward walls of El Morro and the cliffs above La Perla. It dates from the 1860s, when the city outgrew the parish burial grounds inside the walls. The chapel in the middle is a circular neoclassical building topped by a dome.

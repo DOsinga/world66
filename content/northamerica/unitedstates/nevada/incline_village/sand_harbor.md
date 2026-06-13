@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Every summer since 1985, Sand Harbor has hosted the Lake Tahoe Shakespeare Festival, staging productions in an open-air amphitheatre with the lake and Sierra Nevada as a backdrop. Audiences bring picnics and watch as the sun sets behind the mountains mid-performance — an arrangement so specific to the place that it has become difficult to imagine the plays anywhere else.
+score: 9.2
 ---
 
 Sand Harbor is three miles south of Incline Village on Highway 28, within Lake Tahoe Nevada State Park. It is one of the most photographed beaches on the lake: clear turquoise water lapping against large rounded granite boulders, backed by pines, with the blue of the Sierra Nevada filling the horizon. The water temperature is cold even in July, though it doesn't stop swimmers.

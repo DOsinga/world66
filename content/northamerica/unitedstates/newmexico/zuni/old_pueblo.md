@@ -10,6 +10,7 @@ story: >
   Coronado arrived at Zuni in 1540 looking for the legendary Seven Cities of Gold, having been told by earlier Spanish explorers that cities of great wealth lay to the north. What he found instead was a well-organised pueblo of several hundred people. The disappointment was mutual: the Zuni had heard of the approaching strangers and were not pleased to receive them.
 sources:
   - https://en.wikipedia.org/wiki/Zuni_Pueblo,_New_Mexico
+score: 8.8
 ---
 
 The original Zuni Pueblo — called Halona:Idiwan'a, "the Middle Place" — is one of the continuously inhabited communities in North America, and the Zuni people identify it as the centre of the world in their cosmology. The old village sits on a low rise above the Zuni River, its multi-storey adobe buildings densely packed and oriented according to traditional principles.

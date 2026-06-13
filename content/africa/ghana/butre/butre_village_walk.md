@@ -7,6 +7,7 @@ tags:
 - sight
 title: Butre Village Walk
 type: poi
+score: 7.1
 ---
 
 Butre proper is a small grid of mud-brick and concrete houses pressed between the river and the forested hill that holds Fort Batenstein. A loop of twenty minutes takes you through the lot of it: the central square where the elders meet, the small Methodist church, a couple of provision shops, and the path that climbs to the fort.

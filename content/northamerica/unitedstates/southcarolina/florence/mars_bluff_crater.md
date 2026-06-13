@@ -10,6 +10,7 @@ story: >
   On 11 March 1958, a US Air Force B-47 accidentally released a nuclear bomb over Mars Bluff, South Carolina. The device fell from 15,000 feet and landed in the yard of Walter Gregg, destroying his house, injuring his family, and creating a crater 50 feet wide and 35 feet deep. The bomb's conventional explosive trigger detonated on impact; the nuclear core was not yet installed (it was stored separately on the aircraft). The Gregg family received a US government settlement of $54,000.
 sources:
   - https://en.wikipedia.org/wiki/1958_Mars_Bluff_B-47_crash
+score: 7.2
 ---
 
 Mars Bluff, about 12 km east of Florence, is the site of one of the stranger incidents in American military history: on 11 March 1958, a US Air Force B-47 Stratojet accidentally released a nuclear bomb that fell on a residential neighbourhood. The aircraft was carrying the weapon as part of a training exercise and the crew, checking a locking pin, inadvertently triggered the release mechanism.

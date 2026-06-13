@@ -9,6 +9,7 @@ latitude: 51.4574
 longitude: -2.6302
 story: >
   The observatory tower was converted from a windmill by William West in 1828. West had a camera obscura installed — a device that projects a real-time image of the surrounding landscape onto a white table inside a darkened room using a system of lenses and mirrors. This one at Clifton is one of only about 30 working camera obscuras remaining in the world, and one of fewer than a handful in England.
+score: 7.9
 ---
 
 The Clifton Observatory sits on the edge of the Avon Gorge, within the grounds of the Clifton Downs, with sweeping views across the gorge and toward the Clifton Suspension Bridge. The small tower, converted from an 18th-century windmill, houses a working camera obscura that projects a circular moving image of the gorge and the surrounding landscape onto a viewing table — on a clear day, the effect of watching real-time life unfold silently on the white disc is genuinely magical.

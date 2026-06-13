@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 30.3011
 longitude: 130.6378
+score: 7.5
 ---
 
 Hirauchi Kaichu Onsen is a tidal hot spring that emerges from rocks on the east coast shoreline, accessible only in the two hours around low tide when the sea retreats to reveal the pools. The hot spring water mixes with seawater in natural rock basins just above the waterline, and you can sit in the warm water with the Pacific stretching out in front of you.

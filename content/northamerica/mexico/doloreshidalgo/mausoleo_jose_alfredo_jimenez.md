@@ -6,6 +6,7 @@ longitude: -100.9292
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 In the municipal cemetery on the north-east edge of town, the tomb of José Alfredo Jiménez is an outsize tile-and-stone sculpture in the shape of a wide-brimmed sombrero draped over a folded sarape. The colours are bright, the scale is theatrical, and the design quotes the costume Jiménez wore on stage for most of his career. It is unmistakable from the cemetery gate.

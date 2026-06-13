@@ -10,6 +10,7 @@ tags:
   - sight
   - sullivans_cove
 snippet: "A modern floating pier on the waterfront — Hobart's main ferry terminal and a tasting hall for Tasmanian produce"
+score: 6.7
 ---
 
 The starting point for the MONA ferry, the Peppermint Bay catamaran to the Channel coast, and the Bruny Island ferry shuttle. Opened in 2013, the pier is a striking floating glass-and-steel building that rises and falls with the tide — a deliberate piece of contemporary architecture on a waterfront otherwise dominated by sandstone.

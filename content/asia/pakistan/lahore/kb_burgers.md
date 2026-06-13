@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: KB Burgers
 type: poi
+score: 5.8
 ---
 
 One of the oldest burger shops in Lahore, serving quality beef burgers since 1983. The menu has expanded over the decades to include chicken burgers, chicken sandwiches, and mutton and vegetable options, but the original beef burger is still the thing to order. Prices are very low even by Lahore standards.

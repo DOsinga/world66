@@ -9,6 +9,7 @@ tags:
 - sight
 - scheii_brasovului
 neighbourhood: Schei
+score: 8.3
 ---
 
 Biserica Sfantul Nicolae began as a wooden chapel in the 13th century, was rebuilt in stone after 1495 with funds from the Wallachian voivode Neagoe Basarab, and acquired its present Byzantine-Baroque silhouette in the 18th century. It was for centuries the principal Orthodox church of the Romanians excluded from the Saxon walled town next door.

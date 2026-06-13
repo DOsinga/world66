@@ -8,6 +8,7 @@ tags:
 - sight
 title: Grote Markt
 type: poi
+score: 7.2
 ---
 
 Aalst's central square is a tight, irregular space ringed by guild houses, the Belfry, and the medieval Schepenhuis. The cafés along the edges keep terraces out year-round, and the square is host to a Saturday market that's been running for centuries.

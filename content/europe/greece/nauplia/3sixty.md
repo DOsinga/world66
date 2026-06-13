@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 37.5664
 longitude: 22.7980
+score: 5.7
 ---
 
 A small wine and cocktail bar on Papanikolaou Street, set in a stone-arched cellar that gives it the cool of a wine cave even in midsummer. The list is solidly Greek — Nemea, Mantineia, Santorini Assyrtiko by the glass — with a few Italian and French bottles for comparison.

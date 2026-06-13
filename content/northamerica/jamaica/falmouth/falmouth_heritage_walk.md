@@ -15,6 +15,7 @@ story: >
   years was never demolished, and what was not built was never replaced.
 sources:
   - https://en.wikipedia.org/wiki/Falmouth,_Jamaica
+score: 8.4
 ---
 
 Falmouth is the best-preserved Georgian town in Jamaica and has one of the most coherent ensembles of early nineteenth-century architecture in the Caribbean. The boom that built it came from sugar: in the early 1800s, Trelawny Parish was the richest sugar-producing area in Jamaica, and the profits flowed into handsome courthouses, churches, merchants' houses, and public buildings. The abolition of slavery in 1838 ended the boom abruptly, and Falmouth stopped growing. What had been built stayed standing.

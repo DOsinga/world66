@@ -16,6 +16,7 @@ tags:
   - architecture
   - old_town
 neighbourhood: Old Town
+score: 9.2
 ---
 
 Vilnius University is one of the oldest universities in Eastern Europe, founded in 1579. Its campus occupies a significant portion of the old town — 13 interconnected courtyards of varying sizes surrounded by buildings spanning four centuries of architectural styles, from Renaissance to Baroque to Neoclassical. The university is still an active institution, and most of the buildings are open to visitors during the day.

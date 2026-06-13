@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Dancing Fountains
 type: poi
+score: 5.3
 ---
 
 The Dancing Fountains, formally the Singing Fountains of Ardagani Lake, are at the southern end of the seaside boulevard, set into the small artificial lake behind the beach. From dusk until late evening through the summer months, the fountains run through choreographed routines — jets rising and falling to music, lit in colour from below.

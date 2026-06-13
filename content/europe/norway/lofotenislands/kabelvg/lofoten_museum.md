@@ -12,6 +12,7 @@ story: >
   Norway. Ongoing excavations have uncovered fragments of the original wooden
   church, trading buildings, and personal items from a community that grew rich
   on stockfish bound for Bergen and southern Europe.
+score: 8.6
 ---
 
 The Lofoten Museum, at Storvågan a kilometre west of Kabelvåg, is the central historical museum of the islands. It traces the cod fishery from medieval Vågar through to the great seasonal migrations of the 19th and 20th centuries. The site includes a restored 1815 trader's house, a reconstructed rorbu cabin of the kind rented to seasonal fishermen, and a long collection of historic open boats.

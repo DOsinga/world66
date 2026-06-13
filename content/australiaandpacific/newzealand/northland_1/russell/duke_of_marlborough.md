@@ -12,6 +12,7 @@ story: >
   and the current structure is a later rebuild, but the licence has been
   continuous — making it arguably the most historically grounded pub in
   the country.
+score: 5.8
 ---
 
 The Duke of Marlborough Hotel on The Strand is the social heart of Russell — a heritage hotel with a broad veranda directly on the waterfront, looking out across the bay to Paihia. The bar is open to non-guests and is the best place in Russell for a drink at any time of day.

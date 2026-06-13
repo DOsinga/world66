@@ -13,6 +13,7 @@ story: >
   poles align precisely with the circular asphalt markings on the ground,
   mimicking the shadow of the spheres. The alignment lasts only a few minutes.
   Almost nobody knows to watch for it.
+score: 5.8
 ---
 
 An unusual small park in Rosslyn, designed by sculptor Nancy Holt, featuring five large concrete spheres and metal pipes rising from a grassy plaza. The spheres, each about two metres in diameter, sit among trees and along a retaining wall; the overall effect is dreamlike and slightly strange.

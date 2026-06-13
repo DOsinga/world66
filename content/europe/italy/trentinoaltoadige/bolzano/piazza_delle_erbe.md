@@ -8,6 +8,7 @@ tags:
   - market
 latitude: 46.6598
 longitude: 11.2307
+score: 7.3
 ---
 
 Piazza delle Erbe (Obstmarkt — literally "fruit market") is a compact square at the northern end of Via dei Portici, surrounded by arcaded buildings and a Neptune fountain at its centre. Fruit stalls, flower sellers, and food vendors fill the square most mornings; it's been a market since medieval times and remains the most vivid corner of the old town.

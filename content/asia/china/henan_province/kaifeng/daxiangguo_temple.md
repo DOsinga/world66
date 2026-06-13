@@ -15,6 +15,7 @@ story: >
   Lu Zhishen of Water Margin fame supposedly served as a vegetable gardener in
   the surrounding gardens. Founded in 555 CE, the temple has been destroyed and
   rebuilt eight times; what you see is largely Qing-dynasty work on Song foundations.
+score: 8.4
 ---
 
 Daxiangguo Temple, founded in 555 CE and rebuilt repeatedly over its fourteen centuries, is one of Kaifeng's most important religious sites and the most historically significant. During the Northern Song dynasty it functioned as an imperial temple of the highest rank, receiving emperors and hosting state ceremonies; at its peak the monastic community ran to several thousand monks. The main hall that survives today is a Qing rebuilding on the Song foundations, impressive in scale and housing the temple's centrepiece: a four-faced bronze Guanyin carved from a single ginkgo trunk, her thousand arms radiating in an extraordinary sculptural statement of compassion.

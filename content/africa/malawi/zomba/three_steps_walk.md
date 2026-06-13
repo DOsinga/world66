@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -15.3700
 longitude: 35.3200
+score: 8.3
 ---
 
 The Three Steps Walk is the classic route up onto the Zomba Plateau on foot — a steep trail starting from the upper edge of the city that climbs around 1,000 metres through forest in three distinct stages, each of which gains and then briefly levels out. It is one of the more strenuous half-day walks in southern Malawi, but the rewards (views back across the city and the Shire Highlands, the contrast between hot lowlands and cool upland forest) are excellent.

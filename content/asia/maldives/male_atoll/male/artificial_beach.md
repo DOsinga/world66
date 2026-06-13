@@ -9,6 +9,7 @@ tags:
 latitude: 4.1764
 longitude: 73.5145
 snippet: "The locals' swimming and hanging-out spot on the east coast"
+score: 5.7
 ---
 
 The Artificial Beach is a man-made cove on the eastern side of Malé, walled off from the open sea by a breakwater to give a safe stretch of swimming and lounging in a city that otherwise has almost no real beach. It is where Malé goes in the evening — couples, families, kids on bicycles, teenagers playing volleyball — and on weekend nights the food carts and cafes that line the road behind do brisk business.

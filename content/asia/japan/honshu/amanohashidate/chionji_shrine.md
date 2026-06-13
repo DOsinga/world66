@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5579
 longitude: 135.1830
+score: 6.8
 ---
 
 Chionji is a Buddhist temple at the southern end of the sandbar, right beside Amanohashidate Station. It houses a famous image of Monju Bosatsu — the bodhisattva of wisdom — and is one of three sites in Japan that claim the honour of possessing the most important Monju image. Students and examination-takers come here to pray for academic success.

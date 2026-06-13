@@ -6,6 +6,7 @@ latitude: 37.4447
 longitude: 24.9420
 story: >
   Syros loukoumi (Greek Turkish delight) is made to a recipe dating from the 1800s, when confectioners from the Ottoman-influenced port culture of Syros developed their own version of the sweet. The Syriot variety is firmer than Turkish versions and typically flavoured with rose water or mastic — a distinctly Aegean combination.
+score: 6.6
 ---
 
 Syros is famous throughout Greece for its loukoumi — a local version of Turkish delight that comes in a wider range of flavours and textures than the mainland variety. Several family-run confectionery workshops in Ermoupoli still make loukoumi by hand, and many offer tours or at least let you watch through the window as the confectioners work the sugar over large marble tables.

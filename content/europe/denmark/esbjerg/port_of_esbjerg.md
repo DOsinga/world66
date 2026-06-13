@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 55.4633
 longitude: 8.4469
+score: 7.5
 ---
 
 The harbour is the reason Esbjerg exists, and walking the waterfront is a more interesting hour than you might expect. The southern basin handles general cargo and ferries; the northern basin is the staging area for the North Sea offshore-wind industry, with cranes loading turbine blades and tower sections onto specialised vessels almost every day of the year.

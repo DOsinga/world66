@@ -9,6 +9,7 @@ tags:
 neighbourhood: Chinatown
 title: Golden Gate Fortune Cookie Factory
 type: poi
+score: 6.5
 ---
 
 Down a narrow alley off Jackson Street in Chinatown, a tiny shop has been making fortune cookies by hand since 1962. Workers sit at vintage machines, pulling warm wafers off a griddle and folding fortunes into them one by one. You can watch the process, buy a bag of fresh cookies (some dipped in chocolate), and even have custom fortunes inserted.

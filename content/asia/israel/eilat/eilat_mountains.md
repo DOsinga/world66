@@ -12,6 +12,7 @@ story: >
   around 600 million years ago. When you hike here you are walking on some of
   the most ancient surfaces in the region, predating even the earliest
   multicellular life.
+score: 8.3
 ---
 
 A protected nature reserve covering the dramatic desert hills immediately north and west of Eilat. The landscape is striking: deep canyons of rust-coloured sandstone and pink granite, dry riverbeds lined with acacia trees, and ridgelines that give long views across the Gulf of Aqaba toward Jordan and Saudi Arabia. Several marked hiking trails cross the reserve, ranging from easy valley walks to strenuous ridge routes.

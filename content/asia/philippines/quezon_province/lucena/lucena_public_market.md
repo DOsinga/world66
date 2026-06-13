@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - sight
+score: 7.1
 ---
 
 The Lucena Public Market is the commercial heart of the city and the best place to get a feel for provincial life in Quezon. The covered stalls spill across several blocks near the city centre, selling everything from fresh produce and dried fish to the province's signature products: coconut oil pressed that morning, jars of coconut jam (matamis na bao), and vacuum-packed longganisa Lucena sausages to take home.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.6772
 longitude: 15.8204
+score: 7.4
 ---
 
 The seafront promenade runs the length of Diamante, lined with palms, oleanders, and a string of gelaterias and bars on the landward side. In summer it is the centre of evening life: families with strollers, teenagers on scooters, old men playing cards on benches. The view stretches across the Tyrrhenian to the silhouette of Cirella island.

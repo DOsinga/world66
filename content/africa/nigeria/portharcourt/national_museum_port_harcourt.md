@@ -14,6 +14,7 @@ story: >
   hundred years. When these objects were first excavated in the 1930s, Western
   archaeologists initially refused to believe they were of local origin because
   the metallurgical skill was considered too advanced.
+score: 7.3
 ---
 
 The National Museum in Port Harcourt holds a collection focused on the history and material culture of the Niger Delta peoples and the broader Rivers State region. It covers the art and artefacts of groups including the Igbo, Ijaw, Ogoni, and Kalabari, offering context for the extraordinary diversity of communities that share this corner of southern Nigeria.

@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 29.5027
 longitude: -81.7647
+score: 7.4
 ---
 
 Palatka sits at the eastern edge of the Ocala National Forest, a vast longleaf pine and scrub oak forest that contains the world's largest concentration of sand pine scrub and some of Florida's finest freshwater springs. The main spring-fed swimming areas — Silver Glen, Salt Springs, and Alexander Springs — are a short drive west and south of Palatka, each with water that maintains a constant 68°F year-round, crystal clear, and fringed by ancient cypress.

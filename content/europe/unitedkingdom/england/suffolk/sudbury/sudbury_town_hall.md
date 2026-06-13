@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The Town Hall was built in 1828 in a plain but confident classical style, on a site that has held civic buildings since the medieval period. It replaced an earlier market house and guild hall, preserving the function while completely reimagining the architecture. The building's raised ground floor — originally an open arcade for market stalls — is now enclosed, but the civic proportions survive intact.
+score: 5.7
 ---
 
 Sudbury's Victorian Town Hall anchors the north side of Market Hill, its clean classical facade providing a dignified backdrop to the market square and Gainsborough's statue. Built in 1828 and extended in the Victorian period, it represents the confident civic ambition of a prosperous wool and silk-weaving town at the height of its commercial importance.

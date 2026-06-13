@@ -15,6 +15,7 @@ story: >
   song — "Where the Turf Meets the Surf" — was written and recorded by Crosby. The 1937 opening
   was attended by 15,000 people on the first day; the following weekend saw 20,000. The track
   has never quite lost its Hollywood-adjacent glamour.
+score: 6.9
 ---
 
 The Del Mar Thoroughbred Club sits on the bluffs above Del Mar beach, twenty miles north of San Diego, in a setting that genuinely earns the phrase "where the turf meets the surf." The Pacific is visible from the grandstand; on breezy afternoons the sea wind comes straight off the water across the track.

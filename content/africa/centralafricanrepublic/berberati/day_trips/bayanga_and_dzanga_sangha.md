@@ -6,6 +6,7 @@ tags:
   - wildlife
 latitude: 2.9000
 longitude: 16.1833
+score: 8.8
 ---
 
 Bayanga is a small town about 200 kilometres south of Berberati on a rough forest road, and it is the main entry point for the Dzanga-Sangha Special Reserve — one of the most important protected forest ecosystems in Central Africa. The reserve covers 3,359 square kilometres of dense equatorial rainforest at the triple border where the CAR meets Cameroon and the Republic of Congo. Forest elephants gather at the Dzanga bai (a forest clearing and salt lick), western lowland gorillas live in the deep forest, and bongo, forest buffalo, and a vast variety of primates and birds are present throughout.

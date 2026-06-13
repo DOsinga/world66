@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8045
 longitude: 2.1050
+score: 8.0
 ---
 
 The Grand Canal is a cruciform lake 1.5 kilometres long and 62 metres wide, dug out by 30,000 workers between 1668 and 1679. At its T-junction, the north arm leads to the Trianon area; the south arm to the Menagerie (the royal zoo, now gone). Louis XIV kept a flotilla of gondolas on it and imported real Venetian gondoliers, along with miniature warships and a small yacht. He held water festivals here and watched his navy rehearse tactics on the water.

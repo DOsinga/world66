@@ -9,6 +9,7 @@ latitude: 12.4351
 longitude: -86.879
 sources:
   - https://en.wikipedia.org/wiki/Le%C3%B3n,_Nicaragua
+score: 7.0
 ---
 
 The central park is León's main gathering place and the best vantage point for the cathedral's facade. On weekday evenings it fills with families, vendors, and students from the nearby university. On Sundays after mass the square is at its most animated.

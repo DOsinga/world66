@@ -9,6 +9,7 @@ tags:
 - museum
 title: Kimchi Museum
 type: poi
+score: 6.1
 ---
 
 A small museum dedicated entirely to kimchi, Korea's fermented side dish that accompanies virtually every meal. Exhibits trace the history, regional varieties, and fermentation science behind the dish, with displays of the traditional earthenware crocks (onggi) used for storage. You can sample different types and there are occasional hands-on kimchi-making workshops.

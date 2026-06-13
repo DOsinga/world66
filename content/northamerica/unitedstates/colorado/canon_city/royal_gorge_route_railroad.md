@@ -11,6 +11,7 @@ story: The Royal Gorge Railroad War of 1879 was fought between two railroads ove
   the right to lay tracks through the canyon's narrowest point. There were armed
   standoffs. Fortifications were built and dynamited. The dispute went to the Supreme
   Court before being settled commercially.
+score: 8.2
 ---
 
 The Royal Gorge Route Railroad runs scenic excursion trains along the Arkansas River through the bottom of the Royal Gorge — directly below the suspension bridge, deep within the canyon walls. The two-hour round trip from Cañon City covers around 38 kilometres on standard-gauge track originally laid in 1880.

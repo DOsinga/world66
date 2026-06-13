@@ -6,6 +6,7 @@ longitude: 10.7000
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 Füssen's old town is a compact triangle of painted facades, tightly cobbled lanes, and small squares wedged between the Lech river and the slopes up to the Hohes Schloss. The main commercial street is **Reichenstraße**, a single straight pedestrian lane with the painted oriels of merchant houses on both sides, and the modern shops and cafés tucked behind 17th-century facades.

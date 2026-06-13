@@ -8,6 +8,7 @@ tags:
   - el_silencio
   - sight
   - architecture
+score: 7.3
 ---
 
 The Iglesia de Santa Capilla, one block north of Plaza Bolívar, is a small but striking neo-Gothic church commissioned by President Antonio Guzmán Blanco in 1883 — a deliberate copy of the Sainte-Chapelle in Paris, transposed to a Caribbean colonial setting. The interior is intimate: a single high nave, slender ribbed vaults, and a wall of stained-glass windows depicting episodes from the life of Christ.

@@ -15,6 +15,7 @@ story: >
   the bronze for scrap in 654 AD. Where exactly it stood has been debated since
   antiquity; the popular image of it straddling the harbour entrance is a
   Renaissance invention with no basis in the ancient sources.
+score: 4.8
 ---
 
 The harbour mouth at Mandraki is traditionally — if almost certainly incorrectly — given as the site where the Colossus once stood. Two stone columns topped with bronze deer now mark the spot, a modern replacement for whatever ancient marker once identified it. The deer are the symbol of Rhodes and appear throughout the city, including on the harbour mole and on the coats of arms of the Knights.

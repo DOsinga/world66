@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Will'ns & Wetens
 type: poi
+score: 5.9
 ---
 
 A cosy brown cafe on the Nieuwe Binnenweg strip, one of Rotterdam's liveliest streets for independent bars and shops. The interior has the classic brown-cafe look: dark wood, dim lighting, and a well-worn bar. The beer list runs deep for a neighbourhood place, with a good selection of Belgian and Dutch craft options on tap and by the bottle. Regulars settle in for the evening, and on warmer days a few tables spill out onto the pavement.

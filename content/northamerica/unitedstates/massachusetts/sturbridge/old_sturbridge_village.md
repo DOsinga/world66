@@ -11,6 +11,7 @@ story: Old Sturbridge Village was assembled piece by piece from actual 19th-cent
   trades, tending livestock, printing broadsides, and firing pottery using period techniques.
   It's the largest outdoor history museum in the Northeast, and it genuinely functions as
   a working village rather than a static display.
+score: 9.4
 ---
 
 Old Sturbridge Village is the reason most people come to Sturbridge. Spread across 200 acres off Route 20, it recreates a New England rural community from the period 1790 to 1840 — not through replicas, but through nearly 40 original buildings that were dismantled and moved here from towns across Massachusetts, Connecticut, Vermont, and New Hampshire. The result is a working village that feels materially honest in a way that purpose-built reconstructions often don't: the floorboards are genuinely old, the millstones were genuinely used, and the tools in the blacksmith shop are the real thing.

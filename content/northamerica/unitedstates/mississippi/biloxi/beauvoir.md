@@ -12,6 +12,7 @@ story: >
   "The Rise and Fall of the Confederate Government." He died in 1889, and the estate was subsequently
   used as a home for Confederate veterans and their families until 1957. After Katrina severely damaged
   the main house in 2005, a restoration project rebuilt it to its pre-storm condition.
+score: 6.4
 ---
 
 Beauvoir is the antebellum cottage where Jefferson Davis, president of the Confederacy, lived out his final years after the Civil War. The house sits on a wide bluff overlooking the Gulf, with live oaks draped in Spanish moss giving the grounds a melancholy beauty. The property includes the main house, a presidential library, and a museum covering Davis's life and the Confederacy — a contentious subject treated in a way that reflects the site's Southern heritage framing.

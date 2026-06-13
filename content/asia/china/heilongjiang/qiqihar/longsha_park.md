@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 47.3175
 longitude: 123.9575
+score: 6.2
 ---
 
 Longsha Park is the largest public park in Qiqihar, a Soviet-influenced green space with a lake, boating facilities, and the kind of relaxed, purposeful use of outdoor space that northeastern Chinese cities do particularly well. It is most alive on summer evenings when locals arrive in numbers after work — ballroom dancing, badminton, vendors selling sunflower seeds and beer, older men playing chess under the trees.

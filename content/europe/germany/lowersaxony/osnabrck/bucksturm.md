@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.2775
 longitude: 8.0385
+score: 6.5
 ---
 
 The Bucksturm is a squat medieval tower on the western edge of the old town, one of the few substantial remnants of Osnabrück's fourteenth-century city walls. It is older than it looks: the core of the tower dates from around 1100, making it one of the oldest structures in the city. It was incorporated into the later ring of walls and used as a prison, a function it served for several centuries. The name derives from an old Low German word related to the tower's original defensive purpose.

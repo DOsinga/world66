@@ -7,6 +7,7 @@ snippet: A 19th-century university natural history collection, charmingly unchan
 tags:
 - things_to_do
 - museum
+score: 7.2
 ---
 
 The Zoological Museum, in the Babeș-Bolyai University building on Strada Clinicilor, has barely been touched since it was assembled in the 19th century. The collections — stuffed birds, mounted skeletons, jars of preserved fish — sit in the original wooden cases under the original brass fittings, lit by the original windows.

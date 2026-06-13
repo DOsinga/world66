@@ -10,6 +10,7 @@ story: >
   The park's centrepiece is a life-sized facsimile of the Salon Noir of Niaux,
   built so that visitors who cannot get a place on the real cave tour can still
   see the bison and horses at full scale.
+score: 6.8
 ---
 
 The Parc de la Préhistoire sits in a meadow just north of Tarascon and serves as the regional introduction to the Ariège's astonishing cave art. The indoor museum walks through Magdalenian life, tool-making, and pigment use; the outdoor section has reconstructed shelters, demonstrations of spear-throwers and fire-lighting, and walking trails through the woods.

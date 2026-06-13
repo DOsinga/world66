@@ -8,6 +8,7 @@ title: White-Water Rafting
 type: poi
 story: >
   The rafting stretch between Shivpuri and Neem Beach runs through a gorge that was the main Ganges supply corridor for Char Dham pilgrims before road access improved. The rapids are named after landmarks visible from the river — the "three blind mice" (three submerged boulders in sequence), the "roller coaster" (a long sequence of standing waves), and the "golf course" (a pool flat enough that guides sometimes challenge each other to landing contests).
+score: 9.0
 ---
 
 The stretch of the Ganges between Rishikesh and the village of Shivpuri offers some of the most accessible white-water rafting in India. The 16 km section from Shivpuri to Neem Beach takes about two to three hours and runs Class II to Class IV rapids through a forested gorge that feels completely removed from the ashram and tourist culture of town. The river runs cold and powerful here, fed by glacial melt from high in the Garhwal.

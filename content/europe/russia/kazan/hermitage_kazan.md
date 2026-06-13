@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - kremlin_district
+score: 6.8
 ---
 
 The Hermitage-Kazan Centre is a satellite branch of St Petersburg's State Hermitage Museum, housed in one of the old palaces inside the Kazan Kremlin. It hosts rotating exhibitions of pieces from the parent collection — typically two or three a year, on themes from Persian miniature painting to 17th-century Dutch art.

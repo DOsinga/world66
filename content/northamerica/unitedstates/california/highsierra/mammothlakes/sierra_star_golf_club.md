@@ -5,6 +5,7 @@ tags: [things_to_do, golf]
 latitude: 37.6255
 longitude: -118.9565
 story: At nearly 8,000 feet elevation, every drive carries farther in the thin air at Sierra Star — experienced golfers typically add 10 to 15 percent to their normal club distances, which can take an entire round to recalibrate.
+score: 5.4
 ---
 
 Sierra Star Golf Club is Mammoth Lakes' only full 18-hole course, set at altitude among pine forests with mountain views on every hole. The course is a genuine resort track rather than a filler — it plays to 6,600 yards from the back tees, with elevation changes and mountain winds making club selection genuinely interesting.

@@ -10,6 +10,7 @@ tags:
 snippet: "The poet Giacomo Leopardi's family home and the library where he read himself almost blind"
 story: >
   Leopardi's father, Count Monaldo, was a serious bibliophile and built up a private library of more than 20,000 volumes — an extraordinary collection for a small town in the Papal States. By the time he was sixteen Giacomo had read most of it, taught himself Greek, Hebrew, Latin, French, English and German, and ruined his health and his eyesight in the process. The "seven years of mad and most desperate study" he later mourned were spent in these rooms.
+score: 8.9
 ---
 
 The Casa Leopardi is the eighteenth-century palazzo where Giacomo Leopardi was born in 1798 and where he spent most of his short life. The Leopardi family still lives in part of the house; the rest is open as a museum. What everyone comes to see is the **library** — twenty thousand volumes shelved floor-to-ceiling in a series of high rooms, exactly as the poet's father, Count Monaldo, arranged them in the late eighteenth century. The wooden ladders, the rolling steps, the marble busts of philosophers, the writing desks: everything is original.

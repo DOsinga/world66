@@ -6,6 +6,7 @@ tags:
   - cycling
 latitude: 39.4500
 longitude: 75.9500
+score: 8.0
 ---
 
 The Kashgar oasis extends for many kilometres in all directions from the city, fed by irrigation channels bringing snowmelt down from the Pamir and Karakoram ranges. Renting a bicycle and riding out into the flat, green farmland is one of the most rewarding ways to spend an afternoon. The roads are quiet, the villages are genuine, and the locals are curious and friendly without being intrusive.

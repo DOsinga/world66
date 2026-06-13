@@ -6,6 +6,7 @@ tags:
   - beach
 latitude: 41.4313
 longitude: -8.7720
+score: 7.3
 ---
 
 Aguçadoura Beach is the longest and wildest of Póvoa's beaches, on the rural northern edge of the municipality. A wide stretch of sand backs onto extensive dunes and the unusual coastal greenhouses that grow vegetables on the sandy soil under polythene.

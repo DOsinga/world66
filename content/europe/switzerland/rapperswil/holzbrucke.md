@@ -9,6 +9,7 @@ latitude: 47.2207
 longitude: 8.8120
 story: >
   The route across the lake narrows at Rapperswil, and this crossing has been used since at least the Bronze Age — pile-dwelling remains found in the shallows below the current bridge have been dated to around 1500 BC. The medieval timber bridge was rebuilt repeatedly over the centuries, destroyed in wars and floods, and restored each time. The current bridge, built in 2001, is the latest in an unbroken series of crossings at this point that spans three millennia.
+score: 8.5
 ---
 
 The Holzbrücke is a wooden footbridge linking Rapperswil with the village of Hurden on the opposite shore of the lake. At 841 metres it is one of the longer wooden bridges in Europe, and the walk across it — with the lake on both sides and the Alps visible on clear days — is one of the most satisfying short walks in the Zurich region.

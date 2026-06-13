@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - walled_city
+score: 6.6
 ---
 
 Andaaz is the third of the Fort Road rooftop restaurants overlooking the Badshahi Mosque. It is somewhat newer and somewhat more polished than Cuckoo's and Haveli, with the same essential menu of Punjabi grilled meats and karahi, and the same essential view.

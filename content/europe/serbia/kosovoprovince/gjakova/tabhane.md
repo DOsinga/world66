@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.3776
 longitude: 20.4295
+score: 6.3
 ---
 
 The Tabhane is a historic building near the Long Bazaar that once served as a tannery — the name comes from the Turkish word for this trade. The building dates from the Ottoman period and is one of the few surviving examples of a trading or craft complex in Gjakova. It has been designated a cultural heritage monument.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 54.7000
 longitude: -7.2500
+score: 6.9
 ---
 
 Ten kilometres north of Omagh in the valley of the Owenkillew river, Gortin Glen Forest Park was the first forest park established in Northern Ireland, opening in 1967. The park covers 1,534 hectares of coniferous plantation woodland on the lower slopes of the Sperrins, with five colour-coded waymarked trails ranging from easy riverside walks to longer routes that climb through the trees to viewpoints over the surrounding hills.

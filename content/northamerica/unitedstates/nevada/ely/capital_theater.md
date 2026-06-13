@@ -7,6 +7,7 @@ tags:
   - theatre
 latitude: 39.2481
 longitude: -114.8934
+score: 5.8
 ---
 
 A 1916 Beaux-Arts movie palace on Aultman Street, originally built by C.O. Fleming and W.P. Hull to serve the mining-boom population of Ely with vaudeville and silent film. The pressed-tin façade, painted green and cream, is one of the more distinctive storefronts on the strip. The auditorium inside has been substantially altered, but the marquee and front are essentially original.

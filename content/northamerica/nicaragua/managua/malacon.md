@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 12.1600
 longitude: -86.2720
+score: 6.5
 ---
 
 The Malecón is a lakefront promenade along the southern shore of Lake Managua, stretching from the old city centre westward past the Rubén Darío theatre toward Puerto Salvador Allende. It is the most pleasant place in central Managua for an evening walk, with views across the water to the twin volcanoes Momotombo and Momotombito on the far shore.

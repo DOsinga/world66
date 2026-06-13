@@ -12,6 +12,7 @@ tags:
 - restaurant
 title: Fireplace Grill
 type: poi
+score: 5.1
 ---
 
 A Bangkok institution for over 30 years, the Fireplace Grill serves charcoal-grilled beef the traditional American way. Recently refurbished and back to its signature quality. Not cheap, but a solid choice when you need a proper steak.

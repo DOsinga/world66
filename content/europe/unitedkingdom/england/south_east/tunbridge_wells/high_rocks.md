@@ -6,6 +6,7 @@ longitude: 0.2257
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 Just outside the town to the south-west, the High Rocks are a far larger outcrop of the same Wealden sandstone that breaks through the surface on the Common. The site has been used by climbers since the late nineteenth century and remains one of the most important bouldering and trad-climbing venues in southern England.

@@ -8,6 +8,7 @@ tags:
 snippet: "Sandy beach below the Orłowo cliffs, with a long wooden pier"
 latitude: 54.4870
 longitude: 18.5638
+score: 8.6
 ---
 
 Orłowo, the southernmost neighbourhood of Gdynia, has the best beach in the Tri-City — a wide arc of pale sand backed by the wooded **Klif Orłowski** (Orłowo cliff), the most photogenic stretch of Polish Baltic coast. A long wooden **pier** runs about 180 m into the bay.

@@ -12,6 +12,7 @@ story: >
   as the bitterest possible irony for his account of depression-era poverty.
   The original structure is long gone, but a section of cast-iron tip gear has
   been reconstructed near the site.
+score: 8.7
 ---
 
 The Wigan Pier Quarter is the heritage area along the Leeds and Liverpool Canal where the industrial heritage of the town is best preserved. The Trencherfield Mill, one of the largest surviving steam-powered cotton mills in the world, anchors the quarter — its original 2,500 horsepower twin-tandem compound steam engine is still in working order and runs on steam days. The mill complex has been converted to apartments and offices, but the engine house is open to visitors.

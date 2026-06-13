@@ -8,6 +8,7 @@ tags:
 title: Dishan Kala
 type: poi
 snippet: "The outer fortified town surrounding Itchan Kala, with its own wall, gardens, and Nurullaboy Palace"
+score: 6.2
 ---
 
 Dishan Kala — Outer Fortress — was the larger walled town surrounding Itchan Kala, built in the 1840s by Allakuli Khan to enclose the markets, residences, and gardens that had grown up outside the inner wall. The outer wall ran for six kilometres and had ten gates. Most of it was demolished in the 20th century, but several stretches survive in the suburbs.

@@ -15,6 +15,7 @@ tags:
 - architecture
 title: Casa Botines
 type: poi
+score: 7.8
 ---
 
 Casa Botines is a Neo-Gothic mansion designed by Antoni Gaudí in 1892, one of only three buildings he completed outside Catalonia. It sits on the Plaza de Santo Domingo, directly opposite a much more conventional building — the contrast makes Gaudí's instincts clear even at a glance.

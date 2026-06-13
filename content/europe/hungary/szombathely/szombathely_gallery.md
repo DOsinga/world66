@@ -6,6 +6,7 @@ longitude: 16.6225
 tags:
   - things_to_do
   - museum
+score: 6.5
 ---
 
 The Szombathely Gallery specialises in twentieth-century and contemporary Hungarian art, with a collection built largely from a national tapestry biennial that the city hosted for decades. The textile holdings are the strongest part — bold, often political works from the late socialist period — alongside paintings, prints, and rotating exhibitions.

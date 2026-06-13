@@ -9,6 +9,7 @@ tags:
 - skiing
 - hiking
 snippet: A gondola from the centre of town to the ridge above, giving a panorama of the Ofotfjord and the Lofoten peaks
+score: 8.3
 ---
 
 The **Narvikfjellet gondola** climbs in a few minutes from the eastern edge of town to a viewing platform at 656 metres, where the panorama opens out across the Ofotfjord, the iron-ore harbour, and the distant teeth of the Lofoten range to the west. In summer it is the easiest way in northern Norway to see the midnight sun without serious hiking; from late May to mid-July the sun loops above the horizon and the late-night view from the upper station is exceptional.

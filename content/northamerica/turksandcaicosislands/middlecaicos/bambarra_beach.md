@@ -8,6 +8,7 @@ latitude: 21.7903
 longitude: -71.7633
 story: >
   Every year on January 6 (Three Kings Day), the community of Bambarra holds a festival that includes a model Viking ship burning on the beach — a tradition said to date from the wreck of a Norse ship in the 18th century, though historians dispute the origin story.
+score: 7.8
 ---
 
 Bambarra Beach is a long, largely empty stretch of white sand on the south side of Middle Caicos, facing the calm turquoise waters of the Caicos Bank rather than the open Atlantic. The water here is shallow, warm, and clear — ideal for swimming and wading. The beach is rarely crowded; on a typical day you may have it entirely to yourself.

@@ -7,6 +7,7 @@ tags:
   - indigenous
 latitude: -31.9508
 longitude: 115.8600
+score: 6.2
 ---
 
 Perth has several good commercial galleries specialising in Aboriginal and Torres Strait Islander art, and buying directly from reputable galleries is one of the better ways to bring something meaningful home from WA. The Northbridge precinct around the Perth Cultural Centre has the highest concentration, with galleries representing artists from remote WA communities — the Kimberley, the Western Desert, the Pilbara — where some of the most powerful contemporary Aboriginal art originates. Works range from affordable prints and small canvases to major pieces by established names.

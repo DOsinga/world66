@@ -9,6 +9,7 @@ latitude: 26.5106
 longitude: -78.6405
 story: >
   UNEXSO — the Underwater Explorers Society — was founded in 1965 and is one of the oldest recreational dive operations in the Caribbean. It pioneered the close-encounter dolphin dive programme, which allows certified divers to swim with trained dolphins in open water rather than a tank — an approach that influenced similar operations worldwide.
+score: 8.3
 ---
 
 UNEXSO is one of the most respected dive operations in the Caribbean and the best reason to bring scuba equipment to Freeport. The centre runs dives on the reef system offshore, on the Ben's Cave and Zodiac Cave sites within Lucayan National Park, and the famous dolphin dive — a supervised open-water encounter with trained Atlantic bottlenose dolphins.

@@ -8,6 +8,7 @@ tags:
 latitude: 21.90972
 longitude: -159.46917
 story: "When the Ladd & Company mill started crushing cane here in 1835, it launched an industry that would reshape Hawaii more profoundly than almost any other force: within decades, sugar plantations covered the islands, and the labour demands brought waves of contract workers from China, Japan, Portugal, Korea, and the Philippines whose descendants make up much of Hawaii's present population. The mill itself ran until 1996 — 161 years of continuous operation."
+score: 6.9
 ---
 
 The ruins of the Old Sugar Mill of Koloa stand at the north edge of town as a compact but resonant memorial to Hawaii's plantation era. What remains is the stone chimney stack and the shell of the mill building, preserved in place since the mill closed in 1996. Bronze statues of the ethnic groups who worked the plantation — Japanese, Chinese, Filipino, Korean, Portuguese, and Hawaiian workers — stand nearby, one of the more honest acknowledgements of the plantation labour system that you'll find anywhere in the state.

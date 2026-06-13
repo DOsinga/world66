@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Amalfi Cathedral is dedicated to Saint Andrew the Apostle, and his relics have been kept here since 1208 — brought from Constantinople when the Republic of Amalfi was at the height of its commercial power. The relics are venerated in the crypt below the main altar, and on special occasions a miraculous liquid called the Manna of Saint Andrew is said to flow from the tomb."
+score: 9.1
 ---
 
 The Cathedral of Sant'Andrea dominates the main piazza of Amalfi with its extraordinary 13th-century façade: alternating bands of dark and white marble, Arabic-Norman interlacing arches, and a magnificent bronze door cast in Constantinople in 1066. The Arab-Norman architecture reflects Amalfi's medieval cosmopolitanism — the republic traded extensively with the Byzantine and Arab worlds, and the style of its cathedral shows it.

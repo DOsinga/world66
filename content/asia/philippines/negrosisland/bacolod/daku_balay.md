@@ -13,6 +13,7 @@ story: >
   the construction reflects the extraordinary wealth that sugar cultivation
   generated for Negros Occidental's landed elite in the late 19th and early 20th
   centuries.
+score: 7.3
 ---
 
 Daku Balay (Big House) is the ancestral home of Don Generoso Villanueva on Burgos Street in central Bacolod, one of the surviving examples of the grand bahay na bato ("stone house") style of Filipino colonial architecture. The building combines Spanish colonial and indigenous design — massive stone lower floors, wooden upper storey with broad windows, and covered verandas facing the street.

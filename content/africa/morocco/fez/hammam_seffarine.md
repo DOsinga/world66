@@ -8,6 +8,7 @@ tags:
 title: Hammam Seffarine
 type: poi
 snippet: "One of the oldest hammams in Fez, probably dating to the 14th century"
+score: 7.6
 ---
 
 Just off Place Seffarine — the brassworkers' square, one of the most atmospheric corners of the medina — the Hammam Seffarine is believed to be among the oldest functioning bathhouses in Fez, its origins likely in the Merinid period. Hammams are a daily necessity in a neighbourhood where most homes have no private bathing facilities, and they run separate sessions for men and women throughout the day.

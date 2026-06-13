@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.8261
 longitude: 25.8647
+score: 7.4
 ---
 
 Katapola is the main port of Amorgos, a small harbour town spread around a bay on the west coast. Most visitors arrive here by ferry from Naxos or Piraeus. The harbour front is lined with tavernas and café-bars, and the atmosphere is pleasantly unhurried — somewhere between a working fishing port and a small resort.

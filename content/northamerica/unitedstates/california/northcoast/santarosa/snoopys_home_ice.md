@@ -15,6 +15,7 @@ story: >
   colon cancer in November 1999. He died on February 12, 2000 — the night before his final
   Peanuts strip was published in Sunday papers. He had spent 50 years drawing the strip from
   his studio two blocks away.
+score: 6.8
 ---
 
 Snoopy's Home Ice (officially the Redwood Empire Ice Arena) was built by Charles Schulz in 1969 and is still run by his family. It's a real working ice arena — the locals skate here, the local hockey teams practice here — with a Peanuts-themed lobby and a café called the Warm Puppy. The Schulz Museum is right next door.

@@ -8,6 +8,7 @@ latitude: 38.5768
 longitude: 68.7898
 story: >
   The museum was assembled by Gurminj Zavkibekov, a legendary Tajik musician and master of the ghijak (a bowed lute). Zavkibekov spent decades collecting instruments from across Central Asia, and the museum opened in his home. The collection spans the entire region — Tajik, Uzbek, Afghan, and Persian instruments — and represents a lifetime's dedication to preserving a musical heritage that Soviet rule had suppressed.
+score: 8.2
 ---
 
 One of the best small museums in Dushanbe, the Gurminj Museum occupies a traditional Tajik house behind the Mayor's Office on Bokhtar Street. The collection of Central Asian musical instruments is exceptional — over 500 instruments, many of them rare or unique, covering the full range of traditional music from Tajikistan and neighboring countries.

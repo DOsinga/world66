@@ -6,6 +6,7 @@ tags:
 - sight
 title: Dhanushkodi Beach
 type: poi
+score: 6.6
 ---
 
 The beach at Dhanushkodi runs along the sand spit at the island's eastern tip, where the Bay of Bengal meets the Palk Strait. It is long, clean, and almost always deserted — the 1964 cyclone and the government's subsequent prohibition on resettlement have kept the area free from development. The only people usually present are the occupants of a handful of fishing boats and the occasional pilgrim who has come for the religious significance of the confluence point.

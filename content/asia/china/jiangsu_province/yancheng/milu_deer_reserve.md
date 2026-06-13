@@ -8,6 +8,7 @@ latitude: 32.9667
 longitude: 120.9167
 story: >
   Père David's deer (milu) was extinct in the wild by the late 19th century — the last populations survived only in the Qing imperial hunting park in Beijing. In 1985, eighteen deer were returned from a British duke's estate where the species had been preserved in captivity since 1900, and released into this coastal reserve. Today the wild population numbers over seven thousand — an improbable conservation success story built on one English aristocrat's decision to keep an unusual deer.
+score: 8.2
 ---
 
 The Dafeng Milu National Nature Reserve, about 80 kilometres south of Yancheng city, protects the world's largest wild population of Père David's deer — a species found nowhere else on earth. The deer are large, shaggy, and strange-looking, with antlers that branch backward rather than forward, and their presence in their coastal reed-bed habitat is quietly surreal.

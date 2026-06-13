@@ -5,6 +5,7 @@ latitude: 35.2630
 longitude: -77.5811
 snippet: "Full-scale walk-aboard replica of the Confederate ironclad — the only one in the world"
 tags: [things_to_do, sight, historic]
+score: 7.9
 ---
 
 The CSS Neuse II is a full-scale, fully built replica of the Confederate ironclad CSS Neuse, the original of which sits in the interpretive centre on the riverbank a few blocks away. Built over more than two decades by local volunteers, it is the only full-scale walk-aboard replica of a Confederate ironclad in existence.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.8489
 longitude: -25.7691
+score: 8.6
 ---
 
 The Mata do Canário–Sete Cidades trail is the classic hike of the caldera: about 11 kilometres along the eastern crater rim, dropping from the road near Lagoa do Canário down into the village. It takes three to four hours one-way, mostly downhill, with the lakes in view almost the entire time. The path passes through laurel forest, eucalyptus stands, and pasture; on a clear day you see the south coast of São Miguel as you walk.

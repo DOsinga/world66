@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.1420
 longitude: 123.7510
+score: 7.7
 ---
 
 The Legazpi Boulevard runs along the waterfront of the Albay Gulf, with Mayon Volcano rising behind the city and the open sea in front — a combination that makes it one of the more dramatically situated waterfront promenades in the Philippines. The boulevard is the social heart of the city in the evenings, when families stroll and vendors set up along the seawall.

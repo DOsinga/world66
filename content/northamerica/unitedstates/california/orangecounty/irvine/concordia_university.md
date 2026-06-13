@@ -7,6 +7,7 @@ tags:
 title: Concordia University Irvine
 type: poi
 story: "Concordia sits on the former El Toro Marine Corps Air Station, which closed in 1999. The university campus incorporates the old base chapel and several other military buildings, and the runways and taxiways are still visible from the surrounding roads — a small, strange reminder that this meticulously planned residential city grew over land that was recently something else entirely."
+score: 5.2
 ---
 
 A small Lutheran liberal arts university on the southeastern edge of Irvine, Concordia occupies a compact, well-maintained campus that is considerably older-looking than most institutions in Orange County. Founded in 1976 and part of the Concordia University System, it enrols around 4,000 students and has a particular strength in education, business, and nursing. The chapel on campus holds regular concerts open to the public.

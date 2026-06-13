@@ -16,6 +16,7 @@ story: >
   the castle was used as an arsenal; the French General Guillaume Brune stored
   weapons here in 1798. The museum collection includes a complete set of 16th-century
   Bernese armour and a room of weapons captured from Napoleon's armies.
+score: 8.4
 ---
 
 Thun Castle dominates the old town from its hill above the Aare, its four square towers visible from most points in the city. Built in 1191, it is one of the best-preserved medieval castles in Switzerland and has served as a museum since the 19th century. The collection covers the history of the Bernese Oberland, with armour, weapons, ceramics, and furnished period rooms.

@@ -6,6 +6,7 @@ longitude: -48.6622
 tags:
   - things_to_do
   - museum
+score: 6.9
 ---
 
 The municipal history museum, housed in an early 20th-century mansion downtown, runs through the city's origins as a Portuguese-Azorean fishing village, the German immigration of the 19th century, and the development of the port. The collection is small but well presented in Portuguese (limited English signage).

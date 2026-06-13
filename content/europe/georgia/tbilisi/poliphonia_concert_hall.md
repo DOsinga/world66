@@ -7,6 +7,7 @@ tags:
 - sight
 title: Tbilisi Philharmonia Concert Hall
 type: poi
+score: 6.2
 ---
 
 The Tbilisi Philharmonia concert hall on Melikhishvili Street is the main venue for classical music in the city, home to the Georgian State Philharmonic Orchestra. The building dates from the Soviet era and the acoustic quality inside is considered good. The programme includes orchestral concerts, chamber music, and occasional appearances by visiting soloists.

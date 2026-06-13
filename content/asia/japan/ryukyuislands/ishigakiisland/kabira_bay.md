@@ -14,6 +14,7 @@ story: >
   farms and the delicate coral below, so the standard way to see the water is from a
   glass-bottom boat. The pearl industry here is small and artisan compared to Tahiti's
   operations, but Ishigaki pearls have a distinctive deep lustre that collectors prize.
+score: 9.0
 ---
 
 The bay on Ishigaki's northwest coast is what most people picture when they think of the Yaeyama Islands — shallow water shifting from emerald to turquoise, small wooded islets breaking the surface, and the coral clearly visible below. Glass-bottom boats tour the bay from the pier at the northern end of the beach, and the 30-minute trips are genuinely worthwhile even for people who've seen a lot of tropical water.

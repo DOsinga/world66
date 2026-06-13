@@ -8,6 +8,7 @@ tags:
 story: "Lüftlmalerei takes its name not from the German word for air, as is often assumed, but from a house called the Lüftl in Oberammergau owned by the 18th-century painter Franz Seraph Zwinck — the technique's most prolific practitioner."
 title: Lüftlmalerei Facades
 type: poi
+score: 8.0
 ---
 
 Walk along Mittenwald's Obermarkt and the side streets and you find house after house painted with elaborate trompe-l'œil scenes — biblical episodes, baroque architectural details, hunting scenes, the patron saint of the family that owned it. This Bavarian tradition, called Lüftlmalerei, flourished in the 18th and 19th centuries and is best preserved in Mittenwald and the neighbouring Oberammergau.

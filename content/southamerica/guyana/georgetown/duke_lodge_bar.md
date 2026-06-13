@@ -7,6 +7,7 @@ tags:
 latitude: 6.8081
 longitude: -58.1503
 snippet: "Civilised hotel bar in an old wooden colonial house"
+score: 6.5
 ---
 
 The bar at Duke Lodge, a small heritage hotel on Duke Street in Kingston, is a quiet civilised place for a drink. The setting — a restored colonial wooden house with a verandah — is among the more atmospheric in the city, and the bartenders mix proper rum cocktails. Less raucous than the Sheriff Street bars, more relaxed than the formal hotel bars.

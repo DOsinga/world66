@@ -8,6 +8,7 @@ latitude: 38.0430
 longitude: 23.5410
 sources:
   - https://en.wikipedia.org/wiki/Elefsina
+score: 7.5
 ---
 
 Elefsina became one of Greece's most important industrial centres in the 20th century. The Kronos cement factory, the oil refineries, and the Skaramagas shipyard complex defined the town's economy for generations. The heavy industry brought prosperity and pollution in roughly equal measure and left a landscape that is, by any standard, remarkable to look at.

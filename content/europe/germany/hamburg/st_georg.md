@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - neighbourhood
+score: 6.6
 ---
 
 St. Georg, the district immediately east of the main railway station, is the centre of Hamburg's gay scene and one of the most diverse small neighbourhoods in the city. The main strip, Lange Reihe, is a relaxed kilometre of cafés, bookshops, second-hand record stores and restaurants from a dozen cuisines, running between Steindamm and the Aussenalster.

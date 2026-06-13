@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
 snippet: The town's social centre — buy noodles, watch the world go by, then come back at dusk for the food street
+score: 7.6
 ---
 
 The clock tower at the centre of Mahasarakham is the obvious meeting point in town, and the fresh market around it is where to spend an hour in the morning if you want to see the place at its most ordinary. Vendors sell bunches of glass noodles, dried river fish from the Mun and the Chi, baskets of *som tam* (papaya salad) ingredients pre-portioned with the chillis on top, bagged curry pastes, sticky rice in palm-leaf cones, and the brilliant orange-yellow flowers of the dok khae tree, which Isan cooks fry with eggs in the cool months.

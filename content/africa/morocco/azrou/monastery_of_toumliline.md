@@ -16,6 +16,7 @@ story: >
   — for one of the earliest sustained interfaith dialogues of the modern
   era. The conversations are still cited as a model for the Vatican II
   approach to Islam.
+score: 7.7
 ---
 
 The Monastery of Toumliline was a Benedictine community founded in 1952 in a former French summer hotel, four kilometres east of Azrou. It quickly became a centre for Islamic-Christian dialogue, running summer schools and a free clinic that served the surrounding Berber villages until political pressure forced its closure in 1968.

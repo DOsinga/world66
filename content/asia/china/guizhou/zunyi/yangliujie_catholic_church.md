@@ -13,6 +13,7 @@ story: >
   in the Gothic Revival style became, for a few weeks, the administrative centre of a
   Communist military force fighting for its survival. The church continued as a functioning
   parish after the Red Army departed.
+score: 6.9
 ---
 
 The Yangliujie Catholic Church is a Gothic Revival building erected by French missionaries in the early twentieth century — an unexpected architectural presence in a Guizhou market town. Its historical significance comes from the Zunyi Conference of January 1935, when the Red Army occupied the building as the headquarters of its political directorate while the Politburo met in the merchant house nearby. The combination of European ecclesiastical architecture and Chinese revolutionary history makes for an unusual visit.

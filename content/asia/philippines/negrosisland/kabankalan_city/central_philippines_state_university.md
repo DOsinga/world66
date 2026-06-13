@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.9889
 longitude: 122.8135
+score: 5.2
 ---
 
 The main campus of Central Philippines State University (CPSU) is located in Kabankalan and serves as the leading public higher education institution in southern Negros Occidental. The campus is a green, quiet space on the edge of the city centre — an unusual oasis in an otherwise built-up area. CPSU has multiple campuses across the province but the Kabankalan main campus is the largest.

@@ -6,6 +6,7 @@ longitude: 24.3867
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 A 19th-century octagonal wooden daymark tower — a *pooki* in Finnish — on the small island of Tasku in the Raahe archipelago. Daymarks were unlit navigational aids that helped sailing ships find safe channels through the shallow, island-littered waters of the Bothnian Bay.

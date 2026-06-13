@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 4.8
 ---
 
 A small turtle-conservation centre near the village of Combinado on the north side of the island, established in the 1990s to protect the green and loggerhead turtles that nest on Cayo Largo's beaches. Visitors can see hatchlings in tanks at different growth stages and, during nesting season (May to October), occasionally watch a release.

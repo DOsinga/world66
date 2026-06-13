@@ -7,6 +7,7 @@ tags:
 latitude: -22.9726
 longitude: -43.0278
 snippet: "Atlantic rainforest park above Itacoatiara beach with 15 trails and Darwin's historic route"
+score: 8.4
 ---
 
 The Atlantic Forest hills rising behind Itacoatiara beach are protected as the Serra da Tiririca State Park, a 3,500-hectare reserve spanning the boundary between Niterói and Maricá. Fifteen marked trails wind through dense submontane rainforest, restinga scrub, and mangroves; the highest point is the Morro do Elefante at 412 metres.

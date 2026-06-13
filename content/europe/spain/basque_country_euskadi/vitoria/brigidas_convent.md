@@ -6,6 +6,7 @@ longitude: -2.6772
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 A baroque convent at the western edge of the old town, founded in 1671 and still occupied by an enclosed order of Bridgettine nuns. The exterior is dignified and plain; the church, with its 17th-century altarpieces, is open during morning Mass.

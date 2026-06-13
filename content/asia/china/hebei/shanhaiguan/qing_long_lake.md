@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.8
 ---
 
 **Yansai Lake** (*Yansaihu*) is a long, narrow reservoir set among low limestone mountains about 8 km north-west of Shanhaiguan, formed by the damming of the Shi River in the 1970s. The water is a deep blue-green colour and the surrounding hills are dotted with watchtowers of a now-flooded section of the inland Great Wall.

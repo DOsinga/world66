@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.3
 ---
 
 The **Marea Moschee din Constanța** (also called the Karol I Mosque) was built between 1910 and 1913 and was, on completion, the first reinforced-concrete building in Romania. The architecture is a self-conscious blend of Egyptian-revival and neo-Moorish style, with an unusually slender 47-metre minaret. It was commissioned for the Turkish-Tatar community of Dobruja, who form a small but historically continuous minority on the Romanian coast.

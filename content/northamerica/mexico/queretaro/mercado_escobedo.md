@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 20.5938
 longitude: -100.3939
+score: 7.2
 ---
 
 The Mercado Escobedo is Querétaro's main covered market and the best place to eat cheaply in the city. Inside, a long row of *fondas* — market restaurants — serves traditional Queretano food from early morning until mid-afternoon: enchiladas queretanas (topped with a mild guajillo-chile sauce and fresh cheese), gorditas, carnitas, and pozole. The food is cooked to order by women who have often been working the same stall for decades.

@@ -8,6 +8,7 @@ tags:
 latitude: 36.5963
 longitude: -119.4498
 address: "1012 G Street, Reedley, CA 93654"
+score: 7.4
 ---
 
 The Mennonite Quilting Center is Reedley's best-known attraction, and rightly so. Skilled artisans — many of them from the local Mennonite community — create intricately patterned quilts here using traditional techniques passed down through generations. The center sells finished quilts and fabric, and visitors can often watch work in progress.

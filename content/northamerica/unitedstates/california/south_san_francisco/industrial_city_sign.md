@@ -15,6 +15,7 @@ story: >
   the bay. The sign has remained through the entire transformation from steel
   mills to biotech laboratories — making it an oddly prescient piece of city
   branding.
+score: 7.4
 ---
 
 The most recognisable landmark in South San Francisco is invisible unless you know where to look: the words "South San Francisco — The Industrial City" spelled out in white letters on the hillside of Sign Hill above the town. The sign dates from 1923, when the city was promoted as an industrial hub, and has survived intact while the industries below it transformed from meat-packing and steel into genomics and biopharmaceuticals.

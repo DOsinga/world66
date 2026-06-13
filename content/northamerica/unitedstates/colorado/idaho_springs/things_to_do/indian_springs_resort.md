@@ -1,6 +1,7 @@
 ---
 title: "Indian Springs Resort"
 type: poi
+score: 7.0
 ---
 
 Indian Springs Resort has been operating as a hot springs destination since the 1860s, when the geothermal waters were marketed to visitors as a curative treatment for various ailments. The springs are fed by underground sources heated by the residual geothermal activity associated with the Rocky Mountain volcanic past, and the water emerges at a consistent temperature that is then routed into the various pools on the property. The resort sits right in town, a short walk from the main street.

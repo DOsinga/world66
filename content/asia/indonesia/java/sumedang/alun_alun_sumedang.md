@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -6.8598
 longitude: 107.9207
+score: 5.8
 ---
 
 The central square of Sumedang follows the standard Javanese and Sundanese template: a broad grassed space flanked by the regent's office, the main mosque, and the old administrative buildings left over from the Dutch colonial period. The Masjid Agung Sumedang, the grand mosque that borders the square, was substantially renovated in the late twentieth century but retains the layered roof typical of West Javanese mosque architecture.

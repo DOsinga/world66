@@ -8,6 +8,7 @@ story: São Gonçalo, a 13th-century Dominican friar, is venerated locally as th
 tags:
 - things_to_do
 - religious_site
+score: 8.3
 ---
 
 The 16th-century church and monastery of São Gonçalo dominates the south side of the bridge, its richly carved Renaissance portal facing the river. Construction was started under King João III in 1540 and continued under three later kings — the row of crowned royal heads above the portico belongs to all four — and the building was completed only in 1620.

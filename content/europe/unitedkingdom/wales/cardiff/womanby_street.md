@@ -9,6 +9,7 @@ latitude: 51.48046
 longitude: -3.18155
 sources:
   - https://en.wikipedia.org/wiki/Womanby_Street
+score: 7.4
 ---
 
 Womanby Street is one of Cardiff's oldest streets — the name appears in records from the 12th century — and has reinvented itself as the city's live music hub. A short, narrow street running alongside Cardiff Castle, it now holds more music venues per metre than anywhere in Wales. Clwb Ifor Bach, Fuel, The Moon and several others between them put on local and touring bands most nights of the week.

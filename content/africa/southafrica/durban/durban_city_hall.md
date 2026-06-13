@@ -9,6 +9,7 @@ tags:
 latitude: -29.8585
 longitude: 31.0265
 story: "Durban City Hall is an almost exact copy of Belfast's, completed in 1910. The borrowed design was so flattering the Belfast architect, Sir Brumwell Thomas, agreed to it on condition that the Durban version stand one foot lower so as not to outrank the original."
+score: 7.8
 ---
 
 Durban's grandest civic building is a great Edwardian baroque pile facing Francis Farewell Square. Inside, two museums share the building: the **Durban Art Gallery** on the first floor, with an excellent collection of South African modern art and Zulu beadwork, and the **Natural Science Museum** on the ground floor, with a famous dodo skeleton and a hall of African mammals.

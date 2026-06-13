@@ -9,6 +9,7 @@ longitude: 21.0171
 snippet: "Rooftop garden above the university library — one of the most surprising green spaces in the city"
 sources:
   - https://en.wikipedia.org/wiki/Warsaw_University_Library
+score: 7.9
 ---
 
 The Warsaw University Library has one of the most imaginative rooftop gardens in Europe. Opened in 2002, the two-level garden planted on top of the building covers 15,000 square metres with ornamental and naturalistic plantings, including a stream and pond. From the upper terrace there are good views over the Vistula and the Poniatowski Bridge. Access is free.

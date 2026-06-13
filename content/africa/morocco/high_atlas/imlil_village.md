@@ -9,6 +9,7 @@ longitude: -7.918889
 story: "In 1999, Imlil was in the international news for the wrong reasons: two Scandinavian hikers were murdered in the valley. Today the village is a busy trekking hub, its transformation into a legitimate Berber tourism economy a modest success story for community-led tourism in Morocco."
 sources:
   - https://en.wikipedia.org/wiki/Imlil,_Marrakesh-Safi
+score: 7.4
 ---
 
 Imlil is the gateway village for Toubkal and the main access point for trekking in the western High Atlas. At 1,740 metres, it sits in a valley of walnut orchards and terraced fields, connected to Marrakech by a winding mountain road about 60 kilometres long. The drive takes between 90 minutes and two hours depending on conditions.

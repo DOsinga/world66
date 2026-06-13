@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 43.7282
 longitude: 12.6398
+score: 7.6
 ---
 
 A short steep climb from the city centre, up Via dei Maceri, brings you to this hilltop fortress built in the 1360s by the Spanish cardinal Gil Álvarez Carrillo de Albornoz, who reconquered the Papal States after the Avignon exile. The walls were modernised in the 16th century and converted into a public park in the 19th.

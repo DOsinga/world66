@@ -8,6 +8,7 @@ tags:
 latitude: 50.133719444444445
 longitude: -5.658519444444445
 story: The Tregeseal stone circle, called "Meyn an Dons" (Stones of the Dance) in Cornish, was once two concentric rings. Most of the stones were removed or toppled in the 18th and 19th centuries; the circle was heavily restored in 1879 using stones found on the site. The restoration's accuracy is uncertain, but the monument retains a strong atmosphere in its moorland setting, particularly in low light.
+score: 7.2
 ---
 
 The Tregeseal Dancing Stones are a Bronze Age stone circle in open moorland about a mile northeast of St Just. Nineteen stones survive in a rough circle, most of them small and irregular — this is not Stonehenge, and it takes some imagination to reconstruct the original monument. What the site offers is precisely what the grander prehistoric attractions of Cornwall lack: solitude and unmediated contact with the landscape.

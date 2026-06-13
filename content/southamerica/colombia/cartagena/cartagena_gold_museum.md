@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museo Naval del Caribe
 type: poi
+score: 7.7
 ---
 
 The Naval Museum of the Caribbean occupies a large colonial building in Cartagena's old city near the waterfront. The collection covers four centuries of Caribbean maritime history — from the Spanish galleon trade and the pirate attacks that shaped Cartagena's fortifications, through the wars of independence, to 20th-century naval history. There are scale models of ships, navigation instruments, maps, and weapons, as well as exhibits on the slave trade and the Battle of Cartagena de Indias of 1741.

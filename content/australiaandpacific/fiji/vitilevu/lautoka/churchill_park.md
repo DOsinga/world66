@@ -9,6 +9,7 @@ latitude: -17.6067
 longitude: 177.4522
 sources:
   - https://en.wikipedia.org/wiki/Churchill_Park,_Lautoka
+score: 6.4
 ---
 
 Churchill Park is Lautoka's main sports ground, a 10,000-capacity multi-purpose stadium that serves as both a football ground and a rugby venue. It is home to Lautoka FC, one of the most successful clubs in Fijian football, and has hosted international football and rugby matches. The stadium sits at the centre of the town, off Vitogo Parade, and is the focus of Lautoka's considerable sporting passion.

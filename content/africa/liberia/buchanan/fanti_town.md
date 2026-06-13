@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 5.8770
 longitude: -10.0500
+score: 7.2
 ---
 
 Fanti Town is the fishing quarter at the southern end of Buchanan, settled generations ago by Fanti migrants from Ghana who came down the West African coast to fish the Liberian waters. The community is still predominantly Fanti-speaking and the men still go out in long wooden pirogues at first light to fish the bay.

@@ -7,6 +7,7 @@ tags:
   - sight
 title: San Pedro de Coche
 type: poi
+score: 6.8
 ---
 
 San Pedro is the island's main settlement and the place where the ferry from Punta de Piedras on Margarita docks. It is a small, colourful village strung along the waterfront — pastel-painted houses, a modest church, fishing boats hauled up on the sand, and stretches of fish drying on wooden racks in the sun.

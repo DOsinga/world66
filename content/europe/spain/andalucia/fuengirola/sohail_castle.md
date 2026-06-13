@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 36.5250
 longitude: -4.6290
 story: Sohail Castle was built by the Moors in the 10th century as part of the coastal defence network against Viking raids — longships from Scandinavia raided the Costa del Sol repeatedly in the 9th and 10th centuries, sailing up the Guadalquivir as far as Seville.
+score: 7.0
 ---
 
 Sohail Castle is the most dramatic landmark on the Fuengirola skyline, a Moorish fortress perched on a rocky promontory at the western end of the beach. The castle dates from the 10th century and was taken by the Catholic monarchs in 1485 during the final push of the Reconquista. What you see today is partly original and partly restored, but the site retains its commanding presence.

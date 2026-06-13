@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -31.9466
 longitude: 115.8603
+score: 8.1
 ---
 
 Northbridge is Perth's main arts, dining, and nightlife district, sitting immediately north of the city centre across the railway line. The underpass beneath the rail corridor connects the CBD to William Street, Northbridge's main artery, lined with restaurants, bars, galleries, and cafes that reflect the neighbourhood's character as Perth's most diverse and creative precinct. Chinese, Japanese, Korean, Vietnamese, Malaysian, and Middle Eastern restaurants cluster here alongside Italian and Mediterranean spots, making this the best place in the city for a casual, inexpensive meal that is genuinely interesting.

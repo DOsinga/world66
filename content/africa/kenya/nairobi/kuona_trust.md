@@ -8,6 +8,7 @@ tags:
 latitude: -1.2750
 longitude: 36.8283
 snippet: Nairobi's leading contemporary arts collective, with open studios and regular exhibitions
+score: 6.8
 ---
 
 Kuona Trust is a Nairobi arts organisation that has supported local artists since 1995 through studio space, residencies, and training programmes. The centre on Museum Hill Road, near the National Museum, houses working studios that are usually open to visitors during the day — you can watch artists painting, sculpting, and printing in progress.

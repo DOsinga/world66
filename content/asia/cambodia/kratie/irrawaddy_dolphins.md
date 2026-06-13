@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 12.7700
 longitude: 106.0300
+score: 4.9
 ---
 
 The freshwater Irrawaddy dolphin population in the deep pools at Kampi, about 15km north of Kratie, is one of the most endangered cetacean populations on earth. Once numbering in the thousands along the full length of the Mekong, the population in this stretch is now counted in the dozens. Watching them surface — rounded foreheads, no beak, rolling calmly through the brown river water — is genuinely moving.

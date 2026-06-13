@@ -8,6 +8,7 @@ tags:
 latitude: 34.0950
 longitude: 74.8250
 address: "Boulevard Road, Dal Lake, Srinagar"
+score: 6.6
 ---
 
 One of the better options along Boulevard Road for visitors based on the lake who want to avoid the trip into the city centre for dinner. Stream Restaurant occupies a lakefront position with views over Dal Lake that justify the slight premium over Residency Road alternatives. The menu covers both Kashmiri dishes and a broader Indian selection; the Kashmiri items are the better choice. The rogan josh and the seekh kebabs are consistently good.

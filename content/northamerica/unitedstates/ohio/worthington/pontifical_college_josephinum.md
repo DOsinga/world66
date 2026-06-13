@@ -17,6 +17,7 @@ story: >
   might not adequately support the institution. The arrangement remains in place
   today, making this modest Columbus suburb home to a seminary with a direct
   line to the Vatican.
+score: 6.6
 ---
 
 About two miles north of central Worthington, on a parklike campus that feels removed from the suburban sprawl around it, stands the Pontifical College Josephinum — the only pontifical seminary outside of Italy and one of the more unexpected institutions in Ohio. Founded in 1888 by Bohemian-born Father Joseph Jessing to train priests for German-speaking immigrant communities, it received its pontifical status from Pope Leo XIII in 1892 and has reported directly to Rome ever since.

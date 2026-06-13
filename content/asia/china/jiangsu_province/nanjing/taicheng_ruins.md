@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - historic_site
 - walk
+score: 5.8
 ---
 
 The Taicheng ruins are the remnants of the palace complex of the Six Dynasties period (3rd-6th centuries CE), when Nanjing — then called Jiankang — was the capital of several successive Chinese kingdoms. The area around the Drum Tower and north of Xinjiekou corresponds roughly to the footprint of the ancient city. Stone foundation blocks and inscribed tablets have been found throughout the area.

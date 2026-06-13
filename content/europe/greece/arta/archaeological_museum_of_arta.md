@@ -6,6 +6,7 @@ longitude: 20.9783
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 The Archaeological Museum of Arta sits in a modern building on the southern edge of the town, near the old hospital, and brings together finds from ancient Ambracia and other sites in the regional unit. It is small but well organised, with English captions and the kind of unhurried atmosphere that mainland Greek museums outside the main tourist circuit often have.

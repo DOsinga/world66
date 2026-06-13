@@ -9,6 +9,7 @@ longitude: -121.8905
 story: >
   The building's distinctive purple colour was not accidental: architect Ricardo Legorreta chose it specifically because purple does not appear in the immediate urban environment, making the museum immediately identifiable to children from a distance. The interior is equally bold, with exhibition spaces designed to encourage exploration rather than instruction.
 sources: []
+score: 7.7
 ---
 
 The Children's Discovery Museum of San Jose is consistently rated one of the best children's museums in the United States. The building — a striking purple structure by Mexican architect Ricardo Legorreta, near the convention centre south of downtown — houses two floors of interactive exhibits where children explore everything from water dynamics to world cultures.

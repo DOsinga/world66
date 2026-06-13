@@ -14,6 +14,7 @@ story: >
   Constantinople will return to Greek hands. The church was supposedly founded by
   St Helen, mother of Emperor Constantine, in the 4th century, though the
   present structure is mostly 6th-century work.
+score: 9.2
 ---
 
 The Church of a Hundred Doors is one of the best-preserved early Christian churches in Greece — and one of the oldest functioning Byzantine church complexes in the Aegean. It sits in Parikia just back from the waterfront, and its whitewashed bulk quietly dominates the old town.

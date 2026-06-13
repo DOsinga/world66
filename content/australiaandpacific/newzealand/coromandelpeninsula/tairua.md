@@ -9,6 +9,7 @@ latitude: -37.0064
 longitude: 175.8489
 sources:
   - https://en.wikipedia.org/wiki/Tairua
+score: 6.4
 ---
 
 Tairua is a beach town on the eastern Coromandel coast with good surf and a more relaxed feel than the busy holiday crowds of Hahei. It sits on a harbour estuary backed by Paku Hill — a volcanic remnant with a walking track to the summit — and faces the barrier island of Pauanui across the water.

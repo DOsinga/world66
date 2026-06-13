@@ -6,6 +6,7 @@ tags:
   - wildlife
 latitude: 17.88
 longitude: -88.02
+score: 6.7
 ---
 
 West Indian manatees inhabit the lagoon side of Ambergris Caye and the shallow seagrass beds of the surrounding waters. Several operators in San Pedro run guided manatee-watching boat trips, typically heading to known feeding grounds where small groups of manatees graze in calm, clear water.

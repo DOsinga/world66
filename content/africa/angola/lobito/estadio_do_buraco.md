@@ -9,6 +9,7 @@ latitude: -12.39268
 longitude: 13.553643
 sources:
   - https://en.wikipedia.org/wiki/Est%C3%A1dio_do_Buraco
+score: 6.8
 ---
 
 Estádio do Buraco is Lobito's main football stadium, home to Desportivo do Huambo and other local clubs. The name — "Stadium of the Hole" — comes from its unusual sunken construction: the pitch sits in a natural hollow, giving the stands an enclosed, atmospheric feel that generates real noise on match days.

@@ -13,6 +13,7 @@ story: >
   Bergerac was chosen because the surrounding Dordogne valley was, for a century and a
   half, the centre of French tobacco growing — a legacy now visible only in the occasional
   abandoned drying barn.
+score: 7.1
 ---
 
 The Musée du Tabac is housed in the Maison Peyrarède, a beautifully restored Renaissance townhouse sometimes called the Maison Henri IV after a visit the king is supposed to have made. The collection traces the use of tobacco from pre-Columbian America, through the European diplomatic and medical experiments of the 16th century, to the industrial cigarette of the 20th.

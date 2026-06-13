@@ -15,6 +15,7 @@ story: >
   stuck even though the connection to Egypt is long gone. The spice trade that made the
   bazaar important is gone too; today it sells the same spices at tourist prices, plus
   excellent Turkish delight, dried fruits, nuts, and saffron.
+score: 7.3
 ---
 
 The Mısır Çarşısı (Spice Bazaar) is the smaller, more manageable cousin of the Grand Bazaar — an L-shaped covered market near Eminönü with 88 vaulted shops selling spices, dried fruits, nuts, Turkish delight, and food products. It is touristy and the prices reflect that, but the quality of the produce is generally good and the atmosphere genuinely lively.

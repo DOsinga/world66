@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 51.9500
 longitude: -7.8434
+score: 5.9
 ---
 
 Aherne's is Youghal's best-known restaurant, a family-run seafood institution on North Main Street that has been drawing visitors for decades. The kitchen keeps it classical — Ballycotton crab, local lobster, grilled sole — and the quality of the raw material does most of the work. The atmosphere is comfortable without being stiff, the kind of place where you can settle in for the evening.

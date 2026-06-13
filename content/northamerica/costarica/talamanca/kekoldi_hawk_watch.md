@@ -13,6 +13,7 @@ story: >
   On the best October days, observers count 200,000 raptors in a single afternoon.
 sources:
   - https://en.wikipedia.org/wiki/K%C3%A9k%C3%B6ldi
+score: 7.8
 ---
 
 The Kékoldi Indigenous Territory, home to the Bribri and Cabécar peoples, sits in the hills above the Caribbean coast southeast of Puerto Viejo. The community runs a hawk watch station that is one of the great wildlife spectacles in Costa Rica: from September through November, broad-winged hawks, Swainson's hawks, turkey vultures, and dozens of other species ride the thermals in enormous flocks visible from a simple wooden platform in the forest.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.4710
 longitude: -2.4499
+score: 6.2
 ---
 
 The cluster of stone cottages, the chapel, and the small estate office at the centre of Herm — the closest thing to a village on the island. The buildings date mostly from the 19th century, when Herm was the site of a granite quarry that supplied paving stones for London streets.

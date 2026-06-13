@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.4
 ---
 
 Crescent Island is a peninsula — technically an island only when lake levels are high — jutting into the eastern side of Lake Naivasha. It is a private game sanctuary where you are allowed to walk freely among the animals without a vehicle, which is a genuinely unusual experience in Kenya. Giraffe, zebra, wildebeest, waterbuck, and Thomson's gazelle wander about with remarkable indifference to visitors on foot.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.8
 ---
 
 The Maison Pfister, on the corner of rue des Marchands and rue Mercière, is the most photographed building in Colmar after the Petite Venise quays. Built in 1537 for a hatter named Ludwig Scherer, it is a sumptuous example of late-Gothic and early-Renaissance burgher architecture: a polychrome painted façade with biblical scenes, a wood-shingled octagonal turret, an arcaded ground floor and a long gallery jutting out under the eaves.

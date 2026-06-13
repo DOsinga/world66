@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -40.5738
 longitude: -73.1345
+score: 4.8
 ---
 
 Osorno's Plaza de Armas is a well-maintained central square surrounded by the city's key civic buildings — the Cathedral of San Mateo, the Municipality building, and a ring of early 20th-century commercial facades. The plaza is the social center of the city in the way that most Chilean plazas are: busy at lunch, quieter in the afternoon, and lively on weekend evenings when families promenade.

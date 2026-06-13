@@ -9,6 +9,7 @@ longitude: 53.3569
 sources:
   - https://www.alaedin.travel/en/attractions/iran/mehdishahr/sangsar-trib-horseback-riding
   - https://gopersis.com/sangesar-tribes/
+score: 6.3
 ---
 
 The Sangesari tribes have kept horses as part of their pastoral tradition for centuries, and organised horseback rides with tribal guides are one of the more unusual activities available around Mahdishar. The rides typically take you into the mountain valleys north of the city, through terrain that the nomads have been crossing seasonally for generations.

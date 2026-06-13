@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Castelvecchio
 type: poi
+score: 8.8
 ---
 
 Built by the Scaligeri in the 1350s as both a defensive stronghold and a dynastic residence, Castelvecchio is one of the best-preserved medieval castles in northern Italy. Its crenellated brick walls, round towers, and the adjacent Ponte Scaligero make it a striking presence on the Adige. The castle was converted into a civic museum, and its renovation by Carlo Scarpa in the 1960s is itself a landmark of 20th-century museology: Scarpa's interventions — the cantilevered walkways, the repositioned equestrian statue of Cangrande I — are as remarkable as the artworks they frame. The collection covers Veronese painting and sculpture from the 12th to 18th centuries.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The lighthouse was built in 1951 under President Gabriel González Videla, La Serena's most famous son, who used his term to reshape his birth city into the colonial-revival town he believed it should be. It has never worked as a navigation aid — its single light is too low to reach ships at sea."
+score: 5.9
 ---
 
 A squat castellated tower at the north end of Avenida del Mar, the most photographed building in La Serena. The Faro is decorative — it has never functioned as a real lighthouse — and it is the visual punctuation of the long beach promenade.

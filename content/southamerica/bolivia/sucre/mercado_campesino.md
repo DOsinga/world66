@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
 snippet: Sprawling local market on the city's edge
+score: 7.5
 ---
 
 The Mercado Campesino is the big working market of Sucre, far less polished than the Mercado Central in town. Spread over several blocks in the northern outskirts of the city, it is where Quechua-speaking farmers from the surrounding valleys come to sell produce, herbs, dried llama meat, baskets, chicha, and coca leaves. Sundays and Wednesdays are the biggest days.

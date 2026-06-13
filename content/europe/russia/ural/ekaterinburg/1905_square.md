@@ -14,6 +14,7 @@ story: >
   political demonstrations gather, and where New Year's celebrations happen. The Lenin statue
   at its centre is one of the more imposing in Russia, and his raised arm points east toward
   Asia, which locals consider appropriate for a city on the boundary between continents.
+score: 6.4
 ---
 
 1905 Square is the civic heart of Ekaterinburg — a large open plaza flanked by the city administration building and surrounded by some of the city's most important Soviet-era architecture. The central Lenin statue is enormous and theatrically posed, his arm extended as if indicating the direction of progress, which in this case points roughly toward Siberia. The statue is entirely sincere and utterly characteristic of Soviet urban planning, which rarely missed an opportunity to fill a square with a heroic figure.

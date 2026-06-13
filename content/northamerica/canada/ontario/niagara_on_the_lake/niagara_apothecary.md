@@ -8,6 +8,7 @@ latitude: 43.2551
 longitude: -79.0709
 story: >
   The apothecary operated continuously from 1820 until 1964 — 144 years of dispensing medicines from the same building on Queen Street. When the last pharmacist retired, the Ontario College of Pharmacy restored and reopened it as a museum rather than let the interior be stripped or modernised. The original dispensing fixtures have never moved.
+score: 8.1
 ---
 
 The Niagara Apothecary is one of the most intact Victorian-era pharmacies surviving in North America. It has occupied the same building on Queen Street since 1820, and the walnut fixtures, glass display cases, ceramic jars, and wooden drawers are all original — nothing has been replaced or reproduced. The building operated as a working pharmacy until 1964.

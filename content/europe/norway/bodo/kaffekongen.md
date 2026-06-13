@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 67.2833
 longitude: 14.3800
+score: 5.0
 ---
 
 Kaffekongen — the Coffee King — is a small cafe on Storgata that the locals reliably recommend above the chain coffee shops. It has the usual Nordic cafe setup: good espresso, excellent pastries, mismatched furniture, and a clientele that includes both ferry commuters and people settling in for the morning with a laptop. Prices are slightly lower than the chains despite the better quality.

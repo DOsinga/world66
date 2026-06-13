@@ -7,6 +7,7 @@ longitude: 22.5564
 tags:
 - things_to_do
 - sight
+score: 6.8
 ---
 
 A shallow cave at the mouth of the Kaaimans River, just below the iconic railway bridge that for decades carried the Outeniqua Choo-Tjoe steam train. The grotto sits at sea level on the rocks beneath the road bridge; a flight of concrete steps leads down to it.

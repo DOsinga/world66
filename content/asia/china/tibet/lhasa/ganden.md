@@ -10,6 +10,7 @@ title: Ganden Monastery
 type: poi
 story: >
   Ganden was the most thoroughly destroyed of the great Tibetan monasteries during the Cultural Revolution — Red Guards dynamited it in the late 1960s, and as late as the 1980s it stood as a field of rubble. The reformer Tsongkhapa, who founded it in 1409, had his tomb here; the embalmed body was burned by the Red Guards and only fragments of bone preserved by a monk survived.
+score: 8.8
 ---
 
 Ganden, 45 kilometres east of Lhasa, is the most spectacularly sited of the three great Gelugpa monasteries — built into a natural amphitheatre on the side of Wangbur Mountain at 4,300 metres, with a long view back over the Kyichu valley. It was founded by Tsongkhapa, the founder of the Gelug school, in 1409, and was the original seat of his lineage; the abbots of Ganden are the formal head of the school.

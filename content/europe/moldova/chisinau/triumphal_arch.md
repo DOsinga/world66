@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.0247
 longitude: 28.8325
+score: 7.1
 ---
 
 A modestly scaled Triumphal Arch — locals call it the Holy Gates — anchors the south side of the cathedral park, looking out across Stefan cel Mare Boulevard. Built in 1840 to mark the Russian victory over the Ottomans in the war that ended with the Treaty of Adrianople, it has been a meeting point and rallying spot in Chisinau for nearly two centuries.

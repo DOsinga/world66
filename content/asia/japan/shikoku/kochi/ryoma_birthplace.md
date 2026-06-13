@@ -9,6 +9,7 @@ longitude: 133.524508
 snippet: Small museum on the street where Sakamoto Ryōma was born in 1836
 sources:
   - https://en.wikipedia.org/wiki/Ry%C5%8Dma%27s_Birthplace_Memorial_Museum
+score: 6.4
 ---
 
 Sakamoto Ryōma is Kōchi's most celebrated son — the Tosa samurai who helped orchestrate the alliances that ended the Tokugawa shogunate and opened Japan to the world, before being assassinated in Kyoto in 1867 at the age of 31. His birthplace in the Kamimachi district of central Kōchi has been marked and commemorated since the Meiji period.

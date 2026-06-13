@@ -9,6 +9,7 @@ snippet: Ruins of a Sassanid-era fortress on the city's edge
 tags:
 - things_to_do
 - sight
+score: 6.3
 ---
 
 Yazdegerd Castle is a ruined pre-medieval fortress traditionally dated to the Sassanid period, named after one of the Persian shahs Yazdegerd. Only fragments of walls and foundations remain, but the hilltop site gives a sense of how the original stronghold commanded the river valley below.

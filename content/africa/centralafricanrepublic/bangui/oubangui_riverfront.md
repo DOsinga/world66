@@ -8,6 +8,7 @@ latitude: 4.3590
 longitude: 18.5630
 story: >
   The Oubangui River forms the entire southern and eastern border of the Central African Republic with the Democratic Republic of the Congo. Brazzaville and Kinshasa famously face each other across the Congo River — Bangui and Zongo, across the Oubangui, are a less celebrated version of the same phenomenon: two countries, two currencies, two histories, visible from the same riverbank.
+score: 7.6
 ---
 
 The riverfront is Bangui's living room. In the mornings, fishermen haul nets along the banks and pirogues loaded with goods cross to Zongo in the DRC on the opposite shore. By afternoon, the riverside cafés and bars fill up. The light on the Oubangui at sunset — wide, slow river, lush green DRC bank across the water, the occasional fishing canoe drifting through — is one of the more peaceful sights in Central Africa.

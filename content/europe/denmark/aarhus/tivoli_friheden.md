@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 56.1375
 longitude: 10.1954
+score: 6.4
 ---
 
 Tivoli Friheden is a pleasure garden and amusement park in the southern part of Aarhus, smaller and more relaxed than Copenhagen's famous Tivoli but similar in character: gardens, rides, open-air stages, and cafes arranged in a wooded park setting. Founded in 1903, it has a summer season running from April to September and a separate Christmas market in December.

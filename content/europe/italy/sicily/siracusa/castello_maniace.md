@@ -7,6 +7,7 @@ tags:
   - ortigia
 latitude: 37.05361111111111
 longitude: 15.295277777777777
+score: 7.8
 ---
 
 The Castello Maniace stands at the southern tip of Ortigia on a rocky promontory where the sea crashes on three sides. The castle was built by the Norman emperor Frederick II in the 13th century on the site of an earlier Byzantine fortification, and is a fine example of the austere, geometric military architecture that Frederick favoured across his southern Italian domains. The exterior, with its massive square tower and twin corbelled arches, is more impressive than the interior, which has been stripped over centuries.

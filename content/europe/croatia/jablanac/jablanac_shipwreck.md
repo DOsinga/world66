@@ -8,6 +8,7 @@ tags:
   - swimming
 title: Jablanac Shipwreck
 type: poi
+score: 6.4
 ---
 
 In the shallow waters near the Jablanac harbour, the remains of a military vessel lie visible through the clear Adriatic water. The wreck sits close enough to the surface to be seen clearly from above without diving equipment, making it accessible to snorkellers and anyone wading in the harbour area. The precise history of the vessel is not well documented, but it is believed to date from the Second World War.

@@ -8,6 +8,7 @@ tags:
   - food
 title: "Saturday Market"
 type: poi
+score: 7.6
 ---
 
 Ceret's Saturday market is one of the best reasons to time your visit. Stalls fill the old streets with fruit, olives, cheese, charcuterie, bread, flowers, and the easy noise of a town that still shops in public.

@@ -7,6 +7,7 @@ tags:
 title: Walmgate Bar
 type: poi
 snippet: "The only city gate in England with its original barbican intact, and medieval iron portcullis still in place"
+score: 8.2
 ---
 
 Walmgate Bar is architecturally the most complete of York's four medieval gateways. It is the only city gate in England still possessing its original barbican — the projecting defensive structure beyond the main arch that forced attackers into a confined killing ground. The original iron portcullis and oak doors remain in place. The barbican dates from the 14th century; the main gatehouse structure is earlier. The combination makes Walmgate Bar a remarkably intact piece of medieval military architecture.

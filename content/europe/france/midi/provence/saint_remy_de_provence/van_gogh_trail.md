@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.7870
 longitude: 4.8305
+score: 7.8
 ---
 
 A signed 1.5 km walking circuit through the fields and lanes south of Saint-Rémy, following the landscapes that Van Gogh painted during his year at Saint-Paul-de-Mausole. Interpretive panels along the route reproduce the relevant paintings alongside photographs of the same view today — olive groves, the Alpilles ridge, fields of wheat and irises, the cypresses that appear again and again in his work from this period.

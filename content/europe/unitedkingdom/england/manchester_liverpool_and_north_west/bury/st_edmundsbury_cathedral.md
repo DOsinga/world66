@@ -10,6 +10,7 @@ longitude: 0.7168
 sources:
   - https://en.wikipedia.org/wiki/St_Edmundsbury_Cathedral
 story: "The cathedral was only elevated to cathedral status in 1914 when the new Diocese of St Edmundsbury and Ipswich was created — making it one of England's youngest cathedrals. It spent most of the 20th century without a central tower, which gave it a curiously truncated look. The Millennium Tower, completed in 2005, finally gave the building the vertical emphasis it needed and took 90 years of effort to get approved and funded."
+score: 8.2
 ---
 
 St Edmundsbury Cathedral occupies the site of the Abbey's parish church of St James, which was elevated to cathedral status in 1914 when the Diocese of St Edmundsbury and Ipswich was created. The building is a curious hybrid: a 16th-century nave, substantially remodelled and extended through the 20th century, and finally crowned by the Millennium Tower — a modern Gothic lantern tower completed in 2005 that gives the skyline the emphasis it had lacked.

@@ -15,6 +15,7 @@ story: >
   legal grey zone; there are no standardised departure times, and boats leave when
   they are full. Waiting in the port is a rite of passage on the overland route
   between Central Asia and the Caucasus.
+score: 6.6
 ---
 
 The seaport is Krasnovodsk's reason for existing. Ferries cross the Caspian to [Baku](/europe/azerbaijan/baku) in Azerbaijan — a crossing of roughly 12 to 15 hours in reasonable conditions — and less regularly to Astrakhan in Russia. The port handles cargo and passengers together, which is why schedules are impossible to predict: boats leave when the manifest is full.

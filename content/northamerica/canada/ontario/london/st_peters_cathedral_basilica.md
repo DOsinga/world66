@@ -8,6 +8,7 @@ tags:
 - landmark
 title: St Peter's Cathedral Basilica
 type: poi
+score: 6.9
 ---
 
 The Catholic cathedral, finished in 1885 and raised to minor basilica status by Pope Francis in 2017. Twin spires in carved limestone, a Connolly organ in the gallery, and a vast painted ceiling lit by clerestory windows. Walk five minutes north from Victoria Park; it stands almost back-to-back with the Anglican cathedral, a piece of 19th-century denominational competition built in stone.

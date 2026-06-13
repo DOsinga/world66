@@ -8,6 +8,7 @@ tags:
 latitude: 42.9328
 longitude: -74.1997
 snippet: 1895 National Guard armory built like a medieval fortress
+score: 7.4
 ---
 
 Amsterdam Castle, originally the Amsterdam Armory, was built in 1895 by the prolific upstate architect Isaac G. Perry in the Late Victorian castellated style — a six-storey octagonal tower, crenellated walls, and the general impression of having been transplanted from the Rhineland. It served as a National Guard armory until 1994 and was then repurposed as an event venue and boutique hotel.

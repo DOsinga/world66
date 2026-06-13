@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.0228
 longitude: 4.8391
+score: 6.8
 ---
 
 One of the most reliable addresses in Beaune for traditional Burgundian food at bistrot rather than gastronomic prices. The menu is unapologetic: escargots in garlic butter, jambon persillé, oeufs en meurette (poached eggs in a red-wine sauce), and boeuf bourguignon that has been cooking long enough. The wine list is tight and well-chosen, with village-level Burgundies at honest margins.

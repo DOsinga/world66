@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 18.2915
 longitude: 109.3468
+score: 6.8
 ---
 
 A small museum within the scenic area that documents the long history of imperial exile at Tianyahaijiao, tracing the stream of officials, scholars, and intellectuals who were sent here over fourteen centuries of Chinese dynastic history. The most famous of them — Su Dongpo (Su Shi), the Song dynasty poet and statesman who spent three years in Hainan after a political reversal — has a dedicated exhibit.

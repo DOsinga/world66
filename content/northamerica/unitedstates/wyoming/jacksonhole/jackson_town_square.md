@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.4799
 longitude: -110.7624
+score: 6.4
 ---
 
 The centre of the town of Jackson is a small public park surrounded by the main commercial streets, best known for its four arches made entirely from naturally shed elk antlers collected by local Boy Scouts each spring. The tradition dates to the early 20th century, when antler collectors would hire out of work cowboys to gather shed antlers from the National Elk Refuge after the animals migrated back to summer range.

@@ -7,6 +7,7 @@ tags:
 latitude: 37.9500
 longitude: 139.1100
 snippet: Factory and museum celebrating Niigata's celebrated rice crackers, with a quirky shrine
+score: 5.9
 ---
 
 Niigata produces more rice crackers (senbei) than anywhere else in Japan, and this unusual factory-museum near the port celebrates the fact with considerable enthusiasm. The Bakauke Inari shrine on the premises — dedicated to the success of the snack business — is a genuine if tongue-in-cheek piece of folk religion. Visitors can watch senbei being made, try samples of the various styles (from sweet soy-glazed to sesame-studded), and purchase bags to take home at factory prices.

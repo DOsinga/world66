@@ -9,6 +9,7 @@ tags:
 - sights
 title: La Diagonal
 type: poi
+score: 5.8
 ---
 
 Avinguda Diagonal slices across Barcelona’s Eixample grid at an angle, running 11 kilometers from the working-class neighborhoods near the Besòs river to the wealthy Pedralbes district in the west. It’s one of the city’s major arteries and a useful orientation landmark.

@@ -13,6 +13,7 @@ title: Cloud Gate
 type: poi
 sources:
 - https://en.wikipedia.org/wiki/Cloud_Gate
+score: 7.5
 ---
 
 Officially titled Cloud Gate but universally known as "the Bean," Anish Kapoor's 110-ton elliptical sculpture sits in Millennium Park's AT&T Plaza and has become one of Chicago's most recognized landmarks. Its mirror-polished surface reflects the skyline and distorts anyone who walks under it, making the underbelly -- called the omphalos -- particularly disorienting and fun.

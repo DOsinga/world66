@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.1289
 longitude: 136.9082
+score: 7.3
 ---
 
 The original Hourai-ken, founded in 1873, is the senior restaurant of the family that invented hitsumabushi — eel grilled over charcoal, chopped into pieces, and served over rice with three eating stages (as is, with garnishes, then poured over with dashi as ochazuke). The flagship sits a couple of minutes' walk from Atsuta Shrine and is the closest thing the city has to a culinary pilgrimage site.

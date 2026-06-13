@@ -12,6 +12,7 @@ story: >
   in 1979 — has an observation deck at the top with views over the forested plateau
   towards Greece on clear days. In winter, skiers are towed up to the same summit by
   chairlift, passing the tower in the mist.
+score: 6.0
 ---
 
 Pamporovo is Bulgaria's southernmost ski resort, set on the Rhodope plateau at around 1,650 metres above sea level. The skiing is modest — the runs are not steep, and the vertical drop is limited — but the resort is well-priced compared to similar facilities in Austria or France, and the combination of good snow, inexpensive lift tickets, and friendly atmosphere makes it popular with British, Czech, and Polish visitors from November to March.

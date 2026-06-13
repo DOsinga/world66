@@ -13,6 +13,7 @@ story: >
   is a 17th-century reconstruction. But there's one authentic relic: a small enamelled ring
   that was found among the debris. It's displayed in the church and may have belonged to
   Matilda herself, though the attribution is not certain.
+score: 7.8
 ---
 
 Built by Matilda, William the Conqueror's wife, as a counterpart to her husband's Abbaye aux Hommes, the Abbaye aux Dames was founded in 1060 and consecrated in 1066 — the same year William invaded England. The abbey church, dedicated to the Holy Trinity, is a remarkable Romanesque structure that survived both the Hundred Years' War and the 1944 bombardment largely intact.

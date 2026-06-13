@@ -8,6 +8,7 @@ tags:
 latitude: 14.4519
 longitude: 121.0243
 neighbourhood: BF Homes
+score: 6.4
 ---
 
 Aguirre Avenue in BF Homes has been Parañaque's main dining strip for two decades. The street and its side roads hold a dense concentration of independent restaurants covering Filipino cuisine, Japanese, Korean, Italian, and the standard Metro Manila mix of fast-casual chains. Unlike the restaurant clusters in Makati or BGC, Aguirre Avenue retains a neighbourhood character — many of these are owner-operated and the prices stay reasonable.

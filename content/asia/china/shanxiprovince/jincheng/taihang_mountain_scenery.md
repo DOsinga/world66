@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.6000
 longitude: 113.1000
+score: 7.4
 ---
 
 The eastern edge of Jincheng prefecture is defined by the Taihang Mountains, which rise abruptly from the Shanxi plateau to form a dramatic escarpment visible from much of the region. In autumn, typically from October through November, the deciduous tree cover on the Taihang slopes turns vivid red and orange — the spectacle draws significant numbers of Chinese visitors who specifically time their trips around the colour. The villages in this area take advantage of the leaf-change season by operating weekend markets and offering simple farmhouse accommodation.

@@ -10,6 +10,7 @@ story: >
   The Marienkirche's altarpiece — the Berswordt Altar, painted around 1390 — is considered one of
   the masterpieces of Westphalian Gothic painting. It remained in the church through the entire
   Second World War, hidden under sandbags while the building around it burned, and survived intact.
+score: 7.5
 ---
 
 The Marienkirche stands just metres from the Reinoldikirche on the Ostenhellweg, making the old city centre's surviving medieval buildings unusually concentrated. It is a Gothic church of the thirteenth to fifteenth centuries, largely rebuilt after wartime damage but retaining its original structure and several significant artworks.

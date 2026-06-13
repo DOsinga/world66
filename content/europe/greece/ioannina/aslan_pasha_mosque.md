@@ -7,6 +7,7 @@ tags:
 - museum
 title: Aslan Pasha Mosque
 type: poi
+score: 8.0
 ---
 
 The 17th-century Aslan Pasha Mosque sits in the lower part of the old castle district, with its single white minaret one of the most photographed silhouettes in Ioannina. Built in 1618 on the site of an earlier Orthodox cathedral, it is the best preserved Ottoman religious building in Epirus.

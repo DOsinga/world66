@@ -15,6 +15,7 @@ story: >
   out across the Tweed valley dressed in a Roman-style toga rather than a
   medieval kilt, which Erskine, in defiance of historical accuracy, considered
   more dignified for a national hero.
+score: 5.8
 ---
 
 The Wallace Statue is one of the older and stranger pieces of Scottish romantic nationalism — a 31-foot stone figure of Sir William Wallace erected in 1814 in a private wood on the Bemersyde estate, about four miles east of Melrose. It looks out across the Tweed at the same view that inspired Sir Walter Scott, who frequently stopped at the spot now signposted as "Scott's View".

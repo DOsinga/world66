@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Angola's Cristo Rei was built in 1957 by the colonial Portuguese administration to mirror Rio de Janeiro's famous statue. When Angola gained independence in 1975, the statue was initially neglected, but it has since been restored and remains one of the most visited landmarks in the country."
+score: 8.0
 ---
 
 Standing on a rocky hilltop north of Lubango, Cristo Rei is a statue of Christ the King that the Portuguese colonial administration erected in 1957, consciously echoing the more famous version overlooking Rio de Janeiro. The figure stands with arms outstretched over the plateau city, visible from much of the lower town on a clear day. The hilltop itself is the destination as much as the statue — the views across Lubango's red-roofed streets and out to the escarpment beyond are some of the best you will find anywhere in southern Angola.

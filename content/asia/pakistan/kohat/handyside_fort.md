@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 5.5
 ---
 
 Handyside Fort was built by the British in the 1850s and named after General Handyside, one of the commanders associated with the garrison. It occupies a commanding position on the ridge above the town — the kind of site that a military engineer would choose without hesitation — and gives a clear sense of how the British thought about Kohat: as a place to be held and watched from above. The fort's walls and bastions are still largely intact.

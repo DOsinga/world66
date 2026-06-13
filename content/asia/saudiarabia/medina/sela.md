@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 6.8
 ---
 
 Sela is a dramatic volcanic outcrop that rises abruptly from the plain at the northwestern edge of Medina, its dark basalt rock standing out against the surrounding lava fields. The name simply means "the rock," and it has been a landmark here for millennia. The black terrain visible from its summit is part of the Harrat Rahat, one of the largest volcanic fields in Saudi Arabia, which last erupted in 1256 CE when a lava flow threatened Medina itself.

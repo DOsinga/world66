@@ -9,6 +9,7 @@ neighbourhood: Berea
 latitude: -29.8400
 longitude: 31.0050
 address: "Silverton Road, Musgrave"
+score: 6.7
 ---
 
 Café 1999 is a small Mediterranean bistro that has been on Silvervause/Silverton Road in Musgrave for more than two decades — one of the consistent favourites among Durban food critics and a popular spot for working dinners. The menu is tapas-influenced — lamb croquettes, calamari, halloumi, lots of small plates — with mains running to risottos and grills, paired with a fair South African wine list.

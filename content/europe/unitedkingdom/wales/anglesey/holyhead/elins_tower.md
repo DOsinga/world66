@@ -6,6 +6,7 @@ longitude: -4.6933
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 A small castellated stone tower built in 1868 by the local MP, John Stanley, as a summer house for his wife Ellen — "Elin" in Welsh. It now functions as the RSPB observation point above the South Stack cliffs, with windows facing directly onto the seabird colonies and a few telescopes for visitors.

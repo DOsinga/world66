@@ -9,6 +9,7 @@ tags:
 latitude: 51.5772
 longitude: -3.9999
 neighbourhood: Mumbles
+score: 7.8
 ---
 
 The ruins of Oystermouth Castle stand on a hill above Mumbles village, with views over Swansea Bay. The castle was begun in the early twelfth century as the seat of the Norman lords of Gower and remained in use through the medieval period.

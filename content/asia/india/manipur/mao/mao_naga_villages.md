@@ -7,6 +7,7 @@ tags:
 latitude: 25.275
 longitude: 93.875
 story: "The Mao Naga are one of the Naga groups whose traditional villages functioned as independent chieftainships. Each village had its own morung — a communal house where young men slept, learned the community's traditions, and prepared for their role in village defence. The morung system has declined since Christianisation in the twentieth century, but some villages still maintain the structures as cultural heritage."
+score: 7.8
 ---
 
 The villages surrounding Mao town preserve aspects of traditional Mao Naga culture that are genuinely worth seeking out. The Mao Naga are predominantly Christian (Baptist), but the conversion happened within living memory in many communities, and traditional practices around agriculture, weaving, and social organisation remain strong.

@@ -10,6 +10,7 @@ tags:
 - church
 title: Isernia Cathedral
 type: poi
+score: 7.0
 ---
 
 The Cathedral of San Pietro Apostolo, seat of the Diocese of Isernia-Venafro, stands on foundations that archaeologists have traced through several building phases back to at least the early medieval period. The present neoclassical facade and interior date from rebuilding after the 1805 earthquake, which was the most recent of the catastrophic events that have repeatedly destroyed and rebuilt the city. Beneath the current structure, excavations have uncovered evidence of a Roman temple and layers of subsequent Christian construction.

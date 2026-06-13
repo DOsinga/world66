@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 7.4
 ---
 
 A small reminder that Eskişehir had a significant Greek and Armenian Christian population before the population exchanges of the 1920s, the Holy Trinity Church was built in the early 1880s and abandoned for decades after the Greek community left. A municipal restoration in the 2010s saved it from collapse, and it is now occasionally used for cultural events and as an exhibition space.

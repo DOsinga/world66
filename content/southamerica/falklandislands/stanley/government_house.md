@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Government House
 type: poi
+score: 5.4
 ---
 
 The official residence of the Governor of the Falkland Islands since the mid-19th century, a comfortable Victorian building set in lawns at the western edge of Stanley. The white-painted house with its conservatory and rose garden could equally be in the English Home Counties.

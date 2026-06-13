@@ -15,6 +15,7 @@ story: >
   remained visible above the waterline, emerging and submerging as the water level
   changed with the seasons. It was rescued and moved to the Gansu Provincial Museum
   in 2019.
+score: 7.9
 ---
 
 The Tiantishan Grottoes, about fifty kilometres south of Wuwei, were carved over 1,600 years beginning in the fourth century and continued through the Tang Dynasty, when the site was at its most active and produced its finest work. The caves contain Buddhist sculptures in stone and clay, murals, and inscriptions spanning multiple dynasties. A dam built in the 1960s flooded the lower sections of the site and forced the relocation of some statuary to provincial museums, but the upper caves remain accessible and are considerably less visited than the better-known sites at Dunhuang or Maijishan.

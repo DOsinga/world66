@@ -8,6 +8,7 @@ tags:
 latitude: 18.51
 longitude: -64.38
 snippet: The wide, reef-sheltered sound at the northern end of Virgin Gorda, the BVI's principal sailing destination
+score: 8.6
 ---
 
 North Sound is the large, almost-enclosed bay at the northern end of Virgin Gorda — protected by Virgin Gorda itself to the south, by Prickly Pear Island and Mosquito Island to the north, and by a string of reefs along its eastern edge. It is the largest sheltered anchorage in the British Virgin Islands and the most popular destination for BVI charter sailing. On any night in season there will be 200 or more boats moored in the sound.

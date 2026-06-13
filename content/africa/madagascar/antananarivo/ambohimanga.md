@@ -7,6 +7,7 @@ tags:
 title: Ambohimanga Royal Hill
 type: poi
 story: "For centuries the Malagasy people considered Ambohimanga so sacred that foreigners were banned from entering, on pain of death. The French colonial authorities tried to demolish it in the 1820s; locals quietly dismantled the stones and hid them, then rebuilt the walls once the order was rescinded."
+score: 9.3
 ---
 
 Ambohimanga — 'the beautiful blue hill' — sits 21 kilometres north of Antananarivo and was the original capital of the Merina kingdom before the court moved to Tana. A UNESCO World Heritage Site since 2001, it encompasses the royal city, royal tombs, and sacred enclosures set on a hilltop ringed by a massive stone wall with seven original wooden gates. The main gate, a single enormous stone disk, was rolled across the entrance each night by a team of men.

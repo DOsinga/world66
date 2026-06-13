@@ -7,6 +7,7 @@ tags:
 latitude: 8.7281
 longitude: 76.7013
 story: "The name Papanasam means 'destroyer of sins' in Sanskrit. According to local belief, bathing in the sea at this specific stretch of beach — at the foot of the cliff, near where a freshwater spring emerges — washes away the sins of a lifetime. Pilgrims come from across Kerala to perform *pitru tharpanam* (offerings for deceased ancestors) here, which is why you will see people performing rituals in full dress at the water's edge regardless of the tourist activity around them."
+score: 8.8
 ---
 
 Papanasam Beach is the main beach at Varkala, and it is unlike most Kerala beaches in having both genuine spiritual significance and practical appeal. The red laterite cliff that towers behind it is immediately striking — a dramatic natural wall that makes this beach look like nowhere else in Kerala.

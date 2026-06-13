@@ -8,6 +8,7 @@ tags:
 latitude: 17.0603
 longitude: -96.7253
 snippet: The main covered market, best for Oaxacan food and crafts at local prices
+score: 8.8
 ---
 
 The Mercado Benito Juárez, directly south of the zócalo, is Oaxaca's main covered market: a dense grid of stalls selling everything from vegetables and flowers to mezcal, mole pastes, Oaxacan cheese (quesillo), chocolate, and traditional crafts. The food section near the centre is one of the best and cheapest places to eat in the city — look for the comedores (small kitchen stalls) serving memelas, estofado, and the seven moles over rice at breakfast and lunch prices that restaurants charge three times as much for.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.0
 ---
 
 Rosslare Strand is a long, gently curved sandy beach running along the southeastern coast of County Wexford, facing St George's Channel. The beach stretches for several kilometres and is backed by low dunes; at low tide, the sand extends a long way and the walk along the water's edge is excellent. The southeast coast of Ireland catches more sun than most of the country — Wexford has the highest sunshine hours in Ireland — and the beach can be genuinely pleasant in summer.

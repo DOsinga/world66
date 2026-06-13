@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 36.7661
 longitude: -6.3510
+score: 8.1
 ---
 
 The Palacio Ducal de Medina Sidonia is one of Spain's most remarkable private archives — a ducal palace still run by the Guzmán family (now the Duchess of Medina Sidonia Foundation) that contains over 800 years of documents relating to Spanish colonial history, the Armada, and the politics of the Andalucían nobility. The archive is open to researchers by appointment, but the palace itself offers guided tours.

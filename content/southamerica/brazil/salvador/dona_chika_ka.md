@@ -9,6 +9,7 @@ tags:
 - restaurant
 - pelourinho
 snippet: No-nonsense Bahian kitchen near São Francisco
+score: 6.0
 ---
 
 A small, neighbourhood-style Bahian restaurant a few steps from the church of São Francisco. The menu is short, the cooking is honest, the moquecas are heavy on the palm oil exactly as they should be. Prices are below the more famous restaurants in the area.

@@ -13,6 +13,7 @@ story: >
   where American Methodist missionaries had established a strong presence in the 1880s.
   The settlers carried their church with them to Malaya and built this one almost
   immediately after arriving, making it a founding institution of the community.
+score: 6.9
 ---
 
 The Sitiawan Chinese Methodist Church, built in 1905 and later rebuilt after a fire, stands next to the Sitiawan Settlement Museum in Kampung Koh. It is the oldest Chinese Methodist church in Malaysia, established by the Fuzhou immigrants who founded the town. The small white building is cross-shaped in plan — an unusual design that reflects the community's faith as much as any pragmatic architectural choice.

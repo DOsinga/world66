@@ -12,6 +12,7 @@ tags:
 - nature
 title: Laguna Miscanti
 type: poi
+score: 9.1
 ---
 
 Laguna Miscanti is one of the great high-altitude sights on the Atacama circuit: a deep blue lake below the dark cone of Cerro Miscanti. Vicuñas sometimes graze nearby, and the scale is wonderfully austere.

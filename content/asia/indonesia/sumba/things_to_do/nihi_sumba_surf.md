@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -9.7350
 longitude: 119.3750
+score: 8.0
 ---
 
 The wave at Nihiwatu — known as God's Left — breaks off a headland on the southwest coast and has been called one of the best left-hand barrels in the world. It is powerful, long, and consistent during the dry season (May to October), with swells peaking in June and July. The wave is located directly in front of Nihi Sumba resort, which for years restricted access to a small number of guests per day, keeping it uncrowded in a way that comparable waves in Bali cannot manage.

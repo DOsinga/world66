@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 12.1070
 longitude: -86.2560
+score: 5.6
 ---
 
 Coffee Tree is a comfortable international-style café on the Carretera Masaya that has become a reliable destination for travellers wanting good espresso and wifi. Nicaragua is a significant coffee-growing country — the highlands around Matagalpa and Jinotega produce beans good enough to reach specialty roasters in New York and Amsterdam — and Coffee Tree serves Nicaraguan single-origin coffee done properly, as espresso and filter.

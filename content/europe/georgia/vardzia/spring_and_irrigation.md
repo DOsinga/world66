@@ -8,6 +8,7 @@ latitude: 41.380800
 longitude: 43.283600
 sources:
   - https://en.wikipedia.org/wiki/Vardzia
+score: 6.8
 ---
 
 A natural spring inside the cave complex was the water source for the entire settlement. The water still runs here, channelled through a stone trough carved into the rock. Locals and pilgrims sometimes drink from it; the water is cold and clean.

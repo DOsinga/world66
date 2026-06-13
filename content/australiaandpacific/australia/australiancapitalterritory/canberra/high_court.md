@@ -4,6 +4,7 @@ type: poi
 latitude: -35.2989
 longitude: 149.1361
 tags: [things_to_do, sight, government, parliamentary_triangle]
+score: 7.9
 ---
 
 The High Court of Australia, on the southern shore of Lake Burley Griffin between the National Gallery and Questacon, is the country's supreme court of appeal. The 1980 Edwards Madigan Torzillo Briggs building is a striking concrete-and-glass composition with a vast central public hall — 24 metres high, with a 53-metre internal waterfall — and three smaller courtrooms surrounding it.

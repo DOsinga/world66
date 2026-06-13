@@ -5,6 +5,7 @@ latitude: 37.9736
 longitude: -0.6839
 tags: [things_to_do, sight]
 snippet: "The most central beach in Torrevieja — a broad sandy strip in the heart of town, busy in summer and well-equipped year-round."
+score: 5.7
 ---
 
 Playa El Cura is the beach that most people picture when they think of Torrevieja: central, accessible, broad, and reliably busy from June through September. It sits more or less in front of the town centre, easily walkable from the main shopping streets and the paseo marítimo, which means that on a summer weekend it gets crowded early and stays that way. The sand is fine and golden, the water is shallow and calm enough for families with young children, and the infrastructure — showers, sunlounger hire, beach bars — is well maintained. Blue Flag status is standard here.

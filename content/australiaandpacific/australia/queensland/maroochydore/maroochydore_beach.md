@@ -8,6 +8,7 @@ latitude: -26.6553
 longitude: 153.0932
 story: >
   The beach gained a grim footnote in aviation history on 30 December 1950, when a Douglas DC-3 operated by Queensland Airlines crashed into the sand shortly after takeoff, killing several people aboard — an incident still remembered locally as the Maroochy air crash.
+score: 6.8
 ---
 
 Maroochydore Beach is a long, open stretch of clean sand running north from the mouth of the Maroochy River. It faces directly into the South Pacific swell, which makes it a reliable spot for bodyboarding and beginner surfing, while the northern end near the river mouth is calmer and better suited to younger children.

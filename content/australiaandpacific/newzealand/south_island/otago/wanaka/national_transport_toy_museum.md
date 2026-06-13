@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: -44.6970
 longitude: 169.1620
+score: 6.5
 ---
 
 The National Transport and Toy Museum, on the outskirts of Wanaka, houses an eclectic collection of around 30,000 items spread across several large sheds. The transport section has vintage cars, motorcycles, military vehicles, and a scattering of small aircraft. The toy collection is more unusual — tens of thousands of die-cast models, tin toys, and collectibles that amount to a peculiarly thorough record of mid-twentieth-century childhood.

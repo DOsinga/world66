@@ -8,6 +8,7 @@ latitude: 49.4942
 longitude: -117.2960
 sources:
   - https://nelsonbrewing.com
+score: 5.9
 ---
 
 Nelson's own craft brewery, established in 1991 — one of the earliest craft breweries in BC. The taproom is casual and unpretentious, with a rotating selection of ales, lagers, and seasonal beers alongside their core lineup. The Faceplant Winter Ale and Paddler's Ale are reliable standbys; ask what's new on tap.

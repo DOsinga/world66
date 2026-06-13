@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 49.7468
 longitude: 13.3762
+score: 5.8
 ---
 
 Škvárka is a craft beer bar in the city centre that offers a serious alternative to the Pilsner Urquell monoculture. The rotating tap list of 8–12 beers focuses on Czech microbreweries — IPAs, stouts, sour ales, and wheat beers from producers across Bohemia and Moravia, most of which you won't find in tourist-facing bars.

@@ -9,6 +9,7 @@ longitude: 113.9983
 story: "The Grand Old Lady — Malaysia's first oil well, drilled on 22 December 1910 — pumped continuously until 1972. When Shell handed the site over to the Sarawak state government in 1973, the 30-metre steel rig was left standing as an outdoor monument. More than a century on, it still dominates Canada Hill."
 sources:
   - https://en.wikipedia.org/wiki/Petroleum_Museum_(Malaysia)
+score: 6.9
 ---
 
 The Petroleum Museum sits on Canada Hill (Bukit Kanaan), where Malaysia's first commercial oil well was drilled by Shell in December 1910. The museum opened in 2005 with support from Shell and Petronas, and tells the story of Miri's transformation from a small Sarawakian trading post into an oil boomtown that helped finance early 20th-century Malaya.

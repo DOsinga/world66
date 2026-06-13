@@ -9,6 +9,7 @@ latitude: 40.4161
 longitude: 16.8168
 story: >
   The temple was once attributed to Pythagoras himself — the philosopher lived in Metapontion in the final years of his life and reportedly died here around 495 BC. While modern archaeology has conclusively dated the structure to the mid-sixth century BC, a generation before Pythagoras arrived, the association stuck long enough for Cicero to write that he had visited Metapontum specifically to see the places where the great man had lived and taught.
+score: 9.0
 ---
 
 Sixteen Doric columns rising from a flat wheat field near the Bradano river are all that remain of a sixth-century BC temple dedicated to Hera, and they are among the most evocative ruins of Magna Graecia anywhere in southern Italy. The columns — six along the short sides, fifteen along the long sides in the original arrangement — were left standing by accident: their height made them useful as landmarks for medieval travellers, and local farmers called them the "palatine tables," imagining they had served as a giant feast table.

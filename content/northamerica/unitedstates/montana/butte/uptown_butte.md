@@ -9,6 +9,7 @@ tags:
 latitude: 46.0113
 longitude: -112.5359
 story: "Uptown Butte is one of the largest National Historic Landmark Districts in the country — almost 6,000 contributing buildings spread over a square mile of hillside. Most of it was built in a 30-year burst between 1890 and 1920, when the city had more saloons per capita than San Francisco and Madame Curie's husband ordered Butte radium for his Paris laboratory."
+score: 9.0
 ---
 
 Uptown — confusingly, the historic centre of Butte sits high on the hillside, while the newer commercial district is on the flat below — is a more or less intact Victorian and Edwardian streetscape. Iron-fronted commercial blocks, the Hennessy Mark-Up that anchored the company town, miners' boarding houses, and the kind of ornate cornices you would expect in San Francisco rather than the Rockies.

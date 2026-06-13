@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "The treasury of St Mary's — known as the Permanent Exhibition of Religious Art, or 'The Gold and Silver of Zadar' — is one of the most important collections of medieval and Renaissance religious art in Croatia. The reliquaries, embroidered vestments and gilded panels here include works from the 8th to the 18th century, much of it produced in Zadar's own goldsmiths' workshops."
+score: 8.0
 ---
 
 A Benedictine convent on the south side of the Roman forum, with a 12th-century Romanesque bell tower (one of the oldest in Dalmatia) and a frescoed interior. The church itself is small but striking; the real attraction is the treasury museum behind it, which displays the convent's accumulated centuries of liturgical wealth.

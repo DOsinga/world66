@@ -6,6 +6,7 @@ longitude: 98.2989
 tags:
   - bars_and_cafes
   - bar
+score: 5.8
 ---
 
 The biggest nightclub on Bangla Road, occupying a multi-level building near the centre of the strip. Illuzion holds several thousand people on a busy night, with EDM and house upstairs, a hip-hop room and a separate Bollywood floor, regular international DJs, and stage shows in between.

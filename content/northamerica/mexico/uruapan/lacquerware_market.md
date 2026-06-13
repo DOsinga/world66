@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 19.4175
 longitude: -102.0573
+score: 7.4
 ---
 
 Uruapan has been a centre of lacquerware production since pre-Hispanic times, and the tradition remains alive and commercially active. The Purépecha technique — called maque — involves layering mineral pigments and chia oil onto wooden or gourd bases, building up colour and pattern through a painstaking process that serious pieces can take months. The results range from trays and plates to elaborate decorative panels, typically featuring stylised birds, flowers, and geometric patterns in deep reds, blacks, and golds.

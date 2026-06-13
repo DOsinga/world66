@@ -7,6 +7,7 @@ address: Jinnah Super Market, F-7
 tags:
   - eating_out
   - restaurant
+score: 6.6
 ---
 
 Asians is a no-nonsense Pakistani restaurant in the Jinnah Super Market that has been doing the same things — biryani, karahi, mutton kunna, paya — since the 1990s. The dining room is plain and the service brisk; nothing about it is designed to impress except the cooking, which is consistently among the best in the sector.

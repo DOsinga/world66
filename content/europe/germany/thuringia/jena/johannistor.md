@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.9294
 longitude: 11.5841
+score: 7.4
 ---
 
 The Johannistor is the only surviving city gate of medieval Jena, and one of the best-preserved examples of fifteenth-century fortification architecture in Thuringia. It stood at the southern entrance to the old town and is now marooned in the modern city as a pedestrian pass-through, looking slightly surprised to have survived while everything around it was rebuilt.

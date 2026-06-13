@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sultan Abu Bakar State Mosque
 type: poi
+score: 8.4
 ---
 
 Built between 1892 and 1900, the Sultan Abu Bakar State Mosque stands on a hill above the Strait of Johor with a clear view towards Singapore on the far shore. The architecture is a genuine hybrid: pointed Gothic windows, a crenellated tower that would not look out of place on an English country house, and traditional Islamic minarets and domes, all combined in a way that feels purposeful rather than confused. It reflects the same cosmopolitan confidence as the Royal Palace built by the same sultan a few decades earlier.

@@ -14,6 +14,7 @@ story: >
   and Mozambique is among the most affecting parts of the visit.
 sources:
   - https://en.wikipedia.org/wiki/L%27Aventure_du_Sucre
+score: 8.2
 ---
 
 Housed inside the converted Beau Plan sugar mill, one of the oldest factories in Mauritius, this is one of the best small museums on the island. The exhibits trace the full arc of sugar production on Mauritius — from the Dutch introduction of sugarcane in the 1640s through the French and British colonial periods, the abolition of slavery, the arrival of Indian indentured labourers, and the eventual decline of large-scale sugar production in the late 20th century.

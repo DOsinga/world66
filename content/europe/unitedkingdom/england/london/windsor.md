@@ -13,6 +13,7 @@ tags:
 title: Windsor Castle
 type: poi
 url: www.rct.uk/visit/windsor-castle
+score: 8.9
 ---
 
 Windsor Castle, 24 miles west of central London, is the oldest and largest occupied castle in the world — a working royal residence that has been continuously inhabited for almost 1,000 years. The State Apartments, furnished with paintings from the Royal Collection including works by Rubens, Rembrandt, and Holbein, are the main draw. St George's Chapel, where ten monarchs are buried, is architecturally outstanding — Perpendicular Gothic at its most accomplished.

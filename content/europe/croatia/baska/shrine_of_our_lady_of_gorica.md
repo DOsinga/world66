@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.3
 ---
 
 The Shrine of Our Lady of Gorica sits above the village of Batomalj, three kilometres west of Baška, on a low rocky outcrop with views back across the Bašćanska Draga valley. It has been a Marian pilgrimage site for centuries and is the religious heart of the Baška area — Krk's annual pilgrimages converge here on the Marian feast days in August and September.

@@ -8,6 +8,7 @@ tags:
 latitude: 51.0735
 longitude: 2.6630
 snippet: Brick church with a fortified medieval tower that doubled as a watchtower
+score: 7.5
 ---
 
 A short walk north of the Grote Markt, the Sint-Niklaaskerk is Veurne's other major church — older, plainer, and more characterful than its neighbour. The squat fourteenth-century brick tower at the west end was built almost as a fortified keep; it served as both belfry and watchtower in the days when Veurne sat exposed on the Flemish frontier with France.

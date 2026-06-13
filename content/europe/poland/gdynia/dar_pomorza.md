@@ -10,6 +10,7 @@ address: "Aleja Jana Pawła II"
 latitude: 54.5194
 longitude: 18.5529
 story: "Bought in 1929 from German owners using public donations from the people of Pomerania (\"Dar Pomorza\" — Gift of Pomerania), she trained Polish naval and merchant officers for fifty-three years. In 1976 she became the first non-British ship to win the Cutty Sark Trophy in the Tall Ships' Race."
+score: 8.2
 ---
 
 Dar Pomorza is the elegant white three-masted full-rigger moored alongside Błyskawica at the end of the Southern Pier — a 1909 sailing training ship that served the Polish merchant marine school until 1982 and is now the country's most-visited museum ship.

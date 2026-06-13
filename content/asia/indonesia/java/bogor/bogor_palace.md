@@ -15,6 +15,7 @@ story: >
   art collections in Asia here; the palace holds around 2,000 paintings and
   hundreds of sculptures, many of them erotic works that reportedly shocked
   foreign dignitaries.
+score: 6.8
 ---
 
 Bogor Palace is one of six presidential palaces in Indonesia, occupying a prime position within the Botanical Gardens. The current building dates from 1856, when Dutch Governor-General Herman Willem Daendels rebuilt the original colonial retreat as a formal palace. After Indonesian independence, President Sukarno made it a regular residence and filled it with art.

@@ -6,6 +6,7 @@ longitude: -72.9710
 tags:
   - eating_out
   - restaurant
+score: 7.2
 ---
 
 A row of about twenty small family-run cocinerías occupies the upper level of the Angelmó market hall, each with four or five tables and the same menu chalked on a board outside: curanto, paila marina (a seafood stew), conger eel in butter, sea urchin tongues, and king crab in cream sauce.

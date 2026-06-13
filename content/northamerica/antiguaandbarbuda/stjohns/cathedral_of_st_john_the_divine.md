@@ -15,6 +15,7 @@ story: >
   centuries of Caribbean storms.
 sources:
   - https://en.wikipedia.org/wiki/St._John%27s_Cathedral_(Antigua_and_Barbuda)
+score: 8.0
 ---
 
 The twin baroque towers of St. John's Cathedral dominate the city skyline and are visible from almost anywhere in town. The current structure, consecrated in 1847, replaced two earlier churches destroyed by an earthquake in 1843. It is the seat of the Anglican Diocese of the North Eastern Caribbean and Aruba.

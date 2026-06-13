@@ -8,6 +8,7 @@ tags:
 - nightlife
 title: Cafe Venezia
 type: poi
+score: 3.4
 ---
 
 A relaxed café in the basement arcade of Orchard Hotel, serving coffees, pastries, and light Western meals. A reasonable stop for a break from shopping on Orchard Road.

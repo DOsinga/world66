@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "Salt pans and windmills along the Stagnone lagoon north of Marsala"
 story: "The windmills along the lagoon are Dutch in origin — brought in by Sicilian salt producers in the 16th century to grind the harvested salt and to pump seawater between the pans. A handful still turn."
+score: 8.4
 ---
 
 The salt works run for several kilometres along the coast road north towards Trapani. The pans are shallow rectangular basins filled with seawater and progressively concentrated through evaporation; in late summer, when the salt is ready, the water turns a strong rose-pink from the halophilic algae that live in it, and the harvested salt is piled in conical white heaps along the embankments.

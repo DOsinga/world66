@@ -7,6 +7,7 @@ tags:
 latitude: 39.1176
 longitude: 117.1949
 snippet: "Weekend market crammed with antiques, curios, jade, and Mao-era collectibles"
+score: 8.0
 ---
 
 The Shenyang Dao antique market is one of the best places in northern China to spend a weekend morning hunting for curios. The street fills with vendors selling everything from genuine Qing-dynasty porcelain and carved jade to Chairman Mao badges, old coins, pocket watches, vintage cameras, and frankly dubious "antiques." Part of the appeal is that you genuinely cannot always tell what's real and what isn't — and neither, often, can the sellers.

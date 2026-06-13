@@ -6,6 +6,7 @@ longitude: -86.4833
 tags:
   - things_to_do
   - museum
+score: 7.4
 ---
 
 The Land of Limestone exhibit, housed in the old Indiana Limestone Company building on Bedford's north side, is a small but careful museum about the quarrying industry that built the town. Tools, photographs, and stone samples tell the story of how oolitic limestone is cut, shaped, and shipped, and how the local industry has shifted over a century.

@@ -8,6 +8,7 @@ tags:
   - sight
   - old_san_juan
 neighbourhood: Old San Juan
+score: 6.8
 ---
 
 The Plaza de Armas is the main civic square of Old San Juan, laid out in 1521 as the place where the local militia drilled. Today it is a shaded plaza ringed by City Hall (the Alcaldía) on the north side, the Puerto Rico Department of State on the west, and several nineteenth-century arcaded buildings around the rest. The four marble statues at the corners represent the four seasons.

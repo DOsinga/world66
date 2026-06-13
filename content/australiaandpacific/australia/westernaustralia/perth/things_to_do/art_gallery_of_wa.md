@@ -8,6 +8,7 @@ tags:
   - free
 latitude: -31.9508
 longitude: 115.8600
+score: 8.2
 ---
 
 The Art Gallery of Western Australia sits in the Perth Cultural Centre in Northbridge, a short walk north of the city centre through the underpass below the railway line. The permanent collection runs across Australian, European, Asian, and decorative arts, but the gallery's real strength is its Indigenous Australian art — one of the most significant collections in the country, representing artists from across WA and beyond. The works range from traditional bark paintings and ceremonial objects to contemporary canvases by artists like Julie Dowling and Rover Thomas, whose Country paintings are among the most distinctive in Australian art.

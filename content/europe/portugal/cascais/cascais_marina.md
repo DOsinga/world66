@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 38.6930
 longitude: -9.4180
 snippet: "Modern marina south of the old town with 650 berths and several restaurants"
+score: 5.3
 ---
 
 The marina, opened in 1999, occupies a sheltered bay just south of the historic centre and is the largest on the Portuguese Riviera. It is home to roughly 650 yachts ranging from small day-sailers to substantial superyachts, and a regular stopover on European sailing circuits — the Cascais leg of the World Match Racing Tour was held here for several years.

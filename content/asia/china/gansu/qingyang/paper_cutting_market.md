@@ -15,6 +15,7 @@ story: >
   of the zodiac rendered in variations that identify the hand of different village
   traditions. A master cutter can produce a complex twelve-centimetre design in
   under three minutes, without measuring, without marking, and without mistakes.
+score: 7.0
 ---
 
 The markets and craft shops in Qingyang's old streets sell paper-cutting, embroidery, and cloth work that represents a living folk art tradition. The paper-cutting ranges from simple decorative pieces sold as souvenirs to elaborate compositions that take hours to make and cost accordingly. If you have any interest in folk arts, this is one of the best places in China to buy directly from the makers.

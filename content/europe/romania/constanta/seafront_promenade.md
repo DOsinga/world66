@@ -8,6 +8,7 @@ snippet: Cliff-top promenade from the Casino to the Genoese Lighthouse, the city
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The **Faleza** — the cliff-top promenade — wraps around the eastern and southern edges of the old town peninsula from the Aquarium past the Casino and the Genoese Lighthouse to the Modern Beach. It is a pleasant walk in any season: in summer for the sea breeze and the views; in winter for the storm waves slamming against the rocks ten metres below.

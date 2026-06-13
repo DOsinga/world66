@@ -11,6 +11,7 @@ opening_hours: "Mon–Sat 10:00–18:00, Sun 11:15–17:00 (seasonal variations)
 admission: "Free; small fee for tower"
 story: >
   The Marienkirche's astronomical clock, built in 1472 by Hans Düringer, was designed so that the Calendar Ring — a revolving disc showing the day and date — would function until the year 2017. A replacement outer ring was installed in anticipation.
+score: 8.9
 ---
 
 The Marienkirche is Rostock's most important church and one of the finest examples of North German Brick Gothic architecture. Built over the 13th to 15th centuries, it is a three-aisled basilica of enormous scale, with an interior that manages to feel contemplative despite its size. The great west window and the medieval bronze baptismal font are worth particular attention.

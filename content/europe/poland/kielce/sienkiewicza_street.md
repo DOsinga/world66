@@ -8,6 +8,7 @@ tags:
 - sight
 - neighbourhood
 snippet: The long pedestrianised spine of central Kielce — cafés, ice cream, and people watching
+score: 6.6
 ---
 
 Ulica Sienkiewicza is the city's living room — a kilometre of pedestrianised street running west from the cathedral hill down to the railway station, lined with 19th-century townhouses, secondhand bookshops, ice-cream parlours, and a busy chain of cafés and bars. There are no major sights, but it is where the city walks in the evening and where most of the best places to eat and drink sit.

@@ -6,6 +6,7 @@ longitude: -99.8791
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 About six miles west of Buffalo Gap, Abilene State Park covers 529 acres of rolling brush country around Lake Abilene, the small reservoir formed by an earthen dam in 1919. The park was developed in the 1930s by the Civilian Conservation Corps, whose stone-walled pool building — still in service in summer — and elaborate masonry concession buildings remain its most striking architectural feature.

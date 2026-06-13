@@ -7,6 +7,7 @@ tags:
 latitude: 20.3006
 longitude: -103.2616
 snippet: A concentration of galleries along Colon and Morelos streets showcasing Mexican and expat artists
+score: 6.7
 ---
 
 Ajijic has an unusually high density of art galleries for a town its size — the result of decades of migration by North American artists and the strong patronage of the expat community. The galleries line Colon and Morelos streets in the town centre and range from commercial souvenir shops to serious exhibition spaces. The quality varies enormously, but at its best the Ajijic gallery scene offers genuinely good contemporary Mexican painting and photography at prices well below gallery rates in Mexico City or the US.

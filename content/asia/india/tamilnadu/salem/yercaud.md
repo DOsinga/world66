@@ -9,6 +9,7 @@ latitude: 11.7794
 longitude: 78.2034
 story: >
   Yercaud takes its name from the Tamil "yeri" (lake) and "kadu" (forest) — literally lake forest. The British developed it as a coffee-growing and summer retreat area in the mid-19th century; the coffee estates established then still produce a distinctive arabica that is sold under the Yercaud label and is worth picking up before you leave.
+score: 8.0
 ---
 
 Yercaud is the hill station in the Shevaroy Hills above Salem, sitting at about 1,600 metres and offering the kind of cool air and shaded roads that become very appealing when the plains are at 38°C. It is less visited than Ooty or Kodaikanal — no toy train, no bustling bazaar, considerably fewer tourists — which is the main reason to choose it.

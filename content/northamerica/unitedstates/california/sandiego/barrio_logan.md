@@ -8,6 +8,7 @@ tags:
 latitude: 32.7013
 longitude: -117.1471
 snippet: A working-class Chicano neighbourhood under the Coronado Bridge, home to muralists, taqueries, and independent galleries
+score: 8.3
 ---
 
 Barrio Logan sits south of downtown against the waterfront, tucked under the arches of the Coronado Bridge. It is the oldest Mexican-American neighbourhood in San Diego, and it has spent fifty years fighting off the encroachments of industrial use, highway construction, and most recently gentrification.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beaches
   - sight
+score: 7.3
 ---
 
 Suryalanka Beach lies about 12 km south of Chirala and is the most visited stretch of coast in the district, though "visited" is relative — it remains quiet by any standard. The beach is wide and clean, with fine dark sand and casuarina groves running behind the shoreline. Andhra Pradesh Tourism operates a resort here (APTDC Beach Resort), which provides basic accommodation and a restaurant serving fresh seafood, making it possible to spend a night by the water.

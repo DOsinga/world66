@@ -6,6 +6,7 @@ longitude: 16.6500
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 The Cetina flows out of the karst north of Sinj, runs through the plain past the town, and disappears south into a deep canyon before joining the Adriatic at Omiš. Around Sinj the river is broad and slow, lined with reeds and cottonwoods.

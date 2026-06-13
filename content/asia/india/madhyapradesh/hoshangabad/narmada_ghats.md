@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.7546
 longitude: 77.7198
+score: 7.6
 ---
 
 The Narmada is one of India's most sacred rivers — unlike the Ganges and Yamuna, it flows westward, which Hindu tradition holds to be especially auspicious. Every stone in the riverbed is considered to be a naturally occurring Shiva lingam (Narmada Shiva lingas), and pilgrims collect and worship smooth black oval pebbles from its banks. A parikrama (circumambulation) of the entire river — a walk of some 2,600 kilometres — is one of Hinduism's most demanding pilgrimages.

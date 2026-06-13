@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 The Collegiata di San Secondo sits close to the civic heart of Asti and is dedicated to the city’s patron saint. Its brick Gothic exterior is less imposing than the cathedral, but the church has a stronger connection to local identity and the Palio.

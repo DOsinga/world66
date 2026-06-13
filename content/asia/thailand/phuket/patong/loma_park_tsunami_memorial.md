@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "On 26 December 2004 a wave estimated at six metres swept up Patong Beach, killing around 250 people in the town alone. The memorial at Loma Park lists the names of the victims and stands beside the loudspeakers of Phuket's tsunami warning system, tested every Wednesday at 10am."
+score: 5.3
 ---
 
 A small landscaped park at the southern end of Patong's beachfront promenade, with a quiet memorial to the victims of the 2004 Indian Ocean tsunami. The monument — a stylised wave wall in black marble — carries the names of those who died on Patong Beach and the immediately surrounding streets.

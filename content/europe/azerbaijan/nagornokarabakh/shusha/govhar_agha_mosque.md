@@ -13,6 +13,7 @@ story: >
   political influence who funded major buildings across the khanate. The mosque
   she built is the largest religious structure in Shusha and carries her name
   rather than her father's.
+score: 7.9
 ---
 
 The Yukhari Govhar Agha Mosque is the main mosque of Shusha and one of the most significant examples of Azerbaijani religious architecture in the Karabakh region. Built in the late 18th and early 19th centuries, it features twin minarets and a large dome in the classical Azerbaijani style. The interior has been restored following damage during the conflict years.

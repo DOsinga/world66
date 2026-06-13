@@ -8,6 +8,7 @@ tags:
 latitude: 61.5040
 longitude: 23.7300
 story: "Rauhaniemi is one of Tampere's oldest public saunas — a lakeside wooden building on the shore of Pyhäjärvi where the tradition is to heat up in the sauna, then cool off by jumping into the lake year-round. In winter this means breaking through the ice or using the maintained avanto (ice-swimming hole) — a practice that Tampere residents follow with a casualness that makes it clear this is maintenance, not adventure."
+score: 8.3
 ---
 
 Rauhaniemi (locally known as 'Rauhis') is a beloved public sauna on the south shore of Lake Pyhäjärvi, about 3 km from the city centre. The complex has separate sections for men and women, traditional wood-fired saunas, outdoor terraces right on the water, and lakeside access for swimming in all seasons.

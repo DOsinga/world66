@@ -8,6 +8,7 @@ tags:
 - church
 title: Cathedral of Saint Nicholas
 type: poi
+score: 6.7
 ---
 
 The metropolitan cathedral on Domnească Street was built between 1906 and 1917 in a Romanian neo-Byzantine style — a single big dome on a Greek cross plan, with side towers and a richly painted interior. It serves as the cathedral of the Archdiocese of the Lower Danube.

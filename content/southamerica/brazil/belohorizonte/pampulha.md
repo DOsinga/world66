@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Pampulha
 type: poi
+score: 8.4
 ---
 
 Pampulha is the large northern district built around the artificial lake of the same name. It is the architectural showcase of Belo Horizonte: Niemeyer's four buildings around the lake, the Mineirão and Mineirinho stadiums, the federal university (UFMG), and the city's regional airport.

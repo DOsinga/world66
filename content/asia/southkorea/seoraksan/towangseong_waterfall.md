@@ -16,6 +16,7 @@ story: >
   complete cascade in one view.
 sources:
   - https://en.wikipedia.org/wiki/Towangseong_Waterfall
+score: 8.5
 ---
 
 Towangseong Waterfall is one of the highest waterfalls in South Korea, dropping 320 metres down a granite face in three tiers in the upper Cheonbuldong valley. The waterfall itself is best viewed from a dedicated observation deck on the opposite side of the valley — the viewing platform is reached by a short separate trail that branches off the main valley path. From the deck, you can see the full cascade in one frame, which is extraordinary in spring snowmelt or after summer rain.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 55.2000
 longitude: -6.6350
+score: 6.9
 ---
 
 Royal Portrush Golf Club has hosted The Open Championship twice — in 1951 and 2019 — and is consistently ranked among the top ten golf courses in the world. The Dunluce Links course sits directly on the East Strand dunes, with several holes running along the clifftop above the beach. The views of the Atlantic from the elevated tees, and back inland toward the town and mountains, are some of the finest in links golf.

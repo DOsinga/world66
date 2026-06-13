@@ -12,6 +12,7 @@ tags:
 title: Museum of Communism
 type: poi
 url: muzeumkomunismu.cz
+score: 7.3
 ---
 
 The Museum of Communism was founded by an American in what was originally a Czech palace, then a casino, next to a McDonald's — a location the original founders clearly appreciated for its symbolic weight. The exhibition covers Czechoslovakia under Communist rule from 1948 to 1989 through propaganda posters, factory equipment, school classrooms, interrogation rooms, and personal testimonies from survivors.

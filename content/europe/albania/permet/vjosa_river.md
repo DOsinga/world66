@@ -13,6 +13,7 @@ story: >
   runs fast and green over boulders the size of cars.
 sources:
   - https://en.wikipedia.org/wiki/V%C3%ABrmet
+score: 8.0
 ---
 
 The Vjosa river runs through the centre of Përmet's world — you hear it before you see it, a constant rush of cold mountain water over large pale boulders. The river descends from the mountains of northern Greece and cuts through the valley at Përmet in wide, braided channels before narrowing into gorges downstream. After heavy rain it turns the colour of milky tea and rises dramatically; in summer it calms to a series of clear pools and shallow rapids.

@@ -8,6 +8,7 @@ address: "1 Rue du Puits-Châtel, Blois"
 latitude: 47.5876
 longitude: 1.3322
 snippet: "Old-town pub with a strong beer and whisky list"
+score: 5.8
 ---
 
 Mancini is a small, dark, half-timbered pub tucked into a back street of the old town, run by people who care about what they pour. The beer list runs to several dozen Belgian, French, and craft taps and bottles; the whisky shelf has more than a hundred bottles, mostly Scottish single malts, with a few good Japanese and Irish picks.

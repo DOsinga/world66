@@ -9,6 +9,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Otavalo_market
+score: 9.1
 ---
 
 The heart of Otavalo and one of the most famous indigenous markets in the Americas. Every Saturday the square and the streets radiating out from it fill with vendors selling hand-woven textiles, ponchos, tapestries, hammocks, jewellery, leather goods, and carved woodwork. The quality is high and bargaining is expected — vendors are seasoned traders who travel across South America and Europe. A smaller daily market runs throughout the week for those who miss the Saturday spectacle.

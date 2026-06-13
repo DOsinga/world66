@@ -4,6 +4,7 @@ type: poi
 latitude: 16.0608
 longitude: 73.4645
 tags: [things_to_do, sight]
+score: 5.8
 ---
 
 The Rock Garden runs along the rocky shoreline north of the town beach — a hundred metres or so of black basalt outcrops, tidal pools, and a paved walkway with benches that face out across the channel towards Sindhudurg Fort. It is not a garden in any conventional sense, but a small, atmospheric stretch of coast that the locals come to at sunset.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - mosque
+score: 7.4
 ---
 
 A large Sunni mosque east of the Bala Hissar, dating in its present form from the late nineteenth century, when it was rebuilt by Amir Abdur Rahman. The name refers to its function: an *eidgah* is an open-air prayer ground used for the Eid festivals, and on those mornings the courtyard fills with tens of thousands of worshippers.

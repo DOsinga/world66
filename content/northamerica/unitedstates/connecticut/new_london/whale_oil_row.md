@@ -14,6 +14,7 @@ story: >
   the extraordinary wealth that whale oil brought to the city. New London was the
   third-largest whaling port in the United States at the time, sending ships to
   the Pacific and Arctic for years at a stretch.
+score: 7.0
 ---
 
 Four nearly identical Greek Revival mansions standing side by side at 105–119 Huntington Street, built in the 1830s when New London was one of America's busiest whaling ports. The uniformity is striking — four grand columned facades in a row, projecting the prosperity of the merchants who had the money to build them in matching style.

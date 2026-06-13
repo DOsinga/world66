@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.7080
 longitude: 51.4050
+score: 6.7
 ---
 
 Dizi (also called *abgoosht*) is the definitive Iranian comfort food — a thick stew of lamb, chickpeas, white beans, potato, and tomato, cooked in a small clay pot (*dizi*) and eaten in a very specific way: you pour the liquid off first into a bowl as a soup, then use a metal pestle to mash the solids into a paste, which you eat with flatbread, fresh herbs, and raw onion. It is rich, warming, and unlike anything else in Persian cuisine.

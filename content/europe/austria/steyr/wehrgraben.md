@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.9
 ---
 
 The Wehrgraben is the old industrial canal of Steyr — a man-made arm of the Steyr river that once powered the city's grindstones, hammers, and forges. After the iron industry left, the area decayed, but a citizens' campaign in the 1980s saved it from demolition; today it is a quiet district of restored workshops, narrow lanes, and small craft businesses.

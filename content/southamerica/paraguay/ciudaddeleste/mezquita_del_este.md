@@ -9,6 +9,7 @@ longitude: -54.6102
 snippet: The largest mosque in Paraguay, serving Ciudad del Este's substantial Lebanese and Arab community
 sources:
   - https://en.wikipedia.org/wiki/Mezquita_del_Este
+score: 7.0
 ---
 
 The Mezquita del Este — officially the Mezquita Alkhaulafa Al-Rashdeen — is the largest mosque in Paraguay and a marker of just how significant the Arab community is in Ciudad del Este. Lebanese immigrants began arriving in the 1950s and 1960s, and their descendants now form one of the most economically influential groups in the city, running many of the major import businesses in the Avenida San Blas district.

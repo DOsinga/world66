@@ -8,6 +8,7 @@ tags:
 latitude: 38.8872
 longitude: -77.0472
 story: "The Korean War Memorial's 19 stainless steel soldier figures are arranged in a patrol formation, moving through juniper bushes toward an American flag. At night, their polished surfaces catch light in a way that makes them look spectral — a deliberate effect that has led to the memorial being described as the most haunting of the Mall's monuments."
+score: 6.7
 ---
 
 The Korean War Veterans Memorial, opened in 1995, commemorates the 36,574 Americans killed during the Korean War (1950–1953) — a conflict sometimes called 'The Forgotten War' because it was overshadowed by World War II before it and Vietnam after. The memorial attempts to correct that forgetting through sheer physical presence.

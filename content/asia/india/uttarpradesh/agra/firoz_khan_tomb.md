@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.4
 ---
 
 Firoz Khan, a chief eunuch in Shah Jahan's court, is buried in a modest but striking tomb 4 kilometres south of central Agra. The octagonal red sandstone building stands on a high plinth surrounded by ruined garden walls, with an unusual two-tier design and remnants of geometric tile inlay.

@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -23.1369
 longitude: -44.2008
+score: 7.4
 ---
 
 The "Bay of Heaven" is a long, deep inlet on the north coast of the island that is so calm and protected that boats moor here for the night and the water lies perfectly flat well into the morning. Steep forested hills come down to the shore on all sides; there is no road in and only a few houses around the edge.

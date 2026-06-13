@@ -12,6 +12,7 @@ story: >
   Between 1549 and 1625, St. Olaf's was the tallest building in the world at 159 metres. It was struck by lightning no fewer than seven times over the centuries, burning to the ground three times. The spire was rebuilt at a reduced height after each fire; the current tower is 124 metres. During the Soviet era, the KGB used the spire as a radio transmitter and surveillance tower — and the associated restaurant in the tower became an informal place for the KGB to conduct eavesdropping operations.
 sources:
   - https://en.wikipedia.org/wiki/St._Olaf%27s_Church,_Tallinn
+score: 8.1
 ---
 
 St. Olaf's Church is the most dramatic Gothic building in Tallinn's Old Town, its pencil-thin spire soaring above the medieval roofline. The church dates to the 13th century and served Tallinn's Scandinavian merchant community. The tower can be climbed via a narrow spiral staircase for one of the best views over the Old Town's sea of red tile roofs.

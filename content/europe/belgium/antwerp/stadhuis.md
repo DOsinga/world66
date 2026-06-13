@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Stadhuis
 type: poi
+score: 7.8
 ---
 
 Antwerp's Stadhuis dominates the west side of Grote Markt and is one of the finest Renaissance buildings in the Low Countries. Built between 1561 and 1564 by architect Cornelis Floris de Vriendt, it blends Flemish tradition with Italian Renaissance influences — a combination that set the tone for much of the city center's architecture. The facade stretches across 76 meters, decorated with flags of the nations that have had consulates in Antwerp and topped by a statue of the Virgin Mary, patron of the city.

@@ -7,6 +7,7 @@ tags:
   - archaeology
 latitude: 40.1728
 longitude: 22.4878
+score: 8.4
 ---
 
 The Sanctuary of Isis is one of the most evocative sections of the Dion archaeological site. The Egyptian goddess Isis was worshipped throughout the Hellenistic and Roman world, but her cult here was particularly well established: the sanctuary contains a series of pools used for ritual purification, and excavators found a remarkable series of marble statues — including figures of Aphrodite and Isis herself — preserved in an ancient cistern as if deliberately hidden for safekeeping.

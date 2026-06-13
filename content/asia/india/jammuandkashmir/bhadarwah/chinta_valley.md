@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Chinta Valley is sometimes called the "valley within a valley" — a high-altitude pocket enclosed on three sides by ridges, accessed by a road that climbs through dense deodar forest. The village at its heart still practices transhumance, moving cattle to higher pastures in summer exactly as generations before them have done.
+score: 8.5
 ---
 
 Chinta Valley lies about 20 kilometres northeast of Bhadarwah on the Bhadarwah-Jai road, tucked into the lower Himalayan ranges at around 2,200 metres. The valley is broad and grassy, ringed by forested ridges, and the air in summer has the particular clarity that comes at altitude — cool, clean, and smelling of pine resin and wild flowers.

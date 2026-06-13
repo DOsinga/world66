@@ -7,6 +7,7 @@ snippet: Dresden's museum of modern and Romantic art, including the finest Caspa
 tags:
 - things_to_do
 - museum
+score: 8.8
 ---
 
 The Albertinum is the essential complement to the Zwinger's Old Masters: where the Zwinger covers the Renaissance and Baroque, the Albertinum takes over from the 19th century and runs to the present day. The building itself is a converted royal arsenal on the Brühlsche Terrasse, refurbished and reopened in 2010 with a dramatic central courtyard that now serves as the main hall.

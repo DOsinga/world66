@@ -9,6 +9,7 @@ title: Elephant Bar
 type: poi
 neighbourhood: Daun Penh
 snippet: Classic bar at the Raffles Hotel Le Royal
+score: 6.8
 ---
 
 The Elephant Bar at Raffles Hotel Le Royal opened in 1929 and has hosted, over its long life, Charlie Chaplin, Jacqueline Kennedy, André Malraux, and a long parade of foreign correspondents covering Cambodia's bad years. The dark wood interiors, deep leather chairs and uniformed staff are deliberately unchanged.

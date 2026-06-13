@@ -15,6 +15,7 @@ story: >
   most of the city around it.
 sources:
   - https://en.wikipedia.org/wiki/Cr%C3%A2ng_park
+score: 5.8
 ---
 
 Crâng is Buzău's lung: a 100-hectare park on the western edge of the city merging into a larger forest of oak, ash, lime and maple — a remnant of the old Codrii Vlăsiei lowland forest that once covered much of Wallachia. The park has a small artificial lake, the Heleșteu, fed by a channel from the Buzău river, where rowing boats can be hired in summer. There are children's playgrounds, a chess corner, and a stadium tucked into the southern end.

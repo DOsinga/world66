@@ -15,6 +15,7 @@ story: >
   adapted as "American Idol" by producers who licensed the concept. Changsha
   became China's entertainment capital almost by accident, because a provincial
   broadcaster had nothing to lose by experimenting.
+score: 6.2
 ---
 
 Hunan Satellite Television — now branded as Mango TV, its streaming subsidiary — has made Changsha the entertainment capital of China over the past twenty-five years. The network's Xingsha studios in the eastern suburbs produce reality shows, variety programmes, and drama series watched by hundreds of millions of viewers. The studios are not a conventional tourist attraction, but fans of Chinese pop culture make the pilgrimage, and the network organises occasional public events and tapings.

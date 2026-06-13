@@ -8,6 +8,7 @@ latitude: 54.3140
 longitude: 48.4020
 story: >
   The letter Ё was introduced into the Russian alphabet by historian Nikolai Karamzin in 1797 — and Karamzin was born in what is now Ulyanovsk Oblast. The monument, erected in 2005, is small and easy to miss, but has become a favourite with Russian tourists who appreciate the affectionate absurdity of putting up a statue to a letter that most Russians spend their lives ignoring in print.
+score: 5.8
 ---
 
 Ulyanovsk has a monument to the Russian letter Ё — the seventh letter of the Cyrillic alphabet, represented by an E with two dots, and the most frequently omitted letter in the Russian language. The small granite monument stands in the city centre and was erected in 2005 to honour the letter's regional connection: it was first used in print by the historian Nikolai Karamzin, who was born in this region in 1766.

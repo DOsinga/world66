@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The runway slopes up at a gradient of nearly 8 per cent — landing aircraft commit downhill and take off downhill, using gravity to compensate for the thin mountain air."
+score: 6.2
 ---
 
 The small mountain altiport at the eastern edge of the resort handles light aircraft and helicopters. It is not a commercial airport but a single sloping runway with strict pilot certification. On clear winter days you can watch tiny planes carving steep approaches between the peaks — a spectacle in itself.

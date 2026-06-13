@@ -13,6 +13,7 @@ story: >
   Zufre — the place where the village took its evening walk and watched the light change
   over the sierra. Today it remains the defining feature of the village, separating
   the white houses from nothing but air and the valley far below.
+score: 8.1
 ---
 
 El Paseo is the main attraction of Zufre — a walkway along the edge of the cliff on which the village is built, looking out over a vertiginous drop to the Rivera de Huelva river below. The gorge here is sheer and dramatic; the village seems to hang above it with no visible means of support. In the afternoon and evening the view southwest over the river valley and the surrounding dehesa stretches for many kilometres.

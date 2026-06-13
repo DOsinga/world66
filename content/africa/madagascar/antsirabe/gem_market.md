@@ -8,6 +8,7 @@ tags:
 latitude: -19.8700
 longitude: 47.0345
 story: "Madagascar sits on one of the world's richest deposits of gemstones — sapphires, rubies, emeralds, aquamarines, tourmalines, and dozens of rarer minerals. Antsirabe sits in the middle of the highland zone where many of these deposits are found, which is why the gem trade here is not a tourist attraction but a working industry: the vendors and buyers are professionals, and the transactions are real."
+score: 6.3
 ---
 
 Antsirabe is one of Madagascar's main centres for the gem trade, and the market reflects this. Street vendors and small shops along the main streets display precious and semi-precious stones — sapphires, tourmalines, garnets, quartz crystals, and stranger minerals — at prices that reward those who know what they are looking at. In some workshops you can watch stones being cut and polished on simple motorised wheels.

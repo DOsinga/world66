@@ -9,6 +9,7 @@ snippet: "Oklahoma's third-largest lake — 46,500 acres of fishing, boating, an
 latitude: 36.6119
 longitude: -94.8415
 story: "The lake was created in 1940 by the Pensacola Dam, the longest multiple-arch dam in the world when it was built. Old Oklahoma 28 still disappears under the water at the south end — divers occasionally surface with pieces of the lost roadbed."
+score: 8.2
 ---
 
 Grand Lake o' the Cherokees is the reason Grove exists in its current form. The reservoir was created in 1940 when the Pensacola Dam plugged the Neosho River, flooding 46,500 acres of valley in the Ozark foothills. Grove sits on the lake's northeast shore and is one of the main bases for visitors.

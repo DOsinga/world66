@@ -6,6 +6,7 @@ longitude: -117.999722
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 Silver Bullet is Knott's Berry Farm's headline inverted roller coaster, opened in 2004. Riders hang below the track with their feet dangling and are flipped through six inversions including a cobra roll, vertical loop, and double corkscrew. The first drop is 109 feet and the top speed touches 55 mph.

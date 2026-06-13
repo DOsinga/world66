@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 20.8133
 longitude: 105.3383
+score: 6.1
 ---
 
 The distinctive foods of Hoa Binh are products of its highland landscape. Com lam — sticky rice steamed inside a sealed bamboo tube over an open fire — is the emblematic dish, nutty and slightly smoky, eaten with grilled fish or mountain vegetables. The Da River and its tributaries provide excellent freshwater fish: ca chep (carp) and ca lang (catfish) are grilled whole over charcoal or braised in clay pots with galangal and lemongrass.

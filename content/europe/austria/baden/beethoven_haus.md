@@ -16,6 +16,7 @@ story: >
   and gesturing as themes came to him.
 sources:
   - https://en.wikipedia.org/wiki/Beethoven-Haus_Baden
+score: 7.8
 ---
 
 The Beethoven House in Baden — on Rathausgasse 10, formerly Frauengasse — preserves the rooms where Ludwig van Beethoven lived during multiple summer stays between 1804 and 1825. The museum occupies the actual apartments he rented, with period furniture, manuscripts, and personal effects that bring the composer's time in Baden into focus.

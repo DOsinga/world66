@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 49.3705
 longitude: 0.0801
+score: 6.6
 ---
 
 The Cures Marines is a vast Second Empire seafront hotel and seawater therapy spa, opened in 1912 and recently restored. The white facade dominates the inland end of the boardwalk — a long, columned building with cupolas at either end, looking out over the beach.

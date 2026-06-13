@@ -9,6 +9,7 @@ tags:
 - sight
 title: Historic Sutter Street
 type: poi
+score: 8.1
 ---
 
 The three blocks of old Sutter Street form the heart of historic Folsom. The stone and brick buildings date from the Gold Rush and subsequent decades, and many still house independent shops, antique dealers, and restaurants. It is one of the better-preserved Gold Country main streets — compact enough to walk in an hour, characterful enough to deserve more time.

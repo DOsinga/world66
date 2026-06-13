@@ -7,6 +7,7 @@ tags:
 latitude: 20.8813
 longitude: 107.1025
 story: "Sung Sot (Surprise Cave) was discovered by French explorers in the early 20th century. The name reflects their reported astonishment at the size and beauty of the chambers — the second cave hall is enormous, roughly 10,000 square metres, large enough to hold several thousand people at once. During the Vietnam War, villagers from surrounding areas sheltered inside during American bombing raids. The cave was used by the North Vietnamese Navy as a repair facility for small boats, and the high ceilings accommodated vessels with their masts still up."
+score: 7.5
 ---
 
 The largest and most visited cave in Ha Long Bay, on Bo Hon Island in the southern part of the heritage zone. Two vast chambers connected by a narrow passage hold extraordinary limestone formations: stalactites, stalagmites, and curtains of calcite in shades of cream, amber, and white, all lit by coloured lights that range from tasteful to theatrical depending on the section.

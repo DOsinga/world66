@@ -16,6 +16,7 @@ story: >
   shipbuilding river in the world.
 sources:
   - https://en.wikipedia.org/wiki/James_Watt_Dock_Crane
+score: 5.9
 ---
 
 The James Watt Dock Crane stands at the eastern end of the waterfront as a monument to Greenock's industrial past. A giant cantilever crane dating from the early 20th century, it was used to lift heavy machinery and equipment onto ships in the dock below. It's now a listed structure and visible from much of the waterfront, its red steel framework rising against the sky above the Firth of Clyde.

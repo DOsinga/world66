@@ -9,6 +9,7 @@ tags:
   - park
   - wuchang
 neighbourhood: Wuchang
+score: 5.9
 ---
 
 Mochou Lake Park is a quieter inlet on the western edge of East Lake, popular with locals for early-morning tai chi and weekend picnics. The lake is small enough to walk around in an hour, and the surrounding park has the usual Chinese-park complement of willow-shaded paths, lakeside teahouses, and a pavilion or two.

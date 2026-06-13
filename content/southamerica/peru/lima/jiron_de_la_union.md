@@ -9,6 +9,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Histórico
 snippet: Pedestrianised shopping street running south from the Plaza Mayor
+score: 6.7
 ---
 
 **Jirón de la Unión** runs ten blocks south from the Plaza Mayor to **Plaza San Martín**, a busy pedestrian shopping street that has been Lima's main commercial thoroughfare since the 19th century. The architecture mixes colonial and Belle Époque facades with later glazed shopfronts. Halfway down, the **Iglesia de la Merced** has one of the most ornate baroque facades in Lima.

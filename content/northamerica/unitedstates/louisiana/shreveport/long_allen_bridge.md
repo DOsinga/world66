@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 The Texas Street Bridge between Shreveport and Bossier City is named for two Louisiana governors — Huey Long and his successor Oscar K. Allen. The 1934 truss bridge is unremarkable by day but spectacular at night, when it is outlined in coloured neon that changes by the hour.

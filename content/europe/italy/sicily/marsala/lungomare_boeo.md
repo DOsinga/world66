@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Seafront promenade at the western tip of Sicily"
+score: 6.2
 ---
 
 The Lungomare Boeo runs along the western edge of the old town, looking out at what is — by a few metres — the westernmost point of Sicily. A series of cafés and gelaterias open onto it, and on summer evenings the road is closed to traffic and given over to walkers and skaters.

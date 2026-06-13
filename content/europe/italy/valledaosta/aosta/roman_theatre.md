@@ -5,6 +5,7 @@ tags: [things_to_do, sight, ruin]
 latitude: 45.73841
 longitude: 7.32230
 story: "The Roman Theatre of Aosta retains its north stage wall standing to over 22 metres — one of the tallest surviving Roman theatre facades in the world. Medieval builders used the structure as ready-made housing and a defensive tower, which is the main reason so much of it survived: it was never entirely abandoned. Excavations in the 20th century cleared away the medieval accretions and revealed the theatre's full scale."
+score: 8.2
 ---
 
 The Roman Theatre was one of the major public buildings of Augusta Praetoria, capable of seating an audience of several thousand people. It dates from the early 1st century AD, built on the standard semicircular plan with a raised stage, orchestra pit, and a tall scaenae frons (stage wall) as backdrop. The seating tiers have largely vanished but the structural skeleton of the cavea is still readable in the ground plan.

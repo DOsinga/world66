@@ -7,6 +7,7 @@ tags:
 latitude: 6.8141
 longitude: -58.1551
 snippet: "North Indian restaurant with a strong vegetarian menu"
+score: 6.1
 ---
 
 A North Indian restaurant on Sheriff Street with a longer vegetarian menu than most in Georgetown — paneer dishes, dosas, chana, plus the standard meat curries and tandoor items. The dining room is unflashy and the staff are efficient.

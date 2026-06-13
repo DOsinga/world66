@@ -14,6 +14,7 @@ story: >
   that persisted for decades: families from traditional hunting communities crowded into
   concrete flats with no outdoor space, no connection to the land, and no economic
   alternative to welfare dependency. The building was demolished in 2012.
+score: 5.4
 ---
 
 The site where Blok P once stood is now cleared, but the story of the building is part of Nuuk's civic memory. The massive concrete apartment block — for decades the largest residential building in Greenland — housed around 1,000 people at its peak and became a symbol of both the ambitions and the failures of Danish social planning in Greenland. Its demolition in 2012 was a significant moment; several residents described it as the end of an era they were glad to see gone.

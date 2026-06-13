@@ -7,6 +7,7 @@ tags:
 latitude: -6.3000
 longitude: 105.8500
 story: "Carita and the neighbouring beach at Anyer face the Sunda Strait directly opposite the remains of Krakatoa. On 22 December 2018 the collapse of part of Anak Krakatau's flank sent a tsunami into this stretch of coast with little warning, killing more than 430 people — a quiet present-day reminder that this view across the water is not as peaceful as it looks."
+score: 6.9
 ---
 
 Carita is the closest beach to Pandeglang and the long-established weekend escape from Jakarta, around two hours' drive from the city. The sand is dark volcanic grey rather than tropical white, the swimming is calm and shallow, and the strait is busy with small fishing boats.

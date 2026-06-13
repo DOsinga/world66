@@ -5,6 +5,7 @@ latitude: 24.225
 longitude: 55.72694
 snippet: "A restored 19th-century palace that was the birthplace of the current UAE president, Sheikh Mohammed bin Zayed."
 tags: [things_to_do, sight, history]
+score: 7.4
 ---
 
 Qasr Al Muwaiji is one of Al Ain's less-visited historic sites and is better for it. The original structure dates from the late 19th century and was the family home of the Al Nahyan rulers during their time in Al Ain — it served as the birthplace of Sheikh Mohammed bin Zayed Al Nahyan, the current President of the UAE, who was born here in 1961. The name translates roughly as "the sheltered palace," a reference to the surrounding palm groves that once enclosed it.

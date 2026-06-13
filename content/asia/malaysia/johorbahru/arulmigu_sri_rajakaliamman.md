@@ -7,6 +7,7 @@ tags:
 - sight
 title: Arulmigu Sri Rajakaliamman Glass Temple
 type: poi
+score: 7.9
 ---
 
 The Arulmigu Sri Rajakaliamman temple is covered inside and out with more than 300,000 pieces of glass and crystal — coloured, mirrored, and patterned across every surface of the building. It is unlike any other Hindu temple in Malaysia, and possibly in the world. The base temple dates to 1922, but the glass covering was begun in the 1990s and the project is ongoing; new sections are regularly completed and the detail continues to accumulate. Visitors are welcome to walk through the main hall, where the effect is extraordinary — the light catches thousands of mosaic fragments at every angle.

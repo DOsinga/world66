@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.7
 ---
 
 Shakarparian is the small green ridge in the south of central Islamabad — between the Blue Area and the airport road — that holds most of the city's national monuments. The terraced gardens at the top give views over both Islamabad to the north and Rawalpindi to the south. The Pakistan Monument, the Lok Virsa, the Islamabad Museum, the Natural History Museum and the Garden Avenue rose gardens are all in the same compound.

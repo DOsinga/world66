@@ -15,6 +15,7 @@ story: >
   until well into the 1980s.
 sources:
   - https://en.wikipedia.org/wiki/Fontanelle_Cemetery
+score: 8.4
 ---
 
 A vast cave carved into the tufa hillside of the Materdei district, containing the remains of an estimated 40,000 people — victims of plague, cholera, and famine accumulated over centuries. The Fontanelle is a place of extraordinary strangeness: the skulls and bones are stacked in rows along the cave walls, and many were individually adopted by Neapolitan families who believed in the animelle — the souls of the unremembered dead who could grant favours to those who cared for them.

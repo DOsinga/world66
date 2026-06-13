@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.0763
 longitude: -73.7734
+score: 7.9
 ---
 
 Across from the race course, this is the definitive museum of American thoroughbred horse racing. The Hall of Fame section honors the sport's great horses, jockeys, and trainers in a proper institution with good curatorial standards. Interactive exhibits let you try handicapping and experience the view from a jockey's perspective; they're more engaging than you'd expect.

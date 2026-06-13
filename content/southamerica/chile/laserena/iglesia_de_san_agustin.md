@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.9
 ---
 
 A smaller colonial church on the eastern side of the historic centre, built by the Augustinians in the 17th century and rebuilt after several earthquakes. The current facade dates from a 1755 restoration that gave the church its distinctive baroque pediment.

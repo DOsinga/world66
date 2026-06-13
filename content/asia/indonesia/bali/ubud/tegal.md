@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Tegal
 type: poi
+score: 4.9
 ---
 
 A bar and cafe on Jalan Padang Tegal, one of the quieter streets running east from the Monkey Forest road. Straightforward drinks and Indonesian food in a neighbourhood setting away from the main tourist strip.

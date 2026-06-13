@@ -13,6 +13,7 @@ story: >
   a working scene that disappears entirely by mid-morning once the boats have left.
 sources:
   - https://en.wikipedia.org/wiki/Chalong,_Phuket
+score: 5.6
 ---
 
 Chalong Pier is the main departure point for boat trips from Phuket's southern coast. Dive boats, snorkelling day trips to Coral Island (Koh Hae), and the occasional speedboat to Phi Phi all leave from here. If you're spending any time in Chalong with plans to get on the water, you'll pass through this pier. It sits at the end of a long jetty extending into the shallows of Ao Chalong, which is too shallow for boats to dock at shore.

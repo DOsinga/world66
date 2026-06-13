@@ -6,6 +6,7 @@ tags:
   - activity
 latitude: -34.7800
 longitude: 172.9900
+score: 6.6
 ---
 
 Ninety Mile Beach is one of New Zealand's premier surf fishing destinations, and if you are here in the right season there is something almost meditative about casting a long line into the Tasman from an otherwise empty beach.

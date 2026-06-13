@@ -5,6 +5,7 @@ tags: [eating_out]
 latitude: 40.9376
 longitude: -87.1490
 snippet: "Family-run ice cream stand open from May to September"
+score: 5.2
 ---
 
 A walk-up ice cream stand on Cullen Street, the Busy Bee has been a Rensselaer summer fixture for decades. Soft-serve cones, sundaes, malts, and slushes are the menu; everything is cheap; the line on a Friday evening tells you everything you need to know.

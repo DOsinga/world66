@@ -3,6 +3,7 @@ title: "University of Salamanca"
 type: poi
 latitude: 40.963
 longitude: -5.665
+score: 9.4
 ---
 
 Founded in 1218, Salamanca's university is the third-oldest in Europe and the oldest in the Spanish-speaking world. The centrepiece is the Escuelas Mayores building on the Patio de Escuelas, whose façade is the most celebrated example of plateresque carving in Spain — an intricate lacework of stone medallions, heraldic devices, grotesques, and floral motifs covering every surface.

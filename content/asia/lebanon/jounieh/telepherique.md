@@ -8,6 +8,7 @@ latitude: 33.9742
 longitude: 35.6201
 story: >
   The cable car was built in 1978, just before the Lebanese Civil War began. It operated through much of the conflict as a means of transport over the mountains, carrying not just tourists but locals crossing the front lines — a surreal symbol of normalcy in a city that was tearing itself apart below.
+score: 8.1
 ---
 
 The Jounieh Téléphérique is a cable car that climbs steeply from the waterfront at Jounieh up to the hilltop shrine of Harissa, covering a height difference of about 650 metres in around 5 minutes. The gondolas pass directly over densely-packed apartment buildings, giving you an intimate and slightly voyeuristic view into balconies, rooftops, and the general intimacy of Lebanese apartment life below.

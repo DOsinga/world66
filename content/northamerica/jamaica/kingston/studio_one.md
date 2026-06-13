@@ -9,6 +9,7 @@ latitude: 17.9956
 longitude: -76.7989
 story: >
   Clement "Coxsone" Dodd founded Studio One in 1963 and used it to launch or develop the careers of Bob Marley and the Wailers, Jackie Mittoo, Toots and the Maytals, Alton Ellis, Horace Andy, and dozens of others. The studio's house band — the Skatalites — essentially invented ska as a genre in these rooms. No single studio in the Caribbean has produced more foundational music.
+score: 8.3
 ---
 
 Studio One on Brentford Road in Central Kingston is the most historically important recording studio in Jamaica — the facility where Clement "Coxsone" Dodd recorded the music that defined ska in the early 1960s and established reggae's foundational vocabulary. The building is not a museum, but it is operational and historically significant enough that the address functions as a landmark for anyone seriously interested in Jamaican music.

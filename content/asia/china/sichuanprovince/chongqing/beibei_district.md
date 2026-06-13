@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.8255
 longitude: 106.4254
+score: 6.7
 ---
 
 Beibei, about 30 kilometres north of central Chongqing on the Jialing River, is a university town and the site of the wartime research institutions that Chiang Kai-shek relocated here from coastal China during the Japanese occupation. Several universities and research centres established in the 1940s still operate, giving the district a more academic, less frantic atmosphere than the city centre.

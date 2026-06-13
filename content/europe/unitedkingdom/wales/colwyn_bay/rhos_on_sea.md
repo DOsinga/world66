@@ -7,6 +7,7 @@ tags:
 latitude: 53.3093
 longitude: -3.7392
 snippet: Gentler seaside resort along the bay from Colwyn Bay
+score: 6.4
 ---
 
 Rhos-on-Sea (*Llandrillo-yn-Rhos*) sits at the western end of Colwyn Bay and works as a quieter complement to its neighbour. The seafront here is more open, with a long promenade backed by a strip of small shops, cafes and ice-cream stalls. The Cayley Promenade extends along the cliff towards Penrhyn Bay and the Little Orme.

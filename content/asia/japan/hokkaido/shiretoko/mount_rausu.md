@@ -16,6 +16,7 @@ story: >
   Kunashir Island.
 sources:
   - https://en.wikipedia.org/wiki/Mount_Rausu
+score: 7.8
 ---
 
 Mount Rausu at 1,661 metres is the highest peak on the Shiretoko Peninsula and the dominant figure on the east side of the ridge. The standard ascent takes five to six hours from the trailhead near Rausu town, through dense dwarf bamboo and mountain birch forest before breaking above the treeline onto the rocky volcanic summit. The views from the top are exceptional — the Sea of Okhotsk to the east, the Shiretoko volcanoes extending northeast, and on clear days the Russian islands visible across the strait.

@@ -11,6 +11,7 @@ story: >
   The medina of Sfax is considered by many Tunisians to be the best-preserved and most authentic in the country — larger than the medina of Sousse and far less visited than that of Tunis. Its walls, built by the Aghlabids in the 9th century, still stand almost complete, giving the old city a remarkably intact outline.
 sources:
   - https://en.wikipedia.org/wiki/Medina_of_Sfax
+score: 9.2
 ---
 
 The medina of Sfax is one of the largest and best-preserved in Tunisia, enclosed within its near-complete 9th-century Aghlabid walls. Unlike the medinas of Tunis or Sousse, it receives very few foreign tourists, which means it functions as a real working city: the lanes are crowded with shoppers, craftsmen, and residents going about their day rather than souvenir sellers catering to coaches.

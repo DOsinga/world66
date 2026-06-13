@@ -6,6 +6,7 @@ tags:
 - day_trips
 title: Congonhas day trip
 type: poi
+score: 8.4
 ---
 
 Congonhas is the second of the classic Minas Gerais day trips: a smaller town than Ouro Preto but the home of what most art historians consider Aleijadinho's masterpiece — twelve over-life-size soapstone statues of Old Testament prophets that line the staircase of the Sanctuary of Bom Jesus de Matosinhos.

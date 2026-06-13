@@ -7,6 +7,7 @@ tags:
   - eating_out
 latitude: 51.2196
 longitude: 6.7862
+score: 8.4
 ---
 
 Düsseldorf has the largest Japanese community in continental Europe — around 8,000 people — and the largest Japanese-language newspaper outside Japan. The community is concentrated around Immermannstraße near the main station, a short street that has become one of the most authentic Japanese neighbourhoods in Europe.

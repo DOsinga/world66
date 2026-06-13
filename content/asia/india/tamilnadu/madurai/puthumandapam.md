@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - market
+score: 7.7
 ---
 
 The Pudhu Mandapam is the pillared hall directly in front of the east gopuram of the Meenakshi Temple. Built by Thirumalai Nayak in the 17th century as a ceremonial pavilion, it has long since become a chaotic and wonderful covered bazaar — rows of tailors with treadle sewing machines, cloth merchants and tourist-trinket sellers all working under the carved Nayak pillars.

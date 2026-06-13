@@ -11,6 +11,7 @@ story: >
   lord, Matsudaira Masatsuna, who could not afford the gold and lacquer needed to contribute to
   Tōshōgū's construction. He planted 200,000 cedar seedlings along the approach roads instead,
   reasoning that the trees would outlast any material donation. Most of the original trees survive.
+score: 8.3
 ---
 
 The Cedar Avenue of Nikkō stretches for about 35 kilometres along the approaches to the shrine town, making it the world's longest tree-lined avenue — a record recognised in the Guinness Book of Records. The cedars, planted in the early 17th century, are enormous: trunks one to two metres in diameter, canopies meeting overhead. Walking or cycling under them, with shafts of light coming through the high branches, is one of the quieter and more atmospheric experiences in the Nikkō area.

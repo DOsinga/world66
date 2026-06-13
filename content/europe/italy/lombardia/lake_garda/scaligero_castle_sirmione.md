@@ -8,6 +8,7 @@ story: >
   The Scaligeri were a Veronese dynasty who controlled most of the southern lake in the 13th and 14th centuries. They built a ring of fortified ports around Lake Garda to control movement on the water — Sirmione's castle is the best-preserved, and its harbour gate, which opens directly onto the lake, is one of the most photographed views in northern Italy.
 sources:
   - https://en.wikipedia.org/wiki/Scaliger_Castle,_Sirmione
+score: 8.1
 ---
 
 The Scaligero Castle in Sirmione is one of the best-preserved medieval lake fortresses in Italy, built in the 13th century by the Scaligeri lords of Verona. It sits at the entrance to the peninsula, its towers and battlements rising directly from the water on three sides, connected to the shore by a drawbridge that still functions.

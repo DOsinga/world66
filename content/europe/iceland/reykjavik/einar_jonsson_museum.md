@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Symbolist sculpture in the artist's purpose-built house behind Hallgrímskirkja
+score: 7.7
 ---
 
 A short walk behind Hallgrímskirkja stands a strange white concrete cube of a building — designed by the sculptor Einar Jónsson himself in the 1920s as his studio, residence, and museum. Jónsson was Iceland's first professional sculptor; his work draws on Norse mythology, theosophy, and a kind of melancholy Symbolism that is unlike anything else in Icelandic art.

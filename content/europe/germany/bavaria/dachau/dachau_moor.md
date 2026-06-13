@@ -8,6 +8,7 @@ tags:
 - nature
 - sight
 snippet: Ancient peat bog north of town, the landscape that inspired the Dachau painters
+score: 6.7
 ---
 
 The Dachau Moor (Dachauer Moos) is the flat, marshy plain north of the town that inspired the 19th-century artists' colony and gave the colony its distinctive atmospheric quality. The moor is what remains of a much larger wetland that once covered much of the lower Isar valley — much of it was drained for agriculture over the centuries, but sections have been preserved and are now a nature reserve.

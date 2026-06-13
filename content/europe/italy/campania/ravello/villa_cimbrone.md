@@ -6,6 +6,7 @@ latitude: 40.6444
 longitude: 14.6111
 story: >
   In 1938, Greta Garbo and conductor Leopold Stokowski retreated to Villa Cimbrone to escape the press. They arrived secretly, stayed for weeks, and left without being photographed. The villa's gardens — then as now the most private and dramatic on the coast — gave them complete cover. The affair was confirmed only years later, and the belvedere where they reportedly spent their mornings has been called the Belvedere of Infinity ever since.
+score: 9.4
 ---
 
 Villa Cimbrone sits at the southern tip of the Ravello ridge, a ten-minute walk from the main square through narrow lanes past gardens and old walls. It was built in its current form in the early 20th century by an English lord, Ernest Beckett, who combined medieval elements with a romantic English interpretation of the Italian garden. Today it operates as an exclusive hotel — the gardens, however, are open to visitors for an admission fee.

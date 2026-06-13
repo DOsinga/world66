@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Masjid Agung Banten
 type: poi
+score: 8.3
 ---
 
 The Grand Mosque of Banten (Masjid Agung Banten) dates to the 16th century and served as the principal mosque of the Banten Sultanate. Its distinctive five-tiered roof blends Javanese and European architectural influences, and the adjacent minaret — an octagonal white tower — was reportedly designed with input from Dutch architect Hendrik Lucasz Cardeel. The surrounding complex includes royal tombs and the ruins of the old Surosowan Palace, making this more than a single monument: it is the heart of old Banten.

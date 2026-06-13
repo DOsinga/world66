@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - fort
+score: 6.8
 ---
 
 A smaller, less visited sister island to Kolaba Fort, Khanderi lies a few kilometres offshore opposite Thal village. Like Kolaba it was a key Maratha naval base, and the surviving fortifications include cannons, water tanks and a lighthouse still in use today.

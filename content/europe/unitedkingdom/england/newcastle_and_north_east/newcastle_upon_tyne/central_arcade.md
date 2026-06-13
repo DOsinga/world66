@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: The 1906 Edwardian shopping arcade off Grey Street
+score: 7.8
 ---
 
 A small Edwardian shopping arcade with a vaulted glass roof and decorative faience tiling, off Grey Street between Market Street and Grainger Street. Built in 1906 on the site of an earlier Central Exchange that had burned down, it is one of the prettiest pieces of early 20th-century commercial architecture in the city.

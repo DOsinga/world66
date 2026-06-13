@@ -9,6 +9,7 @@ tags:
 - shopping
 title: Suntec City Mall
 type: poi
+score: 4.5
 ---
 
 A sprawling mall in the Marina Bay convention district, Suntec City is best known for the Fountain of Wealth -- once listed in the Guinness Book of Records as the world's largest fountain. The shopping is mainstream rather than luxury, with a big food court in the basement and plenty of mid-range fashion and electronics. It connects directly to the Suntec Convention Centre, so expect crowds during trade shows. Take the Circle Line to Promenade station.

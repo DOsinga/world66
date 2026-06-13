@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: -25.2843
 longitude: -57.5975
+score: 7.4
 ---
 
 The Jardin Botanico y Zoologico sits on the former estate of the Lopez family on the outskirts of Asuncion. The grounds are extensive — over 90 hectares of tropical vegetation, lakes, and walking paths — and provide a genuine escape from the heat and noise of the city centre. The botanical section has good collections of native Paraguayan plants, including palm species and tree ferns that give some of the paths a jungle-like quality.

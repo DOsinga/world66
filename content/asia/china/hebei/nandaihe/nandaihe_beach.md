@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.8100
 longitude: 119.4550
+score: 6.2
 ---
 
 The main beach at Nandaihe, sometimes called the Golden Beach for the colour of its sand at certain hours, runs for several kilometres along the developed resort front. It is the quieter alternative to Beidaihe just across the Daihe River to the north: the same sandy Bohai coast, the same calm shallow water, but without the layered political mythology that makes Beidaihe a destination in its own right.

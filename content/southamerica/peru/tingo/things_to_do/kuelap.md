@@ -17,6 +17,7 @@ story: >
   covering six hectares. He had stumbled upon a site containing more stone
   than the Great Pyramid of Giza, hidden in plain sight for nearly three
   centuries.
+score: 9.7
 ---
 
 The fortress of the Chachapoyas stands at 3,000 metres on a narrow ridge above the Utcubamba valley, its perimeter walls rising up to 20 metres from the mountainside. Inside are 421 structures, almost all of them circular — the Chachapoyas built round where almost every other Andean culture built square — many decorated with geometric stone friezes. The site spans 584 metres from end to end and covers six hectares.

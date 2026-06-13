@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 41.7468
 longitude: -74.0876
+score: 5.7
 ---
 
 P&G's has occupied its corner spot on Main Street since the 1970s and has the institutional feel of a place that has served every generation of SUNY students, climbers, and locals since. The bar is long, the lighting is dim, the beer selection is extensive, and the food — primarily bar sandwiches and pub standards — does its job without pretension.

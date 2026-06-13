@@ -8,6 +8,7 @@ tags:
   - sight
   - castle
 story: "The 45-metre donjon is one of the oldest stone keeps in France, raised in the early 11th century by Guy I of Laval. Inside, the Musée du Vieux-Château holds works by Henri Rousseau, who was born in the town in 1844 and worked as a customs clerk before turning to painting full-time."
+score: 8.3
 ---
 
 The Château de Laval sits on a rocky outcrop above the Mayenne, a layered fortress that has been added to over nearly a thousand years. The cylindrical Romanesque keep is the oldest part; the elegant Renaissance wing facing the river was built in the early 16th century. Together they make a striking ensemble, and the climb up the donjon gives the best view in town — out over the slate roofs of the old quarter and along the river valley.

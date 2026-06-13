@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "George Vanderbilt opened the house on Christmas Eve 1895 by hosting a sit-down dinner for friends and family. The estate covered 125,000 acres at the time — more than two hundred square miles — and required its own private train station, brick factory, and woodworking shop just to build."
+score: 9.4
 ---
 
 The Biltmore is the largest privately-owned house in the United States: a 250-room French Renaissance chateau finished in 1895 for George Washington Vanderbilt II. Richard Morris Hunt designed it on the model of the great Loire Valley chateaux, and Frederick Law Olmsted laid out the surrounding 8,000 acres. The result is something that looks like it was lifted out of central France and dropped into the Appalachian foothills.

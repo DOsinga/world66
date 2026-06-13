@@ -13,6 +13,7 @@ story: >
   winter. The snowmobile trail network in the Rovaniemi region extends for hundreds of
   kilometres, linking the city to the surrounding fell country and connecting remote
   wilderness cabins accessible only in winter.
+score: 7.1
 ---
 
 Snowmobile safaris are the most exhilarating way to explore the forests and fell country around Rovaniemi in winter. Guided tours leave from operators based in and around the city and head into birch forests, along frozen lakes, and up onto the open fell ridges where the views extend for tens of kilometres in every direction. Most operators require no prior experience and give a brief training session before departure; the machines are straightforward to drive on well-maintained trails.

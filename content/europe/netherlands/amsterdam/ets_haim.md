@@ -12,6 +12,7 @@ story: >
   Ets Haim ("Tree of Life") is a UNESCO Memory of the World site. Its collection
   includes manuscripts carried by refugees across Europe, some dating back to the
   13th century.
+score: 8.3
 ---
 
 The oldest functioning Jewish library in the world, housed within the Portuguese Synagogue complex on Mr. Visserplein. The collection spans five centuries of Sephardic intellectual life: rare manuscripts, early printed Hebrew books, rabbinical correspondence, and community records that document the history of Amsterdam's Portuguese-Jewish community from its founding by Inquisition refugees.

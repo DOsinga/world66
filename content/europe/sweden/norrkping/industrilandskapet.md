@@ -9,6 +9,7 @@ latitude: 58.5882
 longitude: 16.1842
 story: >
   The factories along the Motala Ström were powered by a system of canals and sluices first engineered in the 17th century by Louis de Geer, the Walloon industrialist who built Sweden's first large-scale iron foundries. The watercourses are still visible and functional today, running beneath the university buildings and museums that now fill the old mill halls.
+score: 8.8
 ---
 
 The Industrilandskapet is Norrköping's most distinctive quarter — a stretch of 19th-century textile mills and factory buildings running along both banks of the Motala Ström river through the city centre. The buildings are beautifully preserved in their original brick and iron, and have been converted into the Linköping University campus, several museums, concert halls, and restaurants. The combination of grand industrial architecture and the fast-flowing river makes it one of the most attractive post-industrial urban landscapes in Scandinavia.

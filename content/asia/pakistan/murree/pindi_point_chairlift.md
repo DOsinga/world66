@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8929
 longitude: 73.3794
+score: 6.1
 ---
 
 The chairlift at Pindi Point runs from the viewpoint down into the Bansara Gali valley below. It is one of Murree's most popular activities for families and offers a different perspective on the forested ridges than you get from the road. The ride is leisurely rather than thrilling — single chairs with safety bars, moving at moderate speed through pine and fir canopy.

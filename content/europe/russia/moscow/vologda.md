@@ -6,6 +6,7 @@ tags:
 - day_trips
 title: Vologda
 type: poi
+score: 7.2
 ---
 
 Vologda is an old Russian town about 500km north of Moscow, best known for its extraordinary collection of wooden architecture — carved houses, churches, and the Kremlin complex reflected in the Vologda River. The Kremlin here is actually a bishop's residence rather than a fortress, and its **Cathedral of St Sophia** (1570) was commissioned by Ivan the Terrible.

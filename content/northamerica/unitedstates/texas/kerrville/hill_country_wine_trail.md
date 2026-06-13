@@ -8,6 +8,7 @@ tags:
 latitude: 30.0485
 longitude: -99.1399
 snippet: Several dozen wineries within an hour's drive, centered on Fredericksburg
+score: 7.3
 ---
 
 The Texas Hill Country wine region has expanded dramatically over the past two decades and now has more than a hundred wineries, most of them clustered around Fredericksburg about 45 minutes east of Kerrville. The climate — warm days, cool nights, thin limestone soils — suits varieties like Tempranillo, Viognier, and Mourvèdre, and the best producers have moved well past the novelty stage into making genuinely serious wine.

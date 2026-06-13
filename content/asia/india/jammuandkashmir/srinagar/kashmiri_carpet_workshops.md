@@ -8,6 +8,7 @@ tags:
   - old_city
 latitude: 34.0900
 longitude: 74.8050
+score: 7.7
 ---
 
 The old city of Srinagar contains dozens of working carpet workshops where hand-knotted carpets are produced on upright looms in the traditional way. Many of these workshops are open to visitors, and watching the weavers work — one calling out knot colours from a paper pattern while others tie individual knots across a warp of cotton or silk threads — is one of the more instructive experiences available in Kashmir. A carpet of any size takes months to complete; a fine silk carpet of 900 knots per square inch can take a year.

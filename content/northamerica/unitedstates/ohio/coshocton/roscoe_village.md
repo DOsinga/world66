@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: A restored 1830s Ohio and Erie Canal town with working canal boat rides and reconstructed period buildings.
 story: "When the Ohio and Erie Canal opened in 1830, Roscoe Village became the second-largest wheat-shipping port in the state. Forty years later the railroads killed it; the village shrank to a handful of working-class homes around a stub of stagnant water. In 1968 the industrialist Edward Montgomery began buying buildings and restoring them at his own expense, and the village reopened as a living museum in 1973."
+score: 7.6
 ---
 
 Roscoe Village is the kind of place that looks like a contrived Disney recreation but is actually built on the original 1830s street plan, with many of the original brick and frame buildings still in place. The visitor centre is housed in the old toll house; from there a short walking loop takes in a one-room schoolhouse, a doctor's surgery, a blacksmith, a working print shop, and a weaver's cottage, each staffed by interpreters in period dress.

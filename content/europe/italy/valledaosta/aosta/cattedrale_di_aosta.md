@@ -5,6 +5,7 @@ tags: [things_to_do, sight, church]
 latitude: 45.738305
 longitude: 7.317737
 story: "Beneath the Cathedral's neoclassical facade — added in the early 19th century — lies a 4th-century early Christian basilica that was rebuilt and extended in the 11th century and again in the 15th. The excavated crypt beneath the nave reveals Roman mosaic floors that predate the church entirely; the building has been continuously in use as a place of worship for longer than most European cathedrals have existed."
+score: 8.1
 ---
 
 The Cathedral of Aosta presents a curious face to the visitor: the white neoclassical facade on Piazza Giovanni XXIII dates from 1836 and gives little indication of what lies inside. The interior is largely Gothic, built over earlier Romanesque and early Christian structures, and the sequence of layers is part of what makes the Cathedral worth extended attention rather than a quick glance.

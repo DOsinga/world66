@@ -11,6 +11,7 @@ tags:
 title: Aven Armand
 type: poi
 url: https://www.aven-armand.com
+score: 8.0
 ---
 
 Aven Armand is a single enormous cavern buried 100 meters beneath the Causse Méjean in Lozère. A funicular takes you down to a chamber large enough to hold Notre-Dame de Paris, where more than 400 stalagmites rise from the floor like a petrified forest. The tallest reaches 30 meters, making it one of the largest stalagmites ever recorded.

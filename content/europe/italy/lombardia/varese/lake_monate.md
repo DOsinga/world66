@@ -10,6 +10,7 @@ latitude: 45.7953
 longitude: 8.6611
 sources:
   - https://en.wikipedia.org/wiki/Lago_di_Monate
+score: 6.8
 ---
 
 Lake Monate is the smaller and less-known of the two lakes on Varese's doorstep, about twelve kilometres southwest of the city. It has a reputation as one of the cleanest lakes in Lombardy — the water is exceptionally clear, and swimming from the small beaches along its shores is a genuine pleasure on a summer day.

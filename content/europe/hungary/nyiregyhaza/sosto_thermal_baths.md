@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.9978
 longitude: 21.7221
+score: 8.1
 ---
 
 The thermal baths at **Sóstó** (Aquarius Élményfürdő) are the main reason Nyíregyháza attracts visitors from beyond the city. The complex draws on warm saline thermal waters and includes indoor and outdoor pools, waterslides, a wellness section, and a dedicated children's area. It is a proper Hungarian spa resort — not luxurious, but genuine, and much cheaper than equivalents in western Hungary or the Austrian Alps.

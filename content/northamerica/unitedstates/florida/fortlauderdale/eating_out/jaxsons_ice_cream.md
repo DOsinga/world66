@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 26.0558
 longitude: -80.1429
+score: 6.3
 ---
 
 Jaxson's Ice Cream Parlour in Dania Beach — a few miles south of downtown Fort Lauderdale — has been a south Florida institution since Monroe Udell opened it in 1956. The décor has not changed appreciably since then: a diner interior packed with vintage Coca-Cola signs, old posters, license plates, and decades of accumulated memorabilia hanging from every surface. It is cheerfully chaotic, and the ice cream is the point.

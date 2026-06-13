@@ -9,6 +9,7 @@ tags:
   - nature
   - park
 story: "The ancient beech forest inland from the cliffs is a UNESCO World Heritage Site — part of a transnational listing covering some of the last unbroken stands of European primeval beech. Trees here are over 200 years old, and the understorey, undisturbed for centuries, is the textbook example of what northern European forest used to look like."
+score: 9.4
 ---
 
 Jasmund is Germany's smallest national park, but it packs in the country's most-painted landscape: a wall of white chalk cliffs above the Baltic, the so-called Stubbenkammer, with the famous Königsstuhl as its highest point. Behind the cliffs is a primeval beech forest, gnarled and silent and listed by UNESCO as part of its ancient beech-forest World Heritage Site.

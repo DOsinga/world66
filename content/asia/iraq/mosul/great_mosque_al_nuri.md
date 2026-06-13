@@ -11,6 +11,7 @@ story: >
   twelfth century. When ISIS retreated in June 2017, they blew the minaret
   up rather than let it fall back into Iraqi hands. UNESCO is now overseeing
   its reconstruction using original stone and traditional techniques.
+score: 9.1
 ---
 
 The Great Mosque of al-Nuri is the most important historic monument in Mosul, founded in 1172 by the Zengid ruler Nur ad-Din. It was in this mosque that Saladin received the key endorsement of the Mosul religious establishment on his way to becoming the great sultan of the Crusader wars. For eight centuries, its defining feature was the al-Hadba minaret — leaning slightly off-centre, nicknamed "the hunchback" — which served as a landmark visible for miles across the Nineveh plain.

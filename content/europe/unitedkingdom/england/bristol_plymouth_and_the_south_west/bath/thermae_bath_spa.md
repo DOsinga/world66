@@ -6,6 +6,7 @@ longitude: -2.3603
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The only place in Britain where you can bathe in naturally hot spring water. The modern glass-and-stone building, designed by Nicholas Grimshaw, sits over the same thermal springs the Romans used two thousand years ago. The highlight is the open-air rooftop pool, where you float in warm mineral water with views over the Bath skyline and the surrounding hills — particularly atmospheric at dusk or on a cold winter evening when steam rises around you.

@@ -10,6 +10,7 @@ story: >
   When the Spanish conquistadors reached Tzintzuntzan in 1522, it was one of the largest cities in all of Mexico — estimates suggest a population of 25,000 to 40,000. The P'urhépecha empire had successfully resisted Aztec conquest for decades; it fell to the Spanish in a matter of months. Within a generation, the population had collapsed under disease and forced labour, and the city that had dominated western Mexico was reduced to a village.
 sources:
   - https://en.wikipedia.org/wiki/Tzintzuntzan
+score: 8.4
 ---
 
 Tzintzuntzan ("place of the hummingbirds" in P'urhépecha) was the capital of the P'urhépecha empire — one of the great pre-Columbian civilisations of Mexico and the only major power that successfully held off Aztec expansion in the century before the Spanish arrived. The site is on the northern shore of Lake Pátzcuaro, about 18 km from Pátzcuaro town.

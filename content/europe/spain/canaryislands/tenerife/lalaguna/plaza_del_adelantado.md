@@ -13,6 +13,7 @@ story: >
   conqueror of both La Palma and Tenerife, he used indigenous Guanche warriors as
   allies and then enslaved many of the defeated population. A statue of him stands
   in the square, looking considerably more heroic than he was.
+score: 6.8
 ---
 
 The Plaza del Adelantado is the main square of the La Laguna historic centre and the focal point of the city's public life. It is lined on three sides by buildings of historical significance: the convent of Santa Catalina de Siena (founded 1611), the 18th-century ayuntamiento (town hall) with its handsome Classical facade, and the Palacio de Nava, one of the finest aristocratic palaces in the Canaries with a deeply carved wooden balcony running the length of the facade. A covered market operates in the square on certain mornings.

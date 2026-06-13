@@ -5,6 +5,7 @@ author: "Barry Hannah"
 isbn: "978-0802131973"
 tags:
   - books
+score: 6.8
 ---
 
 Barry Hannah was the writer-in-residence at Ole Miss for most of the 1980s and 1990s, and *Airships* (1978) is the short story collection that made his reputation. The stories are short, wild, often hilarious, and unmistakably Southern without ever being either nostalgic or genteel — the prose moves faster than almost anything else in late-20th-century American writing.

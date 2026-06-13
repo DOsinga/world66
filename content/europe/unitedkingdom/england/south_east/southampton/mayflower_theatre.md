@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: 1928 Art Deco theatre — the largest receiving house outside London
+score: 6.7
 ---
 
 Originally the Empire Theatre, the Mayflower is Southampton's main commercial theatre — a 2,300-seat Art Deco hall built in 1928 and rare in surviving largely intact. The programme is mainstream touring product: large-scale musicals, ballet from the Russian companies, opera, comedy nights.

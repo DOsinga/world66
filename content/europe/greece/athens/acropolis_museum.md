@@ -16,6 +16,7 @@ story: >
   and the empty spaces in the display were left intentionally bare — a quiet
   argument for the marbles' return that has been running since the museum opened
   in 2009.
+score: 9.4
 ---
 
 Opened in 2009 on the southern slope of the Acropolis hill, this is one of the best archaeological museums in Europe. The building itself is striking — a deliberately austere glass-and-concrete structure designed by Bernard Tschumi, built over an active excavation of an ancient Athenian neighbourhood visible through the glass floors at the entrance.

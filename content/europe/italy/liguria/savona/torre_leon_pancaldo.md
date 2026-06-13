@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 Torre Leon Pancaldo, often just called La Torretta, marks the old harbour entrance and is Savona’s most familiar landmark. The medieval tower stands where the port, the promenade, and Via Paleocapa meet, making it a natural starting point for a walk into town.

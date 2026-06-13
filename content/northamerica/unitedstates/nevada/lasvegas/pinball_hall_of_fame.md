@@ -10,6 +10,7 @@ tags:
 - museum
 story: >
   Founder Tim Arnold owns one of the largest private pinball collections in the world. The museum is a nonprofit — any profit goes to the Salvation Army, which Arnold has insisted on since opening in 2006.
+score: 8.0
 ---
 
 The Pinball Hall of Fame is the world's largest playable pinball collection, and the key word is playable — every machine on the floor is wired up and ready for a coin. Around 200 pinball machines and another 50 vintage arcade games sit in rows under fluorescent lights, no fancy lighting or interpretation. Most plays are 25 to 75 cents. Bring quarters or use the change machine.

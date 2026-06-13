@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Hotel Continental Restaurant
 type: poi
+score: 6.6
 ---
 
 The dining room of Hotel Continental is Ystad's traditional option for a formal dinner. The kitchen focuses on Swedish and French-influenced cooking — pan-fried fish, game dishes in autumn, a careful wine list. The setting, inside the town's oldest hotel on Stortorget, adds appropriate occasion to the meal.

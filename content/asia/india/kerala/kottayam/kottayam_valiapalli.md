@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 story: "The Pahlavi cross on the eastern wall of the Valiapalli is one of the most remarkable objects in Indian Christian history. Carved in stone and inscribed in Pahlavi (Middle Persian) script, it is thought to date from the 7th or 8th century — evidence that Christianity reached Kerala through Persian missionaries long before the Portuguese arrived. The inscription records the donation of the cross by a Persian merchant, and it is now one of only a handful of such crosses surviving in India."
+score: 8.2
 ---
 
 The Valiapalli (the "big church") is the principal church of the Kottayam Syrian Christian community, a congregation that traces its origins to the St Thomas Christians — the ancient Christian community of Kerala who claim descent from converts made by the Apostle Thomas on his mission to India in 52 AD. The current church building dates from 1550, but the community it serves is far older. The interior is covered in elaborate painted murals in a style that blends Indian iconographic conventions with Christian subjects — a visual record of a Christianity that developed in India largely independently of Rome.

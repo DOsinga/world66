@@ -8,6 +8,7 @@ tags:
   - caravaggio
 latitude: 38.216693
 longitude: 15.563947
+score: 8.8
 ---
 
 The Regional Museum holds two paintings by Caravaggio that alone justify the trip to Messina. The Resurrection of Lazarus and the Adoration of the Shepherds were both painted in 1609 during the last two turbulent years of Caravaggio's life, when he was a fugitive from a murder charge in Rome and moving between Malta, Sicily, and Naples in desperate circumstances. They're among his most emotionally raw works — the Lazarus in particular, with its theatrical lighting and contorted figures hauling the dead man upright, has a violence and intensity that the later work does not always sustain.

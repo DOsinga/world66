@@ -7,6 +7,7 @@ tags:
 latitude: 9.9921
 longitude: -83.0335
 story: "Marcus Garvey himself visited Limón in 1921 to address the West Indian community here — many of them Jamaican migrants who had come to build the Atlantic Railway and stayed on to work the United Fruit Company's banana plantations."
+score: 8.0
 ---
 
 The Black Star Line is a tall, wooden, sea-green building on the corner of Avenida 5 and Calle 6, built in the 1920s as the local hall of Marcus Garvey's Universal Negro Improvement Association (UNIA). The name comes from the steamship line Garvey founded to connect the African diaspora through commerce. The building is one of the few survivors of Limón's heyday as a Caribbean port town with deep Afro-Jamaican roots.

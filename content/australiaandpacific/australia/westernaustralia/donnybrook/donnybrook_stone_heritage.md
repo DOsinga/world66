@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic]
 latitude: -33.5736
 longitude: 115.8261
 snippet: Short walk past 19th-century sandstone buildings on Bentley Street
+score: 6.0
 ---
 
 Bentley Street has a short stretch of nineteenth-century buildings cut from the local Donnybrook sandstone — a warm honey-coloured stone that was quarried just outside town and shipped to Perth, where it ended up in the General Post Office, the old Treasury, and dozens of other public buildings. A small interpretive walk picks out half a dozen of the surviving stone buildings (the old courthouse, the railway station, several shopfronts) with plaques explaining what they were and where the stone came from.

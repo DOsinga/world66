@@ -10,6 +10,7 @@ tags:
 - sight
 title: Ginkaku-ji (Silver Pavilion)
 type: poi
+score: 8.8
 ---
 
 Ginkaku-ji is the second of the two Ashikaga retirement villas turned Zen temples, smaller and more restrained than its golden counterpart. The complex was begun in 1482 by Shogun Ashikaga Yoshimasa as a country retreat where he could devote himself to the cultivation of tea, Noh, and ink painting — the activities that came to define the *Higashiyama bunka* (Higashiyama culture) and the entire idea of refined Japanese taste.

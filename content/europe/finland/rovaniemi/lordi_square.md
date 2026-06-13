@@ -12,6 +12,7 @@ story: >
   celebrations across Finland, and Rovaniemi, the band's home city, named the central square
   after them. The decision was controversial in some quarters but the city embraced it with
   good humour, and the name has stuck for nearly two decades.
+score: 5.5
 ---
 
 Lordi's Square is the central public square of Rovaniemi and the natural gathering point for the city. Named after the local heavy metal band that won Eurovision in 2006, it is lined with shops and cafes and sees constant pedestrian traffic throughout the year. In winter it is transformed by snow and often hosts outdoor Christmas markets, ice sculptures, and the warm glow of fairy lights that characterises Finnish town centres during the polar night.

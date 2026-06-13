@@ -8,6 +8,7 @@ latitude: 50.4019
 longitude: 80.2535
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Fine_Arts_Named_after_the_Nevzorov_Family
+score: 7.5
 ---
 
 Semey's art museum holds a collection of more than 3,600 works — paintings, graphics, sculpture — assembled by the Nevzorov family and now administered as a public institution. The collection is weighted toward Russian art of the 19th and 20th centuries, though it includes works from across the Soviet world and beyond. The associated library holds around 11,000 volumes.

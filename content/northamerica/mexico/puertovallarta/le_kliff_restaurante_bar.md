@@ -8,6 +8,7 @@ tags:
 title: Le Kliff Restaurante Bar
 type: poi
 url: www.lekliff.com
+score: 6.4
 ---
 
 Le Kliff advertises itself as the "most beautiful restaurant in Mexico" — and it just might be. Built on a sea cliff overlooking the Pacific, the restaurant is a series of palapas linked by winding staircases. The tables line each palapa and many have a 180-degree or wider view of the ocean and nearby coast.

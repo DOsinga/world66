@@ -9,6 +9,7 @@ tags:
   - bars_and_cafes
   - eating_out
   - bar
+score: 5.8
 ---
 
 **Red Collar Brewing** is one of three craft breweries in central Kamloops and the easiest to walk to from downtown. The taproom is a converted warehouse with long communal tables, a small patio overlooking the river, and a row of eight to ten taps that rotate frequently — the West Coast IPA and the German-style lagers are usually worth seeking out.

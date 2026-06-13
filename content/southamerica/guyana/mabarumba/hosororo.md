@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 8.1667
 longitude: -59.8
+score: 7.4
 ---
 
 Hosororo is a small community about three miles from Mabaruma on the west bank of the Aruka River, reachable by road from town. The Aruka flows through lowland forest and mangrove before meeting the coast, and boat trips along the river from Hosororo offer some of the best wildlife watching in the region: scarlet ibis roosting at dusk, caimans on the banks, and a chorus of frogs and insects that begins the moment the sun goes down.

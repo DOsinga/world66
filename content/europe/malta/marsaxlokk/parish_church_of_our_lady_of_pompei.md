@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.3
 ---
 
 The parish church on the waterfront — a handsome Neo-Baroque pile with a single dome and a campanile — is the focal point of village life and, after the *luzzu* boats, the most photographed object in Marsaxlokk. Built between 1890 and 1900 to replace a smaller chapel, the church is dedicated to Our Lady of Pompei, an unusual patron in Malta and a choice that reflects the village's strong Italian fishing connections.

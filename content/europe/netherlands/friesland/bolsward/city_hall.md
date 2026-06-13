@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 story: The Bolsward Stadhuis was completed in 1614 to a design that combined Dutch Renaissance with northern German Mannerist details. Its red-and-white facade, with carved sandstone reliefs of lions, soldiers, and allegorical figures, set the model for civic buildings across Friesland in the 17th century. The Frisian town councils were famously prideful about their independence, and the building's lavish exterior was a deliberate political statement.
+score: 8.8
 ---
 
 Bolsward's Stadhuis is one of the finest Renaissance town halls in the Netherlands, completed in 1614 during the early Dutch Republic's prosperity. The facade is heavily sculpted in sandstone, with carved coats of arms, allegorical figures, and an exuberant gable. The double exterior staircase and the small clock tower above complete a building that was deliberately designed to project the wealth of a confident Frisian town.

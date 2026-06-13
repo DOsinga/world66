@@ -14,6 +14,7 @@ story: >
   rather than boring long tunnels, the engineers simply climbed over the hills with
   91 locks in just under 33 miles. The canal fell derelict in the mid-20th century
   and was fully restored and reopened to navigation only in 2002.
+score: 7.4
 ---
 
 The Rochdale Canal passes through the centre of Todmorden on its way across the Pennines, and the restored towpath offers one of the most enjoyable walks in the area. Heading east to [Hebden Bridge](/europe/unitedkingdom/england/leeds_sheffield_and_yorkshire) takes about three hours on foot — the path is mostly flat and runs through a steep wooded valley with a series of lock flights and stone bridges.

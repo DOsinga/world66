@@ -14,6 +14,7 @@ story: >
   in 1283 tore away the outer cliff face, exposing the interior galleries to
   the world — before that, the entire complex was hidden behind solid rock,
   approached only through concealed tunnel entrances.
+score: 9.4
 ---
 
 The cave city of Vardzia is the main reason people come here, and it does not disappoint. You approach on a path from the ticket booth by the river, then climb up through the rock-cut corridors, chambers, and stairwells that once housed a community of monks and soldiers. The site spans roughly 500 metres of cliff face and rises 13 storeys at its tallest.

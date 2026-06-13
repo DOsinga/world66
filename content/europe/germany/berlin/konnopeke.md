@@ -11,6 +11,7 @@ tags:
 - prenzlauerberg
 title: Konnopke's
 type: poi
+score: 7.0
 ---
 
 Berlin's oldest and most celebrated currywurst stand, tucked under the elevated U-Bahn tracks at Eberswalder Straße since 1930. The Konnopke family has been serving their signature curry-spiced ketchup over grilled sausage for nearly a century, and the queue at lunchtime tells you everything you need to know. Order the currywurst mit Darm (with casing) for the proper snap, grab a pile of fries, and eat standing at the counter while trains rattle overhead. Fast, cheap, and unmistakably Berlin.

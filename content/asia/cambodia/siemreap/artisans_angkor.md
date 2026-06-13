@@ -7,6 +7,7 @@ tags:
 - sight
 title: Artisans Angkor
 type: poi
+score: 7.9
 ---
 
 **Artisans Angkor** is a social enterprise that trains and employs young people from rural families in traditional Cambodian crafts: silk weaving, stone carving, lacquerware, silversmithing, and wood carving. The main workshop and shop is in Siem Reap town (near the Les Chantiers Écoles vocational school that founded it), with a second outlet at Angkor Wat itself. Visitors can walk through the open workshop areas during working hours and watch carvers and weavers at their craft — an unusually transparent production experience.

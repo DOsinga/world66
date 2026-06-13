@@ -5,6 +5,7 @@ tags: [things_to_do, sight, neighbourhood]
 latitude: 43.3601
 longitude: -80.3145
 story: "Galt's Victorian limestone streetscape survived intact largely because the town's industrial decline began early enough that there was never money for the kind of urban renewal that demolished similar districts elsewhere in Ontario."
+score: 8.4
 ---
 
 The old Galt downtown is the most historically coherent part of Cambridge, with a compact grid of streets lined by Victorian and Edwardian limestone buildings that have changed remarkably little since the early 20th century. The stone is local Credit Valley limestone — pale and slightly sandy — which gives the district a distinctive appearance, more northern English than typical Ontario brick.

@@ -8,6 +8,7 @@ latitude: 44.9410
 longitude: 26.0230
 story: >
   Romania issued the world's first commercial oil statistics in 1857 and was among the first nations to refine crude oil industrially. The Ploiești refineries were producing kerosene for lamps across Europe while Pennsylvania was still debating whether oil was worth drilling for.
+score: 7.8
 ---
 
 The Oil Museum traces the history of petroleum production in Romania from its earliest industrial beginnings in the 1850s to the Communist-era refinery complex that still dominates the landscape around the city. The collection includes vintage drilling equipment, early refinery machinery, photographs, maps, and documents covering a century and a half of oil industry history.

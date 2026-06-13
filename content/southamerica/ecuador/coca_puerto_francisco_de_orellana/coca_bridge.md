@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -0.4750
 longitude: -76.9839
+score: 5.8
 ---
 
 The road bridge over the Napo, just south of the town centre, is much more impressive than it sounds — a long, low span across one of the great tributaries of the Amazon, with views in both directions over a river the colour of weak tea. The walkway on either side is open to pedestrians, and the sunsets, when the sky goes pink and bats start hunting low over the water, can be remarkable.

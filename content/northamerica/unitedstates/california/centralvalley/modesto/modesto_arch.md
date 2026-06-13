@@ -8,6 +8,7 @@ tags:
   - sight
   - landmark
 story: "The arch's famous slogan — Water, Wealth, Contentment, Health — was the winning entry in a 1911 newspaper contest, written by a local man named James Davitt. He won a prize of three dollars. Davitt died only a few months later in a railway accident before the arch was lit."
+score: 7.6
 ---
 
 A wrought-iron arch spanning Ninth Street at I Street in downtown Modesto, erected in 1912 to greet motorists arriving from the train depot. The slogan illuminated in neon along the top — "Water Wealth Contentment Health" — is one of California's most recognised pieces of small-city civic boosterism.

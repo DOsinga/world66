@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 45.2961
 longitude: -111.9373
+score: 6.1
 ---
 
 The Bale of Hay Saloon is the most atmospheric place to drink in Virginia City, occupying an original 1860s building on the main street. The interior is period-appropriate in all the ways that matter — a long wooden bar, vintage bottles, a tin ceiling — without feeling like a set. It serves cold beer and whiskey, which is all a place like this needs. On summer evenings, especially after an opera house show, it fills with visitors and the handful of year-round residents in a way that briefly recreates something of the original saloon culture.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 7.2
 ---
 
 Wadi Waj is the green valley that cuts through the western edge of Ta'if and continues out into the surrounding hills. Even in midsummer it has water and shade, with orchards of pomegranates, figs, and grapes that have been cultivated by local families for generations. The walking is gentle and the valley walls are dotted with small farms and old mud-brick houses.

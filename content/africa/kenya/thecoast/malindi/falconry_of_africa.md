@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -3.2200
 longitude: 40.1100
+score: 6.9
 ---
 
 Falconry of Africa in Malindi is an unusual attraction — a private falconry centre where visitors can watch displays of trained eagles, falcons, and owls and learn about the tradition of falconry in Africa. The centre also rehabilitates injured birds of prey, and several of its birds were rescued from injury or illegal trade.

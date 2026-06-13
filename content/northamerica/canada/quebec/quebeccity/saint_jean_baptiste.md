@@ -7,6 +7,7 @@ tags:
 latitude: 46.8068
 longitude: -71.2188
 snippet: Vibrant working neighbourhood just outside the walls, with the best restaurant street
+score: 8.3
 ---
 
 The neighbourhood immediately west of the Saint-Jean gate is one of the most enjoyable parts of Québec City for a visitor who wants to step out of the tourist circuit. Saint-Jean-Baptiste is a working francophone neighbourhood with a young population, good independent restaurants and bars, bookshops, and a lively rue Saint-Jean that extends from the Old City westward for several blocks.

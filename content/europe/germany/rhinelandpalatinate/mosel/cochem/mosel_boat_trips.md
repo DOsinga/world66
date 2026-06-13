@@ -8,6 +8,7 @@ latitude: 50.1484
 longitude: 7.1660
 sources:
   - https://www.mosel-inside.de/en/middle-mosel/cochem.html
+score: 7.1
 ---
 
 Several operators run boat trips along the Mosel from Cochem's riverfront promenade, ranging from short panoramic cruises to longer excursions upriver toward Beilstein or downstream toward Treis-Karden. The boats are open-decked in summer and glide past steep slate vineyard slopes, half-timbered villages, and occasional ruins of smaller fortifications that never made it into the tourist brochures.

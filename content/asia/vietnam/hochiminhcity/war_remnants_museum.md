@@ -16,6 +16,7 @@ story: >
   and planes that delivered the chemical. The exhibit is accurate and deeply disturbing.
 sources:
   - https://en.wikipedia.org/wiki/War_Remnants_Museum
+score: 9.3
 ---
 
 The War Remnants Museum in District 3 is one of the most important and challenging museums in Southeast Asia. It presents the American War (1955–1975) from the Vietnamese perspective, with captured US military equipment in the courtyard — tanks, artillery, helicopters, and the "Huey" helicopter — and a series of galleries inside that document the conflict's impact on the civilian population.

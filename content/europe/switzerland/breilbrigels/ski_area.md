@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 46.775
 longitude: 9.060
+score: 7.8
 ---
 
 The Breil/Brigels ski area is small by Swiss standards — around 50 km of marked runs — but it is well-kept and rarely overcrowded. The slopes rise from the village terrace up toward the Piz Dado and the surrounding alpine heights, with runs for all levels. The highest point is around 2,400 metres, which gives reasonable snow reliability.

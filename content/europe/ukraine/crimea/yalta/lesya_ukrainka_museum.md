@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 44.4919
 longitude: 34.1619
+score: 5.9
 ---
 
 Lesya Ukrainka was Ukraine's greatest 19th-century poet, and like Chekhov she came to Yalta for her health — tuberculosis drove her here in 1897, and she returned several more times in the following decade. The museum occupies the dacha where she stayed during her Yalta periods and documents her life, her illness, and her work.

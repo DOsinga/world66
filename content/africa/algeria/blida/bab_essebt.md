@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.5
 ---
 
 Bab Essebt — the "Saturday Gate," named for the weekly market that used to be held outside it — is the only one of the seven Ottoman gates of Blida still standing in anything like its original form. The horseshoe-arched stone gateway, embedded in a stretch of restored wall, dates from the 16th-century foundation of the city.

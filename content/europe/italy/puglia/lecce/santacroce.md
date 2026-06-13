@@ -12,6 +12,7 @@ tags:
 - church
 title: Santa Croce
 type: poi
+score: 8.9
 ---
 
 The most exuberant example of Leccese Baroque. Fantastic monsters and caryatids crowd the façade in a seemingly uncontrolled explosion of local sandstone carving. Work began in 1549 and took well over a century to complete, which explains the variety of hands at work. Inside, the altar by Zimbalo is worth close attention.

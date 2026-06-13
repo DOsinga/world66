@@ -16,6 +16,7 @@ story: >
   probably triggered by eating melon while already ill — from the undigested
   seeds in her stomach. No tomb in the world, before or since, has produced
   comparable preservation under natural conditions.
+score: 7.2
 ---
 
 The Mawangdui tomb complex in the eastern suburbs of Changsha is where, in 1972 and 1973, Chinese archaeologists excavated three Han dynasty tombs dating to around 168-160 BC. The tombs belonged to Li Cang, the Marquis of Dai, his wife Xin Zhui (Lady Dai), and their son. The preservation of Lady Dai's body — intact and flexible after two thousand years — and the extraordinary quality of the grave goods made this one of the most significant archaeological discoveries of the twentieth century.

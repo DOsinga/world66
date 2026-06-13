@@ -9,6 +9,7 @@ latitude: 12.1530
 longitude: -86.2760
 story: >
   After the Sandinista revolution ended with the 1990 election, the new government buried several thousand weapons from the civil war in a pit in the park. The burial was intended as a symbolic act of reconciliation — a country that had been tearing itself apart for a decade committing publicly to peace. A monument above the pit marks the spot.
+score: 6.6
 ---
 
 Parque de la Paz is a small urban park in the old centre of Managua, created after the end of the Sandinista conflict as a symbol of national reconciliation. The park is built over a pit where thousands of weapons from both sides of the civil war were buried in 1990 following the election that ended eleven years of revolution and counter-revolution.

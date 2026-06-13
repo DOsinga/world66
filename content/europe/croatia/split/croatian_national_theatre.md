@@ -14,6 +14,7 @@ story: >
   dominated public life a constant source of tension. The Croatian National Theatre was a
   deliberate assertion of Croatian cultural identity, which explains why the Italians
   promptly built their own smaller theatre nearby.
+score: 6.7
 ---
 
 Split's main theatre occupies a handsome neo-baroque building on the Trg Gaje Bulata square just north of the old town. The interior has been restored and is worth seeing for the 19th-century decoration alone — painted ceiling, carved galleries, red velvet. Productions run from September through June across opera, ballet, drama, and occasional concert programmes.

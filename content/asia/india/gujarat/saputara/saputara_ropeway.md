@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.576
 longitude: 73.73533
+score: 7.8
 ---
 
 The ropeway lifts you from the main bazaar area up to a hilltop viewpoint in a few minutes, delivering the best panorama of Saputara and the Dang forest below. On clear days — most common in October through February — the view extends across layer after layer of forested ridges to the horizon. The cable car itself is a small two-person gondola; it operates slowly enough to give you time to actually look.

@@ -9,6 +9,7 @@ longitude: 84.9475
 snippet: Siberia's oldest university, founded in 1878, with beautiful neoclassical grounds
 story: >
   Tomsk State University's founding in 1878 was controversial: the imperial government had originally planned to locate Siberia's first university in Omsk, but lobbying from Tomsk merchants and officials — backed by substantial private donations — won the prize. The university's neoclassical main building, completed in 1888, was modelled on Kyiv University.
+score: 7.8
 ---
 
 Tomsk State University, founded in 1878, was the first university in Siberia — a designation that still carries enormous local pride. The campus sits in the university district south of the centre, centred on a handsome neoclassical main building and surrounded by parks and student dormitories. The Siberian Botanical Garden, established in 1880 on the campus grounds, is one of the oldest in Russia and covers 14 hectares of landscaped gardens and greenhouses.

@@ -10,6 +10,7 @@ address: "195 Log Cabin Road, Kennebunkport, ME 04046"
 snippet: World's oldest and largest museum of electric railway vehicles
 sources:
   - https://en.wikipedia.org/wiki/Seashore_Trolley_Museum
+score: 8.5
 ---
 
 Founded in 1939 to preserve a Boston streetcar, the Seashore Trolley Museum has grown into the world's oldest and largest electric railway museum, with around 250 vehicles in the collection — horse-drawn trams, electric streetcars from across North America, interurban cars, and rapid transit cars. About 50 of these are in operating or near-operating condition.

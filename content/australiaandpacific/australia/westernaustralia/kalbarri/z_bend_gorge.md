@@ -8,6 +8,7 @@ latitude: -27.6397
 longitude: 114.4497
 story: >
   The Z Bend is named for the Z-shaped meander of the Murchison River visible from the gorge rim lookout. The river has been cutting through the Tumblagooda sandstone for around 400 million years — the rock it's carving through was laid down as beach sand during the Silurian period, when Western Australia was on the edge of an ancient shallow sea. The red and purple banding visible in the gorge walls represents different periods of deposition, each layer covering millions of years.
+score: 8.4
 ---
 
 Z Bend is the most dramatic of the river gorge walks in Kalbarri National Park. The main lookout at the end of the 2.4-kilometre return walk from the car park gives a bird's-eye view of the Murchison River as it makes its characteristic double bend in the gorge below — the full Z shape is visible from the rim. The sandstone walls drop sharply to the river, with the water visible as a narrow turquoise thread at the bottom.

@@ -14,6 +14,7 @@ tags:
 - architecture
 title: Montana State Capitol
 type: poi
+score: 7.6
 ---
 
 Helena's copper-domed capitol is one of the handsomer state capitol buildings in the American West. Completed in 1902 and significantly expanded in 1912, it sits at the top of a gentle rise above downtown with views back toward the mountains. Inside, the rotunda is decorated with murals depicting Montana history, and a notable collection of Charles M. Russell paintings hangs in the House chambers. Free guided tours run on the hour during business hours; the self-guided option is just as good. Worth an hour.

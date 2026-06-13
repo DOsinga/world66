@@ -6,6 +6,7 @@ latitude: 46.0213
 longitude: -74.2044
 story: >
   The garden was created by a single family over several decades, beginning in the 1940s, by hauling rocks from the surrounding forest and setting them into terraced beds by hand. The original founders had no horticultural training — they simply started moving rocks and planting things, and kept going for the rest of their lives.
+score: 6.2
 ---
 
 The Jardins de Rocailles is a secluded rock garden tucked into a woodland hillside just south of the village center, with more than 450 plant varieties arranged through terraced beds and natural rock formations. The garden focuses on alpine and woodland plants, with an emphasis on species native to or hardy in the Laurentian climate.

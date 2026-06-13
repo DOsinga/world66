@@ -10,6 +10,7 @@ tags:
 neighbourhood: Midtown
 title: Michigan Science Center
 type: poi
+score: 6.1
 ---
 
 The Michigan Science Center is the city's main hands-on museum for families, with more than 250 interactive exhibits across physics, biology, space, and the environment. The Toyota 4D Theater, the Dassault Systèmes Planetarium, and a four-storey IMAX with one of the largest screens in the state add to the basic admission. The Fatberg, a chunk of fused fat and rags pulled from Detroit's sewers, has its own display case and has become a strange museum favourite.

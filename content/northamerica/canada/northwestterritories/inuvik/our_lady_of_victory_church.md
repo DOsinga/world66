@@ -10,6 +10,7 @@ address: "Mackenzie Road, downtown"
 latitude: 68.358
 longitude: -133.7222
 story: "The dome was built in 1958 by amateur volunteers under the direction of Brother Maurice Larocque, who had no architectural training. They worked from a rough sketch and built it directly on the permafrost — Larocque is said to have feared every winter that it would collapse. It did not."
+score: 7.3
 ---
 
 Our Lady of Victory — universally called the **Igloo Church** — is the building everyone photographs in Inuvik: a white-painted, dome-shaped Roman Catholic church on Mackenzie Road downtown, completed in 1960. The shape was chosen to suggest an igloo and to be aerodynamically stable against the winter winds. The interior is a single circular nave; the stations of the cross were painted by the Inuvialuit artist Mona Thrasher.

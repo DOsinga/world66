@@ -6,6 +6,7 @@ longitude: -70.9111
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 A long-established and slightly formal seafood restaurant near the waterfront, **Sotito's** is where Punta Arenas locals go for an old-fashioned celebration dinner. The dining room has dark wood, white tablecloths, and the kind of attentive waiters who remember the regulars' wine preferences.

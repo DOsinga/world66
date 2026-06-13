@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 57.1783
 longitude: -6.1526
+score: 8.6
 ---
 
 The walk from Elgol to Camasunary is one of the most rewarding short walks on Skye — about 4 km each way on a good path with little elevation gain, passing along the coast above Loch Scavaig with continuous views of the Cuillin ridge. Camasunary itself is a remote beach of dark sand backed by a bothy (a simple open shelter) and two ruined buildings, utterly empty except in high summer.

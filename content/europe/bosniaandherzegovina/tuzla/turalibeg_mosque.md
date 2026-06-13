@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 44.5390
 longitude: 18.6730
+score: 7.4
 ---
 
 The Turalibeg Mosque dates from the 16th century and is one of the principal Ottoman-era monuments in Tuzla's old town. Unlike the more famous Colourful Mosque nearby, the Turalibeg Mosque is relatively plain in its decoration but preserves a well-proportioned Ottoman interior and a tall stone minaret that has survived intact since the original construction.

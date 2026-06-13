@@ -4,6 +4,7 @@ type: poi
 latitude: -8.0651
 longitude: -34.8804
 tags: [eating_out, restaurant, santo_antonio]
+score: 7.2
 ---
 
 The oldest restaurant in Brazil still serving — opened in 1882 in a stately townhouse opposite the Capela Dourada — and a Recife institution for traditional Portuguese and Brazilian cooking. Bacalhau, suckling pig, and northeast Brazilian staples like carne de sol dominate the menu.

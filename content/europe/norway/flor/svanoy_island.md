@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.56
 longitude: 5.01
+score: 7.8
 ---
 
 Svanøy is a fertile island a short ferry ride south of Florø, notable for its old estate and deer farm. The Svanøy estate, which dates back to the eighteenth century, is one of the best-preserved manor properties in western Norway. The grounds include a park and gardens that were laid out in the English landscape style, an unusual sight this far north. White-tailed deer roam the island and are often spotted near the shoreline or in the meadows around the estate.

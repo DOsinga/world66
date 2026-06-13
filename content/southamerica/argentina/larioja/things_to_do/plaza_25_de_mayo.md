@@ -1,6 +1,7 @@
 ---
 title: "Plaza 25 de Mayo and the City Centre"
 type: poi
+score: 6.3
 ---
 
 The Plaza 25 de Mayo is the social and geographical heart of La Rioja, a large shaded square lined with orange trees and flanked by the cathedral, the cabildo, and the Casa de Gobierno. Like most Argentine plazas, it comes properly alive in the evenings when the heat lifts and the city's residents emerge to walk, sit, and talk. At the weekend, the surrounding streets fill with stalls and the square is as good a place as any to spend a slow hour.

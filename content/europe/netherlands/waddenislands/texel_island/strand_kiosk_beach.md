@@ -9,6 +9,7 @@ tags:
 - beaches
 title: Strand kiosk Beach-Inn Km 21
 type: poi
+score: 5.8
 ---
 
 Strand kiosk Beach-Inn sits at beach kilometer marker 21, about two kilometers north of De Koog. The setting is striking — lonely beaches, vast dune formations, and dense woodland converge here, and several footpaths lead directly into the De Muy nature reserve.

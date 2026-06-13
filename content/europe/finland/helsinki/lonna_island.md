@@ -5,6 +5,7 @@ tags: [things_to_do, island]
 snippet: Small island in the harbour, a quiet alternative to Suomenlinna
 latitude: 60.153333
 longitude: 24.984444
+score: 7.3
 ---
 
 A small island in the harbour halfway between the city and Suomenlinna, formerly used as a Russian mine-degaussing station. Since 2014 the buildings have been gently restored and opened to the public — a sauna, a single restaurant, a few small exhibitions about the island's history.

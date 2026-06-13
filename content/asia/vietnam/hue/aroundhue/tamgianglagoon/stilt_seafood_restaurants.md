@@ -6,6 +6,7 @@ longitude: 107.6500
 tags:
   - eating_out
   - restaurant
+score: 6.5
 ---
 
 Along the inner shore of the lagoon at Phu My and Phu An, a string of restaurants built on stilts over the water serves the day's catch: grilled clams in chilli salt, steamed snails with lemongrass, fresh prawns, and the famous bánh khoái xèo Hue-style. The setting is the appeal — bamboo platforms over shallow brackish water, a fishing village on the far shore, and the lagoon's particular smell of salt, mud, and fishing nets.

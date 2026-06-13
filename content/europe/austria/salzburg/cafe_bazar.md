@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - cafe
   - neustadt
+score: 6.9
 ---
 
 The classic Salzburg coffeehouse on the right bank, on Schwarzstraße facing the Salzach, with a terrace looking across the river to the cathedral and Festung. Established in 1909 and still run by the same family, the Bazar has hosted everyone from Thomas Mann to Hugo von Hofmannsthal — both have plaques inside.

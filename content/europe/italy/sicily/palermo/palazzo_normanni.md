@@ -9,6 +9,7 @@ latitude: 38.11083
 longitude: 13.35305
 story: >
   The palace was first fortified by the Arab emirs of the 9th century on the site of a Phoenician outpost — making it possibly the oldest royal residence in continuous use anywhere in Europe. The Normans inherited it in 1072, expanded it, and built the Cappella Palatina inside. Today it houses the Sicilian Regional Assembly, which means the palace closes whenever parliament sits.
+score: 9.4
 ---
 
 The Palazzo dei Normanni — Royal Palace — anchors the western end of the old town and is the principal Arab-Norman monument in Sicily. The lower courses are Phoenician and Roman; the upper floors are Norman, Aragonese, and Bourbon, the whole built around a central Renaissance courtyard with arcaded loggias by Antonio Belguardo.

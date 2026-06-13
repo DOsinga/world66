@@ -9,6 +9,7 @@ latitude: 47.5843
 longitude: 12.1664
 story: >
   In 1504, the Bavarian Duke Albrecht IV ceded Kufstein to the Habsburgs after a short siege. Emperor Maximilian I ordered the fortress strengthened immediately — the round tower, the Burgfried, was built in 1518 and its walls are six metres thick at the base. This made Kufstein essentially impregnable to cannon fire, which was the entire point: it guarded the main road from Bavaria into Tyrol.
+score: 8.8
 ---
 
 The medieval fortress rises fifty metres above the old town on a granite outcrop that makes it look nearly impregnable — which for much of its history it was. The complex dates to the thirteenth century and was expanded repeatedly until the sixteenth. Visitors reach it by funicular from the town centre and can explore the keep, the round tower, the inner courtyard, and the museum of local history. The Heroes' Organ — the largest outdoor organ in the world — is housed in the fortress and plays a brief automated recital at noon daily, its sound rolling across the Inn valley like something from another age.

@@ -1,6 +1,7 @@
 ---
 title: "Navajo Interactive Museum"
 type: poi
+score: 7.4
 ---
 
 The Navajo Interactive Museum in Kayenta offers the broader historical and cultural context that helps make sense of everything else you'll see in the area. Exhibits trace the history of the Diné people from their origins and the Long Walk of the 1860s — when the US Army forcibly relocated nearly the entire Navajo Nation to Bosque Redondo in New Mexico, a catastrophe the Navajo call Hwéeldi — through the treaty that allowed their return, the 20th-century struggles over land and resources, and the cultural renaissance of recent decades.

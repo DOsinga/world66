@@ -9,6 +9,7 @@ latitude: 27.6500
 longitude: 28.5000
 story: >
   Crystal Mountain is a natural quartz crystal arch on the desert road between Bahariya and Farafra, visible from the tarmac and accessible without a guide. When the sun catches the quartz crystals — barite and calcite in addition to quartz — the formation glitters with an intensity that seems artificial. The arch is only about 3 metres tall, which surprises most visitors who expect something larger. But the density of crystals per square metre is what makes it unusual: this is not scattered crystalline rock but a concentrated mass.
+score: 6.3
 ---
 
 Crystal Mountain (Gabal Al-Zahr, "Mountain of Flowers") is a natural geological formation on the road between Bahariya and Farafra, about 120 km south of Bawiti. It is a small arch and hill composed almost entirely of quartz, barite, and calcite crystals — when the sun is on it, the surface flashes and glitters with extraordinary intensity.

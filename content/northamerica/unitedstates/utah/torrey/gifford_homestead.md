@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.2839
 longitude: -111.2454
+score: 6.8
 ---
 
 The Gifford Homestead is a 1908 farmhouse in the Fruita area of Capitol Reef, inside the national park, about 1.6km south of the visitor centre. It represents the last surviving homestead of the small Mormon community that farmed this canyon oasis from the 1880s until the mid-20th century. The homestead is run by the National Park Service and the Capitol Reef Natural History Association, and sells homemade pies, jams, and baked goods made from fruit grown in the surrounding orchard.

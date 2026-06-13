@@ -9,6 +9,7 @@ latitude: 39.2108
 longitude: -120.2434
 sources:
   - https://en.wikipedia.org/wiki/Palisades_Tahoe
+score: 8.1
 ---
 
 High Camp sits at 8,200 feet at the top of the Palisades Tahoe aerial tram, offering some of the most dramatic views in the Lake Tahoe region. On a clear day the panorama takes in the deep blue of Lake Tahoe to the south and ridgelines of the Sierra Nevada stretching in every direction.

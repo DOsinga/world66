@@ -9,6 +9,7 @@ latitude: 50.0504
 longitude: 19.9465
 story: >
   The synagogue was built in the 15th century by a community that traced its origins in Krakow to the 13th century. During the German occupation, the Nazis used it as a warehouse, then as a stable, stripping it of its furnishings and destroying its interior. When the museum opened in 1959, the Jewish community of Krakow had been reduced from 65,000 people to a few hundred survivors.
+score: 8.2
 ---
 
 The Old Synagogue (Stara Synagoga) on Szeroka Street is the oldest surviving Jewish religious building in Poland, dating from the late 15th century and rebuilt after a fire in 1557 in the Italian Renaissance style. For centuries it served as the spiritual and judicial centre of the Krakow Jewish community; the rabbi who served here was the chief rabbi of the entire Polish kingdom.

@@ -6,6 +6,7 @@ longitude: -4.5658
 tags:
   - eating_out
   - restaurant
+score: 7.2
 ---
 
 The chiringuitos along Benalmádena's beaches are the place to eat the dish that defines this stretch of coast: espeto de sardinas — fresh sardines skewered onto a stick, salted, and grilled over an open driftwood fire in a half-buried fishing boat. A plate of six costs only a few euros and is one of the best cheap meals in Spain.

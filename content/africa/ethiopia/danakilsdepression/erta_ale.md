@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Erta_Ale
 story: >
   Erta Ale's lava lake has been continuously active since at least 1906 — making it one of the longest continuously active lava lakes ever recorded. The name means "smoking mountain" in Afar. In January 2017, a major lava overflow sent flows down the flanks of the volcano and briefly expanded the caldera, creating a new pit crater alongside the original lava lake. Despite this activity, guided visits to the rim continued within weeks.
+score: 9.4
 ---
 
 Erta Ale is a shield volcano at 613 metres above sea level — low by volcanic standards, but sitting above a vast plain far below sea level, so it dominates the landscape in every direction. What makes it extraordinary is the lava lake in its summit caldera: a pool of molten rock that has been bubbling, churning, and occasionally overflowing continuously since at least the early 20th century, one of only five permanent lava lakes in the world.

@@ -7,6 +7,7 @@ snippet: Long sandy beach on the north side of town, popular with families
 tags:
 - things_to_do
 - beach
+score: 6.9
 ---
 
 Playa Chinchorro is the main city beach — a long, gently shelving stretch of sand north of the river mouth, well sheltered from the southern swell. It is shallow enough to swim safely and warm enough most of the year (the Humboldt cools things down — the sea is around 18°C even in summer).

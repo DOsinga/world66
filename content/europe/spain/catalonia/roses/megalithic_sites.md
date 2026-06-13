@@ -6,6 +6,7 @@ longitude: 3.1900
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 The hills behind Roses are dotted with prehistoric dolmens and standing stones, the remains of a Neolithic culture that thrived here around 3500 BC. A signposted route — the Ruta Megalítica — links the main sites and can be walked or driven in a couple of hours.

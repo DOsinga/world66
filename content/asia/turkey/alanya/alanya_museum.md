@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/Alanya_Museum
+score: 6.7
 ---
 
 The Alanya Museum covers two collections in one building: an archaeological section and an ethnographic section. It is small by Turkish museum standards, but well organised and genuinely worth an hour of your time, particularly if you want context for the castle and the Seljuk monuments around the harbour.

@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Modern Catholic church in the upper town, built in 1987
+score: 5.3
 ---
 
 Tórshavn's small Catholic church sits in the upper, modern part of town. It was completed in 1987 and is a low, white building whose simple lines echo the older Lutheran churches of the Faroes. It serves the small Catholic community of the islands — Faroese Catholicism almost died out during the Reformation and only returned in the 19th century with foreign workers.

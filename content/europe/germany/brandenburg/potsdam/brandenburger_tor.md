@@ -15,6 +15,7 @@ story: >
   stalls. It is often overlooked by visitors heading to Sanssouci, which is a mistake.
 sources:
   - https://en.wikipedia.org/wiki/Brandenburg_Gate_(Potsdam)
+score: 7.2
 ---
 
 Potsdam's Brandenburg Gate (not to be confused with the more famous one in Berlin) stands at the western end of the city's main pedestrian street and marks the entrance to the Sanssouci park district. Built in 1770 to designs by Karl von Gontard and Georg Christian Unger, it is a triumphal arch in the Roman style, with a different architectural face on each side: the town-facing east side is decorated with Roman trophies and martial symbols, while the park-facing west side shows pastoral decoration — representing the transition from city to pleasure ground.

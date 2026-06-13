@@ -9,6 +9,7 @@ latitude: 3.6900
 longitude: 97.6500
 story: >
   Rafflesia is a parasitic plant — it has no roots, no leaves, no stem, and exists for most of its life as a network of threads inside the tissue of a Tetrastigma vine. The flower itself, the largest single bloom in the world at up to a metre across, opens for only a few days before rotting. It smells of decaying meat to attract carrion flies as pollinators, which is how the species earned its standard nickname, "the corpse flower".
+score: 7.1
 ---
 
 Gunung Leuser is one of the best places in the world to see Rafflesia in bloom — usually Rafflesia atjehensis or Rafflesia rochussenii, both species endemic to northern Sumatra. The plant is rare, hard to predict, and at any given site only one or two flowers are likely to be open. Local guides keep close track of buds in known patches near Ketambe and Kedah and can usually tell you on the morning of your trek whether anything is currently in bloom.

@@ -6,6 +6,7 @@ tags:
 - bar
 title: The Permit Room
 type: poi
+score: 6.8
 ---
 
 The Permit Room is a bar that takes South Indian drinking seriously — the cocktail list is built around local and regional spirits, with toddy-inspired drinks, kokum-spiked negronis, and cocktails made with arrack, the palm-distilled spirit of coastal Karnataka and Tamil Nadu. The name references the "permit rooms" of India's Prohibition-era dry states, where travelers could obtain a permit to drink legally — a reminder that India's relationship with alcohol is more complicated and more interesting than most bars acknowledge.

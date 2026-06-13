@@ -9,6 +9,7 @@ tags:
 latitude: 47.5882
 longitude: 1.3363
 snippet: "Terraced gardens behind the cathedral with the best free view in Blois"
+score: 7.1
 ---
 
 The Jardins de l'Évêché — the former bishop's gardens — fill the slope behind the cathedral with formal parterres, lawns, and a long balustraded terrace. The terrace is the single best free viewpoint in town: the Loire bends below you, the slate roofs of the lower town tile down in front, and on a clear day you can pick out the Pont Jacques-Gabriel and the river curving south.

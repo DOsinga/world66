@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.1567
 longitude: 136.9168
+score: 7.1
 ---
 
 Tsuruma Park, opened in 1909 as Nagoya's first municipal Western-style public park, sits a short walk southeast of Osu. The grounds combine a formal Western section — a large central fountain, rose beds, the Meiji-era Tsurumaso bandstand — with a Japanese stroll garden on the southern side, complete with a tea house and a pond.

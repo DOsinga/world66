@@ -11,6 +11,7 @@ story: >
   Etiwanda was founded in 1882 as a temperance colony by George and William Chaffey, the Canadian engineers who also designed the irrigation systems that made the Inland Empire farmable. They named it after a friend's township in Ontario, Canada — which is why the next city west is called Ontario, California.
 sources:
   - https://en.wikipedia.org/wiki/Etiwanda,_Rancho_Cucamonga,_California
+score: 7.3
 ---
 
 The oldest of the three communities that merged to form Rancho Cucamonga in 1977, Etiwanda retains a neighbourhood of late-Victorian and Craftsman-era houses, mature eucalyptus and pepper-tree-lined streets, and a quiet main street that feels notably different from the surrounding suburb. Etiwanda Avenue between Base Line Road and Foothill Boulevard is the spine of the historic district.

@@ -1,6 +1,7 @@
 ---
 title: "Bazaar Restaurants"
 type: poi
+score: 6.5
 ---
 
 Several small family-run restaurants occupy the old shop fronts along the main bazaar lane, most operating without formal signage or fixed menus. The approach is the same at all of them: find out what has been cooked that day and order from that. In practice this means a selection of oven-baked dishes — stuffed peppers, white beans slow-cooked with tomato and herbs, lamb stew, and the inevitable byrek — kept warm in the traditional pots over low heat.

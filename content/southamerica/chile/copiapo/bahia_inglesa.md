@@ -10,6 +10,7 @@ story: >
   The name — English Bay — comes from English pirates and privateers who used the sheltered cove as an anchorage during the colonial era. The Atacama coast was a regular haunt for Francis Drake and Thomas Cavendish in the late 16th century, raiding Spanish silver shipments from Copiapó and other ports.
 sources:
   - https://en.wikipedia.org/wiki/Copiap%C3%B3
+score: 7.6
 ---
 
 Bahía Inglesa is a small resort town and beach about 70 kilometres west of Copiapó near the port of Caldera, with unusually clear turquoise water and white sand that looks more Caribbean than South American. The Humboldt Current keeps the water cold even in summer, but the beach is beautiful and the seafood at the restaurants along the waterfront is excellent.

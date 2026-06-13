@@ -7,6 +7,7 @@ tags:
 latitude: 53.3275
 longitude: -3.823
 snippet: A two-mile Victorian seafront promenade running the full curve of Llandudno Bay
+score: 7.4
 ---
 
 The North Shore Promenade is the heart of Victorian Llandudno — a two-mile crescent walkway following the full curve of Llandudno Bay, from the foot of the [Great Orme](/europe/unitedkingdom/wales/llandudno/great_orme) in the west to the Little Orme in the east. The 1850s street plan laid out the seafront as a single continuous frontage, and the row of three- and four-storey hotels and guesthouses along the inland side of the promenade has remained largely intact, giving Llandudno the most complete Victorian seaside frontage in Britain.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: The 1906 rail bridge that completed the Tyne crossings
+score: 6.8
 ---
 
 The 1906 four-track railway bridge by Charles Harrison, opened by Edward VII to relieve congestion on the older High Level Bridge. Today every East Coast Main Line train from Edinburgh to London crosses here. The four iron lattice spans are visible from the Quayside cobbles and from the Free Trade Inn beer garden in the Ouseburn — its main constituency.

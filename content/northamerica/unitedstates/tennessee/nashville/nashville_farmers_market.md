@@ -8,6 +8,7 @@ tags:
   - shopping
   - market
   - germantown
+score: 6.4
 ---
 
 The farmers' market sits at the south end of the Bicentennial Capitol Mall, in a complex of long open sheds and an enclosed food hall. The outdoor produce sheds run on weekends and Wednesdays in summer, with local farmers, prepared-food vendors, and flower sellers; the indoor food hall is open daily and houses an unusually international mix of restaurants — Jamaican, Vietnamese, Indian, Bavarian, BBQ, Mediterranean — that draw downtown office workers at lunchtime.

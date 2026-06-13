@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 49.3678
 longitude: 0.0838
+score: 5.7
 ---
 
 A small bistrot tucked into the old town, away from the brasserie strip. Le Bistrot des Quatre Chats specializes in tightly written daily menus of Norman cooking — heavy on cream, butter, apples, and Camembert, with the occasional inspired side dish from beyond the region.

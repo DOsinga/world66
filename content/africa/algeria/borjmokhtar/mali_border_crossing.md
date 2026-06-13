@@ -6,6 +6,7 @@ longitude: 0.9531
 tags:
   - things_to_do
   - sight
+score: 4.0
 ---
 
 The reason almost everyone passes through Borj Mokhtar is the border with [Mali](/africa/mali), which sits a few kilometres to the south. The Algerian customs post handles passport formalities, vehicle paperwork, and the inevitable fees in both directions; expect long waits, careful searches, and questions about your route.

@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Ilha_Fiscal
 story: >
   On November 9, 1889, Emperor Dom Pedro II hosted a grand masked ball on the Ilha Fiscal for the crew of a visiting Chilean warship. It was the most lavish party in the history of the Brazilian Empire — and also the last. Four days later, on November 15, a military coup ended the Empire and proclaimed the Republic. Dom Pedro II never returned to Brazil. The island palace stood empty for decades.
+score: 7.7
 ---
 
 The Ilha Fiscal is a small island in Guanabara Bay, 800 metres from the shore, topped by an extraordinary neo-Gothic palace that looks like something from a fairy tale — green spires, Gothic arches, and ornate stonework rising from the water. Built in 1889 as a customs inspection house, it never actually served that purpose: within weeks of its completion, the Empire was overthrown.

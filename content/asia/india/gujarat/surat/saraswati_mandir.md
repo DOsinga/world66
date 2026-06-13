@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 21.1949
 longitude: 72.8278
+score: 7.2
 ---
 
 Saraswati Mandir, also known as Narmad House or Sarika Sadan, is a writer's house museum dedicated to Narmadshankar Dave (1833–1886), better known as Narmad — one of the most important figures in 19th-century Gujarati literature. Narmad was a poet, essayist, and social reformer who championed the Gujarati language and culture during the early colonial period, and is credited with coining the rallying slogan "Jai Jay Garavi Gujarat" (Hail the Glorious Gujarat).

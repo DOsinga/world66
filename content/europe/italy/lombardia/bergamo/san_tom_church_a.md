@@ -9,6 +9,7 @@ tags:
 - church
 title: San Tomè Church and Convent
 type: poi
+score: 7.7
 ---
 
 A striking Romanesque rotunda built in the 11th-12th century, perched on a cliff above the Brembo river in Almenno San Bartolomeo, about 15 km west of Bergamo. The circular plan is unusual for Lombardy, and the building's most celebrated detail is a cross-shaped window positioned so that sunlight falls directly on the altar at the summer solstice.

@@ -5,6 +5,7 @@ tags: [things_to_do, shopping, market]
 latitude: 10.2676
 longitude: 13.2644
 story: "Mubi's market is one of the largest in northeastern Nigeria, drawing traders from across the Cameroon border and from as far as Maiduguri. The cattle section, on a separate ground on market days, can hold several thousand head."
+score: 7.4
 ---
 
 The main market is the heart of Mubi and a defining experience of the town. It runs every day but expands enormously on market days, when traders flood in from villages across both Adamawa State and the Cameroonian border zone. Livestock, grain, cloth, dried fish from Lake Chad, salt, leatherwork, and an extraordinary range of household goods change hands.

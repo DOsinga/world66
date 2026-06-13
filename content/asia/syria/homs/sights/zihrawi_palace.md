@@ -9,6 +9,7 @@ tags:
 - museum
 title: Zihrawi Palace
 type: poi
+score: 6.8
 ---
 
 One of the most notable historic buildings in Homs, the al-Zihrawi Palace has been converted into a museum of popular traditions. The palace showcases traditional Syrian life through exhibits of clothing, crafts, and household objects from the region's past.

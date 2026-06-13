@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Elafonisi's distinctive pink sand colour comes from crushed red and pink coral and shells mixed into the white sand. The lagoon is exceptionally shallow — rarely more than a metre deep — because a small offshore reef creates a protected basin. In 1824, a ship carrying Greek refugees from the Ottoman massacres on Chios ran aground here; an estimated 600 people drowned in the shallow water, unable to reach the shore. A small memorial marks the spot."
+score: 8.7
 ---
 
 Elafonisi is on the southwest tip of Crete, an almost-island joined to the mainland by a tidal sandbar you can wade across at most times of day. The beach has pink-tinged sand (from crushed coral), a shallow turquoise lagoon, and, in good conditions, water so clear you can see the sandy bottom from 50 metres away. It is widely considered one of the best beaches in the Mediterranean.

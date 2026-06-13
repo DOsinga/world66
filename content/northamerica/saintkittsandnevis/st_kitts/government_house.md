@@ -8,6 +8,7 @@ tags:
   - architecture
   - basseterre
 neighbourhood: Basseterre
+score: 5.6
 ---
 
 The official residence of the governor-general, also known as Springfield House — a handsome white wooden colonial mansion on the western edge of Basseterre, set back from the road in mature gardens. The original building dates from the 1830s but has been rebuilt several times, most recently after Hurricane Hugo in 1989.

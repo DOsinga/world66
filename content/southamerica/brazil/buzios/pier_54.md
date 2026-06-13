@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -22.7470
 longitude: -41.8818
+score: 5.8
 ---
 
 Pier 54 is a waterfront bar on the Orla Bardot with the kind of position that sells drinks almost by itself — outdoor tables looking directly over the bay, boats passing, and a sunset view that the town's landlocked bars simply cannot match. The drinks list covers the usual Brazilian cocktails as well as cold beer and imported spirits.

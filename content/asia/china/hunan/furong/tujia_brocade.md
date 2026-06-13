@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.7458
 longitude: 109.9412
+score: 6.4
 ---
 
 Tujia brocade (xilankapu) is one of the most distinctive textile arts in China, produced on backstrap looms by Tujia women using a technique that creates geometric patterns of extraordinary complexity by working purely from memory without a written pattern. The designs are passed through generations within weaving families; a full-size xilankapu panel takes weeks to produce and contains hundreds of individual pattern elements.

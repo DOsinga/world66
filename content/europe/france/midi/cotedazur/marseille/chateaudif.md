@@ -9,6 +9,7 @@ tags:
 - sight
 - architecture
 story: "Edmond Dantès, hero of The Count of Monte Cristo, was a fictional character — yet visitors still ask to be shown the cell where he was held. The keepers obliged, eventually labelling one of the dungeons accordingly, and the door has been re-cut to incorporate the imaginary tunnel through which Dantès supposedly escaped to a neighbouring cell to meet the Abbé Faria."
+score: 8.4
 ---
 
 The Château d'If sits on a small limestone island just over a kilometre off Marseille, the closest of the four Frioul islands. François I had it built between 1524 and 1531 as a coastal defence, but it never fired a shot in anger. Instead it became a prison, holding Protestants during the Wars of Religion and political opponents through the 18th and 19th centuries. Among its real inmates were the philosopher Mirabeau and the Communard Gaston Crémieux.

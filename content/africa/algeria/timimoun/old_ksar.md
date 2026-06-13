@@ -14,6 +14,7 @@ story: >
   pilasters — travelled north across the Sahara from the medieval cities
   of Mali, particularly Djenné and Timbuktu, and Timimoun is one of the
   best-preserved examples this side of the desert.
+score: 9.1
 ---
 
 The old ksar — the original fortified quarter of Timimoun — is the place to wander first. A maze of narrow alleyways between rust-red mud-brick houses opens into small squares with a single tree, a well, a couple of old men sitting in the shade. The walls are decorated with the geometric pinnacles and slit windows of the Soudano-Saharien style, a tradition that crossed the Sahara from medieval Mali.

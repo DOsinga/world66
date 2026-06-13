@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Fort_Fredrick
 story: >
   Fort Frederick has the unusual distinction of having been built by four different European powers. The Portuguese built the original structure in 1624; the Dutch captured and expanded it; the British took control in 1795 and held it until independence. The cannon still pointing out to sea are Dutch and British-era pieces, quietly rusting in the tropical air.
+score: 8.0
 ---
 
 Fort Frederick occupies the same headland as the Koneswaram Temple, and the juxtaposition of colonial military architecture and ancient Hindu sacred space is one of Trincomalee's defining features. The fort was completed in 1624 — the Portuguese used stone from the temple they had just demolished to build its walls. Today you can walk through the gates freely; the fort is technically still a Sri Lanka Army installation but the historic section is accessible.

@@ -9,6 +9,7 @@ story: >
   where Stan Uris encounters the drowned boys. King's description of the standpipe
   walking ring is almost exactly accurate, which suggests he lived close enough to know
   it well. The real Standpipe has been in continuous service since 1897.
+score: 6.8
 ---
 
 The Thomas Hill Standpipe is a 1897 water tower that serves a double role: functional infrastructure and Bangor's most Stephen King-haunted structure. Standing 50 feet tall and holding 1.75 million gallons of water, the standpipe sits on a rise at the edge of the Bangor City Forest, with a promenade deck around the base that offers views across the city.

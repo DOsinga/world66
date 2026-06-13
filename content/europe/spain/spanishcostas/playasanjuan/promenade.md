@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Seafront promenade running the length of the village
+score: 6.8
 ---
 
 The paseo runs along the seafront from the harbour north towards Playa La Jaquita, a flat tile-paved walk of about a kilometre. It is the social heart of the village in the evenings — locals walk it after dinner, children scoot up and down, and a few benches give a place to sit and watch the sun drop into the Atlantic. Bars and ice-cream places spill onto the wider sections.

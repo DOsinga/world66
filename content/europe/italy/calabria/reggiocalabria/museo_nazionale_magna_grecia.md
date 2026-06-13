@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Museo_Nazionale_della_Magna_Grecia
   - https://en.wikipedia.org/wiki/Riace_bronzes
+score: 9.7
 ---
 
 The Museo Nazionale della Magna Grecia is the reason people come to Reggio di Calabria, and it deserves every superlative. The museum holds one of the finest collections of ancient Greek art in the world — pottery, sculpture, coins, jewellery, and architectural fragments from the Greek colonies of southern Italy — but everything else is secondary to the Riace Bronzes, housed in their own specially controlled room on the ground floor.

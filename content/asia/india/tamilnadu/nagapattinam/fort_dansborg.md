@@ -14,6 +14,7 @@ story: >
   Testament was printed here in 1715 — the first Bible translation into any Indian language.
   The Danes eventually sold the colony to the British East India Company in 1845 for 1.25 lakh
   rupees, reportedly because the colony had never been profitable.
+score: 8.6
 ---
 
 Fort Dansborg in Tranquebar (Tharangambadi) is the only Danish fort in India and one of the least-visited European colonial sites on the subcontinent. The Danes established their trading post here in 1620, two years after the Dutch founded Batavia, making it one of the earliest European settlements in India. The fort sits directly on the beach, its thick walls facing the Bay of Bengal, and the surrounding town retains a remarkable number of Dutch- and Danish-influenced buildings — painted facades, arched colonnades, and a 17th-century church — that make it feel genuinely different from any other town in Tamil Nadu.

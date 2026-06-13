@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 56.4599
 longitude: -2.9687
+score: 6.5
 ---
 
 City Square, with the granite-fronted Caird Hall along its southern edge, is the formal civic heart of Dundee. The hall is a 1923 neoclassical concert venue paid for by the jute baron James Caird, with a colonnaded portico that gives the centre of the city a touch of Edinburgh New Town grandeur. It still hosts the city's major orchestral concerts and graduation ceremonies.

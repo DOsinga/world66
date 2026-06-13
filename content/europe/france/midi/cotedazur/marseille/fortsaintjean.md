@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.3
 ---
 
 Fort Saint-Jean guards the northern side of the entrance to the Vieux-Port. Louis XIV ordered its construction in 1660, supposedly to defend the city from foreign attack — though the cannons in fact pointed inland, after a recent revolt by Marseille against royal authority. The fort kept that role through the Revolution, the Empire and into the 20th century before becoming a museum in the 2000s.

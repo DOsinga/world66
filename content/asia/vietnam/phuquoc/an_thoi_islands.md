@@ -9,6 +9,7 @@ title: An Thoi Archipelago
 type: poi
 story: >
   The An Thoi group is where the best coral reefs around Phu Quoc survive, partly because the southern waters were historically less trafficked and the reefs less disturbed. Vietnamese marine scientists working with the national park administration have been monitoring recovery of the reefs since restrictions on fishing and anchoring were tightened in the 2010s.
+score: 8.8
 ---
 
 The An Thoi archipelago — a scatter of 18 small islands off the southern tip of Phu Quoc — is the best snorkelling and diving destination in the region. The reefs here still support good coral cover and a wide variety of reef fish, sea turtles, and occasional reef sharks. The water is clearest from November to May.

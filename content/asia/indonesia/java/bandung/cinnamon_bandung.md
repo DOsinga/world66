@@ -7,6 +7,7 @@ tags:
 snippet: Architect-run rooftop bar in a converted warehouse, with city views
 latitude: -6.9106
 longitude: 107.6181
+score: 6.8
 ---
 
 A multi-storey converted warehouse on Jalan Gudang Selatan run by a group of Bandung architects. The ground floor is a gallery and design store, the upper floors a series of cafes and bars. The rooftop is the destination — a long open deck with cocktails, simple snacks, and a generous view back over the city to the mountains.

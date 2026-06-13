@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 6.5
 ---
 
 Rock Sound, in the south of Eleuthera, is the second-largest settlement on the island. It was a major port in the 1950s and '60s when pineapples and citrus were Eleuthera's main exports, and the still-grand homes of the time line the inland streets.

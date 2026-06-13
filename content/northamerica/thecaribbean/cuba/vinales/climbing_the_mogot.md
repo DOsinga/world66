@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Climbing the Mogotes
 type: poi
+score: 7.4
 ---
 
 The near-vertical faces of the mogotes are a genuine rock-climbing challenge. The rough limestone surface gives better grip than it looks, and routes of varying difficulty have been established. Local guides can arrange equipment and lead climbs.

@@ -9,6 +9,7 @@ tags:
   - jardins
 neighbourhood: Jardins
 snippet: "Helena Rizzo's farm-driven kitchen in a converted Jardins house"
+score: 8.0
 ---
 
 Maní opened in 2006 in a low-slung converted house in the Jardins and has been one of the city's most consistent destination restaurants ever since. Helena Rizzo — named the world's best female chef in 2014 — cooks a precise, ingredient-driven menu that draws on small Brazilian producers and family farms. The signature courses are the heart-of-palm and the slow-cooked egg dishes; the bread basket is one of the best in the city.

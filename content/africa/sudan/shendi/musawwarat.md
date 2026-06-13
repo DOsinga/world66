@@ -11,6 +11,7 @@ tags:
 - day_trip
 snippet: The vast and mysterious "Great Enclosure" of the Kushites, lost in the western Butana
 story: "No one knows what Musawwarat was for. It has no obvious water source, no city plan, and no graves; one theory is that it was a pilgrimage centre and elephant-training school for the Kushite armies — elephants are carved into walls all over the complex, and Hannibal's African elephants may well have come from here."
+score: 8.8
 ---
 
 About 100 km southeast of Shendi, deep in the empty western Butana, lies one of the strangest archaeological sites in Africa. Musawwarat es-Sufra ("the yellow pictures") is a sprawling complex of low sandstone walls, courtyards, ramps and small temples built around a single enormous courtyard known as the Great Enclosure — one of the largest ancient structures in Sudan. Its purpose is still unclear: there is no permanent settlement here, no obvious water source, and the layout fits no Egyptian or Greek model.

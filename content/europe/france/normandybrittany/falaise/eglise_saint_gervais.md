@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Romanesque church contemporary with William the Conqueror, surviving WWII damage
+score: 7.3
 ---
 
 Saint-Gervais is the oldest surviving church in Falaise, its core Romanesque nave dating to the eleventh century — making it a contemporary of William himself. The exterior is plain and slightly battered, a result of the town's partial destruction in 1944, but the interior retains its original proportions and some fine carved capitals on the nave pillars.

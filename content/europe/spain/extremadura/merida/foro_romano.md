@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9169
 longitude: -6.3431
+score: 7.3
 ---
 
 The Roman Forum is preserved as an open archaeological square a short walk from the Templo de Diana. What you see is a partial reconstruction: a portico of Tuscan columns rebuilt from fragments excavated on the site, statues of caryatids modelled on those from the Forum of Augustus in Rome, a stretch of imperial inscriptions along the back wall. It is a clear, fast introduction to what the central square of Augusta Emerita looked like.

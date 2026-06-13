@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 68.2081
 longitude: 14.4514
+score: 7.9
 ---
 
 The Espolin Gallery at Storvågan holds a large collection of work by Kaare Espolin Johnson (1907–1994), one of Norway's most distinctive graphic artists. Espolin was blind in one eye, worked primarily in charcoal and lithograph, and spent decades documenting the fishing life of the Lofoten coast in images that are simultaneously documentary and dreamlike. His dark, densely worked figures hauling nets or sitting in rorbu cabins capture the physical and psychological weight of the winter fisheries better than almost any photograph.

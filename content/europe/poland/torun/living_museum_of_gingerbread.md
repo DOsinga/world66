@@ -9,6 +9,7 @@ longitude: 18.60472
 sources:
   - https://en.wikipedia.org/wiki/Living_Museum_of_Gingerbread
 story: "Toruń gingerbread has been made here since at least the 14th century, and the city's bakers once held a legally protected monopoly on production — competing towns were forbidden to sell their gingerbread within Toruń's markets."
+score: 8.5
 ---
 
 The Living Museum of Gingerbread (Żywe Muzeum Piernika) occupies a medieval building in the old town and runs interactive sessions where visitors bake and decorate their own traditional pierniki using historic wooden moulds. The sessions are led in costume by guides playing the role of 14th-century bakers, which works better than it might sound. Children love it; adults find it genuinely interesting.

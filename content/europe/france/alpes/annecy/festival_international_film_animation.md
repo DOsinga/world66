@@ -8,6 +8,7 @@ latitude: 45.9032
 longitude: 6.1372
 snippet: "The world's most important animated film festival, held in Annecy every June since 1960"
 story: "The festival began in 1960 as a Cannes spin-off (Cannes had hosted an animation section since 1956). It is now larger than any single Cannes selection — about 14,000 accredited professionals attend, and the Cristal d'Annecy is the most prestigious award in world animation."
+score: 8.8
 ---
 
 For one week every June the Annecy International Animation Film Festival turns the town into the de facto world capital of the form. Studios from Pixar to Studio Ghibli premiere new work; thousands of independents screen shorts in three competition sections; the lakefront fills with industry parties.

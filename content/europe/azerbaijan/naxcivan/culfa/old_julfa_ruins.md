@@ -12,6 +12,7 @@ story: >
   New Julfa, still a Christian enclave in Isfahan today. The murals in Isfahan's Vank Cathedral
   depict the suffering of that march in extraordinary detail, painted by the very descendants of those
   who made it.
+score: 8.2
 ---
 
 Two kilometres west of modern Julfa lie the ruins of the Armenian city of Jugha, locally called Cuga, which flourished as a major trading hub on the Silk Road from roughly the ninth to seventeenth centuries. The site sits on the left bank of the Araz River, and across the water Iran's Jolfa faces it. What survives today includes the remains of several Armenian churches — the Andreordi, Pobloz, and St. Astvadsadsin — a substantial medieval caravanserai, fragments of a bridge across the Araz, and the thirteenth-century Gulistan burial vault.

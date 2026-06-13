@@ -15,6 +15,7 @@ story: >
   cannot fly. The birds are completely vulnerable during this time, which is
   why the lake is strictly protected and access is limited. Even so, the sight
   of hundreds of swans crowded onto the lake in July is extraordinary.
+score: 8.1
 ---
 
 Lake Łuknajno (Łuknajno Reserve) is a UNESCO Biosphere Reserve and one of the most important nature sites in Poland, lying just east of Mikołajki. The shallow lake is ringed by reed beds and bordered by alder and willow woodland, creating habitat for one of the largest mute swan populations in Europe. In moulting season (June–July), thousands of swans gather here; through the year the lake attracts bitterns, marsh harriers, white-tailed eagles, and dozens of other waterbird species.

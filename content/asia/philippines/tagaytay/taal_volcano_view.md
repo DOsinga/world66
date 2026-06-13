@@ -8,6 +8,7 @@ latitude: 14.0987
 longitude: 120.9521
 story: >
   Taal Volcano sits within a caldera lake, which itself sits within the remnants of a much larger ancient volcano — making it technically a lake on an island in a lake on an island, one of only a handful of such formations anywhere on earth. The January 2020 eruption sent an ash column 15 km into the sky and forced the evacuation of tens of thousands of people, blanketing Manila's airport in grey dust.
+score: 9.4
 ---
 
 The view from the Tagaytay Ridge of Taal Volcano is one of the most dramatic in Southeast Asia. Below the highway the land falls steeply to the shores of Taal Lake, a vast crater lake occupying the remains of an ancient volcanic caldera. In the centre of the lake rises Volcano Island, its flanks still scarred from the eruption of January 2020, and on the island sits a second crater lake — a geological stacking of lake on island on lake on island that is genuinely unusual.

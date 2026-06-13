@@ -8,6 +8,7 @@ tags:
   - eating_out
   - bars_and_cafes
   - restaurant
+score: 6.9
 ---
 
 Curlies is the most famous beach shack in Anjuna and one of the longest-running on the Goa coast. It started in the 1980s and grew from a single thatched lean-to into a sprawling deck of bamboo platforms at the south end of the beach, with a separate club above the restaurant that runs late into the night.

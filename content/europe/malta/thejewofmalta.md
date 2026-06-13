@@ -4,6 +4,7 @@ tags:
 - books
 title: The Jew of Malta
 type: poi
+score: 5.2
 ---
 
 Christopher Marlowe's 1592 play follows Barabas, a wealthy Jewish merchant in Malta, whose fortune is seized by the island's governor to pay tribute to the Ottoman Empire. What follows is a bloody revenge plot that spirals through betrayal, poisoning, and political scheming against the backdrop of the Great Siege.

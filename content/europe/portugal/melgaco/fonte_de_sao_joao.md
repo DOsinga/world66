@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.1148
 longitude: -8.2578
+score: 5.8
 ---
 
 The Fountain of São João is a decorative 18th-century public fountain near the castle in Melgaço, classified as a Portuguese national monument. The carved stonework is in good condition and the fountain still flows. It is one of several historic stone fountains in the Minho region that remain in public use.

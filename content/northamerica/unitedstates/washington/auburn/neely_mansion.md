@@ -8,6 +8,7 @@ tags:
 latitude: 47.3004
 longitude: -122.1776
 story: "The Neelys built their farmhouse in 1894 with old-growth lumber cut from their own land — the same land that Levi Neely had homesteaded in 1853, just five years after the first permanent American settlement in the Puget Sound region."
+score: 7.2
 ---
 
 The Neely Mansion is a Victorian Queen Anne farmhouse built in 1894, one of the best-preserved 19th-century homes in King County and listed on the National Register of Historic Places. The house sits on a 15-acre preserve along the Green River, and the grounds include a heritage orchard and formal gardens that have been restored by a preservation society.

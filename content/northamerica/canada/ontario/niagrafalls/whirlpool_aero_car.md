@@ -16,6 +16,7 @@ story: >
   Niagara has been running, with original components, for over a century.
 sources:
   - https://en.wikipedia.org/wiki/Whirlpool_Aero_Car
+score: 7.3
 ---
 
 The Whirlpool Aero Car is a cable car dating from 1916 that crosses the Niagara Gorge at a point where the river makes a sharp bend, creating the famous Niagara Whirlpool — a permanent vortex where the green water churns in violent circles 30 metres below the cable car. The crossing takes about ten minutes and gives a view of the gorge walls, the rapids, and the whirlpool that cannot be seen from the shore.

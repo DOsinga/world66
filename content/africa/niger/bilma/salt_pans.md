@@ -13,6 +13,7 @@ story: >
   hundred cones in a season, working the brine pools with palm-frond
   scoops and wooden moulds — the same technique the Kanouri salt workers
   used when Hausa traders first came north for it a thousand years ago.
+score: 9.2
 ---
 
 The salt pans are the reason Bilma is here. A patchwork of shallow rectangular brine pools — some clear, some red, some green with algae — spreads east of the town for a couple of kilometres, worked by Kanouri families who have done this work for generations. The pools are fed by salty springs; the water evaporates in the sun, and the residue is scraped into wooden moulds to make the distinctive cone-shaped blocks of salt.

@@ -14,6 +14,7 @@ story: >
   to a family mausoleum outside Madrid — part of a years-long legal and political battle over the
   site's future. The 150-metre cross above the basilica, visible for miles in every direction, remains
   one of the most contested monuments in Spain.
+score: 6.8
 ---
 
 The Valley of the Fallen is a Civil War memorial and underground basilica built under Franco between 1940 and 1959, located about 10 kilometres north of El Escorial in the Guadarrama mountains. A 150-metre granite cross tops the hill above; the basilica itself is carved into the rock below, 260 metres long and 40 metres high. It was built partly by Republican prisoners of war using forced labour — a fact that makes the site deeply controversial.

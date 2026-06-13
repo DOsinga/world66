@@ -8,6 +8,7 @@ latitude: 32.0132
 longitude: 120.8648
 story: >
   Zhang Jian founded the Nantong Museum in 1905, making it one of the first purpose-built public museums in China — at a time when the concept of a public museum was still largely unknown in the country. Zhang's motivation was explicit: he believed that citizens needed direct access to natural history and cultural objects to develop an educated, progressive society. The museum's founding predates most comparable institutions in China by decades.
+score: 7.9
 ---
 
 The Nantong Museum, founded in 1905 by the reformer and industrialist Zhang Jian, is one of China's earliest purpose-built public museums and a monument to the late Qing reform movement's faith in education as a tool of national renewal. The collections are genuinely eclectic — whale skeletons, fine ceramics, calligraphy scrolls, natural history specimens, industrial exhibits — and the grounds include pleasant gardens designed in the classical Chinese style that provide a context for the buildings.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Musée du Delta
 type: poi
+score: 7.3
 ---
 
 The small museum on the island covers the history of Saint-Louis from its founding as a French trading post through to Senegalese independence. The collection includes colonial-era maps, photographs, and artefacts that give useful context before you walk the streets. The building itself — a restored colonial house — is part of the attraction. Opening hours can be erratic; mornings are your best bet.

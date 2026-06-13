@@ -6,6 +6,7 @@ longitude: -98.5014
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 A tiny "cobblestone village" of around 400 people just outside the Wichita Mountains, built in the 1900s as a spa resort and given a thorough revival in the 1990s. Almost every building is faced with rounded river cobbles. The village sits on Medicine Creek; the natural swimming hole at the centre, with its dam-fed pool, is open in summer.

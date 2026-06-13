@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.1335
 longitude: -104.8221
+score: 6.9
 ---
 
 A privately founded museum of Western Americana housed in a renovated downtown building on House Avenue. The Nelson covers the high-end end of the genre: the kind of period saddles, custom firearms, military uniforms, Plains Indian beadwork, and Western paintings that most state museums can't afford. The bronze of the cowboy on the front of the building is by Avard Fairbanks.

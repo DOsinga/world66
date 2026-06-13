@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 story: "Among the regular cave fauna, Baredine houses the olm — a blind, pale, eel-like salamander that lives only in the karst caves of the Dinaric Alps. Locals once thought olms were baby dragons, washed up out of the underworld in floods. A few are kept in a tank near the cave entrance for visitors to see."
+score: 7.4
 ---
 
 Seven kilometres north-east of Porec, just off the road to Visnjan, the limestone karst opens into a 132-metre-deep show cave that has been guided since 1995. The descent takes you through five chambers, each with extraordinary calcite formations — including a slender column known as the "Snowman" and a chamber where stalactites and stalagmites have almost grown together over millennia.

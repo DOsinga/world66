@@ -4,6 +4,7 @@ type: poi
 latitude: 36.4500
 longitude: 58.9667
 tags: [day_trips, nature]
+score: 6.2
 ---
 
 The Binalud range rises immediately west of Mashhad to a high point of 3211 m at Mount Binalud itself. The lower slopes are easily accessible by car — the road over the pass between Mashhad and Neyshabur reaches 2100 m — and the upper peaks are popular with weekend hikers from Mashhad.

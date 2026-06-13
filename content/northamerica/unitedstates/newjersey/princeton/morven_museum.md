@@ -9,6 +9,7 @@ tags:
   - architecture
 latitude: 40.34749
 longitude: -74.66695
+score: 7.5
 ---
 
 Morven is a mid-eighteenth-century brick house on Stockton Street — built around 1758 for Richard Stockton, a signer of the Declaration of Independence — that served as the Governor of New Jersey's official residence from 1953 to 1981 before passing to the state as a museum. The house and gardens together cover an entire block.

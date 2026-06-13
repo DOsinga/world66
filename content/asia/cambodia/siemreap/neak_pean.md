@@ -13,6 +13,7 @@ story: Neak Pean sits on an artificial island in the centre of the Jayatataka ba
   visited by pilgrims seeking cures for the illness corresponding to that element.
   The whole structure was essentially a 12th-century sacred healing spa on a massive
   hydraulic engineering project.
+score: 7.3
 ---
 
 **Neak Pean** ("Coiled Serpents") is a small but uniquely atmospheric temple on an artificial island in the centre of the now-dry Jayatataka baray, the northern reservoir of Angkor Thom. Built by Jayavarman VII in the late 12th century, the temple represents the legendary Himalayan lake of **Anavatapta**, whose waters were said to cure all illness. A long wooden walkway leads out across the old reservoir bed to the island; the approach through the dry landscape dotted with trees has an almost otherworldly quality.

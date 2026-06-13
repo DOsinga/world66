@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 32.1003
 longitude: 34.7950
+score: 7.7
 ---
 
 The Eretz Israel Museum sits in the Ramat Aviv neighbourhood north of central Tel Aviv and is the country's main regional museum of archaeology and material culture. The collection is organised in pavilions across a park — coins, ceramics, glass, ethnography — built around the Tell Qasile excavation, an active Philistine archaeological site from the twelfth century BC.

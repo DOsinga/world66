@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.4630
 longitude: -2.4520
+score: 8.7
 ---
 
 The south end of Herm rises into proper cliffs — eighty metres above the sea at the highest point — with a coastal path running the whole way along the top. The view east to **Sark** across the open sea is one of the great Channel Islands views.

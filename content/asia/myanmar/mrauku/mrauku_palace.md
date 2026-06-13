@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 20.5910
 longitude: 93.1920
 snippet: "Foundations of the Rakhine royal palace, with archaeological museum"
+score: 7.6
 ---
 
 In the centre of the modern town, a low walled enclosure marks the site of the Rakhine royal palace. The wooden buildings burned long ago — the Burmese armies who sacked Mrauk-U in 1784 destroyed nearly everything that would not survive a torch — but the stone foundations, the moats and three concentric walls give a sense of the scale. The palace at its height housed several thousand people.

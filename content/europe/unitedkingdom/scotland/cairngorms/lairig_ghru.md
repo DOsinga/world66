@@ -14,6 +14,7 @@ story: >
   today it remains a genuine mountain day that demands respect and proper equipment.
 sources:
   - https://en.wikipedia.org/wiki/Lairig_Ghru
+score: 9.2
 ---
 
 The Lairig Ghru is one of the classic mountain passes in Scotland, a deep glacial trench cutting through the heart of the Cairngorm plateau from Aviemore in the north to Braemar in the south. The full crossing covers about 30 kilometres and gains 840 metres at the high point, typically taking eight to ten hours for fit walkers. Most people do it as a single long day with a car shuttle; some camp at the Corrour Bothy near the southern end.

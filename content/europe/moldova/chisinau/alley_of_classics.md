@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.0256
 longitude: 28.8274
+score: 7.6
 ---
 
 A leafy walk on the western side of the Stephen the Great Park, lined on both sides by 28 bronze busts of Romanian-language writers — from the medieval chroniclers to 20th-century poets. Begun in 1957 during a brief Khrushchev-era thaw, the alley remains one of the most ambitious literary monuments in Eastern Europe.

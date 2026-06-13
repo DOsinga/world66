@@ -9,6 +9,7 @@ tags:
 - museum
 title: Museo Arquidiocesano de Arte Religioso
 type: poi
+score: 7.2
 ---
 
 A fine collection of colonial religious art gathered from churches across Popayan and the wider Cauca region. Gold monstrances, vestments, paintings, and liturgical silver. The building itself is a restored colonial house. Open Tuesday to Friday 8:30am to 12:30pm and 2:30pm to 5:30pm, Sunday 10am to 2pm. Calle 4a No. 4-56.

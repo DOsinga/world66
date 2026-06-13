@@ -8,6 +8,7 @@ tags:
 latitude: 52.5127
 longitude: 5.0542
 story: "Edam cheese is almost never made in Edam anymore — the town lent its name to a style, and the rounds you see here now come from factories across North Holland. The last genuine auction of locally produced cheese took place in 1922. The Waag has been a cheese museum since 1983."
+score: 7.7
 ---
 
 The 17th-century weigh house on the Kaasmarkt is the visual centrepiece of Edam and the site of the summer cheese market. The building itself is small and rather elegant — a step-gabled facade over a canal, with the mechanism for lowering the weighing scales still visible inside.

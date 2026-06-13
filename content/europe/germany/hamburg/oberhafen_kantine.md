@@ -8,6 +8,7 @@ tags:
 - restaurant
 address: Stockmeyerstrasse 39
 story: "The Oberhafen-Kantine has leaned a noticeable 5 degrees since the Sturmflut storm flood of 1962 undermined the brick foundations. The owners have left it that way — partly out of charm, partly because shoring it would cost more than the building is worth. Beer glasses come with a small wedge of cardboard under one side to keep them level."
+score: 6.7
 ---
 
 The Oberhafen-Kantine, an Edwardian dockside canteen leaning visibly to one side, has been serving plain workers' food on the Hamburg riverside since 1925. The brick-and-clinker building was thrown together for the harbour's dockers and never gentrified; it has stayed open through generations of owners and is now a small cult favourite among visitors who like their food cheap and honest.

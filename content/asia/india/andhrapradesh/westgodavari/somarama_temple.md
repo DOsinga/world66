@@ -8,6 +8,7 @@ latitude: 16.5413
 longitude: 81.5351
 story: >
   The Pancharama temples are said to have been established after the defeat of the demon Tarakasura, whose body was divided into five lingams which fell to earth at these five locations. Each temple was built over one of the fallen lingams. The Somarama temple's lingam is called Someswara, believed to be one of the swayambhu (self-manifested) forms of Shiva.
+score: 7.4
 ---
 
 The Somarama temple in Bhimavaram is one of the five Pancharama Kshetras — ancient Shiva temples of great sanctity in the Godavari delta region. Built during the Chalukya period and expanded over subsequent centuries, the temple complex is dedicated to Someswara (Shiva) and draws Hindu pilgrims from across Andhra Pradesh and Telangana.

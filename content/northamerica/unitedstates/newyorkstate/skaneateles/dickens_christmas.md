@@ -8,6 +8,7 @@ tags:
 - sight
 title: Dickens Christmas
 type: poi
+score: 7.9
 ---
 
 For four weekends in December, Skaneateles transforms into a small Victorian-era town. Locals in top hats, bonnets and street-urchin rags wander the main street, sing carols, perform short scenes from Dickens, and generally pretend it is 1843. Father Christmas takes letters at the gazebo, and the shop windows fill with traditional displays.

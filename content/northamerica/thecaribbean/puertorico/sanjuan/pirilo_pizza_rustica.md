@@ -8,6 +8,7 @@ tags:
   - restaurant
   - old_san_juan
 neighbourhood: Old San Juan
+score: 6.2
 ---
 
 A pizza-by-the-slice and craft-beer spot on Calle San Sebastián that has become a defining late-night stop for residents of the old city. The dough is fermented two days; toppings rotate (the truffle, the four-cheese, and the chorizo are the standards) and the slices are enormous.

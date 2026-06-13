@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Plague columns were a common form of public thanksgiving in Habsburg Central Europe after major outbreaks of plague subsided. The Timisoara column was commissioned by the city's German burghers after the plague of 1738-9, which is reported to have killed around 1,000 residents — perhaps a third of the urban population at the time."
+score: 6.6
 ---
 
 The St. Mary and St. John of Nepomuk Monument stands at the centre of Liberty Square — a tall stone column completed in 1756 in thanksgiving for the city's deliverance from the 1738-9 plague. The column is carved with figures of the Virgin Mary at the top, the Habsburg saint John of Nepomuk at the base, and a procession of cherubs and saints around the upright shaft.

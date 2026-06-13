@@ -10,6 +10,7 @@ tags:
 - historic_house
 title: Marjory Stoneman Douglas House
 type: poi
+score: 7.3
 ---
 
 The modest cottage where Marjory Stoneman Douglas lived for 79 years, writing the book that saved the Everglades. Her 1947 work The Everglades: River of Grass reframed the swamp as a vital ecosystem and galvanised the conservation movement that led to Everglades National Park. Douglas continued campaigning for the Everglades until she died here in 1998 at the age of 108. The house is a National Historic Landmark. It is not regularly open to the public, but the exterior can be seen from the street, and it is a fitting pilgrimage for anyone heading to the Everglades from Miami.

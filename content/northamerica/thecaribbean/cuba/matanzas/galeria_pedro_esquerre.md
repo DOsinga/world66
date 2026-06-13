@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 23.045357
 longitude: -81.574475
+score: 6.3
 ---
 
 The main fine arts gallery of Matanzas province, housed in a colonial building near the Plaza de la Vigía. The gallery presents rotating exhibitions of Cuban paintings, prints, and sculpture, with a focus on artists from Matanzas province. The permanent collection includes works from the 19th and 20th centuries, and the gallery hosts occasional openings and cultural events.

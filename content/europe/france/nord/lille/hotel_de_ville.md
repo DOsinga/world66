@@ -8,6 +8,7 @@ tags:
 latitude: 50.6306
 longitude: 3.0711
 snippet: Art Deco city hall with a 104-metre belfry — the tallest in France, with views across the Flemish plain
+score: 7.1
 ---
 
 Lille's Hôtel de Ville is a massive Art Deco complex built in 1932, its most distinctive feature a 104-metre belfry that is the tallest belfry in France. The building replaced an earlier city hall destroyed in the First World War and was designed in a Flemish Art Deco style that bridges the gap between the region's traditional architecture and the modernist ambitions of the interwar period — stepped gables in brick, but with the clean lines and decorative restraint of Art Deco rather than the ornament of the 17th century.

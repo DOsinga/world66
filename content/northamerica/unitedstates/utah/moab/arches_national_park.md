@@ -8,6 +8,7 @@ latitude: 38.6165
 longitude: -109.6198
 story: >
   Edward Abbey worked as a park ranger at Arches in the late 1950s and wrote Desert Solitaire (1968) from his experience — a fierce, lyrical account of the desert landscape and a critique of the tourism infrastructure being built to make it accessible. The book helped define the American wilderness writing genre. Abbey's ashes were scattered in the desert near Moab in 1989.
+score: 9.7
 ---
 
 Arches National Park contains more than 2,000 natural sandstone arches within a compact area of desert canyon, making it one of the most concentrated arch formations on earth. The park is five miles north of Moab on US-191 — close enough that it can feel like an extension of the town rather than a separate wilderness.

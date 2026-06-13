@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.7626
 longitude: 8.2414
+score: 7.0
 ---
 
 The Stiftskirche (Collegiate Church), on the Marktplatz above the Roman baths, is the most prominent religious building in the old town. The current structure mixes 13th-century Gothic with 15th-century vaulting and Baroque additions made after the church was damaged during the 17th century French invasions.

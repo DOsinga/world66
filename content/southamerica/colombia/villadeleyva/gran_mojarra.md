@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 5.634
 longitude: -73.527
+score: 6.2
 ---
 
 La Gran Mojarra is one of the most popular restaurants in Villa de Leyva with locals and regular visitors alike. The speciality is grilled mojarra — a freshwater fish served with fried plantains, papaya salad, and rice. It is a simple, honest Colombian meal done well and at fair prices. The portions are generous.

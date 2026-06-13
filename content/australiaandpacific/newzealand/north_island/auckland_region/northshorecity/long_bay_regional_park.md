@@ -8,6 +8,7 @@ tags:
   - park
 latitude: -36.686
 longitude: 174.754
+score: 7.8
 ---
 
 The northernmost of the East Coast Bays and one of Auckland's best coastal parks. Long Bay has a wide sandy beach sheltered enough for swimming, with rock pools at the northern end that are good for children at low tide. Behind the beach, walking tracks climb through regenerating coastal forest with views back down the coast.

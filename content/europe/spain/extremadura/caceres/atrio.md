@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.4741
 longitude: -6.3718
+score: 7.4
 ---
 
 Atrio is the finest restaurant in Extremadura and one of the best in Spain, holding two Michelin stars. It occupies a purpose-built contemporary hotel building inside the Ciudad Monumental, its glass-and-stone architecture a deliberate contrast to the surrounding medieval palaces. The kitchen, run by Toño Pérez, is rooted in Extremaduran ingredients — Ibérico pork, game, local vegetables and cheese — interpreted with considerable technical ambition.

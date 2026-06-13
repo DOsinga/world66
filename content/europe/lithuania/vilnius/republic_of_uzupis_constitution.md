@@ -10,6 +10,7 @@ tags:
   - landmark
   - uzupis
 neighbourhood: Užupis
+score: 6.2
 ---
 
 On Paupio Street in Užupis, a long wall displays the constitution of the self-declared Republic of Užupis in some 25 languages, each section on its own polished metal plaque. The constitution's articles manage to be simultaneously comic and genuinely idealistic: every person has the right to be happy, dogs have the right to be dogs, and everyone has the right to make mistakes.

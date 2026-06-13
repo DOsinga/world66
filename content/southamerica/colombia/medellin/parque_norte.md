@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Parque Norte
 type: poi
+score: 5.2
 ---
 
 An unironic 1970s-style city amusement park north of downtown — log flume, dodgems, ferris wheel, a roller coaster that has seen better days, paddle boats on an artificial lake. Cheap, cheerful, and busy at weekends with local families; useful entertainment for travellers with children. Across the avenue from the [Jardín Botánico](/southamerica/colombia/medellin/jardin_botanico) and [Parque Explora](/southamerica/colombia/medellin/parque_explora) so easy to combine into a long northbound day.

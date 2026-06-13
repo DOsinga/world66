@@ -7,6 +7,7 @@ tags:
 - sight
 title: Lu Xun Park
 type: poi
+score: 6.8
 ---
 
 A seaside park tucked between the coastline and the old German quarter, named after Lu Xun, the writer widely regarded as the father of modern Chinese literature. The park was built in 1929 and sits on a stretch of rocky shoreline with views across to Little Qingdao Island and its lighthouse.

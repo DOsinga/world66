@@ -9,6 +9,7 @@ tags:
 - wilderness
 title: Rattlesnake National Recreation Area
 type: poi
+score: 8.1
 ---
 
 The Rattlesnake National Recreation Area and Wilderness lies directly north of Missoula, beginning where the city's streets end. The main trail up the Rattlesnake Creek drainage starts from the parking area at the end of Van Buren Street and immediately enters the Recreation Area, with the designated Wilderness beginning a few kilometres further up. The creek itself is clear and cold — in summer, swimming holes along the lower trail are popular with locals.

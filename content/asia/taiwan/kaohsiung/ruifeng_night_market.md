@@ -8,6 +8,7 @@ tags:
 latitude: 22.6724
 longitude: 120.3088
 snippet: The largest and most local night market in Kaohsiung
+score: 7.4
 ---
 
 Twice the size of Liuhe and where Kaohsiung locals actually go to eat. Ruifeng operates Tuesday, Thursday, Friday, Saturday and Sunday nights and packs hundreds of stalls along narrow alleys near Kaohsiung Arena MRT.

@@ -7,6 +7,7 @@ tags:
 - park
 title: Birmingham Botanical Gardens
 type: poi
+score: 7.7
 ---
 
 Sixty-seven acres of gardens in the Southside neighborhood near the Birmingham Zoo, with no admission charge. The Japanese garden is one of the most authentic in the Southeast — designed in 1962 with input from Japanese landscape architects and improved steadily since. The fern glade, the Southern Living garden, and the rose garden are the other highlights.

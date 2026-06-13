@@ -8,6 +8,7 @@ tags:
 latitude: 45.5601
 longitude: 18.6967
 snippet: "Croatia's largest general museum, in Tvrđa's 18th-century Magistrate building"
+score: 7.9
 ---
 
 The Museum of Slavonia occupies the 18th-century Magistrate building on the main square of Tvrđa, and is the largest general museum in Croatia. The collection covers the archaeology, natural history, ethnography, and cultural history of Slavonia from prehistoric times through the modern period.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 48.80336
 longitude: 2.12069
+score: 7.7
 ---
 
 The Galerie des Batailles runs 120 metres along the first floor of the south wing, added by King Louis-Philippe in 1837 when he converted the palace into a museum dedicated to "all the glories of France." Thirty-three enormous paintings line the walls, each depicting a French military victory from Tolbiac in 496 to Wagram in 1809 — a panoramic sweep through 1,300 years of French arms.

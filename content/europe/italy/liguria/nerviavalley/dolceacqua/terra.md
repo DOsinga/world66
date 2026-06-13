@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 43.8512
 longitude: 7.6225
+score: 8.3
 ---
 
 The Terra is the older of Dolceacqua's two quarters, stacked up the hillside on the right bank of the Nervia. It is a small medieval maze of vaulted passages, stone arches across the alleys, low doorways, and steep stepped streets that loop around eventually back to where you started. Cars cannot enter, and most of the houses still belong to working families rather than holiday-letters.

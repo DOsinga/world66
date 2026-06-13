@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, seafood]
 latitude: 31.302
 longitude: -113.520
+score: 6.9
 ---
 
 The restaurants and stalls along the Malecón are the best eating in Puerto Peñasco — consistently better and cheaper than anything in the resort zone. The staple is shrimp: by the kilo, in tacos, in soups (aguachile and ceviche), or in the local campechana, a cocktail of shrimp, octopus, and fish in a spiced tomato broth. Fresh fish tacos are a close second, and the tortillas are made by hand.

@@ -5,6 +5,7 @@ snippet: "Site of the Roman naval base that anchored the western coast"
 tags: [things_to_do, sight, historic_site]
 latitude: 54.3492
 longitude: -3.4042
+score: 5.3
 ---
 
 The walls of Glannoventa Roman fort once enclosed a four-acre square just south of Ravenglass village, overlooking the harbour where the Esk, Mite, and Irt meet. Built around AD 130, the fort housed an auxiliary unit of around 500 men and served as the naval terminus for the western flank of Hadrian's Wall.

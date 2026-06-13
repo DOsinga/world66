@@ -6,6 +6,7 @@ latitude: 39.77583
 longitude: 64.41417
 story: >
   The Mir-i-Arab Madrasah, the blue-tiled theological school that faces the minaret, has been in continuous operation since 1535 — even through the Soviet period, when it was one of only two functioning Islamic seminaries in the entire USSR. The Soviets kept it open partly to demonstrate religious tolerance to foreign visitors, making it a propaganda showpiece that nonetheless kept Uzbek Islamic scholarship alive.
+score: 9.6
 ---
 
 The Po-i-Kalyan complex — "At the Foot of the Great One" — is the heart of Bukhara's old city and one of the most complete medieval Islamic ensembles in Central Asia. Three major monuments share a single plaza: the Kalyan Minaret (1127), the Kalan Mosque, and the Mir-i-Arab Madrasah. The ensemble was assembled over five centuries and yet reads as a coherent whole.

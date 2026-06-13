@@ -6,6 +6,7 @@ latitude: -38.3848
 longitude: 142.4779
 story: >
   The pride of the collection is a Minton peacock tile panel salvaged from the Loch Ard, which sank in 1878 just 60 metres from shore in the Gorge. Two survivors clung to wreckage in the dark and were pulled to safety by a local — but 52 passengers and crew drowned. The peacock was bound as a gift for an international exhibition and never reached its destination.
+score: 8.3
 ---
 
 Flagstaff Hill Maritime Museum is a recreated 19th-century port village spread across the headland south of town. The site incorporates the original Warrnambool lighthouses — still functioning as navigation aids — alongside warehouses, a sail loft, a smithy, and a chandlery filled with the tools and cargo of a working colonial harbour. The collection centres on artefacts salvaged from the many ships that came to grief on the so-called Shipwreck Coast, one of the most treacherous stretches of water in the southern hemisphere.

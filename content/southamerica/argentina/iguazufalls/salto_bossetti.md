@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Twin-tier cataract best viewed from below on the Lower Circuit
+score: 7.8
 ---
 
 Salto Bossetti is one of the most distinctive of the named cataracts on the Argentinian side — a 65-metre drop that splits in two and rejoins partway down, with a small ledge in the middle that catches and amplifies the spray. It is best seen from the platform on the Lower Circuit, where the boardwalk runs almost into the splash zone.

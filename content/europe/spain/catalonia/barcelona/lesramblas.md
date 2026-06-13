@@ -9,6 +9,7 @@ tags:
 - sights
 title: Les Ramblas
 type: poi
+score: 8.3
 ---
 
 Barcelona's most famous street runs about 1.2 kilometres from Placa de Catalunya down to the Columbus monument at the waterfront. The wide, tree-lined central promenade is always busy with locals and visitors, and it makes a natural spine for exploring the old city on either side -- the Barri Gotic to the east, El Raval to the west.

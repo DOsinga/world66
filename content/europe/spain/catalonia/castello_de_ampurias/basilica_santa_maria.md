@@ -15,6 +15,7 @@ story: >
   you as much about the town's medieval ambition as about the building itself.
   It was never a bishop's seat, but Castello wanted a church grand enough for a
   capital, and it got one.
+score: 8.1
 ---
 
 The Basilica of Santa Maria dominates Castello d'Empuries with a scale that feels almost improbable in such a small town. Its Gothic nave, heavy west front and tall bell tower announce the power the counts of Empuries once held here.

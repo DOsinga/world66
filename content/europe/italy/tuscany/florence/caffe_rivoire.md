@@ -14,6 +14,7 @@ tags:
 - cafe
 title: Caffè Rivoire
 type: poi
+score: 6.4
 ---
 
 One of Florence's most storied historic cafes, on the corner of Piazza della Signoria with views directly onto Palazzo Vecchio and the Loggia dei Lanzi. The traditional breakfast stop before starting a day in the city — espresso and pastry at the bar with one of the best views in Florence. Known also for its chocolate and hot chocolate.

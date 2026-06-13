@@ -10,6 +10,7 @@ tags:
 - restaurant
 title: Cantinetta dei Verrazzano
 type: poi
+score: 6.8
 ---
 
 A bustling bakery and cantina owned by the Verrazzano winery in Chianti, serving their estate white wines alongside freshly baked focaccia, crostini, and tramezzini. One of the most useful stops in the centro storico for a standing lunch or late-morning snack — good ingredients, fair prices, and a wine list of their own production.

@@ -12,6 +12,7 @@ tags:
 - museum
 title: Folk Heritage Museum
 type: poi
+score: 7.4
 ---
 
 A well-preserved traditional Bhutanese farmhouse turned museum in the Kawajangsa district, a short walk uphill from central Thimphu. Three floors cover different aspects of traditional rural life: the ground floor was used for livestock and storage, the middle floor for living and cooking, and the top for religious practice. The guides explain how families actually lived in these spaces — a useful corrective to the abstracted presentations in larger museums. Small, uncrowded, and genuinely interesting. Open daily except Sundays.

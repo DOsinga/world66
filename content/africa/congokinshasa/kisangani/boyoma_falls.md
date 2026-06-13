@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Boyoma Falls
 type: poi
+score: 8.9
 ---
 
 The reason Kisangani exists. Boyoma Falls — known until independence as Stanley Falls, after Henry Morton Stanley, who described them in 1877 — is a series of seven cataracts running for about 100 km along a great curve of the upper Congo (Lualaba) River between Ubundu and Kisangani. Each cataract is at most 5 metres high, but together they form an impenetrable barrier to navigation: the limit of the great navigable river from Kinshasa, 1,700 km downstream.

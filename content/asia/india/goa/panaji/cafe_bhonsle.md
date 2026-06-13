@@ -7,6 +7,7 @@ snippet: "Working-class coffee shop running since the 1940s"
 tags:
 - bars_and_cafes
 - cafe
+score: 7.6
 ---
 
 Café Bhonsle has been on the same corner near the bus stand since 1947 — one of the oldest continuously operating coffee houses in Goa, and a fixture in the morning routine of the city's older residents. The setup is unchanging: a long marble counter, half a dozen wooden tables and benches, a cabinet of buns and sweet pastries on the wall.

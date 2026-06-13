@@ -8,6 +8,7 @@ tags:
   - shopping
 latitude: 41.3625
 longitude: 69.2778
+score: 6.6
 ---
 
 A sprawling commercial bazaar in the northern outskirts of the city — Tashkent's main wholesale market, where everything from electronics and clothing to spices and dried fruit moves through. Not the prettiest market in the city (Chorsu wins easily) but the place where everyday Uzbek commerce actually happens.

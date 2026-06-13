@@ -7,6 +7,7 @@ tags:
 - shopping
 title: Odysseum
 type: poi
+score: 4.7
 ---
 
 The eastern terminus of tramline 1 — about 20 minutes from Place de la Comédie — opens onto Odysseum, a large 2000s development designed to give Montpellier a modern leisure and shopping hub. It's not pretty in any architectural sense, but it works.

@@ -14,6 +14,7 @@ story: >
   The island moves roughly one metre per year.
 sources:
   - https://en.wikipedia.org/wiki/Wangerooge
+score: 7.0
 ---
 
 The old lighthouse (Alter Leuchtturm) was built in 1856 and still stands in what is now the village centre — a situation that reflects the island's slow eastward drift over time. It no longer functions as a navigational aid but has been converted into a viewing tower open to visitors in summer. The climb rewards with a panoramic view across the island's dunes, the village, and the Wadden Sea to the south.

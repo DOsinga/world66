@@ -8,6 +8,7 @@ tags:
 - religion
 title: Iglesia San Francisco
 type: poi
+score: 6.6
 ---
 
 Two blocks east of Plaza Belgrano, the Franciscan church and its tall bell tower sit at the head of a small plaza of their own. The pink-washed neoclassical facade, finished in the late nineteenth century, replaced a much older colonial structure on the same site. The Franciscans have been in Jujuy almost continuously since the city's founding in 1593.

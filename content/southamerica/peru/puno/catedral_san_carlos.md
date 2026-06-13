@@ -6,6 +6,7 @@ latitude: -15.8411
 longitude: -70.0292
 snippet: Mestizo-baroque cathedral on the Plaza de Armas, finished in 1757
 story: The facade was carved over more than thirty years by indigenous and mestizo sculptors, weaving local symbolism — pumas, monkeys, Andean flora — into a fundamentally Spanish baroque template. The interior, by contrast, was stripped during the wars of independence and is now relatively spare.
+score: 8.1
 ---
 
 The standout building in Puno, completed in 1757 and one of the finest mestizo-baroque facades in southern Peru. The carved stonework on the front — pale volcanic stone against the high altiplano sky — is dense with religious symbols mixed with native Andean motifs: small puma heads, twisting fruit, and stylised flowers worked into the classical pilasters.

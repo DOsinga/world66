@@ -16,6 +16,7 @@ story: >
   finished in 2003 and the completed structure stands 33 metres tall — making
   it the largest Buddhist stupa in the Western world, an unexpected landmark
   above the Costa del Sol.
+score: 7.7
 ---
 
 Rising 33 metres from the hillside above Benalmádena Pueblo, this is the largest Buddhist stupa in the Western world — a striking piece of Tibetan religious architecture in the last place you might expect to find it. Built between 1994 and 2003 and consecrated by the Dalai Lama, the stupa is decorated with detailed mandala paintings and contains a chamber open for meditation. The surrounding gardens have views down over the white village of Benalmádena Pueblo and across to the coast. Entry is free, though donations are welcome. It is a short taxi ride or a 20-minute uphill walk from Arroyo de la Miel.

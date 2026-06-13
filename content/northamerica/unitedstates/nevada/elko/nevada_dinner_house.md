@@ -7,6 +7,7 @@ tags:
   - basque
 latitude: 41.198
 longitude: -115.331
+score: 7.1
 ---
 
 The Nevada Dinner House is the other essential Basque restaurant in Elko, slightly more polished than the Star Hotel but following the same family-style tradition. Soup, salad, bread, beans, and a main course arrive at the table in sequence; the lamb dishes are consistently good, and the oxtail stew when available is worth ordering.

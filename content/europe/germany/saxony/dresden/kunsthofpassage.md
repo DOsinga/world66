@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 story: "In the Hof der Elemente courtyard of the Kunsthofpassage, the drainpipes and gutters on the wall have been arranged by artists Annette Paul, Christoph Roßner, and André Tempel into a system of funnels and channels that produce musical tones when it rains. The water is collected and directed through pipes of different diameters, creating a gentle, unpredictable concert every time it rains in Dresden."
+score: 7.8
 ---
 
 The Kunsthofpassage is a series of connected courtyards in Dresden's Äußere Neustadt — the alternative quarter north of the Elbe — where local artists transformed a row of neglected 19th-century apartment blocks into one of the most inventive public art spaces in eastern Germany. Each courtyard has a different theme and was designed by a different group of artists.

@@ -12,6 +12,7 @@ story: >
   The same carousel appeared in The Sting (1973), used as the backdrop for a key scene between
   Paul Newman and Robert Redford. It was not chosen for nostalgia — the film needed a working
   carousel and this was one of the few left on the West Coast.
+score: 7.9
 ---
 
 The Looff Hippodrome, built in 1916 and housing a hand-carved 1922 carousel, is a National Historic Landmark sitting at the entrance of the pier. The carousel operates daily, its 44 horses and chariots still running on the original Charles Looff mechanism. A ride costs a few dollars; the horses are painted in the original colours and the organ plays mechanically.

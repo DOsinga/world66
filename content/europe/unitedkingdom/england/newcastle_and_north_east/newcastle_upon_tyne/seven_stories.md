@@ -9,6 +9,7 @@ tags:
 - museum
 - ouseburn
 snippet: The UK's national centre for children's books
+score: 7.7
 ---
 
 A converted Ouseburn warehouse housing the National Centre for Children's Books — exhibitions, original manuscripts and artwork from Beatrix Potter through Philip Pullman to modern picture-book illustrators, and a year-round programme of storytelling, workshops, and author visits. The top-floor space is set up for children to read, draw, and try out the exhibitions hands-on.

@@ -9,6 +9,7 @@ latitude: 66.55
 longitude: -18.0
 story: >
   Grímsey is Iceland's northernmost inhabited point and sits directly on the Arctic Circle — or rather, the Arctic Circle passes through it, though due to the slow wobble of the Earth's axial tilt, the circle's position shifts about 15 metres northward each year. A concrete globe marks where the circle crosses the island, and visitors who arrive by sea can pick up an Arctic Circle certificate from the locals.
+score: 8.7
 ---
 
 Grímsey is the main reason people come to Dalvík. The island is 40 kilometres off the north coast of Iceland's main island, reachable by ferry from Dalvík — the Sæfari ferry operates three times a week and takes about three hours each way. The population is around 60 people, most of them fishermen, and the island has a quality of isolation that is hard to find in Iceland proper.

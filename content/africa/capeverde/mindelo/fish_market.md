@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 8.3
 ---
 
 The Mercado de Peixe (fish market) is the noisy, colourful, very lively engine room of Mindelo, on the seafront just west of the Palacio do Povo. The morning fleet of small fishing boats lands its catch directly onto the slipway beside the market, and within an hour the marble counters inside are piled with wahoo, tuna, moray, lobster, octopus, and the local favourite garoupa (grouper).

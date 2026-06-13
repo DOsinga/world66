@@ -7,6 +7,7 @@ tags:
 title: The Golden Fleece
 type: poi
 snippet: "York's most haunted pub according to the ghost-tour industry, licensed since at least 1503 on Pavement"
+score: 6.8
 ---
 
 The Golden Fleece on Pavement is one of York's oldest pubs, first recorded as licensed in 1503, in a building that may be older still. The name refers to the wool trade that dominated medieval York's economy, and the pub is positioned on Pavement, one of the city's oldest markets. The building is timber-framed and multi-storey, with floors that slope and rooms that lean in the way of very old buildings.

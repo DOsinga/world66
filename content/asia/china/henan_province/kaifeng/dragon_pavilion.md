@@ -15,6 +15,7 @@ story: >
   carried away the entire Song imperial family as prisoners — an event the
   Chinese know as the Jingkang Incident — and the palace was razed. The Qing
   pavilion you see today sits metres above the original Song foundations.
+score: 7.2
 ---
 
 Dragon Pavilion occupies the site of the Northern Song imperial palace on a raised platform at the centre of Kaifeng. The current building is a Qing-dynasty structure, not a Song survivor, but it commands the same view over the city that Song emperors once enjoyed, and it's flanked by two artificial lakes — Pan Lake to the west and Yang Lake to the east — that give the complex a surprisingly grand, watery setting. Colourful willows and lotus plantings make the lakeside walk one of the more pleasant strolls in the city.

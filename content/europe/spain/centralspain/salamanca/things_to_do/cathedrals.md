@@ -3,6 +3,7 @@ title: "The Two Cathedrals"
 type: poi
 latitude: 40.960
 longitude: -5.665
+score: 9.3
 ---
 
 Salamanca has two cathedrals joined side by side. The Cathedral Vieja (Old Cathedral) was begun in the 12th century and is one of the finest Romanesque churches in Spain; its ornate Byzantine-influenced tower, the Torre del Gallo, is the defining feature of the city's skyline. Inside, the altarpiece has 53 painted panels by Nicolás Florentino dating from around 1445.

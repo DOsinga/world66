@@ -10,6 +10,7 @@ tags:
 - architecture
 title: Gedung Sate
 type: poi
+score: 8.3
 ---
 
 Bandung's most recognisable building, designed by Dutch architect J. Gerber and completed in 1920. The name means "satay building" — the decorative skewer of golden orbs on the central tower does look remarkably like a stick of satay. Built in a style that blends Dutch colonial with Javanese and Mughal elements, it now houses the West Java provincial government and is not always open to visitors, but the exterior and grounds are worth a look. The building anchors a civic precinct of similarly impressive 1920s architecture.

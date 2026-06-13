@@ -9,6 +9,7 @@ tags:
 - eating_out
 title: Ambrosia
 type: poi
+score: 4.8
 ---
 
 A casual restaurant in Armory Square, Syracuse's most lively dining and nightlife neighbourhood. The menu leans heavily on sushi alongside eclectic American dishes. The setting is relaxed and the room fills up on weekends when the square comes alive. Armory Square itself is worth a wander — a compact stretch of 19th-century brick buildings with independent shops and restaurants.

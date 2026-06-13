@@ -13,6 +13,7 @@ story: Krasnaya Street was laid out in the 1790s when the Cossack fort of Yekate
   street Krasnaya (meaning both "red" and "beautiful" in Russian) in keeping with
   the naming traditions of their Ukrainian homeland. The street has been the social
   centre of the city for over 200 years.
+score: 7.7
 ---
 
 Krasnaya Street is the pedestrianised main boulevard of Krasnodar, running through the heart of the historic centre and lined with 19th-century merchant buildings, Soviet-era cinemas, churches, and modern shops. On warm evenings, the street fills with people promenading between the fountains and cafe terraces — a southern Russian social ritual that has been going on since the 19th century.

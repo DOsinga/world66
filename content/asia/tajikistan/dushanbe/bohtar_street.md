@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 38.5785
 longitude: 68.7900
+score: 7.1
 ---
 
 Bokhtar Street runs parallel to Rudaki Avenue a few blocks east, and represents an older, more local face of Dushanbe. The street has some of the best traditional restaurants and tea houses in the city, the Gurminj Museum of Musical Instruments, and a more relaxed commercial atmosphere away from the main boulevard.

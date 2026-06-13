@@ -8,6 +8,7 @@ story: Jesolo's beach claims one of the longest stretches of fine sand on the Ad
 tags:
 - things_to_do
 - beach
+score: 8.2
 ---
 
 The whole reason Lido di Jesolo exists. Fifteen kilometres of fine, golden sand running between the Sile river mouth and Cavallino, divided into about thirty *stabilimenti* — private beach clubs where you rent an umbrella and two sunbeds for the day or week. Each club has its own colour scheme and personality, but the offer is similar: a row of cabins for changing, a beach bar with cold drinks, and an attendant to set up the loungers.

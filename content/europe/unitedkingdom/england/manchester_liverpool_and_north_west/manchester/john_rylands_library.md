@@ -19,6 +19,7 @@ story: >
   of John that is the oldest surviving piece of New Testament text in the world.
 sources:
   - https://en.wikipedia.org/wiki/John_Rylands_Research_Institute_and_Library
+score: 9.6
 ---
 
 Tucked behind an inconspicuous Gothic facade on Deansgate, the John Rylands Library is one of the finest Victorian buildings in Britain and, astonishingly, free to enter. The neo-Gothic interior — all carved stone, vaulted ceilings, and stained glass — was designed to evoke a medieval Oxford college, and it succeeds so completely that it has been used as a filming location for period productions too numerous to list.

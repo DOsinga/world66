@@ -11,6 +11,7 @@ latitude: 45.413
 longitude: -72.894
 story: >
   Yamaska National Park is one of Quebec's smallest national parks, centred on a reservoir lake created by damming the Yamaska River. The dam was built in the 1960s, and the resulting lake — Lac Boivin — has become a popular recreational area. The park protects the surrounding marshes and forests, which are important wetland habitats and an excellent spot for bird watching during migration season.
+score: 7.4
 ---
 
 Yamaska National Park sits on the edge of Granby and is the easiest escape from the city for swimming, cycling, and walking. The park centres on a reservoir with sandy beaches that fill up with local families on summer weekends. The water is warm enough to swim comfortably from June through August.

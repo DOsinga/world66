@@ -12,6 +12,7 @@ story: >
   curators are largely former radio engineers and ham radio operators — men who
   spent their careers in broadcast and now spend their retirement explaining
   exactly how all of it worked.
+score: 8.1
 ---
 
 The Museum of Radio and Technology is housed in a converted elementary school in the Westmoreland neighbourhood and is one of the most quietly fascinating small museums in the region. The collection spans more than a century of radio, television, and telecommunications technology — from crystal sets and early Marconi apparatus to vintage television consoles and Cold War-era communications gear.

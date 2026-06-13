@@ -7,6 +7,7 @@ tags:
 latitude: 32.5188
 longitude: -117.0147
 snippet: "Adventurous craft brewery pushing the limits of Mexican beer styles."
+score: 6.3
 ---
 
 Border Psycho Brewery lives up to its name — this is the most experimental of Tijuana's craft brewers, a small operation that has built a reputation for high-gravity ales, unusual adjuncts, and beers that start arguments about whether they've gone too far. They routinely have.

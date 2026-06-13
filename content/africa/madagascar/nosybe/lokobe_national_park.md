@@ -10,6 +10,7 @@ tags:
   - national_park
   - wildlife
 story: "Lokobe is sacred to the Sakalava who live around it, and was protected by traditional fady (taboo) long before it became a national park in 2011. Cutting trees inside the forest was prohibited under ancestor-veneration custom, which is why a fragment of primary rainforest survived on an island this small and this farmed."
+score: 9.0
 ---
 
 The southeastern tip of Nosy Be is covered by Lokobe, a small but precious survival of Sambirano lowland rainforest. The reserve is home to the black lemur, the panther chameleon, leaf-tailed geckos, boas and a dense, dripping understorey of palms, ebony and ferns.

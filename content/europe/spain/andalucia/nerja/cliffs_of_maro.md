@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Cliffs of Maro-Cerro Gordo
 type: poi
+score: 8.5
 ---
 
 A 12-kilometre stretch of unspoiled cliff coast between Maro and La Herradura (Granada), designated as a Paraje Natural in 1989 — one of the few sections of the Andalusian Mediterranean coast that has been spared development. The cliffs hold rare flora and the marine reserve below is one of the richest stretches of seabed on the Spanish coast.

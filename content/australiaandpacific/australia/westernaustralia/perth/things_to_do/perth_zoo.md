@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -31.9741
 longitude: 115.8523
+score: 7.8
 ---
 
 Perth Zoo sits across the Swan River from the CBD in South Perth, reachable by a short ferry trip from Barrack Street Jetty or Elizabeth Quay — which is itself one of the nicest ways to arrive at any zoo anywhere. The zoo was established in 1898 and remains compact by international standards, which is mostly an advantage: you can see everything properly in a day without zoo-fatigue setting in. The layout is pleasant, with good shade trees and well-designed enclosures, and it draws a genuine mix of families, school groups, and adults who have come specifically to see the animals rather than just to take the children somewhere.

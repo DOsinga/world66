@@ -8,6 +8,7 @@ tags:
   - mountaineering
 latitude: 36.2552
 longitude: 71.8419
+score: 8.8
 ---
 
 Tirich Mir is the giant of the western Hindu Kush and the dominant view from anywhere in Chitral on a clear day. The summit sits 50 km north of Chitral town, but the mountain is so massive that on a still morning it looks much closer.

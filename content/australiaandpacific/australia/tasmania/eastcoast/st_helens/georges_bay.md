@@ -6,6 +6,7 @@ longitude: 148.2300
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Georges Bay is the long, sheltered tidal lagoon at the mouth of which St Helens sits. The bay is around 8 km long and protected from the open sea by a narrow sand spit; the entrance, called the Barway, can be tricky for boats in heavy weather.

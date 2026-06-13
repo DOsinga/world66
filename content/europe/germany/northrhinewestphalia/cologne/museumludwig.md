@@ -8,6 +8,7 @@ tags:
 - museum
 title: Museum Ludwig
 type: poi
+score: 8.6
 ---
 
 type: Museums

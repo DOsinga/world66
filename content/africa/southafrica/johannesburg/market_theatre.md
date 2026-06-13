@@ -9,6 +9,7 @@ latitude: -26.2031
 longitude: 28.036
 story: >
   The theatre was built inside a former Indian fruit market. The apartheid government attempted repeatedly to shut it down or restrict its programming, without success. The building's multiple performance spaces — each converted from a different part of the market structure — are still in use today.
+score: 8.2
 ---
 
 The Market Theatre is South Africa's most historically significant theatre and still one of its most artistically interesting. Built in the shell of a Victorian-era fruit market in Newtown, it opened in 1976 and immediately became the most important venue for anti-apartheid art in the country. Athol Fugard, Barney Simon, Percy Mtwa, and Mbongeni Ngema all staged work here — plays like *Woza Albert!* and *Sizwe Banzi is Dead* that could not be performed elsewhere because they were mixed-race, politically provocative, or both.

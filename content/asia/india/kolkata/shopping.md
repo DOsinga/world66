@@ -5,6 +5,7 @@ phone: '22236519'
 title: Shopping
 type: poi
 url: www.spainflorist.com
+score: 1.6
 ---
 
 Assured and guaranteed delivery of Gifts and flowers to Kolkata, Howrah, Calcutta.

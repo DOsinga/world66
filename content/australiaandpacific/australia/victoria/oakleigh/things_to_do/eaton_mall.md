@@ -1,6 +1,7 @@
 ---
 title: "Eaton Mall"
 type: poi
+score: 8.1
 ---
 
 Eaton Mall is the pedestrianised heart of Oakleigh's Greek precinct and the main reason most visitors make the trip out from central Melbourne. The mall itself is a short block running off Portman Street, lined on both sides with Greek pastry shops, outdoor cafe tables, souvlaki restaurants, and small delis selling feta, olives, and imported Greek goods. On weekend evenings it gets genuinely crowded and loud in the best possible way — conversations in Greek and English mixing, the smell of grilled meat drifting down the street, families moving between tables.

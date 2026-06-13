@@ -16,6 +16,7 @@ story: >
   their farms.
 sources:
   - https://en.wikipedia.org/wiki/North_Dakota_State_Capitol
+score: 7.6
 ---
 
 The North Dakota State Capitol is unlike any other state capitol in the United States. Most state capitols are domed neoclassical buildings modelled on the US Capitol in Washington; North Dakota's is a 19-storey Art Deco skyscraper, the tallest building in the state, rising improbably from the flat prairie of the Missouri plateau. It is known locally as the "Skyscraper of the Prairie," and the nickname fits perfectly.

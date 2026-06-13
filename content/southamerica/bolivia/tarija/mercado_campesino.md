@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Mercado Campesino
 type: poi
+score: 8.1
 ---
 
 The Mercado Campesino is Tarija's main market and the best place to understand the local food culture. The produce section is outstanding — the valley's warm climate and fertile soil produce excellent subtropical fruits alongside Andean staples, and the variety on display in a single stall is striking. Chirimoya, tumbo, pacay, and varieties of corn you won't find in any supermarket appear alongside the familiar tomatoes, potatoes, and peppers.

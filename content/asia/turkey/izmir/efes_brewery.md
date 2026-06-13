@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 38.4364
 longitude: 27.1402
+score: 5.8
 ---
 
 Efes Pilsen — Turkey's dominant beer brand — was founded in İzmir in 1966, named after the ancient city of Ephesus nearby. The brand is now owned by AB InBev, but its identity remains firmly associated with İzmir, and İzmiris drink it with a proprietary loyalty that extends to mild contempt for visitors who ask for another brand.

@@ -11,6 +11,7 @@ snippet: "Venice's great opera house — Verdi's Rigoletto and Traviata both pre
 neighbourhood: San Marco
 story: >
   La Fenice — "the phoenix" — has burned down twice. The first fire, in 1836, left only the outer walls standing; it was rebuilt within a year. The second, in January 1996, destroyed the entire interior; investigation revealed arson by electricians trying to avoid a contract penalty. The theatre reopened in 2003, rebuilt exactly as it had been. The phoenix lives up to its name.
+score: 8.1
 ---
 
 Teatro La Fenice is one of the great opera houses of the world, with a history intimately tied to Italian musical culture. Verdi's Rigoletto and La Traviata both premiered here in the 1850s, and the house has been associated with major composers from Rossini to Britten. The current interior, meticulously reconstructed after the 1996 fire, is a riot of red velvet, gilded stucco, and elaborate stage machinery.

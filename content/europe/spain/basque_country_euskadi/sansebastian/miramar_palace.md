@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.3147
 longitude: -1.9983
+score: 6.2
 ---
 
 The Miramar Palace sits on a headland between Playa de la Concha and the smaller Playa de Ondarreta, built in 1893 as a summer residence for the Spanish royal family. It was the presence of the royals — who came every summer for nearly four decades — that established San Sebastián as a fashionable resort and drove the construction of the elegant 19th-century city centre.

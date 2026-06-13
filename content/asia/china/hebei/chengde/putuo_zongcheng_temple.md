@@ -11,6 +11,7 @@ tags:
 - things_to_do
 title: Putuo Zongcheng Temple
 type: poi
+score: 8.7
 ---
 
 The most dramatic of the Eight Outer Temples, Putuo Zongcheng was modelled closely on the Potala Palace in Lhasa. Thirteen storeys of white-washed platforms rise above the valley north of the Mountain Resort wall, topped by red halls with gilded roofs. The effect is striking: a piece of Tibet transplanted to the Hebei hills.

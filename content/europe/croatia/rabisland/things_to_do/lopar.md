@@ -8,6 +8,7 @@ latitude: 44.8350
 longitude: 14.7167
 sources:
   - https://en.wikipedia.org/wiki/Lopar,_Croatia
+score: 6.8
 ---
 
 Lopar is the main village on the northern peninsula of the island, 14 kilometres by road from Rab town. It is quieter and more workaday than the old town, with a small harbour, a handful of restaurants, and a supermarket. Most visitors come for the beaches rather than the village itself.

@@ -6,6 +6,7 @@ tags:
 latitude: -35.281
 longitude: 174.092
 snippet: Guided and self-guided kayaking through the bay's islands and coves
+score: 7.1
 ---
 
 The Bay of Islands is excellent kayaking territory: sheltered water, numerous islands to explore, and wildlife (penguins, stingrays, and the occasional dolphin) encountered at close range. Several operators in Paihia offer guided half-day and full-day trips, as well as kayak hire for experienced paddlers who want to explore independently.

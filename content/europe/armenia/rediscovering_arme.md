@@ -8,6 +8,7 @@ tags:
 - books
 title: Rediscovering Armenia Guidebook
 type: poi
+score: 7.5
 ---
 
 A thorough, independently produced guidebook covering Armenia's historical monuments, churches, and archaeological sites. The strength is in the detail: virtually every monument gets background text explaining its history, and the topographic road maps are genuinely useful for independent drivers navigating the countryside. Black and white photos throughout.

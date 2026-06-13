@@ -7,6 +7,7 @@ tags:
 - sight
 title: Mausoleum of Yugoslav Soldiers
 type: poi
+score: 5.8
 ---
 
 A neoclassical octagonal chapel set in the small park between the old town and the cathedral hill, the Mausoleum of Yugoslav Soldiers contains the remains of around 1,200 South Slav soldiers — Serbs, Croats and Slovenes — who died in the Austro-Hungarian armies during the First World War and the immediate aftermath.

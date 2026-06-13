@@ -14,6 +14,7 @@ story: >-
   first rope-and-cedar-plank version was assembled by two local Squamish
   workers with no special equipment; the current version has been replaced
   several times, most recently in 1956.
+score: 7.6
 ---
 
 The Capilano Suspension Bridge is the long pedestrian footbridge — 137 metres long, 70 metres above the Capilano River canyon — that swings between the cliffs of a temperate-rainforest gorge a few minutes north of the city. It is the single most visited attraction in metropolitan Vancouver, comfortably busier than anything in the downtown core, and the price reflects it: adult tickets are around C$70 at peak season.

@@ -15,6 +15,7 @@ story: >
   story, which became one of the great romantic legends of Hawaiian resistance.
 sources:
   - https://en.wikipedia.org/wiki/Kalalau_Trail
+score: 9.5
 ---
 
 The Kalalau Trail is the only land route into the Nā Pali Coast, running 17 kilometres each way along the cliff faces from the Keʻe Beach trailhead to Kalalau Beach. It is Kauaʻi's most celebrated hike and one of the most dramatic in the United States — the trail climbs over ridges, drops into hidden valleys, crosses streams, and skirts vertiginous drop-offs above the ocean. Only experienced hikers should attempt the full route, and permits are required for camping and for hiking beyond Hanakāpīʻai Valley.

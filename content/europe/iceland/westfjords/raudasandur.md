@@ -16,6 +16,7 @@ story: >
   throughout the day as the light changes, sometimes appearing deep orange, sometimes
   almost pink, sometimes a pale terracotta. It is one of only a handful of coloured
   sand beaches in Europe.
+score: 8.7
 ---
 
 Rauðasandur is a beach that looks computer-generated. The sand is deep rust-red, fading in places to orange, and it runs for about ten kilometres around a remote bay in the southern Westfjords. Behind it are shallow lagoons; in front, the open Atlantic. Seals haul out on the sand at the western end and are generally indifferent to visitors who approach quietly.

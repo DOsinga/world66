@@ -8,6 +8,7 @@ snippet: Two thousand puppets from around the world, in a medieval merchant's ho
 tags:
 - things_to_do
 - museum
+score: 7.2
 ---
 
 A short walk from the Holstentor on the steep cobbled Kolk lane, this museum holds one of Europe's largest collections of puppets, marionettes, and shadow figures — more than 30,000 objects from Asia, Africa, Europe, and the Americas. Highlights include nineteenth-century European hand puppets, Indonesian wayang figures, and elaborate Sicilian opera marionettes.

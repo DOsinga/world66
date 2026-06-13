@@ -7,6 +7,7 @@ tags:
   - brewery
 latitude: -32.0572
 longitude: 115.7492
+score: 7.1
 ---
 
 Little Creatures opened in Fremantle in 2000 in a converted boat shed on the Fishing Boat Harbour, and it changed what Australians thought craft beer could be. The Pale Ale became the country's defining craft beer for a generation — hoppy, aromatic, actually interesting — and the brewery grew into a destination in its own right. The building is magnificent: soaring industrial roof, polished concrete floors, enormous fermentation tanks visible from the dining area, and a view across the harbour to the working boats. It feels like someone designed a brewery specifically for the Instagram era twenty years before the Instagram era existed.

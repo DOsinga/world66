@@ -9,6 +9,7 @@ latitude: 14.5893
 longitude: -87.8333
 sources:
   - https://en.wikipedia.org/wiki/Siguatepeque
+score: 5.8
 ---
 
 The central park is Siguatepeque's social hub — a proper town square with benches, shade trees and the usual vendors selling cold drinks and snacks. In the evenings it fills with families, teenagers and the occasional musician. It is not grand by Central American standards, but it has the relaxed atmosphere of a place where people actually use it.

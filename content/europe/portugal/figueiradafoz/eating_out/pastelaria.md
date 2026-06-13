@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 40.1515
 longitude: -8.8635
+score: 6.7
 ---
 
 Portuguese café and bakery culture is strong in Figueira da Foz, and the morning pastelaria routine is not optional — it is how the day begins. Pastelarias along the main streets serve pastéis de nata (custard tarts, ideally still warm), queijadas (cheese pastries), and espresso that arrives in a small cup and is finished in three sips.

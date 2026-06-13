@@ -14,6 +14,7 @@ story: >
   on the migration path bears walk every year from their summer range to the
   sea ice. They have been doing this for at least 1,000 years. The town came
   later.
+score: 9.8
 ---
 
 Every October and November, polar bears congregate along the coast east of Churchill waiting for Hudson Bay to freeze so they can get back onto the sea ice to hunt seals. Churchill sits directly on their migration corridor, making it the world's most accessible spot for viewing wild polar bears at close range on land.

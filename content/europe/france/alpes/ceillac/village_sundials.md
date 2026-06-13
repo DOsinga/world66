@@ -10,6 +10,7 @@ longitude: 6.778
 snippet: Painted sundials on traditional stone farmhouses throughout the village
 story: >
   The Queyras tradition of decorating house walls with elaborate sundials dates to the 17th century, when the valley's long winters left skilled craftsmen with time to develop the art. Ceillac has some of the finest surviving examples — one on the church wall shows not just the hour but the season and the length of the day.
+score: 7.1
 ---
 
 One of Ceillac's most distinctive features is the collection of painted sundials decorating the walls of the old stone farmhouses. This is a Queyras speciality — a tradition found throughout the regional park but particularly well preserved here. Some are simple hour-markers; others are elaborate compositions showing hour lines, seasonal curves and inscriptions.

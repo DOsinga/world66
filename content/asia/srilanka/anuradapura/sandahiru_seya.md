@@ -7,6 +7,7 @@ tags:
   - sight
 title: Sandahiru Seya
 type: poi
+score: 6.6
 ---
 
 A bright white modern stupa about 80 metres tall, built between 2010 and 2020 to commemorate the soldiers who died in the long Sri Lankan civil war. It stands on land donated by the Atamasthana (the eight sacred places) of Anuradhapura and was inaugurated by President Mahinda Rajapaksa.

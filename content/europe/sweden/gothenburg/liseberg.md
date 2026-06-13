@@ -9,6 +9,7 @@ tags:
 title: Liseberg
 type: poi
 url: https://www.liseberg.se
+score: 7.7
 ---
 
 Liseberg is Scandinavia's largest amusement park and the most-visited tourist attraction in Sweden. It sits right in the centre of Gothenburg — barely a 10-minute tram ride from the main square — and manages to feel genuinely integrated into city life rather than separate from it.

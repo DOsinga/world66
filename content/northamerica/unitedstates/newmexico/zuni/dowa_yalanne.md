@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.0490
 longitude: -108.8150
+score: 7.1
 ---
 
 Dowa Yalanne — "Corn Mountain" — is the flat-topped mesa that rises sharply south of the pueblo to a height of about 2,360 metres. It is the most sacred landform in Zuni cosmology: a place of refuge in times of danger, the home of the rain-bringing kachina spirits, and a site of pilgrimage that Zuni people have visited for centuries. During the Pueblo Revolt of 1680, the entire Zuni community fled to the top of the mesa to escape Spanish reprisals and lived there for twelve years.

@@ -9,6 +9,7 @@ tags:
   - barranco
 neighbourhood: Barranco
 snippet: Cocktail bar in a converted 19th-century Barranco mansion
+score: 7.5
 ---
 
 **Ayahuasca**, named after the Amazonian psychedelic vine, occupies a sprawling 19th-century *casa-quinta* in Barranco that has been converted into one of Lima's best cocktail bars. Three floors of high-ceilinged rooms, courtyards, and small terraces hold dozens of small tables; the cocktail list runs to several pages and features Peruvian ingredients — *chicha morada*, *maca*, *aguaymanto*, *coca leaf* — in serious classical drinks.

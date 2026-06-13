@@ -7,6 +7,7 @@ tags:
 - music
 title: Coco Bongo
 type: poi
+score: 5.4
 ---
 
 Cancun's most famous nightclub since 1997, and the prototype for the city's open-bar-and-show formula. The two-storey venue at Forum by the Sea in Punta Cancun runs continuous performances every night — Cirque-du-Soleil-style acrobatics, themed dance numbers, tribute acts to Michael Jackson, Beetlejuice, Spider-Man, Freddie Mercury and others — for a crowd that ranges from spring-break college students to honeymooners.

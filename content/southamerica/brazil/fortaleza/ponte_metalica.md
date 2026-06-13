@@ -8,6 +8,7 @@ tags:
 latitude: -3.7181
 longitude: -38.5133
 snippet: Victorian iron pier stretching into the sea at Praia de Iracema, a Fortaleza landmark
+score: 7.2
 ---
 
 The Ponte Metálica — known locally as the Ponte dos Ingleses (Bridge of the English) — is a 155-metre iron pier stretching into the sea at Praia de Iracema. It was built in 1903 by the English firm Norton, Griffiths & Co. to allow ships to dock before the harbour was completed, and was designed by engineers from a generation that made iron engineering into public spectacle. Today it is a promenade, fishing point, and sunset-watching platform.

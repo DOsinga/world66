@@ -9,6 +9,7 @@ longitude: -72.9667
 story: "Tibasosa's name comes from Chibcha, the language of the Muisca people who inhabited the Boyacá highlands before the Spanish arrived, and means 'chief of the domain.' Simón Bolívar passed through the town in March 1820, still in the middle of the independence campaigns that would eventually create the nations of the northern Andes."
 sources:
   - https://en.wikipedia.org/wiki/Tibasosa
+score: 7.2
 ---
 
 Tibasosa is a small colonial town immediately south of Duitama, about 10 minutes by road. Founded in 1778, it has retained much of its colonial character — two-storey houses with elegant wooden balconies, a central square, and a church that has stood at the heart of the community for centuries. The pace here is noticeably slower than in Duitama, and the streets around the square fill with locals on weekend evenings.

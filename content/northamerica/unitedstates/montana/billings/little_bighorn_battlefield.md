@@ -15,6 +15,7 @@ story: >
   the Native warriors who defended their territory and way of life.
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_the_Little_Bighorn
+score: 9.0
 ---
 
 The site of the Battle of the Little Bighorn (25 June 1876), about 65 miles east of Billings via I-90, is one of the most historically significant and atmospherically powerful places in the American West. White marble headstones mark where soldiers fell across the rolling grassland; red granite markers show where Lakota, Cheyenne, and Arapaho warriors died.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - historic_house
+score: 7.0
 ---
 
 The Dr. Agustín Stahl House is a small museum dedicated to the 19th-century German-Puerto Rican physician, naturalist, and ethnographer who lived and worked here. Stahl wrote extensively on the indigenous Taíno people and on the natural history of Puerto Rico — he was the island's most important early botanist.

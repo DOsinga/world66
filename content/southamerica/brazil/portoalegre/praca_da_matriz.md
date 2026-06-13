@@ -8,6 +8,7 @@ tags:
 story: Praça da Matriz was the hub from which Porto Alegre's colonial government radiated — the Cathedral, the Governor's Palace, the Legislative Assembly, and the theatre all face the same small square. In the 19th century, gaúcho politicians argued and occasionally duelled in its shadow; today office workers eat lunch on its benches under the same jacaranda trees.
 title: Praça da Matriz
 type: poi
+score: 8.7
 ---
 
 Praça da Matriz — officially the Praça Marechal Deodoro — is the symbolic heart of Porto Alegre. The square is lined on all four sides by the city's most important buildings: the **Metropolitan Cathedral** to the east, the **Palácio Piratini** (state governor's residence) to the south, the **Teatro São Pedro** to the west, and the **Legislative Assembly** closing the north side. It is a genuinely handsome ensemble: the buildings are 19th-century neoclassical, the square is shaded by large trees, and the whole thing has been well maintained in a way that Brazilian city centres often are not.

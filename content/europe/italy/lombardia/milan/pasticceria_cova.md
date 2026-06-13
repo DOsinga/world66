@@ -10,6 +10,7 @@ tags:
 - cafe
 title: Pasticceria Cova
 type: poi
+score: 6.4
 ---
 
 A historic patisserie and tearoom founded in 1817 on Via Monte Napoleone, Milan's most famous fashion street. Famous for its millefoglie, panettone, and some of the best espresso in the city. The interior — marble counters, mirrored walls, and immaculate service — has changed little since the 19th century.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 28.1930
 longitude: 112.9740
+score: 6.5
 ---
 
 Taiping Street runs parallel to Pozi Street through the old city and shares its heritage-restoration character, but with a slightly different emphasis: more evening bars and teahouses, slightly fewer souvenir stalls. The street has been associated with Changsha's old merchant quarter since the Ming dynasty, and several shopfronts retain their original guild-era facades. At the northern end, a cluster of small museums covers local history and folk culture.

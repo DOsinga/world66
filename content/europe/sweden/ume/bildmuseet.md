@@ -8,6 +8,7 @@ latitude: 63.8197
 longitude: 20.2781
 story: >
   Bildmuseet was designed by Henning Larsen Architects and opened in 2012 as part of Umeå's successful bid for European Capital of Culture 2014. The building's dramatic cantilever over the Ume River was partly symbolic: the museum reaches out toward Finland across the gulf, representing the Nordic connection the Capital of Culture programme emphasised.
+score: 8.4
 ---
 
 Bildmuseet is Umeå's flagship contemporary art museum, housed in a striking building that cantilevers over the south bank of the Ume River. The museum focuses on international contemporary art, architecture, and design, and its programme is genuinely ambitious — rotating exhibitions draw from international collections and often feature artists not seen elsewhere in northern Sweden.

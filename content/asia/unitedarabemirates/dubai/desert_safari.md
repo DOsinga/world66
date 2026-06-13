@@ -6,6 +6,7 @@ tags:
 - sight
 title: Desert Safari
 type: poi
+score: 7.4
 ---
 
 The desert begins immediately east of Dubai, and an evening desert safari is the most popular excursion from the city — dozens of operators offer essentially the same package: a 4x4 drive into the dunes for "dune bashing" (high-speed driving over the sand ridges), followed by a sunset camel ride, a Bedouin-style camp dinner, and entertainment including belly dancing, falconry demonstrations, and stargazing.

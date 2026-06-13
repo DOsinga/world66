@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 52.3445
 longitude: -1.5813
+score: 6.1
 ---
 
 A converted Victorian pub on the high street that has held a Michelin star for several years. Chef-owner Adam Bennett cooks classical French with restraint and serious technique: turbot, suckling pig, a dessert trolley that earns its space.

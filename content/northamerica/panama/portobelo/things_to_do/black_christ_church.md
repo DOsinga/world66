@@ -13,6 +13,7 @@ story: >
   for another port — wanted to stay, and left it behind. The church was built
   around it. Whatever the truth of the story, the statue has been in Portobelo
   since at least the seventeenth century.
+score: 8.0
 ---
 
 The Church of San Felipe, on the main plaza, holds the most venerated religious object in Panama: a dark wooden statue of Jesus Christ known as the Cristo Negro, or Black Christ. Carved in the seventeenth century, it is credited with miraculous powers and draws pilgrims from across Central America and beyond.

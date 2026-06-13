@@ -9,6 +9,7 @@ latitude: 50.4115
 longitude: 80.2640
 sources:
   - https://en.wikipedia.org/wiki/Semipalatinsk_Test_Site
+score: 8.0
 ---
 
 Before travelling to The Polygon itself, or as a standalone visit, the nuclear testing museum in central Semey puts the history of the test site into human and political context. The exhibits cover the physics and logistics of the Soviet testing programme, the documented health consequences for the surrounding population, and the Nevada-Semipalatinsk anti-nuclear movement — the grassroots campaign that began here in 1989 and is credited with helping bring the tests to an end.

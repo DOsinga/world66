@@ -8,6 +8,7 @@ tags:
 - park
 title: Mogran Family Park
 type: poi
+score: 5.6
 ---
 
 Mogran Family Park, also called Al-Mogran, sits on the narrow strip of land that points into the confluence of the Blue and White Niles. It is the best vantage point in the city for the meeting of the rivers — you can walk to the very tip and watch the two waters press against each other before they merge.

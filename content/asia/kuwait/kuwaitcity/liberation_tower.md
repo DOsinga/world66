@@ -16,6 +16,7 @@ story: >
   in 1993. It stands as both a telecommunications infrastructure and a symbol
   of the recovery — the country built its future literally from where the
   invasion had interrupted it.
+score: 6.5
 ---
 
 The Liberation Tower is Kuwait's tallest structure, a 372-metre telecommunications tower in central Kuwait City that rivals the Kuwait Towers as the city's visual landmark. An observation deck at 300 metres offers the most comprehensive view of Kuwait City and the Gulf, and on clear days the outline of the Iraqi coast is visible to the north.

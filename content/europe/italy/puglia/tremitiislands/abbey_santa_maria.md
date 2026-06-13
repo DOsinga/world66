@@ -11,6 +11,7 @@ story: >
   The abbey was founded by Benedictine monks in the 9th century on a site already considered sacred — possibly a pre-Christian sanctuary. In 1010, a schism in the monastery led to a murder: the abbot was killed by two brothers who then fled to mainland Italy. The case went to Pope Benedict VIII, who intervened directly. The abbey's fortified walls were not built merely for defence against Saracen raiders but also, the locals will tell you, to keep the monks inside as much as to keep trouble out.
 sources:
   - https://en.wikipedia.org/wiki/Abbey_of_Santa_Maria_a_Mare
+score: 8.5
 ---
 
 The Abbey of Santa Maria a Mare dominates the island of San Nicola from its clifftop position, its fortified walls giving it the look of a castle as much as a monastery. The Benedictine foundation dates to the 9th century, though the complex as it stands today is largely 11th–15th century. The church contains a remarkable 11th-century mosaic floor — one of the best-preserved in southern Italy — and a Byzantine crucifix of considerable age and artistry.

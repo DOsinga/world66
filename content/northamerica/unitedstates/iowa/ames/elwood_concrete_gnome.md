@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A 15-foot concrete gnome at Reiman Gardens holding a Guinness world record.
+score: 5.9
 ---
 
 Elwood is a 15-foot, four-ton concrete gnome who stands at the entrance to Reiman Gardens on the southern edge of the Iowa State campus. Installed in 2009, he was certified by Guinness World Records as the tallest concrete gnome on earth, displacing a smaller rival from Pennsylvania. He has a red pointy hat, a flowing white beard, and an expression of mild, settled cheer.

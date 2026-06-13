@@ -5,6 +5,7 @@ snippet: Gothic palace housing the famous Accademia Chigiana music school
 tags: [things_to_do, sight, architecture]
 latitude: 43.3171
 longitude: 11.3309
+score: 7.7
 ---
 
 The most striking palazzo on Via di Città, with a curved Gothic façade following the line of the medieval street. It now houses the Accademia Musicale Chigiana, one of the world's most prestigious summer music schools, founded in 1932 by Count Guido Chigi-Saracini.

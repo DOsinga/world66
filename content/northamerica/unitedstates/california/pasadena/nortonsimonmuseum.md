@@ -16,6 +16,7 @@ tags:
 - museum
 title: Norton Simon Museum
 type: poi
+score: 9.0
 ---
 
 One of the best art museums in Southern California, and far less crowded than the Getty or LACMA. The collection spans seven centuries of European art — Rembrandt, Raphael, Botticelli — alongside one of the finest holdings of South and Southeast Asian sculpture in the United States. The Degas bronzes alone are worth the trip. Outside, a tranquil sculpture garden wraps around a reflecting pool modeled on Monet's Giverny.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Ystads Konstmuseum
 type: poi
+score: 6.8
 ---
 
 Ystads Konstmuseum, the city's art museum, focuses on modern and contemporary Swedish art with a particularly good collection from the Skåne region. Rotating exhibitions cover both established and emerging artists. The building, on Sankt Knuts Torg near the railway station, is a piece of post-war architecture in its own right.

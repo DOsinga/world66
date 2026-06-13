@@ -12,6 +12,7 @@ story: >
   Caravans attempting to cross the chott in summer risked the fate of those
   who, fooled by mirages, walked into the salt crust and sank. The bones of
   entire caravans have been found preserved in the crystallised salt.
+score: 8.6
 ---
 
 The Chott el-Jerid is the largest salt lake in North Africa — a vast, flat expanse of glistening white salt that stretches to the horizon in every direction. In the heat of the day, the surface shimmers with mirages so convincing that the illusion of water seems to approach as you drive toward it. In winter it holds a shallow film of actual water, turning briefly pink from halophyte algae.

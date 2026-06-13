@@ -8,6 +8,7 @@ tags:
 latitude: 53.3321
 longitude: -3.8544
 snippet: Britain's only surviving cable-hauled street tramway, in operation since 1902
+score: 8.1
 ---
 
 The Great Orme Tramway is the only cable-hauled street tramway still operating in Britain, and one of only a handful in the world. It opened in 1902 to take visitors from Llandudno's [Victoria Station](/europe/unitedkingdom/wales/llandudno/great_orme) up to the summit of the [Great Orme](/europe/unitedkingdom/wales/llandudno/great_orme), and has run essentially unchanged since.

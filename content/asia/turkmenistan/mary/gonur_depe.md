@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "Bronze Age city in the Karakum desert, the capital of an unknown civilization"
 story: "The Russian archaeologist Viktor Sarianidi began excavating Gonur Depe in 1972 and continued until his death in 2013. He argued that the city was the capital of a fourth great Bronze Age civilization — alongside Egypt, Mesopotamia, and the Indus — and called it the Bactria-Margiana Archaeological Complex. Other archaeologists are still arguing about whether he was right."
+score: 8.8
 ---
 
 Gonur Depe is a 3,000-year-old city in the middle of the Karakum desert, abandoned around 1500 BC when the Murghab river shifted course and left it dry. It sat undisturbed under sand for the next thirty centuries. Excavation began in the 1970s and exposed the layout of a planned city — a citadel surrounded by walled neighbourhoods, fire temples, royal tombs with chariots, a craftsmen's quarter — at a level of sophistication that no one had expected from this part of central Asia.

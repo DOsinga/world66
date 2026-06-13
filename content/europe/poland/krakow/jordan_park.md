@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.0656
 longitude: 19.9210
+score: 6.6
 ---
 
 Jordan Park (Park Jordana) is a large public park on the western edge of the Old Town, between the Planty and the Błonia meadows. Named after Henryk Jordan, the 19th-century physician and park reformer who designed it as one of Poland's first public parks for children and recreation, it remains a popular green space for families, joggers, and anyone wanting to escape the Old Town crowds.

@@ -11,6 +11,7 @@ story: >
   The summit zone of Unaka Mountain supports a rare stand of red spruce and Fraser fir — a Southern Appalachian spruce-fir forest more typically associated with Canada than Tennessee. The trees are dense and the canopy dark even in summer, and the contrast with the open hardwood forest below is abrupt enough to feel like crossing into a different ecosystem. The mountain sits just east of Erwin and is accessed via Forest Road 230 off TN-395.
 sources:
   - https://en.wikipedia.org/wiki/Unaka_Range
+score: 8.0
 ---
 
 Unaka Mountain rises to around 5,180 feet on the Tennessee-North Carolina border east of Erwin, and the upper reaches of the Cherokee National Forest here protect one of the better examples of Southern Appalachian spruce-fir forest. The trees close in above 4,500 feet or so, and the summit area has a mossy, northern character that makes it feel considerably farther from Tennessee than it is.

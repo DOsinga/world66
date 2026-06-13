@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The 345-metre mountain west of Vágur, with a marked hike to the summit
+score: 7.7
 ---
 
 Gjógvaráfjall is the mountain that rises directly behind the village of Vágur to the west. The summit, at 345 metres, is one of the easier high points on Suðuroy to reach: a marked path leaves from the western edge of Vágur and climbs steadily up the southern flank, taking about an hour and a half each way.

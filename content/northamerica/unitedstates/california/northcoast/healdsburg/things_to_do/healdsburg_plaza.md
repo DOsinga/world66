@@ -7,6 +7,7 @@ tags:
 latitude: 38.61089
 longitude: -122.86987
 snippet: Tree-shaded Victorian plaza at the heart of Healdsburg's wine-country social life
+score: 8.5
 ---
 
 The central plaza is the organizing principle of Healdsburg. A full city block of mature sycamores, redwoods, and oaks, with benches, a bandstand, a small fountain, and well-kept grass, it functions as both town park and main street. The surrounding streets are lined with tasting rooms, restaurants, wine bars, clothing boutiques, and galleries — all better than average, reflecting the wealth the wine industry has brought to town.

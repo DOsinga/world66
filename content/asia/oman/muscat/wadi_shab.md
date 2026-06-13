@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 22.3558
 longitude: 59.3006
+score: 8.9
 ---
 
 Wadi Shab is one of the most dramatic gorges in Oman, a narrow canyon cut through the limestone mountains south of Muscat along the coast road toward Sur. The wadi floor runs with a stream fed by natural springs even in the dry season, which is unusual enough in the Arabian Peninsula to feel remarkable. A two-hour walk in from the main road leads through date palms and terraced fields to a series of deep turquoise pools where swimming is possible — and at the furthest pool, a low cave entrance leads to a hidden chamber inside the rock where a waterfall drops into an underground pool.

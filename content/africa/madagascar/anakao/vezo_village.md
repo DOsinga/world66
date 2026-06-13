@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: -23.6581
 longitude: 43.6469
+score: 8.0
 ---
 
 The Vezo are Madagascar's coastal fishing people, and Anakao is one of their traditional villages. Their identity is defined not by ethnicity but by way of life — the Vezo are whoever lives on the sea, and their skill with outrigger pirogues is remarkable. They navigate by the stars and the currents, reading conditions that are invisible to outsiders.

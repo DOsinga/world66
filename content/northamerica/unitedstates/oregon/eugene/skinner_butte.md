@@ -8,6 +8,7 @@ tags:
 snippet: "Forested 682 ft hill at the bend of the Willamette, the original Eugene townsite"
 latitude: 44.0577
 longitude: -123.0938
+score: 7.3
 ---
 
 Skinner Butte is the smaller of Eugene's two town hills — 682 ft, immediately north of downtown and the Willamette River. It is named after Eugene Skinner, who built the first cabin here in 1846 and gave the city its name.

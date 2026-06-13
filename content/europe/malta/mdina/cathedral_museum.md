@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.8861
 longitude: 14.4039
+score: 7.7
 ---
 
 The Cathedral Museum occupies the former Seminary building just beside the cathedral, and its collections are considerably more varied than the name suggests. The religious art holdings include works by Mattia Preti, Albrecht Dürer engravings, and a significant collection of Italian Baroque music — manuscripts and printed scores that constitute the most important such collection south of Naples.

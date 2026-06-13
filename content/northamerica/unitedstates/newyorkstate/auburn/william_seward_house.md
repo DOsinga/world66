@@ -14,6 +14,7 @@ story: >
   On the night of April 14, 1865 — the same night Lincoln was shot at Ford's Theatre — a co-conspirator named Lewis Powell broke into this house and stabbed Seward in his bed.
   Seward survived, though badly scarred, and went on to negotiate the Alaska Purchase two years later.
   The blood-stained pillowcase from the attack night is still in the house.
+score: 8.2
 ---
 
 The William H. Seward House Museum is the preserved home of William Henry Seward, one of the most consequential American statesmen of the 19th century. Seward was Lincoln's Secretary of State, a leading opponent of slavery who had himself been a serious contender for the Republican presidential nomination in 1860, and the man who negotiated the Alaska Purchase from Russia in 1867 — an acquisition so controversial it was nicknamed "Seward's Folly."

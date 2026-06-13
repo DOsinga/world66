@@ -11,6 +11,7 @@ tags:
 - prenzlauerberg
 title: Babel Café
 type: poi
+score: 6.0
 ---
 
 A laid-back café-bar on a quiet Prenzlauer Berg side street, Babel serves African-inspired dishes alongside standard café fare. The interior is warm and unpretentious, with mismatched furniture and low lighting that makes it easy to settle in for the evening. The staff are genuinely friendly, and the kitchen stays open late by neighborhood standards. A solid choice when you want something a little different from the usual Berlin café scene.

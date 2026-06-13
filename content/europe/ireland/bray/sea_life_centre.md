@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.2025
 longitude: -6.1125
+score: 5.9
 ---
 
 The National Sea Life Centre occupies a prominent spot on Bray's seafront promenade and is one of the busiest family attractions on the Wicklow coast. The aquarium focuses on marine life found in and around Irish waters, with displays covering everything from rockpool creatures to sharks. The layout takes visitors through a series of themed zones, and there is a large walk-through tunnel where rays and larger fish pass overhead — the reliable crowd-pleaser for younger visitors.

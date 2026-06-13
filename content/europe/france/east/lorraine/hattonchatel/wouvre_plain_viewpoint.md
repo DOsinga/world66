@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.9940
 longitude: 5.7055
+score: 7.1
 ---
 
 The promontory on which Hattonchâtel sits gives it an extraordinary natural vantage point over the Woëvre — a broad clay plain stretching south and east toward Metz and the Moselle valley. From the terrace near the château, on a clear day, you can see 30 kilometres across farmland, wetland, and forest.

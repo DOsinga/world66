@@ -5,6 +5,7 @@ tags: [things_to_do, nature, boavista]
 latitude: 41.1677
 longitude: -8.6718
 story: The Parque da Cidade was designed by landscape architect Sidónio Pardal and opened in 1993 after a 16-year planning and construction process. It is Portugal's largest urban park, at 83 hectares, and runs all the way from the city's western residential districts to the Atlantic coast — a continuous green corridor that functions as Porto's lung in a way that no other green space in the city does.
+score: 7.2
 ---
 
 Porto's Parque da Cidade is the city's escape valve: 83 hectares of woodland, lakes, meadows, and formal gardens running from the western residential districts down to a beach at the Atlantic coast. It is genuinely large enough to get lost in, and on summer weekends Porto's families bring the entire extended family infrastructure — grills, folding tables, footballs — to the shaded areas around the lakes.

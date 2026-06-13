@@ -7,6 +7,7 @@ tags:
 latitude: 30.4539
 longitude: -91.18634
 story: The museum anchors the capitol complex with one of the most personal accounts of Louisiana history in the country. The centrepiece is a full-size replica of a 19th-century flatboat and exhibits tracing the state's complicated mix of French, Spanish, African, and Anglo-American cultures. A vintage Mardi Gras float and an offshore drilling rig replica are among the more unexpected exhibits.
+score: 7.8
 ---
 
 The Capitol Park Museum sits at the foot of the New State Capitol, telling the story of Louisiana through objects, environments, and oral histories. The permanent galleries cover Native American cultures, the colonial period, the plantation era, the Civil War, and the 20th century, with particular attention to the industries that shaped the state — sugar, cotton, oil, and seafood.

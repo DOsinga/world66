@@ -14,6 +14,7 @@ story: >
   strength as much as aesthetic reasons. It has survived several significant tremors since.
 sources:
   - https://en.wikipedia.org/wiki/St._Bartholomew_Cathedral,_Chill%C3%A1n
+score: 7.4
 ---
 
 The Cathedral of Saint Bartholomew in the centre of Chillán is a striking piece of modernist ecclesiastical architecture built to replace the colonial church destroyed in the 1939 earthquake. The structure is defined by a dramatic parabolic arch — a massive concrete curve that rises to 36 metres and houses a large rose window. The form is unlike any other cathedral in Chile and was considered radical when it was completed.

@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Basilica_di_San_Giulio
+score: 8.8
 ---
 
 The basilica on Isola San Giulio is one of the oldest and most atmospheric churches in Piedmont, with a foundation traditionally dating to the late fourth century and a Romanesque rebuilding from the early twelfth. The dim interior holds frescoes that stack up across the centuries — Gothic crucifixions, Renaissance saints, baroque side chapels — over a layout that has barely changed in nine hundred years.

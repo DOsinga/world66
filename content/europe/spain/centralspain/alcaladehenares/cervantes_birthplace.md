@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.4823
 longitude: -3.3646
+score: 8.0
 ---
 
 The birthplace of Miguel de Cervantes, author of Don Quixote, stands on Calle Mayor and has been carefully restored and furnished as a museum representing a prosperous sixteenth-century household. Cervantes was born here in 1547 and the rooms are filled with period furniture, household objects, and books of the era — creating an impression of what domestic life looked like in golden-age Spain. Explanatory panels in Spanish and English tell the story of Cervantes' life and work.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The mosque was built in the 1880s by Karbalayi Safikhan Karabakhi, a local master architect responsible for several of Shusha's grand religious buildings. During the Armenian period from 1992 to 2020 it stood derelict and partly damaged; restoration began as soon as Azerbaijan retook the city."
+score: 8.9
 ---
 
 The Yukhari Govhar Agha Mosque, also called the Upper Mosque or the Great Friday Mosque, is the most prominent religious building in Shusha. Its twin red brick minarets, banded with patterned glazed tile, dominate the skyline of the old town. The mosque was commissioned by Govhar Agha, daughter of Karabakh khan Ibrahim Khalil Khan, in the late nineteenth century.

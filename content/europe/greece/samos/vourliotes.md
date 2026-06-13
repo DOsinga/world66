@@ -6,6 +6,7 @@ longitude: 26.8500
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 Vourliotes was settled in the early eighteenth century by Greek refugees from Vourla, near Smyrna in Asia Minor — hence the name. The plateia at the centre of the village, ringed by four tavernas under giant plane trees, is one of the most pleasant lunch spots on Samos.

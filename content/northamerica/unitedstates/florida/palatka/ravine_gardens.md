@@ -13,6 +13,7 @@ story: >
   with over 270,000 azaleas in the 1930s, using New Deal relief labour from
   Palatka's unemployed workers. The annual Azalea Festival, first held in 1938,
   has run every year since, making it the longest-running festival in Florida.
+score: 8.1
 ---
 
 Ravine Gardens State Park is one of the most unusual landscapes in Florida. The park's two ravines plunge up to 120 feet into the earth — extraordinary in a state where the highest natural point is only 345 feet above sea level — and the steep banks at 45-degree angles are blanketed with azaleas that bloom in shades from white to deep crimson. The blooming season runs from late December to early March, peaking around the first weekend in March when Palatka holds its annual Azalea Festival.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.2318
 longitude: 7.3600
+score: 8.2
 ---
 
 The vineyards above Sion produce some of Switzerland's most distinctive wines, and the old town has several good tasting rooms and wine bars where you can work through the local varieties. Switzerland exports almost no wine — what's made here stays here, which means you're drinking wines most of the world never gets to try.

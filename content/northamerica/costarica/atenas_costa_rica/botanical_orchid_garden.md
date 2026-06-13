@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: 9.9740
 longitude: -84.3760
+score: 5.9
 ---
 
 A small private orchid garden on the outskirts of Atenas that holds a collection of native Costa Rican orchid species alongside other tropical plants. It is modest in scale but carefully tended, and the guides know their material — if you have any interest in orchids or tropical botany, the visit is worthwhile.

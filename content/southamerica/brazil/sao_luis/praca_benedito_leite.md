@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -2.527
 longitude: -44.302
+score: 8.0
 ---
 
 Praça Benedito Leite is the main public square of the historic centre, flanked by the cathedral, the city hall, and some of the finest colonial buildings in São Luís. The square is the city's civic heart — demonstrations happen here, festivals begin here, and on ordinary days the benches fill with office workers eating lunch and elderly men playing dominoes.

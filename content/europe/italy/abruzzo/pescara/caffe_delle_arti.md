@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 42.4615
 longitude: 14.2142
+score: 5.5
 ---
 
 A long-established café on the main pedestrian stretch of central Pescara, the Caffè delle Arti is where locals come for the morning cornetto and espresso before work and again in the afternoon for a granita or ice cream. The interior is old-fashioned in the best sense — marble counter, dark wood, rows of bottles — and the coffee is taken seriously.

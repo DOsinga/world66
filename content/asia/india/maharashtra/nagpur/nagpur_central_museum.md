@@ -8,6 +8,7 @@ latitude: 21.151
 longitude: 79.0782
 sources:
   - https://en.wikipedia.org/wiki/Nagpur_Central_Museum
+score: 7.4
 ---
 
 The Nagpur Central Museum — known locally as Ajab Bangala, meaning "Wonderful Bungalow" — is one of the oldest museums in Maharashtra, occupying a graceful colonial building near the Civil Lines area. The collections span natural history, geology, archaeology, and the history of the Nagpur kingdom. Among the highlights are dinosaur fossils found in the Narmada Valley, exhibits on the Nagpur royal armoury, tribal artefacts from Vidarbha, and a substantial collection of inscriptions and coins from the region's history.

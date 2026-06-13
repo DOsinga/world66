@@ -6,6 +6,7 @@ longitude: -70.9088
 tags:
   - eating_out
   - market
+score: 5.9
 ---
 
 The municipal market, in a low building on Avenida 21 de Mayo, is where the fishermen, the housewives and the small restaurant owners do their morning shopping. Upstairs is a handful of cheap, simple **cocinerías** — open kitchens with a few stools — where you can eat plates of grilled hake, fried merluza, or shellfish empanadas for very little money.

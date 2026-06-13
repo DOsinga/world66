@@ -13,6 +13,7 @@ story: >
   in 1850, aged 86, never having returned to Uruguay after being forced out by Brazilian and 
   Argentine forces in 1820. His remains were brought back in 1977, over 125 years after his 
   death, and interred here beneath the equestrian statue that dominates the plaza bearing his name.
+score: 7.1
 ---
 
 Beneath the large equestrian statue of José Artigas at the centre of Plaza Independencia lies the mausoleum where Uruguay's founding father is buried. An honour guard stands watch 24 hours a day. The underground chamber is open to visitors: a staircase descends into a circular room where the sarcophagus sits in dim light, surrounded by flags and stonework.

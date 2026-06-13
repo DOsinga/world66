@@ -16,6 +16,7 @@ story: >
   in 2023 and reassembled in the new city location — a process that took months and
   cost hundreds of millions of kronor, justified entirely by the building's
   cultural significance.
+score: 8.0
 ---
 
 Kiruna Church is a striking red wooden building completed in 1912, designed by Gustaf Wickman in a style that blends Sámi cultural motifs with National Romantic architecture. It stands 63 metres tall and is one of Sweden's largest wooden buildings. The building's silhouette — a tall central tower flanked by pitched rooflines — is modelled loosely on a traditional Sámi tent (goahti).

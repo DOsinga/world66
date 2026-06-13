@@ -8,6 +8,7 @@ tags:
 - square
 title: Hauptplatz
 type: poi
+score: 8.6
 ---
 
 The triangular Hauptplatz, sloping gently toward the river, is the social and architectural heart of Landsberg. Pastel facades — pink, yellow, ochre, mint green — run around three sides, several of them carrying baroque stucco in the loose, sculptural style that southern Bavarians call Rococo when they are feeling generous.

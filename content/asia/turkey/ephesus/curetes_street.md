@@ -10,6 +10,7 @@ story: >
   The marble street you walk today was not the original Roman road but a later reconstruction, paid for by the wealthy Ephesian patron Damianus in the second century AD to allow his wife to reach the Temple of Artemis without getting her feet wet in winter rain. He had it covered with a roof supported on columns — essentially the world's first covered shopping street. The columns remain; the roof does not.
 sources:
   - https://en.wikipedia.org/wiki/Curetes_Street
+score: 8.4
 ---
 
 Curetes Street is the main marble-paved street of ancient Ephesus, running from the Library of Celsus at the lower end to the Heracles Gate at the upper. In Roman times it was flanked by a colonnade of statues — emperors, governors, benefactors — set on pedestals along both sides. Enough of these have been excavated and partially restored to give a vivid sense of the street's original character: a processional way lined with propaganda in stone.

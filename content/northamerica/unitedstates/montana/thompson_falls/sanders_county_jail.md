@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Sanders_County_Jail
 story: >
   The 1907 jail was built with a combined jailer's residence attached — the jailer and his family literally lived next door to the cells, sharing a wall with the prisoners. It was a common arrangement in small-town Montana, where the county couldn't afford separate facilities, and it meant the jailer's wife often cooked meals for inmates.
+score: 5.4
 ---
 
 The old Sanders County Jail, built in 1907, now operates as a small local history museum run by volunteers. It is one of the better-preserved examples of an early-twentieth-century county jail in western Montana — the original iron cells are still in place, along with displays on the region's logging, mining, and railroad history.

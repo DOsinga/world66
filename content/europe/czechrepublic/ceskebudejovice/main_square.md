@@ -11,6 +11,7 @@ story: >
   town in 1265 as a royal stronghold against the powerful Rosenberg family. At 133 by 133
   metres it is one of the largest squares in the Czech Republic — so large that the
   18th-century Samson Fountain, standing nearly 14 metres tall, looks modest at its centre.
+score: 8.3
 ---
 
 The main square of České Budějovice is one of the largest town squares in Central Europe, measuring 133 metres on each side. The centrepiece is the 18th-century Samson Fountain, a muscular baroque composition depicting Samson wrestling a lion. The surrounding arcaded buildings in shades of ochre and cream are in excellent condition and make a complete ensemble — the square still looks much as it did two centuries ago.

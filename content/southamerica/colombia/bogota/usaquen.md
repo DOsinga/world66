@@ -7,6 +7,7 @@ tags:
 latitude: 4.6952
 longitude: -74.0299
 snippet: "Village-like northern neighbourhood with colonial square and weekend flea market"
+score: 8.3
 ---
 
 Usaquén sits in the far north of the city, connected by the TransMilenio but feeling entirely different from central Bogota. The neighbourhood was an independent village before the city swallowed it, and the colonial square and church at its centre have survived largely intact. Cobbled streets, whitewashed facades, and a slower pace of life mark it out as one of the most pleasant corners of the capital.

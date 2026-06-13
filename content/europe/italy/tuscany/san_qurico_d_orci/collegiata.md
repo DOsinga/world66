@@ -13,6 +13,7 @@ story: >
   1080 and is attributed to the sculptor Biduino. The lions that support its columns are so stylized they look
   almost modern; the intertwining plants and figures above them are the work of a craftsman who had seen Lombard
   and Byzantine models but was working in his own vernacular.
+score: 8.2
 ---
 
 The Collegiata is San Quirico's principal church, a Romanesque building whose facade carries some of the most finely carved stone in the Val d'Orcia. The main portal is an elaborate work of the 12th century, with interlocking arches supported on columns resting on carved lions, the whole densely decorated with plant forms and human figures in a controlled exuberance typical of the best Romanesque work.

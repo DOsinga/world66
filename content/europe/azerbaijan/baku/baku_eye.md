@@ -6,6 +6,7 @@ longitude: 49.8519
 tags:
   - things_to_do
   - sight
+score: 5.7
 ---
 
 The Baku Eye is a sixty-metre ferris wheel near the southern end of the Baku Boulevard, opened in 2014 to coincide with the city's hosting of the Eurovision Song Contest. The thirty enclosed gondolas turn slowly enough that a single revolution takes about half an hour.

@@ -15,6 +15,7 @@ story: >
   published in 1948. He chose Galesburg for his remains because he wanted to return
   to where he began. The boulder was his idea: simple, permanent, rooted in the
   Illinois earth.
+score: 7.4
 ---
 
 The Carl Sandburg State Historic Site preserves the modest three-room cottage on East Third Street where the poet, biographer, and folk singer was born in 1878. Sandburg is best known for his multi-volume biography of Lincoln, his free-verse poetry celebrating working-class America, and the poetry collection "Chicago Poems," which opens with the famous lines calling Chicago "Hog Butcher for the World."

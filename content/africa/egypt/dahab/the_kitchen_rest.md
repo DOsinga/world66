@@ -10,6 +10,7 @@ tags:
 title: The Kitchen
 type: poi
 url: www.thekitchendahab.com
+score: 5.8
 ---
 
 Spread across three floors in the heart of Masbat, The Kitchen offers impressive sea and mountain views from its upper terraces. The menu leans toward Asian-inspired dishes, and the open kitchen lets you watch the chefs at work. Ground floor is non-smoking, while the upper floors catch the sea breeze. They also do takeaway and delivery.

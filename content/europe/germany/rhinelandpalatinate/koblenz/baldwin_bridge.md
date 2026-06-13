@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.3639
 longitude: 7.5931
+score: 8.2
 ---
 
 The medieval stone bridge over the Moselle, named for Archbishop Baldwin of Trier who began it in 1342. It is the oldest surviving Rhine-region bridge and one of the few in Germany never to have been demolished.

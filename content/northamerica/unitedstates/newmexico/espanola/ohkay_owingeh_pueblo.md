@@ -16,6 +16,7 @@ story: >
   Owingeh, "village of the strong people." The residents' decision in 2005 to
   officially reassert their Tewa name, dropping the San Juan designation, was
   one of the more meaningful acts of cultural reclamation in modern New Mexico.
+score: 8.0
 ---
 
 Ohkay Owingeh is a federally recognised Tewa-speaking pueblo immediately north of Española, on the opposite bank of the Rio Grande. It is one of the oldest continuously inhabited communities in North America, with origins stretching back at least a thousand years. The village sits at the confluence of the Rio Grande and Rio Chama — a location the Spanish recognised as strategically important when they chose it as the first capital of New Mexico in 1598.

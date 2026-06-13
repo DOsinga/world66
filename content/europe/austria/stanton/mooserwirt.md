@@ -12,6 +12,7 @@ story: >
   4,000 people, all of them in ski boots. Austrian and German pop music plays at volume,
   the Jägermeister flows freely, and getting in requires a degree of good-natured aggression
   at the door.
+score: 7.4
 ---
 
 The Mooserwirt is the legendary après-ski institution at the base of the Gampen lift, and on a good snow day it is one of the more extraordinary scenes in European skiing. The outdoor terrace fills from around 3pm with skiers who have come straight off the mountain, and the party runs until the mountain staff close the doors — usually around 7pm.

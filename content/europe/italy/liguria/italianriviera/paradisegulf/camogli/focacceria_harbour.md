@@ -7,6 +7,7 @@ tags:
 - market
 title: Focacceria on Via della Repubblica
 type: poi
+score: 6.4
 ---
 
 Camogli's main street, Via della Repubblica, has several focaccerie and bakeries selling the Ligurian staples: plain focaccia glistening with olive oil and sea salt, focaccia al formaggio similar to Recco's version, farinata (chickpea flour flatbread), and torte di verdura filled with chard, onion, or artichoke. This is not sit-down eating — buy a square at the counter and eat it standing, or take it down to the harbour wall.

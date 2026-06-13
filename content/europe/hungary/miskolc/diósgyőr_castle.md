@@ -12,6 +12,7 @@ story: >
   Diósgyőr was a favourite residence of Hungarian queens in the 14th century, particularly Queen Elizabeth of Bosnia, who spent so much time here that it became known as the "Queen's castle." The fortress changed hands between Hungarian kings, Ottoman commanders, and Transylvanian princes over three centuries before falling into ruin. Restoration began in the 20th century and continues today.
 sources:
   - https://en.wikipedia.org/wiki/Diósgyőr_Castle
+score: 8.1
 ---
 
 Diósgyőr Castle is the most striking historical sight in the Miskolc area — a 13th-century fortress with four round corner towers that dominates a hillside at the western edge of the city. The castle was a royal residence under the Árpád and Angevin dynasties, falling into disrepair after the Ottoman era. It has been partially restored and today houses a museum with exhibitions on medieval Hungarian life, armour, and the castle's history.

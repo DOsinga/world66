@@ -8,6 +8,7 @@ tags:
 snippet: Art Deco courthouse on the Alva town square
 latitude: 36.8050
 longitude: -98.6667
+score: 6.0
 ---
 
 The Woods County Courthouse anchors Alva's downtown square, a four-storey limestone building completed in 1929 in a restrained Art Deco style. The square around it follows the classic Plains layout — single-storey brick storefronts on all four sides facing the courthouse — and remains the centre of town life.

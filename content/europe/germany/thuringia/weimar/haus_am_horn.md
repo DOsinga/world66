@@ -12,6 +12,7 @@ story: >
   The interior furnishings — including Marcel Breuer's kitchen — were made in the
   school's workshops. After decades of neglect during the GDR era, it was restored
   and reopened in 1999.
+score: 8.2
 ---
 
 This small, white, flat-roofed house on the edge of the Park an der Ilm is the only building the Bauhaus school actually built in the city where it was founded. Designed by Georg Muche for the 1923 Bauhaus exhibition, it was meant as a model home: rational, functional, filled with light. The central living room rises above the surrounding rooms, drawing in daylight from clerestory windows.

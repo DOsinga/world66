@@ -8,6 +8,7 @@ tags:
 latitude: 37.5278
 longitude: 137.3436
 snippet: "The wild northern tip of the Noto Peninsula where the Sea of Japan surges against volcanic rock"
+score: 7.6
 ---
 
 Cape Suzu is the northernmost point of the Noto Peninsula, a narrow headland where the Sea of Japan crashes against black volcanic rock on both sides. The scenery is dramatic and windswept — on clear days you can see the Tateyama range across the water on the Toyama side. The cape is a popular destination for watching winter storms roll in from the north.

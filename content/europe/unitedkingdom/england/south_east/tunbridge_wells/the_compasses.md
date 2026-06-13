@@ -7,6 +7,7 @@ address: 50 Little Mount Sion
 tags:
   - bars_and_cafes
   - bar
+score: 5.7
 ---
 
 The Compasses is a small Georgian pub on Little Mount Sion, off the High Street, with a quietly devoted local following. The cask ale list rotates through Kent and Sussex micro-breweries and the kitchen does pub food a cut above the usual — slow-cooked dishes, decent burgers, Sunday roasts that need booking.

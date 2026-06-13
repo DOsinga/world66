@@ -6,6 +6,7 @@ tags:
 - museum
 latitude: 34.6824
 longitude: 135.5247
+score: 8.8
 ---
 
 A ten-storey museum immediately adjacent to Osaka Castle that traces the city's history from the Naniwa Palace era (7th century) through the mercantile Edo period to the modern city. The top floor — reached by a glass lift — is at the same level as the original floor of the Naniwa Palace, and the museum's designers positioned the windows so that visitors stand at the exact height the palace floor would have been, looking out over the excavated foundations still visible in the ground below.

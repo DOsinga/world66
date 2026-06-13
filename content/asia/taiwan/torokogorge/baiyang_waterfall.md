@@ -14,6 +14,7 @@ story: >
   through behind the Baiyang waterfall — where water pours through the
   ceiling from above — was an accident of the tunnel's angle cutting through
   a natural water channel.
+score: 8.4
 ---
 
 The Baiyang Waterfall Trail is a moderately easy walk of about 2 kilometres each way into the upper gorge, leading through two tunnels (one long, one short) to a viewing area below the Baiyang Waterfall — a wide curtain of water dropping about 40 metres into a pool. Beyond the main waterfall, an extension through a third tunnel leads to the Water Curtain Cave, where water seeps and pours through the entire ceiling of the tunnel — an extraordinary and completely soaking experience.

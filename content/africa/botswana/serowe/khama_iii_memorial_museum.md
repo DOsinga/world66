@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: "Museum dedicated to Botswana's founding leaders and the writer Bessie Head"
 story: "Khama III, who ruled the Bangwato people from 1875 to 1923, was one of the most remarkable leaders in southern African history. In 1895 he and two other chiefs travelled to London to appeal directly to the British government against the annexation of their lands by Cecil Rhodes's British South Africa Company. They succeeded — the only time a delegation of African leaders successfully lobbied the British government against Rhodes — and thereby preserved what would become the Bechuanaland Protectorate, the forerunner of independent Botswana."
+score: 8.2
 ---
 
 The Khama III Memorial Museum is the cultural centre of Serowe and the most important museum outside the capital. Its permanent exhibitions cover the history of the Bangwato people and the three Khama-dynasty leaders who shaped modern Botswana: Khama III, whose principled resistance to both Boer expansion and the liquor trade made him famous far beyond Botswana; Tshekedi Khama, his son and the regent who maintained the territory through the difficult interwar years; and Seretse Khama, Botswana's first president.

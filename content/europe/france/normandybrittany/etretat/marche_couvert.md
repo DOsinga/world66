@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - market
+score: 5.7
 ---
 
 Les Halles is the wooden covered market in the centre of town — a 1920s reconstruction of an older medieval marché in half-timbered style. It dominates the small main square and now houses craft and souvenir shops rather than the food stalls it once did. The architectural detail — beams, gables, decorative carving — is the reason to stop, and the building photographs well from any angle.

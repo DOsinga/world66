@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.3850
 longitude: 123.7975
+score: 6.8
 ---
 
 Kanpire is the second of the Urauchi waterfalls, about 20 minutes further upstream from Mariudo on the same trail. It is a long, low cascade running over broad slabs of dark rock rather than a single drop — more a series of natural steps than a curtain.

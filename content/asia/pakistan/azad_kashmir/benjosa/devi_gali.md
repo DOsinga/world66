@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8500
 longitude: 73.7500
+score: 6.7
 ---
 
 Twelve kilometres north of Banjosa, Devi Gali is a forested ridge with panoramic views over the sub-valleys of Rawalakot and Bagh. The viewpoint is a popular short detour for day-trippers from Banjosa Lake and makes a natural turnaround point on a half-day drive in the hills.

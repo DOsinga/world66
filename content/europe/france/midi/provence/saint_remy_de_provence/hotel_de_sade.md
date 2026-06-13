@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.7892
 longitude: 4.8330
+score: 7.0
 ---
 
 A Gothic Renaissance mansion in the heart of the old town that houses the archaeological collection from nearby Glanum. The de Sade family — ancestors of the notorious marquis — owned the property for several centuries, and the building itself is of considerable architectural interest, with a fine inner courtyard and carved stone details. The collection inside includes sculptures, inscriptions, pottery, mosaics, and architectural fragments excavated from Glanum over the past century.

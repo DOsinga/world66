@@ -8,6 +8,7 @@ latitude: 46.4667
 longitude: 9.8000
 sources:
   - https://en.wikipedia.org/wiki/Silvaplana
+score: 7.4
 ---
 
 Silvaplana is the windsurfing capital of the Alps: the wide, exposed lake here funnels strong afternoon winds from the Maloja Pass in a pattern so regular and powerful that it has made this lake one of the top windsurfing venues in the world. Professional competition is held here; in summer the water is dotted with sails from midday onward. Kitesurfing is increasingly popular.

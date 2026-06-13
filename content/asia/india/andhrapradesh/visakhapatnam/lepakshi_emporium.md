@@ -7,6 +7,7 @@ tags:
   - market
 title: Lepakshi Emporium
 type: poi
+score: 6.1
 ---
 
 Lepakshi is the Andhra Pradesh government's handicrafts emporium, and the Visakhapatnam branch at Jagadamba Junction is one of the better places to buy regional crafts without bargaining anxiety. The stock runs to Kondapalli wooden toys, Nirmal lacquerware, Kalamkari painted textiles, Etikoppaka lacquer items, and Dharmavaram silk — the fixed prices are fair and the quality is reliably authentic, unlike the tourist-market alternatives.

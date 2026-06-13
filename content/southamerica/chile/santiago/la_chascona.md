@@ -9,6 +9,7 @@ latitude: -33.4272
 longitude: -70.6378
 story: >
   Pablo Neruda built La Chascona in 1953 as a secret hideaway for his affair with Matilde Urrutia, whom he later married. He named it after her famously unruly hair ("chascona" in Chilean slang). The house was ransacked and flooded by Pinochet's supporters on September 11, 1973 — the day of the coup — while Neruda lay dying in a Santiago clinic. He died four days later, reportedly of a broken heart as much as cancer, though recent evidence suggests he may have been poisoned.
+score: 8.7
 ---
 
 La Chascona is one of three extraordinary houses Pablo Neruda built for himself in Chile, and the most visited. Neruda designed it himself with no formal architectural training, following the principle that a house should look like something it isn't — in this case, the unruly assemblage of terraces, towers, and gardens at the foot of Cerro San Cristóbal looks like a ship run aground on a hillside. The rooms are full of the collections he accumulated compulsively: ship figureheads, coloured glass bottles, shoes, maps, and books everywhere.

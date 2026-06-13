@@ -8,6 +8,7 @@ tags:
   - museum
   - historic_house
 story: "When Mauricio Braun moved into the house in 1903, the running water, central heating and electric light were the first of their kind in Punta Arenas — locals queued outside the gates on the first night to see the windows lit up."
+score: 9.1
 ---
 
 Housed in the splendid **Casa Braun-Menéndez** just off the Plaza, this is the best museum in the city for understanding the wool-and-shipping era. The ground floor is preserved largely as the Braun-Menéndez family left it — Parisian furniture, hand-painted ceilings, a winter garden with potted palms, a dining room set for an Edwardian banquet. Upstairs, the historical galleries cover the original Tehuelche and Selk'nam peoples, the founding of the colony, the gold rush of the 1880s, the immense sheep estancias and the eventual decline of the wool economy.

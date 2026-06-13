@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.8472
 longitude: -8.4185
+score: 7.8
 ---
 
 The Church of Nossa Senhora da Lapa is a Baroque church completed in 1767 to plans by André Soares, the architect who defined the distinctive Minho Baroque style. The undulating facade, with its deeply carved stone decoration and dynamically curved surfaces, is characteristic of Soares's work — a regional variation on Baroque that feels almost playful compared to the more formal Portuguese Baroque of Lisbon.

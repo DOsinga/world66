@@ -6,6 +6,7 @@ longitude: -100.9374
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The Jardín is the working heart of Dolores Hidalgo: a square shaded by laurel trees, ringed by stone benches, with a wrought-iron kiosk at the centre and the Parroquia rising on the eastern side. Father Hidalgo's statue, sword raised, dominates the middle of the gardens — Mexicans visit to be photographed beside it.

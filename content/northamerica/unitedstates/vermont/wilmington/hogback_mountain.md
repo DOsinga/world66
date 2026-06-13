@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "From a roadside pull-off on Route 9, Hogback Mountain advertises a '100-mile view' — a panoramic sweep across Vermont, southern New Hampshire, and into Massachusetts. The old Hogback Mountain Ski Area on the same slope ran from 1946 to 1986; the now-quiet trails still cut through the woods above the museum."
+score: 7.0
 ---
 
 Just east of Wilmington on the Molly Stark Trail (Route 9), Hogback Mountain offers a famous roadside view and the small Southern Vermont Natural History Museum at the top. The museum has live raptors, a hands-on natural history collection, and trails that climb to the former Hogback ski area.

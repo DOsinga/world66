@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 48.3733
 longitude: 17.5917
+score: 5.7
 ---
 
 Spartak Trnava is one of Slovakia's most storied football clubs, with a history stretching back to 1923. The club won the Czechoslovak First League five times and became internationally known in the 1960s and 1970s. They are remembered across Europe for a remarkable run in the 1968–69 European Cup, when they reached the semi-finals and came within one goal of a final appearance.

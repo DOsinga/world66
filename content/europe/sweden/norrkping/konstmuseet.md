@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 58.5875
 longitude: 16.1850
+score: 7.6
 ---
 
 The Norrköping Art Museum holds one of the strongest collections of Swedish art outside Stockholm. The permanent collection focuses on Swedish painting from the 18th century to the present, with particular strength in early 20th-century modernism and the Swedish national romanticism movement. Works by Anders Zorn, Carl Larsson, and Bruno Liljefors are represented, alongside younger Swedish artists.

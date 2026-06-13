@@ -15,6 +15,7 @@ story: >
   fondue in winter. Locals have attempted to close it several times for
   redevelopment; each time the bathers have rallied to save it. It has been
   protected by popular vote.
+score: 8.8
 ---
 
 The Bains des Pâquis extends on a long pier into Lake Geneva from the right bank, between the Jardin Anglais and the Pâquis neighbourhood. Built in 1932 and now a protected site, the baths are open year-round: swimming in the lake from April to October, with a sauna, hammam, and restaurant that run all year. In summer the pier is packed with swimmers and sunbathers of all ages; in winter it becomes an improbable fondue restaurant above the winter lake.

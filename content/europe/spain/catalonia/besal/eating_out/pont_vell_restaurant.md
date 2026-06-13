@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.1990
 longitude: 2.6968
+score: 6.5
 ---
 
 One of Besalú's best-regarded restaurants, situated close to the bridge with views toward the river. The menu is firmly rooted in Catalan cuisine, with a strong emphasis on ingredients from the Garrotxa — the volcanic-soil vegetables that come from the region to the west are noticeably better than the Catalan average, and the kitchen makes good use of them.

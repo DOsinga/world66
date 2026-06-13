@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 45.84893
 longitude: -84.61946
+score: 7.6
 ---
 
 The Biddle House on Market Street is one of the oldest surviving buildings on Mackinac Island, constructed sometime before 1800 when the island was at the height of its importance as a fur trade centre. The American Fur Company, controlled by John Jacob Astor, ran its Great Lakes operations through Mackinac, and Market Street was the commercial spine of that empire — fur traders, Native American merchants, and company agents all passed through these buildings.

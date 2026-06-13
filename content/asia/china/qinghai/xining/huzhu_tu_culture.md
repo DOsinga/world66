@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.8500
 longitude: 102.0000
+score: 6.6
 ---
 
 The Tu (Monguor) people — a small ethnic group numbering around 240,000 — live primarily in the Huzhu area northeast of Xining. Their traditions include the distinctive panzhu embroidery (rainbow-coloured concentric ring patterns applied to clothing and decorative objects), a unique form of "nadun" harvest festival, and a Tibetan Buddhist practice that incorporates older shamanic elements. The Huzhu Wuzhan Scenic Area, about 65 kilometres from Xining, provides access to traditional Tu villages and cultural demonstrations.

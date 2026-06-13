@@ -6,6 +6,7 @@ tags:
 - sight
 title: Velika Morava Riverbank
 type: poi
+score: 4.8
 ---
 
 The Velika Morava flows past Lozovik's western edge, broad and shallow in summer, fast and muddy in spring. The riverbank is the main gathering point in town: families come here in the evenings to walk, fishermen line the banks on weekends, and in summer the shallow edges attract children. The river is lined with willows and poplars, and the views across the flat agricultural land on the far bank have the open quality of all large river landscapes.

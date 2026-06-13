@@ -13,6 +13,7 @@ story: >
   for decades — and compete for females through a combination of blazing orange plumage, bizarre
   posturing, and a harsh squawking that can be heard from a considerable distance. Females watch
   from the forest edge and make their selection with no apparent hurry.
+score: 8.5
 ---
 
 The Andean cock-of-the-rock is one of South America's most spectacular birds: the male a flaming orange-red with a disc-shaped crest that covers his entire head and beak. Around Mindo, several lodges and tour operators offer dawn visits to known lek sites — locations where males gather to display, sometimes in groups of a dozen or more. The Paz Bird Sanctuary operates one of the more accessible, with a hide that allows close observation without disturbing the birds.

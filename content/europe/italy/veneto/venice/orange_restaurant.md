@@ -13,6 +13,7 @@ tags:
 title: Orange Restaurant & Champagne Lounge
 type: poi
 url: www.orangebar.it
+score: 5.4
 ---
 
 Terrace bar and restaurant on Campo Santa Margherita with a large wine list, champagnes, and cocktails. Gets packed in the evenings — arrive early for a seat outside.

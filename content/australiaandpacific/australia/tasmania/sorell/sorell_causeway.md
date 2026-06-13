@@ -9,6 +9,7 @@ tags:
 snippet: "Pair of historic causeways spanning Pitt Water and Orielton Lagoon"
 story: >
   The first causeway across Pitt Water was completed in 1872, built largely by convict labour — the contract was awarded just as transportation to Tasmania was being wound up, and the work is among the last large-scale convict projects in the colony. The current bridges, rebuilt several times since, still carry the only easy road link between Hobart and the Tasman Peninsula.
+score: 6.5
 ---
 
 The pair of causeways carrying the Tasman Highway across Pitt Water and Orielton Lagoon, immediately west of Sorell, form one of the more striking pieces of colonial-era infrastructure in southern Tasmania. The original alignments were laid in the 1870s, partly by convict labour, and have been progressively upgraded since; they remain the only easy land connection between greater Hobart and the south-eastern peninsula.

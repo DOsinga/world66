@@ -4,6 +4,7 @@ type: poi
 tags:
   - beaches
   - sight
+score: 7.4
 ---
 
 Nai Yang sits on the northwest coast of Phuket, just south of the airport and inside Sirinat National Park. It is a long curve of casuarina-shaded sand that stays noticeably quieter than the Patong-Karon-Kata strip further south — a few beachfront restaurants, some low-key resorts, and not much else.

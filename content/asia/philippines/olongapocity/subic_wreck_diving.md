@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The bay holds the wrecks of a Spanish cruiser sunk in 1898, a Japanese patrol boat and the USS New York scuttled in 1941, and the Oryoku Maru — a Japanese 'hell ship' carrying American POWs that was bombed by US aircraft in 1944. All five major wrecks lie within ten kilometres of each other and most are at recreational diving depths."
+score: 8.7
 ---
 
 Subic Bay holds one of the highest concentrations of accessible 20th-century shipwrecks in Southeast Asia, the result of three separate naval conflicts in the same body of water. Most wrecks lie between 18 and 40 metres, and the bay's relatively calm and shallow water keeps visibility usable year-round.

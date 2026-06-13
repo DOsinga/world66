@@ -1,6 +1,7 @@
 ---
 title: "Käthe-Kruse-Puppen-Museum"
 type: poi
+score: 7.2
 ---
 
 Käthe Kruse (1883–1968) transformed the doll-making industry in the early twentieth century by rejecting the rigid porcelain figures then in vogue and making soft, cloth dolls with handpainted faces that were meant to feel like real children when held. Her first doll, made in 1905 from a potato-stuffed pillowcase for her own daughter, became the prototype for a line that would sell across Europe and America. Donauwörth was her home and the base of her workshop, and the museum in a former monastery building holds several hundred original Kruse dolls spanning her entire career.

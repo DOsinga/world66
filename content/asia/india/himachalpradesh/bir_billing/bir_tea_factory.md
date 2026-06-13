@@ -8,6 +8,7 @@ latitude: 32.0472
 longitude: 76.7290
 sources:
   - https://en.wikipedia.org/wiki/Bir,_Himachal_Pradesh
+score: 6.6
 ---
 
 The Bir Tea Factory is a cooperative tea-processing facility in the lower village, surrounded by the tea gardens that climb the lower Dhauladhar slopes. Tea has been grown in the Kangra valley since the British introduced it in the 1840s, and Kangra tea — lighter and more aromatic than Darjeeling — remains a local speciality that rarely makes it to export markets. The factory offers informal tours during processing hours, showing the withering, rolling, oxidation, and drying stages that turn fresh leaf into the loose-leaf tea sold in local shops.

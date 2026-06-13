@@ -9,6 +9,7 @@ latitude: 31.0670
 longitude: 81.3130
 story: >
   Tibetan Buddhism holds that completing the kora 108 times wipes out the accumulated karma of all previous lives. Most pilgrims manage one circuit every few years; a few devoted practitioners complete it in a single long day — roughly sixteen hours of continuous walking at high altitude. The devout who prostrate their full body length at every step take weeks.
+score: 10.0
 ---
 
 The kora — the 52-kilometre circumambulation of Mount Kailash — is one of the world's great pilgrimages. Buddhists, Hindus, Jains, and Bon practitioners all make the circuit, walking clockwise (or, for Bon followers, counter-clockwise) at altitudes ranging from 4,600 to 5,630 metres. The standard route takes three days, overnighting at Dirapuk Gompa on the north face and Zuthulpuk Gompa on the south. It passes directly beneath the mountain's dramatic north face, a near-vertical wall of black rock and ice that is one of the most impressive sights in the Himalayan world.

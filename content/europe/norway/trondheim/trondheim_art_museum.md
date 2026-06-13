@@ -7,6 +7,7 @@ snippet: Norway's third-largest art museum, next to the cathedral
 tags:
 - things_to_do
 - museum
+score: 6.8
 ---
 
 Norway's third-largest art museum sits in a handsome building next to the cathedral, with a collection that runs from Norwegian Romantic landscape painting through Edvard Munch to contemporary Nordic art. The permanent rooms upstairs are quiet and uncrowded, with strong holdings of Norwegian painters who are less well-known abroad than Munch but worth meeting — Christian Krohg, Harriet Backer, Nikolai Astrup.

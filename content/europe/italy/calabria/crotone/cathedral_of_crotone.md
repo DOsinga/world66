@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.0831
 longitude: 17.1296
+score: 6.8
 ---
 
 The Cathedral of Crotone (Cattedrale di Maria Santissima Assunta) is the main church of the city, sitting in the old quarter near the castle. The current building dates largely from the late seventeenth century, though the site has been a place of worship since the early medieval period. The interior is relatively plain but contains some good baroque decorative work and several paintings from the seventeenth and eighteenth centuries.

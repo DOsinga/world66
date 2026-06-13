@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.8583
 longitude: 13.9500
+score: 8.8
 ---
 
 The Spreewald's 300 kilometres of waterways are navigable by kayak or canoe — a very different experience from the group punt tours. Paddling gives you the freedom to leave the main channels and find the quiet back routes where you might go an hour without seeing another boat. Rental places in both Lübbenau and Lübben hire kayaks and canoes by the hour or day, with or without guides.

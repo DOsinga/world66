@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.1972
 longitude: 112.9760
+score: 7.4
 ---
 
 Changsha's signature noodle dish is the mala beef noodle — a bowl of smooth rice-flour noodles in a fiery red broth made with dried chilli, Sichuan peppercorn, fermented black beans, and a rich beef stock simmered for hours. The dish is served with thin-sliced poached beef, spring onion, preserved vegetables, and usually a splash of chilli oil added at the table. A bowl costs ¥18–30 depending on the venue; the differences between a ¥20 and ¥60 version are real but not enormous.

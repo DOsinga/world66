@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Tombs of the Kings
 type: poi
+score: 9.0
 ---
 
 Rock-cut tombs from the 4th century BC on the hillside 3 kilometres north of the old harbour. Not kings, actually — high-ranking Ptolemaic officials — but the Doric peristyle tombs are monumental enough that the old name stuck. UNESCO World Heritage-listed together with the archaeological park. A single ticket covers both sites.

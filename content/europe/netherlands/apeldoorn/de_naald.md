@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - monument
+score: 5.2
 ---
 
 A 23-metre sandstone obelisk on the Zwolseweg, halfway between the town centre and Paleis Het Loo. It was put up in 1844 to commemorate the silver wedding anniversary of William II and Anna Pavlovna, who used it as a milestone on their carriage drives from the palace to the town. The shape is meant to recall the obelisks that Anna would have known from her childhood in Saint Petersburg.

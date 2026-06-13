@@ -11,6 +11,7 @@ tags:
 - bar
 title: Le Roi Ubu
 type: poi
+score: 5.7
 ---
 
 A lively bar on the Grand Rue in Geneva's Old Town, Le Roi Ubu draws a young crowd with its relaxed atmosphere and central location. In winter the action stays inside; in summer everyone moves out to the terrace. A reliable spot for a late-night drink in the Vieille Ville.

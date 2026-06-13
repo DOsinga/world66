@@ -8,6 +8,7 @@ tags:
 latitude: 51.8756
 longitude: -9.6208
 story: "Dunkerron was the stronghold of the O'Sullivan Mór, lords of this part of Kerry, who built the present tower in the 1590s on the site of an earlier fortress. The castle was abandoned after Cromwell's wars and slowly stripped for building stone, but the four-storey shell still stands almost to roof height — a striking silhouette on its little headland above the bay."
+score: 6.2
 ---
 
 A roofless tower house in a field three kilometres west of Kenmare, just off the road to Templenoe. Access is informal — park near the gate, walk across the meadow, mind the cattle. There are no signs, no entrance fee, and usually no other visitors. From the top of the rise the castle frames a view across the Kenmare River to the mountains of the Beara.

@@ -8,6 +8,7 @@ tags:
 latitude: -16.6746
 longitude: -49.2641
 story: "In September 1987, scrap dealers broke into an abandoned radiotherapy clinic and removed a caesium-137 source capsule. Not knowing what it was, they cracked it open to extract the glowing blue powder inside. Neighbours were fascinated by the substance that glowed in the dark; some rubbed it on their skin. By the time contamination was confirmed, 249 people had been exposed and four had died. The incident became a case study in radiation safety taught worldwide."
+score: 6.8
 ---
 
 The Goiânia Caesium-137 accident of 1987 was one of the worst radiological accidents in history — worse, in terms of civilian casualties and contamination, than Three Mile Island. It happened not at a nuclear plant but in the heart of a Brazilian city, when a stolen medical device was cracked open and its radioactive contents distributed among curious neighbours.

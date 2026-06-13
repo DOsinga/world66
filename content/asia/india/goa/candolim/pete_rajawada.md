@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Long-standing Goan-Continental restaurant on the main road."
+score: 5.5
 ---
 
 Pete's has been feeding hungry travellers on the Candolim main road since well before the place became famous. The menu spans Goan classics — fish curry rice, chicken cafreal, prawn balchão — alongside the usual continental and Indian dishes that fill out a Goan restaurant menu.

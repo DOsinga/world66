@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 5.9
 ---
 
 Frenchy's is the name you will hear most often when asking locals where to eat on Clearwater Beach. The original cafe opened in 1981 and has since expanded to five locations along the beach strip, but the Rockaway Grill is the flagship — an open-air spot right on the sand at 7 Rockaway Street with direct Gulf views and live music most evenings.

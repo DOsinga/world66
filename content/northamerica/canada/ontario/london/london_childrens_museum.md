@@ -8,6 +8,7 @@ tags:
 - museum
 title: London Children's Museum
 type: poi
+score: 5.6
 ---
 
 A hands-on children's museum in a converted Victorian school building west of downtown, with exhibits aimed at ages two to twelve — a dinosaur dig, a child-sized arctic camp, a working kid's-sized grocery. It is small by the standards of newer big-city science centres but very well-loved locally. A few hours is enough.

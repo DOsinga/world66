@@ -8,6 +8,7 @@ tags:
 - nature
 - sight
 snippet: Extensive date palm oasis lining the Zousfana River valley below the dunes
+score: 8.2
 ---
 
 The lush palm grove that runs along the Zousfana River valley is the other half of Taghit's famous contrast — the living oasis on one side, the Sahara on the other. Thousands of date palms crowd the valley floor, shading gardens and fields irrigated by the river and traditional seguia (irrigation channels) that have sustained life here for centuries.

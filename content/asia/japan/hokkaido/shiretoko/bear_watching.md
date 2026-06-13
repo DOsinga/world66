@@ -13,6 +13,7 @@ story: >
   Kamchatka and Alaska than to mainland Japanese brown bears. The peninsula's
   bears have relatively little fear of humans and will approach roads and
   coastal areas casually.
+score: 8.4
 ---
 
 Brown bears (higuma) are common enough on the Shiretoko Peninsula that seeing one is not a matter of luck — it is a matter of timing and positioning. The most reliable viewing spots are the Shiretoko Pass road between Utoro and Rausu in late summer, when bears concentrate at the roadside foraging for berries, and the coastal boat tours, where bears come down to the shore to feed on salmon.

@@ -8,6 +8,7 @@ latitude: 55.0609
 longitude: 15.1326
 sources:
   - https://en.wikipedia.org/wiki/Nex%C3%B8_Church
+score: 6.3
 ---
 
 Nexø Church is the medieval parish church of the town, built from the distinctive Bornholm granite that gives the island's older buildings their sturdy, grey character. The church dates to the 13th century, with later additions and modifications — the tower is the most prominent feature when approaching the town from the south.

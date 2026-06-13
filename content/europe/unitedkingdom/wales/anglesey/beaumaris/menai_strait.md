@@ -12,6 +12,7 @@ story: >
   knots, and the channel between the two bridges is one of the trickiest
   pieces of pilotage in British waters. The shifting Lavan Sands on the
   Beaumaris side were once a foot-route to the mainland at low tide.
+score: 7.7
 ---
 
 The Menai Strait is the tidal channel separating Anglesey from the Welsh mainland, sixteen miles long and at its narrowest only 250 metres wide. Beaumaris sits on its eastern entrance, where the strait opens to the Irish Sea, and the seafront offers a continuous view across the water to the foothills of Snowdonia.

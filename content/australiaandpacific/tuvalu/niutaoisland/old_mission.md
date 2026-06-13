@@ -7,6 +7,7 @@ tags:
   - history
 latitude: -6.115
 longitude: 177.338
+score: 7.0
 ---
 
 The ruins of an old Catholic mission stand on the southern side of Niutao, half-overgrown with creeper and pandanus. Christianity arrived in Niutao in the nineteenth century through the London Missionary Society and quickly reshaped daily life on the island; the Catholic mission came later and never put down deep roots, as most of the population remained with the Protestant church that became the Ekalesia Kelisiano Tuvalu.

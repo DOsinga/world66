@@ -8,6 +8,7 @@ tags:
 - sight
 title: Hornby Island
 type: poi
+score: 8.9
 ---
 
 Two ferries from the Comox Valley — first to Denman, then across to Hornby — bring you to one of the most unusual small islands in British Columbia. Three hundred metres of crescent-shaped white-sand beach at Tribune Bay are unlike anything else on the Strait of Georgia, and the sandstone cliffs of Helliwell Provincial Park on the east side drop straight into water frequented by sea lions and orcas.

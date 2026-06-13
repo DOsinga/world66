@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 32.6652
 longitude: -117.0327
+score: 5.9
 ---
 
 Rohr Park is one of Chula Vista's largest green spaces, a 58-acre park in the Bonita neighbourhood near Sweetwater Road. Big, mature trees shade the picnic areas, and wide grassy lawns give the park a genuine sense of space. It has a small lake, jogging paths, a disc golf course, and a popular off-leash dog area, making it a practical destination for local residents and a decent stopping point if you are passing through.

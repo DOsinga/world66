@@ -12,6 +12,7 @@ story: >
   The chateau was built for Gilles Berthelot, treasurer of France, between 1518 and 1527 — then promptly confiscated by Francis I when Berthelot's cousin was accused of embezzlement. Berthelot fled the country and never saw his finished building. The chateau became a gift to a royal favourite and passed through private hands for centuries before the French state finally bought it in 1905.
 sources:
   - https://en.wikipedia.org/wiki/Ch%C3%A2teau_d%27Azay-le-Rideau
+score: 9.2
 ---
 
 The Château d'Azay-le-Rideau is built on a small island in the Indre river, and the reflection of its towers and dormers in the surrounding moat gives it an almost dreamlike quality. Constructed between 1518 and 1527, it is one of the finest examples of early French Renaissance architecture in the Loire Valley — less grandiose than Chambord, more intimate than Chenonceau, and arguably more beautiful than either.

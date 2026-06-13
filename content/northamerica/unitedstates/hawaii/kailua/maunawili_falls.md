@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, hiking]
 latitude: 21.3767
 longitude: -157.7603
+score: 6.9
 ---
 
 The Maunawili Falls trail leads through dense lowland rainforest at the foot of the Koolau range to a 6-metre waterfall with a pool deep enough for swimming. The trail is about 5 km return, crosses the Maunawili stream several times — wet feet are guaranteed after rain — and includes a few short rooty climbs.

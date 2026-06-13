@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 Sidi Boulbaba is the patron saint of Gabès, and the mosque-shrine complex named for him is the main religious monument of the city. Local tradition holds that the saint was Abu Lubaba al-Ansari, a companion of the Prophet Muhammad — although the historical evidence for this is thin, the belief is deep-rooted and the shrine has been a place of pilgrimage for centuries.

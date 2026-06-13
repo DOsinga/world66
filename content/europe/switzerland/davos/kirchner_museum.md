@@ -8,6 +8,7 @@ latitude: 46.8001
 longitude: 9.8267
 story: >
   Ernst Ludwig Kirchner came to Davos in 1917 not for the skiing but as a tuberculosis patient — one of thousands of consumptives who crowded the sanitariums along the valley in the early 20th century. He stayed for the rest of his life, finding the mountain landscape transformative for his painting. He killed himself in 1938, two months after the Nazis declared his work "degenerate art" and removed 639 of his works from German museums.
+score: 8.8
 ---
 
 The Kirchner Museum houses the world's largest collection of work by Ernst Ludwig Kirchner, the German Expressionist painter who spent the last 20 years of his life in Davos. Kirchner's Alpine paintings — savage, angular, vibrating with colour — are a complete departure from his urban Berlin work and show the mountains as something wild and overwhelming rather than picturesque.

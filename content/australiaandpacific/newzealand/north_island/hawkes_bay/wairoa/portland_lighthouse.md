@@ -13,6 +13,7 @@ story: >
   it was carefully dismantled and moved piece by piece to Marine Parade in
   Wairoa, where it still stands today as one of the best-preserved lighthouse
   structures in the country.
+score: 5.8
 ---
 
 The Portland Island Lighthouse on Marine Parade is Wairoa's most distinctive landmark — a solid kauri structure built in 1878 and now standing on the town's riverbank rather than its original island location. The kauri construction is unusual: most lighthouses of the era used brick or iron, and the quality of the wood means it has survived 150 years in excellent condition.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 4.8549
 longitude: 100.7400
+score: 7.8
 ---
 
 The Taiping morning market (pasar pagi) on Jalan Tupai runs from around 5am until 10am and is one of the livelier markets in Perak. The ground floor has fresh produce — tropical fruit, vegetables, live fish, and cuts of meat — but the real interest is in the food stalls on the upper floor and around the perimeter, where vendors sell Taiping laksa, nasi lemak, curry mee, and an assortment of kuih (traditional cakes and sweets) from first light.

@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 38.7869
 longitude: -76.2206
+score: 6.8
 ---
 
 The Crab Claw has been serving Chesapeake Bay seafood at the St. Michaels waterfront since 1965, and its reputation as the quintessential Maryland crab house is well deserved. The restaurant sits on the water right next to the Maritime Museum, with indoor and outdoor seating. The steamed crabs — sold by the dozen, piled on paper-covered tables, eaten with wooden mallets and Old Bay seasoning — are the reason most people come. Crab cakes, oysters on the half shell, and rockfish round out a menu that leans heavily on what came in that morning.

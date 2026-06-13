@@ -8,6 +8,7 @@ tags:
 latitude: -17.7600
 longitude: -63.1100
 snippet: 200-hectare botanic garden on the eastern edge of the city
+score: 7.7
 ---
 
 The Jardín Botánico Municipal stretches over more than 200 hectares on the eastern fringe of Santa Cruz, a strip of preserved Chiquitano dry forest with marked trails, lakes, and a small zoo of native wildlife. It is the easiest way to see what the land around the city looked like before the soybean fields and cattle ranches took over.

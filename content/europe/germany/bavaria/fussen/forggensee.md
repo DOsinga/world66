@@ -6,6 +6,7 @@ longitude: 10.7300
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 A turquoise 15-square-kilometre artificial lake that stretches north of Füssen, formed in 1954 by damming the Lech river. The lake is at full pool only between June and October — in winter it is drained and looks like a wide muddy gorge. During the summer season it is a popular destination for swimming (cold), boating, windsurfing, and cycling around the 32 km lakeshore path.

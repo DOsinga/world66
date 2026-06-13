@@ -7,6 +7,7 @@ tags:
 latitude: 43.5436
 longitude: -96.7287
 snippet: "Lakota dishes including Indian tacos and wojapi berry sauce"
+score: 7.0
 ---
 
 Chef Lawrence West serves Lakota food at this popular restaurant on Phillips Avenue — Indian tacos (fry bread topped with meat, beans, cheese, and fresh vegetables), wojapi (a thick berry sauce served over fry bread or ice cream), and other dishes rooted in Northern Plains Native American cooking. The food is genuinely distinctive and unlike anything else in the city.

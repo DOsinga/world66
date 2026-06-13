@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 6.6
 ---
 
 The Raney House is a Greek Revival home built in 1838 by a cotton merchant who arrived from Virginia during Apalachicola's first boom. The pediment, fluted columns, and twin chimneys are textbook Greek Revival; the interior, restored by the Apalachicola Area Historical Society, contains period furniture and family items from the Raneys' century of occupation.

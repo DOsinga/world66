@@ -13,6 +13,7 @@ story: Edith Cavell was a British nurse working in German-occupied Belgium durin
   the Canadian Geographic Board named this peak in her honour in 1916 — barely a
   year after her death. Her name is now permanently fixed to one of the most dramatic
   mountains in the Rockies.
+score: 9.2
 ---
 
 At 3,363 metres, Mount Edith Cavell is one of the most striking peaks in Jasper National Park, its north face streaked white by the hanging Angel Glacier and its silhouette visible from far down the Athabasca Valley. The approach road from the valley floor climbs through increasingly dramatic scenery before arriving at the trailhead, and it is one of the most scenic drives in the park — though it is closed to RVs due to its narrow switchbacks.

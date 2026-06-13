@@ -8,6 +8,7 @@ tags:
 latitude: 32.7067
 longitude: -117.1616
 snippet: The world's largest pop culture convention — 130,000 attendees each July for comics, film, TV, and gaming
+score: 6.8
 ---
 
 San Diego Comic-Con International runs four days each July at the San Diego Convention Center on the waterfront, drawing around 130,000 attendees to what began in 1970 as a small comics convention and has grown into the central event of American popular culture marketing. The convention floor covers 460,000 square feet; the panel programming runs simultaneously in 50 rooms; the Hall H auditorium seats 6,500 people for major film and television announcements.

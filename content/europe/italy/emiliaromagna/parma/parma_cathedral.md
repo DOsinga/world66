@@ -9,6 +9,7 @@ tags:
   - church
   - architecture
 story: "Correggio painted the Assumption of the Virgin on the cathedral dome between 1526 and 1530 — Mary rising into a swirl of foreshortened bodies that seemed to open a hole through the ceiling. A contemporary canon was unimpressed and called the work a 'guazzetto di rane,' a fricassée of frogs. The judgement haunted him; the painting is now considered one of the great steps toward the Baroque."
+score: 9.5
 ---
 
 The Duomo di Parma is one of the finest Romanesque cathedrals in Italy, begun in the 11th century and consecrated in 1106. From the outside it is restrained, almost severe, in pale stone; inside it opens into a high vaulted nave, frescoes covering nearly every surface, and the great Correggio dome — Assumption of the Virgin, 1526–1530 — that astonished its first viewers and still dominates the space.

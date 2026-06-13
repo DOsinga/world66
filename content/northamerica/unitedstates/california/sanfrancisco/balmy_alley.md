@@ -10,6 +10,7 @@ tags:
 title: Balmy Alley
 neighbourhood: Mission District
 type: poi
+score: 8.4
 ---
 
 Balmy Alley is a one-block lane in the heart of the Mission District where nearly every garage door, fence, and wall is covered in murals. The tradition began in the early 1970s and exploded in 1984 when local artists organized a project to paint the entire alley with works protesting US intervention in Central America. The murals have been painted over and renewed many times since, and the subjects now range from indigenous heritage to gentrification to pure visual exuberance.

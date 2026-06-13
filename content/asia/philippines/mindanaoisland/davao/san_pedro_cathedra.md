@@ -8,6 +8,7 @@ tags:
 - church
 title: San Pedro Cathedral
 type: poi
+score: 7.2
 ---
 
 San Pedro Cathedral is the seat of the Catholic Archdiocese of Davao and the oldest church in the city, standing at the corner of San Pedro Street and C.M. Recto Avenue. The current structure dates from the mid-twentieth century, rebuilt after the original was destroyed during World War II. It remains an active parish and a quiet spot to step out of the heat in downtown Davao.

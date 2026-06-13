@@ -11,6 +11,7 @@ title: Forum Marinum
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Forum_Marinum
+score: 8.0
 ---
 
 Forum Marinum is a maritime museum dedicated to Finland's seafaring history, housed in a former granary near Turku Castle. The permanent collection covers naval history, merchant shipping, and the Finnish Coast Guard, but the real draw is what's moored outside: several historic vessels including the full-rigged ship *Suomen Joutsen* (Swan of Finland) and the minelayer *Keihässalmi* are open to board.

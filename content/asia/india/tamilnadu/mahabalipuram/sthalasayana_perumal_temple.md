@@ -9,6 +9,7 @@ tags:
 - temple
 - historic_site
 story: This is one of the 108 Divya Desams — the sacred Vishnu temples enumerated in the Nalayira Divya Prabandham, the canonical devotional poetry of the Tamil Vaishnava tradition. While the Shore Temple nearby is better known to tourists, this temple has been a pilgrimage destination for Tamil Vaishnava Hindus for over a thousand years and remains in active daily worship.
+score: 7.0
 ---
 
 The Sthalasayana Perumal Temple, also known as Thirukadalmallai ("the sacred seashore"), is an ancient Vishnu temple in the heart of Mahabalipuram. Unlike the rock-cut monuments and structural temples of the UNESCO complex, this temple is still in active use as a place of worship, with daily rituals and seasonal festivals drawing pilgrims as well as curious visitors.

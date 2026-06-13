@@ -12,6 +12,7 @@ tags:
 - sports
 title: Arrowhead Stadium
 type: poi
+score: 6.8
 ---
 
 Arrowhead Stadium is the home of the Kansas City Chiefs, the NFL franchise that won multiple Super Bowls under Patrick Mahomes in the late 2010s and early 2020s. The stadium holds the Guinness World Record for the loudest outdoor stadium — 142.2 decibels — and the Chiefs' fan base, known as "the Kingdom," earns that reputation every game day. A Chiefs home game is one of the defining Kansas City experiences, though tickets are difficult and expensive to obtain for the regular season.

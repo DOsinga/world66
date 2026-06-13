@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.6806
 longitude: 6.4417
+score: 6.1
 ---
 
 Grevenmacher received its town charter in 1242 and was once one of the most fortified towns on the Luxembourg Moselle. The medieval walls are largely gone, but fragments remain embedded in the fabric of the town — a tower here, a section of wall there — and the street plan still follows the old defensive layout. The central square, Place du Marché, is a good starting point for a short walk through the old core.

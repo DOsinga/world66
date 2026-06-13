@@ -7,6 +7,7 @@ tags:
 latitude: 40.6275
 longitude: 22.9618
 snippet: Award-winning museum of early Christian and Byzantine art and artefacts
+score: 8.8
 ---
 
 The Museum of Byzantine Culture, a short walk from the Archaeological Museum, won the Council of Europe Museum Prize in 2005 and deserves the accolade. It is one of the best museums in Greece, with a collection that spans from the early Christian period through the fall of Constantinople and the post-Byzantine tradition that continued under Ottoman rule.

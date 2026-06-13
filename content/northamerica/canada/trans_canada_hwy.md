@@ -6,6 +6,7 @@ tags:
 - getting_around
 title: Trans-Canada Highway
 type: poi
+score: 7.4
 ---
 
 The Trans-Canada Highway stretches roughly 7,800 km from Victoria, British Columbia to St. John's, Newfoundland, linking all ten provinces and earning its reputation as Canada's Main Street. It is one of the longest national highways in the world.

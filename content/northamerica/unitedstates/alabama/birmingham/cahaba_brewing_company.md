@@ -6,6 +6,7 @@ tags:
 - bars_and_cafes
 title: Cahaba Brewing Company
 type: poi
+score: 5.8
 ---
 
 Named for the Cahaba River, Alabama's longest free-flowing river, this brewery in a converted industrial building in the Lakeview district produces a range of well-made craft beers with the White Oak Wheat and Oka Uba IPA among the most popular. The taproom is large and comfortable, with a dog-friendly patio and food truck rotations on weekends.

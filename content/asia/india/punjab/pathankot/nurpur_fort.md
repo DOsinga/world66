@@ -15,6 +15,7 @@ story: >
   The Mughal emperor Jahangir himself stayed at Nurpur and reportedly admired the
   fort, while the Pathania rulers who built it defied multiple Mughal attempts
   at conquest before eventually being absorbed into the empire as vassals.
+score: 8.2
 ---
 
 Nurpur Fort stands in the small town of Nurpur about 24 kilometres east of Pathankot on the road to Dharamsala, and it is one of the most rewarding stops on this stretch of road. The fort was the seat of the Pathania Rajput dynasty that once controlled this corner of the hills, and its ruins — crumbling walls, a remarkable temple, and carved stone work — are far more impressive than the town's modest appearance suggests.

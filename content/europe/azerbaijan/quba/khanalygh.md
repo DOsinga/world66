@@ -8,6 +8,7 @@ latitude: 41.5200
 longitude: 48.4400
 story: >
   The people of Khanalygh speak Khinalug, a language isolate with no relatives anywhere in the world. Linguists estimate the language has been spoken here, in isolation at 2,350 metres above sea level, for at least three thousand years. The community numbers only about two thousand people.
+score: 9.0
 ---
 
 Khanalygh (also spelled Khinaliq) is a village at 2,350 metres in the Shahdag massif, about 60km from Quba, reached by a rough road that climbs through alpine meadows. It is one of the most remote continuously inhabited settlements in the Caucasus and the home of the Khinalug people, who speak a language unrelated to any other on earth.

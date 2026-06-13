@@ -12,6 +12,7 @@ sources:
   - https://www.seasancarlos.com/isla-san-pedro-nolasco/
 story: >
   The island's sea lion colony has been resident here for centuries and the animals show a remarkable indifference to divers — young males will swim circles around you and tug at fins, seemingly out of curiosity. Manta rays up to four metres across pass through in autumn, often in groups of a dozen or more, which makes October and November some of the best diving months on the whole Sea of Cortez.
+score: 8.6
 ---
 
 Isla San Pedro Nolasco lies about 27 kilometres west of San Carlos and is one of the best diving destinations in the northern Sea of Cortez. The island is uninhabited and protected as a natural reserve, which means the marine life is unusually dense and unafraid. Day trips run from the San Carlos marina, with the crossing taking roughly 45 minutes by panga.

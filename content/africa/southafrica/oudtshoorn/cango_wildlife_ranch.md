@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -33.5662
 longitude: 22.2142
+score: 6.8
 ---
 
 On the same road as the Cango Caves, three kilometres north of Oudtshoorn, Cango Wildlife Ranch is a serious conservation facility as much as a tourist attraction. It houses cheetahs, white lions, meerkats, African penguins, and various reptiles, with a focus on breeding programmes for endangered species.

@@ -9,6 +9,7 @@ latitude: 41.2055
 longitude: 13.5769
 sources:
   - https://en.wikipedia.org/wiki/Gaeta
+score: 8.0
 ---
 
 Serapo is Gaeta's main beach and one of the best on the Lazio coast: a wide crescent of golden sand sheltered by the peninsula to one side and backed by the lower town on the other. The water is clear and relatively shallow near the shore, making it suitable for families. In the height of summer the beach is solidly packed with umbrella-and-lounger concessions, but the public sections remain free.

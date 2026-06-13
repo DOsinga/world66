@@ -6,6 +6,7 @@ longitude: -86.78
 tags:
   - bars_and_cafes
   - bar
+score: 5.7
 ---
 
 Coconuts is a clifftop palapa bar on the wild east coast — a long-running expat institution that has been serving cold beer and grilled fish to anyone who finds it for thirty years. The setting is the draw: tables under thatched roofs perched above the Caribbean, with views down to a small empty cove far below.

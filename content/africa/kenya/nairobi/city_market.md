@@ -7,6 +7,7 @@ tags:
 latitude: -1.2835
 longitude: 36.8226
 snippet: Downtown Nairobi's main crafts market, packed with carvings, beadwork, and textiles in a covered colonial building
+score: 6.7
 ---
 
 The City Market on Muindi Mbingu Street is the most accessible place in Nairobi to buy crafts and souvenirs. The covered building — erected in the colonial era as a produce market — now holds stall after stall of Maasai beadwork, soapstone carvings, batik fabrics, kikoi textiles, wooden animal carvings, and leather goods from across Kenya.

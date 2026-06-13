@@ -7,6 +7,7 @@ tags:
 latitude: 62.0775
 longitude: -7.4325
 story: "Tindhólmur's five jagged peaks — named Ytsti, Arni, Lítli, Breið, and Bogdi — are the remnants of a volcanic formation that has resisted erosion more than the surrounding basalt. No one has lived on the island permanently since the 19th century; today it's visited only by researchers and the occasional permitted hiker."
+score: 7.7
 ---
 
 Tindhólmur is the uninhabited islet visible across Sørvágsfjørður from the village of Bøur, its five serrated peaks rising steeply from the sea. It's one of the most striking natural features in the Faroe Islands and the backdrop for some of the most reproduced photographs of the archipelago.

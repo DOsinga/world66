@@ -14,6 +14,7 @@ story: >
   The colonial bungalows and English-style clock tower he left behind are still there.
 sources:
   - https://en.wikipedia.org/wiki/Fraser%27s_Hill
+score: 8.5
 ---
 
 Fraser's Hill (Bukit Fraser) sits at around 1,500 metres in the Titiwangsa range, about an hour's drive up winding mountain roads from Kuala Kubu Baru. The temperature drops noticeably on the plateau — it feels like a different country from the sweaty lowlands below — and the colonial-era bungalows, English cottage gardens, and mock-Tudor architecture give the place a distinctly eccentric, preserved feel.

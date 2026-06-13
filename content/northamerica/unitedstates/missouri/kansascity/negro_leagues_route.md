@@ -8,6 +8,7 @@ tags:
 - walking
 title: Negro Leagues Walking Route
 type: poi
+score: 6.5
 ---
 
 The 18th and Vine district offers a walking tour of the physical landscape of Black Kansas City in the 1930s and 1940s, when the neighborhood was the cultural heart of one of the largest African American communities in the Midwest. The route passes the former sites of jazz clubs, barbershops, restaurants, and rooming houses where the men who built the Negro Leagues and the Kansas City jazz scene lived their daily lives.

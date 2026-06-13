@@ -10,6 +10,7 @@ longitude: 77.19
 snippet: "Forest sanctuary on the slopes above Manali, good for birdwatching and short treks"
 story: >
   The sanctuary covers around 31 square kilometres of deodar cedar, oak, and rhododendron forest on the slopes immediately above Manali. In winter, leopards occasionally come down to lower elevations. The forest trail up to the Manali temple ruins passes through the sanctuary boundary — most visitors walk through it without realising.
+score: 6.5
 ---
 
 The Manali Wildlife Sanctuary occupies the forested hillsides directly above the town, rising from the deodar cedars near the Hidimba temple up through mixed oak and rhododendron forest to the alpine meadows above. It is an approachable green space rather than a remote wilderness: trails from the town edge lead into it within minutes.

@@ -6,6 +6,7 @@ longitude: -70.9097
 tags:
   - things_to_do
   - museum
+score: 8.2
 ---
 
 The Salesian missionary museum, three blocks north of the Plaza on Avenida Bulnes, is dusty, overstuffed and quietly fascinating. The Italian priests who arrived in the 1880s set themselves the task of documenting absolutely everything they saw in southern Patagonia, from the rocks to the birds to the people, and the museum is essentially the inventory of that project.

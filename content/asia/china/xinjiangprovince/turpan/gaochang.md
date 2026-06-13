@@ -15,6 +15,7 @@ story: >
   stayed for a month on his 7th-century pilgrimage to India, preaching to
   the king and being plied with horses and gold to continue his journey.
   Mongol attacks finished the place in the 14th century.
+score: 9.1
 ---
 
 A vast walled ruin 40 km southeast of Turpan, covering more than 2 square kilometres of compacted earth walls, defaced temples and the brick stumps of what were once palaces. At its peak in the 9th century, Gaochang held perhaps 50,000 people; today only the outer ramparts, two large temple complexes and the central palace area still rise above the desert floor.

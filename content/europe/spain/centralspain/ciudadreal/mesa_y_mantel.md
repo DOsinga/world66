@@ -6,6 +6,7 @@ longitude: -3.9252
 tags:
   - eating_out
   - restaurant
+score: 6.1
 ---
 
 A long-standing Ciudad Real institution serving the classic Manchego repertoire — duelos y quebrantos, partridge stew, roast suckling lamb — in a comfortable stone-walled dining room. The wine list is naturally heavy on local Valdepeñas and Méntrida.

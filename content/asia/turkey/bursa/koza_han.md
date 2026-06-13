@@ -14,6 +14,7 @@ story: >
   courtyard laden with cocoons from the Bursa hinterland, and merchants from as far as Persia and Venice 
   came to buy. You can still find silk scarves and textiles here — at prices well below Istanbul's 
   Grand Bazaar.
+score: 8.4
 ---
 
 The Koza Han is a beautifully preserved Ottoman caravanserai built in 1491 by Sultan Bayezid II, sitting in the heart of Bursa's old bazaar district beside the Grand Mosque. Two storeys of arcaded rooms surround a courtyard with a small octagonal fountain mosque (mescit) in the centre, and a mulberry tree that has been growing here for centuries. The whole thing has been carefully maintained and is still in use as a commercial centre.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - religious
+score: 7.2
 ---
 
 The octagonal baptistery facing the cathedral, built in the 13th century on the site of a former pagan temple. The exterior is striped in white and green marble on one side only — the project ran out of money before the other faces could be completed, leaving the back walls in plain stone.

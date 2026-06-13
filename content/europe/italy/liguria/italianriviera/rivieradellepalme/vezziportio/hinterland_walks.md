@@ -6,6 +6,7 @@ latitude: 44.2376
 longitude: 8.3500
 story: >
   The ridge above Spotorno and Noli was used as a defensive line during World War II, and traces of wartime fortifications still appear on the hillsides. The area saw fighting during the partisan campaign of 1944–45 — the Ligurian Apennines were a stronghold of the resistance, and the network of trails through these hills was used by couriers and fighters moving between the coast and the mountains.
+score: 7.6
 ---
 
 The hills around Vezzi Portio are part of the ridge that separates the Ligurian coast from the Po Valley, and they are threaded with walking trails that offer views over both sides on clear days. From the village, paths lead up onto the ridge above Spotorno and Noli to the south and connect westward into the network above Finale Ligure, which is one of the best trail areas in Liguria.

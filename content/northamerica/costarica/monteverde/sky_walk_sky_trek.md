@@ -5,6 +5,7 @@ snippet: Original hanging-bridge operation in the cloud forest, with separate wa
 tags: [things_to_do, activity, canopy]
 latitude: 10.3367
 longitude: -84.8158
+score: 7.9
 ---
 
 Sky Adventures was one of the first operators to put suspension bridges into the Monteverde canopy and the walking route, Sky Walk, is still one of the better experiences of its kind. The trail runs through cloud forest with five hanging bridges, the highest 60 metres above the floor of a ravine.

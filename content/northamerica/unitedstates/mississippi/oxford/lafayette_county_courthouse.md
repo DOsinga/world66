@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The original 1840 courthouse was burned by Union troops in 1864 along with much of Oxford. The replacement was rebuilt in 1872 in the same Federal style on the same foundations — and the Confederate monument facing south from the lawn was removed in 2020, a long-running debate that finally turned on the courthouse standing more comfortably as a literary site than as a Lost Cause one."
+score: 8.2
 ---
 
 The Lafayette County Courthouse anchors the Square at the centre of Oxford and is the building Faulkner used over and over as the courthouse in his fictional Yoknapatawpha. The current structure — a square brick Federal building with a tall white cupola — dates from 1872, replacing the original 1840 courthouse burned by Union troops during the Civil War.

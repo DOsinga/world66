@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.3232
 longitude: 69.2625
+score: 6.8
 ---
 
 A linear park running along the Ankhor Canal that bisects central Tashkent, connecting Independence Square to the old town. Shade trees, pedestrian bridges, fountains, and benches. The path is around six kilometres in total and is the easiest place in the city for a long walk.

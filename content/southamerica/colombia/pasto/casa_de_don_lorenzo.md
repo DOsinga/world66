@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 1.2152
 longitude: -77.2800
+score: 6.1
 ---
 
 A long-established restaurant in a converted colonial house off Plaza de Nariño, serving traditional Pastuso dishes — frito pastuso, cuy asado, lapingachos, and a good caldo de cuy.

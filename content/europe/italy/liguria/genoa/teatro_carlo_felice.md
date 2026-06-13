@@ -14,6 +14,7 @@ story: >
   The rebuilt version, completed in 1991 with a glass tower rising from the historic
   shell, was so controversial that it was nicknamed "Il Contenitore" (The Container)
   by hostile Genoese.
+score: 7.0
 ---
 
 Genoa's opera house occupies the site of the original 1828 theatre that was bombed in 1944. The rebuilding — completed in 1991 to designs by Aldo Rossi and Ignazio Gardella — grafted a modernist glass tower onto the surviving neoclassical facade, a decision that divided opinion sharply. The interior is functional but cold; the exterior, facing Piazza De Ferrari, works better, the portico integrating with the square.

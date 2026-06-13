@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.3
 ---
 
 An 11-acre common land on the north side of Hitchin centre, named for the **archery butts** that stood here in the Middle Ages when townspeople were obliged by royal decree to practise the longbow. After archery declined the land served as fairground, pasture and now a public park.

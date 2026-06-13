@@ -6,6 +6,7 @@ longitude: 11.9783
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 La Nicchia, set in a converted dammuso in the rural village of Scauri Basso, is the most ambitious restaurant on the island. The chef cooks Pantescan classics with a light contemporary hand — caper pesto on smoked tuna, ravioli stuffed with island ricotta and mint, a slow-braised rabbit with zibibbo grapes — and the kitchen runs its own small caper farm out the back.

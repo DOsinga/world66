@@ -15,6 +15,7 @@ story: >
   monks having meditated here for centuries.
 sources:
   - https://en.wikipedia.org/wiki/Geumganggul_Cave
+score: 6.8
 ---
 
 Geumganggul is a limestone cave set in the rock face above the Seorakdong valley, reached by a trail that branches off the main valley route and climbs steeply via metal steps and ladders. The cave itself is relatively small but contains a simple Buddhist shrine, and the cave mouth offers a framed view back down the valley. The ascent takes about 30 minutes from the junction and involves some exposed ladder sections.

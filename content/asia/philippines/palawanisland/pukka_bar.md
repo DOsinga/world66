@@ -6,6 +6,7 @@ longitude: 119.3905
 tags:
   - bars_and_cafes
   - bar
+score: 4.9
 ---
 
 A small, scruffy bar on El Nido's main beachfront, **Pukka** is the after-dark social hub for the dive-shop crew and a long line of backpackers. Loud music, draught beer, a sandy floor and a pool table; expect to be there longer than you planned.

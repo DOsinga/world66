@@ -8,6 +8,7 @@ tags:
 latitude: 28.6832
 longitude: -17.7642
 snippet: La Palma's handsome colonial capital, with wooden balconied mansions and a seafront promenade
+score: 8.2
 ---
 
 Santa Cruz de La Palma is one of the more attractive small capitals in the Canary Islands. The old town, tucked between the waterfront and steep hills, has a compact grid of 16th-century streets lined with Canarian timber-balconied houses — the characteristic wooden galleries painted in bright colours that distinguish the architecture of these islands from anything on the mainland.

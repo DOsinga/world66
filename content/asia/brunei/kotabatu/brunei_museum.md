@@ -6,6 +6,7 @@ latitude: 4.8852
 longitude: 114.9688
 story: >
   The museum's collection of Islamic art includes one of the finest assemblages of Chinese ceramics recovered from an Islamic context anywhere in Southeast Asia — the result of Brunei's position as a major trading entrepôt where Chinese merchants exchanged porcelain for spices and forest products.
+score: 8.4
 ---
 
 The Brunei Museum is the country's principal national museum, housed in a large building on the Brunei River with good views across the water. The collections cover archaeology, natural history, Islamic art, and the oil and gas industry that defines modern Brunei. The Islamic arts gallery is the strongest section, displaying ceramics, manuscripts, metalwork, and textiles from across the Muslim world.

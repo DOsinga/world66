@@ -7,6 +7,7 @@ tags:
 - restaurant
 type: poi
 snippet: No-frills canteen in the caruggi beloved by students and market workers for decades
+score: 7.2
 ---
 
 Trattoria da Maria is not elegant, it is not quiet, and you will share tables with strangers. It is, however, one of the most authentic experiences of Genoese everyday eating available to an outsider. Operating from a set of interconnected rooms just off Via XXV Aprile, it serves a daily changing menu at prices that have barely changed in a decade.

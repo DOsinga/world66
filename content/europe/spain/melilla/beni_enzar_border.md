@@ -15,6 +15,7 @@ story: >
   crossing each day, legally importing goods duty-free under EU humanitarian
   exemptions. The practice was officially ended in 2019, transforming the
   border's character overnight.
+score: 6.5
 ---
 
 The Beni Enzar crossing at the northern edge of Melilla is the gateway to [Morocco](/africa/morocco), and worth visiting for the sheer theatre of it even if you are not crossing. The border sits at the end of a busy commercial strip, and the contrast between the Spanish city behind you and the Moroccan town of Beni Ansar ahead is immediate and striking.

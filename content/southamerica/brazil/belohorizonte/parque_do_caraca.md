@@ -9,6 +9,7 @@ tags:
 story: "The wolves come to the steps. At nightfall most evenings, the resident maned wolves of the surrounding Atlantic Forest emerge from the trees to eat scraps of food left on the doorstep of the old monastery by the Brothers — a habit that began in the 1980s and has never quite stopped."
 title: Parque Natural do Caraça
 type: poi
+score: 7.6
 ---
 
 Parque do Caraça is a 113-square-kilometre reserve of high Atlantic Forest about a hundred kilometres east of Belo Horizonte. The original draw is the Caraça Sanctuary, a nineteenth-century monastery and school complex built on a remote mountain plateau, with a striking neo-Gothic chapel and accommodation that is now run as a hotel.

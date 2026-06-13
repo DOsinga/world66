@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, art, garden]
 latitude: 26.70639
 longitude: -80.04222
+score: 7.7
 ---
 
 The Society of the Four Arts is a cultural institution on the Lake Worth Lagoon, founded in 1936 to bring art, music, drama, and literature to Palm Beach in the season (roughly November through April, when the town is populated). It operates a gallery, a library, a film series, lecture programmes, and botanical gardens, all in a pleasant lakefront setting.

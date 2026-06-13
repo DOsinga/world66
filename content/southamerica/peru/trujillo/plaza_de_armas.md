@@ -8,6 +8,7 @@ latitude: -8.1116
 longitude: -79.0289
 story: >
   Trujillo's Plaza de Armas is one of the largest in Peru, and its pastel-painted colonial mansions with carved wooden balconies have earned the city the nickname "the City of Eternal Spring." The cathedral facing the square took over a century to complete, from 1647 to 1771, and its façade mixes Baroque with indigenous decorative motifs in a style particular to northern Peru.
+score: 8.2
 ---
 
 The Plaza de Armas is the elegant centre of Trujillo's colonial core, lined with pastel-coloured 17th and 18th-century mansions that are among the best-preserved in Peru. The square itself is large and well-tended, with a bronze statue of a liberation fighter at its centre. On weekends it fills with families and street food vendors.

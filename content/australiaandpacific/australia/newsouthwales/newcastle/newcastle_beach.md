@@ -7,6 +7,7 @@ tags:
 latitude: -32.9294
 longitude: 151.7892
 snippet: The main city beach with ocean baths, surf, and direct access from the CBD
+score: 6.8
 ---
 
 Newcastle Beach is the most central of the city's ocean beaches, reachable on foot from the city centre in about fifteen minutes through the East End. It is a broad, east-facing surf beach with consistent swell and a long stretch of sand backed by a grassy reserve. The Newcastle Ocean Baths, carved into the rock platform at the northern end, are a heritage-listed tidal swimming pool dating from 1922 — excellent for lap swimming when the surf is too rough for the open beach.

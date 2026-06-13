@@ -1,6 +1,7 @@
 ---
 title: "Chesapeake Bay Seafood"
 type: poi
+score: 6.8
 ---
 
 The Chesapeake Bay is the defining culinary geography of coastal Virginia, and its influence reaches deep into the Virginia Beach dining scene even though the ocean gets most of the attention. Blue crabs from the bay are the regional obsession — steamed in Old Bay seasoning, picked at a newspaper-covered table with a mallet and a cold beer alongside. This is less a restaurant and more a tradition, though the Blue Pete's area off Indian River Road and the waterfront spots near the western parts of the city do it better than the tourist strip.

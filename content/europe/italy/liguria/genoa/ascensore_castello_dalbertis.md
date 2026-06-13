@@ -7,6 +7,7 @@ tags:
 - sight
 type: poi
 snippet: Historic public elevator that runs both horizontally and vertically up the hillside
+score: 7.0
 ---
 
 Genoa's hillside topography has always required creative solutions for vertical transport. The Ascensore Castello d'Albertis, installed in 1909, is one of the strangest: a combination of horizontal and vertical movement in a single cabin, linking the street level to the Castello d'Albertis above. The ride is brief but the geometry is odd and memorable.

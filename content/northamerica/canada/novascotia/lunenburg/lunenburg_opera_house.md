@@ -6,6 +6,7 @@ longitude: -64.3090
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 The Lunenburg Opera House is a functioning performance venue in a restored historic building in the heart of the Old Town. It hosts theatre, music, comedy, and community events throughout the year, with the summer season being the busiest. The building itself, with its original Victorian detailing and wooden interior, is worth a look regardless of what's on.

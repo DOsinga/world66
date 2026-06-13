@@ -13,6 +13,7 @@ story: >
   the largest openly accessible fossil site in Europe, where you can walk
   among specimens that have not been moved from the rock where they died
   200 million years ago.
+score: 8.6
 ---
 
 The Réserve Géologique de Haute-Provence covers 2,000 square kilometres of mountain country north of Digne and is one of the largest protected geological zones in Europe. The landscape preserves 300 million years of geological history in exposed rock faces, fossil beds, and formations created by the collision of tectonic plates that built the Alps.

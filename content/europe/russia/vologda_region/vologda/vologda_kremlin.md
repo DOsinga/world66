@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 59.2240
 longitude: 39.8822
+score: 8.3
 ---
 
 What is usually called the Vologda Kremlin is technically the Bishop's Court — the enclosed compound adjacent to Saint Sophia Cathedral that served as the residence and administrative centre of the Vologda diocese from the 16th to 19th centuries. The main building is the 17th-century Archbishop's Chambers, a three-storey stone structure with a roof covered in kokoshnik (arched) decorations.

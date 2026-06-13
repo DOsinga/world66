@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Local Bahian restaurant in its own tropical garden
+score: 7.6
 ---
 
 A chef-owned Bahian restaurant in the Cabula neighbourhood inland from the centre, set in a lush garden where the chef grows much of the produce on the menu. Cooking is traditional Bahian — moquecas, xinxim, vatapá — but with sharper technique and more care than the Pelourinho tourist places.

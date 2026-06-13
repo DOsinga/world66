@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 story: "Bernardo O'Higgins set up his command post in this church during the two-day Disaster of Rancagua in October 1814. The Mercedarian fathers had retreated to the convent, and from this position O'Higgins directed his hopeless defence before breaking out on horseback through the royalist lines."
+score: 7.4
 ---
 
 The Iglesia de la Merced is the most historically charged building in Rancagua. It dates from the late 18th century, making it the oldest surviving church in the city, and its role in the 1814 battle gave it the status of a national monument.

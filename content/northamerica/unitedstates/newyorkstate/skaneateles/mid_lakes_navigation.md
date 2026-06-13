@@ -8,6 +8,7 @@ tags:
 - sight
 title: Mid-Lakes Navigation Mailboat
 type: poi
+score: 8.1
 ---
 
 The mailboat departs the village dock in Clift Park most mornings from late June through early September, looping down the lake on a three-hour trip while delivering and collecting mail at private cottages. Sightseeing cruises and Sunday brunch trips run on a similar schedule for those who do not need the postal experience.

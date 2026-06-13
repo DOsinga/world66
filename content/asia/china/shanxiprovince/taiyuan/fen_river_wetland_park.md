@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.8200
 longitude: 112.5300
+score: 6.3
 ---
 
 The Fen River Wetland Park in the southern part of Taiyuan is a large riverside park developed from formerly degraded industrial land along the river, incorporating restored wetland habitats, walking and cycling paths, and a series of lakes and reed beds. The park is evidence of the environmental recovery the Fen River has undergone in the last fifteen years — from a heavily polluted industrial waterway to a corridor that now supports waterbirds and wetland vegetation through the city.

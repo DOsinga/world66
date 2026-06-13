@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.7561
 longitude: 13.2317
+score: 6.2
 ---
 
 The Schlosspark Oranienburg stretches along the western bank of the Havel river, surrounding the palace on three sides. Originally laid out as a formal Baroque garden in the 17th century, it was transformed into an English landscape park in the 19th century, with winding paths, lawns, and views back across the water to the palace facade. The park is open daily and free to enter.

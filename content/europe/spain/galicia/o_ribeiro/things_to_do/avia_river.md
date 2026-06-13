@@ -8,6 +8,7 @@ latitude: 42.2950
 longitude: -8.1350
 sources:
   - https://en.wikipedia.org/wiki/Avia_(river)
+score: 7.8
 ---
 
 The Avia is the river that defines the heart of O Ribeiro. It rises in the mountains to the north and runs south to join the Miño just below Ribadavia, cutting a steep-sided valley that has been planted with vines since at least the twelfth century. The valley floor is narrow — in places barely wide enough for a road — and the slopes above are terraced almost to the top.

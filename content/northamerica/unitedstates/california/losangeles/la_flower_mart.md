@@ -12,6 +12,7 @@ tags:
 title: L.A. Flower Mart and Flower District
 type: poi
 url: www.laflowerdistrict.com
+score: 7.3
 ---
 
 The largest wholesale flower market in the US occupies two warehouse blocks in the Fashion District and supplies most of the florists on the West Coast. Public buyers are welcome from mid-morning onward. Come early on a Saturday for the best selection and the full sensory experience — the scent and color hit you the moment you walk in.

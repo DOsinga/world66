@@ -12,6 +12,7 @@ story: >
   rocky descent of the Repack Road became legendary, and the improvised sport they were practising
   spread from here to become a global phenomenon. The mountain is now closed to mountain bikes on
   most trails, but the history is commemorated at the Marin Museum of Bicycling.
+score: 8.8
 ---
 
 Mount Tamalpais rises to 2,571 feet above the Pacific and offers some of the finest hiking in the Bay Area, with panoramic views extending from the Farallon Islands to the Sierra Nevada on a clear day. The mountain is crossed by more than 50 miles of trails at varying difficulty levels, from gentle walks through redwood groves to steep ridge scrambles.

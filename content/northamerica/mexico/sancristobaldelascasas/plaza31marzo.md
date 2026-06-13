@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.7370
 longitude: -92.6376
+score: 7.2
 ---
 
 The Plaza 31 de Marzo is the main square and social hub of San Cristóbal, named for the date in 1528 when the Spanish city was officially founded on the site of an earlier indigenous settlement. Shaded by large trees and ringed by the cathedral, the Palacio Municipal, and a row of restaurants and cafes, it is the kind of colonial plaza that makes this part of Mexico so attractive to visitors.

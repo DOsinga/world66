@@ -14,6 +14,7 @@ story: >
   Booth (brother of Lincoln's assassin), Buffalo Bill Cody, Al Jolson, and Mark
   Twain — who used the hall to give what many consider his first major public
   lecture, before his career as a writer made the performances unnecessary.
+score: 8.0
 ---
 
 Piper's Opera House, built in 1878 and rebuilt in 1885, is one of the most significant surviving theatres of the American West. John Piper, a German immigrant who owned much of Virginia City's entertainment infrastructure during the silver boom, built the opera house to attract performers from San Francisco and the East Coast. The venue hosted everyone from Shakespearean actors to vaudeville troupes to presidential visitors.

@@ -6,6 +6,7 @@ latitude: -15.8316
 longitude: -69.9608
 snippet: A village of around 100 islands woven from totora reeds in the bay outside Puno
 story: The Uros have lived on the lake since long before the Incas, originally retreating onto the water to escape land-based conflicts. The largest reed islands carry up to ten families; each island has to be rebuilt every few months as the bottom layers rot away into the lake.
+score: 8.2
 ---
 
 The most famous attraction in Puno and a genuinely strange place. The Uros are a small indigenous group who have lived on the lake for centuries on artificial islands constructed entirely from cut totora reeds — root mat below, layered stalks above, replenished from the top as the bottom decays. There are around a hundred of these islands in the bay just north of Puno, each home to a small family group.

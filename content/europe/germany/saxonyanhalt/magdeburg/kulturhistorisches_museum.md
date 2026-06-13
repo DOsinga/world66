@@ -9,6 +9,7 @@ longitude: 11.63
 address: Otto-von-Guericke-Straße 68-73, 39104 Magdeburg
 opening_hours: Tue-Fri 10:00-17:00, Sat-Sun 10:00-18:00
 snippet: The city's main history museum, housing the original Magdeburg Rider and collections from antiquity to the present
+score: 8.2
 ---
 
 Magdeburg's main museum of cultural history occupies a complex of historic buildings near the cathedral and covers the city's history from the Stone Age to the 20th century. The headline exhibit is the original Magdeburger Reiter — the 13th-century equestrian statue that is the city's symbol — displayed in a purpose-built room that lets you examine it at close range.

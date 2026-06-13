@@ -8,6 +8,7 @@ tags:
 - sight
 title: Calle Sagarnaga
 type: poi
+score: 7.0
 ---
 
 Calle Sagarnaga runs uphill from [Plaza San Francisco](/southamerica/bolivia/lapaz/plaza_san_francisco), and the higher you go the deeper into the market district you are. The lower blocks are artisan shops and the better souvenir operations: alpaca knitwear (sweaters, scarves, gloves, hats), silver jewellery, woven textiles from different regions of Bolivia and Peru, musical instruments including small charangos with armadillo-shell backs, and the usual range of tourist goods from the useful to the forgettable. Quality varies significantly between shops; it pays to compare before buying.

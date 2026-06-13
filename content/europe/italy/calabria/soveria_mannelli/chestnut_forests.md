@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 39.0900
 longitude: 16.3800
+score: 7.8
 ---
 
 The slopes around Soveria Mannelli are covered in some of the finest chestnut forests in Calabria. In autumn the forest floor turns to gold and the air smells of wood smoke and damp earth; mushroom foragers come out in force and the market fills with porcini and ovoli. In summer the trees provide deep shade and the paths through them are cool even when the Calabrian coast below is sweltering.

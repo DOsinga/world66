@@ -6,6 +6,7 @@ longitude: 15.2131
 tags:
   - things_to_do
   - sight
+score: 5.0
 ---
 
 The Pizzo Sopra la Fossa is the spur of land just below the summit craters where, until 2019, guided ascents converged to watch eruptions from a few hundred metres above the vents. Following the major eruption of that year, walking up to the Pizzo itself is banned, and most authorised routes stop further down the cone.

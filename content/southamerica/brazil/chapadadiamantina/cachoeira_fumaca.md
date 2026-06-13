@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Cachoeira_da_Fuma%C3%A7a
 story: >
   The falls are called "Smoke Falls" (Fumaça means smoke) because the water often evaporates before reaching the bottom — the 340-metre drop through dry air, particularly in the dry season, creates a fine mist that rises back upward like smoke rather than hitting the pool below. In the dry months, it may be more mist than waterfall; in the wet season, the full force of the plunge pool can be felt and heard from hundreds of metres away.
+score: 9.4
 ---
 
 Cachoeira da Fumaça is one of the tallest waterfalls in Brazil and one of the most spectacular in South America, a 340-metre plunge off the edge of the Chapada plateau into the valley below. The standard approach is from above — a two-to-three-hour hike from the village of Capão across the plateau surface to the rim, where you look directly down the full height of the fall into the canyon below. The view from the edge, looking out across the valley with the water disappearing into spray far below, is one of the definitive images of Chapada Diamantina.

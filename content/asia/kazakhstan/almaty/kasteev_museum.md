@@ -9,6 +9,7 @@ tags:
   - art
 story: >
   The museum is named after Abilkhan Kasteev, the first professional Kazakh painter, who worked in the Soviet era and whose vibrant, large-scale canvases documented nomadic life at the exact moment it was being forcibly collectivised. His work is both a celebration of the culture he grew up in and an inadvertent record of its destruction. The tension in his paintings is evident once you know the context.
+score: 8.6
 ---
 
 The Kasteev State Museum of Arts is Kazakhstan's national art museum, housing the largest collection of visual art in the country. The permanent collection spans Russian and Soviet painting, Kazakh fine and decorative art, and works from across Central Asia. The Kasteev rooms on the upper floors are the heart of the collection: his paintings of steppe life, horse festivals, and collective farm scenes are richly coloured and historically fascinating.

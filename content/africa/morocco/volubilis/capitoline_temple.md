@@ -9,6 +9,7 @@ latitude: 34.07262
 longitude: -5.55454
 story: >
   The Capitoline Temple was built in 218 AD during the reign of Emperor Caracalla. Unusually for a Roman Capitolium, the staircase faces north toward the Forum rather than south — a local adaptation, possibly reflecting pre-Roman Berber orientation practices at the site.
+score: 8.0
 ---
 
 The Capitoline Temple stands at the west end of the Forum on a high podium, dedicated to the Roman divine triad of Jupiter, Juno, and Minerva. Erected in 218 AD under Caracalla, it served as the central expression of Roman imperial religion in this outpost at the edge of the empire. Six large columns once fronted the temple; several of their column drums remain stacked in the vicinity, giving a sense of the original height and scale.

@@ -7,6 +7,7 @@ tags:
 latitude: 6.276375
 longitude: 1.80672
 snippet: "Grand-Popo sits in the heartland of West African Vodun — ceremonies, sacred temples, and January festival"
+score: 7.6
 ---
 
 Benin is the acknowledged birthplace of Vodun — what the Western world calls voodoo — and Grand-Popo is in the heart of it. The town and its surrounding villages have active Vodun temples, shrines, and practitioners whose traditions predate the colonial era by centuries. Vodun is not a performance or a tourist attraction here; it is the religion of most of the local population.

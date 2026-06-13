@@ -6,6 +6,7 @@ tags:
   - wildlife
 latitude: 15.2996
 longitude: 119.9731
+score: 6.1
 ---
 
 Botolan municipality has some of the most significant sea turtle nesting beaches in Central Luzon. Green sea turtles and olive ridley turtles come ashore to nest between October and February, and the Rama International Beach Resort runs a hatchery programme that monitors nests, relocates eggs at risk of flooding, and releases hatchlings into the sea. Visitors can sometimes participate in releases, which happen at night when the risk from predators is lowest.

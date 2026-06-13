@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Broad public square framed by the Mevlana shrine and the Selimiye mosque"
+score: 6.7
 ---
 
 Mevlana Square is the great open space at the heart of pilgrim Konya, ringed on its eastern side by the green-tiled Mevlana Museum and on its northern side by the Ottoman Selimiye Mosque. The square is paved in pale stone, planted with rose beds, and ringed by benches and tea kiosks; on summer evenings it fills with families taking the air, children running in the fountain spray, and pilgrims arriving from out of town.

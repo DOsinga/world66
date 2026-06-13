@@ -9,6 +9,7 @@ tags:
 latitude: 46.6596
 longitude: 11.2313
 neighbourhood: Via dei Portici
+score: 6.0
 ---
 
 Vogele is one of the most reliably good restaurants in the old town, housed in a 14th-century building on one of the arcaded lanes off Via dei Portici. The menu is solidly South Tyrolean: canederli in broth, Schlutzkrapfen, venison goulash, apple strudel. The wine list focuses on local producers — the Lagrein from the nearby vineyards south of the city is excellent.

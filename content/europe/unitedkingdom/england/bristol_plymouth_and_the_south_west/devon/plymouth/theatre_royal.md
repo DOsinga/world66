@@ -8,6 +8,7 @@ tags:
 latitude: 50.3699
 longitude: -4.1451
 snippet: One of the largest producing theatres outside London, right in the city centre
+score: 6.6
 ---
 
 Theatre Royal Plymouth is the main producing theatre in the South West and one of the largest outside London. It opened in 1982 and has two venues: the Lyric, which seats about 1,300, and the smaller Drum Theatre, which is used for new writing and experimental work. The theatre produces its own shows rather than just hosting touring productions, which gives it an unusual character.

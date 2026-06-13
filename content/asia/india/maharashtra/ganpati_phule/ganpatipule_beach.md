@@ -8,6 +8,7 @@ latitude: 17.1390
 longitude: 73.2620
 story: >
   The beach at Ganpatipule is a rarity on the Konkan coast: clean, wide, and largely free of commercial development. The Maharashtra Tourism Development Corporation has kept it unusually tidy by Indian beach standards. Local fishermen still launch their boats from the northern end each morning, hauling in pomfret, bangda (mackerel), and tiger prawns that end up on plates in the town's small restaurants by noon.
+score: 8.1
 ---
 
 Ganpatipule's beach curves for several kilometres around a gently shelving bay, backed by coconut palms and low laterite headlands. The sand is pale and firm, the water clear — exceptionally clean by the standards of the west coast. The sea is calm enough for swimming for much of the year, though the monsoon months bring strong surf and undertows that make bathing dangerous.

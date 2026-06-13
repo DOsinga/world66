@@ -5,6 +5,7 @@ tags:
 - landmark
 title: Praza Maior
 type: poi
+score: 7.1
 ---
 
 Ourense's Praza Maior is the heart of the old town and one of the more handsome squares in Galicia, ringed by arcaded buildings in characteristic Galician granite. The baroque town hall closes one end; the market building another. The square has been the commercial centre of the city since the medieval period and still functions as a meeting place and the focal point of local festivals.

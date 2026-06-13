@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 25.2953
 longitude: 51.5397
+score: 7.2
 ---
 
 IDAM occupies the top floor of the Museum of Islamic Art and has some of the finest views in Doha: the Corniche curving away to the north, West Bay's towers rising across the water, and dhows anchored in the middle distance. Alain Ducasse's kitchen applies French technique to Gulf ingredients and spices — oud-smoked dishes, sumac-dressed seafood, and a lamb preparation that combines Persian and Maghrebi influences.

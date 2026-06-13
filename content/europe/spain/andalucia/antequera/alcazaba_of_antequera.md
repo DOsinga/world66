@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.0141
 longitude: -4.5577
+score: 7.7
 ---
 
 The Alcazaba sits at the top of the old town and was originally a Moorish fortress, built in the 14th century on foundations that go back to the Roman period. It was taken by the Castilians in 1410 — one of the early victories of the Reconquista — and the Torre del Homenaje was added shortly after to mark the conquest. The castle complex is not large, but the views from the tower are exceptional: olive groves rolling south towards Málaga, the strange flat top of La Peña de los Enamorados to the northeast, and the mountains of the Sierra de las Nieves behind.

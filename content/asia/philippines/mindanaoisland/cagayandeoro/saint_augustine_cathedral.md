@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 8.4748
 longitude: 124.6415
+score: 6.7
 ---
 
 The Catholic cathedral at the centre of Cagayan de Oro, dedicated to Saint Augustine and serving as the seat of the Archdiocese of Cagayan de Oro. The current structure dates from the early 20th century, built on the site of earlier churches that trace back to Spanish colonial times. The cathedral faces Gaston Park, the central public square of the old city, which makes the approach pleasant on foot.

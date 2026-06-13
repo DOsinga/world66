@@ -9,6 +9,7 @@ tags:
 - tower
 title: Big Shot
 type: poi
+score: 5.7
 ---
 
 Be launched into the air from the top of the Stratosphere tower. At 1,081 feet, it is one of the highest thrill rides in the world.

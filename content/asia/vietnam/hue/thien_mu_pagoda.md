@@ -9,6 +9,7 @@ tags:
 - sight
 title: Thien Mu Pagoda
 type: poi
+score: 8.4
 ---
 
 The most iconic image of Hue — a seven-story octagonal tower rising from the south bank of the Perfume River, about 4 kilometres upstream from the Citadel. The Phuoc Duyen tower was built in 1844 for Emperor Thieu Tri and stands 21 metres tall; it was added to a pagoda that had already stood here since 1601, when Lord Nguyen Hoang ordered its construction after a prophecy that a pagoda on this site would bring prosperity to the land. It is the oldest pagoda in the city.

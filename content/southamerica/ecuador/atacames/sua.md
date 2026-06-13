@@ -12,6 +12,7 @@ story: >
   fishermen have worked the bay for generations, and in the early morning you
   can watch them return with the night's catch and haggle with buyers directly
   on the beach.
+score: 7.6
 ---
 
 Súa is a small, pretty fishing village about 8 km south of Atacames, tucked into a sheltered bay with a rock headland on one side. The beach here is smaller and calmer than the main Atacames strip — less commercial, quieter, and with a view across to a small offshore island where frigatebirds and blue-footed boobies roost.

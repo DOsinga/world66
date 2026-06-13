@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -34.524
 longitude: 138.958
+score: 8.3
 ---
 
 Tanunda is the most characterful of the Barossa's main towns and the best base for exploring the valley. The main street has a good mix of delis, bakeries, wine shops, and galleries, and the surrounding streets still show their German heritage in the layout and architecture. The town was established in 1843 and named after the Tanunda Creek, with its German Lutheran church spires still prominent on the skyline.

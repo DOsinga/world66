@@ -11,6 +11,7 @@ story: >
   The Telliskivi complex was built in the late 19th and early 20th centuries as workshops and storage for the Baltic Railway. By the time it was converted to a creative district in 2009, the buildings had been derelict for years. The name "Telliskivi" means "brick stone" in Estonian — the buildings are indeed all brick. Within a decade it had become the centre of Tallinn's food, design, and nightlife scene.
 sources:
   - https://en.wikipedia.org/wiki/Telliskivi_Creative_City
+score: 8.3
 ---
 
 Telliskivi Creative City is the most interesting part of Tallinn outside the Old Town — a cluster of former railway workshops and warehouses converted into studios, restaurants, bars, a cinema, vintage shops, and event spaces. It sits just north of the main train station, a 15-minute walk from the Old Town along Telliskivi street.

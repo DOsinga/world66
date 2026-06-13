@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trip]
 latitude: 9.6558
 longitude: -82.7556
+score: 6.9
 ---
 
 [Puerto Viejo de Talamanca](/northamerica/costarica/puerto_viejo_de_talamanca) is 12 km south of Cahuita and operates at a different register entirely. Where Cahuita is quiet and village-scale, Puerto Viejo has a proper backpacker strip, a clutch of bars that stay open late, restaurants from several different culinary traditions, and a surf break — Salsa Brava — that is one of the heaviest reef breaks in Central America. The wave breaks over shallow coral and is strictly for experienced surfers, but watching it from the shore is worthwhile regardless of ability.

@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 26.5344
 longitude: -80.0578
+score: 6.8
 ---
 
 Boynton Beach's main public beach is a clean, relatively uncrowded stretch of Atlantic sand at the eastern end of Ocean Avenue. The park has shaded pavilions, picnic tables, a playground, outdoor showers, and a small café concession — all the infrastructure for a full beach day without crowds. Chair and umbrella rentals are available from a stand near the main pavilion.

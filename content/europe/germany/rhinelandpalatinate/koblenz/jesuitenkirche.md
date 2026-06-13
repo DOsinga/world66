@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.3604
 longitude: 7.5977
+score: 7.6
 ---
 
 The seventeenth-century Jesuit church and the small square around it form one of the prettiest corners of the rebuilt Altstadt. The church facade is pure post-Tridentine Baroque, restored after the war; the interior is plainer than the front suggests, with a fine stuccoed ceiling and a Baroque high altar.

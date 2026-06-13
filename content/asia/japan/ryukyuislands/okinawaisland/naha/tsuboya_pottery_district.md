@@ -15,6 +15,7 @@ story: >
   The district survived the 1945 bombing better than most of Naha.
 sources:
   - https://en.wikipedia.org/wiki/Naha_Municipal_Tsuboya_Pottery_Museum
+score: 7.8
 ---
 
 Tsuboya is a ten-minute walk from Kokusai Street but feels considerably quieter. The district has been the centre of Okinawan ceramics since the late seventeenth century, and it still has working pottery studios, small galleries, and a dedicated pottery museum. The characteristic Okinawan ceramic style — earthy glazes, robust forms, shisa guardian lion-dog figures — originated here.

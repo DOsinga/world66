@@ -7,6 +7,7 @@ tags:
 - historic
 title: Villa Mira Monte
 type: poi
+score: 6.2
 ---
 
 A Victorian Italianate mansion built in 1884 by Diana Murphy, daughter of Martin Murphy Jr., one of the earliest American settlers in California. The house was the center of a large ranching estate in the Coyote Valley and gives its name to the original Rancho Ojo de Agua de la Coche land grant. Listed on the National Register of Historic Places, it is one of the oldest surviving structures in the Morgan Hill area.

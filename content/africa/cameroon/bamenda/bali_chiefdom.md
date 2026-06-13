@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 5.8917
 longitude: 10.0167
+score: 6.7
 ---
 
 The largest of the Grassfields chiefdoms close to Bamenda, about 20 km west, with a smaller but interesting palace and a strong tradition of mask-making. The Bali are descended from a 19th-century migration of the Chamba people from northern Cameroon, and their traditions differ from those of the Tikar majority around them.

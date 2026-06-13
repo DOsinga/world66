@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -2.529
 longitude: -44.302
+score: 6.9
 ---
 
 Restaurante Vivas is a dependable regional food restaurant in the heart of Praia Grande, popular with both locals and visitors for its generous portions of traditional Maranhão dishes. The moqueca — fish or shrimp stewed in coconut milk and dendê oil — is consistently good, and the *arroz de cuxá* is made to a proper recipe, not the tourist version. 

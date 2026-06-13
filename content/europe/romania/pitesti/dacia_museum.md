@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 44.8670
 longitude: 24.9230
+score: 5.7
 ---
 
 The Dacia car factory is the single largest employer in Pitești and one of the most significant industrial sites in Romania. Founded in 1968 as a Renault licensee, it survived communism, was acquired by Renault in 1999, and now produces the Logan and Sandero models sold across Europe and beyond. The factory is not open to casual visitors, but the brand's story is woven into the fabric of the city.

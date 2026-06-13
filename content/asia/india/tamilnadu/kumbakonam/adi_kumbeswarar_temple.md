@@ -8,6 +8,7 @@ tags:
 - sight
 - temple
 snippet: "The town's principal Shiva temple, with a 16th-century 128-pillared mandapam"
+score: 8.6
 ---
 
 The Adi Kumbeswarar Temple is the oldest and most important Shiva temple in Kumbakonam, dating from the Chola period and significantly extended under the Nayaks in the sixteenth century. The presiding deity is an unusual lingam said to have been moulded by Shiva himself from the cosmic pot — the kumbam — from which the town takes its name.

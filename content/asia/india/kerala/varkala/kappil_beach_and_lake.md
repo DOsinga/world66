@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 8.777
 longitude: 76.714
+score: 7.8
 ---
 
 About 6 km north of the main cliff area, Kappil Beach is where the Edava-Nadayara backwater lake meets the Arabian Sea. The narrow strip of land between the lake and the ocean creates a landscape that is unusual even by Kerala standards: backwater canals on one side, open beach on the other, with coconut palms and fishing boats connecting the two.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.4878
 longitude: 101.5670
+score: 8.2
 ---
 
 The Great Sutra Hall (Da Jing Tang) is the largest building in Kumbum Monastery and the centre of its monastic life. Rebuilt after damage in the 19th century, the hall follows traditional Tibetan assembly hall design: low light entering from a central courtyard, rows of monks' cushions stretching back into the dimness, and altar furnishings — butter lamps, offering bowls, thangka hangings — of considerable age and quality.

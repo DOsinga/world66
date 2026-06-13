@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 6.1
 ---
 
 A reliable palapa restaurant on the malecón serving exactly what you want in El Cuyo: whole grilled fish, ceviche, octopus tacos, cold beer. The fish changes with the day's catch — usually grouper, snapper or barracuda — and is cooked simply over coals.

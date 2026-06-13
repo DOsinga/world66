@@ -3,6 +3,7 @@ title: Pipeline Road, Soberanía National Park
 type: poi
 latitude: 9.1000
 longitude: -79.6800
+score: 8.9
 ---
 
 Pipeline Road is the most celebrated birding site in Panama and one of the most productive single birdwatching locations in the Western Hemisphere. It is a 17-kilometre gravel track running through the lowland rainforest of **Soberanía National Park**, built originally to service a fuel pipeline, now maintained as a trail. The Audubon Society's annual Christmas Bird Count has recorded more than 400 species along this road in a single day — a world record for a 24-hour count that has been broken and re-broken at this site. Panama as a whole has more bird species than the continental United States and Canada combined, and a large proportion of them pass through or live in the corridor between here and Gatún Lake.

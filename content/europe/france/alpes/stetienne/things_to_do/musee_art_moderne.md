@@ -9,6 +9,7 @@ latitude: 45.4695
 longitude: 4.3740
 sources:
   - https://en.wikipedia.org/wiki/Mus%C3%A9e_d%27art_moderne_(Saint-%C3%89tienne)
+score: 8.4
 ---
 
 One of the best collections of modern and contemporary art in France outside Paris. The permanent collection holds over 20,000 works — paintings, sculptures, photography, design objects — with particular strengths in post-war French and American art. Picasso, Léger, Warhol, and Rauschenberg are all well represented, alongside a design wing that makes sense of the city's UNESCO Creative City designation.

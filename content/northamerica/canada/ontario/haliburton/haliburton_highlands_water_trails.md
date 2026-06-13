@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 45.27
 longitude: -78.55
+score: 8.0
 ---
 
 The Haliburton Highlands Water Trails are a network of canoe-and-portage routes through Crown land lakes north of town, run by a small non-profit. Permits are required and most outfitters in town can arrange them along with canoe rental. Compared with [Algonquin](/northamerica/canada/ontario/algonquin_park) the routes are quieter, the portages are shorter, and you can be on the water within an hour of leaving the village.

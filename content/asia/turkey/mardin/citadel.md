@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.3208
 longitude: 40.7400
+score: 5.0
 ---
 
 The Mardin Citadel occupies the highest point of the ridge, a rocky summit that has held a fortress since antiquity and still contains an active Turkish military installation — which means most of the ancient stonework is inaccessible to visitors. The access road is closed and the citadel itself is off-limits, but the outer walls and gateway are visible from below, and the strategic logic of the site is immediately apparent: from the heights, the entire Mesopotamian plain is visible in all directions.

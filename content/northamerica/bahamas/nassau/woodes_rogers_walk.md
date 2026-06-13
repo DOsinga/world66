@@ -7,6 +7,7 @@ tags:
   - downtown
 latitude: 25.0790
 longitude: -77.3401
+score: 7.2
 ---
 
 The paved waterfront promenade between Bay Street and the harbour, named for the British privateer who became the first royal governor of the Bahamas in 1718 and ended the pirate republic of Nassau. The walk runs the length of the cruise-ship docks, with the Straw Market at the western end and Potter's Cay at the eastern.

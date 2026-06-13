@@ -15,6 +15,7 @@ story: >
   to this remote highland town was impractical. The church's modest exterior conceals
   colonial religious art that has survived largely untouched because the region's
   inaccessibility discouraged looting.
+score: 5.8
 ---
 
 The Señor de Burgos Church stands on the Plaza de la Independencia in the La Laguna quarter of Chachapoyas, a few blocks from the main plaza. Built in the 17th century, it is one of the city's older colonial structures — an adobe church with a modest facade that opens into an interior containing colonial-era religious paintings and carvings that have received little academic attention despite their age and quality.

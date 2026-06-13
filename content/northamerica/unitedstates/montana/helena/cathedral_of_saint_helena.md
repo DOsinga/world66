@@ -9,6 +9,7 @@ tags:
   - architecture
 latitude: 46.59015
 longitude: -112.03254
+score: 8.9
 ---
 
 The Cathedral of Saint Helena is one of the finest Gothic Revival buildings in the American West, and it stands out even more strikingly for being in a city of 35,000 in Montana. Construction began in 1908 and wasn't completed until 1924, following designs modeled closely on the Votive Church in Vienna. The twin towers rise 73 meters above Lawrence Street and are visible from much of the city. Inside, the nave is lined with 59 stained-glass windows imported from Bavaria, and the overall effect — marble floors, soaring vaulted ceilings, rich color from the glass — is genuinely impressive.

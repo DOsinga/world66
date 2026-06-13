@@ -13,6 +13,7 @@ story: >
   Socialist Realism was imposed in the 1930s. Many of these works
   survived by being stored in basements or misclassified in storage,
   and only came to light after Ukrainian independence in 1991.
+score: 7.1
 ---
 
 The Kharkiv Art Museum holds one of the largest collections of fine art in Ukraine, occupying a grand building near Sadova Street. The permanent collection spans Ukrainian and Russian art from the 18th century onward, with particular strengths in 19th-century landscapes and portraits and in Ukrainian avant-garde and Constructivist work from the early Soviet period.

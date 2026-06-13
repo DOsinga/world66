@@ -8,6 +8,7 @@ story: "When excavations began in 1989 the diggers found not just baths but smal
 tags:
 - things_to_do
 - sight
+score: 7.6
 ---
 
 The Area Archeologica Viale Scavi preserves the substantial remains of a Roman thermal complex that operated here from the first century BC to the fourth century AD. Three large bathing pools cut into the bedrock are clearly visible from the walkways, along with the foundations of a small theatre and a section of ancient aqueduct.

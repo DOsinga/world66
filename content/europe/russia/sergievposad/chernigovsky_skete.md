@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The skete was founded in the 1840s on land once used by the hermit Filipp of Grachev, who had dug a network of underground prayer cells and passages. When the monks arrived they extended the underground network considerably — by the time the above-ground complex was built in the 1880s, there were several kilometres of underground passages. The architect Nikolai Sultanov, who designed the above-ground ensemble in a neo-Byzantine style, never descended into the caves; he reportedly found the underground passages disturbing.
+score: 7.8
 ---
 
 The Chernigovsky Skete is a smaller monastic complex about 4 kilometres southeast of the Trinity Lavra, belonging to the same monastery but operating with greater seclusion. It is notable for two things: the 1886 neo-Byzantine church ensemble designed by Nikolai Sultanov, whose five domes and decorative brickwork make it handsome above ground, and the extensive network of underground caves and prayer cells beneath it, which you can visit with a guide.

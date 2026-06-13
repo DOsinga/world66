@@ -9,6 +9,7 @@ latitude: 42.2517
 longitude: 18.8950
 sources:
   - https://en.wikipedia.org/wiki/Milocer
+score: 7.8
 ---
 
 Miločer beach lies south of the causeway, sheltered by a canopy of Mediterranean pines and backed by the former summer residence of the Yugoslav royal family. The setting is unusually pretty by Adriatic standards — shaded, relatively quiet, with clear turquoise water and a short walk from the main Sveti Stefan beach crowds.

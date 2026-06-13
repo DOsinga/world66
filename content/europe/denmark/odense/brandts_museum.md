@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Museum of photographic art and contemporary culture in a former textile mill
+score: 7.8
 ---
 
 Brandts occupies a converted 19th-century cotton mill in the centre of Odense and combines the Danish Museum of Photographic Art with rotating exhibitions of contemporary art and visual culture. The photography collection runs from 19th-century pioneers to current Danish documentary practice.

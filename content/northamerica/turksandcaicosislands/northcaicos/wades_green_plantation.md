@@ -15,6 +15,7 @@ story: >
   The experiment largely failed — the soil was thin, hurricanes were frequent, and the 
   cotton faced competition from American producers. Most of the Loyalist plantations 
   were abandoned within two generations.
+score: 8.8
 ---
 
 Wade's Green Plantation is the best-preserved example of a Loyalist cotton plantation in the Turks and Caicos Islands, dating from the 1790s when Loyalists fleeing the newly independent United States settled in the territory with their enslaved workforce. The ruins include the stone walls of the great house, a plantation office, the walled kitchen garden, and the foundations of the enslaved workers' quarters — a relatively rare case where the full social geography of a plantation site survives above ground.

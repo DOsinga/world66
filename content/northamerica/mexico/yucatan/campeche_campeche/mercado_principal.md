@@ -7,6 +7,7 @@ tags:
   - eating_out
 latitude: 19.8428
 longitude: -90.5294
+score: 7.4
 ---
 
 The main market is a busy, functional place that operates mainly in the mornings and provides the city's best window into daily life outside the polished historic centre. Stalls sell fresh produce from across Campeche state — habanero chiles, achiote paste, chaya (a leafy green native to the peninsula), and fresh seafood from the Gulf.

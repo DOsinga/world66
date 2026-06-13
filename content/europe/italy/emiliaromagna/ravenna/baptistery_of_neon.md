@@ -9,6 +9,7 @@ latitude: 44.4185
 longitude: 12.2016
 story: >
   Carl Jung visited the Baptistery of Neon in the 1930s and had what he described as a paranormal experience — a vision or hallucination that he later linked to his theories about the collective unconscious. He wrote about it in his autobiography, and the baptistery has since become a site of interest for Jungian scholars alongside its rather more mainstream status as a UNESCO World Heritage monument.
+score: 9.0
 ---
 
 The Baptistery of Neon is the oldest surviving building in Ravenna — built in the late 4th or early 5th century as a baptismal chamber for the city's early Christian community. It is a small octagonal structure, and its interior is covered from floor to dome in mosaic decoration that is among the finest of the period.

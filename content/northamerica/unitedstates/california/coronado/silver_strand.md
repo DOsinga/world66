@@ -11,6 +11,7 @@ latitude: 32.6466
 longitude: -117.1479
 sources:
   - https://en.wikipedia.org/wiki/Silver_Strand_(San_Diego_County)
+score: 8.1
 ---
 
 The Silver Strand is the narrow strip of sand that connects Coronado to the mainland, running seven miles south to Imperial Beach. A dedicated bike path follows the entire length, separated from the highway, making it one of the more pleasant cycling routes in Southern California — flat, windswept, with ocean on one side and bay on the other. On weekday mornings you will share the path mostly with military personnel from the nearby naval bases.

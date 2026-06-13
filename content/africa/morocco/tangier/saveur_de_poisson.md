@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Le Saveur de Poisson
 type: poi
+score: 7.8
 ---
 
 A small, fiercely traditional fish-only restaurant tucked into Escalier Waller, the stepped lane connecting the Grand Socco to the medina. There is no menu — Chef Mohamed Belhadj serves a four-course fixed feast that changes daily based on what came off the boats that morning: bread, soup, grilled and stewed fish, tagines, and the famous house infusion of fifteen herbs from the Rif mountains.

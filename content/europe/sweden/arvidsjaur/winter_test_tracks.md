@@ -13,6 +13,7 @@ story: >
   like Test World, Colmis, and Icemakers — the test season runs from late
   December to the end of March and the town's population effectively doubles
   with engineers and mechanics.
+score: 7.4
 ---
 
 Arvidsjaur is one of Europe's most important winter car-testing centres, with several major operators running circuits on the frozen lakes between December and March. The work is closed to the public — the tracks are surrounded by tarpaulins so spy photographers can't see the prototypes — but several operators offer driving experiences on smaller circuits to visitors, complete with handbrake turns and skid pans.

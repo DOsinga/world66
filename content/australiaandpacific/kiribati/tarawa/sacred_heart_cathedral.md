@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Catholic cathedral and seat of the Diocese of Tarawa and Nauru"
+score: 6.4
 ---
 
 The Sacred Heart Cathedral in Teaoraereke is the seat of the Roman Catholic Diocese of Tarawa and Nauru and one of the largest church buildings on the atoll. The Catholic Church is the single largest denomination in Kiribati, and Sunday mass here is a good window onto the country's intensely religious culture — strong choral singing in Gilbertese, packed pews, and a congregation that takes its faith very seriously.

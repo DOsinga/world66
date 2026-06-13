@@ -7,6 +7,7 @@ tags:
 neighbourhood: Niederburg
 latitude: 47.6640
 longitude: 9.1727
+score: 6.1
 ---
 
 After dark, the Niederburg shifts from restaurants to bars. The lanes between the cathedral and the Rhine outflow hold a cluster of small bars where the clientele is mostly students and young locals. Places open late, stay open later, and the atmosphere is friendly without being rowdy.

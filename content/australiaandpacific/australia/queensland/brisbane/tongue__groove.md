@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Tongue & Groove
 type: poi
+score: 5.6
 ---
 
 A long-running West End venue serving coffee and food during the day and operating as a licensed bar with live music in the evenings. Part of the Boundary Street strip that forms the social centre of West End.

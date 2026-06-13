@@ -12,6 +12,7 @@ story: >
   Aberdeenshire its colour. The site was fortified in the Pictish period — traces of an Iron Age
   fort lie beneath the medieval remains. It later passed through the hands of the Comyn family,
   who were rivals of Robert the Bruce, before falling into ruin.
+score: 7.2
 ---
 
 Dundarg Castle stands on a dramatic red sandstone headland to the east of New Aberdour, jutting into the Moray Firth. Only fragmentary ruins remain above ground, but the clifftop position is spectacular — on a clear day you can see across the firth toward the Black Isle and beyond.

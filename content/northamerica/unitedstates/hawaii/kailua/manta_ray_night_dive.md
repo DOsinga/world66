@@ -8,6 +8,7 @@ latitude: 19.6281
 longitude: -156.0117
 story: >
   The manta rays come to the lights, not the divers. Local dive operators discovered in the 1970s that underwater lights attract plankton, which in turn attract manta rays. What began as accidental observation has become one of the most reliable wildlife encounters in the world — on most nights, five to twenty mantas barrel-roll through the beams within arm's reach, their white undersides glowing.
+score: 9.2
 ---
 
 The manta ray night dive at the Garden Eel Cove, just north of Kailua-Kona, is one of the most spectacular wildlife experiences in Hawaii. Operators run evening boats to the site, where snorkellers and divers float above a sandy bottom while giant Pacific manta rays — wingspans up to 4 metres — circle continuously through the lights, feeding on the plankton the lights attract.

@@ -6,6 +6,7 @@ longitude: -3.929173
 tags:
   - things_to_do
   - museum
+score: 7.1
 ---
 
 The Provincial Museum is a small but well-presented archaeology and palaeontology collection covering the province from prehistory to the Romans and beyond. The star exhibits are fossils from the nearby Las Hoyas site and a striking display of Iberian sculpture, including animal-headed funerary pieces.

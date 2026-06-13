@@ -6,6 +6,7 @@ longitude: 78.8260
 tags:
   - eating_out
   - restaurant
+score: 5.4
 ---
 
 Mayura, next to Saibaba Theatre about 200 metres from the old bus stand, is the chaat and snacks place locals recommend: pav bhaji, cutlets, samosas, belpuri, decent ice creams. There is a small garden area inside, which is unusual for the price point and a welcome relief in the heat.

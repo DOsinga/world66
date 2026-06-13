@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -2.529
 longitude: -44.306
+score: 7.0
 ---
 
 Trapiche is a waterfront restaurant near the old port area, specializing in the freshest possible fish and seafood from the bay. The kitchen does uncomplicated things well: whole grilled fish, shrimp in coconut milk, crab cooked various ways, and the local rice dishes that make Maranhão cuisine distinctive. The terrace has views over the bay, and in the evening the lights on the water make it a pleasant setting.

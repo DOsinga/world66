@@ -8,6 +8,7 @@ latitude: 37.9536
 longitude: -91.7728
 story: >
   Fort Dette was built in 1861 as a double-decked earthwork fortification in a Greek Cross shape — an unusual design compared to typical Union earthworks. Rolla served as the supply base for General Lyon's army during the Missouri campaign, and the fort was one of several built to protect the rail depot. It was never attacked.
+score: 5.9
 ---
 
 Fort Dette is a Civil War earthwork fortification built by Union forces in 1861 to protect Rolla's crucial rail supply lines. The fort takes its name from Lieutenant Colonel Joseph B. Plummer, and is sometimes called Star Fort for its distinctive Greek Cross configuration — a shape designed to allow defenders to fire in any direction without exposing themselves.

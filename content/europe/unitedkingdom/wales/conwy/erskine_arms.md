@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 53.1245
 longitude: -3.8269
+score: 5.9
 ---
 
 The Erskine Arms, tucked into a corner of the walled town near the castle, is one of the more characterful pubs in Conwy — a low-ceilinged traditional Welsh pub with a real fire in winter and a reasonable selection of ales. It attracts a mix of locals and visitors, which keeps it from feeling like a tourist trap.

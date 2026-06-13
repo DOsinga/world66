@@ -10,6 +10,7 @@ latitude: 31.4192
 longitude: -64.1869
 neighbourhood: Centro
 story: "Argentina's first university and the fourth oldest in the Americas, founded by the Jesuits in 1613 — Harvard was 23 years away. In 1918, students here launched the University Reform movement, which spread across Latin America and remains the founding myth of progressive Argentine politics."
+score: 8.8
 ---
 
 The old building on Calle Obispo Trejo is the original university the Jesuits founded in 1613, taken over by the state after their expulsion. The historic main hall and library are open to visitors on guided tours, which run several times a day in Spanish and weekly in English.

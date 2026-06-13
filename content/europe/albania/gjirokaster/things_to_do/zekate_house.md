@@ -1,6 +1,7 @@
 ---
 title: "Zekate House"
 type: poi
+score: 9.0
 ---
 
 The Zekate House is the grandest privately owned kulla in Gjirokastër and one of the most impressive Ottoman domestic buildings in the entire Balkans. Built in 1812, it stands on the upper slopes of the old town with a twin-towered façade and views over the whole city and the Drino valley beyond. The Zekate family still owns and lives in the building, maintaining the tradition of family stewardship that has preserved so many of Gjirokastër's tower houses.

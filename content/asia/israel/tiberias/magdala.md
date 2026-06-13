@@ -6,6 +6,7 @@ latitude: 32.8250
 longitude: 35.5156
 story: >
   Archaeologists at Magdala uncovered a first-century synagogue with a carved stone that may have represented the Temple in Jerusalem. That discovery changed how scholars think about synagogue life in Galilee before the destruction of the Temple.
+score: 8.1
 ---
 
 Magdala, a few kilometres north of Tiberias, was an ancient lakeside town and is traditionally associated with Mary Magdalene. Excavations have revealed streets, ritual baths, market areas, and a remarkable first-century synagogue.

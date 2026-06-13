@@ -8,6 +8,7 @@ tags:
   - seafood
 latitude: 24.5097
 longitude: 54.3756
+score: 6.9
 ---
 
 A long-running fish restaurant on the Mina Zayed dhow harbour, serving grilled hammour, lobster, kingfish, and prawns in a setting that does not pretend to be other than what it is — a converted warehouse on a fishing dock, with plastic chairs, paper tablecloths, and the ladies' section in a curtained-off corner.

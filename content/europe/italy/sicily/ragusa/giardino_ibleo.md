@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 36.9257
 longitude: 14.7448
+score: 7.8
 ---
 
 The Giardino Ibleo is a public garden at the eastern end of Ragusa Ibla, occupying a promontory with views over the Irminio valley. Three small churches line its edges, including the ruined portal of the ex-church of San Giorgio Vecchio, which survived the 1693 earthquake and stands as a fragment of the medieval town that once occupied this site.

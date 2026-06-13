@@ -7,6 +7,7 @@ tags:
 - museum
 title: Phillips Petroleum Museum
 type: poi
+score: 7.8
 ---
 
 The history of Phillips Petroleum — the company Frank Phillips founded in Bartlesville in 1917, which eventually became ConocoPhillips — shaped the entire city. The Frank Phillips Home, a National Historic Landmark at 1107 South Cherokee Avenue, is a Colonial Revival house that Phillips built in 1909 and is open for guided tours.

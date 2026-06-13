@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 Iquique's neoclassical theatre, completed in 1890 at the height of the nitrate boom, is an extravagant piece of Belle Époque architecture out in the desert. The facade carries allegorical statues of the four seasons; the interior auditorium is decorated with frescoed ceilings depicting muses of music and poetry, and the original wooden seating is still in use.

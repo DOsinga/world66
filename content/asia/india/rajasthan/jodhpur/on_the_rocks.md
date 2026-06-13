@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: On the Rocks
 type: poi
+score: 5.8
 ---
 
 The restaurant at Ajit Bhawan, one of Jodhpur's older heritage hotels, is one of the more reliable places in the city for a full Rajasthani thali. The setting is a garden courtyard — trees, lanterns, and the low murmur of other diners — which makes it work as an evening meal in a way that few Jodhpur restaurants manage. The thali covers the classics: dal baati churma, ker sangri, gatte ki sabzi, bajra roti.

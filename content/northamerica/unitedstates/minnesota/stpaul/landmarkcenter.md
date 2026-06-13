@@ -12,6 +12,7 @@ tags:
 - story
 title: Landmark Center
 type: poi
+score: 8.1
 ---
 
 An imposing Romanesque Revival federal courthouse built in 1902, now a cultural centre hosting performing arts, exhibitions, and civic events. The ornate interior — turrets, a central courtyard, and grand staircases — is worth seeing in its own right. Free guided tours on Thursdays and Sundays.

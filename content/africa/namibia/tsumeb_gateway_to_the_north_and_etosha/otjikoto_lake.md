@@ -12,6 +12,7 @@ snippet: "One of only two natural lakes in Namibia, a deep sinkhole just off the
 story: "Retreating German forces dumped artillery, wagons, and supplies into Otjikoto in October 1915 to prevent them falling into South African hands. Divers have since recovered cannons, Maxim guns, and other equipment — some now on display in the Tsumeb Museum — but much remains on the lake floor, undisturbed since the war."
 sources:
   - https://en.wikipedia.org/wiki/Otjikoto_Lake
+score: 7.7
 ---
 
 Otjikoto Lake sits just off the B1 highway about 20km north of Tsumeb, and it is one of only two natural lakes in all of Namibia. The name is Otjiherero for "deep hole" — an apt description. The lake formed when the roof of an underground dolomite cavern collapsed, leaving a roughly circular pool of crystal-clear water fed entirely by underground springs. From the road it appears almost impossibly perfect: a blue disc punched into the flat bush scrub.

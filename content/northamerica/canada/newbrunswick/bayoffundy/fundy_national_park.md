@@ -15,6 +15,7 @@ story: >
   that will be under metres of cold seawater by afternoon. The same spot, same day.
 sources:
   - https://en.wikipedia.org/wiki/Fundy_National_Park
+score: 8.8
 ---
 
 Fundy National Park on the inner New Brunswick shore protects 206 square kilometres of Acadian forest and Fundy coastline between the village of Alma and Point Wolfe. The park has over 100 kilometres of trails, from short coastal walks on the tidal flats to demanding backcountry routes through old-growth forest.

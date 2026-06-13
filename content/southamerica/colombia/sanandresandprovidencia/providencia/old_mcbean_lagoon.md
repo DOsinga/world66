@@ -6,6 +6,7 @@ longitude: -81.362
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 Old Providence McBean Lagoon National Park covers the southeastern coast of Providencia and protects the island's most biologically rich stretch of reef, mangroves, and shallow lagoons. The park is part of the UNESCO Seaflower Biosphere Reserve, which encompasses the entire San Andrés archipelago and its surrounding waters — one of the largest marine protected areas in the Americas.

@@ -9,6 +9,7 @@ longitude: -19.6076
 snippet: "Iceland's oldest outdoor swimming pool, built into a hillside above a glacier river"
 story: >
   The pool was built in 1923 — making it the oldest outdoor swimming pool in Iceland still in use — primarily to teach Icelandic fishermen and sailors how to swim. The reasoning was grimly practical: Iceland's fishing industry lost many men to drowning every year, and the assumption that a fisherman should know how to swim was not universally held at the time.
+score: 7.8
 ---
 
 Seljavallalaug is a 25-metre outdoor pool set in a narrow valley about 10 kilometres west of Skógar, at the end of a 15-minute walk up a river gorge. It was built in 1923 in a hollow beneath a cliff, where a natural hot spring provides the water, and it looks exactly as old as it is — the changing facilities are basic wooden huts and the pool is lined with algae and has no filtration system. It is entirely wild, uncurated, and genuinely beautiful.

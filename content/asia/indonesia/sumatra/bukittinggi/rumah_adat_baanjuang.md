@@ -6,6 +6,7 @@ longitude: 100.3680
 tags:
   - things_to_do
   - museum
+score: 7.1
 ---
 
 Set inside Fort de Kock park, this small ethnographic museum is housed in a traditional rumah gadang with the long, sweeping buffalo-horn roofline that defines Minangkabau architecture. The collection covers Minangkabau weaving, ceremonial costume, kitchen tools, kris daggers, and an oddly fascinating room of taxidermied animals — including a two-headed buffalo.

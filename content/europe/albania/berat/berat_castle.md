@@ -14,6 +14,7 @@ story: >
   works are now in the Onufri Museum inside the castle.
 sources:
   - https://en.wikipedia.org/wiki/Berat_Castle
+score: 9.5
 ---
 
 Berat Castle (Kalaja e Beratit) rises on a rocky hill above the town, its massive Byzantine walls enclosing an inhabited village that has been continuously occupied since the 4th century BC. The citadel is not a ruin but a living neighbourhood: people still live in the old houses within the walls, chickens wander between the Byzantine churches, and cats sleep on the ancient stonework. Walking through the gate and into this self-contained world is one of the most arresting experiences in the western Balkans.

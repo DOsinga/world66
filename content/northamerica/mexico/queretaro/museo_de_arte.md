@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 20.5912
 longitude: -100.3961
+score: 7.8
 ---
 
 The Museo de Arte de Querétaro occupies a former Augustinian convent, and the building is as interesting as the collection. The main cloister is a superb example of Mexican baroque architecture — two storeys of elaborately carved stone arches decorated with saints, cherubs, and grotesques, surrounding a central garden fountain. It is one of the finest baroque interiors in Mexico and would justify a visit even if the galleries were empty.

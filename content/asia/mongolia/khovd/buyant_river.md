@@ -6,6 +6,7 @@ longitude: 91.6420
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The Buyant River curls around the southern edge of Khovd, and the willow-shaded park along the south bank is the city's main green space. Families come here on summer evenings for picnics; older men play khorlon (a Mongolian draughts variant) at the wooden tables; teenagers swim from the rocks below the bridge.

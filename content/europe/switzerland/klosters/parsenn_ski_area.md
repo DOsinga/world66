@@ -7,6 +7,7 @@ tags:
 latitude: 46.855
 longitude: 9.849
 story: The Parsenn descent from Weissfluhjoch to Klosters is one of the most celebrated long runs in Switzerland — 12 kilometres from the top station at 2,844 metres down to the village at 1,200 metres, crossing varied terrain through open snowfields, forest, and narrow valley tracks. It has been skied continuously since the 1930s and was one of the routes that established Klosters's reputation among serious alpine skiers.
+score: 8.5
 ---
 
 The Parsenn is the high alpine ski plateau that forms the main skiing terrain above Klosters, shared with Davos and accessed from the village via the Gotschnagrat gondola and cable cars. It covers an enormous area above the treeline, with multiple interconnected runs and reliable snow conditions from December through April, and sometimes into May on the upper reaches.

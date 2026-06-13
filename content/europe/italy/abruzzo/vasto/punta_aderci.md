@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 8.8
 ---
 
 A coastal nature reserve five kilometres north of Vasto Marina — 285 hectares of pebble beach, low limestone cliffs, and grassland, with a long sweep down to Punta Penna lighthouse at the southern end. The reserve has marked walking paths, swimming spots away from the marina crowds, and one of the best stretches of unsupervised Adriatic coast.

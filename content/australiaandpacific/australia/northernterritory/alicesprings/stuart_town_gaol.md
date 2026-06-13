@@ -7,6 +7,7 @@ tags:
 latitude: -23.69847
 longitude: 133.88129
 story: "When the gaol was built in 1907, Alice Springs (then called Stuart) had a European population of about 30 people. The stone cell block was considered a rather ambitious piece of infrastructure for such a tiny settlement. Its first prisoner arrived in 1909, and it remained in use until 1938."
+score: 7.0
 ---
 
 The Stuart Town Gaol on Parsons Street is the oldest surviving building in Alice Springs, a compact stone prison constructed in 1907 when the town was still called Stuart and held barely three dozen European residents. The thick limestone walls were built to keep prisoners in the Central Australian heat, and the cells are remarkably well preserved given the building's age and the harshness of the climate.

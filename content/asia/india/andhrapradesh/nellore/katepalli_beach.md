@@ -7,6 +7,7 @@ tags:
 - beach
 title: Katepalli Beach
 type: poi
+score: 5.9
 ---
 
 A quiet, mostly empty stretch of sand about 20 km south of Nellore along the coast road. The beach sees few visitors even on weekends, which is exactly its appeal — long walks without another soul in sight. The surf can be rough, so swimming requires caution. Fishing boats dot the shoreline in the mornings, and there are no facilities to speak of, so bring water and whatever else you need.

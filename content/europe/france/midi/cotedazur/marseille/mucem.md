@@ -9,6 +9,7 @@ tags:
 - museum
 - architecture
 story: "The concrete lattice wrapping the J4 building was designed by Rudy Ricciotti as a screen against the Mediterranean sun. Its perforated pattern, like a giant veil of stone, throws shifting shadows across the rooms and is now one of the city's most photographed surfaces."
+score: 8.9
 ---
 
 The MuCEM — Museum of European and Mediterranean Civilisations — opened in 2013 as the centrepiece of Marseille's year as European Capital of Culture. It occupies two linked sites at the mouth of the harbour: Rudy Ricciotti's striking J4 building, wrapped in a perforated concrete lattice, and the restored Fort Saint-Jean. A high footbridge connects them, with another bridge spanning across to the Panier and the Cathédrale de la Major.

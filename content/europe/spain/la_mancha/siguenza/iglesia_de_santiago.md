@@ -9,6 +9,7 @@ tags:
   - architecture
 title: Iglesia de Santiago
 type: poi
+score: 7.1
 ---
 
 The Iglesia de Santiago is one of the clearest traces of Romanesque Sigüenza, tucked into the slope between the cathedral and the castle. Its portal is the main reason to seek it out: simple, rounded, and much older in feeling than the grander buildings around it.

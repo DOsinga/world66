@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.0101
 longitude: 5.6233
+score: 6.8
 ---
 
 The river Geeuw runs through the centre of IJlst and defines the town's character as much as any building. A short walk along the quay takes you past moored sailing boats, the mill, and a row of old houses that have looked over the water for centuries. It is an easy, pleasant twenty minutes.

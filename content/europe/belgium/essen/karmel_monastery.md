@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 51.4641
 longitude: 4.4685
 snippet: "Quiet Discalced Carmelite monastery on the edge of town"
+score: 6.6
 ---
 
 The Karmel (Carmelite) monastery sits on the southern edge of Essen, surrounded by gardens and woodland. It is a working community of Discalced Carmelite friars, but parts of the complex are open to visitors — the chapel, the gardens, and a small visitors' centre.

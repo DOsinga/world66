@@ -11,6 +11,7 @@ tags:
 title: King's Chapel
 type: poi
 url: www.kings-chapel.org
+score: 8.2
 ---
 
 A short, square Georgian church on Tremont Street, King's Chapel was founded in 1686 as the first Anglican parish in Puritan Boston — a deeply unpopular move at the time. After the Revolution the congregation reorganized as the first Unitarian church in the United States. The Anglican prayer book is still used, with Trinitarian language quietly excised.

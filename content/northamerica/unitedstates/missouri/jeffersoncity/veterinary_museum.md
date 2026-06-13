@@ -7,6 +7,7 @@ tags:
 latitude: 38.5800
 longitude: -92.1770
 snippet: Quirky museum tracing 500 years of veterinary medicine history
+score: 5.2
 ---
 
 The Veterinary Museum of Missouri, operated by the Missouri Veterinary Medical Foundation, traces the history of animal medicine from ancient practices through modern techniques. The collection includes antique surgical instruments, medicine kits, historical photographs, and memorabilia from Missouri's veterinary past. It's an unusual subject for a museum, and the collection has a genuine charm — there's something unexpectedly moving about the care people have given to animals across the centuries.

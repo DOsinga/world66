@@ -7,6 +7,7 @@ tags:
 latitude: 43.3783
 longitude: 17.0608
 story: "The Biokovo massif is home to the endemic Degenia velebitica — a small yellow flower found nowhere else on earth — as well as wolves and jackals that occasionally descend toward the coastal villages at night."
+score: 8.7
 ---
 
 Biokovo looms directly above Baška Voda, its limestone karst cliffs rising almost vertically from sea level to over 1,700 metres. The mountain is a protected nature park with marked hiking trails, a botanical garden, and a road that winds to the summit plateau. The views from the top take in the full length of the Makarska Riviera and, on clear days, reach across the Adriatic to the islands of Hvar, Brač, and Korčula.

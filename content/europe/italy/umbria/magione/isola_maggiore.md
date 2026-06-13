@@ -9,6 +9,7 @@ latitude: 43.1519
 longitude: 12.1630
 story: >
   Saint Francis of Assisi spent 40 days on the island fasting and praying in 1211. After he left, a fisherman found a pike he had reportedly returned to the water, and the fish allegedly refused to swim away, staying near the shore where Francis had stood. The story made the island a minor pilgrimage destination throughout the medieval period.
+score: 7.8
 ---
 
 The largest of Lake Trasimeno's three islands, Isola Maggiore is reached by boat from San Feliciano (15 minutes) or Passignano sul Trasimeno (20 minutes). It is the only inhabited island, home to a small community of around 20 permanent residents — a number that has been declining for decades as the younger generation moves to the mainland.

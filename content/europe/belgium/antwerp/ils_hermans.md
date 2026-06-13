@@ -10,6 +10,7 @@ tags:
 title: Ils Hermans
 type: poi
 url: ilshermans.be
+score: 4.4
 ---
 
 Jewelry designers collection.

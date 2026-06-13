@@ -7,6 +7,7 @@ tags:
 title: Lendal Cellars
 type: poi
 snippet: "A large basement bar in Victorian cellars on Museum Street, popular with students and a solid choice for real ale"
+score: 5.8
 ---
 
 Lendal Cellars occupies the basement of a Victorian building on Museum Street, with low vaulted ceilings and a warren of rooms that can absorb a large number of people without feeling entirely overwhelming. It has been a student favourite for many years, partly due to its central position between the university campuses and the city walls, and partly because the prices are reasonable by city-centre standards. The range of cask ales is good, and the bar is busy most evenings.

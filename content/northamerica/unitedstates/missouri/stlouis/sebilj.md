@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 38.5907
 longitude: -90.2386
+score: 4.9
 ---
 
 The Sebilj is a replica of a wooden Ottoman fountain in Sarajevo, given to St Louis in 2013 by the city of Sarajevo in recognition of the world's largest Bosnian diaspora community — over 70,000 Bosnians settled in south St Louis after the Bosnian War of the 1990s.

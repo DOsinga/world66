@@ -6,6 +6,7 @@ longitude: -80.9697
 tags:
   - eating_out
   - restaurant
+score: 5.9
 ---
 
 The dining room at the Bruce is the dressier option in town — modern Canadian cooking with a strong wine list and a tasting menu that changes with the season. It is across the road from the Festival Theatre and a popular post-show choice.

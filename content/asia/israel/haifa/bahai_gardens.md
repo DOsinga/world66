@@ -5,6 +5,7 @@ latitude: 32.8147
 longitude: 34.9876
 tags: [things_to_do, sight, garden]
 story: Nineteen terraces of geometric planting climb the slope of Mount Carmel, framed around the gold-domed Shrine of the Báb, the prophet whose remains were smuggled across the Caspian and carried through Iran for sixty years before being buried here in 1909.
+score: 9.2
 ---
 
 Nineteen perfectly geometric terraces of clipped hedge, lawn, and flowering shrub climbing the north face of Mount Carmel, with the gold-domed Shrine of the Báb at its heart. The gardens form the world spiritual centre of the Bahá'í faith and are a UNESCO World Heritage site.

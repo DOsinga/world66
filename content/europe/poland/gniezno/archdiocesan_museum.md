@@ -8,6 +8,7 @@ tags:
 - museum
 title: Archdiocesan Museum
 type: poi
+score: 7.7
 ---
 
 Housed in the collegiate chapter building beside the cathedral, this museum holds the finest collection of sacred art in the Gniezno archdiocese. Highlights include medieval goldsmithery, illuminated manuscripts, vestments, and early Piast-era religious artefacts. The reliquary of Saint Adalbert's head is the emotional centrepiece, drawing steady streams of pilgrims. The collection spans a thousand years of Catholic heritage in Poland's oldest diocese.

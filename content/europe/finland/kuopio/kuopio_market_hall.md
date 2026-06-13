@@ -7,6 +7,7 @@ latitude: 62.8919
 longitude: 27.6786
 story: >
   Kalakukko — a whole fish baked inside a rye bread loaf — has been a staple of the Savo region for centuries. The sealed bread acts as a slow cooker: the fish steams inside for hours until tender. It looks alarming when cut open and tastes extraordinary. The market hall is the best place in Finland to eat it.
+score: 8.3
 ---
 
 The Kuopio Market Hall, built in 1901 in the Art Nouveau style, is one of the finest market buildings in Finland. It sits on the edge of the main market square and has been selling local produce, fish, and Finnish specialities without interruption for over a century. The building's iron and glass interior and ornate facades are worth admiring even if you are not buying anything.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 36.3443
 longitude: 43.1303
+score: 6.9
 ---
 
 The Mosque of the Prophet Jirjis is named for the figure known in the Christian tradition as St George — Jirjis in Arabic — whose tomb is traditionally associated with the site. The mosque dates to medieval times, though the building has been rebuilt and restored multiple times over the centuries. It occupies a prominent position in the Old City and the minaret, which survived the conflict intact, is one of the more recognisable vertical elements in the Mosul skyline.

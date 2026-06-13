@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - gornji_grad
+score: 6.0
 ---
 
 Agava occupies one of the prettiest sites in central Zagreb: a long stepped terrace climbing the slope above Tkalčićeva Street, with tables on three or four levels under the trees. The menu is broadly Mediterranean — pasta, risotto, grilled fish, steak — with one or two Croatian classics. The execution is reliable rather than thrilling, but the setting is unmatched, especially at dusk when the lights come on in the trees.

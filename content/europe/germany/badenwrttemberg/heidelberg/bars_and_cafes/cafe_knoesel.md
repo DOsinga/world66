@@ -7,6 +7,7 @@ tags:
 latitude: 49.4114
 longitude: 8.7049
 snippet: Heidelberg's oldest café, famous for the Heidelberger Studentenkuss chocolate
+score: 6.8
 ---
 
 Café Knösel on Haspelgasse, just off the Hauptstrasse, claims to be Heidelberg's oldest café and has been serving coffee and cakes in the old town since the 1860s. It has the deep, slightly faded interior of a Central European café — dark wood, framed prints, and the smell of roasting coffee — and is popular with an older clientele and visiting academics alongside the usual mix of tourists.

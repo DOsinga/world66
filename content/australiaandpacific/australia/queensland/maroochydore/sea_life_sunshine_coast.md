@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: -26.6828
 longitude: 153.1213
+score: 6.3
 ---
 
 Sea Life Sunshine Coast, located a short drive south in Mooloolaba, is the best aquarium on the Queensland coast outside of Cairns. The main draw is the 80-metre underwater tunnel that passes through the shark and ray tank — a route that gives children an eye-level view of creatures that would otherwise remain abstract. Dugongs, seahorses, and local marine species are all well represented.

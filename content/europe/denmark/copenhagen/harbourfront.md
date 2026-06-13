@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood]
 latitude: 55.6760
 longitude: 12.5870
+score: 7.0
 ---
 
 Copenhagen's inner harbour has been transformed over the past three decades from an industrial waterway into a swimming and cycling destination. The water is clean enough to swim in — remarkable for a major city — and several floating harbour baths (Havnebadet) are open in summer, including the popular Islands Brygge baths with their pools and diving platforms on the south harbour.

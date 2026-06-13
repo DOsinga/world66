@@ -7,6 +7,7 @@ tags:
 latitude: 44.8494
 longitude: -0.5390
 snippet: Upcycled Caserne Niel military barracks turned alternative cultural and food complex on the Right Bank
+score: 7.5
 ---
 
 Darwin Ecosystème occupies the vast grounds and buildings of the former Caserne Niel, a 19th-century military barracks on the Right Bank of the Garonne. Since 2013 it has been transformed into an alternative complex: organic food market, restaurants, co-working spaces, skate park, street art, climbing walls, and event venues — all housed in industrial brick buildings covered in murals.

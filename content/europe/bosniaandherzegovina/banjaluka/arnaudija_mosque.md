@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.7699
 longitude: 17.1818
+score: 6.8
 ---
 
 The Arnaudija Mosque is one of the older surviving mosques in Banja Luka, built in the 17th century and relatively well preserved compared to the Ferhadija, which was destroyed in the war. The mosque occupies a quiet courtyard in the Arnaudija neighbourhood and is an active place of worship.

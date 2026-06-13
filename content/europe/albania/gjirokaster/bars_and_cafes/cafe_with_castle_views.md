@@ -1,6 +1,7 @@
 ---
 title: "Café Views of the Castle"
 type: poi
+score: 6.7
 ---
 
 The terrace cafes scattered through the old bazaar and on the slopes below the castle offer what may be the best reason to linger in Gjirokastër: a coffee or cold beer with an unobstructed view of the fortress above and the stone rooftops tumbling down to the valley below. Several cafes have claimed the best vantage points, setting out plastic chairs on terraces or inside restored stone buildings with large windows facing the hill.

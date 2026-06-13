@@ -9,6 +9,7 @@ latitude: 52.6285
 longitude: 1.2929
 story: >
   The market has traded on this site continuously since the Norman Conquest — over 900 years. The striped canvas awnings you see today were standardised in the 1930s, but the layout and the mix of traders (food, clothes, hardware, plants) has barely changed in principle. During World War II bombing, traders carried on the next day with temporary stalls while rubble was still being cleared.
+score: 7.9
 ---
 
 Norwich Market is one of the largest open-air markets in England and one of the most genuine. Around 200 stalls spread across the slope below the castle in a grid of striped canvas awnings, selling fresh produce, meat, fish, hot food, clothing, hardware, and a miscellany of other things. It is a working market, not a tourist attraction — the prices are low, the range is practical, and the quality of fresh food is good.

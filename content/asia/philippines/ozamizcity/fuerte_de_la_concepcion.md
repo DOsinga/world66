@@ -14,6 +14,7 @@ story: >
   headquarters inside these 18th-century walls in October 1942. He held out for eight
   months before retreating under Japanese attack in June 1943 — the fort that had
   repelled Moro raiders for two centuries finally fell to a modern army.
+score: 8.2
 ---
 
 The Fuerte de la Concepción y del Triunfo is one of the best-preserved Spanish colonial fortifications in Mindanao, and the most compelling reason to visit Ozamiz. Jesuit Father José Ducos began construction in 1756 to protect the coastal settlement from Moro pirate raids, and the square plan with four corner bastions — San Fernando, San José, Santiago, and San Ignacio — still stands largely intact. The walls are built from coral and sandstone blocks quarried from Panguil Bay and bound with lime, giving them a warm cream colour that looks particularly striking in the late afternoon light.

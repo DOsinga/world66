@@ -6,6 +6,7 @@ longitude: -84.1708
 tags:
   - things_to_do
   - nature
+score: 7.3
 ---
 
 A 35-foot waterfall on Long Creek, reached by a one-mile side trail from the AT/Benton MacKaye junction north of Springer. The falls drop in two tiers into a clear pool that is shallow enough to wade in summer. The hike is easy and well-marked, suitable for casual visitors.

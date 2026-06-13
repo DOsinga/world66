@@ -12,6 +12,7 @@ story: >
   completed it in 1971, making it the first public memorial in the United States dedicated 
   to Vietnam veterans — more than a decade before the Washington Wall. The building's 
   dove-wing form was designed by architect Ted Luna to suggest both flight and prayer.
+score: 8.1
 ---
 
 The Vietnam Veterans Memorial State Park, set just outside Angel Fire on a hillside overlooking the Moreno Valley, is one of the most moving small monuments in the American West. The chapel-like structure — white curved concrete walls rising from the meadow — was the first memorial in the country dedicated to those who served in Vietnam, built by a grieving father years before national recognition came to that war's veterans.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 32.4800
 longitude: 119.9000
+score: 6.8
 ---
 
 The soup dumplings from Jingjiang, the county-level city on the south bank of the Yangtze within Taizhou's municipal area, are among the most prized local specialities in Jiangsu. These are large, delicate parcels filled with hairy crab roe mixed with pork and broth — they arrive at the table resting in a small bamboo basket, the skin so thin it trembles, and eating one requires the careful technique of biting a small hole and sipping the scalding liquid before the skin collapses.

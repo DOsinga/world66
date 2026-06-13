@@ -9,6 +9,7 @@ longitude: 6.7661
 sources:
   - https://en.wikipedia.org/wiki/Lehmbruck_Museum
 story: "Wilhelm Lehmbruck was born in Duisburg-Meiderich in 1881 and became one of the most important German sculptors of the early 20th century — a key figure in Expressionism whose elongated, melancholic figures stand in contrast to the heroic tradition. He died in Berlin in 1919 at the age of 37, reportedly from health problems compounded by depression. Duisburg built this museum to hold his legacy, and then kept expanding it."
+score: 8.0
 ---
 
 The Lehmbruck Museum is dedicated to the work of Wilhelm Lehmbruck, the Duisburg-born sculptor who was one of the major figures of German Expressionism. Lehmbruck's elongated, mournful figures — The Kneeling Woman, The Fallen Man — are among the most affecting sculptures of the early 20th century, and this collection represents them in depth.

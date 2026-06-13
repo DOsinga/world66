@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 40.3581
 longitude: -80.6142
+score: 7.2
 ---
 
 The First Federal Land Office (1801) is one of the oldest surviving federal government buildings in the United States. It was here that the government sold the public lands of the Northwest Territory to settlers — the first systematic public land sales in American history. The small brick building has been restored and is open to visitors as a historic site, with exhibits on the land survey system and the mechanics of frontier-era land sales.

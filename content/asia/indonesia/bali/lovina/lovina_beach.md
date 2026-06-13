@@ -5,6 +5,7 @@ tags: [things_to_do, beach]
 latitude: -8.162503
 longitude: 115.025661
 story: The water here is so flat at dawn that the first dolphin you spot looks like it has been drawn on the surface. The black sand is volcanic, the colour of wet basalt, and stays that way for kilometres.
+score: 6.2
 ---
 
 Lovina Beach is the long stretch of dark volcanic sand that gives the area its name. Unlike the white-sand beaches of southern Bali, this is a working coast — fishing boats are pulled up on the shore in the mornings, and the water is calm enough to swim in even in the wet season because the reef sits offshore.

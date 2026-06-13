@@ -6,6 +6,7 @@ longitude: -21.8924
 tags:
   - things_to_do
   - sight
+score: 5.5
 ---
 
 The Borgarfjörður bridge carries Route 1 across the fjord just south of Borgarnes — at 520 metres it is the second-longest in Iceland, after the now-shortened Skeiðarárbrú. Driving across it gives you the sweep of the fjord, with the town climbing up the peninsula on the right and the cone of Hafnarfjall straight ahead.

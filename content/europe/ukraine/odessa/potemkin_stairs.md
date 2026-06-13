@@ -14,6 +14,7 @@ tags:
 - landmark
 title: Potemkin Stairs
 type: poi
+score: 8.5
 ---
 
 The formal entrance to Odessa from the sea, the Potemkin Stairs were built between 1837 and 1841 to the design of architect Francesco Boffo. They descend 27 metres from Prymorsky Boulevard to the port in 192 steps arranged in ten flights, flanked by two-metre-thick parapets. An optical illusion built into the design — the steps are wider at the bottom (21.6 m) than at the top (13.4 m) — makes the full length invisible from below, giving the staircase an air of endless grandeur.

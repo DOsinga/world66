@@ -13,6 +13,7 @@ story: >
   they did: the largest examples have been turning continuously for over 700 years.
   Medieval Arab geographers described their groaning as the sound of a city in mourning,
   and that eerie quality has attached itself to Hama ever since.
+score: 9.2
 ---
 
 The norias of Hama are enormous wooden waterwheels mounted on the Orontes River, used for centuries to lift water into aqueducts supplying the city's gardens and farms. Seventeen survive; the largest, at the Four Norias of Bichriyat in a riverside park near the centre, stand 27 metres in diameter — among the biggest wooden waterwheels ever built. Their continuous groaning and creaking, caused by wooden compartments scraping against the millstone, is the defining sound of the city, audible from the surrounding streets day and night.

@@ -7,6 +7,7 @@ tags:
 latitude: 37.7665
 longitude: -120.8462
 story: "Oakdale's claim on the 'Cowboy Capital' title rests partly on numbers — the town has produced more world-champion rodeo cowboys per capita than anywhere else in the United States, a tradition that runs back to the working ranches of the Stanislaus foothills."
+score: 6.3
 ---
 
 A small downtown museum on F Street devoted to the working cowboys and rodeo riders of the Stanislaus foothills. The collection is modest — saddles, branding irons, photographs, ribbons and trophies, a wall of plaques for local rodeo champions — but the staff are locals who know the families behind the names and will happily explain who rode what and when.

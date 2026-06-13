@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, sight, seafood]
 latitude: 42.3550
 longitude: -8.6280
+score: 7.3
 ---
 
 Arcade, at the inner head of the Ría de Vigo, is one of Spain's most celebrated oyster-producing areas. The village has been farming oysters and mussels in the ría's rich, tide-churned waters for generations, and the annual oyster festival (held every February, one of the oldest in Spain) draws visitors from across Galicia and Portugal.

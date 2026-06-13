@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Manhattan_Beach_Botanical_Garden
+score: 5.6
 ---
 
 Tucked inside Polliwog Park about a mile from the beach, the Manhattan Beach Botanical Garden is a small but well-maintained collection of California native plants and drought-tolerant species. At just under two-thirds of an acre, it is one of the smaller civic botanical gardens in the LA region, but the planting is thoughtful and the garden serves as a useful demonstration of what a Southern California garden can look like without lawn and sprinklers.

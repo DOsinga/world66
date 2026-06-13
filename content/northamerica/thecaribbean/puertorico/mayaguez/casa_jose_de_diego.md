@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic_house
+score: 6.9
 ---
 
 The ancestral house of José de Diego — Puerto Rican politician, poet and one of the founding figures of the island's independence movement — sits on a quiet residential street a few blocks east of Plaza Colón. The wooden frame house, painted pale yellow, dates from the late nineteenth century and has been preserved largely as it was when de Diego lived there.

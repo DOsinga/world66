@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.8600
 longitude: 125.3200
+score: 4.6
 ---
 
 The Huaqiao Foreign Street district is a commercial and leisure zone in southern Changchun that has been developed with a Western European architectural pastiche — the kind of ersatz European streetscape that has become common in Chinese leisure districts over the past two decades. The buildings are decorative rather than genuine, but the district has become a popular destination for local residents and has developed real commercial substance around the architectural theme.

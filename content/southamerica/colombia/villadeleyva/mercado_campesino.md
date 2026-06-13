@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 5.6340
 longitude: -73.5275
+score: 6.8
 ---
 
 On Saturday mornings, Villa de Leyva's market fills the streets around the Plaza Mayor with vendors from the surrounding countryside. The food section is the most interesting part: farmers from the dry Boyacá highlands sell fresh produce, local cheeses, honey, and dried herbs alongside prepared food stalls offering empanadas, arepas, and bowls of changua (milk soup with eggs, a Boyacense breakfast staple).

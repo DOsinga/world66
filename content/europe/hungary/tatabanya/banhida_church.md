@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 5.8
 ---
 
 The settlement that became modern Tatabánya is really a fusion of four older villages — Bánhida, Felsőgalla, Alsógalla, and Tatabánya itself — formally joined in 1947. Bánhida, on the southern edge of the city, still preserves something of its village character: a baroque church, a small main square, and a few nineteenth-century houses on quiet side streets.

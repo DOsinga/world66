@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The walls of the Crooked House lean because the green wood used to build it in 1687 had not been seasoned long enough — when it dried, the timbers warped. It is also rumoured to have a secret tunnel running from its cellar to Windsor Castle, used in the 17th century for getting wine to royal banquets undetected."
+score: 5.8
 ---
 
 The Crooked House of Windsor, on High Street just below the castle, is one of those small architectural oddities that hold up the texture of a place. Built in 1687 as a butcher's shop and now a small café, it leans noticeably to one side — the consequence of using unseasoned timber, which warped as it dried and pulled the whole building askew.

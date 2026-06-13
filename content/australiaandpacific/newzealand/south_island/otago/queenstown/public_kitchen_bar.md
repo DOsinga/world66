@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Shared-plates restaurant on the wharf with a long lake-facing terrace
+score: 7.3
 ---
 
 A sharing-plates restaurant in a prime spot on the wharf — long lakeside terrace, big windows, casual room — owned by the team behind several of the better restaurants in town. The menu is divided by ingredient (fish, lamb, beef, vegetables) and built around two- and three-bite plates designed to circulate around the table.

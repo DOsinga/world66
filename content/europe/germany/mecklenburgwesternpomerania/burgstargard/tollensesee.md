@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.52
 longitude: 13.29
+score: 6.9
 ---
 
 The Tollensesee is the large lake that dominates the landscape north of Burg Stargard, stretching several kilometres toward Neubrandenburg. A cycling and walking path runs around much of the shoreline, passing through stands of beech forest and connecting scattered fishing villages. In summer the water is calm enough for swimming, and small beaches appear at several points along the banks.

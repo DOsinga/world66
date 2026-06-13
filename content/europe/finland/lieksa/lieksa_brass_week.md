@@ -6,6 +6,7 @@ longitude: 30.0191
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 A week-long brass music festival held in Lieksa every late July, in business since 1979. The festival draws international brass players for masterclasses and concerts — chamber recitals in the church, big band nights by the lake, marching bands in the streets — and is one of the most respected brass events in Europe.

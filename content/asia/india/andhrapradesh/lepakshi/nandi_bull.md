@@ -7,6 +7,7 @@ tags:
 latitude: 13.8035
 longitude: 77.6080
 story: "The bull faces the seven-headed serpent at the temple, about 200 metres away, in the line of sight Shiva's mount would naturally take. The two were carved from separate granite outcrops at roughly the same time. Local guides claim the alignment was deliberate — that Nandi was placed precisely so his gaze fell on the linga sheltered by the serpent."
+score: 8.1
 ---
 
 Half a kilometre before the temple, on the road in from the highway, sits one of the largest monolithic Nandi bulls in India: a single piece of granite carved into a recumbent bull, twenty-seven feet long and fifteen feet high. The bull's flanks carry a stone bell, garlands, and the elaborate harness of a sacred mount, all worked in extraordinary detail.

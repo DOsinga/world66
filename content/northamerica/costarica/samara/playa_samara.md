@@ -11,6 +11,7 @@ story: >
   Fishing families from the Nicoya Peninsula recognised that the sheltered water allowed small boats
   to land safely even when the open Pacific was rough — an advantage that made this cove a natural
   anchorage long before it became a tourist destination.
+score: 8.2
 ---
 
 The main beach at Samara curves for around two kilometres between two rocky headlands, with the offshore reef keeping the waves gentle enough for confident swimming all year round. The sand is off-white and reasonably clean, and the palm trees that line the back of the beach provide genuine shade rather than the planted-postcard variety found at more developed resorts.

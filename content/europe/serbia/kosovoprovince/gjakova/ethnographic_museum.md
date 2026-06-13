@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.3795
 longitude: 20.4280
+score: 6.9
 ---
 
 The Ethnographic Museum in Gjakova occupies a traditional Albanian stone house near the bazaar, with exhibits covering the material culture of the region — tools, clothing, household objects, and examples of traditional craftsmanship. The building itself is an exhibit: the architecture of the old Albanian family house (the kulla) is distinctive, with thick walls, high ceilings, and a courtyard plan adapted for both defence and daily life.

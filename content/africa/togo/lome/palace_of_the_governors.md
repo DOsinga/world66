@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 6.1201
 longitude: 1.2121
+score: 7.2
 ---
 
 The Palais des Gouverneurs is a long, white, single-storey colonial building set in a walled compound facing the sea on Boulevard du Mono. It was built between 1898 and 1905 as the residence of the German colonial governor of Togoland, and later served as the seat of the French High Commissioner and then of the Presidency until 1979. Since 1991 it has been the official residence and office of the Togolese Prime Minister.

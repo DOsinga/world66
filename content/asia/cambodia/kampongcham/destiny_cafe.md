@@ -9,6 +9,7 @@ tags:
 - cafe
 title: Destiny Cafe
 type: poi
+score: 7.2
 ---
 
 A small social-enterprise cafe on the riverfront, Destiny serves a short menu of Khmer classics — fish amok, beef lok lak, fried rice with shrimp — alongside Western standards (pasta, burgers, breakfasts) and good coffee. Prices are reasonable, the air-conditioning is welcome in the dry-season heat, and a portion of profits goes to vocational training for at-risk women in the area.

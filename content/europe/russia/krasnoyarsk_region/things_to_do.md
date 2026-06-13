@@ -1,6 +1,7 @@
 ---
 title: Things to do in Krasnoyarsk region
 type: poi
+score: 6.1
 ---
 
 Krasnoyarsk region offers many interesting options for those who prefer active tourism, who loves nature.

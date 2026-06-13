@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.0003
 longitude: -119.4456
+score: 7.8
 ---
 
 A long, narrow lake spanning the Canada–US border, with the majority of its length in British Columbia and the southernmost tip crossing into Washington State. Osoyoos Lake is consistently the warmest lake in Canada — water temperatures in summer regularly reach 24–25°C — a product of the desert climate and relatively shallow depth. The beaches on the north shore in town are popular from May through September.

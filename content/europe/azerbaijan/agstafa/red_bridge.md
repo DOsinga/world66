@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "There has been a bridge on this spot since the 12th century — the current brick arch dates from the 17th, built on the orders of the Persian shah to carry the Tbilisi–Ganja road across the Khrami. The bridge survived almost intact through three empires and now stands in the no-man's-land strip between two border posts."
+score: 7.3
 ---
 
 The Red Bridge is the main land crossing between Azerbaijan and Georgia, and the old bridge it is named after — a fine 17th-century brick arch on Persian foundations — still stands in the strip between the two border posts. The masonry is a deep, weathered red; the engineering is good enough to have outlasted three empires.

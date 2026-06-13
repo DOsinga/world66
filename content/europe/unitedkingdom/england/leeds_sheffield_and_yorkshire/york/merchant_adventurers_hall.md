@@ -15,6 +15,7 @@ story: >
   gradually lose to Hull and then to the industrial towns of the West Riding.
   The Company still exists, still meets in this hall, and still holds the royal
   charter granted by Henry VI in 1430.
+score: 9.0
 ---
 
 The Merchant Adventurers' Hall is the largest timber-framed guildhall in Britain, completed around 1361 and continuously used since then. The great hall on the upper floor retains its original timber structure, with oak posts and a crown-post roof that gives the interior a scale and drama unusual for a commercial rather than ecclesiastical building. The undercroft below was used as a hospital and almshouse from the guild's foundation; later centuries added a chapel and various service rooms. The whole complex is remarkably complete.

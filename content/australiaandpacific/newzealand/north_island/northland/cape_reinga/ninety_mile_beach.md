@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Ninety Mile Beach
 type: poi
+score: 7.4
 ---
 
 The long sweep of beach down the western side of the Aupōuri Peninsula is one of New Zealand's iconic landscapes. It runs from Scott Point near Te Paki almost all the way down to Ahipara, with hardly a break or a settlement for nearly 90 kilometres. The sand is firm enough to drive on at low tide and the beach has legal status as a public road.

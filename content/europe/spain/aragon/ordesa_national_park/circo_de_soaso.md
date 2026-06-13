@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Circo de Soaso Walk
 type: poi
+score: 9.4
 ---
 
 The classic Ordesa walk, and one of the finest day hikes in Spain. The route follows the Arazas river upstream through the valley floor, passing through beech and fir forest with the canyon walls rising sheer on both sides, until it opens into the Soaso cirque and the Cola de Caballo waterfall drops 70 metres into a pool below Monte Perdido.

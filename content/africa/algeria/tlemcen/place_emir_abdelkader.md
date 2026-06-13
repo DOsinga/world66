@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 34.881
 longitude: -1.314
+score: 7.7
 ---
 
 The French Ville Nouvelle of Tlemcen was laid out from the 1840s on flat ground immediately north of the medina, and is one of the most coherent colonial-era town centres in North Africa. The Place Emir Abdelkader — formerly Place de la Concorde — is the obvious centre, a large arcaded square with the post office, the town hall, and a number of cafes that have been there for a century.

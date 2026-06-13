@@ -7,6 +7,7 @@ longitude: 11.0045
 story: "The Schloss was built between 1700 and 1704 by George William, Margrave of Brandenburg-Bayreuth, as a residence for the Huguenot community he had invited to settle Erlangen. Today it houses the university administration — the same institution that made Erlangen famous for physics, medicine, and optics."
 sources:
   - https://en.wikipedia.org/wiki/Schloss_Erlangen
+score: 6.4
 ---
 
 The Schloss is the centrepiece of the Baroque planned town at the heart of Erlangen. Built at the beginning of the 18th century as a margravial residence, it sits at the head of the Schlossgarten — a long, formal park that runs northward from the building through the centre of the city.

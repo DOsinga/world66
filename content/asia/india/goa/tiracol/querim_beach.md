@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: 15.709
 longitude: 73.693
+score: 7.4
 ---
 
 Querim (also spelled Keri) is the long sandy beach immediately across the river mouth from Tiracol, on the southern bank of the estuary. It is one of the quietest stretches of sand in north Goa — long, broad, mostly empty, backed by a row of casuarina trees that give some shade and shelter. A handful of seasonal shacks at the northern end serve fresh seafood, cold beer, and the usual Goan beach menu.

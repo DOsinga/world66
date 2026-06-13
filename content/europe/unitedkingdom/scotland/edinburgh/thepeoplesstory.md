@@ -12,6 +12,7 @@ tags:
 snippet: "Free museum of working-class Edinburgh in the Canongate Tolbooth"
 title: The People's Story Museum
 type: poi
+score: 7.1
 ---
 
 A small free museum housed in the 16th-century Canongate Tolbooth, telling the story of working-class Edinburgh from the 18th century to the present through reconstructed rooms, oral history recordings and everyday objects. A good antidote to all the kings and castles further up the Royal Mile.

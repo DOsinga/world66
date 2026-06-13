@@ -7,6 +7,7 @@ tags:
 - sight
 title: Windsurfing and Kitesurfing
 type: poi
+score: 8.6
 ---
 
 Tarifa earns its reputation as the wind capital of Europe from a quirk of geography: the funnel of the Strait of Gibraltar accelerates Atlantic and Mediterranean air masses through a 14-kilometre bottleneck. The result is two reliable seasonal winds — the easterly Levante, hard and gusty, and the westerly Poniente, smoother and warmer — that blow more than 300 days a year.

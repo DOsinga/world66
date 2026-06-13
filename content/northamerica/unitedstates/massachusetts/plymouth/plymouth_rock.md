@@ -15,6 +15,7 @@ tags:
   - historic
 title: Plymouth Rock
 type: poi
+score: 4.8
 ---
 
 The most visited landmark in Plymouth is also, by most accounts, the biggest letdown. A granite boulder roughly the size of a kitchen table sits behind an iron fence inside a neoclassical portico on Water Street, with "1620" chiseled into its surface. There are no Pilgrims stepping ashore, no dramatic backdrop — just a rock in a pit.

@@ -10,6 +10,7 @@ story: >
   The island was known as James Island under the British, who built a fort here in 1661. Over the next 150 years, the small fort changed hands repeatedly between the British, French, and various pirates and traders. Hundreds of thousands of enslaved people passed through its dungeons before being loaded onto ships for the Atlantic crossing. The Gambian government renamed it Kunta Kinteh Island in 2011 to honour the Mandinka people taken from this stretch of the river.
 sources:
   - https://en.wikipedia.org/wiki/Kunta_Kinteh_Island
+score: 8.8
 ---
 
 Kunta Kinteh Island sits in the middle of the Gambia River about three kilometres downstream from Juffure. The crumbling ruins on its surface are all that remain of Fort James, one of the principal holding stations for enslaved Africans before their transportation across the Atlantic. The island and its surrounding sites were inscribed as a UNESCO World Heritage Site in 2003.

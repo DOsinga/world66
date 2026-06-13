@@ -13,6 +13,7 @@ story: >
   here in hiding after leading an insurrection against the king. The forest's royal
   restriction made it an ideal refuge precisely because ordinary soldiers were afraid
   to enter it.
+score: 7.9
 ---
 
 The Udawattakele Royal Forest Reserve rises directly above the Temple of the Tooth, covering 257 acres of mixed forest on the ridge above the city. A network of marked trails runs through the reserve, taking between thirty minutes and two hours depending on the route chosen. The forest is home to endemic species including purple-faced langur monkeys, which are habitually encountered and quite bold.

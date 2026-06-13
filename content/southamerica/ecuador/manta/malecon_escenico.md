@@ -6,6 +6,7 @@ longitude: -80.7278
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The seafront promenade running along Playa Murciélago, the heart of Manta's social life. By day it is families, joggers, and beach umbrellas; by evening it turns into one long open-air bar and seafood-restaurant strip, with live music at weekends and crowds spilling out to the railings.

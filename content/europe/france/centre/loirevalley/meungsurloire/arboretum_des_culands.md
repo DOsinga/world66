@@ -8,6 +8,7 @@ tags:
 - park
 title: Arboretum des Prés des Culands
 type: poi
+score: 6.6
 ---
 
 The Arboretum des Prés des Culands is a privately run garden two kilometres north of Meung that holds the national collection of *Ilex* — hollies — in France. The arboretum was created in the 1990s on a wetland of springs and small ponds, and the planting is built around them: water-loving trees and shrubs along the water, more than 500 holly species and cultivars on the drier ground, and a long meadow that turns to wildflowers in summer.

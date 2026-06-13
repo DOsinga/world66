@@ -7,6 +7,7 @@ tags:
 - sight
 title: Atchafalaya Basin Tours
 type: poi
+score: 8.7
 ---
 
 Morgan City sits on the edge of the Atchafalaya Basin, the largest river swamp in North America — nearly 2,200 square miles of bayous, cypress-tupelo forests, backwater lakes, and river channels between the levees of the Atchafalaya River. The basin is one of the most biologically productive wetland ecosystems in the country, supporting enormous populations of fish, shrimp, crawfish, alligators, and migratory birds.

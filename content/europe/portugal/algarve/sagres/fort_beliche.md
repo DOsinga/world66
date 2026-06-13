@@ -8,6 +8,7 @@ tags:
 latitude: 37.0272
 longitude: -8.9822
 story: "Beliche is the less-visited sibling of the Sagres Fortress — smaller, more atmospheric, and with a tiny whitewashed chapel still intact inside its walls. The fort hangs over a sea cave that booms and hisses with every swell, and the walk here from São Vicente along the cliff top is one of the region's finest."
+score: 6.9
 ---
 
 A small 16th-century fort perched on a narrow promontory between Sagres and Cabo de São Vicente, with cliffs dropping to the sea on either side. The interior includes a small chapel (Nossa Senhora de Beliche) that is thought to be one of the few buildings to have survived the 1755 earthquake intact. The restoration has been respectful.

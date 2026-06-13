@@ -9,6 +9,7 @@ tags:
   - barranco
 neighbourhood: Barranco
 snippet: Contemporary art museum on the cliffs of Barranco
+score: 7.2
 ---
 
 The **Museo de Arte Contemporáneo de Lima (MAC Lima)** sits on the clifftop south of Barranco, in a concrete-and-glass purpose-built space with a sculpture garden looking out over the Pacific. Founded in 2013, it focuses on contemporary Peruvian art from 1950 onwards, with rotating exhibitions of national and Latin American artists alongside a permanent collection.

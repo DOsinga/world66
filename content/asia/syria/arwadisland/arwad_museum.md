@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 34.8579
 longitude: 35.8570
+score: 6.4
 ---
 
 A small museum near the centre of the island displays finds from archaeological excavations on Arwad and the surrounding seabed — Phoenician pottery, coins from various periods, and fragments of stone carving. The collection is modest but well-chosen, and the context it provides for the ruins elsewhere on the island is worth the brief visit.

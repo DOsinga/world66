@@ -11,6 +11,7 @@ story: >
   The gardens are named for Betty Ford, who spent considerable time in Vail and was a strong supporter of the project. At 2,500 metres elevation, they are one of the highest public botanic gardens in the world, a distinction that makes growing anything here a genuine horticultural achievement.
 sources:
   - https://en.wikipedia.org/wiki/Betty_Ford_Alpine_Gardens
+score: 8.0
 ---
 
 The Betty Ford Alpine Gardens, on South Frontage Road East in the heart of Vail Village, are an unexpected and genuinely lovely detour from the ski-resort surroundings. At 2,500 metres above sea level they rank among the highest public botanical gardens in the world, and the collection is impressive given the harsh growing conditions: some 3,000 species of alpine, mountain, and sub-alpine plants from Colorado and around the world.

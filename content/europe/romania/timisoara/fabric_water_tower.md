@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - fabric
+score: 7.4
 ---
 
 The Fabric Water Tower (Turnul de Apa Fabric) is a tall slim brick tower built in 1914 to provide hydraulic pressure to the factories and houses of the eastern industrial district. The form is austere — a tapering brick shaft with a small ornamental crown — and the building is one of the best examples of utilitarian industrial architecture in the city.

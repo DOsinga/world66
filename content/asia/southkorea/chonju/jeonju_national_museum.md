@@ -8,6 +8,7 @@ latitude: 35.8098
 longitude: 127.1210
 story: >
   Among the museum's most prized possessions is the Goryeo celadon collection — a series of jade-green ceramics from the 10th–14th centuries that represent one of the high points of Korean craft. Goryeo celadon was so refined that Chinese potters, then the best in the world, openly acknowledged its superiority in colour and glaze.
+score: 6.5
 ---
 
 The Jeonju National Museum is the major repository for artefacts from North Jeolla Province, covering the region's history from prehistoric times through the Joseon dynasty. The collection ranges from Bronze Age tools and Three Kingdoms-era gilt bronzeware to Goryeo celadon and Joseon ceramics — all displayed in a handsome building set in spacious grounds.

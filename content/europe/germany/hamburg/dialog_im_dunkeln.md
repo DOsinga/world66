@@ -6,6 +6,7 @@ longitude: 9.9942
 tags:
 - things_to_do
 - museum
+score: 7.1
 ---
 
 Dialog im Dunkeln — Dialogue in the Dark — is an unusual interactive exhibition where blind guides lead small groups through pitch-black rooms recreating everyday scenarios: a park, a market, a busy street, a boat trip on the Elbe, a bar. You navigate by touch, smell and sound only.

@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 28.8950
 longitude: -82.6000
+score: 8.8
 ---
 
 Kings Bay is the spring-fed estuary at the centre of Crystal River — a shallow, warm bay fed by more than 70 individual spring vents that collectively pump out millions of gallons of 72°F water daily. The bay is the primary gathering point for West Indian manatees in winter, and on a good morning in January or February you might see dozens of them: big, slow, unbothered creatures drifting through the clear water or surfacing every few minutes to breathe.

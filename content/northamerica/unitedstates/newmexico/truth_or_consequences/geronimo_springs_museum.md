@@ -7,6 +7,7 @@ tags:
 latitude: 33.1284
 longitude: -107.2540
 address: "211 Main St, Truth or Consequences, NM 87901"
+score: 7.6
 ---
 
 The best museum in Sierra County covers a lot of ground in a relatively small building: Apache history (including Geronimo himself, who camped near the springs), the geology of the region's hot springs, pioneer and cowboy history, and the story of how a small desert town called Hot Springs renamed itself after a radio show in 1950. That last exhibit alone is worth the admission.

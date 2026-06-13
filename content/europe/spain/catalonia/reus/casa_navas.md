@@ -9,6 +9,7 @@ latitude: 41.1553
 longitude: 1.1085
 story: >
   Casa Navàs was designed by Lluís Domènech i Montaner between 1901 and 1908. The building once had a tower on its left side, which was destroyed by bombing during the Spanish Civil War and never rebuilt. Everything else — the furniture, ceramics, mosaics, stained glass, and metalwork — survives exactly as the architect intended, making it one of the most complete Modernista interiors in existence.
+score: 9.0
 ---
 
 Casa Navàs is the finest Modernista building in Reus, and one of the best-preserved examples of the style anywhere in Catalonia. Designed by Lluís Domènech i Montaner — the architect also responsible for the Hospital de Sant Pau and the Palau de la Música Catalana in Barcelona — it stands on the corner of the Plaça del Mercadal and was built between 1901 and 1908 for the textile merchant Joaquim Navàs.

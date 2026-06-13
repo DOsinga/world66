@@ -11,6 +11,7 @@ tags:
 - shopping
 - sight
 neighbourhood: Geelong West
+score: 7.4
 ---
 
 "Pako", as it is universally known in town, is the spine of the Geelong West neighbourhood — a kilometre-long strip of independent cafes, bookstores, vintage shops, restaurants and grocers that has slowly displaced the city centre as the locals' favourite weekend hangout.

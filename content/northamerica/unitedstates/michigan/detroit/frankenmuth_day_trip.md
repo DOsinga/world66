@@ -8,6 +8,7 @@ tags:
 - sight
 title: Frankenmuth
 type: poi
+score: 5.3
 ---
 
 Frankenmuth, about 90 minutes north of Detroit on I-75, is a small Michigan city that has leaned hard into its German Lutheran immigrant heritage and built one of the state's biggest tourist draws around it. The buildings along Main Street are reliably half-timbered, the shops sell Christmas ornaments, cuckoo clocks, and bratwurst, and the whole effect is more Bavarian theme park than historic town — but visitors come in enormous numbers and the place delivers what it promises.

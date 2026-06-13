@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 44.6587
 longitude: -124.0582
+score: 6.8
 ---
 
 Agate Beach is a long, broad stretch of sand running north from Yaquina Head, named — accurately — for the agates that wash up in winter storms. After a strong storm, beachcombers walk slowly along the tide line picking up the small banded pebbles by the handful.

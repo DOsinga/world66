@@ -8,6 +8,7 @@ latitude: 49.0825
 longitude: 19.3030
 story: >
   The church was originally built in 1318 and has been rebuilt and modified repeatedly since — Gothic, Renaissance, and Baroque layers accumulated over six centuries. A fire in 1761 prompted the most comprehensive reconstruction, which gave it its current appearance. The clock tower is the dominant feature of Andrej Hlinka Square.
+score: 6.3
 ---
 
 The Church of St Andrew is the oldest building in Ružomberok town centre, with origins in 1318. After repeated modifications over the centuries — the result of fires, wars, and changing architectural fashions — it now presents a largely Baroque exterior that masks a considerably older structure. The interior retains Gothic elements alongside later Baroque decoration.

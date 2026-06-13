@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.8950
 longitude: -70.9570
+score: 6.7
 ---
 
 Luperon's seafront promenade — the Malecón — is where the town comes alive in the evenings. Fishermen return and mend nets, small restaurants grill the day's catch on open charcoal, and locals settle on benches to watch the sun go down over the bay. It is unpretentious and genuine, nothing like the tourist-facing seafronts of Puerto Plata or Sosúa along the coast.

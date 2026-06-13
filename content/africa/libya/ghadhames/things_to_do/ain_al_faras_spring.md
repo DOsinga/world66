@@ -2,6 +2,7 @@
 title: "Ain al-Faras (The Horse Spring)"
 type: poi
 tags: [sightseeing, nature]
+score: 8.0
 ---
 
 Ain al-Faras — the Spring of the Horse — is the ancient water source that made Ghadames possible. Without it, there would be no oasis, no town, and no caravan route. The spring bubbles up at the edge of the old city and feeds an intricate network of irrigation channels that distribute water to the surrounding palm gardens. The system of channels and sluice gates was traditionally managed communally, with each family and quarter allocated specific hours of water access, a scheduling system that balanced competing needs in a resource-scarce environment.

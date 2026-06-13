@@ -7,6 +7,7 @@ tags:
 latitude: -8.5068
 longitude: 115.2620
 snippet: Kecak, Legong, and Barong dance performed most evenings at multiple venues
+score: 8.8
 ---
 
 Ubud is the main centre in Bali for traditional dance performance and it takes this role seriously. Most evenings multiple venues stage different types of dance, from the hypnotic Kecak fire dance — performed by a chorus of shirtless men chanting in rhythmic waves — to the elegantly stylised Legong, the comic-dramatic Barong, and shadow puppet (*wayang kulit*) performances. The best venues are the Ubud Palace courtyard and the Pura Taman Saraswati temple.

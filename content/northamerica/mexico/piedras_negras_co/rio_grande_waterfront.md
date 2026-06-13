@@ -15,6 +15,7 @@ story: >
   settled on the Mexican side near here in the 1850s and still maintain a
   community on the Coahuilan bank of the river, holding dual US-Mexican
   citizenship.
+score: 5.9
 ---
 
 The Rio Grande waterfront in Piedras Negras is the physical dividing line between two countries and two very different economies. From the Mexican bank you can see Eagle Pass, Texas on the opposite shore — close enough to walk if the river were crossable, which for most of its length it is not. The international bridges connect the two cities at two points, and the traffic of commerce and families flowing both ways is a constant feature of life in both places.

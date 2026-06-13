@@ -13,6 +13,7 @@ story: >
   corridor in both directions — a logistical feat in a region with no
   water except what could be carried. The fort's wells, still visible
   inside the walls, were the reason this particular location was chosen.
+score: 7.5
 ---
 
 Qiaowan Fort (桥湾城) is a Qing Dynasty garrison fort built in 1732, about 50 kilometres east of Guazhou on the road toward Jiayuguan. The earthen walls are largely intact and enclose a rectangular compound with the remains of watchtowers at the corners. A small archaeological museum attached to the fort displays objects recovered from the garrison period: ceramic water vessels, bronze belt fittings, wooden eating implements, and a remarkable collection of inscribed wooden administrative documents.

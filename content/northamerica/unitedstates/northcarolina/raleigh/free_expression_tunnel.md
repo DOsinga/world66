@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.7848
 longitude: -78.6981
+score: 7.1
 ---
 
 The Free Expression Tunnel on the NC State University campus is a pedestrian underpass that has been continuously repainted by students since 1964 — a designated space where any member of the university community can paint anything they like, replacing whatever was there before. The result is a constantly changing, densely layered work of student expression: political statements, tributes to sports victories, personal messages, and occasionally genuine art coexist in a compressed visual space.

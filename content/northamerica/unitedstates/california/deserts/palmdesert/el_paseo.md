@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7187
 longitude: -116.3856
+score: 7.8
 ---
 
 El Paseo is the mile-long boulevard that gives Palm Desert most of its identity — a palm-lined strip of designer boutiques, art galleries, restaurants with patios, and the occasional gleaming Bentley parked at a meter. The Rodeo Drive comparisons are inevitable but a bit of a stretch; this is more relaxed, more spread out, and substantially less self-important.

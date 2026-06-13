@@ -17,6 +17,7 @@ story: >
   some arriving from hundreds of kilometres away.
 sources:
   - https://en.wikipedia.org/wiki/Notre-Dame_Cathedral_Basilica_of_Saigon
+score: 8.3
 ---
 
 Notre-Dame Cathedral Basilica of Saigon stands at the heart of Ho Chi Minh City's French colonial quarter, its twin red-brick towers rising above Paris Commune Square. Built between 1863 and 1880, entirely with materials imported from France — the red bricks from Toulouse, the stained glass from Chartres — it remains one of the most recognisable buildings in Vietnam.

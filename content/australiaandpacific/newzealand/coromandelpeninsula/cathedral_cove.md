@@ -16,6 +16,7 @@ story: >
   — became briefly famous worldwide after featuring in The Chronicles of Narnia: Prince Caspian.
 sources:
   - https://en.wikipedia.org/wiki/Whanganui_A_Hei_(Cathedral_Cove)_Marine_Reserve
+score: 8.6
 ---
 
 Cathedral Cove is an arched sea cave cut through a rhyolite headland at the southern end of Mercury Bay, connecting two sheltered white-sand beaches. The arch is large enough to walk through at low tide, and the setting — white cliffs, impossibly blue water, bush above — is as beautiful as New Zealand beaches get.

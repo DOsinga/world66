@@ -9,6 +9,7 @@ tags:
   - museum
 snippet: Museum of European emigration to America, in the original 1894 boarding sheds
 story: "Two million emigrants — most of them from eastern Europe — boarded Red Star Line ships at Antwerp between 1873 and 1934. Among them: Albert Einstein, fleeing Germany in 1933; Israel Beilin, who became Irving Berlin; the parents of Audrey Hepburn. The museum is in the actual sheds where they were processed."
+score: 8.5
 ---
 
 The most affecting museum in the city. The Red Star Line ran the trans-Atlantic emigrant service from Antwerp to New York from 1873 to 1934; the building was the boarding sheds where passengers — two million of them — were medically inspected, deloused, and processed for the long voyage. The structure has been kept intact and converted into a museum of European emigration.

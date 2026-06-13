@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The bridge became internationally famous through the Nordic noir crime series "Broen" (The Bridge), in which a body is found on the exact midpoint between Sweden and Denmark. The show's opening sequence — a single shot tracking from Malmö across the bridge to Copenhagen — became one of the most recognisable images in television. Fans still come to Malmö specifically to walk or cycle across to Denmark.
+score: 7.6
 ---
 
 The Öresund Bridge connects Malmö to Copenhagen across 16 kilometres of strait, a feat of engineering that opened in 2000 and fundamentally changed both cities. The bridge carries both road and rail, and the train journey from Malmö Central to Copenhagen takes around 35 minutes, making cross-border commuting routine for tens of thousands of people.

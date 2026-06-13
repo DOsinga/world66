@@ -10,6 +10,7 @@ tags:
 title: American and European Contemporary Glass Museum
 type: poi
 url: glassmuseums.com
+score: 6.6
 ---
 
 Housed in a 1905 Victorian home, the former residence of Emma Cryer, daughter of early Redlands settlers Jerome E. and Martha Seymour. The museum displays 6,000 examples of American glassware from the early 1800s to contemporary times, including pieces from Heisey, Cambridge, Fenton, Fostoria, and Sandwich factories, as well as depression-era glassware. Items range from candlesticks and compotes to kerosene lamps and even several pieces from the estate of Liberace.

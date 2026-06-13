@@ -4,6 +4,7 @@ type: poi
 latitude: -14.0833
 longitude: -75.6833
 tags: [things_to_do, sight]
+score: 7.0
 ---
 
 El Catador is a small family-run bodega in the village of Tres Esquinas, just outside Ica. The setting is more traditional than the big commercial wineries — adobe buildings, old wooden presses, and a small museum showing how pisco was made by hand in the nineteenth century.

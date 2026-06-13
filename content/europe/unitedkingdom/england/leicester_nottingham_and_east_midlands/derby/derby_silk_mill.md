@@ -16,6 +16,7 @@ story: >
   in secret. He was reportedly poisoned on his return to England, dying at 33
   — but not before the mill was built and the technology transplanted to the
   Derwent.
+score: 9.4
 ---
 
 The Derby Silk Mill, now reborn as the Museum of Making, stands on an island in the River Derwent on a site that has held a mill since at least 1702. The original Lombe's Silk Mill of 1721 was one of the first factories in the world — a purpose-built, water-powered, mechanised production facility employing hundreds of workers. That building burned down in 1910, but the gatehouse tower and mill leat survive, and the current structure follows the original footprint.

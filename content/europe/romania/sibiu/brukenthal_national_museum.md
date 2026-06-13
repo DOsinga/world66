@@ -13,6 +13,7 @@ story: >
   paintings, prints, coins, natural history specimens — to the city of Sibiu,
   making it one of the oldest public museums in Europe, opened to visitors
   just nine years after the Louvre.
+score: 8.6
 ---
 
 The Brukenthal National Museum occupies the grandest building on Piata Mare, a Baroque palace that served as the residence of Samuel von Brukenthal, Governor of Transylvania under Maria Theresa. The art collection it contains is one of the most important in Romania — Flemish masters, Dutch landscapes, Italian Renaissance panels, and a strong section of Central European painting from the 17th to 19th centuries.

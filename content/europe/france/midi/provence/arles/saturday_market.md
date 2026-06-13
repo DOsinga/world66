@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 43.677
 longitude: 4.628
+score: 7.1
 ---
 
 Every Saturday morning the Boulevard des Lices, the main tree-lined avenue of Arles, becomes one of the best outdoor markets in Provence. Stalls stretch for several hundred metres selling olives, lavender honey, charcuterie, herbs de Provence, fabric, and pottery — the full Provencal range, and much of it genuinely local rather than tourist imports.

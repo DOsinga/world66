@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - art
+score: 7.7
 ---
 
 The National Gallery, on Bulevardi Dëshmorët e Kombit a short walk south of Skanderbeg Square, holds Albania's best collection of nineteenth and twentieth-century painting. The strongest rooms are the socialist realism gallery — heroic factory workers and partisans, larger than life, ideologically loud and visually fascinating — and the small Onufri room of sixteenth-century icons.

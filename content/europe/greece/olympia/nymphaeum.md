@@ -12,6 +12,7 @@ story: >
   by imperial statues as though they were equals of the emperors. The Eleans,
   who ran the sanctuary, could not refuse the gift but reportedly found the
   display of one man's ego inside a sacred precinct rather embarrassing.
+score: 6.8
 ---
 
 A spectacular semicircular fountain house built around AD 160 by the Athenian magnate Herodes Atticus and his wife Regilla, who was a priestess of Demeter at Olympia. The structure brought fresh water to the sanctuary from a source to the east and distributed it through a basin running along the face of the building, fed by an upper and lower semi-circular pool flanked by niches for statues.

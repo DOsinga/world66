@@ -9,6 +9,7 @@ tags:
   - wildlife
 latitude: -28.6650
 longitude: 153.6200
+score: 7.4
 ---
 
 Tallow Beach runs for about 7 kilometres south of Cape Byron, past the Arakwal National Park and the old lighthouse keeper's cottages, down towards Broken Head. It is everything Main Beach is not: unpatrolled, largely undeveloped, and often almost empty except for surfers chasing the bigger swells that wrap around the cape.

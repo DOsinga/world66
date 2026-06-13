@@ -1,6 +1,7 @@
 ---
 title: "Zur Höll"
 type: poi
+score: 7.0
 ---
 
 Zur Höll ("To Hell") on Burggasse occupies one of the oldest buildings in Rothenburg — parts of the structure date to around 900 AD, which makes it not just the oldest restaurant in town but one of the oldest continuously inhabited buildings in Franconia. The name apparently derives from an old German term for a basement storage cellar rather than anything infernal. The vaulted stone rooms give it a genuinely medieval atmosphere that is not manufactured for tourists.

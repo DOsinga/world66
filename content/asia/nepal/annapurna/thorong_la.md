@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Thorong_La
 story: >
   At 5,416m, Thorong La is one of the highest trekking passes in the world regularly crossed by non-mountaineers. In a good autumn season, several hundred people cross it daily, creating a memorable procession at dawn. In winter or bad weather, the pass can be closed for days; trekkers have died attempting to cross in whiteouts, though most accidents happen on the descent to Muktinath.
+score: 9.1
 ---
 
 Thorong La is the high point of the Annapurna Circuit — a crossing at 5,416m that most trekkers approach with a mixture of excitement and anxiety. The ascent begins from High Camp (4,925m), usually starting between 3 and 5 in the morning. The first hour of climbing in the dark, with headtorches bobbing ahead and behind on the steep trail, is both brutal and exhilarating. The summit, marked by prayer flags and a stone cairn, is reached after three to five hours of climbing.

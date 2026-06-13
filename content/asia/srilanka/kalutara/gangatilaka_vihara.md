@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Kalutara_Chaitya
   - https://en.wikipedia.org/wiki/Kalutara_Bodhiya
+score: 7.8
 ---
 
 The Gangatilaka Vihara is a Buddhist temple at the northern entrance to Kalutara, immediately south of the bridge over the Kalu Ganga river. It is one of the few Buddhist monuments along this stretch of the coast and one of the most visited sights in the district.

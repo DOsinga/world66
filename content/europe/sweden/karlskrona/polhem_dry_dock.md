@@ -12,6 +12,7 @@ tags:
   - sight
 title: Polhem Dry Dock
 type: poi
+score: 8.3
 ---
 
 The Polhem dry dock, completed in 1724, is the oldest functioning dry dock in the world and one of the most remarkable pieces of engineering in Sweden. It was designed by Christopher Polhem, the Swedish Archimedes, and built into the granite bedrock of the dockyard island. The dock is large enough to hold a ship of the line, and its original sluice mechanism — a wooden gate system that could drain the dock in hours — survives almost unchanged.

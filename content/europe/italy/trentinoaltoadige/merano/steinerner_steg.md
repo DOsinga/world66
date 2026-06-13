@@ -10,6 +10,7 @@ story: >
   The bridge's Italian name, Ponte Romano, suggests Roman origins, but the current structure dates from the 15th century. The name comes from "steinern" meaning made of stone — it was unusual in its era because most bridges over alpine torrents were wooden. The Passirio regularly floods in spring snowmelt, which is why the bridge's two arches are relatively high and narrow.
 sources:
   - https://en.wikipedia.org/wiki/Steinerner_Steg
+score: 5.8
 ---
 
 The Steinerner Steg — Stone Bridge or, in Italian, Ponte Romano — is a graceful two-arched stone footbridge across the Passirio River in the old town of Merano. It is the oldest bridge in the city, built in the 15th century, and connects the two banks near the Kurhaus. The bridge's narrow arches spring high above the water to accommodate the river's occasional spring floods; from the bridge you can look upstream along the river to the wooded slopes of the valley walls.

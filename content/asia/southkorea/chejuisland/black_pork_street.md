@@ -7,6 +7,7 @@ tags:
 latitude: 33.5077
 longitude: 126.5189
 snippet: "The main street for Jeju's famous black pork barbecue restaurants"
+score: 6.8
 ---
 
 Heuk Dwaeji Geori — Black Pork Street — is a stretch of restaurants in the Shinjeju area of Jeju City specialising in the island's celebrated black pig barbecue. The pigs are a local breed with dark skin, raised traditionally on Jeju and with noticeably stronger flavour than mainland Korean samgyeopsal. The restaurants here serve the pork grilled over charcoal at the table, with the usual accompaniments of kimchi, pickles, garlic, and doenjang paste.

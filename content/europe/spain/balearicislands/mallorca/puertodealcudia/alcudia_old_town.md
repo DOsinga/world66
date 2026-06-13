@@ -7,6 +7,7 @@ tags:
 latitude: 39.8525
 longitude: 3.1191
 snippet: Medieval walled town with well-preserved gates and narrow streets
+score: 8.2
 ---
 
 The walled town of Alcudia is one of the better-preserved medieval towns in Mallorca, and the fact that a functioning community still lives inside the walls makes it feel less like an exhibit than many comparable places. Two of the original gates survive — the Porta de Mallorca and the Porta de Xara — and the circuit of walls is almost complete, rebuilt substantially in the 14th century after earlier fortifications were demolished.

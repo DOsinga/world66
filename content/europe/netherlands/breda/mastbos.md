@@ -9,6 +9,7 @@ story: >
   artificially planted forests in the Netherlands. It was originally managed for timber,
   but by the 19th century had become a recreational escape for Breda's population —
   a function it still serves today.
+score: 7.2
 ---
 
 The Mastbos is a 900-hectare planted forest on the southern edge of Breda, laced with cycling and walking trails. The Dutch word means "mast forest," a reference to the straight pine trunks that were once harvested for ship masts. The trees are mostly beech and oak now, with conifers mixed in, and the canopy is dense enough to make it feel genuinely woodland despite being surrounded by the city.

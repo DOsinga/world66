@@ -15,6 +15,7 @@ story: >
   scenery and no boat traffic disturbing the surface.
 sources:
   - https://en.wikipedia.org/wiki/Brei%C3%B0%C3%A1rl%C3%B3n
+score: 7.4
 ---
 
 Breiðárlón is a smaller glacial lagoon about 10 kilometres west of Jökulsárlón, fed by the Fjallsjökull glacier outlet. It receives a fraction of the visitors and has no boat tours or facilities — just a rough track off the Ring Road and an unobstructed view of floating icebergs against the glacier wall. The silence and solitude here can be striking given how crowded the main lagoon can feel in summer.

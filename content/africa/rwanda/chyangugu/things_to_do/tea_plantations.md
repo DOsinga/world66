@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 7.2
 ---
 
 The hills around Cyangugu are blanketed in tea plantations — neat rows of vivid green bushes terraced across the steep slopes. The road from Cyangugu toward Nyungwe passes through some of the most picturesque plantations in Rwanda. Tea is harvested year-round here and the plantations are generally open to visitors; asking at a local factory about a tour is usually welcomed.

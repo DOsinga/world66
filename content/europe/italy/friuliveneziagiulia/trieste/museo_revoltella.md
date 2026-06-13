@@ -12,6 +12,7 @@ tags:
 - museum
 title: Museo Revoltella
 type: poi
+score: 7.9
 ---
 
 The Revoltella is the city's main art gallery, housed partly in the original palazzo of Baron Pasquale Revoltella — a Triestine shipping magnate who left his house and collection to the city on his death in 1869 — and partly in an adjoining modern wing designed by Carlo Scarpa and opened in 1992. The combination works surprisingly well.

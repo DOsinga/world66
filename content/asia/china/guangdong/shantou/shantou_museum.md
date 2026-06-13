@@ -6,6 +6,7 @@ tags:
 - museum
 title: Shantou Museum
 type: poi
+score: 8.0
 ---
 
 Shantou Museum is the place to put the city into context before wandering the port streets. Exhibits cover local history, Teochew culture, overseas migration, folk arts, and the city's rise as a treaty port.

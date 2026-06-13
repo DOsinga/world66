@@ -8,6 +8,7 @@ latitude: 53.6900
 longitude: 7.2000
 story: >
   The Wadden Sea is the world's largest intertidal flat system and has been a UNESCO World Heritage Site since 2009. At low tide, the sea withdraws to reveal a vast mudscape that is anything but empty — the sediment supports extraordinary densities of worms, shellfish, and microorganisms that in turn feed millions of migratory birds. Walking on it feels like walking on another planet.
+score: 8.4
 ---
 
 The Wadden Sea mudflats on Norderney's southern coast are revealed at low tide, exposing several kilometres of grey-brown sediment that is one of the most productive ecosystems in Europe. Guided mudflat walks (*Wattwanderungen*) depart from the island regularly — most are led by certified guides who can point out the lugworm casts, razor clams, cockles, and shorebirds that make the mudflats their home.

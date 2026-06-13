@@ -8,6 +8,7 @@ latitude: 38.3035
 longitude: -77.4606
 sources:
   - https://en.wikipedia.org/wiki/Fredericksburg_Area_Museum
+score: 7.8
 ---
 
 The Fredericksburg Area Museum occupies the old Town Hall and Market House on the main square — a handsome Federal-style building from 1816 that has served variously as courthouse, market, jail, and civic hall. The museum covers the full sweep of Fredericksburg's history, from Native American occupation through colonial settlement, the Revolution, the slave trade, the Civil War, Reconstruction, and into the 20th century.

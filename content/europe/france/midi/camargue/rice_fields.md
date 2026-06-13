@@ -8,6 +8,7 @@ tags:
   - agriculture
 title: "Camargue Rice Fields"
 type: poi
+score: 5.9
 ---
 
 Rice fields are one of the least romantic and most revealing Camargue sights. They show how carefully water is managed in the delta, and why the landscape is a working agricultural system as well as a bird reserve.

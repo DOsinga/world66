@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 50.2576
 longitude: 10.9642
+score: 6.6
 ---
 
 Coburg's Hofbräu brewery has been producing beer in the town since 1835, though the present setup is more pub than brewery tap — a wood-panelled Gaststätte in the old town that serves the house beers alongside the standard Franconian food. The Hofbräu Pils and the darker Dunkel are both well-made; the seasonal Märzen and Bock beers are worth seeking out if the timing is right.

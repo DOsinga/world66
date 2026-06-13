@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 latitude: 36.2160
 longitude: 117.1020
+score: 6.1
 ---
 
 Tongtian Street ("Reach the Sky Street") is the long, lively avenue that runs from Dai Temple north to the base of Mount Tai. Originally the ceremonial route that emperors took to begin the pilgrimage, it has become a more workaday strip of restaurants, souvenir shops, hotels, and noodle stands serving climbers on their way up or down.

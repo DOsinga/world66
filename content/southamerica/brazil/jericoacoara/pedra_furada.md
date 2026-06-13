@@ -16,6 +16,7 @@ story: >
   is arguably the most photographed natural formation in the northeast.
 sources:
   - https://en.wikipedia.org/wiki/Jericoacoara_Beach
+score: 8.4
 ---
 
 Pedra Furada — "pierced rock" — is a sea stack with a large circular hole worn through its base, standing on the beach at the eastern end of Jericoacoara. It's the symbol of the place, appearing on every postcard, website, and social media feed connected to Jeri, and it earns its status: the arch frames a disc of sky or sea depending on angle, and at certain tidal states the wave action through the hole is dramatic.

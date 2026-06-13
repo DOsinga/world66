@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 50.0614
 longitude: 19.9425
+score: 6.9
 ---
 
 The milk bars (bar mleczny) of Poland are communist-era canteens that served subsidized, cheap, meatless food to the urban working class — and several in Krakow have survived into the present day, preserved partly by nostalgia and partly by the fact that the food is genuinely good. Bar Mleczny Tomasza is one of the better-known examples: a no-frills lunchroom with a counter, a handwritten menu, and a regular clientele of students, office workers, and budget travellers.

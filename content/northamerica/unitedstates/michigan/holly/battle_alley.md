@@ -7,6 +7,7 @@ tags:
 - sight
 title: Battle Alley
 type: poi
+score: 7.2
 ---
 
 Battle Alley is the short cobbled street at the centre of downtown Holly, lined with restored brick storefronts from the 1880s and 1890s. The name is supposed to come from the brawls that broke out here when the saloons emptied. Today it is one of the most photogenic blocks in Oakland County.

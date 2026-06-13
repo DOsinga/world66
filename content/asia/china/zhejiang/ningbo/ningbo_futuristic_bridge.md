@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 29.8800
 longitude: 121.5700
+score: 6.2
 ---
 
 Ningbo has invested heavily in architecturally ambitious river crossings. The Siming Bridge, Jiangdong Bridge, and several pedestrian bridges over the Yong River and its tributaries form a series of contemporary engineering statements that range from the utilitarian to the spectacular. The Ningbo Pedestrian Bridge near the Laowaitan area, designed to evoke a traditional Chinese scroll painting and allowing crossing at multiple levels, is the most photographed.

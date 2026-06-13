@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 48.1148
 longitude: -1.6845
+score: 8.1
 ---
 
 Quartier Saint-Anne is the most atmospheric of old Rennes's historic neighbourhoods, a tight grid of medieval streets running uphill from Place des Lices toward the church of Saint-Anne. The colombage houses here — timber-framed with painted plaster panels, their upper stories projecting over the narrow lanes — are among the best-preserved in Brittany, and several streets have barely changed in four centuries.

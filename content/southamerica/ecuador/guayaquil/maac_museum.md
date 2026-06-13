@@ -7,6 +7,7 @@ tags:
 title: MAAC — Museum of Anthropology and Contemporary Art
 type: poi
 story: "The MAAC building, opened in 2005 on the Malecón, was designed to do two things at once: house Ecuador's national collections of pre-Columbian art and provide a major venue for contemporary art exhibitions. The combination is unusual — most countries keep archaeology and contemporary art in separate institutions — but it works, because the juxtaposition of ancient ceramics and modern painting makes you think about the continuities in Ecuadorian visual culture."
+score: 8.3
 ---
 
 The Museo Antropológico y de Arte Contemporáneo (MAAC) stands on the Malecón near the northern end, a modern building with a long museum strip facing the river. It holds one of Ecuador's most important collections of pre-Columbian artifacts — ceramics, gold work, and stone carvings from the coastal cultures that preceded European contact — alongside a regularly changing programme of contemporary Ecuadorian and Latin American art.

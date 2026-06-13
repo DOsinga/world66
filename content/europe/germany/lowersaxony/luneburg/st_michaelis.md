@@ -10,6 +10,7 @@ tags:
 - architecture
 snippet: 14th-century Benedictine church where the young J. S. Bach sang as a chorister
 story: "Johann Sebastian Bach was a scholarship boy in the Mettenchor of St. Michael's from 1700 to 1702 — the only time in his life he lived north of his Thuringian home. The abbey library at the time held one of Germany's best collections of organ music, and the discovery of unknown manuscripts that Bach copied here continues to add to scholars' picture of his early formation."
+score: 7.5
 ---
 
 Founded as a Benedictine monastery in 1376, St. Michael's is the third of Lüneburg's three medieval brick-Gothic churches and the most affecting of them — the long, sloping nave dramatically tilted by salt-related subsidence, the white-painted walls bare since a Lutheran clear-out in the 16th century, and an extraordinary sense of space.

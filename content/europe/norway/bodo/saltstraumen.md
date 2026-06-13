@@ -13,6 +13,7 @@ story: >
   peak flow, around 400 million cubic metres of water surge through a 150-metre-wide 
   channel four times a day. Norse sailors named it Saltstrøm, the salt current, and 
   it has been wrecking ships and filling legends for a thousand years.
+score: 9.2
 ---
 
 Saltstraumen, about 30 km southeast of Bodø, is the strongest tidal current on earth. Four times a day, the changing tide pushes vast volumes of seawater through a narrow 150-metre strait connecting Saltfjorden to Skjerstadfjorden. The whirlpools and standing waves can reach three metres in height and five metres in diameter; the noise at full flood — a deep, continuous roar — is audible from the bridge before you see the water.

@@ -11,6 +11,7 @@ story: >
   The 1,450-metre pedestrian boulevard was paved in 1924 with granite blocks shaped like French bread — a shape the Russians called "breadsticks" — and those same blocks still carry pedestrian traffic today. At its peak in the 1920s, the street had 71 buildings of various European styles including Renaissance, Baroque, and Classicist, many of which survive.
 sources:
   - https://en.wikipedia.org/wiki/Zhongyang_Dajie
+score: 8.6
 ---
 
 Zhongyang Dajie — Central Street — is the spine of old Harbin and the best place to feel the city's unusual history. The broad pedestrian boulevard runs north to the Songhua River and is lined on both sides with European-era buildings in styles ranging from Russian neo-baroque to art nouveau. It is unlike any other street in China.

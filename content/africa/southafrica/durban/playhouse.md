@@ -10,6 +10,7 @@ latitude: -29.8584
 longitude: 31.0287
 address: "29 Anton Lembede Street"
 url: "https://www.playhousecompany.com"
+score: 6.8
 ---
 
 The Playhouse is Durban's main performing arts venue, a mock-Tudor confection facing the City Hall across Anton Lembede Street. Built in 1935 as a cinema, it now houses five performance spaces and hosts the resident Playhouse Company — opera, ballet, drama and an annual jazz festival.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.1554
 longitude: 1.1076
+score: 6.9
 ---
 
 The Plaça del Mercadal is the central square of Reus's old town, and the best place to get a sense of the city's prosperous commercial history. It is ringed by arcaded buildings, occupied in the ground floors by cafe terraces that fill up from mid-morning onwards. The Thursday and Saturday markets spill out across the square and surrounding streets, dealing in food, clothing, and household goods in the tradition of a market town that has been trading continuously since the Middle Ages.

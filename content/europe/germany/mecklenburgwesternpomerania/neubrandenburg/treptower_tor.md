@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 53.5574
 longitude: 13.2674
+score: 8.1
 ---
 
 The Treptower Tor is the finest of Neubrandenburg's four medieval city gates, built around 1400 and extensively decorated with glazed terracotta panels depicting saints, heraldic animals, and geometric patterns. It stands about 30 metres high and served as the main southern entrance to the city. The decoration on the town-facing side is noticeably richer than on the outer side — it was designed to impress visitors arriving from the south.

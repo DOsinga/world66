@@ -8,6 +8,7 @@ tags:
 - sight
 title: Pillar Point Harbor
 type: poi
+score: 7.9
 ---
 
 The small harbour at the northern end of town is a genuine working fishing port, not a marina. The Dungeness crab season runs from mid-November through June, and during the early weeks you can buy live crabs straight off the boats at the inner dock — bring a cooler. The harbour is also where commercial salmon, halibut, and rockfish boats unload, and where the Mavericks surf contest fleet launches when the swell hits.

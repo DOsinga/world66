@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.639
 longitude: 42.986
+score: 6.8
 ---
 
 The Green Mosque — known locally as the Ahmediye Mosque — is the only functioning mosque in Akhaltsikhe outside the Rabati fortress, and one of the few visible reminders of the town's 250 years as an Ottoman city. The mosque serves the town's small Muslim community, who are primarily Armenian-Muslim (Hemshini) in origin. It is a modest building by Ottoman standards, reflecting the town's peripheral position within the empire.

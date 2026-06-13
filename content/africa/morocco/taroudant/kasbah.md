@@ -13,6 +13,7 @@ story: >
   a separate walled quarter within the medina used to house the ruling class.
   It was later abandoned and gradually fell into ruin, but the scale of the
   enclosures still gives a sense of the ambition of Alaouite power in the Souss.
+score: 7.6
 ---
 
 Taroudant's kasbah is a substantial walled enclosure in the northern part of the medina, distinct from the main ramparts. It served as the administrative and residential quarter for the ruling elite during the Alaouite period, and parts of the original palace structures survive in various states of decay alongside inhabited houses.

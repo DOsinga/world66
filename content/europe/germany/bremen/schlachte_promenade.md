@@ -9,6 +9,7 @@ longitude: 8.8039
 story: >
   The Schlachte was the heart of medieval Bremen's trading life — the quay where goods from Hanseatic ships were unloaded, weighed, and taxed.
   The name comes from the Low German for slaughterhouse, reflecting the butchers who once worked the waterfront alongside the merchants.
+score: 6.5
 ---
 
 The Schlachte is the riverside promenade along the west bank of the Weser, stretching for about a kilometre from the old town centre toward the Weser Embankment. It is the main outdoor gathering place in Bremen, lined with restaurants and bars that set out extensive terraces in summer. At weekends a flea market runs along the length of the promenade, and historic tall ships sometimes moor here for festivals.

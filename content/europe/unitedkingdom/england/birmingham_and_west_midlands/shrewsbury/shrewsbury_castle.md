@@ -13,6 +13,7 @@ story: >
   Revolution — in 1787, when it was already in ruin. He converted it into a house, adding the
   round tower that now overlooks the railway station. Telford designed the station itself,
   which opened in 1848, so the castle and station have always faced each other.
+score: 7.4
 ---
 
 The red sandstone castle stands on a rocky outcrop at the neck of the Severn's loop, guarding the landward approach to the town. It was founded by Roger de Montgomery in 1074, expanded by Edward I, and used as a military headquarters during various Welsh campaigns. By the Tudor period it was already falling out of use as a fortification, though it remained a symbol of royal authority in the Welsh Marches.

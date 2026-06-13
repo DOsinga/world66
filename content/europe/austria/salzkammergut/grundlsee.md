@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 47.6200
 longitude: 13.8000
+score: 7.8
 ---
 
 The Grundlsee is the largest lake in Styria, a long, narrow body of water in the Ausseerland enclosed by forested ridges. It is little visited compared to the Upper Austrian lakes, which makes it an attractive alternative: the water is warm enough for swimming from June to August, the shores are largely undeveloped, and the village of Grundlsee at the western end has a few good guesthouses and a peaceful atmosphere.

@@ -10,6 +10,7 @@ tags:
 - gastronomy
 title: Truffle
 type: poi
+score: 7.1
 ---
 
 The most unexpected surprise in the province of Savona, and found nowhere else in Liguria, is the seductive truffle. A few kilometres beyond the Colle di Cadibona, in the extreme southern spur of the Langhe Cuneesi between the communes of Cairo Montenotte, Millesimo, Carcare, and Dego — and especially in the wood of Santa Giulia — you can find not only the black truffle, a close relative of those from Norcia and Périgord, but also the even more strongly scented white truffle, sometimes called the tartufo d'Alba.

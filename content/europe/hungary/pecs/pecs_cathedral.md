@@ -17,6 +17,7 @@ story: >
   built directly above some of the oldest Christian art in Central Europe.
 sources:
   - https://en.wikipedia.org/wiki/P%C3%A9cs_Cathedral
+score: 8.8
 ---
 
 Pécs Cathedral is a large Romanesque-Revival basilica with four towers dominating the Cathedral Quarter of the city. The current building dates largely from the 1880s, when it was comprehensively restored and rebuilt by the Vienna architect Friedrich von Schmidt, with earlier medieval and Baroque elements incorporated throughout. The interior is elaborate: colourful murals, carved stone details, and a crypt that preserves 11th-century elements from the original medieval cathedral.

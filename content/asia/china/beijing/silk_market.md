@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 39.9071
 longitude: 116.4163
+score: 7.4
 ---
 
 The five-floor indoor market on Jianguomen Dajie is the most famous shopping destination for international visitors in Beijing, and the most negotiation-intensive. Vendors sell silk fabrics, cashmere scarves, clothing, bags, shoes, jewellery, and electronics — a large proportion of it counterfeit branded goods. Bargaining is mandatory; the opening price for foreigners is typically three to five times the final price. Knowing roughly what you want to pay before you start is essential.

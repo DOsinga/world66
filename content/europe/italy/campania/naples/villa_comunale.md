@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.8316
 longitude: 14.2312
+score: 6.7
 ---
 
 A long, narrow public garden running along the Chiaia waterfront for about 1.5 km, established by the Bourbon kings in the eighteenth century and opened to the public in 1888. The Villa Comunale has fountains, statues, and a small zoological station on the seafront — the Stazione Zoologica Anton Dohrn, founded in 1872 by German naturalist Anton Dohrn and still an active marine biology research institute.

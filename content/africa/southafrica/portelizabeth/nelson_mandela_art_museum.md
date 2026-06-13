@@ -6,6 +6,7 @@ longitude: 25.6113
 tags:
   - things_to_do
   - museum
+score: 7.1
 ---
 
 Opened in 1956 as the King George VI Art Gallery, this is a small but properly curated museum with a strong collection of South African art across periods — colonial-era landscapes, apartheid-era political work, and contemporary pieces by Eastern Cape artists. The building itself, a solid 1950s civic structure on St George's Park, is handsome without being grand.

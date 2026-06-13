@@ -6,6 +6,7 @@ tags:
   - sight
 title: Ram Jhula
 type: poi
+score: 7.5
 ---
 
 Ram Jhula is the larger of the two famous suspension bridges over the Ganges in Rishikesh, wider than Laxman Jhula and carrying a heavier flow of pilgrims and visitors. The bridge connects the Swarg Ashram area on the eastern bank with Shivananda Nagar on the west, passing above the fast-running river. Parmarth Niketan — the largest ashram in Rishikesh and the venue for the evening Ganga Aarti ceremony — is immediately downstream on the eastern bank.

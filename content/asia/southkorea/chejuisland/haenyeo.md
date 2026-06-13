@@ -14,6 +14,7 @@ story: >
   reverse of the mainland norm. The haenyeo's earning power gave Jeju women
   unusual social status and independence, a legacy that still distinguishes the
   island's culture from the Korean mainland.
+score: 8.4
 ---
 
 The haenyeo — Jeju's female freedivers — are the island's most internationally recognised cultural symbol. These women dive without breathing equipment to depths of up to 20 metres, harvesting sea cucumbers, abalone, conch, and other seafood. The practice is centuries old, passed down through generations, and was inscribed on UNESCO's Intangible Cultural Heritage list in 2016.

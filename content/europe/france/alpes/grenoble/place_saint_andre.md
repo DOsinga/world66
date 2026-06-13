@@ -10,6 +10,7 @@ tags:
 - sight
 story: >
   The Palais du Parlement du Dauphiné on this square housed the regional law courts from the 13th century. It was here in 1788 that the Dauphiné parliament defied royal orders to disband — a legal revolt that helped ignite the chain of events leading to the French Revolution. The building still stands, its Gothic facade looking onto the square where Grenoble residents gathered to resist.
+score: 8.5
 ---
 
 Place Saint-André is the historic heart of Grenoble — a small, irregular medieval square hemmed in by the Gothic church of Saint-André and the 15th-century Palais du Parlement du Dauphiné. Terrace cafes occupy the square year-round, and in summer the Open Air Short Film Festival screens films here at night.

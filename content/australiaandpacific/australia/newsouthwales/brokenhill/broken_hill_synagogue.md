@@ -6,6 +6,7 @@ longitude: 141.4595
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The small synagogue on Wolfram Street was built in 1910 to serve a Jewish community that grew up around the mines — German and Polish Jews drawn to the town in the late 19th century. It is one of the few outback synagogues in Australia and a reminder of how cosmopolitan Broken Hill briefly was at the height of the silver boom.

@@ -8,6 +8,7 @@ latitude: 47.5559
 longitude: 7.5883
 sources:
   - https://en.wikipedia.org/wiki/Tinguely_Fountain
+score: 7.4
 ---
 
 A cluster of animated metal sculptures in the square behind the Theater Basel, created by Jean Tinguely in 1977. The machines spray water in unpredictable directions, spin, bob, and generally behave as though they have their own agendas. It is the most-photographed public artwork in Basel and one of the most joyful public fountains in Europe.

@@ -9,6 +9,7 @@ latitude: 38.8966
 longitude: -77.0252
 story: >
   After Lincoln was shot on the night of 14 April 1865, he was carried across the street to the Petersen House, where he died the following morning. The Petersen House, now also a museum, preserves the room where Lincoln lay — including the actual pillow, still stained. Ford's Theatre and the Petersen House are managed together; the ticket covers both.
+score: 7.6
 ---
 
 Ford's Theatre is the working theatre where Abraham Lincoln was assassinated on 14 April 1865, and it remains a fully functional performance venue. It also contains a museum in the basement documenting Lincoln's presidency and assassination, and the Lincoln Museum in the house across the street.

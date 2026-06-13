@@ -6,6 +6,7 @@ tags:
 - beach
 title: Playa La Herradura
 type: poi
+score: 6.4
 ---
 
 La Herradura is Coquimbo's most accessible beach, set on a sheltered crescent-shaped bay south of the centre. The water is calmer than on more exposed beaches, which makes it popular with families and small boats.

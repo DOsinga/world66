@@ -5,6 +5,7 @@ latitude: 27.740
 longitude: -15.581
 snippet: "The quieter beach on the western edge of the dunes, below the lighthouse"
 tags: [beaches, beach]
+score: 7.9
 ---
 
 Playa de Maspalomas sits on the far side of the dune reserve from Playa del Inglés proper, separated by the full width of the protected area. This means you either walk through the dunes to reach it — around 30 minutes from the eastern end of the main beach — or approach from the Maspalomas village side near the lighthouse. The result is a beach that sees far fewer visitors than the main strip, even in high season.

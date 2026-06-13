@@ -14,6 +14,7 @@ story: >
   Building. King Abdullah of Jordan and David Ben-Gurion, future founder of Israel,
   both attended the opening ceremony — an act of shared humanity that feels remarkable
   in retrospect.
+score: 7.4
 ---
 
 One of Jerusalem's most beautiful buildings, designed by the same architect who designed the Empire State Building (Arthur Loomis Harmon) and opened in 1933. The building blends Byzantine, Romanesque, and Near Eastern influences into a harmonious stone pile crowned by a bell tower that serves as one of West Jerusalem's landmarks. The tower is open to visitors and offers good views over the city.

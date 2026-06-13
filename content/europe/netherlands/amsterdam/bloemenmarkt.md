@@ -8,6 +8,7 @@ tags:
 title: Bloemenmarkt
 type: poi
 snippet: "Amsterdam's floating flower market on the Singel canal"
+score: 5.1
 ---
 
 The Bloemenmarkt floats on barges along the Singel between Koningsplein and Muntplein, and has been selling flowers here since 1862. The stalls carry cut flowers, potted plants, herbs, and — most usefully for visitors — packaged bulbs you can take home through customs. Tulips, hyacinths, and dahlias are the main draw. The corner where Singel meets Koningsplein has the freshest cut flower stalls.

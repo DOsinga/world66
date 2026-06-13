@@ -10,6 +10,7 @@ latitude: 5.8181
 longitude: -55.1590
 story: >
   In May 1940, when Germany invaded the Netherlands, the crew of the German merchant ship Goslar realised they were trapped in a neutral port that was about to become hostile territory. Rather than allow the ship to be seized, the captain gave the order to scuttle her. The Goslar settled in the shallows of the Suriname River, where she has remained ever since — a visible reminder of the Second World War reaching even this remote corner of South America.
+score: 5.2
 ---
 
 The Goslar is a partly-submerged German merchant vessel resting in the Suriname River, visible from the waterfront as a rusting hulk at low tide. She was deliberately sunk by her crew in May 1940 to prevent capture by Dutch colonial authorities after Germany invaded the Netherlands, and has lain there ever since.

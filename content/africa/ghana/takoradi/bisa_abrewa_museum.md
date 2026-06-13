@@ -9,6 +9,7 @@ longitude: -1.7440
 snippet: Small community museum dedicated to Western Region history and culture
 sources:
   - https://en.wikipedia.org/wiki/Bisa_Aberwa_Museum
+score: 6.8
 ---
 
 The Bisa Abrewa Museum in Nkontompo, a suburb north of Takoradi, is a community museum focused on the cultural heritage of the Nzema and Ahanta peoples of the Western Region. The collection covers traditional artefacts, royal regalia, textiles, and tools, along with documentation of the colonial period and its impact on the region's fishing and farming communities.

@@ -7,6 +7,7 @@ tags:
 title: Ostarija Peglez'n
 type: poi
 snippet: Traditional Slovenian restaurant in a wooden chalet in the village
+score: 5.8
 ---
 
 A wood-panelled chalet on Cesta Svobode, the main road into town from the east, with the look and feel of an old country inn. The menu sticks to the Slovenian classics — buckwheat ganga, sausages with sauerkraut, jota, mushroom soup, beef goulash, štruklji.

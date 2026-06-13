@@ -8,6 +8,7 @@ tags:
 latitude: 50.117
 longitude: -5.691
 story: Cot Valley's beach, Porth Nanven, is known to geologists as the "Dinosaur Egg beach" because of the enormous rounded boulders — some the size of trucks — that line the shore, smoothed and sorted by Atlantic wave action over thousands of years. The boulders are made of a pale granite that takes on warm colours in low light, making the beach particularly beautiful in the evening.
+score: 7.8
 ---
 
 Cot Valley is a small wooded valley running down to the sea half a mile south of St Just, ending at Porth Nanven — a beach famous for its extraordinary collection of massive rounded granite boulders. The valley is managed as a nature reserve and is one of the better wildlife areas in the far west: breeding birds in the scrub and woodland, and migrant species in spring and autumn.

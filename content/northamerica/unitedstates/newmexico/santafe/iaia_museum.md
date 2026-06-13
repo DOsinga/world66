@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 35.6874
 longitude: -105.9370
+score: 8.2
 ---
 
 The contemporary counterpart to the historical Native American collections on Museum Hill — this museum, half a block off the Plaza, shows only work by living Indigenous artists. The exhibitions rotate constantly and the curation is sharp; the museum is run by the Institute of American Indian Arts, the country's flagship tribal college.

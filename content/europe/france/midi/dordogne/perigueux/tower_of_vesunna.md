@@ -8,6 +8,7 @@ tags:
   - roman
 latitude: 45.1794
 longitude: 0.7144
+score: 7.8
 ---
 
 The Tour de Vésone is the most arresting Roman survival in Périgueux: a hollow cylinder of brick and stone, 24 metres high, that was once the inner sanctuary (cella) of a temple to Vesunna, the tutelary goddess of the Petrocorii. A long slot in one side marks where the wall was breached, probably when the building was robbed for fortification stone in the late Empire.

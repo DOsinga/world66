@@ -9,6 +9,7 @@ longitude: -68.4333
 snippet: Narrow-gauge steam railway through the Pipo River valley into the national park
 story: >
   The original track was built by prisoners of the Ushuaia jail in the early 20th century to transport timber from the national park to heat the prison. Inmates cut the lenga beech logs themselves; the small gauge railway they built is now a tourist attraction running along the same route.
+score: 6.9
 ---
 
 The End of the World Train (Tren del Fin del Mundo) runs from a station a few kilometres west of Ushuaia through the Rio Pipo valley and into Tierra del Fuego National Park. The narrow-gauge track follows a route first laid by prisoners in the early twentieth century, and antique-style steam and diesel engines haul open and closed carriages through subantarctic forest at a gentle pace.

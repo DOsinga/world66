@@ -7,6 +7,7 @@ tags:
 latitude: 50.8568
 longitude: 0.5953
 story: "At a gradient of approximately 1 in 1.28 (78%), the East Hill Cliff Railway is one of the steepest funicular railways in the United Kingdom. It was built in 1902 to provide access to Hastings Country Park above the East Hill, though for most visitors it simply provides the most dramatic view back over the Old Town and the Stade beach."
+score: 7.6
 ---
 
 The East Hill Cliff Railway climbs the steep eastern face of the hill above Hastings Old Town, providing access to the East Hill and the country park beyond. Unlike the West Hill lift, which travels through a tunnel, the East Hill railway is entirely external, which gives it spectacular views over the Old Town, the fishing beach (the Stade), and the English Channel below.

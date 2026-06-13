@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
   - hiking
+score: 8.4
 ---
 
 The Beigua Regional Nature Park is a UNESCO Global Geopark covering the high coastal ridge between Arenzano and Varazze. From the town it is a steep climb — by car up winding road or on foot via marked trails — into a landscape of beech forest, serpentine outcrops, and panoramic ridges where you can see the Maritime Alps and Corsica on a clear day.

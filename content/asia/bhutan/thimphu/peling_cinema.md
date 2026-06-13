@@ -12,6 +12,7 @@ tags:
 - sight
 title: Peling Cinema
 type: poi
+score: 6.1
 ---
 
 One of the few cinemas in Bhutan, screening a mix of Bollywood features, occasional Hollywood releases, and Bhutanese films in Dzongkha. The programming is erratic by Western standards — check the board outside for what's showing. An evening at Peling Cinema gives a genuine insight into popular Bhutanese entertainment culture: the audience reactions to Bollywood set pieces are enthusiastic, and a Dzongkha-language film provides a rare window into contemporary Bhutanese storytelling. Tickets are cheap.

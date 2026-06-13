@@ -7,6 +7,7 @@ tags:
 latitude: 56.4847
 longitude: 84.9520
 snippet: The main regional museum covering Siberian history, archaeology, ethnography, and natural history
+score: 8.2
 ---
 
 The Tomsk Regional Museum of Local History (Tomsky Oblastnoy Kraevedchesky Muzey) is the city's main museum and the best place to start understanding the region. It covers an enormous scope: prehistoric finds from Siberian burial mounds, the Cossack conquest and colonisation of Siberia, the indigenous peoples of western Siberia, natural history of the Tom River basin, and the role of Tomsk as a centre of exile and of learning in imperial Russia.

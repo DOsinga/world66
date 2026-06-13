@@ -8,6 +8,7 @@ latitude: 34.4365
 longitude: 35.8378
 story: >
   Hallab has been making sweets in Tripoli since 1881, which means it survived the end of the Ottoman Empire, the French Mandate, Lebanese independence, and the civil war. The shop's longevity is partly explained by the unusual stability of the sweet-making tradition — the same recipes, the same techniques, and for much of that time the same families working the same copper pans. Hallab's knafeh is made with the akawi cheese produced specifically in northern Lebanon, which cannot be replicated outside the region.
+score: 8.1
 ---
 
 Hallab is Tripoli's most famous institution — a sweet shop and café that has been operating since 1881 and is widely considered to produce the finest Lebanese pastries in the country. The main branch on El Mina Avenue is part café, part confectionery shop, and part Tripoli landmark. Their knafeh (shredded wheat pastry over cheese, soaked in sugar syrup and rose water), baklava, and maamoul (shortbread filled with dates or nuts) are exceptional.

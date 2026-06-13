@@ -5,6 +5,7 @@ tags: [things_to_do, architecture]
 snippet: "18th-century palace housing the Pontevedra Museum's Castelao gallery"
 latitude: 42.4319
 longitude: -8.6432
+score: 6.9
 ---
 
 Building García Flórez is an 18th-century urban palace commissioned by perpetual alderman Antonio García Estévez Fariña. The architecture — gable wall with arcades, tall balconies — belongs to the Compostelan school and gives you a good sense of how Galicia's provincial gentry built.

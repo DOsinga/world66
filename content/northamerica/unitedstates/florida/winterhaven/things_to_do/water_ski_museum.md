@@ -12,6 +12,7 @@ story: >
   to the rest of the world. For decades, Winter Haven and the surrounding Chain of Lakes were 
   the undisputed centre of competitive and exhibition water skiing, producing world champions 
   and hosting national tournaments. The Hall of Fame preserves this history.
+score: 6.2
 ---
 
 The Water Ski Hall of Fame and Museum, located in downtown Winter Haven, documents the history of water skiing as a competitive sport and its deep connection to this part of Florida. The museum traces the development of the sport from Cypress Gardens' early shows through the professional circuit and Olympic recognition, with exhibits on equipment, technique, and notable athletes.

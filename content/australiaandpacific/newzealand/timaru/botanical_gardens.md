@@ -6,6 +6,7 @@ longitude: 171.2445
 snippet: "Timaru's main park — rose gardens, a small zoo, and a good spot for a picnic"
 tags: [things_to_do, nature]
 story: "Queen's Park has been Timaru's main public green space since the 1860s, when land was set aside before the town was properly established. The rose gardens are well-maintained and at their best in December and January. The small zoo — more of a wildlife enclosure — has been a fixture for generations of Canterbury children."
+score: 6.8
 ---
 
 Queen's Park, which encompasses the botanical gardens, is the main green space in Timaru and a pleasant place to spend an hour. The formal rose gardens are the centrepiece, well-maintained and laid out in the Victorian tradition; they are at their best in mid-summer, from December through January. There are also native plantings, large specimen trees, and lawns suitable for a picnic.

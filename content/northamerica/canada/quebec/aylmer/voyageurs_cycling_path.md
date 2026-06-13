@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.3953
 longitude: -75.8478
+score: 7.0
 ---
 
 The Voyageurs cycling path (Corridor des Voyageurs) runs along the Ottawa River from downtown Gatineau through Aylmer and on toward Gatineau Park. Aylmer is the middle section of this route, with flat, well-maintained trail passing through the marina area and Parc des Cèdres before climbing gently toward the park entrance.

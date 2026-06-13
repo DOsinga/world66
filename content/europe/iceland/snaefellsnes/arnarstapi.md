@@ -16,6 +16,7 @@ story: >
   local people still leave offerings at certain rocks associated with him.
 sources:
   - https://en.wikipedia.org/wiki/Arnarstapi
+score: 8.4
 ---
 
 Arnarstapi is a small village at the southern foot of Snæfellsjökull, serving as the eastern end of the classic coastal walk to Hellnar. The village sits on a low headland of basalt sea cliffs where arches, sea stacks, and caves have been carved out by the Atlantic swell. Arctic terns, kittiwakes, and fulmars nest in the cliff faces in summer; the birds are densely packed and the noise and activity extraordinary.

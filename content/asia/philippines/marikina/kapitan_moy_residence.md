@@ -15,6 +15,7 @@ story: >
   preserved as a heritage site and cultural centre.
 sources:
   - https://en.wikipedia.org/wiki/Kapitan_Moy_Residence
+score: 7.6
 ---
 
 The Kapitan Moy Residence is a two-hundred-year-old ancestral house on the edge of Marikina's historic district, now serving as the Cultural Center of Marikina. It was the home of Don Laureano Guevarra (1851–1891), the man credited with founding the commercial shoe industry that made the city famous. The building is an example of the bahay na bato style — a Philippine vernacular form combining a ground floor in stone with an upper floor in hardwood — which was the standard for prosperous families in the Spanish colonial period.

@@ -8,6 +8,7 @@ tags:
 latitude: 20.9500
 longitude: 107.0667
 story: "The market operates on two floors — the upper level is dry goods, fabrics, and household items; the lower is fish, vegetables, and meat. The fish section at 6am, when the night boats have just come in, is worth waking up for even if you don't buy anything."
+score: 7.2
 ---
 
 The main wet market in Hon Gai, on the eastern side of Halong City, is a working local market rather than a tourist attraction. It sells fresh seafood, vegetables, spices, and dry goods to the city's residents and is at its best in the early morning. The seafood section is particularly good — squid, crab, various reef fish, and sea snails direct from the fishing boats.

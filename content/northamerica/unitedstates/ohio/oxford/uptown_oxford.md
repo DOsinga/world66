@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 39.5075
 longitude: -84.7467
+score: 7.4
 ---
 
 Oxford's small commercial centre sits at the top of a gentle rise, which is why locals call it "uptown" rather than downtown. The main blocks along High Street and Court Street contain a mix of independent shops, restaurants, and bars in 19th- and early 20th-century commercial brick buildings. It is the kind of main street that has largely disappeared from the Midwest, kept alive here by the university.

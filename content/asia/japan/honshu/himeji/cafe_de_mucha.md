@@ -6,6 +6,7 @@ longitude: 134.6918
 tags:
   - bars_and_cafes
   - cafe
+score: 5.5
 ---
 
 Cafe de Mucha sits on Otemae-dori within sight of the castle keep and is the easiest civilised stop on the walk between station and castle. Coffee is solid, the cakes are house-baked, and the windowside seats give a frank view of the moat and walls.

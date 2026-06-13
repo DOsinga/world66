@@ -8,6 +8,7 @@ tags:
   - beaches
   - sight
   - swimming
+score: 6.8
 ---
 
 Playa Patzcuaro is a stretch of wild beach about 5 kilometres south of Sayulita, past a creek crossing that requires some navigation but rewards the effort with genuine solitude. The sand here is dark volcanic grey rather than golden, which gives it a different, more dramatic character than the main beaches near town.

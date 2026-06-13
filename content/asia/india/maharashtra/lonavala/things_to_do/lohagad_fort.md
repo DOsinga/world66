@@ -10,6 +10,7 @@ latitude: 18.7279
 longitude: 73.4777
 sources:
   - https://en.wikipedia.org/wiki/Lohagad
+score: 8.4
 ---
 
 One of the most rewarding short treks near Lonavala, Lohagad ("Iron Fort") sits on a spur of the Sahyadri at about 1,050 metres, its walls following the natural ridgeline so that the fort seems to grow out of the basalt rock. Originally built far earlier and captured and recaptured by successive powers, it came to prominence under the Maratha king **Shivaji** in the 17th century, who used it as a treasury stronghold after the 1665 Treaty of Purandar.

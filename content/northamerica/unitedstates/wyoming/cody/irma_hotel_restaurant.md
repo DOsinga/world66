@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 44.5258
 longitude: -109.0644
+score: 5.6
 ---
 
 The restaurant at the Irma Hotel occupies the saloon and dining room that Buffalo Bill built in 1902, and eating here means eating in the shadow of that magnificent cherrywood bar. The food is hearty American: prime rib, buffalo burgers, Wyoming lamb chops, and a decent breakfast. None of it is going to surprise you, but the kitchen is reliable and the portions are generous.

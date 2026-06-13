@@ -6,6 +6,7 @@ longitude: 47.5300
 tags:
   - things_to_do
   - neighbourhood
+score: 8.8
 ---
 
 The Haute-Ville (upper city) occupies the main ridge of Antananarivo's hills, rising steeply above the commercial lower town. This is the oldest part of the city, where the Merina kings built their palaces and where the steep lanes, stone staircases, and closely packed houses create an urban texture unlike anywhere else in Africa. The Rova, Andafiavaratra Palace, the Andohalo Cathedral, and several of Tana's best restaurants are all in the Haute-Ville or its immediate surroundings.

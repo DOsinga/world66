@@ -9,6 +9,7 @@ longitude: -77.0376
 address: "1537 17th Street NW"
 phone: "202-232-6307"
 neighbourhood: Dupont Circle
+score: 5.9
 ---
 
 Fox and Hounds is a long-running Dupont Circle bar that has stayed resolutely unpretentious through decades of neighbourhood gentrification. The drinks are strong and generously priced by Washington standards — a real rarity in a city where a beer can easily cost $8. The outside seating on pleasant evenings attracts a mixed crowd of neighbours, Capitol Hill types, and tourists who have wandered off the monument trail.

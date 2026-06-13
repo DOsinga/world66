@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.9
 ---
 
 The Parliament House on Constitution Avenue is the seat of the National Assembly and the Senate. The building, completed in 1986, was designed by Edward Durell Stone — the American architect behind the Kennedy Center in Washington and the US embassy in New Delhi — in a stripped-classical style with a long colonnade and a central dome.

@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Joe's Conch Shack
 type: poi
+score: 7.1
 ---
 
 The walk north from Alice Town along the harbour road brings you to a string of small wooden stands in Bailey Town where conch is cut to order. Joe's is the best known. The conch goes from shell to ceviche in front of you — diced raw, mixed with diced onion, tomato, hot pepper, lime and sour orange — in the time it takes to drink a Kalik.

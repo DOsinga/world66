@@ -7,6 +7,7 @@ tags:
 latitude: 46.9475
 longitude: 4.3095
 snippet: Best-preserved Roman gate in Gaul, still with its medieval tower
+score: 7.8
 ---
 
 The Porte Saint-André, built around 15 BC on the eastern edge of Augustodunum, is one of the best-preserved Roman city gates anywhere in Gaul. The gate has four openings at road level — two large arched passages for wheeled traffic and two smaller ones for pedestrians — with an arcaded gallery above and a medieval watchtower rising from one end, added centuries after the Roman construction.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.2594
 longitude: 9.6203
+score: 7.1
 ---
 
 A Nuragic tower about 180 metres above the village of Cala Gonone, perched on a limestone outcrop with views across the Gulf of Orosei. The tower is one of the better-preserved examples in the Dorgali area and can be reached on foot from Cala Gonone in about 45 minutes.

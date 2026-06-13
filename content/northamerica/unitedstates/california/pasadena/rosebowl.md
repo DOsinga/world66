@@ -13,6 +13,7 @@ story: "The Rose Bowl has hosted more Super Bowls than any other stadium. It als
 snippet: "Historic Pasadena stadium hosting the Rose Bowl Game and giant flea market"
 title: Rose Bowl Stadium
 type: poi
+score: 7.9
 ---
 
 The iconic stadium in the Arroyo Seco canyon, home of the annual Rose Bowl Game on New Year's Day and a regular host of major events from World Cup matches to concerts. Even when nothing is happening inside, the surrounding Brookside Park and the loop trail around the stadium are popular with joggers and cyclists. The Rose Bowl Flea Market, held on the second Sunday of each month, draws thousands of vendors and is one of the best flea markets in the country.

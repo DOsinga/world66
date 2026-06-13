@@ -1,6 +1,7 @@
 ---
 title: "The Beach"
 type: poi
+score: 8.8
 ---
 
 Warnemünde's beach is consistently rated among the best on the German Baltic coast. It stretches for several kilometres in either direction from the lighthouse — a wide, gently shelving strip of fine white sand backed by low dunes and beach grass. The water is clean and relatively calm, and the Baltic here is shallow enough to be safe for children well out from the shoreline.

@@ -14,6 +14,7 @@ story: >
   New York travel to Ile-Ife for the coronation ceremonies. The palace
   sits at the centre of a city that has never entirely stopped being a
   royal capital.
+score: 8.0
 ---
 
 The Ooni — the traditional ruler of Ife and the spiritual leader of the Yoruba people — lives and holds court in a palace compound in the centre of the city. The palace itself is not a museum and is only partially open to visitors, but the entrance gates and ceremonial forecourt are accessible, and the compound gives a real sense of the continuing vitality of the Yoruba monarchy.

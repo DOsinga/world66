@@ -6,6 +6,7 @@ longitude: 8.0670
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 On the hill of San Giuseppe above the village stand the ruins of a fifteenth-century castle and the chapel that once stood beside it — together the most tangible reminder that Massimino was once worth fortifying and fought over. The castle was built to defend the approach to the Via dei Giovetti pass, which runs through the ridge above, and passed through the hands of several regional powers before losing its strategic significance in the eighteenth century. What remains now are substantial stone walls on a rocky promontory, open to the sky, with views over the Tanaro valley that explain immediately why someone chose to build here.

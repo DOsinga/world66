@@ -8,6 +8,7 @@ tags:
 - sight
 story: "Lewis Carroll — Charles Lutwidge Dodgson — is buried in a quiet plot near the back of the cemetery. He died in Guildford in 1898 while staying at his sisters' house, The Chestnuts, at the bottom of the hill, and the funeral was held at the parish church a few hundred metres away."
 snippet: Quiet Victorian hilltop cemetery where Lewis Carroll lies buried
+score: 7.0
 ---
 
 A late-Victorian cemetery on a hill west of the town centre, set out in 1856 with serpentine paths and rows of yew trees. The view from the upper terraces across to the cathedral is one of the better quiet panoramas of Guildford.

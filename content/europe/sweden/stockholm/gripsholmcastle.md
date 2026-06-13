@@ -14,6 +14,7 @@ tags:
 - architecture
 title: Gripsholm Castle
 type: poi
+score: 7.9
 ---
 
 Gripsholm sits on a small island in Lake Malaren at the edge of the picturesque town of Mariefred, about an hour west of Stockholm. Built by Gustav Vasa in the 1530s, the castle is best known for the Swedish National Portrait Gallery, which holds over 4,000 portraits spanning five centuries — from royals and nobles to modern cultural figures.

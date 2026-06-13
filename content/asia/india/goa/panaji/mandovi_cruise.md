@@ -7,6 +7,7 @@ snippet: "Sunset boat trip along the Mandovi with dance performances on board"
 tags:
 - things_to_do
 - sight
+score: 5.6
 ---
 
 The classic Panaji tourist experience: an hour-long cruise along the Mandovi, leaving from Santa Monica Jetty near the Old Secretariat at sunset, with a Goan music and dance performance on the upper deck. The repertoire is broadly folk — Konkani folk songs, *fugdi* and *dekni* dances, the occasional *dulpod* — and the staging is unsophisticated, but the river at dusk is genuinely beautiful and the cruise puts you on the water for the changing light over the bridges and the city.

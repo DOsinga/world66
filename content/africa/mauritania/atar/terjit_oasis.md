@@ -11,6 +11,7 @@ story: >
   temperature regardless of season — cool enough to swim in during summer, warm enough
   in winter to seem almost heated. Local legend holds that the springs are the tears of
   a Berber saint who wept for the desert.
+score: 8.8
 ---
 
 The Terjit oasis, about 45km south of Atar, is one of the most beautiful spots in Mauritania. Spring-fed pools lie at the bottom of a narrow palm-lined gorge cut into the Adrar plateau. The combination of cool fresh water, dense palm shade, and red rock walls is startling in the middle of the Sahara.

@@ -9,6 +9,7 @@ latitude: 38.6530
 longitude: 34.8640
 sources:
   - https://en.wikipedia.org/wiki/G%C3%B6reme_Historical_National_Park
+score: 8.8
 ---
 
 Rose Valley (Güllüdere in Turkish) runs northeast of Göreme and takes its name from the pinkish tones the tuff takes on in the afternoon sun. The valley floor is lined with fairy chimneys, carved dovecotes, and small rock-cut chapels — most are unlocked and simple enough to explore without a guide. The full circuit through Rose Valley and neighbouring Red Valley takes 3–4 hours and ends at the village of Çavuşin, from where you can catch a minibus back to Göreme.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.7889
 longitude: 20.8988
+score: 6.3
 ---
 
 Solomos Square is the main public space of Zakynthos Town, a wide neoclassical plaza a block back from the harbour with a statue of the poet Dionysios Solomos at its centre. The square was entirely rebuilt after the 1953 earthquake and has a formal, orderly feel — the colonnaded buildings that line it give it the look of a planned administrative centre more than an organic old town, which is exactly what it is.

@@ -7,6 +7,7 @@ tags:
 latitude: 42.8723
 longitude: 74.6098
 address: "Erkindik Boulevard, Bishkek"
+score: 8.0
 ---
 
 The grand tree-lined pedestrian boulevard that runs north-south through central Bishkek, from the train station up past Oak Park to the Chuy Avenue intersection. Originally called Dzerzhinsky Boulevard after the founder of the Soviet secret police, it was renamed Erkindik (Freedom) at independence.

@@ -7,6 +7,7 @@ tags:
 title: Dresden Porcelain Collection
 type: poi
 story: "Augustus the Strong's obsession with Chinese and Japanese porcelain was so extreme that in 1717 he traded 600 Saxon cavalry soldiers to the Prussian king Friedrich Wilhelm I in exchange for 151 Chinese vases — a transaction the porcelain trade still calls the 'Dragoon Vases.' The pieces he traded for are in the collection."
+score: 8.5
 ---
 
 The Porzellansammlung (Porcelain Collection) in the Zwinger's Semperbau holds one of the most extraordinary decorative arts collections in Europe — approximately 20,000 pieces of Chinese, Japanese, and Meissen porcelain assembled by Augustus the Strong starting in the early eighteenth century. Augustus was obsessed with porcelain to a degree that influenced both his foreign policy and the development of European ceramics: he was the driving force behind Johann Friedrich Böttger's discovery of hard-paste porcelain in 1709, which led directly to the founding of the Meissen manufactory.

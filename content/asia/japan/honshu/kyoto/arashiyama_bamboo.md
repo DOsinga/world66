@@ -10,6 +10,7 @@ tags:
 - sight
 title: Arashiyama Bamboo Grove
 type: poi
+score: 7.2
 ---
 
 The Sagano bamboo grove on the western edge of the city is among the most photographed natural settings in Japan: a 500-metre paved path through dense stands of *moso* bamboo, the green stalks closing overhead and filtering the light to underwater colour. The sound of wind moving through the grove is officially classified by the Japanese government as one of the country's hundred most important soundscapes.

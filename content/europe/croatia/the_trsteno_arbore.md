@@ -9,6 +9,7 @@ tags:
 - day_trips
 title: The Trsteno Arboretum
 type: poi
+score: 8.0
 ---
 
 More than 300 species of trees and plants from across the Mediterranean and beyond, set around architecture spanning the Gothic-Renaissance period onwards. The Trsteno Arboretum is widely considered one of the finest gardens in this part of Europe.

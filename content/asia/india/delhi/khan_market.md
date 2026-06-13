@@ -6,6 +6,7 @@ tags:
 - shopping
 title: Khan Market
 type: poi
+score: 6.5
 ---
 
 One of Delhi's most upmarket shopping areas, Khan Market sits in the city centre between residential colonies and the greenery of Lodhi Gardens. It's long been a favourite of the diplomatic community and well-off Delhiites, and the rents here are among the highest in India.

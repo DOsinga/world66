@@ -7,6 +7,7 @@ tags:
 latitude: 23.0058
 longitude: 72.5752
 snippet: "Shell of one of Ahmedabad's first textile mills"
+score: 5.9
 ---
 
 The Calico Mills, established in 1880 by the Sarabhai family, were among the first power-loom textile mills in India and the foundation of the modern Ahmedabad economy at a time when the city was known as the **Manchester of the East**. The mills closed in 1998 after years of decline, and the buildings now stand as a brick-and-iron ruin on the eastern bank of the Sabarmati, awaiting redevelopment.

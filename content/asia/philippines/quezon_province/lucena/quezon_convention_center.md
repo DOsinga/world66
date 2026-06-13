@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Quezon_Convention_Center
+score: 4.8
 ---
 
 The Quezon Convention Center is the province's main venue for large public events and government functions, located adjacent to the Provincial Capitol grounds. During the Kamayan Festival in May, it becomes the epicentre of provincial celebrations — trade fairs, cultural performances, and competitions showcasing the agricultural products of Quezon's many municipalities. Outside of festival season it hosts conventions, trade shows, and political gatherings that reflect Lucena's role as provincial capital.

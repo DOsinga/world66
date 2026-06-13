@@ -14,6 +14,7 @@ story: >
   same cliffs where seabirds have nested for centuries.
 sources:
   - https://en.wikipedia.org/wiki/Vestmanna
+score: 9.0
 ---
 
 The Vestmanna bird cliffs (Vestmannabjørgini) are the standout natural sight on Streymoy and one of the best wildlife excursions in the Faroe Islands. Boat trips run directly from the harbour into a world of sheer basalt walls, sea caves, and natural arches — all packed with nesting seabirds from spring through early autumn.

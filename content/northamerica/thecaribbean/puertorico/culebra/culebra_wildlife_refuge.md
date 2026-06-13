@@ -8,6 +8,7 @@ tags:
   - sight
   - wildlife
 story: "When President Theodore Roosevelt set the refuge aside in 1909, it was one of the first federal wildlife refuges in the country. For decades it co-existed uneasily with the US Navy's use of the same islands for bombing practice — a contradiction only resolved in 1975 when Culebra residents finally forced the military to leave."
+score: 7.8
 ---
 
 A patchwork of cays, beaches, and headlands across some 1,500 acres of Culebra and its outlying islets, protected since 1909. The refuge shelters sea turtles (hawksbill, green, leatherback), seabirds (boobies, terns, frigatebirds), and the largest seabird colonies in the Caribbean.

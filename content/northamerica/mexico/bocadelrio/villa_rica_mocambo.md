@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 19.1207
 longitude: -96.1064
+score: 6.0
 ---
 
 A long-running seafood palapa above Playa Mocambo, with picture windows on the sea side and a louvred roof that catches the breeze. The kitchen leans more contemporary than Pardiño's — grilled octopus, tiraditos, a respectable tuna tartare — but the local classics are still done well. Service is unhurried, which suits a long lunch.

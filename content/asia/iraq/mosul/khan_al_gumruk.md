@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 36.3445
 longitude: 43.1362
+score: 7.8
 ---
 
 Khan al-Gumruk — the Customs Caravanserai — was the main customs house and merchant hostel of Ottoman Mosul, positioned near the Tigris riverfront to handle the goods flowing along one of the great trade routes of the Middle East. Caravanserais like this were the infrastructure of long-distance commerce: merchants arriving in the city could store their goods, stable their animals, sleep safely, and conduct business in the surrounding souqs.

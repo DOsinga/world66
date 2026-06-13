@@ -7,6 +7,7 @@ tags:
   - theatre
 latitude: 26.1424
 longitude: -81.7976
+score: 6.2
 ---
 
 The Naples Players is a community theatre company that has been staging productions since 1953, making it one of the oldest continuously operating community theatres in Florida. Their home, the Sugden Community Theatre on Fifth Avenue South, hosts a full season of musicals, comedies, and dramas from October through April, plus a more experimental summer programme.

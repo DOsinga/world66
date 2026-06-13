@@ -8,6 +8,7 @@ tags:
   - sight
   - sport
 story: "The Toledo Mud Hens have used some variant of the name since 1896 — 'mud hens' being a local term for the marsh-dwelling American coot — but their place in pop culture came from M*A*S*H, in which the medic Corporal Max Klinger, a Toledo native played by Toledo-born Jamie Farr, constantly invoked the team. Farr threw out the first pitch when Fifth Third Field opened in 2002 and the Mud Hens retired the number 49 in his honour."
+score: 6.8
 ---
 
 Fifth Third Field is a downtown ballpark on the corner of Monroe and Washington, home to the Toledo Mud Hens — the AAA affiliate of the Detroit Tigers and one of the most beloved minor league franchises in baseball thanks to a half-century of name-checks on M*A*S*H. The stadium opened in 2002 and seats 10,300.

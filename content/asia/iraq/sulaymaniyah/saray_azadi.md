@@ -8,6 +8,7 @@ latitude: 35.5570
 longitude: 45.4430
 story: >
   The square's name — Freedom Square — was adopted after the 1991 Kurdish uprising, when the city liberated itself from Ba'athist control during the Gulf War's aftermath. Before that it was called Saray Square after the Ottoman saray (government palace) that stood here. The Ottoman building was demolished; the name "Freedom" replaced it as the city worked to write its own history over the decades of Iraqi Arab domination.
+score: 6.3
 ---
 
 Saray Azadi (Freedom Square) is the main public square of old Sulaymaniyah, a broad open space in the city centre that serves as meeting point, market overflow, and gathering place for demonstrations and celebrations. It sits at the intersection of several important streets and is easy to navigate from.

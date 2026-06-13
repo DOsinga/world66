@@ -8,6 +8,7 @@ latitude: 33.2944
 longitude: 131.4933
 story: >
   The geyser at Tatsumaki erupts roughly every 30 to 40 minutes and shoots water up to 30 metres into the air — it would go higher but a concrete arch has been installed to contain it. It is one of the few regularly erupting geysers in Japan, and the eruptions are reliably timed to within a few minutes.
+score: 6.8
 ---
 
 Tatsumaki Jigoku is the geyser of the Beppu hells: a hot spring that periodically erupts in a column of water and steam, drawing crowds who wait on benches around the enclosed area for the next show. The eruptions happen roughly every 30 minutes and last a few minutes. It is more dynamic than the other hells, which are essentially static pools.

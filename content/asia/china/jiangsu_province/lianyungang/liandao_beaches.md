@@ -9,6 +9,7 @@ latitude: 34.7450
 longitude: 119.4610
 story: >
   Liandao — "connected islands" — was originally a pair of offshore islands that became attached to the mainland through the natural accumulation of silt and deliberate reclamation in the twentieth century. The resulting peninsula now forms the eastern edge of Lianyungang's port district and holds the most developed beach infrastructure in Jiangsu province.
+score: 6.6
 ---
 
 Liandao Island offers the most developed beach experience in Jiangsu — though that is relative praise, since the Yellow Sea coast at this latitude is cold by southern standards, and swimming is typically seasonal from late June through August. Sumawan Beach on the island's eastern shore is the most popular, with beach facilities, boardwalks, and the usual seaside resort infrastructure. The sand is reasonable and the setting — with the port visible to one side and the open sea to the other — has an industrial-coastal quality that is specific to this corner of China.

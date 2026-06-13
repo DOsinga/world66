@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4350
 longitude: 12.2055
+score: 6.8
 ---
 
 Corte is the name now used for the restored core of the Villaggio ENI. It includes the central hotel building (now operated as a residence), the church, the small piazza in front of it, and a handful of bungalows that have been brought back into use. The grounds are open during daylight hours and free to walk, though entering individual buildings requires a tour ticket.

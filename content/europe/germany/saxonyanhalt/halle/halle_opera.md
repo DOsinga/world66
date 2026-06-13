@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.4867
 longitude: 11.9714
+score: 6.7
 ---
 
 The Halle Opera House dates from 1886, a substantial late-19th-century theatre in the eclectic style of the period. The auditorium seats around 700 and the company's repertoire ranges from Handel — naturally, given the city — through 19th-century opera to modern and contemporary work.

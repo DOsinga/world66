@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Casa de Gobierno
 type: poi
+score: 7.1
 ---
 
 The provincial government building on the south side of Plaza Belgrano is a late nineteenth-century French Academic affair, all mansard roofs and sculpted lintels — a deliberate gesture of nation-building elegance dropped into a city that otherwise reads as Andean. It was designed by French architect Maximilian Hartmann and finished in 1907.

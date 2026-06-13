@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: King & I
 type: poi
+score: 6.3
 ---
 
 A long-running Thai restaurant on Charles Street in Beacon Hill, popular with locals for consistently good pad thai, curries, and noodle soups. The space is small and the decor is no-frills, but the food is reliable and the prices reasonable for the neighborhood. A solid pick when you want something quick and flavorful between walks on the Common and the Esplanade.

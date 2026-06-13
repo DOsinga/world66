@@ -12,6 +12,7 @@ neighbourhood: Nasese
 title: Fiji Museum
 type: poi
 story: "The museum's collection includes the rudder of HMS Bounty, recovered from Pitcairn in 1933 — a tangible piece of the most famous mutiny in maritime history."
+score: 9.1
 ---
 
 The Fiji Museum is a must-see for anyone spending time in Suva. The collection covers Fiji's history from its earliest Lapita settlers — represented by some of the oldest pottery in the Pacific — through the cannibal era, the colonial period, and independence. Highlights include a sacred priest's house, war clubs, the rudder of HMS Bounty, and the carefully labelled "cannibal forks" that were once used in ritual feasts.

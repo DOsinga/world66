@@ -8,6 +8,7 @@ tags:
   - market
   - sight
 story: "The Sunday fish market — *il-pixkerija* — is one of the few surviving open-air markets in Malta where fishermen sell directly to the public. Until the 1970s the catch was auctioned in Maltese using a chant that could outrun anyone not paying attention; the auction has since moved indoors, but the morning quayside is still where the islanders come to buy the week's swordfish, tuna, and *lampuki*."
+score: 7.2
 ---
 
 The Sunday market spreads along the whole length of the waterfront and is the village's main set piece. The fish stalls — the original reason for the market — line the central section: ice-packed swordfish, tuna, octopus, prawns, and, in autumn, *lampuki* (dorado), the season's iconic catch. Around them, stalls sell honey, capers preserved in salt and vinegar, sun-dried tomatoes, Maltese sweets, lace tablecloths, and tourist tat.

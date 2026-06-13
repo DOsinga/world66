@@ -8,6 +8,7 @@ tags:
   - viewpoint
 latitude: 55.2997
 longitude: 20.9907
+score: 6.8
 ---
 
 The Nida lighthouse stands on Urbas Hill — the highest forested dune behind the village — and has been lighting the Curonian coast since 1874. The original German-built tower was destroyed in 1944; the present 29-metre concrete structure replaced it in 1953.

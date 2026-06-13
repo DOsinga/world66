@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Snowland Restaurant
 type: poi
+score: 5.5
 ---
 
 A short walk from the Jokhang, Snowland has been feeding travellers a mix of Tibetan, Nepali, Indian and Continental food for decades. It is not the most adventurous kitchen in town, but the menu is long, the portions are large, and after a few weeks of yak-and-noodles it is the kind of place where you can order a passable pizza or a chicken sizzler without apology.

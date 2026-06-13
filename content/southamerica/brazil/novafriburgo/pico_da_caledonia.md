@@ -12,6 +12,7 @@ story: >
   Scottish settlers among the predominantly Swiss group. The peak they named
   after their distant homeland became the highest point of a new country
   that none of them had intended to emigrate to.
+score: 8.7
 ---
 
 At 2,316 metres, Pico da Caledônia is the highest point in the Nova Friburgo municipality and one of the higher peaks in the Serra do Mar. The summit is reached by a trail that starts from the district of São Gonçalo, a hike of three to five hours depending on pace and conditions. The upper reaches pass through cloud forest and open campos de altitude — high-altitude grasslands dotted with distinctive vegetation — and the view from the summit, on a clear day, extends in every direction across the serras.

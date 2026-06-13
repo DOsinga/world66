@@ -12,6 +12,7 @@ story: >
   Gould's Shortwing — all essentially endemic to the Doi Chiang Dao massif and its 
   closest neighbours. Serious listers travel from across Southeast Asia for a single 
   morning's walk here.
+score: 9.0
 ---
 
 Doi Luang Chiang Dao is one of the most important birding destinations in Southeast Asia. The mountain's unusual limestone karst combined with its altitude and latitude creates a habitat mix that supports over 300 species, including several found only here or at one or two other sites in Thailand. The limestone cliff faces host peregrine falcons and red-billed blue magpies; the cloud forest holds laughingthrushes, wren babblers, and rare flycatchers.

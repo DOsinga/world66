@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.8554
 longitude: -61.1733
+score: 7.0
 ---
 
 Pasture Bay sits at the northeastern tip of Mustique, a long drive or walk from the main village, and rewards the effort with something rare on this small island: genuine solitude. The beach is exposed to the Atlantic and the surf can be strong, making it less suitable for swimming than Gelliceaux but excellent for sitting in front of waves without another person in sight.

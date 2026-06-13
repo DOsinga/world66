@@ -17,6 +17,7 @@ tags:
 - museum
 title: Capuchin Crypt
 type: poi
+score: 7.0
 ---
 
 Beneath the Church of Santa Maria della Concezione on Via Veneto, five small chapels are decorated entirely with the bones and skulls of roughly 4,000 Capuchin friars who died between 1528 and 1870. The effect ranges from eerily beautiful to deeply unsettling: chandeliers of vertebrae, wall niches lined with skulls, complete robed skeletons posing in alcoves. The final chamber holds a skeleton identified as an unnamed Barberini princess.

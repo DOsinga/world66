@@ -8,6 +8,7 @@ latitude: 68.1889
 longitude: 13.5214
 story: >
   Unstad has been called the world's most northerly surf spot worth taking seriously. The waves arrive from the North Atlantic with nothing to slow them across three thousand miles of open ocean, and the dramatic mountain backdrop makes it one of the most striking surf locations anywhere. The Lofoten Masters contest, held here since 2014, has attracted professional surfers from around the world, who routinely report the experience as one of the most memorable of their careers.
+score: 8.6
 ---
 
 Unstad, on the exposed west coast of Vestvagoy, has become one of Norway's most celebrated surf beaches. The North Atlantic swells that roll in here can be serious — head-high and beyond on good days — and the scenery is extraordinary: black mountains plunging into the sea, with the beach cradled in a narrow valley that barely fits the small cluster of houses that constitute the village.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.3
 ---
 
 The Hatadage stands at one end of the Quadrangle, a small but exquisitely built tooth-relic shrine. The chronicles say it was raised in sixty hours (hata-da-ge), and although this is unlikely the name has stuck. Three weathered standing Buddha figures fill the inner sanctum.

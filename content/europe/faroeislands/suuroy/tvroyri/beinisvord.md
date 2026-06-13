@@ -9,6 +9,7 @@ tags:
 - nature
 title: Beinisvørð
 type: poi
+score: 8.7
 ---
 
 Beinisvørð is the great sea cliff on Suðuroy's eastern coast, rising 470 metres in an almost perfectly vertical face from the Atlantic below. It is one of the highest sea cliffs in the Faroe Islands and one of the more arresting natural features in the North Atlantic. The view from the plateau edge — where the land simply ends and the sea is straight down — is one of those landscape experiences that makes Suðuroy worth the journey from the northern islands.

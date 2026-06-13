@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The white twin-towered cathedral on Place Toussaint Louverture is the centrepiece of Jacmel's main square. Built in the late nineteenth century in a restrained neoclassical style, it is more substantial than most of the town's churches and serves as the seat of the Catholic diocese of Jacmel.

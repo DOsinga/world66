@@ -16,6 +16,7 @@ story: >
   era. The mountain's river, the Siem Reap River, flows down to supply
   Angkor's reservoirs, and the linga carvings in its bed are the symbolic
   source of that sacred water.
+score: 7.5
 ---
 
 **Phnom Kulen** ("Mountain of the Lychees") is the holy mountain of the Khmer people, located about 50 kilometres northeast of Siem Reap. It is the source of the Siem Reap River — and thus the hydraulic source of Angkor — and is one of Cambodia's most important pilgrimage sites, visited by thousands of Cambodians on weekends and public holidays. The mountain contains a reclining Buddha carved from a large sandstone outcrop, a waterfall that is a popular swimming spot, and the river carvings of Kbal Spean further downstream.

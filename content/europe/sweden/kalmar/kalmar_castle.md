@@ -10,6 +10,7 @@ latitude: 56.6580
 longitude: 16.3550
 story: >
   The Union of Kalmar in 1397 united Denmark, Norway, and Sweden under a single crown — the largest political entity in Europe at the time. The union lasted 126 years, ended in a massacre, and is remembered today partly because of a document that may never have been signed. The original act of union has never been found; historians suspect the meeting ended in a handshake agreement rather than a signed treaty.
+score: 9.3
 ---
 
 Kalmar Castle is one of the best-preserved Renaissance castles in Scandinavia and the centrepiece of a visit to Kalmar. The building began as a medieval defensive tower in the 12th century, was transformed into a royal palace in the 16th century, and was renovated with enough care that the king's and queen's chambers look as they might have during the castle's heyday.

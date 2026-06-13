@@ -14,6 +14,7 @@ story: >
   and in 1960 a local fisherman named George Decker led him to a set of oddly regular
   grassy mounds at the water's edge. Excavations confirmed what no one had quite believed:
   Europeans had been here five centuries before Columbus.
+score: 9.5
 ---
 
 At the northern tip of Newfoundland, a set of low sod mounds beside a shallow brook is all that remains of the only confirmed Norse settlement in North America. Dated to around 1000 AD and attributed to Leif Erikson's expedition from Greenland, the site was declared a UNESCO World Heritage Site in 1978 — the first property inscribed under the World Heritage Convention.

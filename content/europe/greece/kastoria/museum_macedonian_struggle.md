@@ -6,6 +6,7 @@ tags:
   - museum
 title: Museum of the Macedonian Struggle
 type: poi
+score: 6.4
 ---
 
 This museum documents the Greek guerrilla campaign of 1904–1908 — the Macedonian Struggle — fought against Bulgarian and Ottoman forces for control of the region. It is housed in a 19th-century mansion that belonged to Anastasios Pehion, a local teacher and resistance fighter, and the building itself is part of what makes the visit worthwhile.

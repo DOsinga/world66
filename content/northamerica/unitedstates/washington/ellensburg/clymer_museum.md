@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 46.9961
 longitude: -120.5462
+score: 6.8
 ---
 
 The Clymer Museum is devoted to the work of John Clymer, an Ellensburg-born illustrator and Western painter who produced more than 80 covers for the Saturday Evening Post in the 1940s and 1950s before moving on to large-format paintings of frontier life and the Northwest landscape.

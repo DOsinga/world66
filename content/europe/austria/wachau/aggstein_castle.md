@@ -13,6 +13,7 @@ story: >
   of rock above a sheer drop — the "Rosen Garden" — and let them choose
   between jumping and starvation. The story may be legend; the ledge still
   exists.
+score: 8.7
 ---
 
 Aggstein Castle stands on a narrow spur 300 metres above the Danube, one of the most dramatically situated ruins in Austria. It was the stronghold of the Kuenringer family — the same lords who held [Dürnstein](/europe/austria/wachau/durnstein) — and controlled the river trade through the Wachau from the 11th century. The ruins are extensive and well-preserved, with several standing towers, a chapel, and the narrow "Rosen Garden" ledge that gave the castle its sinister reputation.

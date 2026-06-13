@@ -9,6 +9,7 @@ tags:
 latitude: 31.6581
 longitude: -91.3122
 story: "Emerald Mound covers about 8 acres and rises 35 feet — the second-largest pre-Columbian ceremonial mound in North America, after Monk's Mound at Cahokia in Illinois. It was built by the ancestors of the Natchez people between 1250 and 1600 AD as the platform for a ceremonial complex, with two smaller mounds on top that supported temples or structures used for rituals."
+score: 8.3
 ---
 
 Emerald Mound is about 11 miles north of Natchez along the Natchez Trace Parkway, and the scale of it is only apparent once you are standing at the base. The main platform covers nearly eight acres — a vast artificial plateau of packed earth built up by hand over centuries, with two secondary mounds rising from its surface. Climbing to the top takes about five minutes and rewards you with panoramic views over the surrounding Mississippi forest.

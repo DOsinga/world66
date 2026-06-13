@@ -14,6 +14,7 @@ story: >
   during his celebrated tour of the United States. The college
   archives still hold a written endorsement of the venture in
   Lafayette's own hand.
+score: 6.8
 ---
 
 A small liberal-arts college spread over a wooded hill at the north end of Easton, with about 2700 students. The campus is one of the prettier in the northeast — red-brick Colonial Revival buildings, big oaks, and panoramic views down to the river junction.

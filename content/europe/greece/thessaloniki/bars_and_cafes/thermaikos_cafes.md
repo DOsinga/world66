@@ -7,6 +7,7 @@ tags:
 latitude: 40.6275
 longitude: 22.9445
 snippet: A long strip of cafés along the waterfront where the city spends its afternoons
+score: 6.4
 ---
 
 The long promenade running east from the White Tower — Nikis Avenue and then Megalou Alexandrou — is lined with café tables looking out over the Thermaic Gulf toward Mount Olympus. This is where Thessaloniki actually spends its afternoons and evenings: students with a single freddo espresso, families with children running between the tables, couples watching the sun set behind the mountains.

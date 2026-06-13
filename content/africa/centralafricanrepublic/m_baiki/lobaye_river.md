@@ -7,6 +7,7 @@ tags:
   - sight
 title: Lobaye River
 type: poi
+score: 6.8
 ---
 
 The Lobaye River flows through the prefecture, draining the forested hills south of M'Baïki before joining the Ubangi on the border with the Democratic Republic of Congo. The river and its tributaries pass through dense equatorial forest, and the waterways are central to local life — used for fishing, transport, and trade.

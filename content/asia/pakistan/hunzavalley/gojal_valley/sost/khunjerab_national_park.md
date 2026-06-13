@@ -6,6 +6,7 @@ longitude: 75.2400
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The 2,270 km² national park flanks the Karakoram Highway between Sost and the Chinese border and is one of the last refuges of the Himalayan ibex, blue sheep, Marco Polo sheep and the snow leopard. The park gate is about 20 km north of Sost; rangers collect a small entry fee from foreign visitors.

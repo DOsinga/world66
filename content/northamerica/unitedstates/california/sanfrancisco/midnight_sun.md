@@ -10,6 +10,7 @@ tags:
 neighbourhood: Castro District
 title: Midnight Sun
 type: poi
+score: 6.3
 ---
 
 A Castro institution since the 1970s, Midnight Sun is best known for the camp music videos and movie clips playing on screens throughout the bar. The space is compact and gets lively in the evenings, drawing a predominantly male crowd. It's a low-key, no-cover spot -- good for a drink before dinner or a casual night in the neighbourhood.

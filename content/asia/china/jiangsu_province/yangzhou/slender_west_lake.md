@@ -8,6 +8,7 @@ latitude: 32.4100
 longitude: 119.4175
 story: >
   The Qing emperor Qianlong toured Slender West Lake during his southern inspection tours and reportedly enjoyed it so much that the local salt merchants — competing to impress him and protect their trading privileges — built increasingly extravagant lakeside pavilions and gardens almost overnight. The Five Pavilion Bridge was constructed in 1757 specifically in anticipation of his visit.
+score: 9.4
 ---
 
 Slender West Lake is the scenic centrepiece of Yangzhou — a long, sinuous waterway shaped to wind through the city rather than occupy the landscape, with weeping willows, pavilions, and bridges composing a series of careful views. The lake covers about 30 hectares and can be walked in its entirety in two hours, though most visitors take longer because each turning offers something new.

@@ -8,6 +8,7 @@ story: At 250 metres wide, the Eixo Monumental is one of the widest avenues in t
 tags:
 - things_to_do
 - landmark
+score: 8.6
 ---
 
 The Monumental Axis is the long straight runway of the aeroplane-shaped Pilot Plan — 16 km west to east, ending at the Esplanada and the Three Powers Plaza. Along its length sit most of the city's monuments: the JK Memorial at the western end, the TV Tower in the middle, then the cathedral, theatre, museum-and-library pair, ministries, congress, and the Three Powers Plaza at the far eastern end.

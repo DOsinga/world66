@@ -10,6 +10,7 @@ snippet: "Gothic basilica with a spiral stone staircase carved from a single col
 story: "The spiral staircase of Santa María la Mayor ascends to the elevated choir gallery via a double helix carved from stone — similar in principle to Leonardo da Vinci's double-helix staircase at Chambord, but entirely Gothic in character and carved from a single quarried block. It was completed around 1412. Visiting architects still puzzle over how the medieval builders achieved it with the tools available."
 sources:
   - https://en.wikipedia.org/wiki/Basilica_de_Santa_Mar%C3%ADa_la_Mayor,_Morella
+score: 8.9
 ---
 
 The Basilica de Santa María la Mayor is one of the finest Gothic churches in eastern Spain and would be famous if it were anywhere near a major tourist route. Built across the 14th and 15th centuries, it has two portals with rich sculptural decoration — the Portal of the Apostles on the south side is particularly fine. The interior is a soaring Gothic space with clustered columns and ribbed vaults typical of the Valencian Gothic tradition.

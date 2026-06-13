@@ -12,6 +12,7 @@ title: Sultan's Palace
 type: poi
 story: >
   The Sultanate of Damagaram was established in the early 19th century and became the dominant power in this part of the Sahel, controlling the trade routes between Kano and Agadez. When the French arrived in 1899, they negotiated with the Sultan rather than defeating him outright — a distinction that matters in the palace today. The Sultan of Zinder still settles disputes over land and inheritance under customary law, holding a form of authority that runs parallel to, and sometimes supersedes, the state.
+score: 8.1
 ---
 
 The Sultan's Palace dates from the 19th century and is still very much in use. People from town and neighbouring villages come here to ask legally binding advice on marriage, inheritance, and other personal matters. If you are in need of advice yourself, it is possible to arrange an appointment with the Sultan through one of the local guides.

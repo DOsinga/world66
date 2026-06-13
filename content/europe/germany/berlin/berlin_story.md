@@ -12,6 +12,7 @@ title: Berlin Story
 type: poi
 url: www.BerlinStory.de
 zipcode: '10117'
+score: 7.6
 ---
 
 On one of Berlin's most famous boulevards, Berlin Story is part bookstore, part crash course in the city's past. The shelves hold around 2,500 titles covering everything from Prussian history and the Third Reich to modern architecture and nightlife, with some 250 in English and many in other languages.

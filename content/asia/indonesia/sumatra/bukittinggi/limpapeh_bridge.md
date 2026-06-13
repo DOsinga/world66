@@ -6,6 +6,7 @@ longitude: 100.3684
 tags:
   - things_to_do
   - sight
+score: 5.7
 ---
 
 A covered pedestrian bridge spans Ahmad Yani Street, the main road through Bukittinggi, connecting Fort de Kock on one side to the small Kebun Binatang zoo and the city's cultural museum on the other. The bridge is painted in red and yellow Minangkabau colours and topped with the same curved gable roof as the traditional rumah gadang.

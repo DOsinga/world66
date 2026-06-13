@@ -16,6 +16,7 @@ story: >
   Sindhi and Baloch people as people rather than subjects. When he died of a
   brain haemorrhage in 1858 at age 44, his regiment mourned as if for a family
   member.
+score: 6.3
 ---
 
 General John Jacob, the British officer who founded Jacobabad and gave it his name, is buried in the city he created. The tomb is a modest colonial-era structure in keeping with Jacob's practical character — he was not a man interested in monuments to himself. His regiment headquarters, which he established here, remains the spiritual home of what is now the 19 Lancers of the Pakistani Army.

@@ -1,6 +1,7 @@
 ---
 title: "Lighthouse and Alter Strom"
 type: poi
+score: 8.5
 ---
 
 The red-and-white lighthouse at the mouth of the Alter Strom is Warnemünde's most recognisable landmark. Built in 1898 and standing 37 metres tall, it is open to visitors in summer — the climb up the spiral staircase rewards you with a sweeping view over the Baltic, the beach, and the rooftops of the resort. The adjacent keeper's cottage now houses a small exhibition on the history of navigation on this coast.

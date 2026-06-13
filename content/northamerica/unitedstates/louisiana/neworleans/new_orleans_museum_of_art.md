@@ -7,6 +7,7 @@ tags:
   - art
 latitude: 29.9867
 longitude: -90.0938
+score: 8.4
 ---
 
 The New Orleans Museum of Art (NOMA) sits in City Park in a Beaux-Arts building dating from 1911, and its collection spans five thousand years of art history. The strengths are French and American art (reflecting the city's dual cultural heritage), a superb photography collection, and an exceptional collection of Fabergé eggs and Russian decorative art — one of the finest outside Russia. The African and pre-Columbian galleries are also strong.

@@ -12,6 +12,7 @@ tags:
 - sight
 title: Place de Jaude
 type: poi
+score: 6.8
 ---
 
 Place de Jaude is the main square of Clermont-Ferrand and the natural gathering point at the heart of the city. The square is overlooked by the Théâtre Municipal, a classical 19th-century building, and dominated by a large equestrian statue of Vercingetorix — the Gaulish chieftain who led the final resistance against Julius Caesar — by Frédéric Auguste Bartholdi, who later designed the Statue of Liberty. The statue gives the square a somewhat heroic air.

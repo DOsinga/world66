@@ -8,6 +8,7 @@ address: "Schiller Strasse 49, 44795 Bochum"
 latitude: 51.4729
 longitude: 7.1951
 snippet: "Traditional Ruhr restaurant in a historic building near Museum Bochum"
+score: 6.2
 ---
 
 Haus Weitmar is a Ruhr-style restaurant housed in one of the few surviving nineteenth-century buildings in the southern Weitmar neighbourhood, near the Museum Bochum art collection. The menu is rooted in Westphalian cooking — pot-roasted meat, hearty soups, Altbier on draught — with seasonal additions that show genuine kitchen effort.

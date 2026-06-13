@@ -8,6 +8,7 @@ tags:
 latitude: 46.0686
 longitude: 11.1194
 snippet: "Renaissance church where the third session of the Council of Trent met"
+score: 7.5
 ---
 
 Santa Maria Maggiore is a Renaissance basilica a short walk west of the Duomo, built in the 1520s by the same Bernardo Cles who reshaped the Castello del Buonconsiglio. It is the church in which the third and final session of the Council of Trent — the most theologically active of the three — met under Pope Pius IV in the 1560s.

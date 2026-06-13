@@ -7,6 +7,7 @@ tags:
 title: Punta Pitt
 type: poi
 snippet: "Only Galápagos site with all three booby species nesting together."
+score: 9.0
 ---
 
 Punta Pitt, at the northeastern tip of San Cristóbal, is the only place in the Galápagos where you can see all three species of booby — blue-footed, red-footed, and Nazca — nesting side by side. The red-footed boobies are particularly striking; their feet are exactly the colour you'd hope they'd be.

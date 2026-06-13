@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Batumi Dolphinarium
 type: poi
+score: 4.8
 ---
 
 The Batumi Dolphinarium opened in 1975 and is one of the few remaining Soviet-era dolphinariums on the Black Sea. The main attraction is a daily dolphin show in a large indoor pool with stadium seating around it. Outside show times you can pay to swim with the dolphins, or have your photograph taken with one — the kind of activities that some travellers will want to think hard about before joining in.

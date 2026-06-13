@@ -8,6 +8,7 @@ tags:
 latitude: 50.8518
 longitude: 2.8850
 snippet: Gothic cathedral adjacent to the Cloth Hall, rebuilt after WWI, with Flemish choir stalls
+score: 7.4
 ---
 
 St Martin's stands immediately adjacent to the Cloth Hall on the Grote Markt, and like the hall it was reduced to ruins in the First World War and entirely rebuilt during the interwar period. The current building faithfully follows the 13th-century Gothic original, with a single tower, flying buttresses, and the austere Flemish Gothic proportions that distinguish the church from French models.

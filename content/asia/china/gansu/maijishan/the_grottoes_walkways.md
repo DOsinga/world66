@@ -14,6 +14,7 @@ story: >
   took to paint murals and fix clay figures into the walls. Looking down from the uppermost
   walkway, the forest canopy is far below and the scale of the enterprise — thousands of
   sculptures placed by hand at vertiginous heights — becomes suddenly real.
+score: 8.8
 ---
 
 The network of narrow wooden walkways and iron staircases clinging to the cliff face of Maijishan is an attraction in its own right. The path zigzags between cave entrances at different heights, and at several points requires squeezing along ledges barely wide enough for two people to pass. The views from the upper sections — over the forested valley and the agricultural land beyond — are spectacular and the sensation of height is immediate.

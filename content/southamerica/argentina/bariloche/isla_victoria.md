@@ -8,6 +8,7 @@ tags:
 latitude: -40.9500
 longitude: -71.5500
 snippet: "Catamaran day trip to forested island and rare myrtle wood"
+score: 8.7
 ---
 
 The classic Bariloche boat trip leaves from **Puerto Pañuelo** at the foot of the Llao Llao peninsula. The catamarans cross Nahuel Huapi to Isla Victoria, a forested island that has been a national park forest research station since the 1920s. Trails climb to a viewpoint with views down to the bays and back to the snow on Tronador.

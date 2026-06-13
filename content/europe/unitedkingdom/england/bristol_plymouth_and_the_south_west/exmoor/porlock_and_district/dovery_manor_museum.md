@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 latitude: 51.2090
 longitude: -3.5931
 snippet: "Local history museum in a fifteenth-century stone manor house in Porlock village"
+score: 6.6
 ---
 
 The Dovery Manor Museum (also known as the Porlock Museum) is housed in a mid-fifteenth-century stone manor house in the centre of Porlock village. The building itself is one of the oldest in the area — narrow lancet windows, a small arched doorway, and a vaulted ground floor that originally served as the cool stores.

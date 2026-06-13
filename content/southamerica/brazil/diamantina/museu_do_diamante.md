@@ -7,6 +7,7 @@ tags:
 latitude: -18.2438
 longitude: -43.5983
 snippet: The story of the diamond rush that built — and enslaved — this city
+score: 9.0
 ---
 
 The Museu do Diamante occupies a colonial building in the historic centre and covers the full arc of Diamantina's diamond history — from the initial discoveries in the 1720s through the Portuguese monopoly system, the slave labour that did the actual mining, and the eventual decline when South African mines undercut Brazilian production in the late 19th century.

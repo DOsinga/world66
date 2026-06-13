@@ -6,6 +6,7 @@ tags:
 - sight
 title: Lake Chūzenji
 type: poi
+score: 7.5
 ---
 
 Lake Chūzenji sits at 1,269 metres altitude, reached from Nikkō town by the famous Irohazaka switchback road — 48 hairpin bends named after the 48 syllables of the Japanese iroha poem. The lake was created when a volcanic eruption from Mount Nantai blocked the Daiya River valley, and it sits in a horseshoe of forested mountains that gives it a distinctly alpine feel despite being in the Kanto region.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 42.469
 longitude: 14.2274
+score: 7.9
 ---
 
 The Ponte del Mare — Bridge of the Sea — is a pedestrian and cycle bridge crossing the mouth of the Pescara river where it meets the Adriatic. Completed in 2009, it is Pescara's most striking piece of modern infrastructure: a cable-stayed bridge with a single tall pylon and a sweeping asymmetric design that frames views of the sea, the port, and the coast in both directions.

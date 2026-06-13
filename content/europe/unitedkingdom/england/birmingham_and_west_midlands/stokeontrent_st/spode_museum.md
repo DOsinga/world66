@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "The original Spode factory site, now a heritage centre and creative quarter"
+score: 7.4
 ---
 
 Josiah Spode set up his pottery on this Stoke site in 1774 and went on to perfect bone china — the form that defined English fine ceramics for the next two centuries. The factory closed in 2008, but the site has been preserved and partly reopened as the Spode Works Visitor Centre, with a museum, a heritage trail, the Spode China Halls, and a clutch of artist studios occupying the old workshops.

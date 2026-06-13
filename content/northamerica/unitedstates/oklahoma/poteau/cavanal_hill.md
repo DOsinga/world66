@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "At 1,999 feet, Cavanal falls one foot short of the standard mountain threshold — earning it the marketing slogan 'world's highest hill.' The summit road and a small wooden marker make the most of the technicality."
+score: 6.5
 ---
 
 Cavanal Hill rises west of Poteau and is the town's most photographed landmark. A narrow paved road climbs to the summit, where a viewing platform looks east across the Poteau River Valley to Sugar Loaf Mountain and south to the Winding Stair range. On a clear evening you can see for a long way; on a hazy day you can at least see why the early settlers laid the town out where they did.

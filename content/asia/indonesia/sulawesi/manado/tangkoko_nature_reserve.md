@@ -14,6 +14,7 @@ story: >
   night walks at Tangkoko offer a reasonable chance of finding them with a torch.
   Seeing one clinging to a tree trunk, watching you with those fixed, enormous
   eyes, is genuinely strange.
+score: 8.9
 ---
 
 Tangkoko Batuangus Nature Reserve sits on the northeastern tip of the Minahasa peninsula, about 70 kilometres from Manado. The reserve covers 8,700 hectares of tropical forest rising from the coast to volcanic peaks and is one of the best places in Sulawesi to see endemic wildlife.

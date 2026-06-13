@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -26.8313
 longitude: -65.2046
+score: 7.2
 ---
 
 A restored 19th-century townhouse on the north side of Plaza Independencia, donated to the province by the Padilla family. The single-storey house with its central patio is a textbook example of upper-class Tucumán domestic architecture from the post-independence decades.

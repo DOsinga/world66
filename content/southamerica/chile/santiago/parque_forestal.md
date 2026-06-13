@@ -7,6 +7,7 @@ tags:
   - barrio_lastarria
 latitude: -33.4357
 longitude: -70.6449
+score: 7.7
 ---
 
 Parque Forestal is a long narrow park running along the south bank of the Mapocho River from the city centre to Barrio Bellavista. It was designed in the early 20th century on land reclaimed after the river was channelled, and it holds some of Santiago's oldest and largest trees — the towering tipas and jacarandas that flower purple in November are among the best in the city.

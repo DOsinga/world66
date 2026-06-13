@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.6
 ---
 
 A 1950s concrete water tower on a wooded hill on the northeastern side of Lahti. The tower is a fine example of Finnish post-war engineering and its observation platform — open to the public when the weather is good — gives a panoramic view over the whole city, the ski jumps and the lakes.

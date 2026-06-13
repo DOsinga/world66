@@ -15,6 +15,7 @@ story: >
   and triggered the entire Super Tuscan phenomenon.
 sources:
   - https://en.wikipedia.org/wiki/Bolgheri
+score: 8.4
 ---
 
 Bolgheri is a tiny walled village about 10 kilometres south of Bibbona, famous first for the long cypress-lined avenue leading to it — immortalised in a poem by Giosuè Carducci, who grew up here — and second as the heart of the Bolgheri wine zone, home to Sassicaia, Ornellaia, and several other prestigious estates that revolutionised Italian wine in the 1970s and 80s.

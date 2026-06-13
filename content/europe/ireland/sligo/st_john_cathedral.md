@@ -4,6 +4,7 @@ type: poi
 latitude: 54.27028
 longitude: -8.47722
 tags: [sight, religious]
+score: 6.2
 ---
 
 The Church of Ireland cathedral of Sligo, on John Street near the centre. The current building is a Gothic-revival composition of 1812 by Richard Cassels with later additions, on the site of medieval foundations.

@@ -9,6 +9,7 @@ tags:
 address: '104 East Grand Avenue'
 latitude: 36.7035
 longitude: -97.0834
+score: 7.8
 ---
 
 The Poncan Theatre opened in 1927 as a vaudeville and silent-movie house, with 1,464 seats, a Wurlitzer organ and a Spanish-revival interior of painted plasterwork and false balconies. The Great Depression and the rise of television cut its audience steadily through the mid-century, and by 1976 it had closed.

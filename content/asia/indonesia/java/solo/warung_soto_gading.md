@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -7.5648
 longitude: 110.8189
+score: 6.6
 ---
 
 Soto Solo — a clear-broth chicken soup with rice vermicelli, bean sprouts, egg, and a lime wedge — is the everyday food of the city, and Warung Soto Gading near the Sriwedari area is one of its best-known addresses. The broth is lighter and more fragrant than the soto of Yogyakarta, with a turmeric-forward warmth that is characteristic of the Solo style.

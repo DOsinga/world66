@@ -7,6 +7,7 @@ tags:
   - asia_district
 latitude: 35.4878
 longitude: -97.5298
+score: 7.8
 ---
 
 A bare-bones Vietnamese restaurant in the Asia District that has been serving the largest, beefiest bowls of pho in Oklahoma for over thirty years. The menu runs to a couple of hundred items but pho is the reason to come; the broth is dark and rich, the noodles fresh, and the portions are absurd. Order a medium unless you're certain you can finish a large.

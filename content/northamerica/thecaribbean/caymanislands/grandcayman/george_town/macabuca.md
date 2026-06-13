@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 19.366
 longitude: -81.398
+score: 6.3
 ---
 
 Strictly speaking on the West Bay side of the island, just past the northern end of Seven Mile Beach, but the closest classic sunset bar to George Town and a regular destination for visitors. A wooden deck out over the water, a long bar, decent local food, and a view straight out to the open horizon where the sun goes down green-flash perfect on a clear day.

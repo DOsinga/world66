@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 47.2162
 longitude: -1.5503
+score: 7.1
 ---
 
 The Bouffay is the oldest part of Nantes, a compact tangle of medieval streets behind the cathedral that survived the 18th and 19th-century urban expansion relatively intact. The timber-framed houses, narrow lanes, and small squares give it a character quite different from the rest of the city. The Rue de la Juiverie was the centre of the medieval Jewish quarter.

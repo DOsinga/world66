@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 story: "Reynolda was built in 1917 as the country home of tobacco magnate R. J. Reynolds and his much younger wife Katharine — she largely designed the estate and ran it as a self-sufficient village with a school, a church and a working dairy, and outlived her husband to remarry one of her children's tutors."
+score: 8.6
 ---
 
 The former Reynolds family estate, three miles northwest of downtown, is now one of the best small art museums in the American South. The collection focuses on American art from the colonial period to the present, with notable holdings of Frederic Church, Mary Cassatt, Georgia O'Keeffe and Jacob Lawrence — all displayed inside the original 1917 country house, which still has the family's furniture and the original 1920s indoor swimming pool.

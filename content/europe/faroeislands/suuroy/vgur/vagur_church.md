@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: An unusually large wooden Faroese church with a pyramidal tower, built in 1939
+score: 6.2
 ---
 
 The current church in Vágur was consecrated in 1939, replacing an earlier 1860s wooden church on the same site. It is one of the largest village churches in the Faroes, with a steeply pitched roof, white-painted weatherboards, and a slender pyramidal tower at the west end. The interior has the typical box pews, painted altarpiece, and votive ship hung from the ceiling.

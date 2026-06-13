@@ -7,6 +7,7 @@ tags:
 address: "20 High Street, Cheltenham GL50 1DZ"
 latitude: 51.8968
 longitude: -2.0700
+score: 6.1
 ---
 
 A well-regarded real ale pub on the High Street, small and usually crowded with people who know their beer. The name references the nearby park and lido rather than any physical connection to them. The selection of cask ales and craft beers changes frequently, with an emphasis on local and regional breweries from the Cotswolds and beyond.

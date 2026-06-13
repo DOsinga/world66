@@ -8,6 +8,7 @@ tags:
 latitude: 56.46
 longitude: 10.035
 story: Sankt Mortens Kirke is one of the finest medieval brick churches in Jutland, built in stages from the 13th century onward. Its size reflects Randers' medieval prosperity as a market town — it was large enough in the 15th century to be the site of a significant event in Danish Reformation history, when the first Lutheran sermon in Denmark was preached here by Hans Tausen in 1526, sparking a confrontation with Catholic authorities.
+score: 7.6
 ---
 
 Sankt Mortens Kirke (St Martin's Church) stands at the heart of Randers' old town, a substantial red-brick Gothic structure whose interior rewards a visit. The church has been in continuous use since the medieval period and retains original carved altarpieces, tombstones, and memorial plaques that read as a record of the town's history.

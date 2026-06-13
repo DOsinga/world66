@@ -8,6 +8,7 @@ tags:
   - sight
   - fishing
   - outdoor
+score: 6.0
 ---
 
 The Clark Fork at Thompson Falls is a broad, powerful river running through a narrow canyon, and it holds a productive fishery in the stretches above and below the dam. Brown trout and rainbow trout are the main targets, with fish in the 12–18 inch range being typical and occasional larger ones turning up in the deeper pools. The river fishes best in late spring and again in autumn, when temperatures moderate and hatches become reliable. Midsummer can be productive early in the morning before the heat sets in.

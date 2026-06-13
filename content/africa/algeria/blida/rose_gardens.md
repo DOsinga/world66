@@ -7,6 +7,7 @@ snippet: "The flower farms that earned Blida its nickname, City of Roses"
 tags:
 - things_to_do
 - sight
+score: 6.6
 ---
 
 Blida's nickname — *Ouarda*, "the Rose" — comes from the rose gardens that have surrounded the city since the Ottoman period. The Mitidja plain north and west of the city was once entirely given over to roses, orange groves, jasmine, and other aromatic plants grown for the production of essences, attars, and the famous *eau de fleur d'oranger* used in Algerian cooking.

@@ -6,6 +6,7 @@ latitude: -33.9806
 longitude: 122.2267
 story: >
   Lucky Bay was named by Captain Matthew Flinders in 1802 when his ship found shelter here from a violent storm. The bay that saved his expedition is now famous for an entirely different reason: kangaroos that have learned to sleep on the beach, apparently drawn by the warmth of the white sand. The roos are wild, not habituated in any managed sense — they just happen to like the beach as much as the visitors do.
+score: 9.1
 ---
 
 Lucky Bay, inside Cape Le Grand National Park about 60km east of Esperance, is a serious contender for Australia's most beautiful beach. The sand is so fine and so white it squeaks underfoot, and the water is a shade of turquoise that looks digitally enhanced until you're standing in it. The beach curves in a long arc backed by granite boulders and heath, with almost no development.

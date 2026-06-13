@@ -8,6 +8,7 @@ latitude: 50.5050
 longitude: 1.6050
 sources:
   - https://en.wikipedia.org/wiki/Le_Touquet
+score: 7.2
 ---
 
 Le Touquet has been a serious golfing destination since the early 20th century, and the courses here remain among the best in northern France. There are two main courses: La Forêt, a classic woodland layout cut through the pine forest, and La Mer, a more exposed links course closer to the coast. Both are maintained to a high standard.

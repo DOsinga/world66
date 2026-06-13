@@ -10,6 +10,7 @@ story: >
   family. John D. Rockefeller Jr. personally funded the carriage road system that still runs
   through the park, designed so that he could drive horse-drawn carriages without encountering
   automobiles, which he detested.
+score: 8.8
 ---
 
 Acadia National Park is about 90 minutes southeast of Bangor — close enough for a day trip, though most visitors prefer at least one overnight in Bar Harbor. The park covers most of Mount Desert Island and includes Cadillac Mountain, at 1,530 feet the highest point on the East Coast north of Rio de Janeiro, with a summit road that brings you to the top for sunrise or sunset views across the island-dotted Atlantic.

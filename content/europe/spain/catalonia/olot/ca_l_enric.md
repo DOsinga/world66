@@ -6,6 +6,7 @@ longitude: 2.5167
 tags:
   - eating_out
   - restaurant
+score: 7.3
 ---
 
 Ca l'Enric is the other Michelin restaurant of the Garrotxa, in the small village of La Vall de Bianya about ten minutes north of Olot. The Juncà family have been cooking here for four generations; the current generation, the brothers Jordi and Joan Juncà, hold one Michelin star and run one of the most respected game-and-mushroom kitchens in Catalonia.

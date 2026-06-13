@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 39.4736
 longitude: -0.3754
+score: 6.8
 ---
 
 The most famous horchatería in the old town, on the Plaza Santa Catalina, going since at least the 18th century. The signature order is a tall glass of icy **horchata** with a paper bag of **fartones** — the long, soft, sugar-glazed pastry made for dunking. There are also chocolate and churros, ice creams, and Valencian sweets.

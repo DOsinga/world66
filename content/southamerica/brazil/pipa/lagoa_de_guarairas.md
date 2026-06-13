@@ -6,6 +6,7 @@ longitude: -35.0830
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 A shallow tidal lagoon inland of the coast at Tibau do Sul, about ten kilometres north of Pipa. The lagoon is famous for its sunsets — wide, mirror-flat water set against mangroves and palm-fringed islands. Local boatmen run sunset cruises in slow flat-bottomed boats from the small pier at Tibau, usually leaving around 16:30 and returning at dusk.

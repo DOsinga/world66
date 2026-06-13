@@ -6,6 +6,7 @@ tags: [things_to_do, sight]
 latitude: 54.4887
 longitude: -0.6110
 story: "The flat landings at intervals were originally built so that pallbearers could rest the coffins they were carrying up to the churchyard of St Mary's. The wooden 'coffin benches' set into the wall are a more recent addition."
+score: 8.7
 ---
 
 Connecting the old town at the bottom to St Mary's Church and Whitby Abbey at the top, the 199 stone steps are the spine of east Whitby. Sailors and parishioners have climbed them for centuries; until the cliff road was opened, this was the only practical way up.

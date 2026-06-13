@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 7.8205
 longitude: 123.4365
+score: 6.0
 ---
 
 The Rotonda is the round civic plaza at the foot of Pagadian's main street, opening directly onto the bay. The white-painted municipal arch and the line of national flags make it the city's de facto photo spot, especially when the late afternoon light hits the bay and the silhouettes of the bancas anchored offshore.

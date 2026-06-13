@@ -6,6 +6,7 @@ longitude: 8.0664
 tags:
   - eating_out
   - restaurant
+score: 5.6
 ---
 
 A traditional German restaurant inside one of the half-timbered houses just below the cathedral, St Georgs-Stuben does straightforward regional cooking — Wiener Schnitzel, Rinderroulade, Sauerbraten — in a setting of dark beams, white plaster and a small terrace facing the Dom.

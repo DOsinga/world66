@@ -5,6 +5,7 @@ tags: [things_to_do, museum, family]
 latitude: 43.6328
 longitude: -72.5178
 snippet: Working dairy farm and museum across from Marsh-Billings-Rockefeller
+score: 7.7
 ---
 
 Billings Farm & Museum is a working Jersey dairy farm with exhibits on Vermont rural life, agricultural history, and the Billings family's model-farm ambitions. It is polished and family-friendly without feeling entirely sanitized.

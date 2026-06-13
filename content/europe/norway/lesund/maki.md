@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 62.4720
 longitude: 6.1500
+score: 6.3
 ---
 
 Maki is one of Ålesund's most-recommended restaurants, occupying an old warehouse building on the Brosundet waterfront with views over the channel. The menu centres on local seafood: prawns, crab, Atlantic fish, and shellfish sourced from nearby waters. The cooking is straightforward — the quality of the ingredients is allowed to speak for itself.

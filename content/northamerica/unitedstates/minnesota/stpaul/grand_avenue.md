@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 44.9344
 longitude: -93.1403
+score: 7.4
 ---
 
 Grand Avenue is St. Paul's main shopping and eating strip — a several-kilometre stretch of Victorian commercial buildings running west from the Cathedral of Saint Paul toward the Mississippi River bluffs. The street is lined with independent restaurants, cafes, boutiques, and bars that have been arriving and departing for decades, but the overall character remains stubbornly local and community-oriented rather than chain-driven.

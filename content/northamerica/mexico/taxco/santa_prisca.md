@@ -12,6 +12,7 @@ story: >
   Dios" — God gives to Borda, Borda gives to God. The church he built as
   thanks cost him two million pesos, a sum that would bankrupt him before it
   was finished. He died indebted, but Santa Prisca stood.
+score: 9.2
 ---
 
 The Church of Santa Prisca is one of the finest baroque churches in the Americas, and its twin towers rising above the Plaza Borda are the defining image of Taxco. José de la Borda, a French-born silver magnate who had made an enormous fortune from the Taxco mines, commissioned it in 1751 and it was consecrated in 1759 — eight years of construction that produced something genuinely extraordinary. The Churrigueresque facade is a riot of carved stone: saints, angels, foliage, and symbols piled on top of each other with an exuberance that takes a few minutes to fully absorb.

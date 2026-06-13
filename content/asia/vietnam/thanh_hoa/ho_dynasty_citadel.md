@@ -6,6 +6,7 @@ latitude: 20.0820
 longitude: 105.6190
 story: >
   The Ho Dynasty Citadel was built between 1397 and 1400 — in just three years — using an estimated 20,000 large stone blocks quarried from nearby mountains and transported without any wheeled vehicles. The speed of construction required the labor of tens of thousands of conscripted workers and was considered a feat of engineering remarkable even by contemporary standards. The dynasty it was built to protect lasted only seven years before being conquered by Ming China.
+score: 9.1
 ---
 
 The Ho Dynasty Citadel (Thành Nhà Hồ), a UNESCO World Heritage Site since 2011, is one of the finest surviving examples of stone military architecture in Southeast Asia. Located about 50 kilometers west of Thanh Hoa city in Vinh Loc District, the citadel was the capital of the short-lived Ho Dynasty (1400–1407) and was built in an unusual style: massive green stone blocks, each weighing several tonnes, fitted together without mortar in near-perfect alignment.

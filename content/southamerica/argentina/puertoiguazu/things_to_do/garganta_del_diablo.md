@@ -3,6 +3,7 @@ title: Garganta del Diablo
 type: poi
 latitude: -25.6947
 longitude: -54.4425
+score: 10.0
 ---
 
 The Garganta del Diablo — Devil's Throat — is the centrepiece of the Argentine side and the most spectacular single viewpoint at Iguazú. It is a U-shaped chasm at the upper end of the falls where the Iguazú River drops 82 metres in a continuous wall of white water, generating a permanent cloud of mist visible from kilometres away.

@@ -9,6 +9,7 @@ latitude: 47.0219
 longitude: 4.8367
 story: >
   The Hospices was founded in 1443 by Nicolas Rolin, Chancellor of Burgundy, as a hospital for the poor. It operated as a working hospital for over five centuries — its last patient left only in 1971. The funding mechanism was revolutionary: donors gave vineyards, the wine was auctioned each November, and the proceeds paid for care. That auction still takes place every third Sunday of November and remains the world's most watched charity wine sale.
+score: 9.4
 ---
 
 The Hôtel-Dieu de Beaune is one of the finest examples of Burgundian Gothic architecture in France, and also the most photographed building in the region. Its spectacular polychrome tiled roof — geometric patterns in yellow, green, brown and black — was assembled from glazed Flemish-style tiles and has been dazzling visitors since the 15th century. The interior courtyard is even more striking, with its painted timber gallery wrapping all four sides and a well at the centre.

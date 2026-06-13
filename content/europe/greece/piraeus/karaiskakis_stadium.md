@@ -8,6 +8,7 @@ tags:
   - sight
   - sport
 story: "On 8 February 1981, twenty-one Olympiacos supporters were crushed to death at Gate 7 of the old Karaiskakis Stadium after a match against AEK Athens. The 'Gate 7 tragedy' is still commemorated each year, and the new stadium built on the site preserves Gate 7 as a memorial."
+score: 6.8
 ---
 
 The home ground of Olympiacos, Piraeus's storied football club, the Karaiskakis Stadium sits on the Neo Faliro waterfront a few stops east on the metro. Originally built for the 1896 Olympic Games as a velodrome, it was rebuilt as a football ground in the 1960s and again in 2004 ahead of the Athens Olympics.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.6711
 longitude: -81.4647
+score: 6.6
 ---
 
 The Isle of Eight Flags Shrimp Festival takes place every year in early May along the waterfront in Fernandina Beach, celebrating the island's identity as a shrimping port. Florida's shrimping industry has contracted significantly in recent decades, but Fernandina Beach has held on as one of the few working shrimp ports on the state's Atlantic coast, and the festival acknowledges that heritage directly — there are shrimp cooking competitions, boats to tour, and enough fried shrimp available to feed a fleet.

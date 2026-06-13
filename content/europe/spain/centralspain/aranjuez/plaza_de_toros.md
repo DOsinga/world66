@@ -10,6 +10,7 @@ latitude: 40.0315
 longitude: -3.6040
 story: >
   Aranjuez's bullring was built in 1795 and has been in continuous use since, making it one of the oldest functioning plazas de toros in Spain. The attached bullfighting museum is one of the most comprehensive in the country, with memorabilia from celebrated matadors who performed here. The bullring itself is the opening image in the original World66 content for this page — visible in the photo with the Royal Palace behind.
+score: 5.9
 ---
 
 Aranjuez's 18th-century bullring (Plaza de Toros) is an unusually attractive example of the form: an octagonal neoclassical building with colonnaded galleries that harmonise with the rest of the royal town's architectural character. It dates from 1795 and has been in use ever since, hosting corridas as part of the annual fair in September.

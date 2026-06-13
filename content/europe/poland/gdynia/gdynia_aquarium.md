@@ -9,6 +9,7 @@ snippet: "Marine biology museum and aquarium — Baltic species and tropical tan
 address: "Aleja Jana Pawła II 1"
 latitude: 54.5183
 longitude: 18.5575
+score: 6.9
 ---
 
 The Gdynia Aquarium sits at the base of the Southern Pier and is operated by the National Marine Fisheries Research Institute. Its strongest section is the **Baltic** wing — proper, well-labelled tanks of the species most visitors will never see despite swimming next to them: cod, eels, plaice, the few seals that live in the eastern Baltic.

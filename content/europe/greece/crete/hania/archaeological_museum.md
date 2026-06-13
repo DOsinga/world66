@@ -9,6 +9,7 @@ latitude: 35.5167
 longitude: 24.0369
 sources:
   - https://en.wikipedia.org/wiki/Archaeological_Museum_of_Chania
+score: 7.4
 ---
 
 The Archaeological Museum of Hania has a good collection of Minoan and later artefacts from western Crete — pottery, jewellery, Linear A tablets, figurines, and grave goods spanning the Bronze Age through the Byzantine period. The museum moved to new premises on Skra Street in 2022 after decades in the old Venetian church of Agios Fragkiskos near the harbour.

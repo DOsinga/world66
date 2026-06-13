@@ -8,6 +8,7 @@ tags:
 - historic
 title: Truman Presidential Library and Museum
 type: poi
+score: 8.4
 ---
 
 The Harry S. Truman Presidential Library and Museum in Independence, Missouri, 15 miles east of downtown Kansas City, is one of the better presidential libraries — and Independence itself is worth visiting for the historic town center, the Truman home (a separate National Historic Site), and its significance as the official departure point of the Santa Fe, Oregon, and California Trails.

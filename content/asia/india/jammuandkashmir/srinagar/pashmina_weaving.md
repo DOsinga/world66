@@ -8,6 +8,7 @@ tags:
   - old_city
 latitude: 34.0917
 longitude: 74.8067
+score: 7.7
 ---
 
 Pashmina — cashmere from the undercoat of the Changthangi goat — has been woven in Kashmir for at least 500 years. The finest pieces, made from hand-spun yarn on handlooms, take weeks to complete and were once reserved for Mughal emperors and traded across Central Asia as luxury goods. The craft is now under pressure from machine-made imitations, but working handloom operations still exist in the old city.

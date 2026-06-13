@@ -7,6 +7,7 @@ tags:
 - park
 title: Karachi Zoo
 type: poi
+score: 4.9
 ---
 
 A large zoo in the Garden area of central Karachi, with a collection of mammals, birds, and reptiles. One of the older zoological gardens in the country, set in shaded grounds that provide a respite from the city heat.

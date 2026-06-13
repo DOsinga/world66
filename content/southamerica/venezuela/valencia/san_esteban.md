@@ -9,6 +9,7 @@ tags:
 - nature_sight
 title: Parque Nacional San Esteban
 type: poi
+score: 8.5
 ---
 
 Parque Nacional San Esteban covers about 430 square kilometres of the coastal cordillera between Valencia and the Caribbean port of Puerto Cabello. The southern flank — most easily reached from Valencia — has cloud forest, small waterfalls, and a string of walking trails that climb out of the suburbs into surprisingly cool, green country within an hour of leaving the city.

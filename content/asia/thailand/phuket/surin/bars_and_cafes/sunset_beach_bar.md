@@ -8,6 +8,7 @@ tags:
 latitude: 7.9762
 longitude: 98.2788
 snippet: Low-key beachside bar with deck chairs facing the water, busy at sunset
+score: 5.3
 ---
 
 The most straightforward drinking spot on Surin Beach is this simple open-air bar near the centre of the bay, which sets out sun loungers and low tables on the sand in the late afternoon. The drinks list is short — local beers, basic cocktails, fruit shakes — but the setting does most of the work. The west-facing position means it gets the full sunset, and on evenings when the sky cooperates the light across the water is difficult to improve on.

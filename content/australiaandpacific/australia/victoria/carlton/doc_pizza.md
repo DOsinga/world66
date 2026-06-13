@@ -8,6 +8,7 @@ tags:
 latitude: -37.7986
 longitude: 144.9670
 snippet: "Faraday Street pizza institution — wood-fired Neapolitan-style"
+score: 6.8
 ---
 
 DOC opened on Faraday Street in 2009 and has held a place in the city's better-pizza conversation ever since — wood-fired Neapolitan-style bases with the traditional Italian protected-origin (denominazione di origine controllata) ingredients the name refers to. The mozzarella bar across the road specialises in the buffalo mozzarella that flies in weekly from Campania.

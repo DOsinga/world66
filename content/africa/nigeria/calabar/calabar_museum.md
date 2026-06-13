@@ -15,6 +15,7 @@ story: >
   tender.
 sources:
   - https://en.wikipedia.org/wiki/Old_Residency_Museum
+score: 8.8
 ---
 
 The Old Residency Museum is the most important cultural institution in Calabar and one of the best regional museums in Nigeria. The building that houses it is extraordinary in itself: a prefabricated structure shipped in pieces from Britain in 1884, erected on a ridge above the Calabar River to serve as the Government House of the Niger Coast Protectorate. It was declared a national monument in 1959.

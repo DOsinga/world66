@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - el_silencio
   - architecture
+score: 6.4
 ---
 
 The Yellow House — Casa Amarilla — stands directly across Plaza Bolívar from the Cathedral and is among the most photographed buildings in central Caracas. The site has been used for the same purpose since the seventeenth century — first as the royal prison, then as the colonial governor's residence, and since the 1870s as the foreign ministry. The current ochre-yellow façade dates from a Guzmán Blanco rebuilding of the 1870s and gave the building its popular name.

@@ -14,6 +14,7 @@ story: >
   fifty years later the camps remain. Their inhabitants have built schools,
   hospitals, a museum, a national assembly, and a government in exile from
   almost nothing. They are among the longest-running refugee camps in the world.
+score: 8.4
 ---
 
 The four main Sahrawi refugee camps — Smara, Laayoune, Dakhla, and Awserd — sit on the open hammada some 30 to 170 kilometres south-east of Tindouf. They are named for the towns the inhabitants left behind in the Spanish (now Moroccan-controlled) Sahara, and they have been functioning as the de facto capital of the Sahrawi Arab Democratic Republic since 1976. Most visitors arrive on aid-agency, journalist, or solidarity visas through Algiers or through Polisario representations abroad — turning up in Tindouf without arrangement is impractical.

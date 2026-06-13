@@ -7,6 +7,7 @@ address: "The Scores"
 latitude: 56.3419
 longitude: -2.7901
 story: "During the 1546 siege, the attackers dug a tunnel toward the castle walls; the defenders dug a counter-mine to intercept it. Both tunnels survive, narrow and pick-marked, and can be crawled today — a rare piece of accessible 16th-century military engineering anywhere in Europe."
+score: 8.8
 ---
 
 The castle of St Andrews sits on a low cliff above the North Sea — the residence of the archbishops of Scotland from the 13th century until the Reformation. It is small compared with Stirling or Edinburgh, but the surviving fragments are unusually atmospheric: the Sea Tower with its 'bottle dungeon' carved into the bedrock, the kitchen tower, and the ranges around the central courtyard.

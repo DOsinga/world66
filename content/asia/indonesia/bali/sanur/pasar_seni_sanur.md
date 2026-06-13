@@ -8,6 +8,7 @@ snippet: "Open-air craft and souvenir market"
 tags:
 - shopping
 - market
+score: 5.3
 ---
 
 The Pasar Seni on Danau Tamblingan is Sanur's main craft and souvenir market — dozens of small stalls selling sarongs, sandals, batik, woodcarvings, dreamcatchers, and the inevitable knockoff Bintang singlet. Bargain hard (start at about a third of the asking price) and walk away if needed. Not really for serious art shopping, but useful for cheap gifts and beach gear.

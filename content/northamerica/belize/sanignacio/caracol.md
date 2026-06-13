@@ -7,6 +7,7 @@ tags:
 latitude: 16.7647
 longitude: -89.1175
 story: "At its peak around 650 AD, Caracol was the largest city in Maya territory — roughly 115,000 people, more than twice the modern population of San Ignacio. The kingdom defeated Tikal in battle in 562 AD, an event that reshaped Classic-period politics for more than a century."
+score: 9.1
 ---
 
 Caracol is the largest Maya site in Belize and one of the most consequential in the entire Maya world, though it sees a fraction of the visitors of better-known Tikal across the Guatemalan border. Spread across more than 25 square kilometres of dense Chiquibul forest, the central plaza is anchored by Caana ("sky place"), a 43-metre pyramid that is still the tallest manmade structure in Belize.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 12.128
 longitude: 15.062
+score: 4.3
 ---
 
 Le Carnivore is one of the better-known restaurants in N'Djamena, a longstanding fixture on the expat and diplomat circuit. As the name suggests, the emphasis is on grilled meat. Bush meat and game appear on the menu alongside more conventional beef and chicken; the speciality is meat grilled over charcoal and served with sides of rice or plantain. It is not cheap by local standards but reasonable by the standards of what passes for a restaurant meal in a West African capital.

@@ -8,6 +8,7 @@ latitude: 42.6606
 longitude: 44.6431
 sources:
   - https://en.wikipedia.org/wiki/Kazbegi_Museum
+score: 6.4
 ---
 
 The Kazbegi Museum (officially the Stepantsminda Historical Museum) occupies a small building in the centre of the village and covers the history, ethnography, and natural environment of the greater Kazbegi region. The collection includes traditional Caucasian weapons, household objects, textiles, and photographs documenting the area's villages and mountain communities before the Soviet period.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 38.6720
 longitude: 15.8920
+score: 8.9
 ---
 
 The beach below Tropea's cliffs — accessed by a staircase cut into the tufa — is one of the finest in Calabria: fine white sand, exceptionally clear turquoise water, and the dramatic backdrop of the cliff town and the church of Santa Maria dell'Isola. It can be reached from the town centre in five minutes and gets busy in July and August, when it fills with Italian families from the north and visitors from across Europe.

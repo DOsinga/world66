@@ -6,6 +6,7 @@ longitude: -117.8443
 snippet: "A public research university with a striking ring-road layout and a genuine arboretum at its centre"
 tags: [things_to_do, sight]
 story: "UC Irvine was founded in 1965 on land donated by the Irvine Company, and its campus was designed around a circular ring road enclosing Aldrich Park — a broad, open green at the heart of everything. The layout is unusual enough that first-time visitors often find it disorienting, which is oddly refreshing in a city that otherwise never surprises you."
+score: 7.0
 ---
 
 The UC Irvine campus is worth a visit even if you have no particular business with the university. The ring-road design, with Aldrich Park at the centre, gives it a planned elegance that suits the city it sits in. Walk the park, sit under a tree, and you get a sense of why the institution draws serious researchers and students from around the world.

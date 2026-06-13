@@ -13,6 +13,7 @@ story: >
   bluefin populations crashed from industrial fishing. The canneries that processed the
   catch have all closed; the only trace is in the names of some of the streets near
   the waterfront.
+score: 7.4
 ---
 
 The walk along the Gilão river through Tavira's center is the town's most pleasant promenade. From the old Roman bridge, a riverside path runs south along both banks toward the Quatro Águas dock, passing under bougainvillea-draped walls, small cafés with tables on the waterfront, and the occasional fishing boat tied up at the quay. The walk takes about twenty minutes at a gentle pace and is best in the morning or late afternoon.

@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 37.5658
 longitude: 22.7975
+score: 6.6
 ---
 
 The Trianon Mosque, locally called the Old Mosque (Palaio Tzami), sits on Staïkopoulou Street, a few minutes walk from Syntagma Square. Built during the second Ottoman occupation of Nafplio in the late seventeenth century, it later served as a school, a courthouse, a cinema, and today as a cultural events space.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -42.6500
 longitude: -74.1200
+score: 8.7
 ---
 
 Chiloé National Park occupies the western coast of the main island, a 43,000-hectare reserve of temperate rainforest, black-sand beaches, and boggy meadows (locally called ñadis) that protect some of the last surviving alerce trees in the region. The alerce, a Patagonian conifer that can live over 4,000 years, was extensively logged in the 19th and 20th centuries; the surviving old-growth forests in the park are their best protection.

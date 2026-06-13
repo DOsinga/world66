@@ -8,6 +8,7 @@ latitude: 41.9500
 longitude: 13.1200
 sources:
   - https://en.wikipedia.org/wiki/Monti_Simbruini
+score: 7.2
 ---
 
 Subiaco sits at the gateway to the Monti Simbruini Regional Park, a large protected area of beech forests, limestone ridges, and river gorges. The Aniene River carves through the park, and several well-marked trails start within a few kilometres of the town centre. The Valle dell'Aniene trail follows the river upstream through increasingly wild terrain; in spring, the riverbanks are lined with wildflowers and the valley echoes with birdsong.

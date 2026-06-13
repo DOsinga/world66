@@ -13,6 +13,7 @@ story: >
   the city's existing community of blacksmiths and metalworkers made it the natural home of Russian
   arms production. The plant he founded went on to produce the AK-47, the Mosin-Nagant rifle, and
   the RPG-7 — between them, three of the most widely-used weapons in history.
+score: 8.7
 ---
 
 The Tula State Museum of Weapons is housed in a dramatic modern building shaped like a medieval helmet, opened in 2012 next to the kremlin. The collection spans five centuries of Russian arms manufacturing, from 16th-century crossbows and pikes to AK-47s and anti-aircraft guns. It is one of the most comprehensive weapons museums in Russia and well worth several hours.

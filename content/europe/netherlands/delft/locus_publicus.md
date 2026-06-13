@@ -6,6 +6,7 @@ longitude: 4.3560
 tags:
   - bars_and_cafes
   - bar
+score: 5.5
 ---
 
 Delft's best beer bar, with over 100 Belgian and Dutch craft beers available, most served in the correct glass for the style. The interior is a classic Dutch brown cafe — dark wood, old beer signs, and the warm amber glow that comes from decades of pipe smoke absorbed into the panelling. It sits on the Brabantse Turfmarkt canal, with a small terrace facing the water.

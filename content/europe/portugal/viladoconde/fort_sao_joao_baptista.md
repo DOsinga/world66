@@ -9,6 +9,7 @@ latitude: 41.3417
 longitude: -8.7517
 story: >
   The fort was built at the mouth of the River Ave during the 17th century, at the same time as a series of similar fortifications were constructed along the Portuguese coast to defend against the Spanish (during the period 1580–1640 when Portugal was under Spanish rule) and later against English and Dutch privateers. Vila do Conde's role as an active shipbuilding port made the estuary mouth a particular strategic priority.
+score: 6.8
 ---
 
 Fort São João Baptista guards the mouth of the River Ave, where the river meets the Atlantic. Built in the 17th century and subsequently modified, the fort sits at the southern end of the beach where the estuary narrows. It is a compact, well-preserved example of Portuguese coastal fortification.

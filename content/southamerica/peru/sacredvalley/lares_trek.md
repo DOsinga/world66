@@ -5,6 +5,7 @@ tags: [things_to_do, hiking, nature]
 latitude: -13.1167
 longitude: -72.0500
 snippet: Alternative multi-day trek through high villages, quieter than the Inca Trail
+score: 8.0
 ---
 
 The standard alternative to the Inca Trail, especially for travellers who could not get a permit or who want a less crowded route. The Lares trek is a three- to four-day walk over high passes in the Cordillera Urubamba, north of the Sacred Valley, that finishes either back in the valley or at Ollantaytambo for the train onward to Machu Picchu.

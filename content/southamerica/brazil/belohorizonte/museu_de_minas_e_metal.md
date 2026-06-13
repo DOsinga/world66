@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museu de Minas e Metal
 type: poi
+score: 7.6
 ---
 
 The Museum of Mines and Metal occupies the former state finance building on Praça da Liberdade, beautifully restored with a new glass-and-steel atrium grafted into the older shell. Inside, the displays cover Minas Gerais's geological history (the state has some of the richest mineral deposits in the world), the history of mining from the colonial gold rush onwards, and the role of iron and steel in twentieth-century Brazilian industry.

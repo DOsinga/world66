@@ -10,6 +10,7 @@ story: >
   From Ptolemy in the 2nd century AD until 1884, the meridian of El Hierro's westernmost point was used as the reference line for longitude — the zero from which navigators measured east and west. When France, Spain, and the Netherlands adopted it as the prime meridian in 1634, it was seen as a politically neutral choice, being far out in the Atlantic with no national claim. Greenwich only became universal standard in 1884. The lighthouse was built decades later, but it stands at the spot that once defined the edge of the known world.
 sources:
   - https://en.wikipedia.org/wiki/La_Frontera,_Santa_Cruz_de_Tenerife
+score: 7.4
 ---
 
 The Faro de Orchilla (Orchilla Lighthouse) stands at the far southwest tip of El Hierro, occupying what was for centuries the western edge of the known world. For over a thousand years, the meridian passing through this point served as the zero longitude — the line from which European cartographers measured east and west across the globe.

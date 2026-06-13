@@ -11,6 +11,7 @@ longitude: -120.9022
 address: "23579 North Bloomfield Rd, Nevada City, CA"
 snippet: "The largest hydraulic gold mine in California — a canyon blasted out of the Sierra hills"
 story: "At its peak in the 1870s, Malakoff Diggins was blasting up to 100,000 tons of gravel per day using water cannons called monitors. The devastation downstream was so severe that in 1884 a federal court issued the first injunction against a private mining company in US history — halting hydraulic mining along the entire Sacramento River watershed."
+score: 8.9
 ---
 
 About 26 miles north of Nevada City on Tyler Foote Road, Malakoff Diggins is the largest hydraulic gold mine ever operated in California, and one of the most visually striking landscapes in the Sierra foothills. The monitors — water cannons fed by an elaborate flume system — carved a vast canyon out of the hillside, exposing layers of ochre, rust, and white rock that look almost like a Bryce Canyon in miniature.

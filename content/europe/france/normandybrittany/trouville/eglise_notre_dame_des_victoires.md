@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 49.3680
 longitude: 0.0833
+score: 6.2
 ---
 
 The parish church of Trouville sits a few streets back from the harbour, behind the older part of town. It's a 19th-century Romanesque Revival building with a tall stone tower visible from the quayside, the work of architect Pierre-Louis Bouvier and dedicated in 1875.

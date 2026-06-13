@@ -13,6 +13,7 @@ story: >
   complex provided some of its earliest buildings — there are few universities
   in Germany where the line between medieval fortress and lecture hall is so
   literally blurred.
+score: 6.9
 ---
 
 The Altes Schloss is one of the few historic structures in central Giessen to survive the Allied bombing raids of December 1944, which destroyed the majority of the old city. The building dates from the late medieval period and served as the residence of the Landgraves of Hesse before the court moved south to Darmstadt. Today it houses the Upper Hessian Museum (Oberhessisches Museum), which holds collections of art, local history, and decorative arts spanning the region's past.

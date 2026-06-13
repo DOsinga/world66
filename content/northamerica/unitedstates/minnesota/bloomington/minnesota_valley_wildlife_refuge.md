@@ -13,6 +13,7 @@ tags:
 - sight
 title: Minnesota Valley National Wildlife Refuge
 type: poi
+score: 7.9
 ---
 
 A 14,000-acre national wildlife refuge running along the Minnesota River through the southern edge of Bloomington and into neighbouring communities. The refuge preserves floodplain forests, marshes, and bluffs that were largely untouched by suburban development due to periodic flooding. Hiking trails start from the visitor center off 34th Avenue East, with good birding year-round: great blue herons nest in the bottomlands, bald eagles are frequently seen in winter, and the marshes attract wood ducks and other waterfowl in spring. The visitor center has free natural history exhibits and trail maps. A genuine escape from the mall, 10 minutes away.

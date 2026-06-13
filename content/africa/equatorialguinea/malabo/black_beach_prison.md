@@ -13,6 +13,7 @@ story: >
   international investors — collapsed when the chartered plane was intercepted
   in Zimbabwe. Mann and others ended up in Black Beach, where Mann later
   described conditions of severe deprivation before his eventual release.
+score: 4.6
 ---
 
 Black Beach Prison, set on a promontory above the sea on the northern edge of the city, is one of Africa's most notorious detention facilities. It held political prisoners throughout the Macías dictatorship (1968–1979) and has continued to be used for political detainees under the current government of Teodoro Obiang Nguema, in power since 1979.

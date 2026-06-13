@@ -13,6 +13,7 @@ story: >
   the ground in August 1913, the night before the Londons were to move in. The cause was never established.
   London died three years later at 40, of kidney failure and likely complications from the morphine he was
   using to manage the pain. He was buried on the property under a red lava boulder, as he had requested.
+score: 8.8
 ---
 
 Jack London spent the last years of his life on an 800-acre ranch in the Valley of the Moon, 13 kilometres north of Sonoma in Glen Ellen. The state historic park that now preserves the property includes the ruins of Wolf House, the author's 26-room dream home that burned before he could live in it, the smaller House of Happy Walls (which served as his widow Charmian's home and is now a museum), and miles of hiking trails through the oak woodland.

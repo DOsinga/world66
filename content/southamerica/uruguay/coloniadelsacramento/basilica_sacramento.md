@@ -9,6 +9,7 @@ latitude: -34.4678
 longitude: -57.8533
 sources:
   - https://en.wikipedia.org/wiki/Bas%C3%ADlica_del_Sant%C3%ADsimo_Sacramento,_Colonia_del_Sacramento
+score: 7.4
 ---
 
 The Basílica del Santísimo Sacramento is Colonia's main church, occupying a prominent corner of the historic quarter facing the Plaza Mayor. The current building dates from the early 20th century — the original colonial church was destroyed in one of the many sieges of the town — but the site has been a place of worship since the Portuguese founding of the settlement in 1680.

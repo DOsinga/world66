@@ -9,6 +9,7 @@ tags:
 latitude: 34.3855
 longitude: -118.5285
 snippet: Collection of preserved 19th-century buildings from early Santa Clarita Valley settlements
+score: 6.7
 ---
 
 A cluster of relocated historic structures from across the Santa Clarita Valley, assembled at William S. Hart Regional Park into an open-air museum of early California settlement life. Buildings include an 1890s one-room schoolhouse, a Victorian farmhouse, a Southern Pacific Railroad depot, and a reconstructed oil derrick from the Newhall oil field — one of the first commercially productive oil fields in California.

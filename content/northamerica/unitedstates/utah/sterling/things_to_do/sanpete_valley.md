@@ -1,6 +1,7 @@
 ---
 title: Sanpete Valley
 type: poi
+score: 7.0
 ---
 
 The broad valley that contains Sterling and the surrounding settlements is one of the more quietly beautiful stretches of central Utah. The Wasatch Plateau rises steeply to the east, the San Pitch Mountains to the west, and between them runs a wide floor of irrigated pasture, cottonwood-lined lanes and old Mormon farmsteads — many dating to the 1850s and 1860s when Brigham Young sent colonists to farm the valley.

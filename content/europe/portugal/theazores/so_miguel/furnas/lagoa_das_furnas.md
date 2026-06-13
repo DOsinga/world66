@@ -11,6 +11,7 @@ tags:
 - nature
 story: >
   The fumarole field on the northern shore of the lake is one of the very few places in the world where geothermal heat is used to cook restaurant food. From around six in the morning, cooks from Furnas restaurants lower large metal pots filled with meat, sausage and cabbage into pits in the bare earth; six or seven hours later they pull them back up fully cooked, transport them into town, and serve them for lunch.
+score: 8.5
 ---
 
 Lagoa das Furnas is the volcanic crater lake a few kilometres south-west of the village. About two kilometres across and surrounded by steep wooded slopes, it sits inside the larger Furnas caldera, one of the three active volcanic complexes of São Miguel. A circular road runs around the shore (about ten kilometres) and is best walked, cycled, or driven slowly.

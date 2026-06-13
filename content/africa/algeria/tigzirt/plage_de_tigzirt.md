@@ -6,6 +6,7 @@ tags:
   - sight
 title: Plage de Tigzirt
 type: poi
+score: 6.4
 ---
 
 The beach at Tigzirt is a stony crescent sheltered by the hills that separate the coast from Tizi Ouzou. It is not a grand beach by Mediterranean standards, but the water is clean, the setting is attractive, and the town has a genuinely local character that the better-known Algerian resorts have largely lost. Kabyle families fill the beach in July and August, and the atmosphere in summer is relaxed and social.

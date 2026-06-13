@@ -9,6 +9,7 @@ latitude: 54.0211
 longitude: 23.9711
 sources:
   - https://en.wikipedia.org/wiki/Joy_of_All_Who_Sorrow_Church,_Druskininkai
+score: 5.9
 ---
 
 The Joy of All Who Sorrow Church is an Eastern Orthodox church in central Druskininkai, belonging to the Russian Orthodox Diocese of Lithuania. The building, with its characteristic onion domes and blue-and-white exterior, stands as a reminder of the significant Russian presence in Druskininkai during the 19th century, when the town was developing as a spa resort for the Russian imperial elite and for the Baltic Russians who followed.

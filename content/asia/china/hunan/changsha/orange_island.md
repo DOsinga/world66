@@ -15,6 +15,7 @@ story: >
   looking out from Orange Island over the Xiang River, asking who controls the
   rise and fall of nations. The sculpture is 32 metres tall. It was completed
   in 2009 and is visible from much of the western riverbank.
+score: 8.4
 ---
 
 Orange Island (Juzizhou) is a five-kilometre sandbank in the middle of the Xiang River, one of the largest river islands in the world and Changsha's central public space. The island takes its name from the orange trees planted across it; in autumn the citrus perfume carries to both riverbanks. At the southern tip stands a colossal granite sculpture of the young Mao Zedong's head — 32 metres tall, depicting him at the age he spent in Changsha as a young revolutionary. It is one of China's more arresting pieces of public art, whether or not you are interested in its subject.

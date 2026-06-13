@@ -7,6 +7,7 @@ address: Saidpur Village
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 The other main Saidpur Village restaurant, occupying a complex of restored stone houses next door to Des Pardes. Andaaz leans Mughlai — slow-cooked nihari, haleem, butter chicken, a strong selection of vegetarian dishes — and is generally rated as the more polished kitchen of the two.

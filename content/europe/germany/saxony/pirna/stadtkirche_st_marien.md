@@ -16,6 +16,7 @@ story: >
   was courting, then immortalised the flower in stone when she turned him down.
   The story is probably apocryphal, but the pulpit is real and it really is
   remarkable.
+score: 7.9
 ---
 
 St. Mary's Church (Stadtkirche St. Marien) is one of the most important late-Gothic hall churches in Saxony. Construction began in the 14th century and continued into the early 16th century; the twin towers that define the Pirna skyline were added in stages and give the building its distinctive profile above the market square. The interior is a single large hall with slender columns and ribbed vaulting — a type of construction popular in Saxony that creates a sense of spacious unity rather than the high-nave drama of French Gothic.

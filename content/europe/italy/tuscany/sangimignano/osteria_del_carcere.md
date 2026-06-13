@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.4676
 longitude: 11.0432
+score: 6.6
 ---
 
 A small osteria occupying the vaulted medieval prison cells beneath the Palazzo del Popolo, reached by a stone staircase from the street. The setting — low ceilings, stone walls, the kind of cool darkness that medieval builders achieved without refrigeration — is memorable enough on its own, but the food is the main reason to go. The menu runs to classic Sienese dishes: pici al ragù di cinghiale (hand-rolled pasta with wild boar sauce), ribollita, bistecca di Chianina, and the kind of desserts that make you think about ordering another.

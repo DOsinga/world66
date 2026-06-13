@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 50.124722222222225
 longitude: -5.678888888888889
+score: 6.8
 ---
 
 The parish church of St Just stands in the centre of town on a site of Christian worship dating back to the 5th or 6th century. The current building is largely 15th century Perpendicular Gothic, built from local granite — the same material as the town's walls and farmsteads. The tower is squat and powerful, a typical west Cornish form built to withstand Atlantic weather.

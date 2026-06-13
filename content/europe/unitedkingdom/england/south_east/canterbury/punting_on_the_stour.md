@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 51.27991
 longitude: 1.07853
+score: 7.1
 ---
 
 Two competing operators run guided punt trips from the bridge at the bottom of the High Street and from the King's Mill on the opposite side of town. Trips last about 40 minutes and float you slowly past the city walls, the medieval Eastbridge Hospital, Greyfriars Chapel, and the gardens of the King's School. The punter does the work and supplies a running commentary that is usually a mixture of accurate history and gentle local jokes.

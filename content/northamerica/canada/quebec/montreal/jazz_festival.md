@@ -9,6 +9,7 @@ tags:
 snippet: The world's largest jazz festival — free outdoor stages and ticketed concerts for two weeks each June
 sources:
   - https://en.wikipedia.org/wiki/Montreal_International_Jazz_Festival
+score: 8.5
 ---
 
 The Festival International de Jazz de Montréal, held for about ten days each year at the end of June, is the largest jazz festival in the world by attendance — around two million people pass through the Quartier des spectacles over its run. The outdoor stages are free and open to all: multiple performances happening simultaneously on the esplanade around Place des Arts, ranging from traditional jazz and blues to electronic, Latin, and world music. The ticketed indoor concerts in the concert halls feature the festival's headliners — internationally recognized artists across all jazz traditions.

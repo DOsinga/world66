@@ -8,6 +8,7 @@ latitude: 31.8667
 longitude: 117.2833
 story: >
   The Han dynasty bronzes in the museum's collection include several pieces recovered from the tomb of Liu Jian, a prince of the Huainan kingdom whose territory covered much of modern Anhui. His tomb was one of the most elaborately furnished ever excavated in eastern China — the objects suggest a court culture of extraordinary refinement in a region the later historical record largely ignores.
+score: 7.6
 ---
 
 The Anhui Provincial Museum is the best single introduction to the province's history and culture. The new building, opened in 2011, is well-organized and handles the full sweep from Neolithic through modern times, with particularly strong holdings in Han dynasty bronzes, jade, and lacquerware excavated from tombs across the province.

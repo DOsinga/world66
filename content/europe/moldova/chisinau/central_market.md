@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 47.0220
 longitude: 28.8380
+score: 8.5
 ---
 
 Chisinau's main market sprawls across several blocks east of the central park — a working farmers' market dating back to the 19th century, with covered halls, open-air stalls, and a permanent procession of villagers in from the countryside with whatever is in season. Cherries and apricots in June, watermelons and tomatoes in August, walnuts and brined cheese in October.

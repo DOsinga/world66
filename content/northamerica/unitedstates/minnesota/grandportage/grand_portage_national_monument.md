@@ -16,6 +16,7 @@ story: >
   camped at the depot for a few frenetic weeks of bartering, drinking, and dancing
   before paddling back to their posts. The reenactment held every August recreates
   the chaos.
+score: 9.3
 ---
 
 The Monument preserves the location of the Great Hall, kitchen, canoe warehouse, and palisaded depot of the North West Company, the most powerful fur-trading operation in late 18th-century North America. The buildings standing today are full-scale reconstructions on the original archaeological sites; inside, costumed interpreters demonstrate clerking, cooking on the hearth, and birch-bark canoe repair.

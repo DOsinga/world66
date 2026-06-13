@@ -12,6 +12,7 @@ tags:
   - sight
 title: Punic Wall
 type: poi
+score: 8.2
 ---
 
 The Punic Wall is the place to start if you want Cartagena before Rome. The archaeological site preserves part of the 3rd-century BC defensive wall of Qart Hadasht, the Carthaginian stronghold that gave the city its strategic importance.

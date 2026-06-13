@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - shopping
   - market
+score: 7.0
 ---
 
 The Mercado Central is a covered market a few blocks east of the Plaza de los Héroes. Stalls sell fruit and vegetables from the surrounding Cachapoal Valley, sausages and cheeses from the Andean foothills, and the usual mix of household goods.

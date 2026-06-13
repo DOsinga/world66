@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 6.2
 ---
 
 The Blue Area is Islamabad's central business district — a long strip running east-west along Jinnah Avenue between the sectors of F-6 and G-7. The name comes from the colour Greek architect Constantinos Doxiadis used on his original 1960s master plan to denote the commercial zone.

@@ -9,6 +9,7 @@ tags:
 latitude: -3.1014
 longitude: -60.0119
 address: Rua Recife, Adrianópolis, Manaus
+score: 6.4
 ---
 
 Caxiri — named after the indigenous fermented manioc drink — is the kind of small, ambitious neighbourhood restaurant that has been changing what Manaus eats. The chef takes the same Amazonian ingredients the local fish restaurants use, but treats them with the techniques of a serious modern kitchen: pirarucu rillettes, jambu butter, smoked tucunaré, river-fish ceviches with cassava milk.

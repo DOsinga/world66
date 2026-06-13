@@ -8,6 +8,7 @@ latitude: 40.7406
 longitude: -84.1138
 story: >
   Among the museum's more unexpected exhibits is a replica of the jail cell where John Dillinger was held in Lima in 1933 — complete with wax figures. Dillinger later escaped from a different jail, but his brief time in Lima gave the city a footnote in American gangster history.
+score: 8.0
 ---
 
 The Allen County Museum, at 620 West Market Street, is one of the more complete county history museums in Ohio. Established in 1908 by the Allen County Historical Society, the complex occupies half a city block and includes a main museum building, a Victorian mansion (the MacDonell House), a children's discovery centre, a genealogy library, and railway archives.

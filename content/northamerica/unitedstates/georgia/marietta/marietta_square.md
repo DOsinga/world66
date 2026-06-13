@@ -8,6 +8,7 @@ tags:
 latitude: 33.9527
 longitude: -84.5494
 snippet: Antebellum town square with boutiques, restaurants, and Glover Park at its centre
+score: 7.4
 ---
 
 Marietta Square is the walkable heart of historic downtown, a grid of antebellum and Victorian buildings surrounding Glover Park. On and around the square you'll find independent bookshops, boutique clothing stores, antique dealers, art galleries, and restaurants ranging from casual lunch spots to proper sit-down dining. On summer evenings, free concerts play in the park.

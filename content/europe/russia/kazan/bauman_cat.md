@@ -9,6 +9,7 @@ tags:
   - centre
 story: >
   Empress Elizabeth of Russia, suffering from rats in her St Petersburg palace in 1745, sent for thirty of the famously good mousers of Kazan; their descendants were said to live in the Hermitage Palace for centuries. The plump bronze cat on a velvet cushion at the southern end of Bauman Street is the city's tongue-in-cheek monument to the trade.
+score: 5.3
 ---
 
 The Cat of Kazan is a small bronze sculpture of a fat cat reclining on a cushion under a striped canopy, at the southern end of Bauman Street near Tukay Square. The statue commemorates a real historical trade in Kazan cats — known across Russia in the 18th century for their hunting ability — and is one of the city's most photographed objects.

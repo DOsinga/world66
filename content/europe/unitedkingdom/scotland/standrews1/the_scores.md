@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 56.3415
 longitude: -2.7960
+score: 8.0
 ---
 
 The Scores is the cliff-top road running along the northern edge of St Andrews from the castle eastward, and walking it — or rather the path below it, following the shoreline — is one of the best things to do in the town on a clear day. The road passes the castle, several university buildings including the Wardlaw Museum, and the Royal and Ancient clubhouse, with the West Sands visible in the distance.

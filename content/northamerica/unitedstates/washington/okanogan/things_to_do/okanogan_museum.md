@@ -7,6 +7,7 @@ tags:
   - history
 latitude: 48.3594
 longitude: -119.5757
+score: 6.6
 ---
 
 The Okanogan County Historical Museum covers the long human history of the region: the Colville Confederated Tribes, who have lived in and around this valley for thousands of years; the fur trade era; the miners and ranchers who arrived in the late 19th century; and the apple industry that defined the 20th-century economy. The collection includes pioneer artifacts, photographs, and interpretive displays on the county's diverse communities.

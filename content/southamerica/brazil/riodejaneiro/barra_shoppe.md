@@ -10,6 +10,7 @@ tags:
 - shop
 title: BarraShopping
 type: poi
+score: 3.2
 ---
 
 One of Rio's largest shopping malls, BarraShopping sits in Barra da Tijuca, the sprawling beachfront district west of Zona Sul. It houses hundreds of shops across multiple floors, anchored by major Brazilian and international brands. The attached New York City Center complex adds a multiplex cinema and additional restaurants.

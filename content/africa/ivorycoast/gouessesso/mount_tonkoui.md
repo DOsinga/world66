@@ -8,6 +8,7 @@ tags:
 - nature
 title: Mount Tonkoui
 type: poi
+score: 7.0
 ---
 
 Roughly 30 km south of Gouessesso as the crow flies, Mount Tonkoui is the second highest peak in Ivory Coast at 1,189 metres. A rough track climbs almost to the top, where a meteorological station and a viewpoint look out over the rolling hills of the western highlands. On clear days you can see across the border into [Guinea](/africa/guineeconakry) and [Liberia](/africa/liberia).

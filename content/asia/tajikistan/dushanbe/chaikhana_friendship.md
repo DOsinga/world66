@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 38.5730
 longitude: 68.7870
+score: 7.6
 ---
 
 Scattered through the residential neighborhoods and bazaar areas of Dushanbe are small traditional chaikhanas (teahouses) that haven't changed their character since Soviet times. These are the places where old men spend their afternoons playing shashka (draughts) or nard (backgammon), smoking, and drinking green tea by the pot. Finding them requires wandering rather than navigation.

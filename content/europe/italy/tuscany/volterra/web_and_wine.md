@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - cafe
 address: Via Matteotti, 18
+score: 5.8
 ---
 
 A long-running Volterran cafe and bakery on Via Matteotti, between Piazza dei Priori and Porta all'Arco. The classic stop for a morning espresso and a slice of *pinolata* — the local pine-nut and almond tart — or for an aperitivo with a glass of Vernaccia and the bartender's small plates of pecorino and salame.

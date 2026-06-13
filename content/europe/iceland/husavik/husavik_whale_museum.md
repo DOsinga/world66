@@ -9,6 +9,7 @@ tags:
 latitude: 66.047
 longitude: -17.3454
 story: "The centrepiece of the museum is a full skeleton of a 24-metre blue whale, the largest animal that has ever lived on Earth, suspended from the ceiling of a converted harbour slaughterhouse. The building itself adds to the drama — the industrial bones of the old processing facility frame the skeletons in a way a purpose-built museum rarely achieves. Iceland's complicated relationship with whaling runs through the whole exhibition honestly and without propaganda from either direction."
+score: 8.1
 ---
 
 The Húsavík Whale Museum is one of the best natural history museums in Iceland. Housed in a former herring processing plant right on the harbour, it holds skeletons and preserved specimens of all the whale species that swim in Icelandic waters — blue whales, humpbacks, sperm whales, orcas, belugas. The scale of the larger skeletons is genuinely hard to process until you're standing underneath them.

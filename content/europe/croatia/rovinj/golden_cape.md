@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Protected forest park south of town with pine-shaded swimming coves and walking trails"
+score: 8.2
 ---
 
 Zlatni Rt — the Golden Cape — is a protected landscape of pine, cypress, holm oak and cedar forest about 15 minutes' walk south of Rovinj's old town. The cape was planted and landscaped in the late 19th century by Baron Georg Hütterott, an Austro-Hungarian industrialist who bought the land and transformed it into an arboretum. Some of the exotic tree species he introduced are still growing.

@@ -14,6 +14,7 @@ story: >
   the Row had been rebuilt, in brick.
 sources:
   - https://en.wikipedia.org/wiki/Courthouse_Plaza_Historic_District
+score: 8.2
 ---
 
 Courthouse Plaza is the heart of downtown Prescott — a square block of lawn, trees, and benches ringed by the historic buildings of the town's commercial district. On one side stands the Yavapai County Courthouse, a Romanesque Revival building from 1916 with a prominent clock tower. On the other sides, the arcaded storefronts of Whiskey Row and the adjacent streets give the plaza an appealing, walkable character.

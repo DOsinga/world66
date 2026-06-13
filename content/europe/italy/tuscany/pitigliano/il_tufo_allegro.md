@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.6350
 longitude: 11.6722
+score: 5.8
 ---
 
 Il Tufo Allegro is the most highly regarded restaurant in Pitigliano, set in a cave-like room carved into the tuff at the base of the old town. The cooking draws on Maremma traditions with some refinement — expect dishes like wild boar with Morellino di Scansano, hand-rolled pasta with truffle, and local lamb prepared simply with rosemary and olive oil.

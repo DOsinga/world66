@@ -14,6 +14,7 @@ story: >
   remains so today — the Spanish royal family uses it as their official Seville residence and stays
   here during the April Fair. The upper floors, occasionally open for guided tours, contain
   private royal apartments that have been in continuous use since the 14th century.
+score: 9.7
 ---
 
 The Royal Alcázar is arguably the most extraordinary royal palace in Europe. Built by the Christian king Pedro I in the 1360s, it was designed and constructed almost entirely by Moorish craftsmen using the full vocabulary of Mudéjar architecture — honeycomb stucco, geometric tilework, horseshoe arches, and garden courtyard pools that create the illusion of infinite space. The result is a palace that looks, feels, and functions like a Moorish court while belonging to a Christian king.

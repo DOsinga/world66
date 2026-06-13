@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 9.2825
 longitude: 123.2025
+score: 7.5
 ---
 
 Casaroro Falls drops into a narrow gorge in the mountains near Valencia, a short jeepney ride from Dumaguete. Getting there involves a descent of several hundred steps and then a scramble along the riverbed — jumping from boulder to boulder, wading in places — which keeps the crowds down and makes arriving feel earned. The falls themselves are a thin column of water dropping about 25 metres into a dark pool surrounded by mossy rock walls. There is room to swim if the water level is cooperative.

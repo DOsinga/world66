@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.0830
 longitude: 140.0775
+score: 4.8
 ---
 
 One of the genuine pleasures of visiting Japan is the quality of food available in ordinary supermarkets and convenience stores, and Tsukuba is an excellent place to experience this. The city's large research population — many of them working long hours and eating alone — has created sustained demand for good ready-made food, and the selection reflects it.

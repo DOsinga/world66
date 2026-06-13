@@ -8,6 +8,7 @@ tags:
 latitude: 20.2296
 longitude: 105.9411
 snippet: "Classic river cave trip through three tunnels cut in limestone karst, best before 8am"
+score: 8.7
 ---
 
 Tam Coc — "three caves" in Vietnamese — is the postcard image of Ninh Binh: a slow rowing boat trip on the Ngo Dong River between vertical limestone peaks rising from flooded rice paddies, passing through three natural cave tunnels. It is beautiful, and deservedly famous.

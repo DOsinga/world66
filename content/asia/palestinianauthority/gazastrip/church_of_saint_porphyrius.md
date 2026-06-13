@@ -15,6 +15,7 @@ tags:
   - sight
 title: Church of Saint Porphyrius
 type: poi
+score: 8.3
 ---
 
 The Church of Saint Porphyrius is the Greek Orthodox church of Gaza, standing in the Zaytun Quarter of the Old City and named for the city's fifth-century bishop, whose tomb lies in a side chapel. The current building dates to the twelfth century — making it one of the oldest functioning churches in the world — though it sits on the foundations of a much earlier basilica. The interior is small but rich, with a carved iconostasis and Byzantine icons.

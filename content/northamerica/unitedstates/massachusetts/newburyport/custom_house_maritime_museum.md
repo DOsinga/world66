@@ -14,6 +14,7 @@ story: >
   first US minister to China and signed the 1844 Treaty of Wanghia that opened
   Chinese ports to American trade — the legal foundation for the China-trade
   fortunes whose mansions still line High Street.
+score: 7.8
 ---
 
 The granite-fronted Custom House on Water Street was built in 1835 by Robert Mills, the architect of the Washington Monument. From this building federal officers collected the duties on the Caribbean rum, Indian cotton, and Chinese tea that built the town's fortunes. Customs ceased here in 1913 and the building has been a museum since 1976.

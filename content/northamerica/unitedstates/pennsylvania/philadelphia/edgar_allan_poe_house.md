@@ -9,6 +9,7 @@ latitude: 39.9568
 longitude: -75.1512
 snippet: "The house where Poe wrote 'The Black Cat' and 'The Tell-Tale Heart' — free to enter, appropriately dark"
 story: "Poe lived in this brick row house from 1843 to 1844 and wrote 'The Black Cat' and 'The Tell-Tale Heart' here. The dark basement is thought to have inspired 'The Black Cat,' and a raven named Edgar lives on the property."
+score: 6.9
 ---
 
 Edgar Allan Poe lived at 532 N 7th Street from January 1843 to April 1844, the most productive period of his Philadelphia years. He wrote "The Black Cat," "The Tell-Tale Heart," and "The Gold-Bug" in this brick row house in the Spring Garden neighborhood, a few miles north of the colonial historic district. The house is now a National Historic Site operated by the National Park Service and — unusually for a Philadelphia attraction — admission is free.

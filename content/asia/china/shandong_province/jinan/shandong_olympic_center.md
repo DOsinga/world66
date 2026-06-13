@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.7100
 longitude: 116.9900
+score: 6.1
 ---
 
 Jinan's Olympic Sports Center, built for the 2009 National Games, is a large multi-venue complex in the western city that includes the main stadium, aquatics center, and velodrome. The stadium's distinctive lotus-inspired roof has become something of a city symbol. The complex hosts major athletic and football events and is open to the public for jogging and recreation outside event hours.

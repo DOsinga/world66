@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 61.4980
 longitude: 23.7593
+score: 6.7
 ---
 
 Tampere's Neo-Renaissance city hall sits at the edge of the central square (Tampere Central Square) and dates from 1890. The building was designed by Georg von Bonsdorff and is one of the more accomplished 19th-century civic buildings in Finland — less austere than the prevailing National Romantic style and more self-consciously grand.

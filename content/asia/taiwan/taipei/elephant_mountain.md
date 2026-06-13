@@ -8,6 +8,7 @@ tags:
 - hiking
 title: Elephant Mountain
 type: poi
+score: 7.7
 ---
 
 Of the "Four Beasts" hiking trails that wrap around the southeast corner of Taipei, Elephant Mountain (Xiangshan) is by far the most popular — a 20-minute stone-step climb from the eponymous MRT station that brings you out on a viewing platform almost level with the upper floors of Taipei 101. The classic photograph of 101 at sunset, taken from the boulders just above the top platform, is taken here every evening by half the visitors in town.

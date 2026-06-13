@@ -5,6 +5,7 @@ tags:
 - sight
 title: Okfuskee County History House
 type: poi
+score: 6.9
 ---
 
 The Okfuskee County History House is a small local museum with exhibits covering the long arc of the county's history: the Muscogee Creek people who called this land home before Oklahoma statehood, the land runs and early white settlement, the coal and oil booms that briefly made Okemah a prosperous town, and the Dust Bowl years that emptied it out again.

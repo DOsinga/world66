@@ -11,6 +11,7 @@ story: >
   This is one of the five ghats that pilgrims must visit when performing the Panch-Tirtha Yatra
   — the sacred circuit of Varanasi that has been prescribed in Hindu scriptures for at least
   two thousand years.
+score: 8.1
 ---
 
 Assi Ghat is at the southern end of the main ghat sequence and has a notably different character from the busier ghats closer to the old city. It is popular with long-term residents of Varanasi — students from Banaras Hindu University nearby, sadhus who live around the ghat, and foreign visitors who rent rooms in the neighbourhood for extended stays. The atmosphere is calmer and more residential than Dashashwamedh.

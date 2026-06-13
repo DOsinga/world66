@@ -10,6 +10,7 @@ tags:
 - shoreditch
 title: Brick Lane
 type: poi
+score: 8.0
 ---
 
 Brick Lane runs through the heart of London's Bangladeshi community and is the city's most atmospheric street market on Sunday mornings. The street and its surrounding lanes fill with vintage clothing, antiques, vinyl, street food, and the general atmosphere of a neighbourhood market that still serves a real community rather than being purely curated.

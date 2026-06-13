@@ -9,6 +9,7 @@ latitude: -0.5000
 longitude: 117.1430
 sources:
   - https://en.wikipedia.org/wiki/Dayak_people
+score: 5.8
 ---
 
 The Dayak Handicraft Centre in central Samarinda brings together craft goods from communities across the Mahakam valley: blowpipes, mandau (traditional Dayak machetes), hand-carved wooden masks, rattan baskets, beaded jewellery, and woven textiles. Most items here have come downriver with traders or are sold on consignment by community cooperatives.

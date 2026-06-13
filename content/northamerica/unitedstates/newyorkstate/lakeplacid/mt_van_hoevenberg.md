@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 44.262937
 longitude: -73.964765
+score: 7.9
 ---
 
 Mount Van Hoevenberg is the Olympic bobsled, luge, and skeleton track used in both the 1932 and 1980 Winter Games — the oldest Olympic bobsled run still in operation. The track is open to the public for rides year-round: in winter, actual bobsled rides are available (with a driver), reaching speeds around 55 mph on the descent. In summer, a wheeled bobsled operates on a special track. Either way, the experience is genuinely thrilling.

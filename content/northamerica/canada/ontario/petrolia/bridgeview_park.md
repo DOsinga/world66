@@ -6,6 +6,7 @@ tags:
 - park
 title: Bridgeview Park
 type: poi
+score: 5.5
 ---
 
 Bridgeview Park sits on the north edge of town along Bear Creek. It's a quiet green space with picnic shelters, a playground, and walking paths that connect to the larger town trail network.

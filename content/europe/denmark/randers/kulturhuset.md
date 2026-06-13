@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 56.4603
 longitude: 10.0412
+score: 5.8
 ---
 
 Kulturhuset (The House of Culture) is Randers' main venue for concerts, theatre, film, and cultural events. The building is an architectural landmark — a distinctive modern structure on the edge of the town centre, designed to serve as a meeting point for the town's cultural life.

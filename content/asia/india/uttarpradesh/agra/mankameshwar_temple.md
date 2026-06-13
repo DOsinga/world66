@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - temple
+score: 6.9
 ---
 
 Mankameshwar is the most important Hindu temple in central Agra, set in the narrow lanes between the fort and the Jama Masjid. The temple is dedicated to Shiva and tradition holds that the lingam was installed by Lord Krishna himself, on his way to Mathura — making it one of the four "wish-fulfilling" Shiva temples (*kameshwar*) around the Mathura–Vrindavan area.

@@ -14,6 +14,7 @@ story: >
   surrounding cliffs, and the fact that farms, waterfalls, and ancient
   pathways could still be seen on the fjord walls at heights that make
   their original construction almost incomprehensible.
+score: 9.7
 ---
 
 The Nærøyfjord is a branch of the Sognefjord running southwest from Gudvangen, widely considered the most scenically dramatic fjord in Norway. At its narrowest point it is just 250 metres wide, while the walls on each side rise to over 1,000 metres. The effect from a boat is extraordinary: the cliffs close in on both sides, waterfalls drop directly into the water, and old farms cling to shelves in the rock at improbable heights — some accessible only by boat or by near-vertical paths that were presumably normal in the 17th century.

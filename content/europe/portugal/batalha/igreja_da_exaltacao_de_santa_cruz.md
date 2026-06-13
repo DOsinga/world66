@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.6583
 longitude: -8.8270
+score: 5.9
 ---
 
 The Church of the Exaltation of the Holy Cross is Batalha's parish church, standing on the main square a few minutes' walk from the monastery. It is sixteenth-century in origin, rebuilt and modified several times — Manueline portal, Renaissance interior, Baroque altars — but kept on a domestic scale appropriate to a small market town.

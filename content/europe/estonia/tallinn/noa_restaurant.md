@@ -7,6 +7,7 @@ tags:
 latitude: 59.4629
 longitude: 24.8071
 snippet: Clifftop fine dining restaurant east of the city with views over the sea toward Helsinki
+score: 7.7
 ---
 
 NOA ("Noah's Ark") is the most acclaimed restaurant in Tallinn, perched on the limestone cliff at Kelvingi with unobstructed views across the Gulf of Finland toward the Helsinki coast. The cooking is Nordic in sensibility — Estonian and Scandinavian ingredients, careful technique, seasonal focus — and the menu changes with what's available. Ingredients come primarily from Estonian farms and the Baltic Sea.

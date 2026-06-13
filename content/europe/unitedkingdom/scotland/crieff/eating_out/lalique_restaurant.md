@@ -1,6 +1,7 @@
 ---
 title: "The Lalique Restaurant at Glenturret"
 type: poi
+score: 6.5
 ---
 
 The Lalique Restaurant occupies a beautifully converted building within the Glenturret Distillery complex, and it is one of the more unexpected fine dining experiences in Scotland. Holding a Michelin star, it serves modern Scottish cooking that draws on the best of Perthshire's larder — venison, game, fish from Scottish rivers and coasts — presented with a refinement that reflects the Lalique brand's aesthetic sensibility. The dining room itself is striking, decorated with Lalique crystal, and the setting among the distillery buildings adds a sense of occasion.

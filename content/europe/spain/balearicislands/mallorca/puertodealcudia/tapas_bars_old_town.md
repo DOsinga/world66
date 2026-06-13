@@ -8,6 +8,7 @@ tags:
 latitude: 39.8520
 longitude: 3.1195
 snippet: The tapas bars inside Alcudia's walls, better value and more local than the port
+score: 5.9
 ---
 
 The tapas bars inside Alcudia's old walls are a different experience from the waterfront restaurants. These are neighbourhood places, used by people who live in the old town, and while they welcome visitors readily enough they haven't adjusted their offer substantially to accommodate them. The menus are in Spanish, the wine is poured in small glasses without ceremony, and the food — patatas bravas, croquetas, pan con tomate, a daily changing selection of cold cuts and cheese — is straightforward and good.

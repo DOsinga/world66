@@ -7,6 +7,7 @@ longitude: -112.9555
 snippet: Quick shuttle stop with a classic view of three massive sandstone peaks
 story: >
   The three peaks were named Abraham, Isaac, and Jacob by Methodist minister Frederick Vining Fisher in 1916. Zion's modern place names still carry that early promotional language, when boosters framed the canyon in biblical terms to match its scale.
+score: 6.4
 ---
 
 Court of the Patriarchs is one of Zion's easiest rewards: a short, steep walk from shuttle stop 4 to a viewpoint across the canyon floor. The three sandstone peaks rise in a row, catching morning light beautifully.

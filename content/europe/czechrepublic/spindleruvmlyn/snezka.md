@@ -9,6 +9,7 @@ latitude: 50.7369
 longitude: 15.7394
 story: >
   The summit of Sněžka has been disputed territory for centuries — the Czech-Polish border runs through the very top of the mountain. The postmodern observatory disc that sits on the Czech side was built in 1975 and inspired considerable controversy; locals nicknamed it "UFO" and there have been repeated proposals to demolish it. It remains.
+score: 8.6
 ---
 
 At 1,603 metres, Sněžka is the highest peak in the Czech Republic and the dominant landmark of the Krkonoše range. It is not climbed from Špindlerův Mlýn — the most popular access is by cable car from nearby Pec pod Sněžkou, about 15 kilometres east — but it is clearly visible from the resort and reachable on foot via the ridge trail for experienced hikers.

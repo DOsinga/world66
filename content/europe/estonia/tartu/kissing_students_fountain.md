@@ -6,6 +6,7 @@ tags:
 - landmark
 title: Kissing Students Fountain
 type: poi
+score: 6.4
 ---
 
 The Kissing Students sculpture — two bronze student figures embracing in the rain — stands at the lower end of Raekoja plats and has become the unofficial symbol of Tartu. The fountain was installed in 1998 to replace an earlier Soviet-era fountain, and the sculpture's romantic sentiment fits Tartu's identity as a university city.

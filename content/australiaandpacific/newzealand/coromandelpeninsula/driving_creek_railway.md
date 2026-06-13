@@ -16,6 +16,7 @@ story: >
   provides habitat for rare birds.
 sources:
   - https://en.wikipedia.org/wiki/Driving_Creek_Railway
+score: 8.8
 ---
 
 The Driving Creek Railway is a narrow-gauge mountain railway built entirely by one man — potter and eccentric Barry Brickell — in the hills above Coromandel Town. The sixty-minute return trip climbs through native bush on a route that includes three reversals, five viaducts, two spiral loops, and two tunnels, reaching the summit — which Brickell named "Eyefull Tower" — for views over the Hauraki Gulf.

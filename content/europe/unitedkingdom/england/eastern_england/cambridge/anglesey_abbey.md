@@ -9,6 +9,7 @@ latitude: 52.2378
 longitude: 0.2128
 story: >
   Anglesey Abbey is not really an abbey — it is a Jacobean house built on the ruins of an Augustinian priory dissolved by Henry VIII in 1535. Lord Fairhaven, who bought it in 1926, spent 40 years and a substantial oil fortune creating the formal garden in a consciously artificial 18th-century style, importing thousands of plants and garden statues to achieve it. The garden was designed to look ancient; it is entirely a 20th-century creation.
+score: 7.4
 ---
 
 Anglesey Abbey is a National Trust property about 10 kilometres northeast of Cambridge, reached by bus from the city centre. The house, built in Jacobean style on the site of a medieval priory, contains Lord Fairhaven's extraordinary collection of furniture, paintings, silver, and clocks.

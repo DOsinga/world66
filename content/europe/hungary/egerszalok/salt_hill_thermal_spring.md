@@ -9,6 +9,7 @@ tags:
 - nature
 snippet: Natural travertine terraces formed by hot mineral water cascading down a hillside
 story: The salt hill was only discovered in 1961 during an oil and gas exploration drill. Workers struck water at 68°C instead of hydrocarbons — and inadvertently created one of Hungary's most unusual natural formations, a Hungarian Pamukkale that has been building itself ever since.
+score: 8.9
 ---
 
 The salt hill at Egerszalók is one of Hungary's most striking natural formations: thermal water at 68°C rises from deep underground and cascades down a hillside, depositing white calcium carbonate (travertine) terraces as it cools. The result is an otherworldly landscape of white-crusted ledges and mineral pools that strongly resembles the famous terraces of Pamukkale in Turkey — though Egerszalók's formation is entirely accidental, triggered by a 1961 oil exploration drill.

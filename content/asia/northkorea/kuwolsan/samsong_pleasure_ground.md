@@ -7,6 +7,7 @@ tags:
 - sight
 title: Samsong Pleasure Ground
 type: poi
+score: 6.1
 ---
 
 The Samsong Pleasure Ground is a stretch of valley below the main Kuwolsan peaks developed in the 1980s as a domestic recreation area. There are picnic clearings, simple bathing facilities along a stream, and a handful of single-storey rest houses for North Korean workers on state-organised holidays. In summer it is one of the few places in the province where locals on time off can be observed at leisure.

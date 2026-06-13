@@ -11,6 +11,7 @@ story: >
   The Three Hares Window (Drei-Hasen-Fenster) in the cathedral is an optical illusion carved in stone: three hares arranged in a circle, each sharing an ear with its neighbours — which means each rabbit appears to have two ears, but only three ears are depicted in total. The motif appears in medieval churches across Europe and Central Asia, and no one knows what it meant or how it spread. Paderborn has adopted it as the city's unofficial symbol.
 sources:
   - https://en.wikipedia.org/wiki/Paderborn_Cathedral
+score: 8.8
 ---
 
 Paderborn Cathedral (Paderborner Dom) is the Catholic cathedral of the Archdiocese of Paderborn, a Romanesque-Gothic structure begun in the eleventh century and substantially expanded over the following 300 years. The crypt beneath the main nave is one of the largest in Germany and contains the tomb of Bishop Meinwerk, the cathedral's main medieval patron.

@@ -8,6 +8,7 @@ tags:
 - sanya_bay
 title: Coconut Dream Corridor
 type: poi
+score: 6.8
 ---
 
 The Coconut Dream Corridor is a roughly 20-kilometre landscaped seafront park running along the western side of Sanya Bay, planted with coconut palms (some of them genuinely old, some newer plantings) and laid out with cycle paths, walking trails, and small beachfront pavilions. It is one of the most accessible green spaces in the city and where many locals actually spend their evenings.

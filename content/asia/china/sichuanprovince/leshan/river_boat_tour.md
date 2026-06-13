@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.5480
 longitude: 103.7700
+score: 7.8
 ---
 
 From the docks below Lingyun Mountain, small passenger boats run constant circuits along the river, giving passengers the full frontal view of the Giant Buddha from the water. This is where the most striking photographs are taken — standing at the Buddha's feet in the cliffside staircase queue, you cannot see his face and head together; the boat gives you the complete figure.

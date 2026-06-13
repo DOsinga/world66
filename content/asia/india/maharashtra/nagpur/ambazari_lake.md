@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.1283
 longitude: 79.0375
+score: 6.0
 ---
 
 Ambazari Lake is the largest of Nagpur's reservoirs and the city's most pleasant public park. The area around the lake has been landscaped with gardens, lawns, and walking paths, making it popular with families in the evenings and with joggers in the mornings. Rowboats are available for hire on the lake.

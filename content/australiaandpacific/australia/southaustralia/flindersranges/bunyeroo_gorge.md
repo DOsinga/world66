@@ -13,6 +13,7 @@ story: >
   ringed by quartzite ridges, the silence broken only by emus and wedge-tailed eagles.
   Edward John Eyre crossed this country in the 1840s and described it as magnificent
   but terrifying in equal measure.
+score: 8.2
 ---
 
 The Bunyeroo Valley is one of the most scenic drives in the Flinders Ranges — a dirt road that loops between Brachina Gorge and Wilpena Pound through open country with wide views of the ranges. The road passes through grasslands grazed by large mobs of kangaroos and is excellent for birdwatching, particularly for raptors.

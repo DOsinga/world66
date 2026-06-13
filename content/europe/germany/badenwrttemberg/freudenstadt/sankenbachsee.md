@@ -8,6 +8,7 @@ tags:
 - lake
 title: Sankenbachsee
 type: poi
+score: 6.9
 ---
 
 The Sankenbachsee is a small, dark glacial cirque lake set on a forested shelf above Baiersbronn. The water is cold and tea-coloured from peat. A wooden walkway runs around the shore and gives reflections of the surrounding spruce; in autumn the colours are particularly good. Swimming is not allowed.

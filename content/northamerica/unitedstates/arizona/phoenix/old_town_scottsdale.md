@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Old Town Scottsdale
 type: poi
+score: 7.7
 ---
 
 Old Town Scottsdale is the historic core of the wealthy suburb just east of Phoenix and one of the few parts of the metro you can comfortably explore on foot. The eight or so square blocks centred on Scottsdale Road combine boot stores and Native American jewelry shops with high-end art galleries, cocktail lounges, and some of the metro's best-known restaurants. The architecture leans theme-park Western, all wooden boardwalks and false fronts, but the galleries and food are the real reason to come.

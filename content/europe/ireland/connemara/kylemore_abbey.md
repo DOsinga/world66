@@ -16,6 +16,7 @@ story: >
   cathedral in her memory on the grounds — and was buried beside her there
   when he died. The Benedictine nuns who arrived in 1920 still maintain both
   the abbey and the walled garden.
+score: 8.8
 ---
 
 Kylemore Abbey stands on the wooded shore of Kylemore Lough, its castle-like facade perfectly mirrored in the water below. It is the most photographed building in Connemara, and the view from the main road — grey stone towers and turrets reflected in the dark lough with the Twelve Bens rising behind — is one of the genuinely iconic images of Ireland.

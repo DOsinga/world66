@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - centre
+score: 5.9
 ---
 
 Tukay Square (Ploshchad Tukaya) sits at the southern end of Bauman Street and marks the junction between the historic centre and the Old Tatar Quarter on the far side of the Bolaq canal. The square is named for Gabdulla Tukay, the Tatar national poet, and a statue of him stands at the centre.

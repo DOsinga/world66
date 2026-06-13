@@ -9,6 +9,7 @@ latitude: 11.8156
 longitude: 99.7983
 story: >
   The name means "Mirror Mountain" — the hill has a natural hole through which the sky is visible, as if reflected in a mirror. King Mongkut (Rama IV) discovered the optical effect during a visit in the 19th century and ordered a temple built on the summit to honour it.
+score: 8.3
 ---
 
 The most prominent landmark in Prachuap Khiri Khan town, Khao Chong Krachok is a steep limestone hill that rises directly behind the northern end of the bay. A staircase of 396 steps leads up to the temple complex at the summit, Wat Thamikaram, which offers panoramic views over the bay, the limestone peaks to the north and south, and the narrowest point of mainland Thailand — just 12 kilometres separating the Gulf of Thailand from the Burmese border.

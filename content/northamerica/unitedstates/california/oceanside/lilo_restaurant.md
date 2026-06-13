@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 33.1644
 longitude: -117.3514
+score: 7.1
 ---
 
 Lilo is a restaurant in the Carlsbad border area of south Oceanside, known for its Southeast Asian-inflected cooking and good natural wine selection. It sits in a small shopping centre but the cooking is ambitious — Vietnamese, Thai, and Filipino influences woven through local California ingredients, with a commitment to small producers and seasonal menus.

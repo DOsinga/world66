@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 30.3108
 longitude: 130.6431
+score: 6.8
 ---
 
 Senpiro Falls drops about 60 metres over a broad granite face in the eastern part of Yakushima, with the white water fanning out across the rock rather than falling in a single column. The falls are visible from the road, making them the most accessible major waterfall on the island — most visitors park roadside and walk a few minutes to the viewpoint. When the river is in full spate after rain, the spectacle is considerable.

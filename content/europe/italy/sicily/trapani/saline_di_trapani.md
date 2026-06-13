@@ -10,6 +10,7 @@ story: >
   Salt from these pans was traded across the Mediterranean for centuries and was one of Trapani's primary exports during the medieval period, when Trapani salt reached the tables of northern Europe and was used to preserve the cod caught off the coast of Norway. The ancient windmills that once dotted the landscape were used to pump water between the pans; several have been restored and can be visited.
 sources:
   - https://en.wikipedia.org/wiki/Riserva_naturale_integrale_Saline_di_Trapani_e_Paceco
+score: 8.8
 ---
 
 The salt pans between Trapani and Marsala are a remarkable landscape — a series of shallow rectangular basins separated by low earthen walls, with old stone windmills rising at intervals above the flat terrain. The Riserva Naturale Saline di Trapani e Paceco is a protected nature reserve and the salt pans are still actively worked: the salt harvest (raccolto del sale) takes place in summer, when the crystals accumulate in the shallow pans and are piled into white heaps by workers using traditional wooden tools.

@@ -6,6 +6,7 @@ longitude: 2.3990
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 Fidjrosse is Cotonou's main beach, a long stretch of Atlantic coastline about 5 km west of the city centre. It is not a pristine tropical beach — the Atlantic here has a powerful undertow and the surf is rough, making swimming genuinely dangerous at certain times of year. But it is lively and local: on weekends, families set up under beach umbrellas, fishermen drag in heavy wooden pirogues through the surf, and vendors work the sand selling grilled corn, cold beer, and iced coconut.

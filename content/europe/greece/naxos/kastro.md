@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 37.1055
 longitude: 25.3755
+score: 8.6
 ---
 
 The Kastro is the fortified hilltop quarter that Marco Sanudo, the first Duke of the Archipelago, built after the Fourth Crusade delivered the Aegean to Venetian hands in 1207. Sanudo chose Naxos as the capital of his new island duchy, and the walled town he raised on the hill above the port lasted — with modifications — for the next three centuries. What you walk through today is one of the best-preserved medieval settlements in Greece, inhabited without interruption since the 13th century.

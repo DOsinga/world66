@@ -14,6 +14,7 @@ story: >
   as the main location. The line had closed to passengers in 1961 and was already
   being preserved by volunteers when the film was made; the production helped give
   the line national recognition and boosted the early preservation effort.
+score: 9.0
 ---
 
 The Keighley and Worth Valley Railway is one of Britain's best-loved preserved steam lines — a 5-mile branch that runs from Keighley's main station through the Worth Valley to Oxenhope, stopping at Ingrow, Damems, Oakworth, Haworth, and Mytholmes along the way. Volunteers have operated the line since 1968, and the stations and rolling stock have been kept in period condition throughout.

@@ -7,6 +7,7 @@ tags:
 latitude: 58.9605
 longitude: -3.2962
 snippet: "Small evening restaurant on the Stromness waterfront"
+score: 6.7
 ---
 
 A small evening-only restaurant in a converted house on the Stromness harbour, Hamnavoe is one of Orkney's best places for seafood. The menu changes constantly with what is landed locally — scallops, monkfish, lobster, halibut, the day's white fish — cooked unfussily and beautifully presented.

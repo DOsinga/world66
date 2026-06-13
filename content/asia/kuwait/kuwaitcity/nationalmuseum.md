@@ -14,6 +14,7 @@ tags:
 - museum
 title: National Museum
 type: poi
+score: 8.2
 ---
 
 Located near the National Assembly on the Seif, the Kuwait National Museum comprises four buildings and a planetarium. Its centrepiece is the As-Sabah collection of Islamic Art, one of the most comprehensive in the world. Other buildings house pearl-diving relics, ethnographic artefacts, and archaeological material from excavations on Failaka Island.

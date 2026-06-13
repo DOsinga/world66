@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Larger forested island with rocky shore and a basic eco-lodge
+score: 7.1
 ---
 
 The larger of the two main islands, mostly forested and ringed by rocky shoreline rather than sand. A single low-key eco-lodge operates on the south coast — the only non-Garifuna accommodation in the archipelago. Most visitors stop briefly for a guided walk along the trails or to snorkel offshore.

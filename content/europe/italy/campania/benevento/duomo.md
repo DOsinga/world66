@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Duomo di Benevento
 type: poi
+score: 7.2
 ---
 
 Benevento's cathedral has been rebuilt so many times — after earthquake, plague, and Allied bombing in 1943 — that it is now a patchwork of centuries. The core of the building is 7th century, the current facade a cautious 20th-century reconstruction. What survived the 1943 bombing and subsequent restoration is the extraordinary bronze door, cast in the 12th century with 72 panels arranged in four columns. Each panel depicts a scene from biblical history or local church history, rendered in a naive but expressive style that repays close looking. The door is one of the finest examples of medieval metalwork in Italy.

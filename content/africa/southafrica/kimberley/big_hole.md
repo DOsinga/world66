@@ -9,6 +9,7 @@ latitude: -28.7389
 longitude: 24.7589
 story: >
   The Big Hole was dug entirely by hand — pick, shovel, and wheelbarrow — by a workforce that peaked at 50,000 diggers on a single claim site. Between 1871 and 1914 they removed 22.5 million tons of earth and rock, recovering around 2,722 kilograms of diamonds. At its deepest point the pit reached 240 metres below the original surface.
+score: 9.1
 ---
 
 The Big Hole is the largest hand-dug excavation on earth — a vast pit cut into the hard rock of the Northern Cape over four decades of frenzied diamond mining. Standing at the viewing platform on the edge, the scale takes a moment to register. The hole is roughly 800 metres across at the surface and drops away into a flooded blue-green pool that fills the lowest section, eerie and still in the heat.

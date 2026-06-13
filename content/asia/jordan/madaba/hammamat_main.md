@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.5950
 longitude: 35.5800
+score: 7.4
 ---
 
 The Ma'in hot springs lie in a dramatic desert canyon about 30 km southwest of Madaba, where water heated by deep volcanic activity bubbles out at around 63°C and tumbles down a series of small waterfalls. Bedouin families have used them since antiquity; Herod the Great is said to have come here to bathe.

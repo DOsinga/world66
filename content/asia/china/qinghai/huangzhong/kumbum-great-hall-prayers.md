@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.4812
 longitude: 101.5993
+score: 8.2
 ---
 
 The Hall of Great Prayers is the largest building in the monastery, a massive whitewashed structure that can accommodate hundreds of monks for simultaneous prayer sessions. It houses several important objects, including thangka embroideries of exceptional size and quality that are unrolled from the walls during major ceremonies. The golden reliquary said to contain Tsongkhapa's hair occupies a place of honour.

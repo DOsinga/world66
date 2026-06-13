@@ -9,6 +9,7 @@ latitude: 25.7953
 longitude: -80.1314
 sources:
   - https://en.wikipedia.org/wiki/Collins_Waterfront_Architectural_District
+score: 8.0
 ---
 
 The Collins Waterfront Architectural District covers the stretch of Collins Avenue from roughly 20th to 30th Street in Mid-Beach, where a concentration of 1940s–60s hotels represents the later wave of Miami Beach modernism. Where South Beach's Art Deco hotels are from the 1930s, these buildings reflect the postwar optimism of a different era: taller, bolder, with Miami Modern (MiMo) flourishes including butterfly roofs, brise-soleils, and cantilevered marquees.

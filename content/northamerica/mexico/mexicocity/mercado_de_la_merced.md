@@ -6,6 +6,7 @@ tags: [things_to_do, market, shopping, centro_historico]
 neighbourhood: Centro Histórico
 latitude: 19.4257
 longitude: -99.1247
+score: 8.2
 ---
 
 La Merced is the biggest of Mexico City's covered markets, occupying several blocks just east of the Zócalo. It is the principal wholesale point for fresh produce in the city, with hundreds of stalls selling everything from dried chillies, moles, and herbs to whole pigs' heads, mountains of nopal cactus paddles, and twenty varieties of mango.

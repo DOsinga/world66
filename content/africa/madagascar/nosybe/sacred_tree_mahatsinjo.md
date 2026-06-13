@@ -9,6 +9,7 @@ tags:
   - sight
   - sacred_site
 story: "Queen Tsiomeko of the Sakalava — the seven-year-old monarch who put Nosy Be under French protection — is said to have planted the original tree in 1836. Two centuries of aerial roots have grown into trunks of their own, so the 'tree' is now an interlocking grove of dozens of trunks all genetically one plant."
+score: 7.3
 ---
 
 In a clearing near the village of Mahatsinjo, in the centre of Nosy Be, stands an enormous banyan that has spread from a single tree planted in the 19th century into a small forest of interconnected trunks. The site is sacred to the Sakalava and the surrounding clearing is used for ceremonies and offerings — visitors must walk barefoot inside the inner zone.

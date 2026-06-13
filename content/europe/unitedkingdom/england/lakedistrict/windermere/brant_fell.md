@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
 snippet: "191-metre summit above Bowness with a long view down the lake"
+score: 7.8
 ---
 
 Brant Fell, the modest 191-metre hill that rises directly behind Bowness, is the best short walk on the southern side of the resort area. The summit cairn looks straight down the long axis of Windermere, with the lake stretching out for kilometres towards the southern reaches and the Coniston Fells filling the western horizon.

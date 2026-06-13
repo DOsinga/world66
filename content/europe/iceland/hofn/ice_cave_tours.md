@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Natural ice caves inside Vatnajökull with extraordinary blue ceilings, accessible November to March
+score: 8.7
 ---
 
 Every winter, as temperatures drop, natural ice caves form inside the glaciers around Vatnajökull. The caves that develop in the outlet glaciers accessible from Höfn are among the most impressive in Iceland — vaulted chambers of compressed glacial ice in shades of blue from powder to deep cobalt, sculpted by meltwater into shapes that change from one season to the next. The silence inside, broken only by the creak of the ice, is unlike anything above ground.

@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 45.2700
 longitude: 24.3200
+score: 8.0
 ---
 
 Cozia National Park covers roughly 17,000 hectares of the Southern Carpathians above the Olt gorge, protecting old-growth beech and mixed forests, limestone cliffs, and alpine meadows. The park's marked hiking network ranges from easy riverside walks to strenuous ridge routes with views over the Olt Valley and deeper into the mountains. The Cozia peak at 1,668 metres is the most popular summit, reached by a trail from Căciulata in around three hours.

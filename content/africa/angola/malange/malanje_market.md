@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, shopping, sight]
 latitude: -9.5380
 longitude: 16.3470
+score: 6.7
 ---
 
 The main municipal market is where Malanje does its daily business — stalls of dried fish, palm oil, cassava flour, tomatoes, peppers, bananas, second-hand clothes, plastic everything. It is loud, crowded, and the most useful place in town for a feel of how the city actually runs.

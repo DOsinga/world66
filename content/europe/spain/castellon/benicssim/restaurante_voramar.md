@@ -9,6 +9,7 @@ tags:
 - seafood
 title: Restaurante Voramar
 type: poi
+score: 6.4
 ---
 
 The restaurant of the 1934 Hotel Voramar, in a fine Art Deco building that sits with its feet almost in the sand at the north end of Benicàssim. The kitchen is one of the best on this stretch of coast for Valencian rice dishes — wood-fired paella, **arroz a banda**, **arroz negro**, fideuá — all to be eaten outside on the broad terrace with the Mediterranean a few metres away.

@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Pharmacy_Museum,_Lviv
 story: >
   The pharmacy that now houses the museum was first documented in the 16th century, making it one of the oldest continuously operating apothecaries in Eastern Europe. By the 18th century it was one of the most respected pharmacies in the Habsburg Empire. The museum keeps the original wooden shelving, alembics, and medicine chests largely intact, giving visitors the impression of stepping into a working apothecary from two hundred years ago.
+score: 7.3
 ---
 
 The Pharmacy Museum occupies the building of the Under the Black Eagle pharmacy on the corner of Rynok Square, an establishment that operated from at least the 18th century until well into the Soviet period. The museum opened in 1966 and has kept much of the original interior furniture and fittings: tall walnut cabinets filled with medicine jars, a working laboratory with antique distillation equipment, and rooms dedicated to the history of pharmaceutical science.

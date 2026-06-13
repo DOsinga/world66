@@ -6,6 +6,7 @@ longitude: 13.6492
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 The late-Gothic parish church of Maria am Berg, perched on a small terrace above the village, is the structure that gives Hallstatt its instantly recognisable skyline. The current building dates from the 15th and 16th centuries, replacing an earlier Romanesque chapel, and rises with a slim white spire above coloured houses cut into the cliff.

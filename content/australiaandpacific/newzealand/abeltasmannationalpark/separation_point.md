@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.5
 ---
 
 Separation Point — Te Matau in Māori — marks the northern tip of the park, the geographic divide between Tasman Bay and Golden Bay. The point is reached by a 90-minute round-trip walk from the Coast Track between Whariwharangi and Totaranui, and rewards you with one of the few open ocean viewpoints in the park.

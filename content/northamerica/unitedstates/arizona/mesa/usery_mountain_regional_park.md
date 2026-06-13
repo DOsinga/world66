@@ -9,6 +9,7 @@ latitude: 33.4748
 longitude: -111.6213
 story: >
   Wind Cave, the park's most popular destination, is not actually a cave. It is a rocky hollow eroded into the basalt cliff face by wind and water, sitting about 150 metres above the desert floor. From inside the hollow you look straight out across the Salt River Valley — a view Hohokam people would have had standing in exactly the same spot a thousand years ago.
+score: 7.7
 ---
 
 Usery Mountain Regional Park sits at the eastern edge of Mesa, where the suburban grid gives way abruptly to the Sonoran Desert. The park covers 3,600 acres of desert and low mountain terrain, threaded by 29 miles of hiking and mountain biking trails ranging from a flat nature walk to serious technical singletrack.

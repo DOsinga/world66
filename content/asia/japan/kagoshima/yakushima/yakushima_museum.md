@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 30.4258
 longitude: 130.5721
+score: 6.9
 ---
 
 The Yakushima Environmental Cultural Village Centre (Yakushima Kankyo Bunka Mura Centre) in Miyanoura port town is the best introduction to the island's ecology before heading into the forest. A large wraparound cinema screen shows an immersive film about Yakushima's landscapes, seasons, and wildlife that gives visitors a sense of the island's full range — from the tropical coastline to the alpine summit — in a single 20-minute session.

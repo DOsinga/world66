@@ -7,6 +7,7 @@ snippet: A museum dedicated to bullfighting culture, near the Arena
 tags:
 - things_to_do
 - museum
+score: 5.8
 ---
 
 The Musée des Cultures Taurines, on Rue Alexandre Ducros, is dedicated to the bullfighting traditions that animate the city during the twice-yearly Feria. The collection covers both the Spanish corrida and the Provençal-style course camarguaise, with costumes, paintings, photographs, and the equipment of the trade.

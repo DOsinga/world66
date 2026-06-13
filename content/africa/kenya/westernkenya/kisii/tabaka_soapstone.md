@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Tabaka is the only commercial source of pink and grey soapstone in Africa. The Gusii have been carving it for at least two centuries, originally for cooking pots and ritual pipes. Today the village's carvers export to fair-trade shops in Europe and the United States, and most foreign buyers never realise their candle-holders and chess sets started life as a chunk of Kenyan hillside."
+score: 8.3
 ---
 
 Tabaka, about 20 km west of Kisii, is where the Gusii soapstone famous across East Africa is dug out of the ground and carved into bowls, animals, chess sets, candle holders, eggs and figurines. The hills around the village are pitted with small open-cast workings — men hammer chunks of stone out of the soft rock, women and children polish and smooth the rough carvings with sand and water in their compounds.

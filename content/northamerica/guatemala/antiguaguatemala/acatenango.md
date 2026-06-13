@@ -12,6 +12,7 @@ story: >
   summit camp at around 3,800 metres, has become one of the signature images
   of Guatemalan adventure travel — shared millions of times by trekkers who
   spent the night in a tent shaking from the detonations.
+score: 9.3
 ---
 
 Acatenango (3,976 metres) is the overnight volcano trek that draws adventurous travellers to Antigua. The climb takes four to six hours up steep, ashy trails through cloud forest and above the treeline. Most operators run overnight trips: you camp near the summit, watching the neighbouring Volcán de Fuego erupt through the night — explosions that shake the ground every thirty minutes or so, sending plumes of ash and glowing lava into the darkness. Dawn reveals a panorama that can stretch from the Pacific to the Caribbean on a clear day.

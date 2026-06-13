@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Hawa Mahal
 type: poi
+score: 8.0
 ---
 
 The "Palace of the Winds" — the five-storey pink sandstone façade with 953 latticed windows, built in 1799 so the women of the royal household could watch street processions without being seen. The best view is from the street; inside, narrow ramps wind between the screens. Go at dawn when the rising sun turns the façade bright pink.

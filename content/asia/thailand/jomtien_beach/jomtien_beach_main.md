@@ -7,6 +7,7 @@ tags:
 latitude: 12.8958
 longitude: 100.8731
 story: "Jomtien only became a tourist destination in the early 1980s, when American GIs on leave from Vietnam discovered that the long stretch of sand south of Pattaya was emptier and cleaner than the main beach. The first beachfront hotels went up in the late seventies; by 2000 the place had developed into a parallel resort with its own distinct character — slower, more residential, friendlier to long-stayers."
+score: 6.6
 ---
 
 The beach itself is six kilometres of mostly clean yellow sand stretching south from Pattaya, separated from the bigger resort by a low headland. Compared with Pattaya, it feels orderly and pleasant: a wide pavement runs the full length, the loungers under their hired umbrellas come at fixed prices, and the sea is usually swimmable.

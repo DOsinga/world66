@@ -8,6 +8,7 @@ tags:
   - sight
   - garden
 snippet: "A Meiji-era reception hall built in 1887 to host the Emperor, now open to the public and celebrated for its plum blossoms in February."
+score: 7.4
 ---
 
 **Keiunkan** (慶雲館) is a dignified Western-influenced building completed in 1887 at the personal initiative of local entrepreneurs who wanted to ensure the Emperor Meiji had a suitable residence when passing through Nagahama on imperial tours of the region. The emperor stayed here three times; the building later served various civic functions before being restored and opened to the public as an exhibition hall and garden.

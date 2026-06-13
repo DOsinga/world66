@@ -6,6 +6,7 @@ longitude: 174.0911
 tags:
 - things_to_do
 - sight
+score: 5.8
 ---
 
 Paihia is the main base for visiting the bay — a small waterfront town with a long wharf, a strip of cafés and tour kiosks, and a curving beach of golden sand. Most boat trips depart from here, and the i-Site visitor centre on Marsden Road sells just about every cruise, tour and bus ticket you might need.

@@ -10,6 +10,7 @@ tags:
 - kreuzberg
 title: Privat Club
 type: poi
+score: 6.6
 ---
 
 Tucked inside the old Markthalle IX building in Kreuzberg, Privatclub draws a mixed crowd of locals and visitors who come for the reliably good DJ sets. The music ranges from indie and electro to hip-hop depending on the night, and the vibe stays unpretentious despite the club's growing reputation.

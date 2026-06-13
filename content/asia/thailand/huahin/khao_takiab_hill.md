@@ -13,6 +13,7 @@ story: >
   sunglasses if given the opportunity. Local vendors sell bags of food to
   tempt the monkeys, which does not help. The advice is to keep bags closed,
   avoid eye contact, and enjoy them from a respectful distance.
+score: 8.0
 ---
 
 Khao Takiab (Chopstick Hill) is a forested limestone hill at the southern end of Hua Hin's beach, crowned by a large golden Buddha statue visible from far along the coast. The hill is covered with temples and shrines, and home to a troop of monkeys who have made themselves thoroughly at home among the sacred buildings.

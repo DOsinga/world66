@@ -9,6 +9,7 @@ tags:
   - architecture
 neighbourhood: Centro Histórico
 story: "In the great hall of the Bolsa, painted on the ceiling above the trading floor, is a vast canvas by Benedito Calixto showing the founding of São Vicente. The painters worked from scaffolding suspended over the heads of the brokers shouting bids below — trading carried on uninterrupted while the ceiling was being completed."
+score: 9.2
 ---
 
 The Bolsa Oficial de Café, the old coffee exchange building in the historic centre, is the single most impressive interior in Santos. Built between 1920 and 1922 in a heavy Beaux-Arts style, it has a vast trading hall with stained-glass skylights, marble floors, and a painted ceiling depicting the history of the region. For decades, the price of much of the world's coffee was set in this room.

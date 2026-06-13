@@ -7,6 +7,7 @@ tags:
 address: "6a Calle Final, Zona 10, Universidad Francisco Marroquín, Guatemala City"
 latitude: 14.6058
 longitude: -90.4921
+score: 8.3
 ---
 
 The Ixchel Museum of Indigenous Dress, on the campus of Universidad Francisco Marroquín in Zona 10, documents the extraordinary textile tradition of Guatemala's Maya communities. The collection covers hundreds of huipiles (woven blouses), cortes (wrapped skirts), ceremonial textiles, and woven items from communities across the country, arranged to show how each town or village has its own distinctive patterns, colours, and weaving techniques.

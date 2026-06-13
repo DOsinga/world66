@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - outdoor
+score: 6.8
 ---
 
 Lake Väsman stretches northwest from Ludvika, a long, forest-fringed body of water that gives the town its lakeside aspect. There are several public swimming spots along the eastern shore, fishing for pike and perch, and a couple of small boat hires in summer. In winter it freezes solid enough for skating, with marked tracks on the ice.

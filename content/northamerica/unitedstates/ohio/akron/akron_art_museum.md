@@ -13,6 +13,7 @@ story: >-
   and "the Roof Cloud" by everyone else in town — a 327-foot steel-and-glass
   cantilever that hovers above Market Street and lights up in changing colours
   after dark. It is the only Coop Himmelb(l)au building in the United States.
+score: 8.1
 ---
 
 The Akron Art Museum holds a small but consistently strong collection of American art from 1850 to the present — Hopper, Sloan, Hartley, Andy Warhol's *Portrait of Knight Kiplinger Sr.*, photography by Berenice Abbott, Chuck Close, and Cindy Sherman. The temporary exhibition programme is more ambitious than the city's size would predict.

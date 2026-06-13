@@ -7,6 +7,7 @@ tags:
 latitude: 49.2796
 longitude: -122.7985
 snippet: A large shopping mall in central Coquitlam, with about 200 stores
+score: 4.2
 ---
 
 Coquitlam Centre is one of the larger enclosed shopping malls in the Vancouver area, with about 200 stores spread over two levels. It opened in 1979 and has been expanded and renovated several times — most significantly in 2007 with the addition of the food court and the western wing. The anchor stores are Hudson's Bay, Walmart and a multi-screen cinema; the rest of the mix is national-chain fashion and electronics retail, with a good representation of Canadian brands (Roots, Aritzia, Lululemon).

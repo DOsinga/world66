@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - village
+score: 7.6
 ---
 
 Chenini Gabès is not the famous troglodyte village of the south — that one is near Tataouine. This Chenini is the oasis village folded into the palm grove of Gabès, on the inland edge of the city. It is the most attractive corner of greater Gabès, with whitewashed houses, blue-painted doors, and lanes that wind under palm fronds.

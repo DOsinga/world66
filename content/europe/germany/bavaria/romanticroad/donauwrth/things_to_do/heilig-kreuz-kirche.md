@@ -1,6 +1,7 @@
 ---
 title: "Heilig-Kreuz-Kirche"
 type: poi
+score: 8.1
 ---
 
 The Holy Cross Church stands at the top of the old town, and its Baroque interior is one of the most lavish in the region — extravagant even by the high standards of south German ecclesiastical decoration. It was built between 1717 and 1720 by the Vorarlberg school, a network of builders and craftsmen from western Austria who spread the south German Baroque style across the region in the early eighteenth century. The stucco work is elaborate, the frescoes expansive, and the whole interior has a theatrical confidence that reflects the building's significance.

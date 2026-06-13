@@ -11,6 +11,7 @@ story: >
   In April 2007, the Estonian government moved the Bronze Soldier from its original location in the city centre to the Tallinn Military Cemetery, where Soviet war graves surround it. The relocation triggered two days of rioting in Tallinn, primarily by ethnic Russians, and a sustained cyberattack on Estonian government websites that security experts later described as the first major state-sponsored cyber conflict in history. Russia called the move a desecration; Estonia called it a respectful reinterment.
 sources:
   - https://en.wikipedia.org/wiki/Bronze_Soldier_of_Tallinn
+score: 7.5
 ---
 
 The Bronze Soldier is a Soviet-era war memorial — a bronze figure of a grieving soldier — that has become the most politically charged monument in Estonia. Originally erected in 1947 at Tõnismägi in the city centre, it marked a Soviet war grave and was the focus of Russian-speaking communities' commemorations.

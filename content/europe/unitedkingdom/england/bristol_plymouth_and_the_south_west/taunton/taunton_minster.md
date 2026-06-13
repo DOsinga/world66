@@ -11,6 +11,7 @@ story: At 49 metres, the tower of St Mary Magdalene is the tallest parish-church
   tower in Somerset and one of the most elaborate in England. It was assembled stone
   by stone in the late fifteenth century, then completely rebuilt in 1858 because
   the original was unstable.
+score: 8.2
 ---
 
 Taunton Minster — formally St Mary Magdalene — is the parish church at the heart of the town. The current building dates mostly from the fifteenth century, but its glory is the soaring tower, rebuilt in 1858 to the original Perpendicular Gothic design. Tier after tier of arcading rises to crocketted pinnacles; the proportions are unforgettable.

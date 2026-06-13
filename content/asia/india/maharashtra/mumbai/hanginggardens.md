@@ -10,6 +10,7 @@ tags:
 - park
 title: Hanging Gardens
 type: poi
+score: 5.8
 ---
 
 Terraced gardens on the western slope of Malabar Hill, laid out in the late 19th century over the city's covered water reservoir. The gardens are known for their topiary animals and offer views over the Arabian Sea. Directly opposite is Kamala Nehru Park, with better views of the bay and Marine Drive. The area is a pleasant escape from the urban density below.

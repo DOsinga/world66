@@ -8,6 +8,7 @@ tags:
 title: Wicklow Mountains & Glendalough
 type: poi
 url: https://www.wicklowmountainsnationalpark.ie
+score: 8.9
 ---
 
 The Wicklow Mountains begin barely 20 kilometres south of Dublin city centre and feel like a different world. The national park covers 200 square kilometres of bog, heather moorland, granite peaks, and wooded glens. The Military Road — built after the 1798 rebellion to flush out insurgents hiding in the hills — runs south through the heart of the park and makes for a dramatic drive.

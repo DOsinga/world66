@@ -8,6 +8,7 @@ tags:
 latitude: 12.053465
 longitude: -61.752135
 address: Church Street, St. George's
+score: 7.1
 ---
 
 The Catholic cathedral on Church Street dates from 1818, rebuilt after the original was destroyed by fire. It sits beside York House (the parliament building) on a ridge above the Carenage, and its twin towers are one of the defining images of St. George's seen from the harbour. The interior is cool and relatively plain — whitewashed walls, dark wooden pews — but the scale feels right for an island capital.

@@ -9,6 +9,7 @@ story: >
   Koguva was the childhood home of Estonian writer Juhan Smuul, whose 1961 Antarctic diary made
   him famous. The village has changed so little since his childhood in the 1920s that photos from
   that era could be taken in the same spot today.
+score: 8.3
 ---
 
 Koguva sits at Muhu's western tip where the island begins to dissolve into reeds and shallow sea. The village is a cluster of thatched limestone farmsteads arranged in the unhurried way of a settlement that grew organically over centuries, with stone walls between plots, smoke saunas behind the main houses, and fishing equipment that looks like it might still be in use. Several of the farms are open as an open-air museum, their interiors preserved as they were in the early 20th century: hand-looms, wooden furniture, dried herbs hanging from low ceilings. The sea is visible through juniper scrub at the village edge, grey-green and close.

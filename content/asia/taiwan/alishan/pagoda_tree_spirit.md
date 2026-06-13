@@ -8,6 +8,7 @@ latitude: 23.519
 longitude: 120.8083
 story: >
   The pagoda was built directly on the stump of an ancient cypress that was felled during Japanese-era logging — a monument to placate the spirit of the tree. This idea of tree spirits (神木, shénmù) requiring appeasement is woven through the Tsou and later Chinese folk beliefs of the Alishan area, and the pagoda is one of the more literal expressions of it: an apology in architecture.
+score: 6.6
 ---
 
 The Tree Spirit Pagoda (受鎮宮) stands atop the enormous stump of an ancient cypress tree in the Shenmu area, built as an offering to the spirit of the felled tree. The structure is small and unpretentious — a simple multi-tiered pagoda planted on what was once living wood — but the story behind it has an unusual poignancy.

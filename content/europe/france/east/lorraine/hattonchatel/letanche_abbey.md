@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/L%27%C3%89tanche_Abbey,_Lorraine
 story: >
   The abbey was founded in the 12th century by Premonstratensian canons — an order that favoured remote, marshy locations as a form of penitential hardship. L'Étanche (roughly "the sealed-up place") was chosen for exactly this quality: boggy ground, low-lying, surrounded by woods. The community survived until the Revolution, when the monks were dispersed and the buildings sold off for building stone.
+score: 6.2
 ---
 
 About four kilometres southwest of Hattonchâtel, at the edge of the Woëvre plain, stand the partial remains of L'Étanche Abbey, a 12th-century Premonstratensian monastery. What survives is fragmentary — sections of wall, part of an arch, overgrown earthworks — but the setting in a hollow of meadow and woodland is evocative.

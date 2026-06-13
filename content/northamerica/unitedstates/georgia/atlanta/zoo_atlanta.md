@@ -9,6 +9,7 @@ tags:
 - sight
 title: Zoo Atlanta
 type: poi
+score: 7.0
 ---
 
 A well-regarded zoo in Grant Park, best known for its giant pandas — one of only four US zoos to house them. The gorilla and orangutan habitats are spacious and the animals are visible. Open Monday to Friday 10am–4:30pm, with extended weekend hours.

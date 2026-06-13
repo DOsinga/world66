@@ -8,6 +8,7 @@ tags:
   - sight
   - waterfall
 story: "The pool at the base of the falls is the colour of swimming-pool tile because of the high concentration of quartz in the streambed scattering the light. It is the most photographed waterfall in the Chapada dos Veadeiros and the de facto symbol of the Kalunga quilombola territory it sits inside."
+score: 9.2
 ---
 
 Cachoeira Santa Bárbara is the most spectacular waterfall in the Cavalcante area — a 50-metre cascade dropping into a perfectly turquoise pool surrounded by sheer rock walls. It lies inside the **Kalunga quilombola territory** at Engenho II, about 30 km north of Cavalcante on a rough dirt road.

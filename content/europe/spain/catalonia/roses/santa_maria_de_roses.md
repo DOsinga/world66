@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 The ruins of the Lombard Romanesque monastery of Santa Maria, inside the Ciutadella, are some of the most evocative parts of the citadel walk. Founded in the eleventh century by Benedictine monks from northern Italy, the church was once a substantial three-aisled basilica with a stout crossing tower.

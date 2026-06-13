@@ -7,6 +7,7 @@ tags:
   - kazimierz
 latitude: 50.0508
 longitude: 19.9476
+score: 7.8
 ---
 
 The Galicia Jewish Museum in Kazimierz is a photography-based museum founded by the British photographer Chris Schwarz, who spent fifteen years documenting the remnants of Jewish civilization in the Galicia region — southern Poland and western Ukraine — in all its variety: ruined synagogues and overgrown cemeteries, but also surviving communities, restored buildings, and places where Jewish memory is being actively preserved.

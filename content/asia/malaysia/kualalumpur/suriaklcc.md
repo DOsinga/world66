@@ -6,6 +6,7 @@ longitude: 101.7117
 tags:
   - shopping
   - klcc
+score: 5.3
 ---
 
 The six-storey shopping centre wrapped around the base of the Petronas Towers, and one of the most-visited malls in Southeast Asia. The tenant list runs from the obvious global luxury brands (Louis Vuitton, Chanel, Hermès) through mid-market international (Zara, Uniqlo, H&M) to a strong Malaysian craft and gift selection on the upper floors. The Isetan and Parkson department stores anchor the ends.

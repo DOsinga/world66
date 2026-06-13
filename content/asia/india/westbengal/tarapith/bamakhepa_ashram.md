@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.1128
 longitude: 87.7968
+score: 7.0
 ---
 
 The ashram of Bamakhepa sits a short walk from the Tara temple, in a quieter lane away from the main pilgrimage press. The buildings are modest — a central shrine room with the saint's image, a small courtyard, residential quarters for resident sadhus — but the place carries the atmosphere of long habitation and practice.

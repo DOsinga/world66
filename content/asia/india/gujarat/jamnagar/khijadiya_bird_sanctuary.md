@@ -8,6 +8,7 @@ tags:
 - wildlife
 title: Khijadiya Bird Sanctuary
 type: poi
+score: 7.6
 ---
 
 About 10 km east of Jamnagar, the Khijadiya Bird Sanctuary protects an unusual habitat: a mosaic of freshwater wetlands, salt-pans, mangroves, and creeks where the Ruparel and Kalindri rivers meet the Gulf of Kutch. The mix of fresh and salt water draws large numbers of birds, particularly between October and March when migratory species pass through.

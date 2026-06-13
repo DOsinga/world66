@@ -7,6 +7,7 @@ tags:
 latitude: 59.4371
 longitude: 24.7388
 snippet: Two viewpoints on Toompea Hill with panoramic views over the Old Town rooftops
+score: 8.0
 ---
 
 Toompea Hill has two main viewing terraces that offer the classic Tallinn views: Kohtuotsa and Patkuli. Both look down over the terra-cotta rooftops of the lower Old Town toward the port and the sea beyond, with St. Olaf's spire rising above the medieval roofline and the glass towers of the business district visible to the left.

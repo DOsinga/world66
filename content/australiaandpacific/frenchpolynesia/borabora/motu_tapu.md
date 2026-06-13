@@ -8,6 +8,7 @@ tags:
   - beaches
 latitude: -16.5047
 longitude: -151.7767
+score: 8.3
 ---
 
 The most photogenic of Bora Bora's reef islets, Motu Tapu is a tiny private island of white sand and coconut palms on the western side of the lagoon, with the peaks of Otemanu and Pahia rising dramatically across the water behind it. The view from the beach at Motu Tapu — turquoise lagoon in the foreground, jagged volcanic peaks behind — is one of the most reproduced images in French Polynesia.

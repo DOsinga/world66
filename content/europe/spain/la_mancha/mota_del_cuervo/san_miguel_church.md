@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.1
 ---
 
 The parish church of San Miguel stands at the heart of Mota del Cuervo's old town, its tower visible from the surrounding plain almost as clearly as the windmills on the ridge above. The building is largely from the sixteenth and seventeenth centuries, constructed in the sober Castilian style typical of La Mancha — thick stone walls, minimal exterior ornament, and an interior that focuses attention on the altar rather than the architecture surrounding it. The tower, added in the eighteenth century, is the most distinctive feature from the outside.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The roadside lay-by where the famous human face on the rock is best seen"
+score: 7.2
 ---
 
 The simplest way to see the so-called "face" on Zuma Rock is from one of the lay-bys on the southern side of the expressway between Madalla and the rock itself. Pull off the road, walk a few paces into the scrub, and the dark vertical shadows on the rock face resolve into the form of a closed-mouthed human profile staring back at the road. Late afternoon, when the western sun rakes across the face, gives the strongest effect.

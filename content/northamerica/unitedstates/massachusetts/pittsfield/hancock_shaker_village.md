@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Hancock_Shaker_Village
 story: >
   The Shakers believed order and beauty were forms of devotion, which is why even ordinary objects at Hancock can feel startlingly modern. Their round stone barn is both a practical farm building and one of the most elegant pieces of rural architecture in New England.
+score: 8.8
 ---
 
 Hancock Shaker Village preserves a former Shaker community just west of Pittsfield. The site includes historic buildings, gardens, craft demonstrations, farm animals, and the famous round stone barn, all set against a broad Berkshire landscape.

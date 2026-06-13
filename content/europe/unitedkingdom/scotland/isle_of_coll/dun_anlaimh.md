@@ -6,6 +6,7 @@ longitude: -6.58493
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Dun Anlaimh is a crannog — an artificial island — in the shallow Loch nan Cinneachan, just off the road in the centre of the island. The remains of a stone causeway lead out from the shore to a small stone-walled enclosure on the islet.

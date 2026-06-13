@@ -10,6 +10,7 @@ tags:
 - asakusa
 title: Bairindo
 type: poi
+score: 6.5
 ---
 
 Traditional candy shop on the Nakamise-dori approach to Senso-ji, in business since 1894. They make handmade Japanese hard candies (amezaiku) and colourful sweets right in the shop. The candy-cutting demonstrations are worth watching — craftsmen shape hot sugar into intricate shapes with scissors and chopsticks. Individual pieces and boxed sets both make good souvenirs.

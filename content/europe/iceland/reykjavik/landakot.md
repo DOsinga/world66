@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Iceland's main Catholic church, a 1929 neo-Gothic basilica on the city's western hill
+score: 7.1
 ---
 
 On a low hill west of the centre stands Landakotskirkja, the cathedral of the Catholic Diocese of Reykjavik. The 1929 design by Guðjón Samúelsson (who later went on to do Hallgrímskirkja) is neo-Gothic in concrete — a curiosity in a country that is overwhelmingly Lutheran.

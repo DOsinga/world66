@@ -1,6 +1,7 @@
 ---
 title: "Salcedo Weekend Market"
 type: poi
+score: 7.2
 ---
 
 The Salcedo Weekend Market, held every Saturday morning in Salcedo Village, is one of the best farmers' markets in Metro Manila. It draws a mix of upscale grocery vendors, artisan food producers, and home cooks selling Filipino regional specialties from across the archipelago. The selection of ready-to-eat food is particularly good: bibingka, longsilog breakfasts, kutsinta, local pastries, and all manner of fresh fruit, vegetables, and cold-pressed juices.

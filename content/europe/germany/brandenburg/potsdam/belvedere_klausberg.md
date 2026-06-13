@@ -15,6 +15,7 @@ story: >
   porch faces east; it was designed to catch the morning light.
 sources:
   - https://en.wikipedia.org/wiki/Belvedere_on_the_Klausberg
+score: 7.5
 ---
 
 The Belvedere auf dem Klausberg is a small Baroque pavilion perched on a wooded hill at the western end of Sanssouci Park, immediately north of the Neues Palais. Built in 1770 for Frederick the Great as a viewing platform over his creation, it offers a remarkable panoramic view east along the full length of the park — the only spot where the entire three-kilometre extent of Sanssouci can be seen in a single glance.

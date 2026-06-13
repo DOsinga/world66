@@ -13,6 +13,7 @@ story: >
   were left standing rather than cleared after 2009 — a deliberate choice, local guides suggest,
   as much as an unfinished one. They stand in the middle of the city as an accidental monument
   to what the conflict cost.
+score: 7.4
 ---
 
 The ruins of the old British administrative building — the Kachcheri — sit right in the centre of Jaffna, a crumbling colonnaded structure that was damaged beyond repair during the civil war and never rebuilt. The arched verandahs and thick walls recall the city's colonial past; the shell damage and collapsed sections speak to its more recent history.

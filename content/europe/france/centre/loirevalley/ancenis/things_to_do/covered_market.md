@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 47.3655
 longitude: -1.1830
+score: 6.4
 ---
 
 The covered market in the centre of Ancenis operates year-round, with its liveliest sessions on Saturday mornings. Stalls sell local produce — goat's cheese from the inland farms, river fish, seasonal vegetables, bread from the boulangeries that ring the square. It is a straightforward French market without tourist frills, which is exactly what makes it pleasant.

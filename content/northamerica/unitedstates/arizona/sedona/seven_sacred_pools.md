@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 34.8902
 longitude: -111.7859
+score: 6.6
 ---
 
 Seven Sacred Pools is a series of natural rock basins carved into a sandstone formation in the Soldier Pass area north of central Sedona, accessible via the Soldier Pass Trail. After rainfall the pools fill with water, creating a series of linked basins in the red rock; in dry periods they are empty but no less atmospheric. The geological process that formed them — differential erosion in a particularly soft layer of sandstone — is the same one responsible for many of Sedona's striking formations.

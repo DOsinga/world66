@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 5.9
 ---
 
 A neoclassical basilica on Toural Square, just south of the historic centre. Construction began in 1737 and dragged on for nearly two centuries — the towers were not finished until 1907 — which is why the proportions feel slightly off.

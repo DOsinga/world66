@@ -10,6 +10,7 @@ tags:
 snippet: Art Deco market hall by the Lachine Canal with excellent cheese, charcuterie, and local produce
 sources:
   - https://en.wikipedia.org/wiki/Atwater_Market
+score: 8.2
 ---
 
 Marché Atwater is the more intimate of Montreal's two major public markets — smaller than Jean-Talon but equally rewarding and easier to reach from downtown. The 1933 Art Deco building on the edge of the Lachine Canal has a distinctive tower visible from the water. Inside and around it: a covered market hall with butchers, cheese vendors (the selection of Québécois cheeses is outstanding), charcuterie, and bakers, plus outdoor produce stalls that run from spring through autumn.

@@ -11,6 +11,7 @@ tags:
 - mellah
 title: Bahia Palace
 type: poi
+score: 8.8
 ---
 
 Built in the 1890s for Si Ahmed ben Moussa, the powerful vizier of Sultan Moulay Hassan, the Bahia Palace was designed to be the greatest palace of its time. The name means "brilliance," and the decorative ambition is clear: carved cedar ceilings, intricate zellij tilework, and a series of courtyards planted with orange trees and flowering shrubs.

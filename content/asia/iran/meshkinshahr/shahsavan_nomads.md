@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.3957
 longitude: 47.6761
+score: 7.3
 ---
 
 The Shahsavan are a pastoral nomadic people who have inhabited the Ardabil highlands and adjacent lowlands for centuries, moving seasonally between summer pastures on the Sabalan massif and winter pastures in the Moghan steppe toward the Caspian coast. Around Meshkinshahr, you can encounter their distinctive round felt tents (alachigh) and their flocks of sheep, goats, and horses, particularly during the spring and autumn migrations.

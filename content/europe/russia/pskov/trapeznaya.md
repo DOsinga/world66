@@ -7,6 +7,7 @@ tags:
 latitude: 57.8215
 longitude: 28.3297
 snippet: Traditional Russian cooking in a vaulted cellar near the kremlin
+score: 4.8
 ---
 
 Trapeznaya occupies a vaulted stone cellar near the Krom and serves dependable traditional Russian food — borsch, pelmeni, blini with various fillings, roasted meats, and the occasional appearance of local fish. The setting is atmospheric without being contrived: heavy tables, candlelight, stone walls. It caters to tourists but the food is genuine and the portions generous.

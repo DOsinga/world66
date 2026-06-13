@@ -6,6 +6,7 @@ tags:
 - museum
 title: Vitus Bering Museum (Berings Hus)
 type: poi
+score: 5.9
 ---
 
 Horsens' most famous son is Vitus Bering (1681–1741), the Danish explorer who led two Russian expeditions to map the northeastern coast of Asia and northwestern North America, and who gave his name to the Bering Strait, Bering Sea, Bering Island, and the Bering Glacier. Bering was born in Horsens but spent most of his adult life in the service of the Russian tsar, dying on Bering Island (now part of Russia's Kamchatka region) during his second expedition.

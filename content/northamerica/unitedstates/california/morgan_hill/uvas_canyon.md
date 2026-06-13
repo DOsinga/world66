@@ -8,6 +8,7 @@ tags:
 - nature
 title: Uvas Canyon County Park
 type: poi
+score: 7.8
 ---
 
 A compact and rewarding county park in the Santa Cruz Mountains about fifteen kilometres southwest of Morgan Hill, where Uvas Creek cuts a wooded canyon of coast redwoods, madrones, and bay laurel. The park is small enough to walk all its trails in a morning, but the waterfall loop makes it worth the detour: a two-mile circuit past six waterfalls and cascades, the best of which are most impressive in winter and spring when water volume is high.

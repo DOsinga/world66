@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 12.7724
 longitude: 45.0376
+score: 7.2
 ---
 
 The National Museum occupies what was the Sultan of Lahej's town palace in Crater, a stone building with Indian-influenced wooden balconies built in the late 19th century. The collection covers Yemeni antiquities — Himyarite and Sabaean inscriptions, alabaster grave stelae, bronze figures — as well as the ethnographic material that was once one of the museum's main strengths.

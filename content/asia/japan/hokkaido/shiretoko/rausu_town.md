@@ -15,6 +15,7 @@ story: >
   remarkably modest compared to what the same crab fetches in Tokyo.
 sources:
   - https://en.wikipedia.org/wiki/Rausu%2C_Hokkaido
+score: 7.1
 ---
 
 Rausu is the main town on the east side of the Shiretoko Peninsula, a real fishing town with a working harbour that processes crab, salmon, and kelp. It has a quieter and more authentic feel than Utoro across the mountain. Whale-watching tours operate from the harbour in summer — the cold productive waters attract sperm whales, minke whales, orca, and Dall's porpoises, and the sighting rates are high.

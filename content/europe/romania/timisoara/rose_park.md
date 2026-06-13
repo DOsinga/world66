@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.4
 ---
 
 The Roses Park (Parcul Rozelor) on the southern bank of the Bega Canal is the city's signature park — a 4.5-hectare formal garden of roses laid out in 1891 by the Romanian-French landscape designer Bertha Csanády. At peak in June and early July, more than 7,000 individual rose bushes representing several hundred cultivars are in bloom across the geometric beds.

@@ -13,6 +13,7 @@ story: >
   righted the ship — doing what salvage teams had attempted with cranes and
   failed to do cleanly. It now sits upright in 130 feet of water, exactly as
   intended, in the position nature put it in.
+score: 8.1
 ---
 
 The USS Spiegel Grove was a Thomaston-class dock landing ship commissioned in 1956 and named after the Ohio estate of President Rutherford B. Hayes. After decommissioning in 1989, it was intentionally sunk as an artificial reef six miles off Key Largo in May 2002. The wreck is 510 feet long, making it one of the largest artificial reefs in the world.

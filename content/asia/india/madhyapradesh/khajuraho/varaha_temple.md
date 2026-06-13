@@ -9,6 +9,7 @@ latitude: 24.852
 longitude: 79.9222
 sources:
   - https://en.wikipedia.org/wiki/Varaha_Temple,_Khajuraho
+score: 6.9
 ---
 
 The Varaha Temple is one of the simpler structures in the western group — a small open pavilion housing a colossal monolithic sandstone sculpture of Varaha, the boar avatar of the Hindu god Vishnu. The image stands nearly two and a half metres high and is remarkable for the thousands of tiny figures carved across its entire surface: gods, goddesses, celestial attendants, and mythological scenes covering every inch of the boar's body like an illustrated cosmology.

@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: Column marking the 1620 departure point of the Mayflower and Speedwell
 story: "The two ships that carried the Pilgrim Fathers sailed from Southampton on 5 August 1620. The Speedwell sprang leaks and forced both ships to put in twice for repairs — at Dartmouth, then at Plymouth — before the Mayflower sailed on alone, abandoning the leaking Speedwell. So strictly the Mayflower departed from Plymouth; the journey began here."
+score: 5.9
 ---
 
 A simple stone column on Town Quay, marking the 1620 departure of the *Mayflower* and *Speedwell* with the Pilgrim Fathers aboard. They left Southampton on 5 August, but the *Speedwell* sprang leaks and forced the ships to put in twice for repairs — at Dartmouth, then at Plymouth — before the *Mayflower* finally sailed on alone. So Plymouth, technically, claims the final departure; but the voyage began here.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, historic, sight]
 latitude: 38.659230
 longitude: -27.219549
+score: 6.7
 ---
 
 The Castle of Moinhos (also known as the Alto Fortress) is a 16th-century fortification set on the hill above Angra, now reduced to ruins but accessible via a marked walking path from the city center. The approach takes about twenty minutes on foot and passes through the edge of the Monte Brasil nature reserve. The ruins themselves are modest — walls, a gateway, the footprint of towers — but the reason to come is the view from the top.

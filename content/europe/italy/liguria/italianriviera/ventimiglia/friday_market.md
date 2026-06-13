@@ -15,6 +15,7 @@ story: >
   Friday in summer, the stalls stretch for more than a kilometre along the
   seafront and into the side streets, and more than half the crowd will have
   driven down from Nice, Menton, or Monaco.
+score: 7.7
 ---
 
 Every Friday the town transforms. By early morning, stalls fill the seafront promenade and the streets behind it, selling everything from Italian leather goods and linen to cheese, olives, and local olive oil. The French come for the prices as much as the goods: Italian food and household products are consistently cheaper than their equivalents across the border, and the market is the nearest equivalent of a hypermarché for much of the western Côte d'Azur.

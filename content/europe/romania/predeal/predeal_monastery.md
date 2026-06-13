@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.4960
 longitude: 25.5718
+score: 6.1
 ---
 
 Predeal Monastery is a small Orthodox complex founded in 1774, located on the quieter southern edge of the town, set back from the main road in a forested clearing. It is modest in scale — a stone church dedicated to the Nativity of the Virgin Mary, a smaller older chapel dedicated to Saint Nicholas, and a handful of monastic buildings — but the setting is peaceful and the frescoes inside the main church are worth a look.

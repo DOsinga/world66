@@ -14,6 +14,7 @@ title: Schweriner Schloss
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Schwerin_Castle
+score: 9.4
 ---
 
 Schwerin's fairy-tale castle sits on an island between the Schweriner See and the Burgsee, connected to the city by a bridge. The current building dates mostly from the mid-nineteenth century, built in a romantic historicist style that draws heavily on French Renaissance chateaux, particularly Chambord. It serves as the seat of the Mecklenburg-Vorpommern state parliament, but the state apartments on the first floor are open as a museum — magnificent reception halls, ballrooms, and ducal living quarters that give a vivid picture of nineteenth-century court life. The surrounding castle gardens are free to enter and perfect for a lakeside walk with views back to the turrets.

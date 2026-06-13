@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Koronadal
+score: 6.6
 ---
 
 The Koronadal City Plaza sits at the heart of Marbel and is where the city gathers for everything from political rallies to Sunday afternoons with ice cream. The plaza is flanked by Saint Alexander's Cathedral and the City Hall building, and the grassy square itself is lined with benches and mature trees that offer some shade from the midday heat.

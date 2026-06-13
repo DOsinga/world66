@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 59.64861111111111
 longitude: 17.71972222222222
+score: 7.1
 ---
 
 Venngarn Castle is a 17th-century Baroque manor house set in a formal park about 5 km north of Sigtuna, on the shores of Lake Mälaren. The building was constructed for Magnus Gabriel De la Gardie, Sweden's wealthiest nobleman in the 1660s, and later became a royal hunting estate. It is one of the finest examples of 17th-century Swedish Baroque architecture outside Stockholm.

@@ -6,6 +6,7 @@ tags:
 - eating_out
 title: La Casa
 type: poi
+score: 5.7
 ---
 
 Meat, chicken and cheese fondue in a cozy setting. Start dieting tomorrow and have the chocolate fondue for dessert. Open every evening from 6pm.

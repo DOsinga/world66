@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Henry the Lion, Duke of Saxony and Bavaria, was the most powerful German prince of the 12th century after the emperor himself. He founded Braunschweig as an urban centre in 1166, the same year he had the great bronze lion cast and placed on Burgplatz as a symbol of ducal power. When he commissioned the cathedral — dedicated to Saints Blaise and John the Baptist — he intended it as his dynastic burial church. It contains his tomb and that of his English wife, Matilda (daughter of Henry II of England and Eleanor of Aquitaine), making it one of the more unexpected Anglo-Norman connections in northern Germany."
+score: 8.5
 ---
 
 The **Cathedral of Saint Blaise** (*Dom St. Blasii*) dominates the southern end of Burgplatz, its twin-towered Romanesque west front dating from the 12th century. Inside, the nave is broad and light, with a notable 12th-century chandelier — the **Heziloleuchter**, a hoop-shaped bronze candelabrum — hanging above the crossing.

@@ -16,6 +16,7 @@ story: >
   griffins and dragons that nod to the same legend.
 sources:
   - https://en.wikipedia.org/wiki/San_Giulio_Island
+score: 9.0
 ---
 
 The Isola San Giulio is a 275-metre-long limestone outcrop in the middle of Lago d'Orta, almost entirely occupied by a Benedictine monastery, a few private houses, and the Basilica di San Giulio. A single cobbled lane — signposted in Italian as the Way of Silence on one side and the Way of Meditation on the other, since the nuns who live here ask visitors to be quiet — loops the perimeter in about twenty minutes.

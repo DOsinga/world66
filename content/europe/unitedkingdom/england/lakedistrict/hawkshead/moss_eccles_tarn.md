@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
   - nature
+score: 7.4
 ---
 
 A small, reed-fringed tarn on Claife Heights above Near Sawrey, Moss Eccles is the one Beatrix Potter loved best. She and her husband William Heelis would row out here in their boat on summer evenings, and she planted the water lilies that still bloom on the surface. The tarn was given to the National Trust on her death.

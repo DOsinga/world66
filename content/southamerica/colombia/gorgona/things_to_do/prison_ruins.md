@@ -12,6 +12,7 @@ story: >
   not for the sentences, but because the journey through open Pacific was
   considered too dangerous to survive an escape attempt. Several tried anyway.
   None made it back to the mainland.
+score: 7.9
 ---
 
 Gorgona's prison operated from 1959 to 1984 and held Colombia's most dangerous convicted criminals in conditions that became infamous. The buildings still stand: cell blocks, guard posts, and administrative structures slowly being reclaimed by jungle, their walls cracked open by roots and permanent humidity. The setting is extraordinary — the same isolation that made this location ideal for a high-security prison now gives the ruins a particular atmosphere.

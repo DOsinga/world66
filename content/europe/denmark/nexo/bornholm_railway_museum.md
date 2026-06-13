@@ -14,6 +14,7 @@ story: >
   museum preserves the only surviving locomotives and rolling stock, along with
   the timetables, uniforms, and station signs of a network that islanders still
   remember with some nostalgia.
+score: 6.8
 ---
 
 The Bornholm Railway Museum documents the island's narrow-gauge railway network, which operated from 1900 to 1968 and connected Nexø to Rønne, Gudhjem, and other island towns. The museum occupies part of the old Nexø station building and keeps the equipment in good condition — several locomotives and carriages are displayed in and around the former engine shed.

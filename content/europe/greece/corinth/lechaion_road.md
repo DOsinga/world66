@@ -8,6 +8,7 @@ latitude: 37.9090
 longitude: 22.8797
 story: >
   St Paul was tried on the bema — the raised speakers' platform at the south end of the Lechaion Road — by the proconsul Gallio around 51 AD. Gallio dismissed the charges, declaring that disputes about Jewish law were not his concern. The episode is described in Acts 18 and is one of the few moments in the New Testament that can be precisely dated against Roman administrative records.
+score: 7.4
 ---
 
 The Lechaion Road was the main artery of Roman Corinth — a broad, marble-paved street twelve metres wide that ran from the agora north to the port of Lechaion on the Gulf of Corinth, about three kilometres away. Its paving stones are still in place, polished smooth by centuries of foot traffic and carriage wheels, with the channels cut for cart wheels still visible.

@@ -5,6 +5,7 @@ snippet: Walk-through display of around 25 species of native Costa Rican frogs a
 tags: [things_to_do, sight, wildlife]
 latitude: 10.3140
 longitude: -84.8197
+score: 6.4
 ---
 
 The Ranario keeps around 25 species of frog in habitat tanks arranged along a winding indoor walkway. Most are local to the cloud and rainforest, including the red-eyed tree frog, glass frogs, blue jeans dart frog, and several species of leaf-litter frog.

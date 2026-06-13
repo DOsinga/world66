@@ -7,6 +7,7 @@ tags:
 - sight
 title: Glastonbury Lake Village
 type: poi
+score: 5.9
 ---
 
 In 1892 an amateur archaeologist named Arthur Bulleid spotted unusually green vegetation in a flat field north of Glastonbury and concluded that something man-made lay below. He had found one of the most important Iron Age sites in northern Europe: a village of around 100 huts built on a wooden platform over a freshwater marsh, occupied from about 250 BC to 50 AD.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hike
+score: 7.8
 ---
 
 A low forested range immediately south of Penguin, rising to about 460 metres at Mount Montgomery. The protected pockets — Mount Montgomery State Reserve and the larger Ferndene State Reserve a few kilometres further south — preserve cool-temperate rainforest of myrtle beech, sassafras, and fern with a network of walking tracks ranging from twenty-minute strolls to half-day loops.

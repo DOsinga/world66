@@ -9,6 +9,7 @@ tags:
 title: Buddy's Pizza
 type: poi
 story: "Buddy's invented Detroit-style pizza in 1946: a rectangular Sicilian-style pie baked in a blue-steel pan that had originally been an automotive drip tray, with cheese pulled to the edges so it caramelises against the metal. The format has since gone national."
+score: 7.0
 ---
 
 Buddy's at 17125 Conant Street, on the corner of Conant and Six Mile in northeast Detroit, is the birthplace of Detroit-style pizza. The original room is small, dark, and unchanged in feel since the 1940s. The classic order is a four-square cheese pizza with pepperoni and the brick-cheese stripes that became the city's signature. Buddy's now has dozens of locations across Michigan, but the Conant Street original is the pilgrimage.

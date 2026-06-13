@@ -8,6 +8,7 @@ latitude: 49.2050
 longitude: 18.9000
 story: >
   The gorge at Vrátna — the main gateway to the national park from Žilina — is carved through limestone by the Varínka river and narrows in places to just a few metres wide. During the Second World War, the narrow valley was the site of fierce resistance by Slovak partisans; a monument near the entrance to the valley marks the spot where German forces were held off for several weeks in 1944.
+score: 8.5
 ---
 
 Malá Fatra National Park begins effectively at Žilina's eastern edge, with the park entrance at Vrátna just 25 km from the city centre. The park covers a compact but dramatic section of the Western Carpathians: limestone gorges, alpine meadows, beech forests, and ridgeline walking with views over three countries on clear days. The highest peak, Veľký Kriváň (1709m), can be reached in a day from the valley.

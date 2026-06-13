@@ -5,6 +5,7 @@ tags: [bars_and_cafes, drinking]
 latitude: 41.14789
 longitude: -8.61022
 story: Vinho Verde — literally "green wine," meaning young wine from the Minho region north of Porto — is the natural local wine to drink in Porto, but the city's bar scene has evolved well beyond that. The natural wine movement took hold here earlier than in most Portuguese cities, partly because the proximity to the Douro and Minho means direct relationships with small producers. Porto's natural wine bars are now serious destinations for wine travellers.
+score: 6.8
 ---
 
 Porto has a wine bar scene that quietly matches anything in Lisbon, and unlike the capital it has not yet been entirely colonized by tourists. The concentration of good wine bars is in Cedofeita and Bonfim — the same neighbourhoods where the creative economy has made its home.

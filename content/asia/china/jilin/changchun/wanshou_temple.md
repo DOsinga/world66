@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8900
 longitude: 125.3000
+score: 7.3
 ---
 
 Wanshou Temple is one of Changchun's most active Buddhist temples, a Qing dynasty foundation that has survived the various upheavals of the twentieth century and continues as a functioning religious community. The temple compound follows the standard northern Chinese Buddhist layout with a sequence of halls on a central axis, and the incense smoke visible from outside is a reliable indicator of genuine religious activity rather than tourist performance.

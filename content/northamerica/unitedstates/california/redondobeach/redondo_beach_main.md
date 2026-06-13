@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - beach
 - sight
+score: 7.7
 ---
 
 The main beach runs north from the pier for about two miles, all the way to the Hermosa Beach border. It is broad, sandy, and consistently less crowded than its more famous neighbours to the north — Hermosa and Manhattan tend to draw the heavier crowds, leaving Redondo with more elbow room even on summer weekends.

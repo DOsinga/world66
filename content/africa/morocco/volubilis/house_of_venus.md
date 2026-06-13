@@ -8,6 +8,7 @@ latitude: 34.0753
 longitude: -5.5545
 story: >
   The mosaic showing Diana bathing in the House of Venus — a scene in which the goddess is surprised by the hunter Actaeon — was once considered scandalous enough to be covered with protective boards during some periods of the French protectorate. Today it is one of the most visited mosaics in Morocco.
+score: 8.6
 ---
 
 The House of Venus is one of the grand merchant mansions along the upper Decumanus, named for the mosaic it contains showing Venus in a bathing scene. The house also holds the celebrated mosaic of Diana surprised by Actaeon while bathing, and a striking panel of the Four Seasons — allegorical figures representing spring, summer, autumn, and winter. These mosaics are exceptional both for their size and their state of preservation; the colours, though faded, are still clearly readable.

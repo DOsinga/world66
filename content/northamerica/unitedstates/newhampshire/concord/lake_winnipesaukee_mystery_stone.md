@@ -12,6 +12,7 @@ story: >
   interpretation. Nothing remotely like it has been found anywhere else. The most popular theories
   range from a 19th-century hoax to a Native American treaty token to something even stranger; the
   Historical Society leaves the question open.
+score: 5.8
 ---
 
 The Lake Winnipesaukee Mystery Stone, on permanent display at the New Hampshire Historical Society on Park Street, is one of America's most genuinely strange artefacts. Workers digging a fence post hole near Lake Winnipesaukee around 1872 turned it up, and it has been baffling scholars ever since. The stone is dark and palm-sized, intricately carved with symbols that match no known indigenous or colonial tradition, and the cleanly drilled holes through its top and bottom suggest it was made with metal tools.

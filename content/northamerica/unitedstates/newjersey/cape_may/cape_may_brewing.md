@@ -6,6 +6,7 @@ longitude: -74.9106
 tags:
   - bars_and_cafes
   - bar
+score: 6.3
 ---
 
 The largest craft brewery in southern New Jersey, located in the Cape May County Airport complex about 5 miles north of town. The Brewtique tasting room is the main showcase — about 30 taps including the flagship Cape May IPA — with food trucks parked outside and a beer garden out back. Free brewery tours run on weekends.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.8756
 longitude: 121.5446
+score: 7.8
 ---
 
 The Gulou district, centred on the Drum Tower, is the oldest inhabited part of Ningbo and contains the highest concentration of pre-modern street patterns and traditional architecture surviving in the city centre. The lanes running south from the Drum Tower through the old residential quarter are not tourist attractions — there are no ticket gates, no souvenir shops — but are instead genuinely old streets where residents hang laundry from windows and run neighbourhood businesses from front rooms.

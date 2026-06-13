@@ -15,6 +15,7 @@ story: >
   beautiful lake in the Catskills, he thought.
 sources:
   - https://en.wikipedia.org/wiki/Fenimore_Art_Museum
+score: 8.2
 ---
 
 The Fenimore Art Museum sits on the north shore of Otsego Lake in a handsome 1930s Colonial Revival building, overlooking the water and surrounded by formal gardens. Its collection spans American folk art, Hudson River School paintings, and one of the most significant collections of American Indian art in the northeastern United States — the result of decades of acquisition by the New York State Historical Association.

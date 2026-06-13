@@ -10,6 +10,7 @@ tags:
 sources:
   - https://en.wikipedia.org/wiki/Al_Zubarah
   - https://whc.unesco.org/en/list/1433
+score: 9.2
 ---
 
 The most intact pearl-trading town in the Arabian Gulf, Al Zubarah flourished in the 18th and early 19th centuries before being sacked and abandoned in 1811. The site covers several square kilometers of low walls, streets, mosques, and courtyard houses — the ground plan of an entire mercantile city preserved under the desert. UNESCO inscribed it as a World Heritage Site in 2013, recognizing it as an exceptional example of the Gulf's pearling economy at its peak.

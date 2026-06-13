@@ -10,6 +10,7 @@ latitude: 45.8927
 longitude: -111.5543
 sources:
   - https://en.wikipedia.org/wiki/Three_Forks,_Montana
+score: 5.8
 ---
 
 The Headwaters Heritage Museum is a volunteer-run local history museum on Main Street covering Three Forks from the Lewis and Clark expedition through the railroad era and homesteading period. The collection includes artifacts from the fur trade, early settler tools and photographs, and material relating to the Milwaukee Road, whose transcontinental line passed through here in the early 20th century.

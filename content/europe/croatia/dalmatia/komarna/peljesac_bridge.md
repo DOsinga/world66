@@ -13,6 +13,7 @@ story: >
   posts each way. The project was funded mostly by the European Union and
   built by a Chinese consortium — a politically charged combination that
   drew years of comment.
+score: 7.3
 ---
 
 The Pelješac Bridge crosses the Bay of Mali Ston from the Komarna shore to the Pelješac peninsula, a graceful pair of pylons supporting a fan of white cables that has rapidly become the new icon of the southern Croatian coast. Komarna sits directly below the mainland abutment.

@@ -18,6 +18,7 @@ tags:
 title: Palm Springs Aerial Tramway
 type: poi
 url: https://www.pstramway.com
+score: 9.2
 ---
 
 One of the great short rides in California. The rotating gondola climbs from the Coachella Valley floor at 2,643 feet to the Mountain Station at 8,516 feet in under 15 minutes — a transition from scrubby desert vegetation to pine forest that never quite loses its drama. At the top, Mount San Jacinto State Wilderness offers 54 miles of hiking trails, from a gentle nature walk in Long Valley to the strenuous 5.5-mile summit climb to 10,834 feet.

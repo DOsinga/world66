@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 5.635
 longitude: -73.525
+score: 7.1
 ---
 
 The Casa Museo Antonio Nariño commemorates one of the most important intellectual figures of Colombian independence — the man who translated the French Declaration of the Rights of Man into Spanish in 1793, an act of political courage that earned him years of imprisonment by the Spanish colonial authorities. Nariño lived in Villa de Leyva for the last years of his life and died here in 1823.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.4500
 longitude: 24.5500
+score: 9.2
 ---
 
 Ukraine's first national park, established in 1980 and covering about 50,000 hectares of mountain forest, alpine meadow, and high ridge in the Chornohora and Gorgany ranges south of Yaremche. The town is one of the main gateways: the park headquarters and information centre, with maps, route advice, and permits for the more sensitive areas, are in the centre of Yaremche.

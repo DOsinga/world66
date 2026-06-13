@@ -12,6 +12,7 @@ snippet: "One of Europe's largest national parks, with trails from an hour to a 
 story: >
   The park was established in 1995 as part of a World Bank environmental project, but it protects land that has been the hunting reserve of Georgian royalty since the 19th century. 
   Tsar Nicholas II visited the adjacent Likani estate repeatedly and used the forests as his personal preserve — the bear and deer that still inhabit the park today are in part descendants of stock protected during that era.
+score: 8.8
 ---
 
 Borjomi-Kharagauli National Park covers over 85,000 hectares of Caucasus mountain forest, making it one of the largest protected areas in Europe. The terrain ranges from the gorge at Borjomi itself to high alpine meadows and rocky ridges, with beech and pine forests covering the middle elevations. Brown bear, wolf, lynx, chamois, and red deer all live here, though seeing large mammals requires early starts and luck.

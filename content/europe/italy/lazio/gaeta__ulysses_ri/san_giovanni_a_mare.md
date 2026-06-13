@@ -8,6 +8,7 @@ latitude: 41.2125
 longitude: 13.5730
 sources:
   - https://en.wikipedia.org/wiki/San_Giovanni_a_Mare,_Gaeta
+score: 7.7
 ---
 
 This compact 10th-century church sits almost at sea level on the edge of the lower old town, its apse hanging over the water. It is one of the oldest surviving churches in Gaeta and one of the most atmospheric: small, dark inside, and built in a hybrid style that shows the Byzantine, Lombard, and early Romanesque influences that converged on southern Italy during the early medieval period.

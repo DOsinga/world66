@@ -6,6 +6,7 @@ latitude: 57.1644
 longitude: 65.5222
 story: >
   The pedestrian cable-stayed bridge was built in 2004 and quickly became a landmark for a local tradition: newlywed couples attach padlocks to the cables as symbols of their commitment, then throw the keys into the Tura River below. Thousands of padlocks now cover the cables in colourful layers, making the bridge visible from a distance.
+score: 6.5
 ---
 
 The Lovers' Bridge spans the Tura River in the city centre and is Tyumen's most recognisable landmark. The cable-stayed pedestrian crossing is particularly striking at night when its lights reflect in the river, and it has become the default meeting point and evening walk destination for residents. The embankment on both sides of the bridge has been developed as a promenade.

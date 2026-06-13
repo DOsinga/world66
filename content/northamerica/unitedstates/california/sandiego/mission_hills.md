@@ -8,6 +8,7 @@ tags:
 latitude: 32.7423
 longitude: -117.1705
 snippet: A quiet residential neighbourhood of Craftsman and Spanish Revival bungalows on the bluff above Old Town
+score: 6.8
 ---
 
 Mission Hills sits on the mesa west of Hillcrest, above the Old Town valley, with streets lined almost entirely by early twentieth-century housing — Craftsman bungalows, Spanish Colonial Revival houses, and Mission Revival apartments from the 1910s and 1920s. The neighbourhood survived the mid-century enthusiasm for demolition that stripped most of San Diego's historic residential stock, and it is now one of the city's more architecturally consistent districts.

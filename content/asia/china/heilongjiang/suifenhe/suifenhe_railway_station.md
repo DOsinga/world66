@@ -12,6 +12,7 @@ story: >
   constructed by Russia across Manchuria to connect Vladivostok to the rest of the Russian Empire 
   without the long detour north of the Amur River. The station served as the primary Manchurian 
   gateway to Russia for decades and retains the architectural ambition of that era.
+score: 7.2
 ---
 
 The old Suifenhe railway station building dates from 1903, constructed as part of the Chinese Eastern Railway — the Russian-built line that crossed Manchuria to link Vladivostok to the Trans-Siberian Railway without the long northern detour. The structure has the characteristic CER style: European institutional architecture transplanted to the Chinese frontier, with a facade of some elegance relative to its surroundings. The station area has been modified considerably since its founding, but the core building remains.

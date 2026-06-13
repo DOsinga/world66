@@ -16,6 +16,7 @@ story: >
   and grey whales occasionally enter the bay on their Pacific migrations.
 sources:
   - https://en.wikipedia.org/wiki/Humboldt_Bay
+score: 7.3
 ---
 
 The Humboldt Bay Harbor Cruise runs narrated 75-minute tours of the bay, covering the wildlife, history, and ecology of one of California's most important coastal wetlands. The boat departs from the foot of F Street near the waterfront and covers the bay from the shipping channel to the bird-rich shallows around Eureka Slough. Harbour seals, brown pelicans, cormorants, and numerous shorebirds are reliably visible, and the guide explains the bay's working history — the oyster beds, the timber shipping, and the fishing industry that shaped Eureka.

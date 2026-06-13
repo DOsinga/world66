@@ -13,6 +13,7 @@ story: >
   and North America. The weaving is done by women using locally grown elephant grass, dyed in
   vivid colours. What started as a functional grain basket has become one of Ghana's most
   recognisable craft exports.
+score: 7.8
 ---
 
 The central market in Bolgatanga is one of the most vibrant in northern Ghana, and it functions as a regional trading hub for the Upper East. The most celebrated products are the Bolga baskets — hand-woven from elephant grass in bright geometric patterns — and leather goods: sandals, pouches, and hats made by Fulani craftsmen.

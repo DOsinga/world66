@@ -10,6 +10,7 @@ latitude: 43.6459
 longitude: -116.1829
 story: >
   The Ridge to Rivers trail system in the Boise Foothills covers more than 190 miles of trails open to hikers, mountain bikers, and horseback riders. The entire system is free, maintained by a joint city-county partnership, and accessible from trailheads within minutes of downtown. On winter mornings the foothills glow amber in the low light and deer are visible from parking lots.
+score: 8.1
 ---
 
 The Boise Foothills rise directly from the back of the city — a chain of dry, sagebrush-covered hills that offer immediate escape from downtown. The Ridge to Rivers trail system threads through them, with more than 190 miles of trails ranging from easy riverside walks to steep technical mountain bike routes on the upper ridges.

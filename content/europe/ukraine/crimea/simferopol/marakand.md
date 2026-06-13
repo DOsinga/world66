@@ -6,6 +6,7 @@ longitude: 34.1089
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 A long-established Crimean Tatar restaurant on the edge of the old town, in a converted Tatar-style courtyard house with low tables, kilims on the walls, and a wood-fired oven turning out fresh flatbread. The menu runs the full Central Asian–Crimean spectrum: lagman, manti, plov, samsa, and an excellent kebab list.

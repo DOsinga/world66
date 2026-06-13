@@ -15,6 +15,7 @@ story: >
   leading antiquarians. His collection, bequeathed to the city on his death in
   1814, became the foundation of what is now one of Portugal's finest regional
   museums.
+score: 8.0
 ---
 
 The Frei Manuel do Cenáculo National Museum occupies the former episcopal palace next to the cathedral, and its collections cover two millennia of Évora's history. The ground floor holds Roman inscriptions, sculptures, and mosaics excavated from the city and surrounding region — notably some excellent funerary steles and a remarkable mosaic floor depicting the seasons. Upper floors hold medieval and Renaissance paintings, sculpture, and decorative arts.

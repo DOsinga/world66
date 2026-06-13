@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.1271
 longitude: 8.2046
+score: 6.9
 ---
 
 The handsome three-arched medieval bridge across the Varatella torrent is one of the village's iconic images — pale stone, narrow paved roadway, and a distinct hump in the middle. It dates to the 14th century and was for centuries the main route into the village from the coast.

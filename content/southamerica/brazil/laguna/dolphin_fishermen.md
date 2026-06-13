@@ -10,6 +10,7 @@ story: >
   The behaviour was first documented scientifically in 1983, but local fishermen have known about it for generations — grandmothers teach children the specific tail-slap signals that mean the dolphins have found a school of fish. UNESCO recognised the practice in 2012 as an example of intangible cultural heritage, and a 2012 study confirmed that the cooperation is learned behaviour, not instinct, passed from older dolphins to younger ones.
 sources:
   - https://en.wikipedia.org/wiki/Laguna,_Santa_Catarina
+score: 9.1
 ---
 
 The mullet fishery on the Lagoa do Imaruí lagoon in Laguna involves something genuinely remarkable: a population of wild boto dolphins (Tursiops truncatus gephyreus, the Lahille's bottlenose dolphin) that actively cooperate with fishermen to catch fish. Between April and July, when mullet schools move through the lagoon, the dolphins herd the fish toward shore. At a precise moment — signalled by a distinctive downward dive or tail slap — the fishermen cast their nets in synchrony with the dolphins' movements. The dolphins benefit from the disoriented fish that escape the net; the fishermen catch far more than they could alone.

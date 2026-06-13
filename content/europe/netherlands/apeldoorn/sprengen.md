@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "From the 17th century onwards the sprengen turned Apeldoorn into the paper-making capital of the Netherlands. At the industry's peak around 1850 there were nearly 200 paper mills along the brooks east of the Veluwe ridge, supplying the printing houses of Amsterdam and Leiden. The mills are mostly gone, but their fingerprints are still visible: long straight ditches, brick weirs in the woods, and an unusual number of streets in Apeldoorn called something-molenweg."
+score: 6.8
 ---
 
 The brooks that run east through Apeldoorn — the Grift, the Ugchelse Beek, the Orderbeek — are not natural streams but artificial channels, dug from the late Middle Ages onwards to capture the springs (*sprengen*) that emerge at the foot of the Veluwe ridge. They fed the paper mills that made the area's fortune for three centuries.

@@ -6,6 +6,7 @@ longitude: 17.2161
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The bronze statue of Domenico Modugno stands with arms open near the seafront, saluting the singer-songwriter born in Polignano. Modugno is best known internationally for "Nel blu, dipinto di blu", better known by its refrain, "Volare".

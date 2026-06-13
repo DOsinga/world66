@@ -14,6 +14,7 @@ story: >
   name, the figure said, in the local Gascon dialect: "Que soy era Immaculada Concepciou" 
   — "I am the Immaculate Conception." The doctrine of the Immaculate Conception had been 
   defined by Pope Pius IX only four years earlier, a fact Bernadette could not have known.
+score: 8.6
 ---
 
 The Grotte de Massabielle is the site where Bernadette Soubirous reported her 18 apparitions of the Virgin Mary in 1858, and it remains the spiritual heart of Lourdes. The grotto is a natural cave in a rocky bluff beside the Gave de Pau river. Inside, a white marble statue of the Virgin marks the niche where Bernadette said the figure appeared. The spring that Bernadette was directed to unblock during her ninth apparition still flows, and pilgrims fill bottles with the water to take home.

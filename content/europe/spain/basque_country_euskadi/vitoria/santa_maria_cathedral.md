@@ -9,6 +9,7 @@ tags:
   - architecture
   - medieval_quarter
 story: "Ken Follett based the climactic chapters of his novel World Without End on this cathedral after touring it during the restoration — the foundations were collapsing, and the city ran public tours of the works under the slogan 'Open for repairs'. A statue of Follett now stands outside the south portal."
+score: 9.3
 ---
 
 The 13th-century Gothic cathedral that crowns the old town has been undergoing a famous, ingenious restoration for the last three decades. Rather than close, the building has been kept open for guided tours through the works — visitors don hard hats and walk the scaffolding, learning how the foundations failed and how engineers and historians have stabilised them.

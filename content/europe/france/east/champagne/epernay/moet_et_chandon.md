@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 story: "Napoleon was a personal friend of Jean-Remy Moet and visited the cellars several times — the wedge of vineyard called Le Trianon is named after his palace. The house gave its top cuvee the name Dom Perignon in 1936, in honour of the Benedictine monk at nearby Hautvillers who is credited (somewhat mythically) with inventing the methode champenoise."
+score: 8.4
 ---
 
 Moet et Chandon, founded in 1743, is the largest of the great champagne houses and the public face of the Avenue de Champagne. The headquarters at number 20 fronts a chateau-like courtyard with a statue of Dom Perignon out front, and the public tour takes you down into a small section of the 28 kilometres of cellars beneath your feet.

@@ -8,6 +8,7 @@ tags:
 latitude: 41.1403
 longitude: -104.8197
 story: "Wyoming was the first place in the world to give women the vote — the territorial legislature passed it in 1869, twenty-one years before statehood. The Capitol's House Chamber preserves the desk used by Esther Hobart Morris, the first woman appointed as a justice of the peace anywhere in the United States; her statue stands on the front steps."
+score: 8.3
 ---
 
 The Wyoming State Capitol is an unusually well-preserved 1888 sandstone building in the Renaissance Revival style, finished in time for Wyoming's admission as a state in 1890. A gold-leafed dome (24-carat, regilded most recently in 2017) tops the central block, and the building reads from a distance like a small-scale US Capitol — a deliberate choice by the territorial legislators who wanted to assert federal-grade civic ambition.

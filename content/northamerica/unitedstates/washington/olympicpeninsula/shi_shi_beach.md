@@ -7,6 +7,7 @@ tags:
   - beach
 title: Shi Shi Beach
 type: poi
+score: 8.8
 ---
 
 Shi Shi Beach is one of the great wild beaches of the Olympic coast, reached by trail and backed by forest rather than development. Sea stacks and tide pools give it the classic outer-coast drama.

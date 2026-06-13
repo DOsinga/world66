@@ -1,6 +1,7 @@
 ---
 title: "Moorehead Park and Battle Creek Lake"
 type: poi
+score: 5.2
 ---
 
 Battle Creek Lake, a few miles east of Ida Grove, is the main outdoor recreation draw for the area. The lake is modest in size but well-suited to fishing, with populations of largemouth bass, bluegill, and catfish. A boat ramp and small picnic area serve anglers and day visitors. The surrounding land is managed as a county conservation area, and the quiet shoreline makes for an easy afternoon if the novelty of castle-spotting has worn off.

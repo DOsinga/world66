@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 25.5417
 longitude: -103.4106
+score: 7.4
 ---
 
 The Museo Regional de La Laguna is the best place in the city to get a proper sense of where Torreón came from. The collections cover the archaeology of the La Laguna basin — prehistoric fauna, indigenous cultures of the Chihuahuan Desert — and move through the colonial period to the railway boom that created the modern city. It is compact and well-organised, and a couple of hours is enough to see it properly.

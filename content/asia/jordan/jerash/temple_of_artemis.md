@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   One of the columns in the Temple of Artemis trembles perceptibly when you push it at the base — the foundation was built with a slight give to withstand earthquakes, and the tolerance has kept the columns standing through two thousand years of seismic activity. The quivering column is a favourite demonstration for guides, and the engineering logic behind it is genuinely impressive.
+score: 8.8
 ---
 
 The Temple of Artemis is the grandest monument in Jerash, dedicated to the city's patron goddess and built in the second century AD at the height of Gerasa's prosperity. It stands on a hill overlooking the rest of the ruins, reached by a monumental staircase from the colonnaded street below — an approach designed to impress on the way up.

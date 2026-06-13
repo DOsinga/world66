@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 34.9386
 longitude: -79.7680
+score: 6.3
 ---
 
 The Hitchcock Creek Greenway is a walking and cycling trail that follows Hitchcock Creek as it cuts through the center of Rockingham. The paved path connects several parks and neighborhoods and gives the town a pleasant green spine that's easy to miss if you just drive through on US-74.

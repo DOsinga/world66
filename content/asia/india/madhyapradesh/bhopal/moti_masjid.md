@@ -7,6 +7,7 @@ tags:
 latitude: 23.25568
 longitude: 77.39891
 snippet: "Elegant 19th-century mosque in the old city, modelled on Delhi's Jama Masjid"
+score: 7.4
 ---
 
 The Moti Masjid (Pearl Mosque) in the old city was built in 1860 by Sikandar Begum, one of Bhopal's remarkable women rulers. It is modelled on the Jama Masjid in Delhi, though on a smaller and more intimate scale. The mosque is built in red sandstone with two slender white-tipped minarets and three white bulbous domes — a combination that produces a striking contrast of colours.

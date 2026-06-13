@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 32.35347
 longitude: -90.88185
+score: 6.8
 ---
 
 The Lower Mississippi River Museum sits on the riverfront and tells the story of America's great river — its geology, ecology, commerce, and the engineering that tamed it. Run by the US Army Corps of Engineers, the museum occupies a converted dredge boat alongside an indoor exhibit space. The highlight for many visitors is the MV Mississippi, a massive river survey vessel docked outside that you can board and explore.

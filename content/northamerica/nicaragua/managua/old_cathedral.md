@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Old_Cathedral_of_Managua
 story: >
   The cathedral survived the initial 1972 earthquake with its walls intact, but engineers declared it too structurally damaged to repair. For decades Managuans debated its fate: demolish it or preserve it? In the end, they did neither — the ruin was consolidated and left open to the public as a monument to the disaster, becoming one of the most haunting and distinctive landmarks in Central America.
+score: 8.9
 ---
 
 The Catedral de Santiago — universally known as the Old Cathedral — is one of the most striking ruins in Central America. Completed in 1938, it dominated the old city centre until the 1972 earthquake left its thick concrete walls so severely cracked that it was judged irreparable. Rather than demolish it, Managua preserved the shell and opened it to visitors as a kind of outdoor monument to the disaster that reshaped the city.

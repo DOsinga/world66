@@ -15,6 +15,7 @@ story: >
   most-photographed sight in Llanes.
 sources:
   - https://en.wikipedia.org/wiki/Cubos_de_la_Memoria
+score: 7.3
 ---
 
 The Cubos de la Memoria are fourteen painted concrete blocks along Llanes' harbour wall, covered in vivid geometric murals by the Basque artist Agustín Ibarrola. Commissioned in 1992 to decorate the otherwise utilitarian floodgate structures protecting the harbour, the cubes have become the defining image of Llanes — bold, colourful and completely unexpected in a small medieval harbour town.

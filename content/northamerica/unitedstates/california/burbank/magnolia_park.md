@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 34.1720
 longitude: -118.3310
+score: 7.8
 ---
 
 Magnolia Park is Burbank's most characterful neighbourhood — a stretch of Magnolia Boulevard lined with independent vintage shops, antique dealers, record stores, and old-school diners that has resisted the forces of corporate retail better than almost anywhere else in the San Fernando Valley. If you collect midcentury modern furniture, vintage clothing, vinyl records, or movie memorabilia, this is the place to lose a morning.

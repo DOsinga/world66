@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 50.0621
 longitude: 19.9288
+score: 7.1
 ---
 
 The area around Ulica Sławkowska, Ulica Szpitalna, and the streets north of the Main Square hosts the densest concentration of jazz clubs and cellar bars in Krakow, carrying forward the tradition that made the city's underground scene famous during the communist period. Several of the venues — including U Muniaka, Harris Piano Jazz Bar, and Piec Art — have been running for decades and attract serious musicians alongside regular tourists.

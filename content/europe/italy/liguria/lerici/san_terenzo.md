@@ -15,6 +15,7 @@ story: >
   sank in a storm off Livorno, ten days after he had sailed from this bay. He was 29.
   When his body washed ashore, it was identified partly by a copy of Keats's poems
   in his pocket, bent back as if he had been reading it when the storm struck.
+score: 7.5
 ---
 
 San Terenzo is a small beachside village about 2 km north of Lerici along the gulf shore, easily reached on foot along the promenade or by boat from the harbour. The beach here is wider than Lerici's and has a more local, less resort-oriented atmosphere. The village has a small castle of its own — the Castel San Terenzo — which can be seen from the waterfront.

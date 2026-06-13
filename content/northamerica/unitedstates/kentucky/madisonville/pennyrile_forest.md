@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.1453
 longitude: -87.5781
+score: 7.8
 ---
 
 Pennyrile Forest State Resort Park is the best natural destination near Madisonville, located about 20 km to the south near the town of Dawson Springs. The park covers over 1,500 acres of mixed hardwood forest in the Western Kentucky Coal Field region, centred on a 56-acre lake. Swimming, fishing, and paddleboats are available on the lake in season, and a network of hiking trails covers the surrounding woodland.

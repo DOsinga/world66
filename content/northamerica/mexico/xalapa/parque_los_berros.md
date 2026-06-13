@@ -9,6 +9,7 @@ latitude: 19.52361
 longitude: -96.91694
 sources:
   - https://en.wikipedia.org/wiki/Parque_Los_Berros
+score: 6.2
 ---
 
 Parque Los Berros is a public park southeast of the city centre, named for the watercress (berros) that once grew in abundance along its streams. The park occupies a ravine cut by a small river, with paths threading through tropical vegetation above and below the waterline — a verdant pocket of semi-wild landscape that feels quite different from the more formal Parque Juarez on the hill above. The paths connect with the Paseo de los Lagos to the north, making it possible to walk a continuous green circuit from the city centre south and back.

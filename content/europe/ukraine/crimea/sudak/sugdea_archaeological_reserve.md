@@ -5,6 +5,7 @@ tags: [things_to_do, museum, sight]
 latitude: 44.8451
 longitude: 34.9800
 story: "Excavations at Sugdeia have found a continuous sequence of settlement from the 3rd century AD through the Ottoman period — Byzantine churches, Khazar-era materials, and Genoese commercial buildings occupy the same stratified site. The name 'Sudak' derives from 'Sugdeia,' which derives in turn from a Sogdian word for 'holy.'"
+score: 7.1
 ---
 
 The Sugdeia Archaeological Reserve encompasses the area within and around the Genoese Fortress, where excavations have been ongoing since the Soviet era. The site has produced material from the Byzantine, Khazar, Genoese, and Ottoman periods, making it one of the richest archaeological deposits on the northern Black Sea coast.

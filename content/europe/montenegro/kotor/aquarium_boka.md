@@ -6,6 +6,7 @@ longitude: 18.7641
 tags:
   - things_to_do
   - museum
+score: 5.5
 ---
 
 Aquarium Boka, a couple of kilometres north of the old town in the suburb of Dobrota, is a small but well-presented public aquarium focused on the marine life of the Bay of Kotor itself — grouper, scorpionfish, octopus, sea horses, and the various rays that move through the bay seasonally.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - korean
+score: 6.2
 ---
 
 BCD Tofu House is the Buena Park outpost of a Korean chain specialising in soondubu jjigae — a soft tofu stew served in a stone bowl still bubbling violently when it arrives at the table. You choose your spice level and your protein (beef, seafood, dumpling), and an egg is cracked into the broth at the table.

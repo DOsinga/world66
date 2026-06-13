@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Circular sea fort 300m offshore in the bay
+score: 6.9
 ---
 
 A round, low fort sitting on its own in the bay just off the Cidade Baixa waterfront. Built in stages from the 17th century onward as the seaward defence of Salvador, it is one of the few circular sea forts in the Americas and a striking sight from the Lacerda Elevator's terrace above.

@@ -9,6 +9,7 @@ tags:
 latitude: 52.3669
 longitude: 9.7414
 snippet: 17-storey curving glass headquarters of the regional state bank
+score: 6.4
 ---
 
 The 17-storey 1990s headquarters of the state bank Norddeutsche Landesbank, on the eastern edge of the city centre. Designed by Stuttgart firm Behnisch + Partner, the curving glass volumes step outward as they rise, and a public passageway threads through the ground floor between Friedrichswall and Aegidientorplatz.

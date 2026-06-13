@@ -8,6 +8,7 @@ tags:
 title: Hull and East Riding Museum
 type: poi
 snippet: "Free archaeology museum covering East Yorkshire from the Iron Age to the Romans, with the Hasholme logboat as centrepiece"
+score: 8.6
 ---
 
 The Hull and East Riding Museum focuses on the deep prehistory and Roman archaeology of the region. The single most striking object is the Hasholme logboat — a 12-metre Iron Age vessel hollowed from a single oak around 300 BC, recovered from a Yorkshire field in 1984 and now displayed in its own gallery. Around it are dioramas of Iron Age life, a reconstructed Roman bathhouse, and finds from local digs.

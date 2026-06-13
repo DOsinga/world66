@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.3774
 longitude: -84.9641
+score: 6.3
 ---
 
 Magnus City Park is a waterfront park on the north side of town with direct access to the pebbly shore of Little Traverse Bay. It is the most popular spot for Petoskey stone hunting within the city limits — the bay bottom here is rocky and regularly turns up fresh specimens. The park has a boat launch, a picnic area, and good views across the bay toward Walloon Lake and the forested hills to the south.

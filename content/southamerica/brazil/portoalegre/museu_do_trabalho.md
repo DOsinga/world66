@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museu do Trabalho
 type: poi
+score: 7.7
 ---
 
 The Museu do Trabalho — Museum of Work — is housed in a beautifully preserved early 20th-century workers' social club building in the Floresta neighbourhood, north of the city centre. It is one of Porto Alegre's best-kept secrets: a small museum with a collection dedicated to the history of labour in Rio Grande do Sul, from the early industrial period through the political upheavals of the 20th century, presented in a building that is itself a piece of labour history.

@@ -13,6 +13,7 @@ story: >
   pebbles posted back to Thailand from around the world by visitors hoping to break the
   curse. There is a small shrine to **Chao Pho Tarutao**, the spirit of the islands,
   where stones are now ritually returned.
+score: 7.5
 ---
 
 Ko Hin-Ngam — the "island of beautiful stones" — is a tiny outcrop a short longtail ride west of Ko Lipe, and most snorkel tours stop here for half an hour. The entire beach is composed of dark, sea-polished pebbles of every size, gleaming wet at the waterline and clattering musically when waves wash over them. There is no sand at all, and the effect is striking — particularly in late afternoon light.

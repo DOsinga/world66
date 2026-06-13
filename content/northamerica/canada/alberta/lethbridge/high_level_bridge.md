@@ -13,6 +13,7 @@ story: >
   it is still the longest and highest steel trestle railway bridge in the world. When it was 
   completed, engineers estimated it could withstand winds of 150 mph; it has been tested by 
   chinook winds many times since and is still standing.
+score: 8.3
 ---
 
 The High Level Bridge spans the Oldman River valley and is visible from much of Lethbridge, its black steel trestle rising 96 metres above the valley floor. Built in 1909 for the Canadian Pacific Railway, it carries trains across the river coulee and is still in active freight use today. From the valley floor in Indian Battle Park, the scale of it is genuinely impressive — the steel lattice towers above you and the bridge stretches away into the distance, dwarfing everything below.

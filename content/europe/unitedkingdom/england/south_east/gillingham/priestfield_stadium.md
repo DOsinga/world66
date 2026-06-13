@@ -6,6 +6,7 @@ longitude: 0.5608
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 Priestfield is the home of Gillingham FC, the only Football League club in Kent, and the most stubbornly traditional of the small grounds in the south-east. The Gills have played here since 1893, and despite a series of corporate renamings (KRBS, MEMS) the locals still call it Priestfield and probably always will.

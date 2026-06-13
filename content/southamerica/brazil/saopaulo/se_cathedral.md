@@ -10,6 +10,7 @@ tags:
   - centro
 neighbourhood: Centro
 snippet: "São Paulo's neo-Gothic cathedral — the geographic zero point of the city"
+score: 7.6
 ---
 
 The Catedral da Sé sits at the heart of the original colonial centre, on the Praça da Sé that gives São Paulo its kilometre-zero — every road distance in the state is measured from here. The current building was begun in 1913 in a neo-Gothic Italian style, finished in 1954, with twin 92-metre towers and a Renaissance-style dome added later. The eight thousand-pipe Italian organ inside is one of the largest in Latin America.

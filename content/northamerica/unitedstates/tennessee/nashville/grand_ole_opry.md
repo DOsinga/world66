@@ -9,6 +9,7 @@ tags:
   - music_venue
   - landmark
 story: "The Grand Ole Opry has been running every week since 1925, making it the longest-running radio broadcast in American history. The stage you walk out onto is the same circle of oak floorboards lifted from the Ryman Auditorium when the show moved here in 1974 — a six-foot disc of dark wood that nearly every country and bluegrass artist of the last century has stood on."
+score: 9.1
 ---
 
 The Grand Ole Opry, the show that effectively created the country music industry, broadcasts live every weekend from this purpose-built auditorium in Music Valley, ten miles north-east of downtown. The 4,400-seat hall is intentionally rustic — wooden pews, a barn-board backdrop — and the show is consciously old-fashioned: a rotating line-up of around a dozen acts, two-song slots, comedy in between, all broadcast live on WSM-AM.

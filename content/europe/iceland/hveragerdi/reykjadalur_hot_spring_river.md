@@ -9,6 +9,7 @@ latitude: 64.0300
 longitude: -21.1800
 story: >
   The name Reykjadalur means 'steam valley' in Icelandic — an accurate description given the visible steam rising from the ground on cold days. The geothermal river temperature changes along its course: upstream it is too hot to enter, and downstream it cools to cold. The sweet spot where hikers bathe is a narrow zone that shifts slightly with rainfall and seasonal changes, so you have to walk the bank to find the right temperature.
+score: 9.0
 ---
 
 The Reykjadalur valley walk is one of the best free outdoor experiences in Iceland. A marked trail starts from the car park at the edge of Hveragerði and climbs gradually through an open valley full of geothermal vents and steaming ground, reaching the hot river in about 3 km (roughly one hour each way at a moderate pace).

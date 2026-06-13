@@ -13,6 +13,7 @@ story: >-
   120 feet high and 24 feet across. The 1980s conversion drilled corridors
   between the silos at floor level to make rooms — the corner rooms have
   curved bedroom walls that follow the cylinder.
+score: 6.0
 ---
 
 Quaker Square is the cluster of 36 industrial grain silos at the south end of downtown Akron, built by the Quaker Oats Company in 1932 and converted in the late 1970s into a hotel with — famously — round rooms inside the silos themselves. The complex passed through several owners; the Crowne Plaza hotel that occupied it from the 1990s closed in the 2010s and the University of Akron now owns the buildings and uses parts of the complex as student housing.

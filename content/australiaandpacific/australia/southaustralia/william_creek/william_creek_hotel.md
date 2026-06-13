@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
 latitude: -28.9078
 longitude: 136.3413
+score: 7.3
 ---
 
 The William Creek Hotel is arguably the most famous pub in outback South Australia, and it has the decor to prove it: the interior walls and ceiling are covered in business cards, banknotes, and visiting mementos left by travellers over decades. Every flat surface has been colonised. The result is a strange, dense archive of the people who have stopped here while crossing one of the most remote landscapes in Australia.

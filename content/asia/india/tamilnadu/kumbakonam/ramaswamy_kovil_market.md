@@ -8,6 +8,7 @@ tags:
 - sight
 - market
 snippet: "Old bazaar lanes around the temple core, busy with metalware, silks, and brass lamps"
+score: 7.4
 ---
 
 The streets that run between the major temples — Big Bazaar Road, Town Hall Road, and the lanes leading to the Mahamaham tank — form one of the most atmospheric bazaars in Tamil Nadu. Kumbakonam is a noted centre for brassware and silver puja items, sold from shops whose owners often display the family-made trays of oil lamps, bells, and small Nataraja figures in the doorway.

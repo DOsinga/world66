@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.515
 longitude: 45.687
+score: 5.8
 ---
 
 Bichanak is the last inhabited village before the Batabat plateau, strung out along the road that climbs from Shahbuz town towards the alpine pastures. Wooden houses, sheep pens, and a small mosque sit in a partly wooded valley at around 2,100 metres — the highest permanent settlement in this part of Nakhchivan and a useful place to stop, fill a water bottle, or buy fresh yogurt and bread from one of the small shops by the road.

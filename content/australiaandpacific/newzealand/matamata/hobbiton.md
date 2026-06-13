@@ -7,6 +7,7 @@ tags:
 latitude: -37.8575
 longitude: 175.6797
 story: When the original set was built for The Lord of the Rings, almost everything except the trees was made of polystyrene and plywood and was meant to be dismantled when filming ended. The army of contractors did exactly that. When Peter Jackson came back for The Hobbit a decade later, the Alexander family insisted he build it again — this time in permanent timber, plaster and stone. The hobbit hole windows are now real glass, the gardens are tended weekly, and the Green Dragon pours real ale.
+score: 9.2
 ---
 
 The Hobbiton Movie Set is a working tourist attraction built on the Alexander family's 500-hectare sheep farm, twenty minutes' drive west of Matamata. The site was selected for the Shire scenes in 2000 because the rolling green hills, the large pine tree on the ridge, and the small lake at the bottom matched Tolkien's descriptions almost exactly. After The Hobbit films wrapped in 2012, the set was rebuilt permanently and opened to the public.

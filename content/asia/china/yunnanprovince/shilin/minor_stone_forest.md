@@ -13,6 +13,7 @@ story: >
   Stone Forest — the column pointed out to tourists, a tall graceful formation, bears an
   undeniable resemblance to a standing figure. The story was made into a 1964 Chinese film
   that became famous across the country.
+score: 7.9
 ---
 
 The Minor Stone Forest sits adjacent to the main zone and is noticeably quieter even when the major section is packed. The stone here is the same Permian limestone, but the formations are sparser and the paths less developed, giving the area a more exploratory feel. Tibetan goats graze among the columns in some sections, and local Yi women in traditional embroidered dress sometimes offer to guide visitors through the less-marked routes.

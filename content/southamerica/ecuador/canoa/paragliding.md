@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Paragliding at Canoa
 type: poi
+score: 7.6
 ---
 
 The cliffs rising 150 metres above the town at Canoa's southern end have become one of the most popular paragliding and hang-gliding sites on Ecuador's coast. Strong updrafts rise off the cliff face consistently from late morning, and the open beach below provides an easy landing zone. On a good day you can soar for 30 minutes or more above the Pacific, looking down at the dark sand and the curving coastline toward Bahía de Caráquez.

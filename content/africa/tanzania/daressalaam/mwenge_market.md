@@ -10,6 +10,7 @@ tags:
 - mwenge
 title: Mwenge Carvers' Market
 type: poi
+score: 6.8
 ---
 
 A few minutes north of the Village Museum, behind a low concrete wall on Sam Nujoma Road, several hundred carvers and painters work outdoors under thatched roofs. The dominant trade is Makonde — dense ebony figures of family groups, abstract spirits, and the rough-grained "shetani" devil masks that the Makonde turned into a recognisable export — but you also find Tinga Tinga oils in primary colours, beaded jewellery, and Maasai blanket cloth.

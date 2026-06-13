@@ -15,6 +15,7 @@ story: >
   90 centimetres, making them among the biggest trilobite fossils ever discovered
   anywhere on earth. They were only identified as scientifically significant in
   the 1990s.
+score: 8.2
 ---
 
 The Arouca Geopark covers 328 square kilometres of mountain terrain and was designated a UNESCO Global Geopark in 2009. Its defining feature is a set of Ordovician trilobite fossils exposed in slate outcrops at Canelas, a short drive from the town centre. The fossils are enormous — the largest reach nearly a metre in length — and they are visible in their natural setting, embedded in slabs of dark schist on a hillside.

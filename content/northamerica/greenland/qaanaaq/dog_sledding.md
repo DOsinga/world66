@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 77.4686
 longitude: -69.2223
+score: 8.8
 ---
 
 Qaanaaq is one of the last places in the Arctic where dog teams are not a tourist novelty but a basic working tool. Most of the hunters in town still keep teams of 8 to 14 Greenland dogs chained on the beach below the houses, and from October to June they are used on every hunting trip, every visit to a neighbouring settlement and every haul of meat from the floe edge.

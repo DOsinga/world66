@@ -10,6 +10,7 @@ tags:
 snippet: One of the oldest universities in the Americas, founded 1624
 story: >
   Among the university's early alumni were several of the men who would later sign the Bolivian Act of Independence, drafting their revolutionary ideas in the same colonial halls where Spanish theologians had once taught them obedience. Sucre likes to point out that South America's independence was largely a movement of San Xavier graduates.
+score: 8.1
 ---
 
 The Universidad Mayor Real y Pontificia de San Francisco Xavier de Chuquisaca was founded by the Jesuits in 1624, making it one of the oldest universities still operating in the Americas — older than Harvard. The original colonial buildings around the small Plaza San Francisco Xavier on Calle Nicolás Ortiz are open to visitors during the day. The rectory courtyard with its slim white columns is photogenic, and the small Museo Universitario inside displays portraits of distinguished alumni, antique scientific instruments, and an original first edition of the constitution of the Audiencia de Charcas.

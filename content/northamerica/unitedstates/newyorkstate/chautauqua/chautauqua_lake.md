@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.0
 ---
 
 Chautauqua Lake is a 27-kilometre glacially formed lake running north-south through Chautauqua County, its northern end near the town of Westfield and its southern end at Jamestown. The Institution sits on the western shore of the northern section. The lake is warm enough for swimming through the summer and is popular for fishing — walleye, muskellunge, and largemouth bass are the main catches.

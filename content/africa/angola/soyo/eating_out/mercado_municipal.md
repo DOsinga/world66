@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -6.139
 longitude: 12.370
+score: 5.8
 ---
 
 Soyo's municipal market is the main place to buy fresh produce, fish, and local provisions. Vendors sell fruit, vegetables, dried fish, and basic staples. It's busiest in the morning, when the day's fish catch arrives. For self-catering travellers, this is the most practical source of food.

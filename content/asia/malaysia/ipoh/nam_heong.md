@@ -8,6 +8,7 @@ tags:
   - cafe
   - old_town
 neighbourhood: Old Town
+score: 7.3
 ---
 
 The most famous of Ipoh's three side-by-side white-coffee kopitiams, all on the same corner of Jalan Bandar Timah — Nam Heong, Sin Yoon Loong and Thean Chun. Nam Heong does the local breakfast of **white coffee** (roasted with palm-oil margarine and served with condensed milk), **kaya toast** (butter and coconut jam on charcoal-grilled bread), and a couple of fried eggs.

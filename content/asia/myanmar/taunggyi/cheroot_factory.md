@@ -7,6 +7,7 @@ tags:
   - sight
 title: Cheroot Factory
 type: poi
+score: 6.0
 ---
 
 Taunggyi is famous throughout Myanmar for its cheroots — large, loosely packed cigars wrapped in a green leaf and smoked by locals of all ages and both sexes. Several small workshops in town allow visitors to watch the production process. Workers, typically women, sit cross-legged on the floor rolling the cheroots by hand with speed and dexterity, filling them with a mixture of tobacco, dried banana, and other local herbs that give Shan-style cheroots their distinctive mild flavour.

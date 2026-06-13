@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.1597
 longitude: 97.9335
+score: 6.9
 ---
 
 A short walkway along the west bank of the Yuam River is the closest Mae Sariang has to a promenade. In the early morning monks cross the footbridge from the eastern bank on their alms round, and small wooden boats nose out from the bank for the run upstream.

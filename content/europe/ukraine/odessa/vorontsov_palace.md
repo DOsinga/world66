@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Vorontsov Palace
 type: poi
+score: 7.1
 ---
 
 The Vorontsov Palace sits at the far western end of Prymorsky Boulevard, its neoclassical colonnade framing a view over the port and the open Black Sea. Built in the 1820s as the residence of Count Mikhail Vorontsov, the city's governor-general, the complex combines a formal palace with a semicircular belvedere that serves as one of Odessa's best viewpoints.

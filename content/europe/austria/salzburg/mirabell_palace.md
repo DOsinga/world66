@@ -9,6 +9,7 @@ tags:
   - architecture
   - neustadt
 story: "Built in 1606 by Prince-Archbishop Wolf Dietrich for his mistress Salome Alt and their fifteen children, the palace was originally called Schloss Altenau. After Wolf Dietrich's spectacular downfall — he was imprisoned in Hohensalzburg by his own nephew — the new archbishop renamed it Mirabell and removed every reference to Salome from the masonry."
+score: 8.3
 ---
 
 The pale yellow palace across the river houses the mayor's offices, but the Marble Hall is one of Europe's most beautiful concert venues — Mozart performed here as a child, and small chamber concerts are still held most evenings.

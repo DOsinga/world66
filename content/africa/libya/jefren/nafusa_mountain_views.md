@@ -7,6 +7,7 @@ tags:
   - landscape
 latitude: 32.0640
 longitude: 12.5300
+score: 7.6
 ---
 
 The roads around Jefren open onto broad views across the Nafusa Mountains, with ridges falling toward dry valleys and the distant coastal plain. In late afternoon the rock takes on a warmer colour and the villages sit clearly against the slopes.

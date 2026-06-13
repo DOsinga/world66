@@ -9,6 +9,7 @@ tags:
   - historic_house
 sources:
   - https://en.wikipedia.org/wiki/Herzog_August_Library
+score: 9.0
 ---
 
 The Herzog August Bibliothek is one of the most important research libraries in the world for medieval and early modern European manuscripts and printed books. Founded in 1572, it reached its zenith under Duke August the Younger, whose personal collection formed its core, and by the mid-seventeenth century it was the largest library in Europe with around 135,000 volumes. The building itself is a handsome baroque structure on Lessingplatz.

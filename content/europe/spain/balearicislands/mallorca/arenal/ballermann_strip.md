@@ -14,6 +14,7 @@ story: >
   originally lined along this stretch of beach in the 1970s. A 1992 German
   comedy film *Ballermann 6* satirised the German package-holiday scene here and
   inadvertently immortalised both the name and the place it was mocking.
+score: 5.8
 ---
 
 The Ballermann strip is the entertainment spine of S'Arenal — a kilometre or so of bars, pubs, and restaurants along and just behind the beachfront, aimed almost exclusively at German-speaking holiday-makers. It has been the dominant force in S'Arenal's character since the 1980s, when charter flights from Germany and Austria brought mass tourism to this end of the Bay of Palma.

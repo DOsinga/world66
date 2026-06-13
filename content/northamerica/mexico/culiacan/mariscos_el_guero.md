@@ -8,6 +8,7 @@ tags:
   - seafood
 latitude: 24.8010
 longitude: -107.3920
+score: 6.7
 ---
 
 Culiacan has dozens of mariscos restaurants but El Guero consistently earns its reputation with locals who know. The aguachile negro — made with Worcestershire sauce, soy, and dried chilies to a deep, smoky version of the classic — is not what you expect and is entirely addictive. The ceviche is made fresh to order with whatever shrimp came in that morning.

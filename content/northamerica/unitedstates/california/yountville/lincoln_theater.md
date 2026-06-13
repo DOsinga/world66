@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 address: 100 California Drive, Yountville
+score: 6.5
 ---
 
 The Lincoln Theater is a 1,200-seat concert hall on the Veterans Home grounds, used for symphony, dance, film, and touring acts. The acoustics are widely praised for a hall this size, and the resident programming — the Napa Valley Symphony, Festival del Sole performances during the summer, and a steady run of film screenings — is more varied than the village suggests.

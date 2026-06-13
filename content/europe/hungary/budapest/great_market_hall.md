@@ -8,6 +8,7 @@ tags:
 title: Great Market Hall
 type: poi
 story: "The Great Market Hall opened in 1897 as part of a network of covered markets built to modernise Budapest's food supply. It was damaged in the Second World War and sat in a deteriorated state for decades before a full restoration in 1994. The restoration was funded partly by the World Bank — which sounds unlikely, but post-communist Hungary needed capital for exactly this kind of infrastructure."
+score: 7.7
 ---
 
 Budapest's Central Market Hall is the largest and most impressive of the five covered markets built in the 1890s. The building is a beautiful piece of industrial Gothic: red-brick exterior with Zsolnay ceramic tile roofs, a soaring iron-and-glass interior, three floors of stalls stretching back from the Danube. Ground floor is food — produce, meat, pickles, paprika in every grade and quantity. Upper floors are tourist-oriented with embroidery, folk crafts, and a food court running the mezzanine.

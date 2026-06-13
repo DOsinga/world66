@@ -10,6 +10,7 @@ tags:
 - bar
 title: The Tea Gardens
 type: poi
+score: 5.2
 ---
 
 One of the more popular bars in the Bondi Junction area. Luxurious interior, stylish clientele, and a dining menu that punches above its weight for both quality and price.

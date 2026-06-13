@@ -8,6 +8,7 @@ tags:
   - park
   - sight
 snippet: Compact downtown park with fountains, lawns, and a busy events programme
+score: 5.8
 ---
 
 LeBauer Park opened in 2016 as the centrepiece of Greensboro's downtown revival. Within four square blocks the park packs in a fountain plaza, a great lawn for concerts and movie nights, a dog park, and a children's play area. It hosts farmers' markets, food trucks, free yoga classes, and regular summer events.

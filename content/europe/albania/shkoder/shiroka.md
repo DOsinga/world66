@@ -6,6 +6,7 @@ longitude: 19.4640
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 A small fishing village on the south shore of Lake Shkodër, around six kilometres west of the city. A single road runs along the waterfront, with a row of unfussy fish restaurants, a few guesthouses, and a tiny pebble beach at the end. The bike ride out from Shkodër takes around 30 minutes on the dedicated lakeside cycle path.

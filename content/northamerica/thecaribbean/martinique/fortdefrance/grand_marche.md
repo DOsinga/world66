@@ -11,6 +11,7 @@ longitude: -61.0693
 snippet: Fort-de-France's central covered market, alive with spices, rum, and Creole produce
 story: >
   The market occupies a 19th-century iron pavilion near the waterfront — the same architectural fashion that produced the Schoelcher Library and the cathedral. Vendors have been selling the same things here for generations: madras fabric, woven baskets, vanilla, dried spices for Creole cooking, and the flat clay pots used in traditional Martiniquan cuisine. The rum vendors in the back sell bottles from small distilleries you will never find in a shop.
+score: 8.0
 ---
 
 The Grand Marché is Fort-de-France's central covered market, a sprawling covered space that functions as the most authentic slice of Martiniquan commercial life in the capital. Vendors in madras-pattern headscarves sell produce, spices, craft goods, and prepared food across multiple levels of a 19th-century iron pavilion.

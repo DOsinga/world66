@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 45.1648
 longitude: 10.7918
+score: 6.9
 ---
 
 Mantuan cuisine is one of the most distinctive in Lombardy, shaped by the sweet-sour combinations that characterise Renaissance cooking — a tradition the city has maintained with unusual consistency. The signature dish is tortelli di zucca: fresh pasta squares filled with roasted pumpkin, crushed amaretti biscuits, mostarda di Cremona (candied fruit in mustardy syrup), and Parmigiano. The filling is sweet and slightly spiced; the dish is finished with brown butter and sage, or sometimes with meat ragu.

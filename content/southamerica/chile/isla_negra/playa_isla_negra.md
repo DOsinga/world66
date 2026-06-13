@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.4
 ---
 
 The beach at Isla Negra is a long stretch of dark sand and broken rocks pounded by Pacific surf. It is not a swimming beach — the water is cold, the currents serious, and the rocks unforgiving — but it is a fine place for a walk after visiting Neruda's house, with views back up at the writer's terrace and the rocky island offshore that gave the village its name.

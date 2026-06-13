@@ -9,6 +9,7 @@ tags:
 - nature
 - birdwatching
 story: The Castro Marim and Vila Real de Santo António Marsh Natural Reserve was created in 1975, making it Portugal's first nature reserve. The saltpans and lagoons were once worked commercially for salt — some still are — and the evaporation ponds that result create exactly the shallow, saline conditions that flamingos, avocets, spoonbills, and black-winged stilts prefer. In spring, up to 2,000 greater flamingos use the reserve, making it one of the best flamingo-watching sites in Europe outside the Camargue.
+score: 7.8
 ---
 
 The Reserva Natural de Castro Marim covers the saltmarshes and lagoons just north of Monte Gordo, at the point where the Guadiana River meets the sea. The reserve protects one of the most significant wetland habitats in southern Portugal, with saltpans, reedbeds, and coastal scrub supporting an exceptional range of bird species throughout the year.

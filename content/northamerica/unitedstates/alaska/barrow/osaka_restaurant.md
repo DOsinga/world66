@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - japanese
+score: 5.3
 ---
 
 Osaka is the local Japanese restaurant — a reminder that Barrow's small population includes families from far further afield than Alaska. The menu runs to sushi, teriyaki, tempura, and ramen, all surprisingly competent given the logistics involved in getting raw fish to the top of the continent.

@@ -7,6 +7,7 @@ tags:
 latitude: 46.0167
 longitude: 11.0500
 snippet: "The 2181-metre mountain on Trento's doorstep — Trentino's nearest ski slope and walking ground"
+score: 7.3
 ---
 
 Monte Bondone rises directly west of Trento, its bulk visible from almost every street in the city. The summit (2181 m) is reached by a switchback road, by the Trento–Sardagna cable car followed by a bus, or — for the energetic — on foot, on a long zigzag trail from the Sardagna terminus.

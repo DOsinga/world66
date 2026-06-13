@@ -8,6 +8,7 @@ latitude: 56.70694
 longitude: -3.75972
 sources:
   - https://en.wikipedia.org/wiki/Loch_Faskally
+score: 7.6
 ---
 
 Loch Faskally is a man-made reservoir created in 1950 when the Pitlochry hydroelectric dam was built across the River Tummel. The dam backing up the river created a loch about 3km long and of considerable beauty — a sheet of water in a wooded valley, edged by hills, with the theatre and the fish ladder dam visible at its southern end. The creation of the reservoir drowned some of the old river valley and several farm buildings; the Tummel running free through the gorge below the dam gives a sense of what was lost, and what remains.

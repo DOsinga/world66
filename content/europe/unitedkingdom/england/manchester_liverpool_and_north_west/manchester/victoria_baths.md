@@ -19,6 +19,7 @@ story: >
   £3 million in heritage lottery funding and saved it from permanent dereliction.
 sources:
   - https://en.wikipedia.org/wiki/Victoria_Baths,_Manchester
+score: 8.2
 ---
 
 Victoria Baths is a red-brick and terracotta monument to the municipal ambition of Edwardian Manchester. The main facade, with its Islamic-influenced geometric tiles and Gothic detailing, gives no hint that this is a swimming baths rather than a town hall or museum. Inside, the original pool halls retain their galleries, changing cubicles, and — in the first-class pool — extraordinary stained glass windows.

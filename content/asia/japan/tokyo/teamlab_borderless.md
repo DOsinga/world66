@@ -11,6 +11,7 @@ tags:
 title: teamLab Borderless
 type: poi
 url: borderless.teamlab.art
+score: 8.2
 ---
 
 teamLab Borderless is the most visited art museum in the world — an entirely digital experience with no boundaries between rooms or works, where the art flows through space and responds to the presence of visitors. The experience is genuinely disorienting and extraordinary: rooms filled with floating light, waterfall simulations, mirror mazes with drifting flowers, and audio-visual environments that change with the time of day.

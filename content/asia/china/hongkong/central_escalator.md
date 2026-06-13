@@ -12,6 +12,7 @@ story: >
   At 10am it reverses and runs uphill for the rest of the day. When it opened in 1994 it was meant to
   solve the problem of residents walking down steep steps to work. Instead it generated an entirely new
   urban ecosystem — the SoHo restaurant district grew up around the escalator within a decade.
+score: 8.9
 ---
 
 A 792-metre-long series of moving walkways and escalators connecting Central with the Mid-Levels residential district on the hillside above, the Central-Mid-Levels Escalator is both a genuine piece of urban infrastructure and an extraordinary way to see Hong Kong. It passes through narrow streets, under residential blocks, past wet markets and temples, and through SoHo — the restaurant and bar district that grew up around it.

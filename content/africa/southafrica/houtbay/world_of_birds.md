@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -34.0175
 longitude: 18.3625
+score: 7.4
 ---
 
 World of Birds is the largest bird park in Africa, housing over 3,000 birds across around 400 species in large walk-through aviaries. The collection includes both indigenous South African species and exotic birds, and the scale of the aviaries — some large enough to walk through with free-flying birds — makes this a very different experience from a conventional zoo enclosure.

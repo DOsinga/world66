@@ -13,6 +13,7 @@ story: >
   their wax figures, dressed in the same robes they wore in life, are still venerated in the main hall.
 sources:
   - https://en.wikipedia.org/wiki/Wat_Chalong
+score: 8.8
 ---
 
 Wat Chalong is the most important Buddhist temple in Phuket and the most visited. Its official name is Wat Chaiyathararam, but nobody calls it that. The compound sprawls across a large area and contains multiple buildings in Thai temple architecture — gilded roofs, multi-tiered prangs, and a large pagoda that is the focal point of the site. Inside the pagoda is said to be a relic of the Buddha.

@@ -12,6 +12,7 @@ story: The museum was founded in 1904 when Fyodor Kovalenko, a wealthy grain mer
   Kovalenko had been quietly buying Russian and Western European paintings for decades,
   and his collection — which he kept in his house — was better than most provincial
   Russian cities could have hoped for. The museum bears his name in recognition.
+score: 7.3
 ---
 
 The Kovalenko Art Museum on Krasnaya Street is one of the better regional art museums in southern Russia, with a collection of Russian art from the 18th century to the 20th century, Western European paintings and decorative arts, and local Kuban material. The Russian section is the strongest, with works spanning the Imperial academic tradition through to the Soviet period.

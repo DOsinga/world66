@@ -7,6 +7,7 @@ address: Khayaban-e-Suhrawardy, G-5
 tags:
   - bars_and_cafes
   - bar
+score: 6.1
 ---
 
 The Serena, Islamabad's diplomatic-grade five-star hotel, runs one of the few permitted bars in the city for non-Muslim foreign passport holders. The lounge in the back of the hotel serves imported beer, wine and spirits — pricey by any standard, but the only above-board option for many visitors.

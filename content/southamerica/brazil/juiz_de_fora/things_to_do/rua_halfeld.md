@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.7645
 longitude: -43.3494
+score: 7.3
 ---
 
 Rua Halfeld is the main pedestrian street of Juiz de Fora, running through the commercial heart of the city centre. Named after the German engineer Heinrich Wilhelm Halfeld, who helped plan the city in the 19th century, it is the best place to get a sense of the city's Belle Epoque ambitions — several facades along the street date from the coffee-boom era, when local merchants built with European pretensions.

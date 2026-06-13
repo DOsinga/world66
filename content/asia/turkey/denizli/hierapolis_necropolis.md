@@ -8,6 +8,7 @@ tags:
 - sight
 - archaeological_site
 snippet: One of Anatolia's largest ancient cemeteries, with more than a thousand tombs lining the road out of Hierapolis
+score: 8.0
 ---
 
 Stretching for almost two kilometres along the old road leading north out of the city, the **Necropolis of Hierapolis** is one of the most extensive in Anatolia. More than 1,200 tombs cluster on either side of the route in a chaotic city of the dead: tall house-tombs with miniature pitched roofs, circular tumulus burials piled with stones, and elaborate sarcophagi carved with garlands and Medusa heads. Their owners came from across the Roman world to take the hot-spring cure — and many never went home.

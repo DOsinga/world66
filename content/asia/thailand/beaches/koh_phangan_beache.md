@@ -9,6 +9,7 @@ tags:
 - beach
 title: Koh Phangan Beaches
 type: poi
+score: 8.6
 ---
 
 Koh Phangan has two personalities. The southern tip around Haad Rin is where the Full Moon Party happens — loud, crowded, and not for everyone. The rest of the island is surprisingly quiet, with dozens of beaches that range from developed to nearly empty.

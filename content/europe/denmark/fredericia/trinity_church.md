@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 55.5660
 longitude: 9.7530
+score: 7.2
 ---
 
 Trinity Church (Trinitatis Kirke) is Fredericia's main Lutheran parish church, a brick building begun in 1690 and finished in 1707. It is more interesting than the modest exterior suggests: the wooden box pews, the ornate Baroque pulpit and the carved altarpiece are all original.

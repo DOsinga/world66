@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.6893
 longitude: 27.2668
+score: 7.1
 ---
 
 Mikkeli Cathedral is the most prominent building in the town, a large red-brick Lutheran church designed by Josef Stenb‌äck and completed in 1897. The interior is notable for the altarpiece painted by Pekka Halonen in 1899, depicting the Sermon on the Mount in a distinctly Finnish landscape — birch trees, lake light, and Finnish faces. The painting is one of the finest examples of National Romantic religious art in Finland.

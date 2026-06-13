@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - restaurant
 snippet: Long-running brasserie on Vestergade with an outdoor terrace
+score: 5.6
 ---
 
 Froggy's, on the busy pedestrianised Vestergade, has been a fixture of central Odense since the 1980s. The menu is European brasserie staples — steak frites, mussels in cream, salade Niçoise — done well and served at reasonable prices. The terrace, full whenever the sun is out, is one of the prime people-watching spots in the city.

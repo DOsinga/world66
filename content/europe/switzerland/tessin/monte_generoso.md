@@ -14,6 +14,7 @@ story: >
   tradition of ambitious contemporary architecture in unexpected mountain settings.
 sources:
   - https://www.myswitzerland.com/en-ch/destinations/ticino/
+score: 8.1
 ---
 
 Monte Generoso (1,704 m) rises on the border between Ticino and Italy, above the Mendrisiotto — the southernmost tip of Switzerland. A rack railway from Capolago on Lake Lugano reaches the summit, where the view on a clear day extends from the Alps to the Apennines, with the entire Po Plain spread between them. On exceptional days, the dome of Milan Cathedral is visible 55 kilometres to the south.

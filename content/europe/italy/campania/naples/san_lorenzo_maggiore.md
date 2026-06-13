@@ -13,6 +13,7 @@ story: >
   church of San Lorenzo Maggiore on Holy Saturday 1336. The encounter inspired
   most of his early work. Whether it happened here exactly, or at all, the
   story belongs to this church.
+score: 8.8
 ---
 
 A Gothic church on Via dei Tribunali with a remarkable surprise beneath it: excavations under the floor have revealed the ancient Greek and Roman remains of Neapolis's marketplace, including the macellum (meat market), a treasury, a bakery, and sections of the ancient street. The underground tour descends through 2,500 years of urban history in 30 minutes.

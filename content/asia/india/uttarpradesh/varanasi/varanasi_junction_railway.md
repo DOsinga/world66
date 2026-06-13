@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.326944
 longitude: 82.986389
+score: 4.2
 ---
 
 Varanasi Junction (Kashi Station) is one of the busiest railway stations in Uttar Pradesh and the main arrival point for visitors to the city. It is worth noting not as a tourist attraction but as an experience in itself: a large, chaotic Indian railway station serving hundreds of trains a day, with a distinctive chai culture on the platforms and the constant activity of a major transit hub.

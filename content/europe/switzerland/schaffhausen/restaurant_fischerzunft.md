@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.6959
 longitude: 8.6335
+score: 6.8
 ---
 
 The Fischerzunft is one of Switzerland's most accomplished restaurants, set in a guildhall directly on the Rhine waterfront with a dining room that manages to be elegant without being stiff. The menu is French-Swiss with strong seasonal foundations — expect dishes built around local perch, veal, and whatever the markets are providing that week. The wine list is serious and the service is polished but not oppressive.

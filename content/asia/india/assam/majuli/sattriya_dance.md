@@ -11,6 +11,7 @@ story: >
   recognised it as one of the country's eight classical dance forms in 2000. The recognition came
   partly because of Majuli — the island was identified as the place where the tradition had survived
   most completely, protected by the monastic structure that embedded it in daily spiritual life.
+score: 8.3
 ---
 
 Sattriya is one of India's eight classical dance forms, and Majuli is where it has been practised most continuously. Developed by Srimanta Sankaradeva in the 15th century as a vehicle for devotional storytelling, it combines precise footwork, elaborate hand gestures (mudras), and facial expressions derived from Sanskrit theatrical conventions. For centuries it was performed only by monks within the satras; women and outsiders were not involved. Today some satras train female practitioners, and public performances are held more frequently.

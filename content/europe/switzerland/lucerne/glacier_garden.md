@@ -9,6 +9,7 @@ latitude: 47.0592
 longitude: 8.3107
 story: >
   The garden's geological potholes were discovered by accident in 1872 when a Lucerne businessman was excavating a cellar. Workers broke through into a series of smooth-sided holes carved into the bedrock by meltwater torrents from a glacier that stood here 20,000 years ago. The deepest of the 32 potholes is nine metres — shaped like an enormous bath, still perfectly formed after millennia.
+score: 6.6
 ---
 
 The Glacier Garden is a small geological park on the hill above the Lion Monument, where a series of smooth meltwater potholes carved by a glacier over 20,000 years ago are preserved in the open air. The site also contains a mirror maze, a museum with dioramas of the Ice Age landscape, and a 19th-century relief model of Switzerland that once stood at the Paris World's Fair.

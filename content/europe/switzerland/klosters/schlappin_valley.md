@@ -7,6 +7,7 @@ tags:
 latitude: 46.906
 longitude: 9.913
 story: The Schlappin is a narrow side valley running east from Klosters Dorf, accessible by road up to the hamlet of Schlappin and then on foot through alpine pasture toward the Furkla pass on the Austrian border. Virtually no foreign tourists come here — it is farm country, with summer grazing and a few working alp cabins, entirely different in character from the ski resort a few kilometres away.
+score: 7.8
 ---
 
 The Schlappin Valley branches off from the main Klosters settlement at Dorf, rising east through forest and pasture into a quiet alpine corridor. It is one of the best options for walkers who want to get away from the ski area infrastructure and into genuine rural mountain landscape. The trail system is well-marked but carries only a fraction of the traffic on the main mountain routes.

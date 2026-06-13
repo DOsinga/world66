@@ -9,6 +9,7 @@ tags:
 latitude: 36.3261
 longitude: -119.6519
 address: "200 N. Santa Fe Ave., Hanford 93230"
+score: 6.4
 ---
 
 The original Atchison, Topeka and Santa Fe Railway depot was built in 1898 and was for decades the reason Hanford existed. Today it still serves Amtrak's San Joaquins line, with several trains a day running between Bakersfield and Oakland or Sacramento. The Spanish-revival building has been carefully restored and is a pleasant place to wait, even if you are not catching a train.

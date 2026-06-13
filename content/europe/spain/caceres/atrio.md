@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.4738
 longitude: -6.3712
+score: 7.5
 ---
 
 Atrio is one of Spain's most celebrated restaurants — a two-Michelin-starred institution inside a beautifully converted building right in the old town. Chef Toño Pérez has been cooking here for decades, building a menu that uses Extremaduran ingredients (ibérico pork, game, local truffles, torta del Casar cheese) as the foundation for technically ambitious cuisine.

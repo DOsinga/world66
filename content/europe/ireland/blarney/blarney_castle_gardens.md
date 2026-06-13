@@ -8,6 +8,7 @@ tags:
 latitude: 51.9289
 longitude: -8.5710
 snippet: "Poison garden, fern garden, and the mysterious Rock Close — surprisingly good grounds."
+score: 8.3
 ---
 
 The grounds surrounding Blarney Castle are substantially more interesting than most visitors expect. Ticket entry covers both the castle tower and the entire estate, and the gardens deserve more time than most people give them.

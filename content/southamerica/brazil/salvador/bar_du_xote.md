@@ -9,6 +9,7 @@ tags:
 - bar
 - rio_vermelho
 snippet: Live forró nights in Rio Vermelho
+score: 6.9
 ---
 
 A live forró bar in Rio Vermelho, where the dancing starts around 11pm and continues to dawn. The house band plays the standard pé-de-serra repertoire — accordion, triangle, zabumba — and the floor fills with experienced couples and beginners taking their first lessons.

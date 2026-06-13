@@ -16,6 +16,7 @@ story: >
   ferry ticket and has been a fixture of the Wangerooge arrival experience for over a century.
 sources:
   - https://en.wikipedia.org/wiki/Wangerooge
+score: 7.2
 ---
 
 The Inselbahn Wangerooge is the island's narrow-gauge railway, running for about two kilometres between the ferry pier on the south shore and the village centre. Built in 1897 to handle ferry freight, it was extended and converted to carry passengers in the early 20th century and has been in continuous operation ever since. The small locomotive hauls open and closed wagons through a flat landscape of dune grass and salt marsh — a ten-minute journey that is itself one of the pleasures of arriving on the island.

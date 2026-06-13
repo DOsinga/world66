@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Vast new Mouride mosque on the Corniche, opened in 2019"
+score: 7.5
 ---
 
 Massalikoul Djinane — "the paths of paradise" — is the largest mosque in West Africa, opened in September 2019 after years of construction funded largely by the Mouride brotherhood, the powerful Senegalese Sufi order based in Touba. It stands on the Corniche Ouest, an enormous white-marble compound with five domed minarets, the tallest 78 metres.

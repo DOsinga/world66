@@ -13,6 +13,7 @@ story: >
   though Lyonnais tradition holds that the bronze horses are original and survived
   by being buried. At the base of the original statue's plinth, a small plaque
   marks the exact centre of Lyon, from which all road distances in the city are measured.
+score: 6.4
 ---
 
 One of the largest public squares in Europe, Place Bellecour stretches across nearly four hectares in the heart of the Presqu'île, the peninsula between the Rhône and the Saône. The square is almost entirely flat and open — deliberately so, as it doubles as the city's main gathering place for public events, Christmas markets, and celebrations. A large equestrian statue of Louis XIV stands in the centre.

@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 8.4796
 longitude: -13.2491
+score: 6.1
 ---
 
 The Siaka Stevens National Stadium, near Brookfields, is the home ground of the national football team — the Leone Stars — and the country's largest sports venue. It holds 45,000 and is well-used for football, athletics, and the occasional concert.

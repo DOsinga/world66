@@ -6,6 +6,7 @@ longitude: 20.4641
 tags:
   - things_to_do
   - neighbourhood
+score: 7.8
 ---
 
 Skadarlija is Belgrade's bohemian quarter — a short cobbled street that descends from Republic Square toward the old lower town, lined with kafanas (traditional Serbian taverns), restaurants with live music, and vine-covered courtyards. It was the gathering place of artists, writers, and musicians in the early 20th century, and the atmosphere it cultivates — convivial, slightly theatrical, old Serbia — still draws both tourists and local families out for an evening.

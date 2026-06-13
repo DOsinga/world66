@@ -10,6 +10,7 @@ longitude: 40.7399
 sources:
   - https://en.wikipedia.org/wiki/Sultan_Isa_Medrese
 story: "The medrese was built by Sultan Isa of the Artukid dynasty in 1385, and his tomb is housed inside it. The Artukids were a Turkmen dynasty who ruled this region for nearly 250 years and commissioned many of Mardin's finest buildings, drawing on a synthesis of Arab, Persian, and Central Asian architectural traditions."
+score: 8.8
 ---
 
 The Sultan Isa Medrese (also known as Zinciriye, meaning "chain") is Mardin's most celebrated Islamic monument, a 14th-century theological school whose facade is one of the outstanding examples of Artukid stone carving anywhere. Built in 1385, the medrese's entrance portal is covered in intricate geometric and floral carving — rosettes, interlaced vines, calligraphic inscriptions — all executed in the honey-coloured limestone that defines Mardin's architecture.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.6175
 longitude: 10.5595
+score: 7.4
 ---
 
 The lakeside promenade through Gardone Riviera is one of the nicest on the western shore of [Lake Garda](/europe/italy/lombardia/lagodigarda): wide, largely traffic-free, and lined with oleanders, palms, and the faded facades of old hotels that once catered to northern European aristocrats wintering here. It takes about twenty minutes to walk from one end of the village to the other at a gentle pace, with benches facing the water at regular intervals.

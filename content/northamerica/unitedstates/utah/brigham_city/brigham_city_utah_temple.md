@@ -9,6 +9,7 @@ snippet: LDS temple completed in 2012, with intricate exterior reliefs depicting
 latitude: 36.5054
 longitude: -112.0166
 story: "The Brigham City temple was damaged by a 5.7-magnitude earthquake just weeks before its public open house in 2012. Workers repaired the damage in time for the public viewing — after which it was dedicated and closed to non-members, as is standard practice for LDS temples."
+score: 5.8
 ---
 
 The Brigham City Utah Temple is a temple of the Church of Jesus Christ of Latter-day Saints, completed in 2012. Unlike LDS meetinghouses, which are open to everyone, temples are restricted to practising church members after dedication, so most visitors can only view the exterior. That exterior is worth seeing — the building is clad in white granite with intricate bas-relief friezes depicting local plants and wildlife in an unusually ornate style for a modern structure.

@@ -11,6 +11,7 @@ tags:
 - bar
 title: Cafe Blue
 type: poi
+score: 5.8
 ---
 
 Laid-back bar near Campo Santa Margherita, where locals and travellers mingle comfortably. Next door is the similar Cafe Noir, and the crowd typically spills into the alley between the two. Open until 2am.

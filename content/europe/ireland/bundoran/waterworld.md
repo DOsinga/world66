@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 54.4790
 longitude: -8.2779
+score: 5.4
 ---
 
 Waterworld is Bundoran's indoor water park and the town's main wet-weather family attraction. It sits right on the waterfront and offers a range of water slides, wave pools, and leisure pools that make it a reliable choice when the Atlantic weather turns grey — which it does regularly.

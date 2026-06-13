@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.0700
 longitude: 7.6826
+score: 6.4
 ---
 
 Turin's principal shopping street, running from the Porta Nuova station northwards under continuous arcades to Piazza Castello. The lower half — between the station and Piazza San Carlo — was rebuilt in the 1930s in a sober Fascist-era Rationalist style; the upper half preserves its seventeenth-century Baroque arcades.

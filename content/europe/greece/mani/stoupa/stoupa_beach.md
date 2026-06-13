@@ -10,6 +10,7 @@ tags:
   - beach
 story: >
   Cold freshwater springs rise through the sand at the south end of the bay, which is why a corner of the beach is conspicuously colder than the rest. The springs are part of the same underground river system that emerges spectacularly as Limeni's cold-water rising further south on the Mani coast.
+score: 8.3
 ---
 
 Stoupa Beach is the main beach of the village, a wide curve of fine sand and small pebbles wrapped around a sheltered bay. The water is calm, clear, and shallow for some distance — good for children and weak swimmers. Sun loungers, kayaks, and stand-up paddleboards can be hired along the back of the beach in season.

@@ -7,6 +7,7 @@ tags:
 latitude: 38.9105
 longitude: -77.0437
 address: "1517 Connecticut Avenue NW"
+score: 6.4
 ---
 
 Kramerbooks is a DC institution — an independent bookshop and cafe that has occupied the same space on Connecticut Avenue in Dupont Circle since 1976. It stays open until 1am on weekends, which is unusual for a bookshop, and serves food and drinks in the attached Afterwords cafe. The result is a place that functions as a bookshop, a bar, and a late-night gathering spot simultaneously.

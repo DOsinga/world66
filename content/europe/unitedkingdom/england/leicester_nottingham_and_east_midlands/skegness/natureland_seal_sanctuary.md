@@ -4,6 +4,7 @@ type: poi
 latitude: 53.1486
 longitude: 0.3470
 tags: [things_to_do, sight]
+score: 8.0
 ---
 
 Natureland has been rescuing orphaned and injured seal pups from the Lincolnshire coast since 1965 and remains a working rehabilitation centre as well as a small zoo. Most of the pups recovered each winter are returned to the wild within a few months, but a handful with permanent injuries live out their lives in the pools at the front of the site. Daily seal feedings draw the crowds.

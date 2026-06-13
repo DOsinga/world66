@@ -16,6 +16,7 @@ story: >
   are built into the arch above the trading floor), and a piece of architectural
   theatre designed by MVRDV.
 snippet: Arch-shaped covered market with 100 stalls and an apartment block above
+score: 8.4
 ---
 
 Rotterdam's horseshoe-shaped indoor food market is one of the most extraordinary buildings in the Netherlands. Designed by the Rotterdam firm MVRDV and opened in 2014, the building consists of a market hall enclosed in a giant arch — 228 apartments are built into the arch above, their windows looking down onto the market floor below the dramatic painted ceiling.

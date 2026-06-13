@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 A late 16th-century travellers' inn just off Plaza del Altozano, the Posada del Rosario is the oldest surviving secular building in central Albacete and one of the few of its kind left in Spain. It is laid out around a wooden-galleried double courtyard — the kind of place a 17th-century muleteer would have rolled into for the night — and was sympathetically restored in the 1990s.

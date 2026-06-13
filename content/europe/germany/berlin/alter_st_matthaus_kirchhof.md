@@ -10,6 +10,7 @@ title: Alter St.-Matthäus-Kirchhof
 type: poi
 story: >
   Jacob and Wilhelm Grimm are buried together in a single grave in the central section of the cemetery, with a modest shared headstone that understates the scale of their influence. The two brothers spent their careers as librarians and scholars — Jacob in particular was one of the founders of modern linguistics — and the fairy tales they collected were originally published as academic folklore, not children's literature. The grave is usually easy to find; a discreet sign near the entrance points the way.
+score: 8.1
 ---
 
 Alter St.-Matthäus-Kirchhof is a 19th-century cemetery in the middle of Schöneberg that has settled into a profound, untended quiet. The oldest sections date to 1856, with graves and mausoleums in a range of styles from plain Protestant headstones to ornate neo-Gothic family vaults, all under a canopy of mature trees that in summer turn the paths into green tunnels. Jacob and Wilhelm Grimm are buried here, as are several other notable 19th-century German scholars. The cemetery is still in active use, but the older parts are largely left to grow as they will, which gives them an atmosphere quite different from the tidy municipal parks nearby.

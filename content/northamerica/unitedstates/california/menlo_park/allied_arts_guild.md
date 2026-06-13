@@ -7,6 +7,7 @@ tags:
 latitude: 37.441527
 longitude: -122.17904
 story: The Allied Arts Guild was founded in 1929 by Garfield and Deanna Merner, inspired by the arts and crafts colonies they'd seen in England. They commissioned architect Pedro de Lemos to design a complex in Spanish Colonial Revival style around a series of courtyards, with fountains, tiled walkways, and gardens. The property benefits Stanford Children's Hospital — a connection established at the founding that continues today.
+score: 8.0
 ---
 
 The Allied Arts Guild is a complex of artist studios, gardens, and a restaurant set in a beautifully maintained Spanish Colonial courtyard in the residential quarter of Menlo Park, close to the Stanford campus boundary. Founded in 1929 and still operating on its original model, the guild rents studio space to working artists and craftspeople, and the grounds are open to the public during business hours.

@@ -5,6 +5,7 @@ latitude: 52.2511
 longitude: 6.1597
 tags: [things_to_do, sight, square]
 story: Deventer's Friday market on the Brink has been running, more or less continuously, since at least 1248. The east side of the square still has the original gradients in the cobbles — sloped one way for water drainage, the other so that market traders' carts wouldn't roll away during deals.
+score: 9.2
 ---
 
 The Brink is the heart of Deventer and, by any measure, one of the most handsome market squares in the Netherlands. It is wider and longer than most — large enough to accommodate the Friday market, the major events of the city's social calendar, and several open-air cafes at the same time without feeling crowded. The lines of medieval and Renaissance houses around the edge are remarkably intact, and the whole square reads as a kind of architectural anthology of Dutch civic building from 1300 to 1700.

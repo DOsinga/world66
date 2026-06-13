@@ -7,6 +7,7 @@ tags:
 latitude: -18.8944
 longitude: 29.8111
 story: "At its peak in the early 1900s the Globe and Phoenix was claimed to be the richest gold mine in the world per tonne of rock, producing more than four million ounces of gold over its lifetime. Cecil Rhodes spent at least one night in the mine manager's wood-and-cardboard Paper House, still standing on the property."
+score: 7.8
 ---
 
 The Globe and Phoenix is the reason Kwekwe exists. Two adjacent claims — the Globe and the Phoenix — were pegged in the 1890s and consolidated into a single operation that became, briefly, the richest gold mine on earth by ore grade. The mine ran continuously for more than a century before falling silent in the 2000s; small-scale informal mining still nibbles at the surrounding ground.

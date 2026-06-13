@@ -8,6 +8,7 @@ tags:
   - sight
   - rock_art
 story: "The panel was restored in 1996 by a Brigham Young University team that used cotton swabs to remove a century of bullet holes and graffiti. They left the older damage where removing it would also remove pigment, which is why some figures still have small white scars."
+score: 8.1
 ---
 
 A long sandstone wall in the San Rafael Swell painted in red ochre by the Barrier Canyon people more than two thousand years ago. The figures are tall, ghostlike, and faceless, often with antennae or geometric shapes floating around them. The panel runs for about 130 feet along a quiet road through the Swell.

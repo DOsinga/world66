@@ -6,6 +6,7 @@ tags:
 - sight
 title: Bygholm Manor
 type: poi
+score: 6.3
 ---
 
 Bygholm Manor is a Baroque estate on the southwestern edge of Horsens, with origins going back to 1313 when King Eric VI Menved established Bygholm Castle here to control the surrounding territory. The current main building dates from 1775 — a symmetrical one-storey manor in warm yellow brick, flanked by lower service wings — and has been listed by the Danish Heritage Agency since 1984.

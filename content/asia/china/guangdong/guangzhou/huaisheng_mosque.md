@@ -9,6 +9,7 @@ longitude: 113.25361
 snippet: "One of the world's oldest mosques, said to have been founded in 627 AD"
 story: >
   According to tradition, the mosque was founded by Sa'd ibn Abi Waqqas, a maternal uncle of the Prophet Muhammad, who arrived in Guangzhou by sea in 627 AD on a diplomatic mission to the Tang Emperor. If accurate, this makes Huaisheng one of the oldest mosques in the world. The tomb attributed to Sa'd is housed in a shrine within the complex.
+score: 8.1
 ---
 
 Huaisheng Mosque stands in the Yuexiu district in the heart of old Guangzhou, a reminder that the city has had a Muslim community for nearly fourteen centuries. Arab and Persian merchants trading along the maritime Silk Road settled here, and the mosque they built — rebuilt repeatedly but on the same site — is still in daily use.

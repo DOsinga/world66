@@ -8,6 +8,7 @@ tags:
   - nature
 title: Dzanga-Sangha Special Reserve
 type: poi
+score: 9.0
 ---
 
 The Dzanga-Sangha Special Reserve is the Central African Republic's most significant wildlife area, covering over 4,500 square kilometres of dense lowland rainforest in the far southwest of the country. Together with adjacent protected areas in Cameroon and the Democratic Republic of Congo, it forms the Sangha Trinational — a UNESCO World Heritage Site and one of the largest intact forest ecosystems remaining in Africa.

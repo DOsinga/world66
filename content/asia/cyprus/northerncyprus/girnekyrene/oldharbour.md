@@ -9,6 +9,7 @@ tags:
 - sight
 title: Old Harbour
 type: poi
+score: 7.4
 ---
 
 The old harbour is the heart of Girne, a small Ottoman-era port enclosed by the castle walls on one side and a curved breakwater on the other. The surrounding buildings — warehouses and mansions from the 18th and 19th centuries — have been converted into restaurants and bars. By evening the harbour fills with visitors and the reflections of the lights in the water make it one of the more photogenic corners of the eastern Mediterranean.

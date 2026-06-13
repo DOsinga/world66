@@ -14,6 +14,7 @@ story: >
   hospitality on a scale that is hard to comprehend from outside.
 sources:
   - https://en.wikipedia.org/wiki/Touba
+score: 8.9
 ---
 
 The Grand Magal of Touba is the Mouride Brotherhood's most important annual gathering, held 48 days after the Islamic New Year to commemorate the day Cheikh Amadou Bamba was sent into exile by the French colonial authorities in 1895. His followers consider the exile a spiritual triumph — he returned 7 years later with his reputation and authority only strengthened.

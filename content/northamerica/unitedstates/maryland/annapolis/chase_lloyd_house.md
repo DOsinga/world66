@@ -8,6 +8,7 @@ tags:
 - historic_house
 title: Chase-Lloyd House
 type: poi
+score: 7.5
 ---
 
 Directly opposite Hammond-Harwood, this 1769 three-storey brick mansion was begun by Samuel Chase — another signer of the Declaration of Independence — and completed by Edward Lloyd IV after Chase ran out of money. The architect William Buckland took over the interiors before moving across the street to start on Hammond-Harwood, and the two houses are best visited as a pair to see his evolving work.

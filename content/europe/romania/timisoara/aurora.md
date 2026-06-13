@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - cetate
+score: 5.9
 ---
 
 Aurora is one of the city's small craft breweries, with a taproom on Victor Babeș Street just south of Victory Square. The brewery makes around a dozen rotating beers, mostly in northern European styles — German lagers, Czech pilsners, English ales — and a few seasonal experiments.

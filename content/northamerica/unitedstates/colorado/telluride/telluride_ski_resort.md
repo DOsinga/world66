@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 37.9370
 longitude: -107.8650
+score: 9.2
 ---
 
 Telluride's ski area is small by the numbers — about 125 marked trails — but the terrain is exceptional. The mountain straddles the rim of the box canyon, which means that runs on the front side drop steeply back into the historic town while the back side drops into Mountain Village and the wider valley. Snow conditions are reliably good; the San Juans sit further south than most Colorado resorts but higher, which usually means consistent coverage.

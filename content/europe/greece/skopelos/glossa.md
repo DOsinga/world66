@@ -8,6 +8,7 @@ latitude: 39.1833
 longitude: 23.6167
 sources:
   - https://en.wikipedia.org/wiki/Glossa,_Skopelos
+score: 7.8
 ---
 
 Glossa is the second town of Skopelos, built on a steep hillside in the northwestern part of the island about 25 km from the main town. White-washed houses with orange-tiled roofs crowd the narrow lanes, arranged amphitheatrically above the sea — the view from the top of the village across the channel toward the mainland is one of the great views of the Northern Sporades. The pace of life here is noticeably slower than in Skopelos Town, and the village feels genuinely off the tourist circuit.

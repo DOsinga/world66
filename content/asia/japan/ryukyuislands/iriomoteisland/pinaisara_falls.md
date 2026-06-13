@@ -8,6 +8,7 @@ tags:
 latitude: 24.4017
 longitude: 123.8294
 story: "At about 55 metres Pinaisara is the tallest waterfall in Okinawa Prefecture. The name comes from the Yaeyama-Okinawan word for an old man's beard (pina sara) — a description of the long white plume of water seen from a distance."
+score: 8.7
 ---
 
 Pinaisara is the highest waterfall in Okinawa and the centrepiece of a popular day tour: kayak up the Hinai River through mangroves, then climb a short, steep jungle trail to the top of the falls. The view from the lip — out over the river valley and the East China Sea — is one of the best in the Yaeyamas.

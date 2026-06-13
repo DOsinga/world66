@@ -15,6 +15,7 @@ story: >
   Lunenburg postcards than almost any other local landmark.
 sources:
   - https://en.wikipedia.org/wiki/Lunenburg_Academy
+score: 7.6
 ---
 
 The Lunenburg Academy stands at the top of the hill above the harbour, its black and white Victorian exterior making it one of the most distinctive buildings on the Nova Scotia South Shore. Built in 1895, it served as the town's high school for generations and is now a National Historic Site. The building combines Italianate and Second Empire architectural elements with the kind of ornate detail that 19th-century school boards occasionally approved when civic pride ran high.

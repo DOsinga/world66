@@ -16,6 +16,7 @@ story: >
   of ordinary lives was without precedent in Chinese cinema. It won major
   international awards and remains one of the most important Chinese films
   ever made.
+score: 7.2
 ---
 
 The film "Hibiscus Town" (Furong Zhen, 1986) transformed this small Tujia town from a local curiosity into a national pilgrimage destination. The film, directed by Xie Jin and starring Liu Xiaoqing and Jiang Wen, tells the story of a tofu vendor whose business success, life, and dignity are systematically destroyed by successive political campaigns over two decades. It is one of the great films of the reform era and one of the most powerful Chinese accounts of what the Maoist campaigns did to ordinary people.

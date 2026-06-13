@@ -14,6 +14,7 @@ story: >
   of America's downtown theatres, was restored in the 2000s, and now functions
   as a performing arts venue — one of the few historic movie palaces in New
   Mexico still in operation.
+score: 6.6
 ---
 
 The Rio Grande Theatre is the architectural centrepiece of downtown Las Cruces, a 1926 Spanish Colonial Revival cinema-cum-vaudeville house that survived decades of neglect to become a performing arts venue. The exterior presents a Mission Revival facade with arched entryways and decorative tilework; the interior retains much of its original plasterwork and barrel-vaulted ceiling.

@@ -9,6 +9,7 @@ story: >
   The Adinath Shiva temple at the top of Maheshkhali's hill is mentioned in Bengali texts as far back as the 17th century, but its current structure dates mainly from the 19th century. The Buddhist pagoda next to it is younger but the proximity of the two — a Hindu shrine and a Buddhist pagoda sharing the same hilltop — is characteristic of the syncretic religious geography of the Bangladesh-Myanmar borderlands, where Arakanese Buddhist, Bengali Hindu, and Muslim communities have overlapped for centuries.
 title: Maheshkhali Island
 type: poi
+score: 7.7
 ---
 
 A tidal island about 12 kilometres from Cox's Bazar by boat, reached from the main jetty in around 30 minutes. The island has mangrove forests along its western edge, fishing villages, salt pans, and a central hill that holds both a Buddhist pagoda and the Adinath Shiva shrine standing close together at the top. The combination of sites is unusual and worth the trip.

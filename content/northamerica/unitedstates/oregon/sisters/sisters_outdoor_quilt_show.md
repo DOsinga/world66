@@ -13,6 +13,7 @@ tags:
 - event
 title: Sisters Outdoor Quilt Show
 type: poi
+score: 7.3
 ---
 
 The Sisters Outdoor Quilt Show takes over the entire downtown on the second Saturday of July every year — quilts in every conceivable style hung from buildings, fences, awnings, and frames lining the streets. It started in 1975 as a small fundraiser for the Stitchin' Post quilt shop and has grown into the largest outdoor quilt show in the world, drawing tens of thousands of visitors and serious quilters from across North America.

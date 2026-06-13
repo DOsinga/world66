@@ -7,6 +7,7 @@ tags:
 latitude: 35.6983
 longitude: -83.4678
 snippet: "5-mile forest drive past cabins and waterfalls in the Smokies"
+score: 8.6
 ---
 
 The Roaring Fork Motor Nature Trail is a five-mile one-way loop road that begins just a few minutes from downtown Gatlinburg and delivers you into old-growth forest within the first mile. The road follows Roaring Fork creek through a dense cove hardwood forest, passing a series of well-preserved historic log cabins and grist mills that give a sense of what Appalachian mountain life looked like before the park was established. The creek runs alongside much of the route, loud and clear over the rocks, and several small waterfalls are a short walk from pull-offs along the way.

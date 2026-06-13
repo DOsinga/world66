@@ -9,6 +9,7 @@ tags:
   - sight
   - wildlife
 story: "Kahuzi-Biega's most famous gorilla group, Chimanuka, is led by a silverback who was the lone survivor of a poaching attack in the mid-2000s. Years of patient work by trackers — most of them locals from villages around the park — habituated him to humans, and the group he has since assembled is now the cornerstone of gorilla tourism in the park. Visiting numbers remain a fraction of those in Rwanda or Uganda."
+score: 9.2
 ---
 
 Kahuzi-Biega rises west of Bukavu in a bowl of dripping montane rainforest, capped by two extinct volcanoes — Mount Kahuzi (3,308 m) and Mount Biega (2,790 m) — that give the park its name. It is one of the last strongholds of the eastern lowland gorilla, also called Grauer's gorilla, the largest of all gorilla subspecies and critically endangered. UNESCO listed the park in 1980; it has been on the World Heritage in Danger list since 1997.

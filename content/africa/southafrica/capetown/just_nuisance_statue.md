@@ -16,6 +16,7 @@ tags:
 - sight
 title: Just Nuisance Statue
 type: poi
+score: 5.8
 ---
 
 The Just Nuisance statue on Jubilee Square in Simon's Town honours one of the more unlikely characters in Royal Navy history — a 1.9-metre-tall Great Dane who was enlisted as an Able Seaman in 1939. The bronze, by sculptor Jean Doyle, stands at the heart of the harbourfront square and is one of the most photographed spots in town.

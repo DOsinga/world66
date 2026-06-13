@@ -12,6 +12,7 @@ story: >
   incorporated the waterfall and its surrounding forest into the city plan —
   one of the few moments of foresight in what was otherwise a utilitarian
   exercise in industrial urbanism.
+score: 6.9
 ---
 
 Parque Cachamay is Ciudad Guayana's main green space, built around the Cachamay waterfalls on the Caroní River where it passes through the urban area. The falls are modest in scale but the surrounding forest park is a genuine relief from the industrial landscape of the rest of the city. There are walking paths along the riverbank, and the sound and spray of the falls make it a pleasant spot to spend an hour or two.

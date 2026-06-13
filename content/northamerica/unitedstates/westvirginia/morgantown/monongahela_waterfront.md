@@ -10,6 +10,7 @@ longitude: -79.9572
 sources:
   - https://en.wikipedia.org/wiki/Morgantown_Wharf_and_Warehouse_Historic_District
   - https://en.wikipedia.org/wiki/Morgantown_Lock_and_Dam
+score: 6.6
 ---
 
 The Monongahela runs broad and slow past Morgantown, and the riverfront has been cleaned up enough to make for a pleasant walk. The Hazel Ruby McQuain Riverfront Park runs along the bank south of downtown, with a paved trail, benches, and views across to the opposite shore. It's where students come to run and locals walk dogs on evenings.

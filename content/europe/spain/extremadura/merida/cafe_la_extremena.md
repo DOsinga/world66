@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 38.9159
 longitude: -6.3449
+score: 5.7
 ---
 
 Long-standing terrace cafe on the Plaza de España, with green awnings and as good a view of the square as anywhere else around it. Coffee in the morning, beer and free tapas in the early evening, and a parade of locals all day. Service is unflustered: come, order, watch the storks circle the cathedral tower.

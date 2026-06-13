@@ -13,6 +13,7 @@ story: >
   exactly as they have been for centuries. At the Mbandaka port, you can watch them arrive 
   from downriver villages loaded with fish, plantains, and forest products, and see the trade 
   economy of the Congo Basin in immediate, physical form.
+score: 8.0
 ---
 
 The waterfront at Mbandaka is the city's most compelling public space. The Congo River here is enormous — several kilometres wide in places — and at dawn, before the heat rises, the quality of light on the water is extraordinary. Pirogues and river ferries arrive from upstream and downstream; traders unload fish, smoked meat, and cassava; children swim in the shallows while men repair nets. It is the kind of scene that you can sit and watch for an hour without moving.

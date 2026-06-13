@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -27.6017
 longitude: 114.4286
+score: 8.2
 ---
 
 The Loop is the longer and wilder of the two main gorge walks in the river section of Kalbarri National Park. The trail follows the rim of a dramatic horseshoe bend of the Murchison River for about 8 kilometres return, passing through spinifex country with unobstructed views into the gorge at several points. The walk includes a descent to the river at Nature's Window — a famous rock arch framing a view of the river and the gorge beyond — and a section through the riverbed itself.

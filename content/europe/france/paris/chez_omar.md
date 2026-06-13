@@ -11,6 +11,7 @@ tags:
 - le_marais
 title: Chez Omar
 type: poi
+score: 6.8
 ---
 
 Chez Omar has been serving Algerian-French food in the Marais since 1979, and the formula has barely changed: excellent couscous royale piled with merguez, lamb, chicken, and vegetables; a lively room of regulars and knowledgeable visitors; no reservations and a loyal queue that forms outside most evenings.

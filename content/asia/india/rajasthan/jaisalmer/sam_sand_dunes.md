@@ -12,6 +12,7 @@ story: >
   explains their fame — and their crowds. Indian honeymooners, day-trippers from
   Jodhpur, and package tourists arrive in convoys of jeeps every afternoon. If you
   want the desert to yourself, you have to go earlier or further.
+score: 7.0
 ---
 
 Sam Sand Dunes, about 40 kilometres west of Jaisalmer near the Pakistani border, are the most visited desert landscape in Rajasthan. The dunes rise to around 30 metres and offer a classic image of the Thar Desert: rolling sand ridges, a clear horizon, and sunsets that turn the sand deep orange. Camel rides are available from the moment you arrive, and several desert camps have set up along the dune edges offering overnight stays with folk music performances in the evenings.

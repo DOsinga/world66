@@ -13,6 +13,7 @@ story: >
   preserved the maritime forest behind the dunes rather than developing it. The trees 
   that shade the park today were growing when the CCC workers planted the trails through 
   them nearly ninety years ago.
+score: 8.2
 ---
 
 Myrtle Beach State Park, three miles south of downtown, preserves a stretch of maritime forest, dunes, and beach that feels genuinely different from the commercial resort to the north. The park's 312 acres include hiking trails through the forest, a freshwater pond, a beach with a fraction of the crowds found on the main strand, and a fishing pier. A small fee is charged for entry.

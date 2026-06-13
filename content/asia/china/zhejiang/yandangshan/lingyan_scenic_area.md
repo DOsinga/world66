@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 28.3540
 longitude: 121.0830
+score: 9.1
 ---
 
 Lingyan is considered by many the most visually striking of the Yandang park's areas, with a series of vertical cliff faces rising from the valley in theatrical arrangement. The centrepiece is the Guanyin Cave, a natural hollow in the cliff face that houses a nine-storey temple built inside the rock itself — each floor accessible through the one above, the entire structure growing out of the cliff rather than standing against it.

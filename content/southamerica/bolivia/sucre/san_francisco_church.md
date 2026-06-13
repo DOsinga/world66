@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Sucre's oldest church, dating from 1540
+score: 8.5
 ---
 
 San Francisco is the oldest church in Sucre, founded in 1540 only two years after the city itself. The current building dates mostly from the 17th century, with a Mudéjar-influenced wooden ceiling that is among the finest in Bolivia — carved geometric patterns running the full length of the nave, painted in muted ochre and red. Outside, the bell tower carries the **Campana de la Libertad**, the bell that was rung on 25 May 1809 to announce the uprising against Spanish authority, considered the first major declaration of independence in South America.

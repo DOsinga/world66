@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8572
 longitude: -110.5369
+score: 8.2
 ---
 
 Oxbow Bend is a broad meander of the Snake River in Grand Teton National Park, consistently ranked among the best wildlife-viewing spots in the American West. The wide, slow water supports trumpeter swans, great blue herons, osprey, white pelicans, bald eagles, and moose wading in the shallows. At dawn and dusk, with Mount Moran reflected in the still water and the peaks glowing in the first or last light, this is also one of the most photographed spots in Wyoming.

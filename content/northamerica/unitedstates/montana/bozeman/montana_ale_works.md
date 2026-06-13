@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 45.6793
 longitude: -111.0359
+score: 5.9
 ---
 
 Montana Ale Works occupies a converted railway depot building on East Main Street and has been one of Bozeman's most dependable restaurants for years. The menu covers burgers, steaks, buffalo, fish tacos, and a few more ambitious dishes; the beer list is long and heavily Montana-focused, with local craft beers from Bozeman and across the state.

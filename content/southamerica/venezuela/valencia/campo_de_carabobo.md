@@ -11,6 +11,7 @@ tags:
 - monument
 title: Campo de Carabobo
 type: poi
+score: 7.1
 ---
 
 The Campo de Carabobo is the open plain about thirty kilometres south of Valencia where, on 24 June 1821, Simón Bolívar's army defeated the royalist forces of General Miguel de la Torre — the engagement that effectively ended the Venezuelan war of independence and opened the road to Caracas. The site has been a national monument since the nineteenth century and is the venue of the official independence-day military parade each June.

@@ -13,6 +13,7 @@ story: >
   Namban ("Southern Barbarians") were the first Western traders in Japan, and their
   appearance — long noses, baggy trousers, large hats — fascinated Japanese artists
   who had never seen Europeans before.
+score: 7.7
 ---
 
 The Kobe City Museum occupies a neoclassical building from 1935, formerly the Yokohama Specie Bank, in the old foreign settlement district south of Motomachi. It focuses on Kobe's history as a port and international trading city, with particular strength in the Namban period — the years of early contact with Portuguese and Spanish traders in the 16th and 17th centuries.

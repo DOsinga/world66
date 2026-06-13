@@ -15,6 +15,7 @@ tags:
 title: Gallerie dell'Accademia
 type: poi
 url: www.gallerieaccademia.it
+score: 9.5
 ---
 
 The greatest collection of Venetian painting in the world, spanning five centuries from Bellini and Carpaccio through Titian and Tintoretto to Canaletto. Housed in a former convent and church on the Dorsoduro bank of the Grand Canal. Essential for understanding Venetian art: the transition from Byzantine gold to Renaissance naturalism, the Venetian mastery of colour and light.

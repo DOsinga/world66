@@ -6,6 +6,7 @@ latitude: 42.4375
 longitude: 11.1941
 snippet: "WWF wetland reserve famous for flamingos, herons, and migratory birds"
 story: "The lagoon holds one of Italy's most reliable wintering populations of greater flamingos — pink against the green-grey water in numbers that can run to several thousand birds. The fishermen's cooperative has worked the lagoon for bottarga and eel for over a century, harvested in the autumn with the same nets and weirs."
+score: 8.6
 ---
 
 The Laguna di Orbetello is a 27 km² brackish lagoon enclosed by two long sand tomboli, declared a WWF nature reserve in 1971. It is one of the most important wetlands in the western Mediterranean, with greater flamingos, ospreys, herons, spoonbills, and clouds of ducks and waders depending on the season. Winter and early spring are the best times for birds.

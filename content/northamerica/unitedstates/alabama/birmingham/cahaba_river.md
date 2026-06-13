@@ -6,6 +6,7 @@ tags:
 - park
 title: Cahaba River
 type: poi
+score: 7.5
 ---
 
 The Cahaba River, Alabama's longest free-flowing river, runs along Birmingham's western edge and is one of the most biodiverse rivers in North America. The stretch near the Cahaba River National Wildlife Refuge and the town of Cahaba (the first state capital, now a ghost town) is accessible for canoeing, kayaking, and hiking.

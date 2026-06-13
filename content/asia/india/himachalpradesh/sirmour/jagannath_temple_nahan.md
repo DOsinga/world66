@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - temple
+score: 6.6
 ---
 
 The Jagannath Temple in the centre of Nahan was built in 1681 by Raja Budh Prakash, around the time the town was founded. It is dedicated to Lord Jagannath, the form of Vishnu worshipped at Puri, and reflects the dynastic connection between the Sirmaur royal family and the Bay of Bengal pilgrimage circuit.

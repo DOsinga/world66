@@ -16,6 +16,7 @@ story: >
   the IMAX cinemas of their era — immersive spectacles that charged admission.
   Almost all of the others have been lost; Thun's survives by a combination of
   good luck and local devotion.
+score: 8.7
 ---
 
 Tucked inside the Kunstmuseum Thun is one of the strangest and most wonderful things in Switzerland: a 360-degree cylindrical painting of Thun as it looked around 1814. The Wocher Panorama was painted by Marquard Wocher on a canvas seven and a half metres high, and it wraps completely around you when you stand at the viewing platform in the centre of the room. Farmhouses, the castle, the lake, the Alps, people going about their daily business — all painted in meticulous, documentary detail.

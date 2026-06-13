@@ -7,6 +7,7 @@ tags:
 latitude: 62.3257
 longitude: -6.9430
 story: "The villagers used a wooden winch at the top of the cleft to haul their boats up out of the water — a practice that continued well into the 20th century. The remains of the rails and winch are still in place at the head of the gorge."
+score: 8.8
 ---
 
 The gorge that gives Gjogv its name is a 200-metre-long fissure carved straight into the basalt cliffs, plunging from the village to the sea. A path runs down one side to a small stone landing at the bottom, where the local fishing boats used to be hauled up by a hand winch when the weather turned. It is the most natural harbour in the Faroes — narrow enough that a single big wave can fill it.

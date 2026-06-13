@@ -10,6 +10,7 @@ tags:
   - landmark
   - old_town
 neighbourhood: Old Town
+score: 6.6
 ---
 
 The Cathedral Bell Tower stands separately from the cathedral itself on Cathedral Square and is one of the most recognisable structures in Vilnius. The lower sections are the oldest parts — a remnant of the medieval city wall and defensive tower that was gradually incorporated into the cathedral complex. The current upper portion was added in the 17th century, and the whole structure was rebuilt and remodelled several times.

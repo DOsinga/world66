@@ -9,6 +9,7 @@ latitude: 16.1554
 longitude: 119.9786
 sources:
   - https://en.wikipedia.org/wiki/Alaminos_Cathedral
+score: 5.6
 ---
 
 The Saint Joseph the Patriarch Cathedral Parish — known locally as Alaminos Cathedral — sits at the heart of Barangay Poblacion, the old centre of the city. The current structure is a mid-twentieth-century concrete church, though a parish has stood on this site since the Spanish colonial period. The cathedral serves as the seat of the Diocese of Alaminos, one of the smaller dioceses in northern Luzon.

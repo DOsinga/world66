@@ -7,6 +7,7 @@ tags:
 - beach
 title: Laigueglia Beach
 type: poi
+score: 7.6
 ---
 
 Laigueglia's beach is the reason most people come. A long, gently curving stretch of fine sand runs the length of the village, sheltered by the headlands of Capo Mele to the south and Capo di Santa Croce towards Alassio in the north. The water is shallow well out — you can wade fifty metres before it reaches your shoulders — and the wind is generally moderate, which makes it good for families and beginning sailors but poor for proper waves.

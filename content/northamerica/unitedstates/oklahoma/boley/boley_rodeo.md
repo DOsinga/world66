@@ -12,6 +12,7 @@ story: >
   and rodeo culture was deeply embedded in the community long before it became a formal
   festival. The event is a reminder that the American cowboy tradition was far more
   racially diverse than popular culture has generally acknowledged.
+score: 8.1
 ---
 
 Held over Memorial Day weekend since the 1960s, the Boley Rodeo is one of the longest-running Black rodeos in the United States, drawing competitors and spectators from across Oklahoma and beyond. The event includes professional rodeo competition — bull riding, barrel racing, roping — alongside live music, barbecue, and the kind of community gathering that has given the town a reason to celebrate its heritage each year.

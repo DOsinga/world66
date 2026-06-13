@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Greek Orthodox Church of the Annunciation
 type: poi
+score: 6.4
 ---
 
 The Greek Orthodox Church of the Annunciation is a reminder of a community most people forget Sudan ever had. From the late 19th century into the 1950s, Khartoum had a substantial Greek population — traders, hoteliers, restaurateurs — and they built this small Byzantine-style church in the colonial downtown to serve their needs.

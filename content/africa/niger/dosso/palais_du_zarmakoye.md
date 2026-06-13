@@ -14,6 +14,7 @@ story: >
   cemetery.
 sources:
   - https://whc.unesco.org/en/tentativelists/5041/
+score: 8.1
 ---
 
 The Palais du Zarmakoye is Dosso's most important building, a walled royal compound in the centre of town and the seat of the traditional Zarma ruler. Its architecture is not monumental in a European sense, but that is part of its power: thick walls, enclosed courtyards, and quiet ceremonial spaces express authority without needing height or ornament.

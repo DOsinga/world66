@@ -10,6 +10,7 @@ tags:
 snippet: "The 'Slender Minaret' madrasa, with the finest carved Seljuk portal in Anatolia"
 story: >
   The original minaret of the madrasa, four storeys tall and built in alternating bands of brick and tile, gave the building its name — *İnce Minareli*, "Slender Minaret". It was struck by lightning in 1901 and collapsed; what remains is only a stub. Photographs in the museum show what was lost.
+score: 8.7
 ---
 
 The İnce Minareli Medrese was built in 1264–67 by the Seljuk vizier Sahib Ata, and although it is structurally similar to Karatay, its **portal** is more famous: a riot of carved limestone, with two great calligraphic bands of Arabic looping in interlocking knots around the doorway. It is widely considered the masterpiece of Seljuk stone carving, the high point of the period's mature decorative style.

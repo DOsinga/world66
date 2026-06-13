@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -10.9667
 longitude: 33.5833
+score: 5.8
 ---
 
 The reserve's only accommodation is a small camp on the southern edge of Lake Kazuni, run by the Vwaza Marsh Wildlife Trust. A handful of simple reed-and-thatch chalets and a campsite share the same lake frontage; the chalets are basic but comfortable, with mosquito nets and bucket-shower water heated on the fire.

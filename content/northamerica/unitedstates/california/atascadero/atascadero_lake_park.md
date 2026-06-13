@@ -6,6 +6,7 @@ longitude: -120.6727
 tags:
   - things_to_do
   - park
+score: 6.2
 ---
 
 A 30-acre park around a small artificial lake on the south side of town. Footpath circuit (about a mile), picnic ramadas, a playground, a pavilion used for community events, and a small fishing pier. The lake holds bass and catfish; California fishing licences apply.

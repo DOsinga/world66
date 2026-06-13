@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Coffee_Cultural_Landscape_of_Colombia
   - https://en.wikipedia.org/wiki/Salento,_Quind%C3%ADo
+score: 8.3
 ---
 
 The farms around Salento offer some of the most accessible and genuine coffee experiences in Colombia. Several fincas (farms) within walking distance or a short ride from town open their doors to visitors for tours that cover the full coffee cycle: the cultivation of the coffee plant under shade trees, the picking of the red cherries, the washing and drying of the beans, the roasting, and the cupping.

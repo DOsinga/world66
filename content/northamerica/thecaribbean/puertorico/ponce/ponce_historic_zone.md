@@ -9,6 +9,7 @@ title: Ponce Historic Zone
 type: poi
 story: >
   The architectural style called Ponce Creole — or Arquitectura Ponce — developed here in the late nineteenth century as local builders adapted Spanish and French colonial forms to the Caribbean climate. The deep overhanging balconies keep out the sun. The thick masonry walls store cool air. The ornamental ironwork on the balconies is a craft tradition brought by Spanish immigrants and perfected by local artisans. The result is a coherent urban vernacular that is distinctly Puerto Rican and specifically ponceño.
+score: 8.8
 ---
 
 The Ponce Historic Zone covers the grid of streets surrounding Plaza las Delicias and preserves one of the finest ensembles of late colonial architecture in the Caribbean. The buildings date mainly from the 1850s to the early twentieth century, when Ponce was the wealthiest city in Puerto Rico and its merchants and landowners were building to demonstrate that wealth. Many have been restored to their original colours — dusty pinks, yellows, pale greens, and blues — and the overall effect is of a city that has recovered its self-confidence after decades of neglect.

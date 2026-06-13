@@ -7,6 +7,7 @@ tags:
   - seafood
 title: Hemenway's Seafood Grill
 type: poi
+score: 6.1
 ---
 
 Hemenway's at 121 South Main Street has been the go-to address for serious New England seafood in downtown Providence for decades. The menu covers the expected range — oyster bar, lobster bisque, clam chowder, grilled and broiled fish — and executes it with consistent quality. The oyster selection typically rotates through New England varieties; the lobster ravioli is a reliable signature.

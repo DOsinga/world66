@@ -8,6 +8,7 @@ snippet: "Working papal mosaic workshop, visitable only by special tour"
 tags:
 - things_to_do
 - sight
+score: 7.0
 ---
 
 The Studio del Mosaico is one of the oldest continuously operating workshops in Europe. It was founded in the 16th century to create the mosaic copies of altarpieces in St. Peter's — the paintings inside the basilica are not paintings at all, but mosaics, made because paint was found to deteriorate quickly in the basilica's humidity.

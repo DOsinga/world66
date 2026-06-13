@@ -11,6 +11,7 @@ story: >
   Pordenone painted the dome frescoes between 1530 and 1535, working while Correggio was painting his famous illusionistic domes in Parma. The two painters were rivals, and there is a tradition (probably apocryphal) that Pordenone painted armed while on the scaffolding because he feared that Correggio's partisans would try to kill him before he finished. The dome at Santa Maria di Campagna is considered Pordenino's masterpiece.
 sources:
   - https://en.wikipedia.org/wiki/Basilica_di_Santa_Maria_di_Campagna
+score: 8.5
 ---
 
 The Basilica di Santa Maria di Campagna is a Renaissance church on the western edge of the historic centre, built between 1522 and 1528 to a design by Alessio Tramello. The exterior is graceful and well-preserved; the interior is a centrally planned space with a central dome surrounded by four smaller chapels. The dome is the reason to come: it was painted by the Pordenone (Giovanni Antonio de' Sacchis) between 1530 and 1535 with a spectacular fresco cycle showing God the Father surrounded by prophets, sibyls, saints, and angels.

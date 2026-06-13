@@ -9,6 +9,7 @@ tags:
 - sight
 title: Bassin du Commerce
 type: poi
+score: 6.5
 ---
 
 The Bassin du Commerce is a long rectangular dock cut into the city centre, originally built for commercial shipping in the 18th century and now transformed into Le Havre's main public waterfront. The quays are lined with cafés and trees, and a series of footbridges crosses the water at intervals. The pont tournant — a swing bridge that opens to let occasional vessels through — is one of the city's most photographed engineering features.

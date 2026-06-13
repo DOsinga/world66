@@ -12,6 +12,7 @@ story: >
   The act sparked a wave of copycat suicides at the falls over the following decades, and Kegon
   became associated with what the Japanese press called "Fujimura fever" — a kind of romantic
   despair in educated young men. Observation platforms now block close access to the lip.
+score: 8.4
 ---
 
 Kegon Falls drops 97 metres from the outlet of Lake Chūzenji into the Daiya River gorge, making it one of Japan's three great waterfalls and the most dramatic sight in the Nikkō highlands. The full face of the falls is visible from a free observation platform above; a paid elevator descends through the cliff face to a lower platform at the base, where the scale and power of the water are genuinely impressive.

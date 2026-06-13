@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.9150
 longitude: 11.1730
+score: 5.9
 ---
 
 The parish church of San Lorenzo is the visual heart of Folgaria, its onion-domed campanile rising above the rooftops in a style that speaks clearly of the town's Habsburg past. The current structure dates from the 18th century and was extended and redecorated in the early 20th century. The interior is modest but well-kept, with carved wooden elements and local stone.

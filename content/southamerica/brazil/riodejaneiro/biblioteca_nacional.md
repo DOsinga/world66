@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Biblioteca_Nacional_(Brazil)
 story: >
   When Napoleon invaded Portugal in 1807, the royal family fled to Rio, and the Portuguese queen brought the royal library with her — some 60,000 volumes packed onto the ships. The collection was the foundation of what became the Biblioteca Nacional, making this one of the few national libraries in the world whose origins involve a queen fleeing a French invasion.
+score: 8.0
 ---
 
 The Biblioteca Nacional on Avenida Rio Branco is the largest library in Latin America, with a collection of over 9 million items including manuscripts, rare books, maps, prints, photographs, and music scores. The neo-classical building, completed in 1910, is part of the grand cultural complex that makes Rio Branco one of South America's most impressive urban boulevards, alongside the Teatro Municipal and the National Museum of Fine Arts.

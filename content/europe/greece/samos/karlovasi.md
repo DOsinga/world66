@@ -6,6 +6,7 @@ longitude: 26.7000
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The second port of Samos, on the north-west coast, has a more workaday feel than Vathy or Pythagoreio — it grew rich in the nineteenth century on tanning leather and exporting Samian wine, and the abandoned warehouses and factory shells still stand around the harbour as a kind of industrial archaeology.

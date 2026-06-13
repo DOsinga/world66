@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 30.1738
 longitude: -85.7979
+score: 6.7
 ---
 
 The Boathouse Oyster Bar sits on the Grand Lagoon side of the strip, away from the beach crowds, and serves raw oysters, boiled shrimp, and fish baskets in a classic Florida waterside setting. The decor is what you'd expect — boat parts, nets, license plates — but the oysters are the real draw: fat, briny, Gulf oysters served ice-cold with crackers and hot sauce.

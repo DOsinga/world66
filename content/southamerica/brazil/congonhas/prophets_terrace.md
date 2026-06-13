@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -20.5082
 longitude: -43.861
+score: 9.2
 ---
 
 The sloping forecourt in front of the sanctuary church is where Aleijadinho's twelve prophets stand, arranged in pairs along the parapets of the curving double staircase. Up close the figures lose some of the formal severity they have from below: tool-marks are visible in the soapstone, drapery folds catch the light, the carved scrolls bear partial Latin inscriptions.

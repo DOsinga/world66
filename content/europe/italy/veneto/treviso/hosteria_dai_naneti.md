@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 45.6672
 longitude: 12.2414
+score: 6.8
 ---
 
 A standing-only wine bar a few steps from the Pescheria, fronted by a long counter laid out with cicchetti — boiled eggs, mortadella, baccalà mantecato, polpette — and a row of carafes of house wine sold by the glass for a euro or two.

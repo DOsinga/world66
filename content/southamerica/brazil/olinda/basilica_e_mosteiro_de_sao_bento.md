@@ -7,6 +7,7 @@ tags:
 latitude: -8.0017
 longitude: -34.8519
 snippet: Benedictine monastery founded 1586 with one of the finest baroque interiors in Northeast Brazil
+score: 8.9
 ---
 
 The Mosteiro de São Bento was founded in 1586, making it one of the oldest Benedictine monasteries in Brazil. It survived the Dutch occupation of Olinda in the 17th century — the Dutch were Protestant and closed the monastery, but did not destroy it — and was restored and expanded in the 18th century, when the baroque interior took its present form.

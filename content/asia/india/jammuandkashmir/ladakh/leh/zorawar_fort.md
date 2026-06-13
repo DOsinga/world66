@@ -8,6 +8,7 @@ tags:
 latitude: 34.1581
 longitude: 77.5697
 snippet: 19th-century fort built by the "Napoleon of India," with a small museum and sound-and-light show
+score: 7.1
 ---
 
 Zorawar Fort was built in 1836 for Wazir Zorawar Singh Kahluria, the Dogra general who extended Ladakh's boundaries northward and earned the nickname "Napoleon of India" for his mountain warfare campaigns. The fort sits on the edge of town toward the airport and is less visited than the palace, which makes it a pleasantly uncrowded stop.

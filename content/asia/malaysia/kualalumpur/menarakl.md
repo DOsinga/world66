@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - klcc
   - sight
+score: 6.7
 ---
 
 The double-decker bridge linking the Petronas Twin Towers at the 41st and 42nd floors, 170 metres above the street. It is the visit most tour groups come for: a 45-minute timed-ticket tour that takes you up Tower 2, across the Skybridge with five minutes to photograph the city, and then up to the 86th-floor observation deck for a second view from much higher up.

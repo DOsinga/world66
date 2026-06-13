@@ -10,6 +10,7 @@ tags:
 - architecture
 title: San Zeno Maggiore
 type: poi
+score: 9.1
 ---
 
 Verona's finest Romanesque church, built in the 12th century over the tomb of Verona's patron saint. The façade is a textbook of Romanesque decorative arts: a great rose window, carved marble panels with scenes from the Old and New Testament, and bronze doors cast in the 11th–12th centuries with 48 panels depicting biblical scenes and the life of St Zeno. The interior is unusually light for a Romanesque church; the highlight is Mantegna's triptych altarpiece of the Virgin and Child enthroned (1457–59), one of the defining works of Italian Renaissance painting — though the central panel is a later copy (Napoleon took the original to Paris, and it was not fully returned). The crypt beneath the church contains the marble effigy of St Zeno.

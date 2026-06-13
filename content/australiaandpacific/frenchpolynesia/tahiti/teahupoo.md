@@ -10,6 +10,7 @@ tags:
 snippet: The world's most photographed and feared surf break — a massive, hollow wave over a shallow reef
 story: >
   The wave at Teahupo'o breaks over a reef so shallow that at low tide in some sections the water is barely 60 cm deep. When the swell reaches a certain size, the lip of the wave actually surpasses the height of the water below it — making it technically impossible by physics, yet it happens. When Laird Hamilton was towed into a wave here on 17 August 2000, the resulting image — a figure in a blue wall of water larger than a house — became the most reproduced surfing photograph in history.
+score: 9.0
 ---
 
 Teahupo'o (pronounced roughly "chop-oo") sits at the end of Tahiti Iti, the smaller southeastern peninsula of the island, accessible by road about 70 km from Papeete. The wave breaks on a shallow coral reef directly offshore from the village and is, by widespread agreement among professional surfers, the most terrifying wave in the world.

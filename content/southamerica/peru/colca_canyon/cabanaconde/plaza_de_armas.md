@@ -8,6 +8,7 @@ tags:
 - sight
 title: Plaza de Armas
 type: poi
+score: 5.4
 ---
 
 Cabanaconde's plaza is a square of patchy grass and concrete benches surrounded by single-storey adobe and concrete buildings. On one side stands the small Iglesia de San Pedro de Alcántara, a 17th-century colonial church with a stone facade and a wooden interior. On the other sides: a handful of basic shops, internet cafes, the municipality, and the offices for the bus companies running to Arequipa and Chivay.

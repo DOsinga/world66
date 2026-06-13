@@ -6,6 +6,7 @@ tags:
   - activity
 latitude: 59.5192
 longitude: 25.2744
+score: 5.8
 ---
 
 Kaberneeme has a small yacht harbour on the western side of the peninsula, used mainly by local sailors and summer visitors from Tallinn. The harbour is modest in scale — a sheltered inlet with a jetty and room for a few dozen boats — but it serves as a useful base for exploring the Gulf of Finland by water. Kolga Bay, which wraps around the peninsula to the east, is calm and shallow, well suited to sailing and kayaking in summer.

@@ -9,6 +9,7 @@ tags:
 - sight
 - history
 story: "On 16 July 1988, Joe Cocker performed on this meadow near the Großer Garten to an audience of 160,000 people — the largest rock concert in East German history. The GDR authorities had allowed Western concerts as a safety valve for youth frustration, but the scale of this one surprised everyone. Sixteen months later the Berlin Wall fell. Dresdners still call the meadow the Cockerwiese."
+score: 4.8
 ---
 
 The Cockerwiese — Cocker Meadow — is a patch of parkland near the Großer Garten that has no formal significance and looks like any other Dresden green space. Its importance is entirely in one night: 16 July 1988, when Joe Cocker played here to 160,000 people in a concert that became one of the defining events in the final chapter of East German history.

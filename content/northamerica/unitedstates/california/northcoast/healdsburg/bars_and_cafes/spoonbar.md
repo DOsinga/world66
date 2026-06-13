@@ -8,6 +8,7 @@ latitude: 38.61100
 longitude: -122.86890
 address: "219 Healdsburg Avenue, Healdsburg, CA 95448"
 snippet: Design-forward cocktail bar inside the h2hotel with a comfortable terrace
+score: 6.7
 ---
 
 Spoonbar occupies the ground floor of the h2hotel — an architectural statement of a building designed by the San Francisco firm Turnbull Griffin Haesloop — and carries the same aesthetic into its bar program. The room is spare and comfortable; the terrace is one of the better outdoor drinking spots in town on a warm evening.

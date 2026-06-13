@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4107
 longitude: 14.9645
+score: 6.9
 ---
 
 The black sand beach on the northeast side of the island is one of Vulcano's more photogenic spots. The volcanic sand absorbs heat intensely — on a sunny day it becomes too hot to walk on barefoot by mid-morning — and the contrast between the dark beach and the deep blue of the Tyrrhenian Sea makes for striking scenery.

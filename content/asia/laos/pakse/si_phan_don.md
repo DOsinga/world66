@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Where the Mekong splits into hundreds of channels — islands, waterfalls, and the last Irrawaddy dolphins"
+score: 8.5
 ---
 
 Si Phan Don — "four thousand islands" in Lao — is where the Mekong, approaching the Cambodian border, spreads into a vast delta of islands, channels, and rapids. At the peak of the dry season the Mekong is 14 kilometres wide here. Most travellers base themselves on Don Det or Don Khone, the main islands, which are connected to each other by a French colonial-era railway bridge (the locomotive is still there, rusting).

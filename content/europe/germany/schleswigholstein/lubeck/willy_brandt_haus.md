@@ -8,6 +8,7 @@ snippet: Museum to the former chancellor born in Lübeck, with the desk from his
 tags:
 - things_to_do
 - museum
+score: 6.9
 ---
 
 Willy Brandt (1913–1992), West German chancellor between 1969 and 1974 and Nobel Peace laureate for his eastern reconciliation policy (*Ostpolitik*), was born in Lübeck and grew up here as the son of an unmarried shop assistant. The Forum on Königstraße tells his life in straightforward chronological displays: Lübeck childhood, exile in Norway and Sweden, mayoralty of West Berlin during the building of the Wall, the chancellorship, the famous *Kniefall* in Warsaw in 1970.

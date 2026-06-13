@@ -8,6 +8,7 @@ tags:
 latitude: 61.0911
 longitude: 13.3194
 snippet: 17th-century timber church in the village south of Sälen
+score: 5.9
 ---
 
 A small white wooden church in Transtrand, the village 10 kilometres south of Sälen on the Västerdalälven river. The current church dates from the 17th century and is one of the older surviving timber churches in Dalarna, with painted ceiling decorations inside.

@@ -9,6 +9,7 @@ latitude: 39.1714
 longitude: -120.1389
 story: >
   Robert Watson, Tahoe City's first constable, hand-built this cabin in 1908–09 as a wedding gift for his son Robert Jr and his bride Stella. It is the oldest building still on its original site in Tahoe City and is furnished almost entirely with original Watson family belongings — Stella's piano, the wood stove, the kitchen scales.
+score: 6.9
 ---
 
 A simple log cabin on the lake shore in the middle of town, the Watson Cabin is the oldest building still standing on its original site in Tahoe City. The North Lake Tahoe Historical Society maintains it as a house museum, open most afternoons in summer with volunteer docents who walk visitors through the rooms.

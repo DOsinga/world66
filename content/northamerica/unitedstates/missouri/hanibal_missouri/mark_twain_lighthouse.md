@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.7142
 longitude: -91.3597
+score: 6.8
 ---
 
 The lighthouse on Cardiff Hill above the town is not, despite the name, a working aid to navigation — it was built in 1935 to mark the 100th anniversary of Mark Twain's birth, dedicated by President Roosevelt over a telephone link, and rebuilt after a fire in 1960.

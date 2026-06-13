@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - cycling
 - sight
+score: 7.4
 ---
 
 The Loire à Vélo, the 900-kilometre cycle route that follows the river from its source to the Atlantic, passes right by the entrance to Villandry. Cycling between châteaux is the best way to do this part of the Loire Valley — the route is well signposted, mostly flat, and runs through villages and along the riverbank rather than the main roads.

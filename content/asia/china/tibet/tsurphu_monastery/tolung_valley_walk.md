@@ -7,6 +7,7 @@ tags:
   - trekking
 latitude: 29.7500
 longitude: 90.5500
+score: 6.8
 ---
 
 The valley road from the main highway to Tsurphu passes through the Tolung River valley, a narrow corridor of pasture and high ridges that is visually and atmospherically distinct from the Lhasa plain. Nomadic camps of black yak-hair tents appear in summer, and herds of yaks and sheep graze the hillsides. The contrast with the urbanised outskirts of Lhasa, left behind within twenty minutes' driving, is immediate and sharp.

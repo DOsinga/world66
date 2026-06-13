@@ -12,6 +12,7 @@ story: >
   on a natural cycle. This is not just a display feature: it allows genuinely tidal
   species to be kept in conditions that match their wild habitat, something no other
   aquarium had done before the Cairns facility opened in 2017.
+score: 7.4
 ---
 
 Opened in 2017, the Cairns Aquarium is one of the best in Australia, and it takes full advantage of being in the heart of one of the world's most biodiverse marine regions. The facility houses more than 15,000 animals across 71 tanks arranged into ten distinct ecosystems — from mangrove creeks and freshwater rivers to open ocean.

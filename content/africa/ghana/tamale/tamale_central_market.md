@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - market
   - sight
+score: 7.6
 ---
 
 Tamale's central market is one of the largest in northern Ghana and the commercial pulse of the region. It is a proper working market, not a tourist market — the people shopping here are buying provisions for their households, not souvenirs for their luggage. That said, the market is an excellent place to find things that are genuinely from the north: shea butter sold in rough blocks, smoked fish, dried spices, local grains, and the striking handwoven smock fabric known as fugu or batakari, the traditional dress of the Dagomba people.

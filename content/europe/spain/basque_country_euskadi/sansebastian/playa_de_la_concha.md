@@ -8,6 +8,7 @@ latitude: 43.3175
 longitude: -1.9867
 story: >
   La Concha has been San Sebastián's fashionable beach since the 1840s, when Queen Isabella II came here on doctor's orders to bathe in the sea. The royal visit put San Sebastián on the map as a resort, and for the next century the Spanish royal family came every summer — the Miramar Palace above the beach was built as their summer residence. The elegant white iron railing along the paseo was installed in 1920 and has become one of the defining images of the city.
+score: 9.4
 ---
 
 Playa de la Concha is the most celebrated urban beach in Spain — a perfect crescent of fine pale sand cupped between the wooded hills of Monte Urgull and Monte Igueldo, with Santa Clara island sitting in the middle of the bay like a punctuation mark. The paseo (seafront promenade) runs along its entire length, bordered by the famous white iron railing and lined with parasols that appear each summer morning like clockwork.

@@ -8,6 +8,7 @@ tags:
   - museum
 latitude: 43.0764
 longitude: 11.6786
+score: 8.9
 ---
 
 The pope's own palace, built for his Piccolomini family on the south side of the piazza. Bernardo Rossellino modelled it directly on Alberti's Palazzo Rucellai in Florence — three storeys of rusticated travertine with pilasters dividing each face. The interior is more austere than you might expect: a stone courtyard, a piano nobile of large painted halls, and a private library at the back.

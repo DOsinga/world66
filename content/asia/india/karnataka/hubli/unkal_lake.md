@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 15.3750
 longitude: 75.1183
+score: 5.8
 ---
 
 A reservoir on the northern edge of the city, Unkal Lake is popular with locals for evening walks along the bund. The setting is pleasant in the early morning and at dusk, when the light is soft and the crowds are manageable. Egrets and other waterbirds work the shallows.

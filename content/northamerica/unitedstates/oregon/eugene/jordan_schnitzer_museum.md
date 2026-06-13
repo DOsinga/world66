@@ -8,6 +8,7 @@ snippet: "University of Oregon's serious art museum — strong on Asian collecti
 address: "1430 Johnson Lane"
 latitude: 44.0446
 longitude: -123.0766
+score: 7.8
 ---
 
 The University of Oregon's art museum is bigger and better than its size suggests — particularly strong on East Asian art (one of the most significant collections of Korean ceramics outside Korea), American art of the Pacific Northwest, and contemporary photography. The 2005 renovation added good gallery space without losing the original 1933 Romanesque brick exterior.

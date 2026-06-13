@@ -8,6 +8,7 @@ latitude: 38.9875
 longitude: -104.8550
 snippet: Military academy campus open to visitors, with an iconic modernist chapel
 story: The Air Force Academy Chapel, completed in 1962, is one of the most distinctive pieces of mid-century American architecture — 17 aluminium spires rising 150 feet above a campus that looks unlike any military base anywhere. The chapel was designed by Walter Netsch of Skidmore, Owings and Merrill and has separate worship spaces for Protestant, Catholic, Jewish, Muslim and Buddhist communities stacked on top of each other inside the same structure.
+score: 8.5
 ---
 
 The United States Air Force Academy sits about 15 km north of Colorado Springs and is open to civilian visitors at the south gate. The main draw is the Cadet Chapel, one of the most distinctive examples of modernist American architecture — an angular structure of 17 aluminium spires designed in 1962 that manages to look simultaneously futuristic and timeless against the mountain backdrop.

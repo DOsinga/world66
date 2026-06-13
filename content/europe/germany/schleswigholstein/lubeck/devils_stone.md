@@ -8,6 +8,7 @@ story: The legend holds that the devil, hearing that a great building was rising
 tags:
 - things_to_do
 - sight
+score: 5.2
 ---
 
 Beside the south door of the Marienkirche sits a low boulder with a small bronze devil casually perched on it, sculpted by the Lübeck artist Rolf Goerler in 1999. The statue makes literal a local legend that has been told to children for centuries: that the devil helped build St Marien on the understanding it would be a tavern, and was tricked into accepting the construction of a wine bar (the still-standing Ratskeller, in fact) nearby as compensation.

@@ -6,6 +6,7 @@ longitude: -89.5342
 tags:
   - things_to_do
   - sport
+score: 7.0
 ---
 
 Vaught-Hemingway Stadium is the home ground of the Ole Miss Rebels football team and the single largest gathering place in the state of Mississippi — its current capacity is around 64,000, which makes it bigger than any town in Mississippi outside Jackson. Built in 1915 and expanded repeatedly, the stadium fills for every home game in the autumn SEC schedule.

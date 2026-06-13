@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - landmark
+score: 5.2
 ---
 
 A small reconstruction of the 1779 frontier stockade that became the seed of Nashville, sitting on the bluff above the Cumberland on Riverfront Park. The original fort was about a kilometre upstream; this 20th-century replica was built in roughly the place where the first long flatboats from North Carolina landed at the start of 1780.

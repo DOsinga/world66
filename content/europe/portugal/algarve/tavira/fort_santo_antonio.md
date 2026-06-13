@@ -13,6 +13,7 @@ story: >
   the entrance point militarily critical. The fort is sometimes called the Rato Fort or the
   Fort of the Island of Hares (Ilha das Lebres), names that hint at the wildlife that
   inhabited the barrier islands before permanent settlement.
+score: 5.7
 ---
 
 The Fort of Santo António sits at the mouth of the Gilão River where it meets the sea, about 3 km south of the town at the Quatro Águas dock. The seventeenth-century fortification was built to guard the river entrance and the tuna fishing operations that were Tavira's economic backbone for centuries. The fort is small and access is limited, but the exterior is visible and the surrounding area at Quatro Águas is pleasant for a walk.

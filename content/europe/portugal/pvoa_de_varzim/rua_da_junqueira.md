@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.3793
 longitude: -8.7642
+score: 7.5
 ---
 
 Rua da Junqueira is the city's traditional shopping street, a pedestrian-only run of small shops behind the seafront. The Portuguese tile facades, the long-running pastelarias, and the family-run shoe and clothing stores give it the feel of an older Portugal that the larger cities have mostly lost.

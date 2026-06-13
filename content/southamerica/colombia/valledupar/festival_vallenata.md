@@ -13,6 +13,7 @@ story: >
   lower-class and rural. García Márquez, who grew up in the region and heard
   vallenato as a child, later described it as "the most faithful expression of
   our life." UNESCO added it to the Intangible Cultural Heritage list in 2015.
+score: 8.9
 ---
 
 Every April, Valledupar fills with musicians, dancers, and crowds from across Colombia for the Festival de la Leyenda Vallenata — the largest and most prestigious vallenato competition in the world. Four categories of musician compete over five days: accordionists, drum players, guacharaca (scraper) players, and full ensembles. The winners of the accordion competition are treated as national heroes.

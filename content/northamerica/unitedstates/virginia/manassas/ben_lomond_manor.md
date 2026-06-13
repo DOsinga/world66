@@ -16,6 +16,7 @@ story: >
   fields. The house preserved the original medical graffiti scrawled on interior
   walls by soldiers — names, dates, and crude drawings — which visitors can still
   see today during immersive living-history programs.
+score: 7.1
 ---
 
 Ben Lomond is an 1830s Greek Revival plantation house in Prince William County, a short drive from Old Town Manassas. The site is managed by Prince William County and offers one of the more unusual Civil War experiences in the region: programs that engage multiple senses, recreating the sounds, smells, and sights of a 19th-century field hospital.

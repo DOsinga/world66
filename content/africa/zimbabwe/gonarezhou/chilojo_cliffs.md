@@ -10,6 +10,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Gonarezhou_National_Park
   - https://zimfieldguide.com/masvingo/gonarezhou-national-park
+score: 8.8
 ---
 
 The Chilojo Cliffs are the visual signature of Gonarezhou — great walls of Clarens sandstone, banded in deep red and ochre, rising 180 metres above a sweeping bend in the Runde River. They run for roughly 20 kilometres along the south bank, their colour shifting from burnt orange at midday to something close to blood-red in the last hour before sunset. This is the moment to be at the cliff-top viewpoint above Chipinda Pools, watching elephant herds move single-file along the white sand of the river below.

@@ -7,6 +7,7 @@ tags:
   - sight
 title: Kasagh River Gorge
 type: poi
+score: 7.3
 ---
 
 The Kasagh River has carved a deep gorge through the volcanic tufa rock on which Ashtarak is built, and the town's old quarter sits right at the lip of the drop. Walking along the gorge edge takes you past several of the town's old churches, some of them teetering over the cliff, and gives a constant backdrop of the rocky canyon below.

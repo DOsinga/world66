@@ -7,6 +7,7 @@ tags:
   - college_hill
 title: Ladd Observatory
 type: poi
+score: 7.0
 ---
 
 The Ladd Observatory on Hope Street was built in 1891 for Brown University's astronomy program and has been open to the public for stargazing on Tuesday evenings since its construction — making it one of the longest-running public observatory programs in the United States. The 12-inch Alvan Clark refractor telescope dates to 1891 and is still in use.

@@ -7,6 +7,7 @@ tags:
   - market
 title: Machane Yehuda Market
 type: poi
+score: 8.3
 ---
 
 Jerusalem's main open-air market, running for several blocks of covered and uncovered lanes just west of the city centre. The market sells fresh produce, spices, nuts, olives, cheeses, baked goods, halva, dried fruit, and fish, with vendors catering to the full spectrum of Jerusalem's Jewish population — Ashkenazi, Sephardic, Yemenite, and Ethiopian flavours all present. The spice stalls alone are worth the visit.

@@ -9,6 +9,7 @@ tags:
 neighbourhood: Downtown
 title: Detroit RiverWalk
 type: poi
+score: 6.6
 ---
 
 The RiverWalk is a three-and-a-half-mile promenade along the Detroit River, running from Hart Plaza in the west past the GM Renaissance Center, Cullen Plaza with its carousel, Milliken State Park, and Mt Elliott Park to Gabriel Richard Park near the MacArthur Bridge to Belle Isle. The path is open to walkers, runners, and cyclists, with public art, splash pads, fishing piers, and the view across the river to the Windsor skyline in Canada.

@@ -5,6 +5,7 @@ tags: [things_to_do, museum, sight, ribeira]
 latitude: 41.14283
 longitude: -8.62133
 story: The Alfândega's construction in 1869 required demolishing several streets of the medieval Ribeira and building a granite neo-classical warehouse directly on the Douro waterfront — a project that reordered the city's relationship with the river and displaced a substantial community in the process. The building is now a convention centre and holds the permanent collection of the Museu do Carro Eléctrico, Porto's tram museum.
+score: 7.3
 ---
 
 The Alfândega do Porto — Porto's old customs house — is a massive neo-classical granite building occupying a prominent position on the Douro waterfront west of the Ribeira. The building housed customs operations from 1869 to the late 20th century; today it functions as a convention centre and cultural space, most notably as the home of the Museu do Carro Eléctrico.

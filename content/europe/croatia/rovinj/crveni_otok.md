@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Twin islands 2.5 km offshore with sheltered coves and walking paths through pine forest"
+score: 7.2
 ---
 
 Crveni Otok — Red Island — is not a single island but two: St. Andrew's Island and Maškin Island, connected by a causeway built in the 1930s. The name comes from the reddish tint of the local stone. The islands lie about 2.5 kilometres from Rovinj's harbour and are reached by regular boat service from the waterfront in summer.

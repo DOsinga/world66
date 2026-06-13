@@ -9,6 +9,7 @@ longitude: 8.8542
 story: >
   The Universum's building was designed to look like a giant silver whale lying on the waterfront — the 40,000 stainless steel scales on the exterior reference both marine biology and space-age futurism.
   The site also hosts the only civilian microgravity drop tower in Europe, used for scientific research.
+score: 6.8
 ---
 
 The Universum is an interactive science museum on the university campus north of the Altstadt, housed in a dramatically shaped building clad in stainless steel scales. The permanent exhibition covers humanity, the earth, and the cosmos across three sections, with hands-on experiments designed for adults as much as for children.

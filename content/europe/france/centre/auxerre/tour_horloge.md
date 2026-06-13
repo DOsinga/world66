@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 47.7960
 longitude: 3.5705
+score: 7.4
 ---
 
 A yellow stone clock tower from 1483 that straddles the rue de l'Horloge, the main commercial street of the old town. The tower was originally a city gate; the astronomical clock and the bell tower were added in the 15th century. It's the most recognisable image of Auxerre and the natural starting point for a walk through the old centre.

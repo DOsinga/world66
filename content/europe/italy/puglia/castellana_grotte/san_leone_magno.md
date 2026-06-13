@@ -7,6 +7,7 @@ tags:
   - sight
 title: San Leone Magno
 type: poi
+score: 5.8
 ---
 
 The Chiesa Madre, dedicated to San Leone Magno (Pope Leo the Great), is the parish church of Castellana and the principal building of the centro storico. The current eighteenth-century church replaced an earlier medieval foundation; the facade is a plain Pugliese baroque, but the interior is more elaborate, with a barrel-vaulted nave, side altars, and a small treasury of liturgical silver.

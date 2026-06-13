@@ -8,6 +8,7 @@ latitude: 17.9214
 longitude: -87.9611
 sources:
   - https://en.wikipedia.org/wiki/San_Pedro_Town
+score: 7.8
 ---
 
 San Pedro is the main settlement on Ambergris Caye and Belize's most visited tourist town. Its three parallel streets — Front Street, Middle Street, and Back Street — are the commercial and social core of the island. Golf carts are the primary transport; there are very few cars on the island. The sandy streets lined with guesthouses, restaurants, bars, and dive shops have a ramshackle, unpretentious charm.

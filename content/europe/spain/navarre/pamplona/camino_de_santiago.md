@@ -8,6 +8,7 @@ latitude: 42.8229
 longitude: -1.6479
 sources:
   - https://en.wikipedia.org/wiki/Camino_Frances
+score: 7.7
 ---
 
 Pamplona is one of the great waypoints on the Camino Francés, the most-walked route of the Camino de Santiago. Pilgrims cross the Pyrenees from Saint-Jean-Pied-de-Port, descend to Pamplona through the ancient gate of the Puerta de Francia, and cross the old quarter before continuing west toward [Burgos](/europe/spain/castileandleon/burgos) and ultimately Santiago de Compostela.

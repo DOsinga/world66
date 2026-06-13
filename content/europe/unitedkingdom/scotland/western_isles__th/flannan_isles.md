@@ -14,6 +14,7 @@ story: >
   of the men's oilskins was still hanging up, suggesting he had left in a hurry without
   proper clothing. No bodies were ever found. The official explanation — that the men
   were swept off the rocks by a wave — has never fully satisfied investigators.
+score: 7.0
 ---
 
 The Flannan Isles are a group of small uninhabited islands about 30 kilometres west of Lewis, and the lighthouse there became famous in 1900 when its three keepers vanished without explanation. The mystery attracted writers, poets, and conspiracy theorists throughout the 20th century — Wilfred Wilson Gibson's poem "Flannan Isle" brought the story wide attention. The islands and the lighthouse are still accessible, though only by chartered boat from Lewis in calm weather.

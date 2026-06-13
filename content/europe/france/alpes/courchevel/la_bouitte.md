@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 45.3083
 longitude: 6.5667
+score: 8.3
 ---
 
 La Bouitte is the regional outlier — a three-Michelin-star restaurant in the tiny hamlet of Saint-Marcel above Saint-Martin-de-Belleville, in the next valley over from Courchevel but reachable by piste in winter. The father-and-son team of René and Maxime Meilleur are entirely self-taught and run one of the most respected kitchens in France.

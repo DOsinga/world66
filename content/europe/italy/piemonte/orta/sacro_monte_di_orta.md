@@ -17,6 +17,7 @@ story: >
   is dedicated to Saint Francis of Assisi.
 sources:
   - https://en.wikipedia.org/wiki/Sacro_Monte_di_Orta
+score: 8.6
 ---
 
 A short, steep walk up from the centre of Orta brings you onto the wooded ridge of the Sacro Monte, a tranquil parkland of chestnut trees scattered with twenty chapels built between 1591 and 1788. Each chapel contains a tableau of painted terracotta figures — over 370 in total — telling an episode from the life of Saint Francis, with frescoed walls behind. The figures are by various artists working in a vivid, popular style, and the cumulative effect of moving from one to the next is closer to a graphic novel than a museum.

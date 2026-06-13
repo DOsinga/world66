@@ -6,6 +6,7 @@ longitude: 1.9292
 tags:
 - things_to_do
 - museum
+score: 6.5
 ---
 
 The Museu Cerdà occupies the former Sant Domènec monastery cloister and tells the long story of the Cerdanya valley — from prehistoric and Roman remains found locally, through medieval town life, to the late-nineteenth-century summer resort culture that built the lake mansions. The museum is small and easily seen in an hour, with good explanatory labels in Catalan, Spanish, and partial English.

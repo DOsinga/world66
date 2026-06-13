@@ -4,6 +4,7 @@ longitude: 120.9287
 tags: [things_to_do, sight]
 title: Ita Thao Village
 type: poi
+score: 7.2
 ---
 
 Ita Thao is the main settlement of the Thao indigenous people on the south shore of Sun Moon Lake. The village has a small market selling Thao foods and crafts, and is the most direct point of contact with Taiwan's indigenous culture at the lake. The mochi (sticky rice cakes) sold at the lakeside stalls here are noticeably good and worth stopping for.

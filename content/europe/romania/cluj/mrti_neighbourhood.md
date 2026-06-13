@@ -7,6 +7,7 @@ snippet: A lively residential and commercial district east of the centre
 tags:
 - things_to_do
 - neighbourhood
+score: 5.5
 ---
 
 Mărăști, east of the centre across the river, is a sprawling residential district with its own commercial centre around Piața Mărăști. It is mostly Communist-era blocks, but the streets have a lot of character: shabby-grand 1930s villas, neighbourhood markets, and a strong line of cheap and good local restaurants.

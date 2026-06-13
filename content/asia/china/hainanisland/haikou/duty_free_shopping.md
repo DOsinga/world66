@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 20.0514
 longitude: 110.1570
+score: 4.2
 ---
 
 Hainan's designation as a free-trade port gives visitors access to a duty-free allowance that is significantly more generous than at mainland airports — covering luxury goods, cosmetics, electronics, alcohol, and tobacco up to meaningful spending limits. The Haikou International Duty-Free City Complex near Xiuying Port is one of the largest duty-free retail centres in the world by floor area, drawing shoppers from across China who come specifically to buy international brands at prices that undercut the mainland market considerably.

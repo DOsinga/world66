@@ -9,6 +9,7 @@ tags:
   - lakeside
 neighbourhood: Lakeside
 snippet: A long-running Lakeside bakery-cafe — chocolate cake, apple pie, real coffee
+score: 5.7
 ---
 
 One of the original Lakeside bakeries, dating from the early backpacker years and still on the same patch of central Lakeside. The German Bakery does proper bread, croissants, chocolate cake, apple pie, brownies and a respectable selection of cookies — exactly the kind of carbohydrate concentration you crave after the dal bhat diet of the trekking circuits.

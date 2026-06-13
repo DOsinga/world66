@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 51.6711
 longitude: -4.7017
 snippet: "Distinctive 15th-century barbican gate set into the town walls"
+score: 7.5
 ---
 
 The most distinctive surviving feature of the medieval walls, the Five Arches is a curved barbican gate built into South Parade in the late 15th century. Its design — a single original gateway flanked by smaller defensive arches — was chosen for both economy and effectiveness, letting a handful of defenders cover the approach.

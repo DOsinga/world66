@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 15.2951
 longitude: -61.3852
+score: 4.9
 ---
 
 The House of Assembly is the unicameral parliament of Dominica, a small but dignified neoclassical building of pale stone behind the cathedral. The chamber seats just 32 members — the Speaker, 21 elected representatives and nine appointed senators — making it one of the smaller national legislatures in the world.

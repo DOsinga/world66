@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -15.7737
 longitude: 128.7387
+score: 6.5
 ---
 
 Kununurra is the eastern gateway to the Kimberley — a service town on the Ord River with good infrastructure, regular flights from Perth and Darwin, and direct access to the eastern section of the Gibb River Road and Purnululu National Park. It's warmer and more humid than Broome and has less charm, but it works well as a base, particularly for those approaching from the Northern Territory side.

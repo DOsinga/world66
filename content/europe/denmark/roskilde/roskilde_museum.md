@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 55.6411
 longitude: 12.0826
+score: 7.2
 ---
 
 The Roskilde Museum covers the town's history from the Viking Age through the present, with a particular focus on the medieval period when Roskilde was the capital of Denmark and one of the most important cities in Scandinavia. The collection includes archaeological finds from the town and surrounding area, medieval artefacts, and a good account of the town's gradual decline after Copenhagen took over as the royal capital in the fifteenth century.

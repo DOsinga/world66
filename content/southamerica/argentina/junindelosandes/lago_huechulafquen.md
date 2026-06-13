@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -39.8167
 longitude: -71.3500
+score: 8.4
 ---
 
 Lago Huechulafquen is the largest lake in Lanín National Park and one of the most beautiful in Argentine Patagonia — a 70-kilometre stretch of blue water backed by araucaria forests and overlooked at the western end by the cone of Lanín volcano. The lake is about 25 kilometres from Junín de los Andes along a good road, which continues along the northern shore to the park's interior.

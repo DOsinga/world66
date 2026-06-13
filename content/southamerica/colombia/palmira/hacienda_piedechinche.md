@@ -14,6 +14,7 @@ story: >
   wage labour. The main house has been preserved largely in its colonial-era state,
   and the grinding machinery — driven by water and later by steam — gives a concrete
   picture of how the industry that shaped the entire valley floor actually operated.
+score: 8.3
 ---
 
 The Hacienda Piedechinche, a 19th-century sugar estate outside Palmira, now operates as the Museo de la Caña de Azúcar (Museum of Sugar Cane). The main house is a well-preserved colonial building set around a courtyard, and the museum traces the history of sugar cultivation in the Valle del Cauca from its colonial beginnings through to modern industrial production. The exhibits include the original grinding equipment, tools used in cultivation and harvest, and sections covering the social history of the industry — including the slave labour on which the early haciendas depended.

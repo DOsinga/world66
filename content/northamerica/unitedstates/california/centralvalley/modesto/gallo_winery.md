@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Ernest and Julio Gallo started the winery in 1933, the day Prohibition ended, with a copy of a Modesto Public Library pamphlet on winemaking and $5,900 borrowed against their mother's life insurance. By the 1980s they were producing nearly one out of every three bottles of wine sold in the United States."
+score: 5.7
 ---
 
 E. & J. Gallo Winery, headquartered in south Modesto, is the largest family-owned winery in the world and one of the largest wine companies of any kind. The brothers Ernest and Julio Gallo started it in 1933 and built it into a vast operation that today produces hundreds of brands, from supermarket bag-in-box to high-end Sonoma and Napa labels.

@@ -12,6 +12,7 @@ story: >
   to drag him into the sea before dawn. They nearly succeeded, but sunrise caught them
   before they could finish, and he was left standing alone at the sea's edge — forever
   gazing out at the ocean.
+score: 9.0
 ---
 
 The distinctive volcanic cone rising from the tip of the Mount Maunganui peninsula is Tauranga's most recognisable landmark and its best viewpoint. The summit track takes about 45 minutes and loops around the base of the mount before climbing steeply to the top — from there you can see the entire Bay of Plenty, the harbour, the city, and on clear days the distant cone of White Island steaming on the horizon.

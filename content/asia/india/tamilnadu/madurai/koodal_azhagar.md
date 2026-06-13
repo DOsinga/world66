@@ -8,6 +8,7 @@ longitude: 78.1196
 tags:
 - things_to_do
 - sight
+score: 7.6
 ---
 
 Koodal Azhagar is one of the 108 Divya Desams — the holiest Vishnu temples for Tamil Vaishnavites — and is unusual in that the central shrine houses Vishnu in three forms simultaneously: standing, seated and reclining, on three levels of the same vimana.

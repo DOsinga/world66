@@ -8,6 +8,7 @@ tags:
 - sight
 title: Shrine of Kaka Sahib
 type: poi
+score: 7.8
 ---
 
 About 20 km south of Nowshera, in the village of Ziarat Kaka Sahib, lies the tomb-shrine of the 16th-century Pashtun Sufi Kastir Gul, known affectionately as Kaka Sahib. He was a contemporary of the Mughal emperors Akbar and Jahangir, and his teachings — emphasising direct mystical experience over scholarly law — drew followers from across the Pashtun belt.

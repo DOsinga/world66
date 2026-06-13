@@ -9,6 +9,7 @@ longitude: -70.4381
 snippet: Quiet fishing village east of Kennebunkport with lobster boats and harbour walks
 sources:
   - https://en.wikipedia.org/wiki/Cape_Porpoise,_Maine
+score: 8.3
 ---
 
 Cape Porpoise is Kennebunkport's less-visited neighbour, a proper fishing village about 5 km east of Dock Square. The harbour is still working — lobster boats go out every morning, the pier smells of brine and fuel, and the small fleet comes back in the afternoon. It's the least touristy part of the Kennebunkport area and the better place to eat lobster: Nunan's Lobster Hut on Route 9 is a legendary no-frills place that has been boiling lobsters since 1953.

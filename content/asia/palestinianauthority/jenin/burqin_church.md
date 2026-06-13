@@ -7,6 +7,7 @@ tags:
 latitude: 32.4572
 longitude: 35.2600
 story: "Tradition holds this is where Jesus healed ten lepers on his way to Jerusalem, encountering them at the cave that the church was built around. The community sheltering them was kept outside the village walls, and the cave still lies beneath the modern church."
+score: 8.0
 ---
 
 Three kilometres west of central Jenin in the village of Burqin sits one of the oldest churches in the world still in continuous use. The Greek Orthodox Church of St George — also known as the Church of the Ten Lepers — wraps around the cave traditionally associated with the miracle of healing described in the Gospel of Luke. The earliest structures date to the Byzantine period, with successive rebuildings during the 6th–9th centuries, again by the Crusaders in the 12th century, and most of the visible fabric belonging to the 18th century.

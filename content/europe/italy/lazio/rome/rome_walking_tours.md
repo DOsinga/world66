@@ -9,6 +9,7 @@ tags:
 - book
 title: Rome on Foot
 type: poi
+score: 5.8
 ---
 
 An ebook describing six walking tours in Rome, with 36 videos, photos, and text. Available from major booksellers; the Apple Books version includes the embedded videos.

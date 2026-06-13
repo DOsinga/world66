@@ -10,6 +10,7 @@ latitude: 43.9167
 longitude: 8.1167
 story: >
   Every summer, Cervo's tiny main square hosts an international chamber music festival. Concerts take place in front of the baroque church facade, with the sea glittering far below. The acoustics are remarkable — sound bounces off the old stone in ways that no purpose-built concert hall can replicate.
+score: 8.8
 ---
 
 Cervo is one of the most photogenic villages on the Ligurian coast — a tight cluster of ochre and terracotta buildings stacked on a promontory above the sea, crowned by the exuberant white baroque facade of the Oratory of San Giovanni Battista. The church, built by the local coral-fishing guild in the 18th century, faces a tiny square that seems almost impossibly picturesque.

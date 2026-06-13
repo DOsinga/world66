@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Pontcysyllte_Aqueduct
   - https://whc.unesco.org/en/list/1303/
+score: 9.4
 ---
 
 The Pontcysyllte Aqueduct carries the Llangollen Canal 307 metres across the River Dee valley at a height of 39 metres — making it both the longest and the highest canal aqueduct in Britain. Completed in 1805 after ten years of construction under Thomas Telford and William Jessop, it was a pioneering achievement in cast-iron engineering and became a UNESCO World Heritage Site in 2009.

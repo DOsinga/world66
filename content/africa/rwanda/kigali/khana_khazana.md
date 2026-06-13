@@ -8,6 +8,7 @@ tags:
 neighbourhood: Kiyovu
 latitude: -1.9472
 longitude: 30.0611
+score: 5.8
 ---
 
 Khana Khazana is widely considered the best Indian restaurant in Kigali, a Kiyovu institution that has been feeding the city's diplomats, NGO workers, and discerning locals for years. The menu covers the full range of North Indian standards — butter chicken, palak paneer, dal makhani, biryanis — and executes them with more care than you typically find this far from the source. The naan is the best in town.

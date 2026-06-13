@@ -6,6 +6,7 @@ longitude: -0.6986
 tags:
 - eating_out
 - restaurant
+score: 6.8
 ---
 
 El Granaíno is the restaurant most associated with arroz con costra in Elche — the baked rice dish that is the city's culinary calling card. The restaurant has been operating for decades and is the kind of place where local families come for Sunday lunch, which is generally a reliable indicator. The arroz con costra here arrives properly crisped on top, with the egg crust golden and slightly puffed, concealing the rice and the meat (usually chicken, rabbit, and morcilla sausage) underneath.

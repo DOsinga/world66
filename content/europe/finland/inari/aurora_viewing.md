@@ -14,6 +14,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 8.7
 ---
 
 Inari is one of the most reliable places in Europe to see the Northern Lights — far enough north to be inside the auroral oval, far enough from major light sources to keep the sky dark, with crisp clear winter conditions. The aurora can in theory appear from late August (once the sky is dark enough) through to mid-April; the deep-winter months (December to February) combine the longest nights with the highest activity.

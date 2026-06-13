@@ -9,6 +9,7 @@ story: >
   The theatre was buried under the old town for centuries — it wasn't discovered until a landslide in 1972 exposed the upper tiers of seating. Excavation and restoration followed quickly, and within a decade it was hosting performances again. Today it seats around 7,000 people for outdoor concerts, operas, and theatre performances — sitting in a 2nd-century Roman cavea watching a 21st-century performance is one of the genuinely special experiences Plovdiv offers.
 sources:
   - https://en.wikipedia.org/wiki/Roman_theatre_of_Philippopolis
+score: 9.6
 ---
 
 The Roman Theatre of Philippopolis is one of the best-preserved ancient theatres in the world — a 2nd-century AD cavea cut into the slope of the Dzhambaz hill, with its stage building substantially intact and marble seating in excellent condition. It was built during the reign of Trajan and could seat between 5,000 and 7,000 spectators.

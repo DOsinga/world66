@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 40.7000
 longitude: -89.5850
+score: 6.2
 ---
 
 Giant Oak Park takes its name from a massive bur oak that has been growing on the site for approximately five centuries — old enough to have been a mature tree when French missionaries first arrived in the Illinois valley in the seventeenth century. Bur oaks are among the longest-lived of the midwestern tree species, adapted to survive the prairie fires that once shaped this landscape, and specimens of this age are increasingly rare as development has taken the open land where they once grew.

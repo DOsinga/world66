@@ -10,6 +10,7 @@ tags:
 title: Xiahai City God Temple
 type: poi
 story: "The temple is famous as the unofficial Taipei headquarters of the Old Man Under the Moon — the matchmaker god — and is one of the busiest love-prayer temples in the Chinese world. Worshippers leave wedding cake at the altar in thanks for successful match-making; the temple receives many hundreds of cakes a year and redistributes them to the local neighbourhood."
+score: 8.0
 ---
 
 Halfway up Dihua Street, the modest 19th-century Xiahai temple looks unremarkable from the outside — a single-courtyard Taoist shrine in a row of shophouses — but is one of the busiest small temples in Taipei. The City God himself sits at the back; in a side hall, however, is **Yue Lao**, the Old Man Under the Moon, traditionally the matchmaker god who ties red threads around the ankles of future couples.

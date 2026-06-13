@@ -8,6 +8,7 @@ latitude: 33.0020
 longitude: 96.9950
 story: >
   Jyekundo Dondrubling was largely destroyed during the Cultural Revolution and then heavily damaged again in the 2010 earthquake. Its reconstruction has been the central cultural project of post-earthquake Yushu, with monks and local craftspeople working together to restore the main assembly hall and its paintings. The rebuilt monastery is not a replica of what was lost — it incorporates new work in the old tradition, and the newer murals are among the finest examples of contemporary Tibetan religious painting in Qinghai.
+score: 8.4
 ---
 
 Jyekundo Dondrubling is the largest monastery in Yushu and the one most visibly central to the city's character. It occupies a prominent hillside above the town, with the main assembly hall visible from much of the city. The monastery is active and well-attended; several hundred monks are in residence, and morning prayers in the main hall are open to respectful visitors.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.7
 ---
 
 Karydi (or Karidi) Beach sits on the southwest tip of Sithonia, just outside the village of Vourvourou, and is one of the most photographed beaches in northern Greece. The shore is a long, narrow stretch of soft pale sand fringed with smooth white rocks the size of cars; the water is shallow and the colour of swimming-pool turquoise.

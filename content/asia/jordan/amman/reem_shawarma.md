@@ -7,6 +7,7 @@ tags:
   - jabal_amman
 latitude: 31.9490
 longitude: 35.9290
+score: 7.3
 ---
 
 Reem is widely considered to serve the best shawarma in Amman — a strong claim in a city that takes its shawarma seriously. The shop is on Second Circle in Jabal Amman and has been there since the 1960s, serving chicken or meat shawarma wrapped in flatbread with garlic sauce, tomato, and parsley. The bread is toasted on the grill; the spit turns constantly; the queue is always there and always moves fast.

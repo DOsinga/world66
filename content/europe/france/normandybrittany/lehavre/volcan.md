@@ -10,6 +10,7 @@ tags:
 - architecture
 title: Le Volcan — Espace Oscar Niemeyer
 type: poi
+score: 7.9
 ---
 
 In the middle of the Perret grid, rising like a concrete eruption from the city's largest square, is the Espace Oscar Niemeyer — universally known as "Le Volcan." The complex, designed by the Brazilian architect Oscar Niemeyer and completed in 1982, consists of two buildings: the Grand Volcan (a large performance hall housed in an inverted cone) and the Petit Volcan (a smaller cone containing the municipal library). The juxtaposition with Perret's strict horizontals is both jarring and exhilarating.

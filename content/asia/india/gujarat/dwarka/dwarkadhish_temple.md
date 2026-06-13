@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Dwarkadhish Temple
 type: poi
+score: 9.3
 ---
 
 Dwarkadhish Temple is the reason most people come to Dwarka. The five-storey shrine, supported by carved pillars and crowned by a soaring shikhara, is dedicated to Krishna as king of Dwarka.

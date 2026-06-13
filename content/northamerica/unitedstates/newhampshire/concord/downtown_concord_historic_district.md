@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.2053
 longitude: -71.5375
+score: 7.8
 ---
 
 Downtown Concord is small but unusually intact. Main Street runs straight north-south through a corridor of late 19th-century brick commercial buildings — banks, hotels, shops — most still in commercial use rather than gutted for parking. A pedestrian-friendly streetscape reconstruction in the 2010s added wider sidewalks, granite curbs, and benches, and the result is one of the better small-city downtowns in northern New England.

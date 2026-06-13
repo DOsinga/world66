@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 13.0700
 longitude: -59.5720
+score: 7.5
 ---
 
 The Gap concentrates most of Christ Church's nightlife into a single walkable strip. The mix shifts as you move along it: the beachfront end has open-air bars with sand floors and live bands playing reggae and soca for mixed crowds; the road section through the middle has livelier clubs with DJs; the quieter end has wine bars and more sedate cocktail lounges.

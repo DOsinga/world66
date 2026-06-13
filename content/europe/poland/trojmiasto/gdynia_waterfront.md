@@ -6,6 +6,7 @@ latitude: 54.5219
 longitude: 18.5317
 story: >
   Gdynia was practically uninhabited marshland in 1918, when Poland regained independence and needed a functioning port to replace Danzig (Gdansk), which had been designated a Free City under League of Nations control. Within twenty years, Gdynia had grown into one of the largest and most modern ports on the Baltic, a city built almost entirely in the Modernist style. The speed of construction made it one of the most architecturally homogeneous cities in Europe — an unintentional open-air museum of interwar Polish Modernism.
+score: 8.0
 ---
 
 Gdynia's Southern Pier anchors the most interesting part of the city's waterfront, with two museum ships moored alongside: the ORP Błyskawica, a Polish destroyer that served with the Royal Navy in the Second World War and survived the Blitz, and the Dar Pomorza, a three-masted sailing ship that trained Polish merchant navy officers for over sixty years. Both ships are open to visitors and give a vivid sense of life at sea.

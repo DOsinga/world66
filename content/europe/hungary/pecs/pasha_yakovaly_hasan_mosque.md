@@ -17,6 +17,7 @@ story: >
   of it remained to be worth preserving.
 sources:
   - https://en.wikipedia.org/wiki/Yakovalu_Hasan_Pasha_Mosque
+score: 7.5
 ---
 
 The Pasha Yakovalı Hasan Mosque is a small 16th-century Ottoman mosque in the lower part of the old town, and unlike the larger Qasim Mosque on Széchenyi Square, it has been restored to reflect its original Muslim character rather than converted to Christian use. The dome, the minaret, and the bare interior with its mihrab niche and minimal decoration create a contemplative space of considerable dignity.

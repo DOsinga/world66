@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.8
 ---
 
 A tall Gothic Revival basilica completed in stages between 1872 and 1937, dedicated to St Mary of the Angels and granted basilica status by the Vatican in 1956. The single 60-metre tower at the western end is one of the most prominent landmarks of central Geelong.

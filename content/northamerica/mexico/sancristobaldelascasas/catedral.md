@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 16.7381
 longitude: -92.6381
+score: 6.8
 ---
 
 The Cathedral of San Cristóbal de las Casas faces the main plaza and has been the spiritual heart of the city since the 16th century, though the current facade dates largely from the 18th. It is a smaller and simpler church than Santo Domingo, but the yellow and white facade, with its double bell towers, has a dignified elegance that looks particularly good in early morning light.

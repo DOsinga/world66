@@ -9,6 +9,7 @@ tags:
 title: Salisbury Historic District
 type: poi
 story: "When Stoneman's Union cavalry burned the Confederate prison camp in April 1865, they spared most of the residential and commercial blocks — and the railroad money that flowed in after the war preserved them in the architectural amber that defines the town today."
+score: 8.6
 ---
 
 The Salisbury Historic District covers roughly thirty blocks of the central town, encompassing more than 1,500 contributing structures from the late 18th century through the 1930s. It is one of the most intact historic downtowns in North Carolina, with Federal-period brick row houses, Italianate commercial blocks, Queen Anne Victorians, and a clutch of Beaux-Arts and Art Deco landmarks all within easy walking distance.

@@ -11,6 +11,7 @@ story: "The springs heat patches of sea to over 40°C a few metres from where th
   waves break on cold rock. At night, with torches and no entrance fee, it feels like
   something you've discovered yourself — even in August, when you definitely haven't.
   Accessible by a steep path from the road above, or by water taxi from Forio harbour."
+score: 8.8
 ---
 
 Sorgeto Bay sits at the southern tip of the Forio municipality, a small rocky inlet where geothermal heat pushes through the seafloor and heats the water at the shoreline to temperatures that vary between pleasantly warm and scalding, depending on how close you get to the vents. There are no facilities, no entrance fee, and no lifeguards — just rocks, sea, and hot water available every day of the year.

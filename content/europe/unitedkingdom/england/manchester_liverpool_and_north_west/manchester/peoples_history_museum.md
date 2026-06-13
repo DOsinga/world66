@@ -18,6 +18,7 @@ story: >
   museum stands a short walk from where it happened.
 sources:
   - https://en.wikipedia.org/wiki/People%27s_History_Museum
+score: 8.9
 ---
 
 The People's History Museum tells the story of British democracy and the labour movement from the 1780s to the present, and it does so with unexpected flair. The building itself — an Edwardian pump house beside the River Irwell — has been dramatically refitted, and the exhibition design is engaging rather than worthy. Free entry.

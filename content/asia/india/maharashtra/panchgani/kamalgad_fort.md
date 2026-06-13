@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Hilltop Maratha fort overlooking the Krishna river valley
+score: 7.1
 ---
 
 Kamalgad — "Lotus Fort", also known as Bhelanja — is a square-topped hill fort on a flat plateau roughly 8 km north-west of Panchgani, overlooking the Krishna valley toward Wai. It is one of the dozens of small Maratha hill forts that ring the Western Ghats, built or rebuilt under Shivaji in the 17th century and largely abandoned after the fall of the Maratha confederacy.

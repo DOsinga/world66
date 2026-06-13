@@ -8,6 +8,7 @@ tags:
 - wine
 title: Concannon Vineyard
 type: poi
+score: 7.4
 ---
 
 Founded in 1883 by James Concannon, an Irish immigrant from the Aran Islands, Concannon is one of the oldest continuously operating wineries in California — and the first to varietally label a Petite Sirah, in 1961. The estate sits on Tesla Road, the main artery of the Livermore Valley wine route.

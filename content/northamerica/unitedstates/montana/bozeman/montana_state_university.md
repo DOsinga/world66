@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.6683
 longitude: -111.0500
+score: 6.4
 ---
 
 Montana State University sits on a large campus at the south end of Bozeman, and it shapes the character of the city in ways that are immediately obvious. The student population accounts for a significant fraction of the city's total residents, bringing with it coffee shops, bookstores, bars, and a year-round energy that most Montana cities lack.

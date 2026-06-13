@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic, day_trips]
 latitude: 48.0575
 longitude: 17.1144
 story: Rusovce Mansion was built in the 1840s in a neo-Gothic style that was fashionable across the Habsburg Empire at the time. It was owned by a succession of aristocratic families and served as a hunting residence. The building fell into severe disrepair after World War II and was effectively abandoned under communist rule — a fairy-tale castle in an advanced state of decay.
+score: 6.1
 ---
 
 Rusovce Mansion is a neo-Gothic manor house in the village of Rusovce, about 14 km south of Bratislava on the Danube road. The building dates from the 1840s and was constructed on the site of a much older fortification — the area is also home to a Roman military camp (Gerulata), which was part of the frontier fortification along the Danube.

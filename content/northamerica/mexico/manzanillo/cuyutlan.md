@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
 story: "The *Ola Verde* — the Green Wave — of Cuyutlán is a phenomenon of late spring when the swells reach four metres and break with a phosphorescent green glow caused by plankton in the water. The wave is famous within Mexico but rarely written up abroad."
+score: 7.8
 ---
 
 Forty kilometres south of Manzanillo, Cuyutlán is a sleepy black-sand beach town strung along a lagoon of the same name. It is best known for the Ola Verde, a seasonal big wave that arrives in late April and May, and for the *Tortugario* turtle sanctuary on the lagoon, which rescues and releases olive ridley and leatherback turtles.

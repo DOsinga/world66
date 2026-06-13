@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 17.7531
 longitude: -64.6830
+score: 5.5
 ---
 
 The Brass Parrot is the main dining room at the Buccaneer, a long-established resort hotel on a former sugar plantation on the east end of the island. The setting is exceptional — a hilltop terrace looking south over the sea, with the old plantation buildings converted into resort cottages below. The cooking is upscale Caribbean with a strong emphasis on local seafood: wahoo, mahi-mahi, lobster when in season, and an extensive list of local rum cocktails.

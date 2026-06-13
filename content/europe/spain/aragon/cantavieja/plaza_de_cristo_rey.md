@@ -13,6 +13,7 @@ story: The arcade that runs around the square looks like many in Aragonese towns
   have their foundations on bare rock hanging above a 100-metre void. This is visible
   from below, on the path that circles the base of the promontory, where the village
   reveals its precarious perch in full.
+score: 6.8
 ---
 
 **Plaza de Cristo Rey** is the arcaded main square of Cantavieja, lined with stone columns and overlooked by the Baroque parish church. It functions as the social centre of village life — market days, festival events, and the daily ritual of coffee and conversation all happen here. The porticoed walkway was a practical response to the highland climate: it provides shade in summer and shelter in winter, and almost every building of substance in the village has access through it.

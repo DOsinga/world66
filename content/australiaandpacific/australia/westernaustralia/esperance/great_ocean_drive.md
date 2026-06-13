@@ -6,6 +6,7 @@ latitude: -33.8882
 longitude: 121.8554
 story: >
   The turquoise water colour along the Great Ocean Drive comes from the extreme purity of the Southern Ocean here — low in phytoplankton and organic matter compared to most coastlines, which makes the water scatter light in the blue-green wavelengths. The sand is similarly unusual: ground from quartzite over millions of years, it has an abnormally high silica content that gives it its white colour and squeaky texture. The combination is genuinely unusual — most beaches with this colour of water have darker sand.
+score: 7.8
 ---
 
 The Great Ocean Drive is a 40km self-drive loop starting from central Esperance that passes the town's best beach sequence in a single morning excursion. The route runs south from town to Twilight Beach, Salmon Beach, and a series of lookout points over the Southern Ocean before looping back. Each beach is slightly different — some sheltered for swimming, some exposed for watching surf, some with rock platforms and sea caves to explore — but all share the same extraordinary combination of white sand and turquoise water.

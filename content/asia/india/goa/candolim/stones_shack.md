@@ -9,6 +9,7 @@ tags:
   - bar
   - restaurant
 snippet: "Long-running Candolim Beach shack with one of the best sunset terraces."
+score: 5.8
 ---
 
 Of the many beach shacks lined up along Candolim, Stone's is one of the longest-running and one of the few that maintain consistent food and service across seasons. Loungers under thatched parasols stretch down to the surf, and the bar serves the standard Kingfishers, Old Monk cocktails, and respectable fresh lime sodas.

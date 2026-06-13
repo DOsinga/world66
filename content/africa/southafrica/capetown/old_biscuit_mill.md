@@ -16,6 +16,7 @@ tags:
 - woodstock
 title: Old Biscuit Mill
 type: poi
+score: 7.3
 ---
 
 The Old Biscuit Mill is a complex of converted brick warehouses in the heart of Woodstock, now occupied by design studios, small fashion boutiques, ceramics workshops and a number of well-regarded restaurants. The complex is the headquarters of contemporary Cape Town's design scene, with showrooms for several internationally known South African brands.

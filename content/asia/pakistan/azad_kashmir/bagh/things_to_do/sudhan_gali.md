@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.9933
 longitude: 73.7317
+score: 8.2
 ---
 
 Sudhan Gali is the main scenic attraction of Bagh District, a hill station sitting at around 2,700 metres (roughly 9,000 feet) above sea level. The elevation keeps temperatures cool through the summer months, making it a popular escape for families from the hotter lowlands and for visitors from Islamabad. Pine and deodar forests cover the surrounding ridgelines, and on clear days the views across the Azad Kashmir hills are expansive.

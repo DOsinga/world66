@@ -13,6 +13,7 @@ story: >
   soles of the feet showing the 108 auspicious marks of the Buddha. The whole
   figure was completed in 1966 to replace an older version that collapsed in the
   1950s.
+score: 7.7
 ---
 
 The Chaukhtatgyi Pagoda houses a massive reclining Buddha — 66 metres long and one of the largest in Myanmar. Unlike the Shwedagon, this is a largely local experience: pilgrims come in large numbers and the atmosphere is devotional rather than touristic.

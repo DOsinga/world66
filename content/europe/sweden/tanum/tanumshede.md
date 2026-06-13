@@ -6,6 +6,7 @@ longitude: 11.3236
 tags:
   - things_to_do
   - sight
+score: 4.3
 ---
 
 Tanumshede is the small administrative seat of Tanum Municipality and the practical base for visits to the rock carvings — it has a supermarket, a couple of cafes, the tourist office, and the closest railway station to the World Heritage sites (around 2 km from Vitlycke).

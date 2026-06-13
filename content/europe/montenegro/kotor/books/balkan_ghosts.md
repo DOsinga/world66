@@ -5,6 +5,7 @@ author: "Robert D. Kaplan"
 isbn: "978-1250040206"
 tags:
   - books
+score: 7.1
 ---
 
 Kaplan's 1993 journalist's account of the Balkans on the eve of and during the Yugoslav wars has been criticised — fairly — for over-emphasising ancient hatreds at the expense of contemporary political choices. But the Kotor chapter is a small classic of place writing: the cruise-ship ghosts, the cats in the cathedral square, the late-Yugoslav quiet before the storms of the early 1990s.

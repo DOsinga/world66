@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.5350
 longitude: 99.0500
+score: 7.6
 ---
 
 A cave system in the limestone hills of the island's interior, Tham Khao Mai Kaeo is one of the more unusual things to do on Koh Lanta. Local guides lead small groups through a sequence of chambers with stalactites and stalagmites, including sections that require crawling through narrow passages and wading through knee-deep water.

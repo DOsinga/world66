@@ -15,6 +15,7 @@ tags:
 - sight
 title: Shibuya Scramble Crossing
 type: poi
+score: 7.4
 ---
 
 The Shibuya Scramble Crossing is the defining image of contemporary Tokyo — an intersection where several hundred pedestrians cross simultaneously from every direction, every two minutes, in a choreography that should be chaos and somehow is not. On busy evenings, the numbers are staggering and the effect — seen from above — resembles a time-lapse of cells dividing.

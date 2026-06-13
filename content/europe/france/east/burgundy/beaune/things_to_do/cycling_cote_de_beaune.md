@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.0059
 longitude: 4.7981
+score: 8.7
 ---
 
 The Côte de Beaune — the southern half of Burgundy's famous escarpment — produces some of the world's greatest white wines and is also, fortuitously, ideal cycling country. The vineyard lanes are almost flat, virtually traffic-free on weekdays, and pass through a succession of villages whose names read like a wine list: Pommard, Volnay, Meursault, Puligny-Montrachet, Chassagne-Montrachet. The whole route from Beaune to Santenay at the southern end is about 25 kilometres each way.

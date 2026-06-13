@@ -11,6 +11,7 @@ story: >
   Like the Great Mosque of Djenné on which it is modelled, the Grand Mosque of Mopti requires an annual communal replastering — a festival in which the townspeople re-coat the entire exterior with a fresh layer of banco (mud and rice husks) mixed with palm oil. The wooden beams that protrude from the walls are not decorative but structural: they serve as scaffolding supports for the replastering crews and give the building its distinctive porcupine silhouette.
 sources:
   - https://en.wikipedia.org/wiki/Grand_Mosque_of_Mopti
+score: 8.6
 ---
 
 Built in 1935 on the model of the famous Great Mosque of Djenné, the Grand Mosque of Mopti is one of the most distinctive pieces of Sudano-Sahelian architecture in the region. Its three tapering towers, bristling with the wooden toron poles used for annual replastering, rise above the old town quarter and are visible from across the river. The building is made entirely of banco — a sun-dried mud mixture — which gives it a warmth and texture that no modern building can match.

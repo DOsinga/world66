@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.6383
 longitude: 24.8044
+score: 7.8
 ---
 
 At the western end of the Valley of the Roses, about 65 km from Kazanlak, sits the town of Karlovo. It is the birthplace of Vasil Levski — the revolutionary who organised the Bulgarian struggle against the Ottomans in the 1860s and who is the closest thing Bulgaria has to a universally revered national hero. His childhood home is now a museum.

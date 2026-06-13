@@ -10,6 +10,7 @@ latitude: 62.0566
 longitude: -7.2536
 sources:
   - https://en.wikipedia.org/wiki/S%C3%B8rv%C3%A1gsvatn
+score: 9.2
 ---
 
 Leitisvatn — also called Sørvágsvatn — is the largest lake in the Faroe Islands and the source of one of the most widely circulated landscape photographs in the world: the image showing the lake apparently suspended above the ocean, a visual trick produced by the cliff edge dropping sharply away and the perspective of a telephoto lens. The lake sits about 30 metres above sea level, but from the right angle it looks like it is floating.

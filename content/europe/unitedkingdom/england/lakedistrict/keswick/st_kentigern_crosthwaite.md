@@ -7,6 +7,7 @@ tags:
   - church
 latitude: 54.6083
 longitude: -3.1512
+score: 7.7
 ---
 
 The parish church of Keswick, half a mile north of the centre on the edge of Crosthwaite. A wide, low-roofed medieval building, mostly 16th century with earlier fragments, and a magnificent set of consecration crosses still legible on its walls.

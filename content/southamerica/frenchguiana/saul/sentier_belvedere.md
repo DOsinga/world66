@@ -9,6 +9,7 @@ tags:
 latitude: 3.628
 longitude: -53.212
 snippet: "Short climb to a rare canopy view over the rainforest"
+score: 8.2
 ---
 
 The Sentier du Belvédère is the steepest of the short trails out of Saül and the most rewarding for a first view of where you are. The path climbs through tall primary forest to a granite outcrop high above the canopy — one of the very few places near the village where the trees give way enough to see the green dome of forest stretching to every horizon, unbroken to the Brazilian border.

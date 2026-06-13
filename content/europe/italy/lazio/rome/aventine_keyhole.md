@@ -15,6 +15,7 @@ tags:
 - sight
 title: Aventine Keyhole
 type: poi
+score: 7.6
 ---
 
 On the Aventine Hill, a wrought-iron keyhole in the gate of the Knights of Malta priory frames a perfectly aligned view of St. Peter's dome at the end of a long garden avenue. The effect is precise and strange: the dome appears to hover exactly centred in the hole, the trees forming a natural tunnel toward it. Locals and visitors queue patiently for their turn to look.

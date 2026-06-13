@@ -13,6 +13,7 @@ story: >
   carved serpents, and the buried grave goods included a richly decorated sledge, a cart, four
   beds, and fifteen horses. After 1,000 years in a clay burial mound, the wood survived almost
   intact.
+score: 4.8
 ---
 
 The Viking Ship Museum at Bygdøy holds the three best-preserved Viking Age ships in the world — the Oseberg, Gokstad, and Tune ships, all burial vessels found in Norwegian burial mounds. The Oseberg ship in particular is extraordinary: a beautifully preserved 9th-century vessel whose carved prow and intricate woodwork make it the finest surviving example of Viking craftsmanship anywhere.

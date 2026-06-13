@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
 story: The mosque was commissioned by Sultan Idris Murshidul Adzam Shah in 1913 as a thank-offering for his recovery from illness, and was designed by **A.B. Hubback**, the British architect responsible for many of the great Moorish-style public buildings of British Malaya. Construction was repeatedly delayed by elephants of the royal household trampling the imported Italian marble; the building was finally inaugurated in 1917.
+score: 8.4
 ---
 
 The **Masjid Ubudiah** in Kuala Kangsar is one of the most beautiful mosques in the country and the spiritual centre of the Perak sultanate. The plan is a Greek cross of Italian marble; the centrepiece is a single huge golden dome supported by four lesser domes and flanked by four slender minarets, all in the polished marble that defines the building's pale, gleaming look.

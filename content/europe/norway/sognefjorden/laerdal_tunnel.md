@@ -15,6 +15,7 @@ story: >
   impression of emerging briefly into daylight. This technique — using
   light to manage driver psychology in long tunnels — has since been adopted
   in other tunnels worldwide.
+score: 5.3
 ---
 
 The Lærdal Tunnel is the world's longest road tunnel — 24.5 kilometres of two-lane road through the mountains between Lærdal on the Sognefjorden and Aurland on the Aurlandsfjord. It was opened in 2000 and provides the main all-year connection between the Sognefjorden towns and the road to Oslo. The tunnel replaced the Aurlandsvegen mountain road, which is impassable in winter, as the main year-round connection.

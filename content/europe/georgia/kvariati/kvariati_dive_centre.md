@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 41.5453
 longitude: 41.5636
+score: 6.2
 ---
 
 Kvariati has the only working scuba diving operation on the Georgian Black Sea coast. The small dive centre operates during the summer season (roughly June to September), offering introductory dives for beginners and guided dives for certified divers. The underwater visibility here is better than near Batumi, where rivers and heavy beach use cloud the water.

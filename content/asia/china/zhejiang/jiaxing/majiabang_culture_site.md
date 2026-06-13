@@ -9,6 +9,7 @@ latitude: 30.736
 longitude: 120.715
 story: >
   The Majiabang culture, named after the village near Jiaxing where the first artefacts were excavated, dates to roughly 5000–3000 BCE and represents one of the earliest known rice-cultivating societies in the world. Jiaxing's claim to have been a centre of Chinese civilisation for seven thousand years is not hyperbole.
+score: 7.8
 ---
 
 The Majiabang archaeological site near Jiaxing preserves evidence of one of the most significant Neolithic cultures in eastern China, a civilisation that was cultivating rice, making fine pottery, and building pile-dwelling villages on the shores of the Taihu Lake region six or seven thousand years ago. The site is not dramatic in itself — there is little to see above ground — but the associated museum provides context for the extraordinary depth of human habitation in the Jiangnan plain.

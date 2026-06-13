@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 story: "The dark colour of the lake is from tannins released by the surrounding araucária pines and hortênsias planted in the 1950s by a local landowner using seedlings he had brought back from the Black Forest. The pedal swans are made of fibreglass, but the trees are real, and so is the chill in the evening air."
+score: 6.9
 ---
 
 A small artificial lake ringed by tall pine trees in the south of the town, easily reached on foot from the centre. Pedal boats shaped like swans are available for hire, the hortênsia (hydrangea) bushes bloom in spectacular masses through summer, and a footpath circles the water. There is a cafe at one end.

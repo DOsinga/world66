@@ -11,6 +11,7 @@ story: >
   The reef just offshore from Tiéti is a regular stop for the Nouméa-based dive
   operator Nautile, which moors up over the pass to find black-tip reef sharks
   and the occasional eagle ray patrolling the drop-off.
+score: 7.1
 ---
 
 Tiéti is the long stretch of pale sand a few kilometres north of Poindimié town, fronting the lagoon at the only proper resort on this coast — the Tiéti Hotel. The beach is open to anyone, and even without staying you can walk the sand or borrow a kayak from the hotel's beach club for the morning.

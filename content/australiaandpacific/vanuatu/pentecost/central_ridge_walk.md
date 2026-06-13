@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -15.75
 longitude: 168.2
+score: 8.1
 ---
 
 The central spine of Pentecost is a high, jungle-covered ridge that runs the length of the island and separates the two halves of the population — west-coast Catholic and Anglican, east-coast kastom — even today. A number of traditional foot tracks cross the ridge between villages, and the walks are spectacular: thick rainforest at altitude, glimpses through the canopy of both coasts, and the occasional pig-hunting encampment.

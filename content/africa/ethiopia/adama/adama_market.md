@@ -6,6 +6,7 @@ longitude: 39.2688
 tags:
   - things_to_do
   - market
+score: 8.0
 ---
 
 Adama's central market is a genuine working market, not a tourist bazaar, and its scale reflects the city's role as the commercial hub of a large agricultural region. The Oromia highlands around Adama produce coffee, khat, sorghum, maize, and teff, and all of it moves through here. The coffee section alone is worth the visit — beans are sold loose by the sack, and the smell hits you a street away. Spice traders pile their goods in heaps of turmeric, berbere, and dried chilli; grain merchants work from fixed stalls; and along the periphery the livestock market deals in cattle and goats brought in from surrounding villages.

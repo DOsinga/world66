@@ -8,6 +8,7 @@ tags:
 neighbourhood: Chowk
 latitude: 26.8717
 longitude: 80.9123
+score: 6.7
 ---
 
 Rahim's, in the bazaar lanes off Akbari Gate, is the most famous of the dawn **nihari-kulcha** shops in Lucknow. Nihari is a slow-cooked lamb shank stew with a marrow-rich gravy, traditionally cooked overnight on low coals and served at dawn with **kulcha** — a soft, lightly leavened flatbread baked in a clay tandoor. It is winter food, deeply rib-sticking, and inseparable from old Lucknow's Muslim food culture.

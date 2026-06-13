@@ -8,6 +8,7 @@ latitude: 33.9689
 longitude: 51.4047
 sources:
   - https://en.wikipedia.org/wiki/Tepe_Sialk
+score: 7.6
 ---
 
 Tepe Sialk is a pair of prehistoric mounds on the western edge of Kashan that represent one of the oldest known settlements in Iran — possibly in the world. Excavations by the French archaeologist Roman Ghirshman in the 1930s found continuous occupation going back to around 6000 BCE, making this one of the most significant prehistoric sites in the Middle East.

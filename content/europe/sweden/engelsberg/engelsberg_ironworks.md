@@ -9,6 +9,7 @@ latitude: 59.9667
 longitude: 16.0083
 story: >
   The ironworks at Engelsberg operated from 1681 until 1919, but what makes it extraordinary is what happened afterwards: the owner chose to freeze it in time rather than modernize or demolish. The waterwheel, the blower, the hammer, and the crusher are all intact and still operational — meaning you can watch 18th-century ironworking technology function exactly as it did three centuries ago.
+score: 9.0
 ---
 
 Engelsberg Ironworks is one of the best-preserved examples of the European iron industry from the 17th to 19th centuries, and UNESCO has recognised it as such. The complex includes the blast furnace, the hammer forge with its log insulation, the weighing house where farmers brought charcoal, and the ironmaster's mansion — all standing much as they were when the last iron was made here in 1919.

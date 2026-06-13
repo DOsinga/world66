@@ -11,6 +11,7 @@ story: >
   dramatic limestone plateau riddled with caves and carved into cliffs above the
   treeline. Locals claim you can hear the wind change tone as it moves through
   the rock formations near the summit.
+score: 8.1
 ---
 
 Piatra Mare (1,843 m) is the massif immediately to the north of Predeal and the most rewarding hiking destination from the town. The standard route from Predeal climbs through forest before emerging onto open rocky terrain, and takes around four to five hours return. The summit plateau gives panoramic views over the Prahova Valley, the Bucegi Mountains to the west, and on clear days the Ciucaș range to the north.

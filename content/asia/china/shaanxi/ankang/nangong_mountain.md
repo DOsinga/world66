@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.2800
 longitude: 109.1500
+score: 6.8
 ---
 
 Nangong Mountain is the highest scenic area in the Ankang region, rising to over 2,100 metres in the southern part of the Qinling range. The mountain forest is cool even in summer and contains old-growth trees, mountain streams, and a series of small Buddhist and Daoist temples clinging to the cliffs at various elevations. A cable car provides access to the upper mountain; the walk from the base to the summit takes about three hours.

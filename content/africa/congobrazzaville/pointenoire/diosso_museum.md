@@ -7,6 +7,7 @@ snippet: Royal residence of the kings of Loango, now a small ethnographic museum
 tags:
 - things_to_do
 - museum
+score: 8.2
 ---
 
 The Mâ Loango regional museum at Diosso sits on the site of the former royal residence of the Vili kings of Loango. The kingdom dominated this stretch of coast from the late 15th century to the colonial period; the museum houses royal regalia, ritual masks, ceremonial sceptres and a series of rooms about the slave trade in which the kingdom was deeply implicated.

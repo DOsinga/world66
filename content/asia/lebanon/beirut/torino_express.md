@@ -8,6 +8,7 @@ tags:
 neighbourhood: Mar Mikhael
 latitude: 33.8975
 longitude: 35.5230
+score: 7.0
 ---
 
 Torino Express is the tiny, standing-room-only bar that started Mar Mikhael's transformation into a nightlife district. Barely six metres wide, with a long brass counter and a window onto Armenia Street, it is the bar everyone ends up in at least once a night.

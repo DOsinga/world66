@@ -8,6 +8,7 @@ tags:
 latitude: 52.2490
 longitude: 21.0128
 snippet: "Classic Polish pierogi restaurant in the Old Town, with dozens of filling varieties"
+score: 5.6
 ---
 
 Zapiecek is a Polish restaurant chain that has become the standard reference for pierogi in Warsaw. The Old Town branch on the market square is the most central. The menu runs to dozens of pierogi varieties — the traditional ruskie (potato and cheese) and kapusta z grzybami (sauerkraut and mushroom) are the benchmarks, but seasonal and creative varieties change through the year. Portions are generous and prices are fair for the location.

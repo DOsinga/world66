@@ -9,6 +9,7 @@ latitude: 36.2300
 longitude: 111.7570
 story: >
   The Yuan-dynasty wall painting in the Lower Temple's main hall depicts a theatrical performance — an orchestra, actors in costume, a stage — that scholars believe is one of the earliest visual records of Chinese opera. The painting was not made to document theatre; it was a votive offering to the temple deity, and the performers depicted were probably participants in a religious festival. The incidental documentary value of a devotional painting is a recurring feature of Chinese religious art.
+score: 8.5
 ---
 
 The Guangsheng Lower Temple is a cluster of Yuan- and Ming-dynasty halls at the foot of the mountain, below the Upper Temple and its pagoda. The main hall contains Yuan-dynasty wall paintings in good condition, the most celebrated of which shows a theatrical performance in considerable detail — costume, instruments, stage arrangement, and audience reactions all depicted with a specificity that makes it an invaluable document of 14th-century performance culture.

@@ -8,6 +8,7 @@ tags:
 latitude: 20.6214
 longitude: -156.4444
 snippet: "Maui's biggest undeveloped beach — long, golden, and exposed to open ocean swell"
+score: 8.4
 ---
 
 Mākena Beach — universally called Big Beach — is the best undeveloped beach on Maui. It is a long, broad stretch of golden sand on the south coast that has been protected from development by Makena State Park, and it shows: no resort towering behind it, no jet ski rentals, just open beach and open ocean. The surf can be powerful, and shore break injuries are not uncommon — swim with caution and watch the waves before getting in.

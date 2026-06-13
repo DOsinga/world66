@@ -6,6 +6,7 @@ longitude: 16.6573
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 About 5 km north of town, near the village of Čitluk, are the remains of Aequum — a Roman colony founded for veterans of Legio VII Claudia in the first century AD. Foundations of a forum, traces of a thermal complex, and stretches of city wall survive in the fields.

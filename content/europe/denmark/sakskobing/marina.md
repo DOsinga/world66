@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - harbour
+score: 5.0
 ---
 
 A small leisure harbour at the mouth of the Sakskøbing Å, two kilometres north of the town centre. It is run by the local sailing club (Sakskøbing Bådelaug) and has berths for visiting yachts crossing the Smålandsfarvandet between Zealand and Falster.

@@ -14,6 +14,7 @@ story: >
   political framing reflects this ongoing tension. It is one of the few places
   in Seoul where the unresolved status of the Korean peninsula is displayed
   directly rather than mentioned in passing.
+score: 8.0
 ---
 
 The War Memorial of Korea in Yongsan, near Itaewon, is a large outdoor and indoor museum covering Korea's military history from ancient times to the present. The outdoor grounds display tanks, aircraft, artillery pieces, and naval vessels; the indoor galleries cover the Japanese occupation, the Korean War, and post-war development in considerable detail. The Korean War section is comprehensive and includes English captions throughout.

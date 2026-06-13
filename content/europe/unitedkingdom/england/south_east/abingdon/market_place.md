@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 51.6705
 longitude: -1.2810
+score: 7.7
 ---
 
 The Market Place is the social heart of Abingdon — a wide, irregular space framed by the County Hall, St Nicolas Church, and a parade of Georgian and Victorian shopfronts. Markets have been held here continuously since the eighth century, when the abbey held the charter; today's general market runs on **Mondays and Fridays**, with a smaller farmers' market on the third Friday of each month.

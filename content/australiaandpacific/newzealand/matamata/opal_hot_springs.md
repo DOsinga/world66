@@ -6,6 +6,7 @@ tags:
 - nature
 latitude: -37.796
 longitude: 175.82
+score: 6.2
 ---
 
 Opal Hot Springs is a small thermal complex about ten minutes east of Matamata, set in a quiet spot near the Waihou River. The water comes out of the ground at a useful temperature without too much sulphur smell, and the pools are simple, modestly priced and rarely crowded — quite different from the better-known thermal towns of Rotorua and Taupo.

@@ -6,6 +6,7 @@ longitude: -3.6033
 tags:
   - eating_out
   - bar
+score: 5.4
 ---
 
 A no-frills tapas bar on the edge of the old town, **Bodegas Cámara** is where locals come for a pre-lunch glass of the local rosado and a plate of grilled mushrooms or a small bowl of *gachas*. Stainless-steel bar, hams hanging from the ceiling, footy on the TV in the corner.

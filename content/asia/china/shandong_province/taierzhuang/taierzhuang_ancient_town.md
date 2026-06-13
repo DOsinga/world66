@@ -8,6 +8,7 @@ latitude: 34.5631
 longitude: 117.7343
 story: >
   Taierzhuang is sometimes described as "the Chinese Warsaw" — one of only two cities in the world, according to local historians, that was completely destroyed in wartime and rebuilt as a heritage site. The comparison is approximate but not absurd: the 1938 battle left the canal town in rubble, and what stands today is entirely reconstructed, yet managed to recapture something of the canal-town atmosphere that made the original worth fighting over.
+score: 8.5
 ---
 
 Taierzhuang Ancient Town is the largest ancient-city restoration project in China: two square kilometers of canal-side architecture, locks, bridges, wharves, and narrow lanes built in eight distinct regional architectural styles that reflect the town's historical role as a crossroads on the Beijing-Hangzhou Grand Canal. The canal itself, still navigable, runs through the heart of the complex, and the reflections of lantern-lit buildings in the water at night are genuinely atmospheric.

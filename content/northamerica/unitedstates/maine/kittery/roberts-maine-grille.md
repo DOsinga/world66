@@ -5,6 +5,7 @@ latitude: 43.087
 longitude: -70.739
 snippet: "A reliable seafood restaurant in the outlet district that holds its own despite the tourist-heavy location"
 tags: [eating_out, restaurant]
+score: 6.1
 ---
 
 Robert's Maine Grille sits in the middle of the outlet corridor, which might make you skeptical, but the kitchen takes its seafood seriously. The menu focuses on Maine standards — lobster rolls, chowder, fried clams, broiled fish — prepared without unnecessary complication. The lobster stew, in particular, has a reputation that extends beyond the outlet crowd. It is one of the few places in the district where you will see locals eating alongside the shoppers.

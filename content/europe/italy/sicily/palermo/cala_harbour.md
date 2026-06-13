@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.121
 longitude: 13.372
+score: 6.7
 ---
 
 La Cala is the small natural harbour at the northeast corner of the old town, the original port of Phoenician and Greek Palermo and the heart of the city until the larger modern docks were built further north. Today it is an attractive curve of moorings filled with fishing boats and small yachts, ringed by 19th-century warehouses now turned into restaurants and the church of Santa Maria di Piedigrotta.

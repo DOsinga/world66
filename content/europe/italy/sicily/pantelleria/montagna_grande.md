@@ -6,6 +6,7 @@ longitude: 11.9920
 tags:
   - things_to_do
   - sight
+score: 8.6
 ---
 
 Montagna Grande, at 836 metres, is the highest point on Pantelleria and the cone of the island's main volcano. It hasn't erupted in historical times, but the fumaroles around its slopes still hiss steam, and there are several natural saunas in caves on the flanks.

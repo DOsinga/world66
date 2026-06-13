@@ -6,6 +6,7 @@ tags:
 - neighbourhood
 title: Koramangala
 type: poi
+score: 6.2
 ---
 
 Koramangala is Bangalore's startup district, the neighbourhood most associated with the city's tech and entrepreneurial boom. It has an unusually high density of co-working spaces, VC offices, and tech company headquarters for a residential area, and the restaurants and cafes here are calibrated to a younger, laptop-carrying crowd. Forum Mall on Hosur Road is a major anchor, and the surrounding streets have a good concentration of eating and drinking options.

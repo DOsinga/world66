@@ -8,6 +8,7 @@ tags:
 - hiking
 title: Bartolo Peak
 type: poi
+score: 7.6
 ---
 
 Bartolo (or Pic de Bartolo) is the highest point of the Desert de les Palmes range, a bald rocky cone of 729 metres above sea level whose summit looks down on the entire Plana Alta and the coastal towns from Castelló to Peñíscola. The most popular route up climbs from the mirador on the CV-147 in about an hour, with the last few hundred metres on bare rock to a small summit cross.

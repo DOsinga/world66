@@ -11,6 +11,7 @@ address: "44 chaussée des Écossais, Québec City, QC G1R 4H3"
 snippet: Former prison turned English-language cultural centre, with Canada's oldest library
 sources:
   - https://en.wikipedia.org/wiki/Morrin_Centre
+score: 8.5
 ---
 
 A remarkable building in the heart of the Old City: a former British colonial prison (built 1808) that was converted into a college and library in 1868. The Morrin Centre now houses the Literary and Historical Society of Quebec — whose library, established in 1824, is the oldest English-language library in Canada still in its original building.

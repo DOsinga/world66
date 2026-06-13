@@ -17,6 +17,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Sunbeamland
   - https://en.wikipedia.org/wiki/Sunbeam_Motor_Car_Company
+score: 6.8
 ---
 
 Wolverhampton's industrial heritage extends well beyond the Black Country ironworks. The Sunbeam Motor Car Company was one of Britain's most innovative early carmakers — a Wolverhampton firm that built Grand Prix winners and land speed record breakers in the 1920s before the Depression ended its independent existence.

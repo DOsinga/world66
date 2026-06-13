@@ -8,6 +8,7 @@ latitude: 49.1824
 longitude: -2.1072
 sources:
   - https://en.wikipedia.org/wiki/Jersey_Heritage
+score: 8.0
 ---
 
 The Jersey Museum on Pier Road tells the island's story from its Neolithic settlers to the German Occupation, via the medieval period, the privateering years, and the Victorian boom. The building is a converted merchant's townhouse and its own architecture is part of the exhibit. One wing reconstructs a Victorian family home in period detail — furniture, fittings, and all — giving a vivid sense of prosperous island life before the internal combustion engine arrived.

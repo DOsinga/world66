@@ -8,6 +8,7 @@ tags:
 latitude: 29.3367
 longitude: 48.0728
 snippet: An inhabited house completely covered in mirror mosaics — one of Kuwait's great oddities
+score: 8.4
 ---
 
 The House of Mirrors is one of the most extraordinary buildings in Kuwait: a private residence in the Rumaithiya district that the late artist Lidia Al-Qattan spent years covering, inside and out, with mirror mosaics. Every surface — walls, ceilings, furniture, garden — is encrusted with small pieces of reflective glass arranged in dazzling geometric and figurative patterns.

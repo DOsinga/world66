@@ -12,6 +12,7 @@ story: >
   prostitute are confined together during a tropical downpour. The story was
   a sensation; the harbour became briefly famous. Maugham himself stayed only
   briefly, held up by illness.
+score: 8.2
 ---
 
 Pago Pago Harbor is one of the finest natural harbours in the Pacific, formed by the collapse of a volcanic caldera that left an almost completely enclosed bay. The harbour is deep enough to accommodate large vessels — the StarKist tuna cannery on the waterfront is one of the largest in the world, and the smell from it on a warm day is unmistakable.

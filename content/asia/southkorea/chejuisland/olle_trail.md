@@ -7,6 +7,7 @@ tags:
 latitude: 33.2480
 longitude: 126.5520
 snippet: "430km of marked coastal and rural walking routes around the island"
+score: 8.2
 ---
 
 The Jeju Olle Trail is a network of 26 walking routes — totalling about 430 kilometres — that circle and cross the island. Established in 2007, the routes follow footpaths, coastal cliffs, oreum (volcanic cones), stone walls, and village lanes that would otherwise be inaccessible to visitors. The system is well marked with blue and orange ribbons and small horse sculptures indicating direction.

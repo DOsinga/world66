@@ -11,6 +11,7 @@ tags:
 - shopping
 title: Lopues East Centre
 type: poi
+score: 4.8
 ---
 
 Near the New Government Center, this mall has shops, tenpin bowling (including glow-in-the-dark bowling on Friday nights), a children's theme park, and function halls. A solid all-rounder.

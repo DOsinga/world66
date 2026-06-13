@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.1389
 longitude: 94.6681
+score: 6.3
 ---
 
 A small mosque serving Dunhuang's Hui Muslim community, a few minutes' walk east of the main square. The building is plain Chinese-style with green-tiled roof and a stylised minaret rather than the more familiar Arabic dome, and the neighbourhood around it is the centre of Hui life in town — halal noodle shops, butchers, and a few traders' courtyards.

@@ -10,6 +10,7 @@ tags:
   - swimming
   - beach
 story: "The beach takes its name from Dr Adolf Fogina, the local doctor who in the 1920s campaigned for the Korana to be turned into a proper public bathing place. The wooden cabins and the rope-rigged ferry across the river to the food kiosks have been part of Karlovac summers for nearly a century."
+score: 8.0
 ---
 
 In summer, half of Karlovac decamps to Foginovo, a stretch of grassy bank and clean swimming on the Korana, ten minutes' walk south of the old town. The river is wide and shallow here, with a rope-rigged ferry to the far bank where the kiosks sell beer, čevapi and ice cream.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 11.4076
 longitude: -69.6781
+score: 9.2
 ---
 
 The historic centre of Coro is a compact grid roughly 14 blocks square, surrounding the Plaza Bolívar and extending west along Calle Zamora. It was inscribed by UNESCO in 1993 as the best-preserved example of an early Spanish colonial town in the Caribbean — most of the buildings are 18th-century, built in bahareque and protected by deep eaves against the sun.

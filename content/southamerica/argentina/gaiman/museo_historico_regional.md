@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -43.2915
 longitude: -65.4978
+score: 7.5
 ---
 
 The Regional Welsh Museum is the best place to understand how and why a group of Welsh settlers established themselves in this remote Patagonian valley in 1865. The exhibits include photographs of the original colonists, documents in Welsh and Spanish, tools and household objects brought from Wales, and materials documenting the early struggle to survive in a landscape entirely unlike anything the settlers had known.

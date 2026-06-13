@@ -9,6 +9,7 @@ tags:
 - heritage
 - historic_site
 snippet: Local history museum covering Portland's role as Victoria's first permanent European settlement
+score: 7.4
 ---
 
 History House is Portland's main local history museum, documenting the town's role as the site of Victoria's first permanent European settlement. The Henty family arrived in 1834 — a full year before John Batman's expedition to Port Phillip — and established a pastoral and trading operation that predated Melbourne entirely. The museum uses photographs, documents, and artefacts to tell this story alongside the broader development of the port and the whaling industry.

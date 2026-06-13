@@ -14,6 +14,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 8.2
 ---
 
 The wreck of the Cedar Pride lies on her port side in 25 to 30 metres of water about a hundred metres off the Marine Park coast, deliberately scuttled in 1985 as an artificial reef. The ship is intact: cargo holds, bridge, masts, and the original anchor chains are all in place, and divers can swim through the wheelhouse and engine room with care.

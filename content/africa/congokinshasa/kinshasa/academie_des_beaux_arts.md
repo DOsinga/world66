@@ -7,6 +7,7 @@ tags:
 latitude: -4.3234
 longitude: 15.3156
 snippet: One of Africa's great fine arts schools, producing painters and sculptors of international reputation
+score: 8.2
 ---
 
 The Académie des Beaux-Arts is one of the most important art institutions on the continent, founded in 1943 and still training a new generation of Congolese painters, sculptors, and graphic artists. The school has produced artists whose work hangs in collections in Paris, Brussels, and New York, and the contemporary Congolese art scene that has drawn international gallery interest in recent years owes much of its foundation to what was built here.

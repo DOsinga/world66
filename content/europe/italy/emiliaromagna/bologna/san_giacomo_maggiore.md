@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 7.8
 ---
 
 San Giacomo Maggiore was built in 1267 as the church of the Augustinian friars. The brick Gothic exterior is restrained; the interior is a single broad nave with side chapels added by the noble families who patronised them in the fifteenth and sixteenth centuries.

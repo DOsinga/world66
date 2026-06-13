@@ -10,6 +10,7 @@ latitude: 52.3817
 longitude: 13.0633
 sources:
   - https://en.wikipedia.org/wiki/Telegrafenberg
+score: 7.6
 ---
 
 The Telegrafenberg is a forested hill south of Potsdam city centre, home to a campus of scientific institutes that has been a centre of geophysical and meteorological research since the 1870s. The hill takes its name from an optical telegraph station that once relayed signals from Berlin westward. Today the campus includes several 19th-century observatory buildings, a meteorological station, and most famously the Einsteinturm — the expressionist solar observatory designed by Erich Mendelsohn in 1920.

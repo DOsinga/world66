@@ -9,6 +9,7 @@ tags:
 - sight
 title: Nakhchivan Juma Mosque
 type: poi
+score: 7.2
 ---
 
 One of the oldest mosques in the Nakhchivan region, the Juma Mosque dates to the medieval period and is attributed to the celebrated architect Ajami Nakhchivani ibn Abubakr, who also designed the famous Momine Khatun Mausoleum. The mosque forms part of the broader Atabeyler architectural complex, a reminder of the region's importance under the Atabeg dynasty.

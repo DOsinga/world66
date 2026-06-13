@@ -16,6 +16,7 @@ story: >
   industry ignored the warnings. By 1951 the canneries were silent. John Steinbeck had
   published his novel Cannery Row in 1945, capturing the street at its rowdy, working-class
   peak; he later said he was saddened by what it became.
+score: 6.2
 ---
 
 The street that John Steinbeck immortalised in his 1945 novel is now the main tourist strip — souvenir shops, wine tasting rooms, and seafood restaurants filling the old corrugated-iron cannery buildings. The atmosphere is more theme park than the bawdy, sardine-smelling place Steinbeck described, but it is worth an hour of your time. A bronze statue of Steinbeck himself stands on the sidewalk near his old haunts, and the building facades, the loading docks, and the smell of the bay give enough texture to make the novel come alive.

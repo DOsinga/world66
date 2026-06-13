@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Medieval Jewish quarter street, now an open-air heritage walk"
+score: 8.2
 ---
 
 The narrow lane that formed the spine of medieval Jewish Worms — running roughly 250 metres from

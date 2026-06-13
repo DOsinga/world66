@@ -10,6 +10,7 @@ tags:
 latitude: 44.7220
 longitude: 8.2920
 story: Canelli is the birthplace of Italian sparkling wine — Carlo Gancia produced the first Asti Spumante here in 1865, imitating the Champagne method he had studied in France. The four big nineteenth-century houses (Gancia, Contratto, Bosca, Coppo) dug enormous tufa cellars beneath the town to age the bottles at a constant temperature.
+score: 8.6
 ---
 
 Below the unassuming streets of Canelli, four enormous wine houses excavated kilometres of underground galleries through the soft tufa, building cool, humid cellars where their sparkling wines could rest in bottle for years. The local nickname "Cattedrali Sotterranee" — Underground Cathedrals — captures the scale: vaulted brick aisles disappearing into the dark, lined with hundreds of thousands of bottles.

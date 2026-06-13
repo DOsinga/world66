@@ -7,6 +7,7 @@ tags:
 latitude: 14.4728
 longitude: -89.2344
 snippet: "Cloud forest reserve with trails and highland birdlife northwest of Ocotepeque"
+score: 7.9
 ---
 
 About 15 km northwest of town, El Güisayote is a cloud forest reserve covering the ridgeline that forms part of the Honduras-Guatemala border. The forest is dense with oaks, liquidambars, and tree ferns, and the elevation brings reliable cool temperatures and frequent mist. Quetzals have been recorded here, along with toucans and a range of cloud forest specialities.

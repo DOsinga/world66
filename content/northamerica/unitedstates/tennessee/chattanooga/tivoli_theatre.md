@@ -7,6 +7,7 @@ tags:
 title: Tivoli Theatre
 type: poi
 snippet: "1921 movie palace nicknamed 'the Jewel of the South'"
+score: 7.2
 ---
 
 The Tivoli opened in 1921 as a silent-movie palace with full classical Beaux-Arts trimmings — marble lobby, painted ceiling, gilded plasterwork, a Wurlitzer organ in the pit. It survived the conversion to cinema decline and was restored in the 1980s as a city-owned performing arts venue.

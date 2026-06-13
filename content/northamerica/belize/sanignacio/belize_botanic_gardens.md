@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: 17.0833
 longitude: -89.0667
+score: 6.9
 ---
 
 The Belize Botanic Gardens occupy 45 acres along the Macal River south of San Ignacio, on the grounds of duPlooy's Jungle Lodge. The gardens are a working conservation site rather than a manicured display: native palms, several hundred species of orchid in a dedicated orchid house, fruit trees from across the Maya world, and trails through regenerating tropical forest.

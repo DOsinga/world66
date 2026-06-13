@@ -11,6 +11,7 @@ story: >
   The staircase was built in 1920-1921 as part of a project to connect the medieval hilltop city with the new train station below — a practical solution to a steep drop that became a civic showpiece. It is decorated in the Neo-Mudéjar style, reviving the medieval Islamic-influenced brickwork of the UNESCO towers in an early 20th-century civic context.
 sources:
   - https://en.wikipedia.org/wiki/Teruel
+score: 7.1
 ---
 
 The Escalinata del Óvalo is a monumental staircase connecting the upper old town of Teruel with the lower streets near the railway station. Built in 1920 in Neo-Mudéjar style — a conscious revival of the medieval Islamic-influenced architectural tradition that produced the UNESCO towers — it is a striking piece of early 20th-century civic architecture.

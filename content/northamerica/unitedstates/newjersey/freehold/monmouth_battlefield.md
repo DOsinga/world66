@@ -17,6 +17,7 @@ story: >
   gave her a battlefield commendation. Whether the story is entirely factual,
   embellished, or a composite of several women who served that day, it stuck —
   and a monument to her stands in Freehold's cemetery.
+score: 8.6
 ---
 
 On June 28, 1778, nearly 20,000 soldiers fought across this open farmland in temperatures that reportedly reached 100°F, making it one of the largest — and most punishing — land battles of the American Revolution. The Continental Army under Washington engaged the British rear guard as Clinton's forces crossed New Jersey toward New York. The battle ended inconclusively, but the performance of the Continentals, who stood and fought effectively after years of training under Baron von Steuben, was a significant morale victory.

@@ -9,6 +9,7 @@ latitude: 45.3991
 longitude: 11.8807
 story: >
   The botanical garden was founded in 1545 by the University of Padova — the oldest botanical garden in the world still in its original location and purpose. Goethe visited in 1786 and was so struck by a palm he found here — a Chamaerops humilis planted in 1585 — that it inspired his theory of plant metamorphosis. That palm, now 440 years old and kept in a glass pavilion, is still called "Goethe's Palm."
+score: 8.4
 ---
 
 The Orto Botanico is the oldest botanical garden in the world that remains in continuous use on its original site, founded in 1545 for the cultivation of medicinal plants by the University of Padova's School of Medicine. The UNESCO designation covers not just the garden itself but its influence on botanical science, medical education, and the development of botanical gardens worldwide.

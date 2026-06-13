@@ -5,6 +5,7 @@ tags: [things_to_do, music, bars_and_cafes]
 latitude: 41.14472
 longitude: -8.61306
 story: Porto fado — sometimes called fado do Norte — is historically distinct from Lisbon fado, with a rougher, more aggressive sound shaped by the city's working-class culture and different accompaniment tradition. The distinction between the two styles has blurred as the genre has been commodified for tourism, but genuine Porto fado, when you find it, has an earthier quality than the more polished Lisbon version.
+score: 6.7
 ---
 
 Fado is a Lisbon art form, and Porto will tell you so readily enough while also insisting that it has its own tradition. Porto fado (fado do Norte) developed independently in the city's working-class neighbourhoods and has a slightly rawer quality than the more codified Coimbra or Lisbon styles. Whether you consider it a distinct genre or a regional variation, the music is worth seeking out in either city, and Porto has venues where you can hear it played seriously.

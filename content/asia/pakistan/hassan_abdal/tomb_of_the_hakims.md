@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8212
 longitude: 72.6908
+score: 6.4
 ---
 
 Also known as Muqbara Hakeeman, this sixteenth-century tomb stands across from the Gurdwara Panja Sahib and commemorates hakims — traditional physicians and scholars — associated with the Mughal court. The building shows the same restrained Mughal architectural vocabulary as the Tomb of Lala Rukh nearby, with arched openings and dressed stonework.

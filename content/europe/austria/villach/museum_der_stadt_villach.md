@@ -15,6 +15,7 @@ story: >
   genuinely useful for planning roads and military movements; today it stands
   as an extraordinary object in its own right, showing how the landscape was
   understood and mapped before the age of aerial photography.
+score: 6.8
 ---
 
 The Museum der Stadt Villach (City Museum of Villach) is housed in a Renaissance building in the old town and covers the history of the city and the wider Carinthian region from Roman times through the modern era. The collection includes Roman finds from the nearby settlement of Santicum, medieval artefacts, local crafts, and exhibits on the city's role as a trade and transit hub.

@@ -15,6 +15,7 @@ story: >
   at a glacier at all: the ice is entirely buried beneath stone.
 sources:
   - https://en.wikipedia.org/wiki/Val_Veny
+score: 9.0
 ---
 
 Val Veny is the lateral valley that runs south-west of Courmayeur along the Italian flank of the Mont Blanc massif. It is one of the most spectacular glacier valleys in the Alps: the road climbs steadily past the Miage Glacier and the Refuge Mont-Blanc into a landscape dominated by the Brenva and Frébouze glacier faces above. The scale is immense and the light changes constantly as clouds roll through the peaks.

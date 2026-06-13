@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Traditional German restaurant in the town hall cellar on the Marktplatz"
+score: 5.2
 ---
 
 The Ratskeller occupies the vaulted cellar of the town hall on the Marktplatz — a classic setting for a classic Saxon meal. Stone walls, wooden furniture, and a menu that concentrates on the regional canon: roast pork with dumplings and red cabbage, Sauerbraten with potato dumplings and pickled vegetables, grilled sausages, and the occasional venison dish in season. It's unpretentious and reliably good, the kind of place where locals eat lunch on weekdays and tour groups eat dinner in summer.

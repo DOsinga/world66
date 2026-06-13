@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 26.7540
 longitude: 83.3797
+score: 6.4
 ---
 
 Gorakhpur has a significant Muslim population, and the old city contains several imambaras — congregational halls used for Shia Muslim mourning rituals, particularly during Muharram. The main imambara in the older part of the city is a handsome structure with a modest interior that is open to respectful visitors outside of prayer times.

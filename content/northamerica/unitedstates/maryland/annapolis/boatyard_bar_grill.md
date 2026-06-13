@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: Boatyard Bar & Grill
 type: poi
+score: 6.6
 ---
 
 Across the drawbridge in Eastport — a neighbourhood that semi-seriously declared itself the Maritime Republic of Eastport in 1998 — Boatyard has been the go-to sailor's bar and casual restaurant since 2001. The walls are covered in nautical memorabilia, half the customers walk over from the marinas next door, and the rockfish tacos and award-winning crab cake are reliably good.

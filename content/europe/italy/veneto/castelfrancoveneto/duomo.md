@@ -15,6 +15,7 @@ story: >
   attributed to him at all.
 sources:
   - https://en.wikipedia.org/wiki/Castelfranco_Madonna
+score: 8.2
 ---
 
 The eighteenth-century Duomo of Santa Maria Assunta is unremarkable as architecture — a plain neoclassical box rebuilt in the 1720s — but it houses Giorgione's signed altarpiece, the Castelfranco Madonna, and that alone justifies a stop. The painting hangs in the Costanzo chapel on the south side of the church.

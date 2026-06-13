@@ -10,6 +10,7 @@ story: >
   The name Pinkuylluna comes from the Quechua word for a type of flute traditionally played by young herders in the Andes. The hill is named for the sound of the wind passing through the rock formations at its summit, which the local community believed resembled the hollow reed flutes.
 sources:
   - https://en.wikipedia.org/wiki/Pinkuylluna
+score: 7.8
 ---
 
 Pinkuylluna is the mountainside directly across the valley from the Ollantaytambo fortress, studded with Inca storage buildings (qollqas) that are visible as pale rectangular structures from the town below. These storehouses were used to hold food — freeze-dried potatoes, dried meat, maize — for the Inca army and state. Their position high on the mountainside was deliberate: the altitude kept temperatures low and the prevailing winds ensured ventilation, providing natural refrigeration.

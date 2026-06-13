@@ -5,6 +5,7 @@ latitude: 54.3267
 longitude: -8.4925
 tags: [things_to_do, sight]
 story: Yeats died in southern France in January 1939 and asked to be buried in Drumcliff with the verse "Cast a cold eye on life, on death. Horseman, pass by" on his stone. The Second World War delayed the repatriation until 1948; the remains that arrived were of disputed identity, and the controversy still rumbles in academic literature.
+score: 7.8
 ---
 
 The grave of the poet William Butler Yeats in the churchyard of St Columba's at Drumcliff, about ten kilometres north of Sligo town, under the great limestone scarp of Ben Bulben. The plain slate slab bears Yeats's own self-composed epitaph: "Cast a cold eye on life, on death. Horseman, pass by."

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - nature
 snippet: "Restored paddle steamer offering hour-long Murray River cruises in season"
+score: 7.8
 ---
 
 The PS Canberra is a wood-fired paddle steamer built in 1912 that ran the Echuca-to-Mildura trade for decades. After restoration she now runs short cruises out of the Cobram wharf area in the high season — usually an hour upstream and back, with commentary on the river history.

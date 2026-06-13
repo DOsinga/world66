@@ -11,6 +11,7 @@ story: >
   Galway Cathedral, completed in 1965, is one of the last great stone cathedrals built in the Western world. When it opened, critics called it anachronistic — a Gothic-Renaissance hybrid built at a time when modernism dominated church architecture. The locals called it "the people's cathedral," built largely with donations collected penny by penny from Irish emigrants in America and from the Connacht countryside over decades.
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_of_Our_Lady_Assumed_into_Heaven_and_St_Nicholas,_Galway
+score: 6.9
 ---
 
 Galway Cathedral — officially the Cathedral of Our Lady Assumed into Heaven and St Nicholas — is an imposing limestone building on an island in the River Corrib, accessible from the city centre by the Salmon Weir Bridge. It was completed in 1965 and has the scale of a medieval cathedral despite being twentieth-century: a large dome, Renaissance exterior, and an interior with high arched ceilings and striking modern mosaic work.

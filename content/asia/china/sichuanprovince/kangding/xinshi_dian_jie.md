@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.0560
 longitude: 101.9640
+score: 7.0
 ---
 
 Xinshi Dian Jie is the commercial heart of Tibetan Kangding, the street where the trading tradition that made the city what it is remains most visible. The shops along this street sell Tibetan jewellery, silverware, religious objects — prayer wheels, singing bowls, thangkas, incense — alongside the mass-produced Buddhist trinkets and tourist goods that have expanded to fill the available shelf space. The quality of the genuine objects varies, and knowing what you are looking at helps considerably.

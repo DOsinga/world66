@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 62.454
 longitude: -114.3774
+score: 9.6
 ---
 
 Yellowknife sits directly under the auroral oval — the ring around the magnetic pole where the northern lights are most frequently and intensely visible. The city averages 240 aurora-visible nights per year, more than almost anywhere else in Canada with practical visitor infrastructure. The prime season runs from late August through April, when the nights are dark enough; peak months are September through March.

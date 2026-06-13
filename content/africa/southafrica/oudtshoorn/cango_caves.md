@@ -11,6 +11,7 @@ story: >
   upon the main chamber in 1780. His ox had wandered into the entrance. The discovery he
   reported — a cavern so vast you could ride a horse inside it — was dismissed as
   exaggeration until others went to look.
+score: 9.0
 ---
 
 About 30 kilometres north of town on the R328, the Cango Caves are one of Africa's great limestone cave systems. The main chamber, called Van Zyl's Hall, is 107 metres long and 16 metres high — a cathedral of stalactites and stalagmites that have been growing for hundreds of thousands of years.

@@ -6,6 +6,7 @@ longitude: -104.919532
 price: Mid range
 title: Eating Out
 type: poi
+score: 4.5
 ---
 
 Puerto Vallarta holds a gourmet festival yearly (http://www.festivalgourmet.com/), expect fabulous dining, not only at participant restaurants but throughout the area.

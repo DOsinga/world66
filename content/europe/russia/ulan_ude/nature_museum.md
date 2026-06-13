@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.8335
 longitude: 107.5839
+score: 6.4
 ---
 
 The natural history museum on Lenin Street covers the geology, flora and fauna of Buryatia and Lake Baikal. The collection of taxidermied Siberian wildlife — sable, lynx, Baikal seal, snow leopard, musk deer — is the highlight, alongside a small but well-presented Baikal aquarium of nerpa and omul.

@@ -10,6 +10,7 @@ latitude: 45.8988
 longitude: 6.1278
 snippet: "12th-century stone palace on an island in the Thiou — the most photographed building in the French Alps"
 story: "The Palais was built around 1132 as the residence of the Lord of Annecy, then served successively as a mint for the Counts of Geneva, a courthouse, an administrative office, and — for most of its life — a prison. It only stopped holding inmates in 1865, more than seven centuries after the first ones moved in."
+score: 8.6
 ---
 
 The Palais de l'Île is the small fortified palace sitting on a wedge-shaped islet in the middle of the Thiou canal — built around 1132 and continuously inhabited or in use ever since, which makes it one of the oldest buildings in the city. From the right angle on the canal bridges it looks like a stone ship at anchor, which is why it appears on every postcard of Annecy.

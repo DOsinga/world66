@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The university's modern campus, set in rice paddies nine kilometres north of town
+score: 6.4
 ---
 
 The Khamriang campus is the larger of Mahasarakham University's two sites, built from scratch in the 1990s on what was open paddy nine kilometres north of the downtown campus. Brick administration buildings, lecture halls, and student halls of residence sit among artificial lakes and grass squares; the land beyond the perimeter is still rice fields, and on weekday mornings you can watch farmers plough behind buffalo within sight of the engineering faculty.

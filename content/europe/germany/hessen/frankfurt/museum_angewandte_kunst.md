@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum, sachsenhausen]
 latitude: 50.1064
 longitude: 8.6814
+score: 7.3
 ---
 
 The Museum Angewandte Kunst — Museum of Applied Art — is housed in a striking 1985 Richard Meier building on the Museumsufer, all white glass and ramps in the architect's signature high-modern style. The collection covers European decorative arts from the Middle Ages onwards, an Islamic art holding of more than 6,000 ceramics, glass and metalwork, and a serious Asian art collection that includes Tang and Song ceramics and Japanese lacquer.

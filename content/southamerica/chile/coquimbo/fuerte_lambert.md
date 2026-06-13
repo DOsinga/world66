@@ -6,6 +6,7 @@ tags:
 - sight
 title: Fuerte Lambert
 type: poi
+score: 6.0
 ---
 
 Fuerte Lambert is a small 19th-century coastal fort on the northern side of the old peninsula. It is modest, but the position gives good views across the bay and back toward the city.

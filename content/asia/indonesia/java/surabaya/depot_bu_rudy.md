@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -7.2685
 longitude: 112.7428
+score: 6.7
 ---
 
 Depot Bu Rudy is Surabaya's most famous seafood warung and a city institution. It is known above all for its sambal — a ferociously hot fermented shrimp paste condiment that people buy by the jar to take home. The menu runs to dozens of preparations of fresh seafood, all cooked to order and served with steamed rice.

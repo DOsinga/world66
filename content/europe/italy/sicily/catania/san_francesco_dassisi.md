@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 37.5028
 longitude: 15.0848
+score: 7.2
 ---
 
 San Francesco d'Assisi all'Immacolata is the Franciscan church on Piazza San Francesco, opposite the Bellini birthplace. The current building is mid-eighteenth century, rebuilt after the earthquake on the site of a thirteenth-century Franciscan foundation.

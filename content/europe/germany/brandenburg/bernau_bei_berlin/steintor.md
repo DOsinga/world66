@@ -9,6 +9,7 @@ story: >
   whose beer was prized across the Brandenburg March. During the Hussite Wars,
   the town reportedly repelled attackers in 1432 by dousing them with boiling
   mash from the breweries — an event commemorated in a relief on the gate.
+score: 7.8
 ---
 
 The Steintor is the most imposing of Bernau's three surviving medieval town gates and one of the best-preserved late Gothic brick gates in the whole of Brandenburg. Built around 1400, it stands at the eastern edge of the old town, its red-brick facade and square tower largely intact after more than six centuries. The gate also houses the Heimatmuseum, making it the natural starting point for any visit.

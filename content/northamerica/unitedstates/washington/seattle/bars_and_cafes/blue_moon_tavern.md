@@ -10,6 +10,7 @@ tags:
 neighbourhood: University District
 sources:
   - https://en.wikipedia.org/wiki/Blue_Moon_Tavern
+score: 6.8
 ---
 
 The Blue Moon opened in 1934, the day Prohibition was repealed, and has been a dive bar and literary gathering place ever since. Dylan Thomas drank here on his US reading tours. Theodore Roethke held court here while teaching at the University of Washington. The poet Richard Hugo — Seattle's most celebrated literary son — was a regular for decades; his poem "Degrees of Gray in Philipsburg" mentions the kind of bar the Blue Moon represents.

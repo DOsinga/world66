@@ -6,6 +6,7 @@ longitude: 14.5752
 tags:
   - eating_out
   - restaurant
+score: 6.1
 ---
 
 A long-running konoba in the lanes of the old town, with stone walls, a vine-shaded courtyard, and the kind of menu that does not change much from year to year. Šurlice with goulash, peka lamb and veal (order an hour or two ahead), grilled scampi, octopus salad, fresh fish by the kilo.

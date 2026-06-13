@@ -11,6 +11,7 @@ story: >
   Marum is one of only a handful of places on earth where an active lava lake can be approached on foot. The lake sits inside the summit caldera and at times of lower activity can be viewed from the crater rim, a river of molten rock circulating at around 1,200°C just below you. The heat, the sulphur, and the sheer primordial spectacle make it one of the most extraordinary places a traveller can go.
 sources:
   - https://en.wikipedia.org/wiki/Ambrym
+score: 9.6
 ---
 
 Marum is one of the two active volcanoes inside Ambrym's vast summit caldera — a collapsed cone roughly 12 km across, filled with ash plains and scarred by lava flows. Marum and its neighbour Benbow are among the most accessible active lava lakes in the world, which makes Ambrym a serious destination for volcano enthusiasts.

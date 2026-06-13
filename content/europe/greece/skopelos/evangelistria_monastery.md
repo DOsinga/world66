@@ -8,6 +8,7 @@ latitude: 39.1250
 longitude: 23.7330
 story: >
   The monastery was founded in 1712 by a monk named Kaisarios Daponte, who was also a poet and chronicler. His writings about 18th-century monastic life in the Aegean are among the few detailed accounts of that period. The monastery's library still holds manuscripts from his era.
+score: 7.3
 ---
 
 The Monastery of Evangelistria, dedicated to the Annunciation of the Virgin Mary, was founded in 1712 and sits on the wooded slopes of Mount Palouki about 4 km from Skopelos Town. The fortress-like exterior belies an unexpectedly beautiful courtyard inside, planted with flowers and centered on a well. The katholikon (main church) is decorated with fine 18th-century frescoes.

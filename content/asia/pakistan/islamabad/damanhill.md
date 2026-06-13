@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The name is Persian for 'foothills.' The terrace was laid out in the 1960s by the Capital Development Authority as a viewpoint over the new capital — the architect's drawing pinned to the wall of the small visitor centre still shows what was at the time a city of mostly empty avenues."
+score: 7.4
 ---
 
 Daman-e-Koh is a hilltop garden and viewpoint in the Margalla Hills, about a fifteen-minute drive north of central Islamabad. From the main terrace you get a wide panorama of the capital's grid layout, with Faisal Mosque prominent below and the Margalla range rising behind.

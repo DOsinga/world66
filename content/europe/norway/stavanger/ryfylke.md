@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Ryfylke
 type: poi
+score: 7.7
 ---
 
 Ryfylke is the region of deep fjords, dramatic mountains, lush valleys and idyllic islands stretching north and northeast of Stavanger — the southern gateway to Fjord Norway. Best explored by combining transport: car, bicycle, boat, or on foot.

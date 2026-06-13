@@ -7,6 +7,7 @@ tags:
 title: Eagle Gate
 type: poi
 story: "Built in 1859 to mark the entrance to Brigham Young's estate, the Eagle Gate has been rebuilt three times. The current 4,000-pound bronze eagle with its 20-foot wingspan is the fourth version; the original was carved from wood and painted to look like metal."
+score: 5.2
 ---
 
 The Eagle Gate spans State Street at South Temple, directly in front of the Brigham Young Historic Park. Erected in 1859 to mark the entrance to Brigham Young's property, it has been replaced and upgraded several times over the decades, growing larger with each iteration.

@@ -12,6 +12,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 8.1
 ---
 
 The smaller, older of the two buildings that make up the Château de Chantilly. It was built in the 1560s by Anne de Montmorency, Constable of France, hence its alternative name the Capitainerie. Unlike the Grand Château, it survived the Revolution largely intact — its smaller scale and humbler architecture made it less of a political target.

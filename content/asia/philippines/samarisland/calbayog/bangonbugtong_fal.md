@@ -3,6 +3,7 @@ tags:
 - sights
 title: Bangon-Bugtong Falls
 type: poi
+score: 7.8
 ---
 
 Located a

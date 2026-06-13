@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 13.1003
 longitude: -59.6167
+score: 7.2
 ---
 
 Cheapside Market is the main public market in Bridgetown, a covered building near the northern end of the historic centre where fruit, vegetables, spices, and dry goods are sold from early morning until afternoon. It is not the most photogenic market in the Caribbean, but it is the real thing: the produce is genuinely local, the prices are local prices, and the vendors know their customers by name.

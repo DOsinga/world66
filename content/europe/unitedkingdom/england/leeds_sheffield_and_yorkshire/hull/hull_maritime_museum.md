@@ -8,6 +8,7 @@ tags:
 title: Hull Maritime Museum
 type: poi
 snippet: "Domed Victorian dock office on Queen Victoria Square, now a museum of Hull's shipping, whaling, and fishing history"
+score: 8.2
 ---
 
 The Hull Maritime Museum occupies the city's old dock offices — a triangular Victorian building with three distinctive domes that survived the wartime bombing largely intact. The collections cover Hull's centuries as a whaling port, its dominance of the British distant-water fishing fleet, and the wider story of trade through the Humber.

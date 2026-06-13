@@ -8,6 +8,7 @@ latitude: 54.627
 longitude: 39.7514
 sources:
   - https://en.wikipedia.org/wiki/Pozhalostin_Museum
+score: 7.1
 ---
 
 The Ryazan Regional Art Museum, known as the Pozhalostin Museum after the locally born engraver Ivan Pozhalostin, is one of the oldest art museums in Russia and the finest gallery in the region. The collection spans Russian painting from the eighteenth century to the Soviet period, with works by Aivazovsky, Levitan, and other major artists alongside applied art and porcelain.

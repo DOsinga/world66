@@ -8,6 +8,7 @@ tags:
 latitude: 47.04000
 longitude: 8.80000
 snippet: "Low-key family ski area 20 minutes from Einsiedeln"
+score: 5.8
 ---
 
 Hoch-Ybrig is the local ski area, about 20 minutes by car from Einsiedeln. It is modest by Alpine standards — around 40km of pistes, mostly blue and red — but that is part of the point. No lift queues, no resort villages, reasonable prices. The top elevation reaches about 1,900 metres, which gives it decent snow from December through March in a good year.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -7.2588
 longitude: 112.7429
+score: 6.8
 ---
 
 Rawon Setan — "Devil's Rawon" — is one of the most famous food stalls in Surabaya, known for its intensely dark, deeply flavoured beef rawon and its hours: it opens around midnight and stays open until the soup runs out. The name refers to the theory that only the devil eats at such an hour, though in practice it draws a lively crowd of night owls, taxi drivers, and people who have just finished a long night out.

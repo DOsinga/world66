@@ -5,6 +5,7 @@ snippet: The Tower district — the southeastern quarter
 tags: [things_to_do, neighbourhood]
 latitude: 43.3164
 longitude: 11.3315
+score: 6.6
 ---
 
 The Tower contrada occupies the southeastern slope of the old town, between the Pispini gate and the Campo. The contrada's church and museum are in Via Salicotto, with the elephant-and-tower emblem visible on the painted house signs along the way.

@@ -6,6 +6,7 @@ longitude: 23.6502
 tags:
   - things_to_do
   - sight
+score: 5.7
 ---
 
 A memorial in the Freattyda district to the Greeks of Asia Minor, hundreds of thousands of whom landed in Piraeus as refugees after the catastrophic war with Turkey of 1919–22 and the population exchange of 1923. The arriving boats unloaded at the very waterfront where the memorial now stands.

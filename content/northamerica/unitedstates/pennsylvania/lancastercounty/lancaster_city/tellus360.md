@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 40.0381
 longitude: -76.3083
+score: 6.2
 ---
 
 Tellus360, on North Queen Street near Penn Square, is part Irish pub, part live music venue, part rooftop bar. The ground floor leans into the Irish pub idea with Guinness on tap and a thick wooden bar; the upper floor hosts bands most nights of the week; the small rooftop terrace is good for a beer on a summer evening.

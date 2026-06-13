@@ -7,6 +7,7 @@ tags:
 - sight
 title: Polissya Hotel
 type: poi
+score: 5.9
 ---
 
 The eight-storey Hotel Polissya stands on the south side of Lenin Square, its sign still legible in Cyrillic. Built in the late 1970s for visiting officials and the Communist Party delegations who came to inspect the showpiece atomic city, it was the tallest hotel in the area. In the days after the accident, helicopter spotters used the roof as an observation post for directing sand and lead drops onto the reactor.

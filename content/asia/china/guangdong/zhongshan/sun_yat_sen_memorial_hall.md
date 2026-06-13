@@ -4,6 +4,7 @@ type: poi
 latitude: 22.5165
 longitude: 113.3870
 tags: [things_to_do, sight]
+score: 6.5
 ---
 
 The Memorial Hall, in the city centre on Sunwen West Road, is the more formal counterpart to Cuiheng — a large ceremonial building modelled loosely on traditional palace architecture, with sweeping eaves and red columns. Inside, exhibition halls display photographs, documents, and personal effects relating to Sun's life and his political work.

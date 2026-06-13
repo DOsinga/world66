@@ -14,6 +14,7 @@ story: >
   Chinese sites that display the same red-cliff, tower-and-slot topography.
   Geologists from around the world have visited Danxiashan specifically because
   this one place became the defining example of a global phenomenon.
+score: 9.0
 ---
 
 Danxiashan, about seventy kilometres from Shaoguan, is a UNESCO World Natural Heritage site where sixty million years of red sandstone deposition followed by erosion has produced a landscape of towers, cliffs, and narrow canyon slots the colour of dried blood. The defining feature is scale: the formation covers over 300 square kilometres, and the range of rock shapes — from sheer vertical faces to eroded pinnacles to cave formations — means that a full day barely scratches the surface.

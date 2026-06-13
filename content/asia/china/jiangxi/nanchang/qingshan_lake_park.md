@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.6791
 longitude: 115.9403
+score: 6.7
 ---
 
 Qingshan Lake Park (青山湖公园) in the eastern part of the city is one of Nanchang's largest urban green spaces, built around a reservoir lake that was expanded and landscaped in the 1990s. The park is particularly worth visiting in spring, when cherry trees along the lakeside paths bloom in mid-March, drawing weekend crowds of photographers. The rest of the year it's a functional urban park — jogging paths, exercise equipment, a children's area, and boating on the lake — but well maintained and genuinely pleasant.

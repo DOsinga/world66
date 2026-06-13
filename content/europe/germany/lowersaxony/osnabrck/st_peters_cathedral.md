@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.27755
 longitude: 8.04498
+score: 8.0
 ---
 
 The Cathedral of St. Peter — the Dom — is the largest church in Osnabrück and one of the oldest buildings in the city, with a history stretching back to the tenth century. What stands today is mostly Romanesque, built in the twelfth and thirteenth centuries, with later Gothic additions including the high choir. The exterior is imposing without being showy: solid sandstone walls, two mismatched towers, and the kind of weight that comes from a building that has been central to a community for a very long time.

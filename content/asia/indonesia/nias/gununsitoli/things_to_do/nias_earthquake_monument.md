@@ -16,6 +16,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Gunungsitoli
   - https://en.wikipedia.org/wiki/2005_Nias%E2%80%93Simeulue_earthquake
+score: 6.8
 ---
 
 Near Ya'ahowu Park stands the Nias Earthquake Monument, built to commemorate the victims of the March 28, 2005 earthquake — magnitude 8.6, one of the ten most powerful ever recorded in human history. The names of the 220 people killed in Gunungsitoli are inscribed on the structure. In total, at least 915 people died across Nias and the surrounding region, and nearly half of Gunungsitoli's population fled in the aftermath.

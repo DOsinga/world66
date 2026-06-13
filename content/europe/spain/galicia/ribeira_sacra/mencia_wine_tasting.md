@@ -8,6 +8,7 @@ tags:
 latitude: 42.4678
 longitude: -7.5284
 snippet: The Ribeira Sacra's cliff-hanging vineyards produce some of Spain's most distinctive reds — seek out local bodegas for tastings
+score: 7.7
 ---
 
 The Ribeira Sacra DO produces wines from vines grown on terraces carved into slopes so steep that harvesting is done entirely by hand. The main grape is Mencía, making fresh, aromatic reds with a floral lift and mineral backbone quite different from the heavier Tempranillos of central Spain. A small amount of Godello white is also produced. These wines rarely leave Galicia, making tasting them here part of the experience.

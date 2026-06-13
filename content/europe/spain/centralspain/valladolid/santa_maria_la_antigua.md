@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, church]
 latitude: 41.6570
 longitude: -4.7245
+score: 7.4
 ---
 
 A small Romanesque-Gothic church just behind the cathedral, easily missed but architecturally rich. The square tower is 12th-century Romanesque, with three storeys of paired round-arched windows — one of the finest pieces of Romanesque work in the city. The body of the church is later, rebuilt in Gothic style in the 14th and 15th centuries.

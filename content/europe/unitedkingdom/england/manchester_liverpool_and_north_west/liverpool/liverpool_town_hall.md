@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Liverpool Town Hall
 type: poi
+score: 8.8
 ---
 
 One of the most spectacular Georgian town halls in England, designed by John Wood the Elder of Bath and opened in 1754. The interior — by James Wyatt after a fire — is even finer than the outside, with an oval Ballroom, vast crystal chandeliers, and a Council Chamber lined with paintings of Liverpool merchants.

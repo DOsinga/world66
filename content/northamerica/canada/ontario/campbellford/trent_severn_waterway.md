@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Construction of the Trent-Severn began in 1833 and was not completed until 1920 — by which time the railway had rendered the waterway commercially obsolete. It survived as a recreational route, and is now a designated national historic site."
+score: 7.4
 ---
 
 The Trent-Severn Waterway, a 386-kilometre canal route linking Lake Ontario at Trenton to Georgian Bay at Port Severn, passes directly through Campbellford. Lock 11 sits in the middle of town beside the riverside park, and is one of the most pleasant places to watch the canal work — boats lifting and dropping in plain view, with picnic tables on the lawn beside the lock chamber.

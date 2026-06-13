@@ -8,6 +8,7 @@ snippet: Seventeenth-century almshouse courtyard, the largest of its kind in the
 tags:
 - things_to_do
 - sight
+score: 7.7
 ---
 
 The Füchtingshof is a Stiftungshof — a charitable foundation almshouse for widows of merchants and craftsmen — founded by Johann Füchting in his will of 1637. The entry passage is unmarked from Glockengießerstraße, but pass through it and you emerge into a calm rectangular courtyard lined with seventeen small dwellings still occupied by elderly residents (descendants of the trust's beneficiaries).

@@ -8,6 +8,7 @@ latitude: 29.5610
 longitude: 106.5710
 story: >
   Chongqing produces its own beer — Chongqing Beer, brewed since 1958 — which holds a grip on the local market that more polished national brands have never fully shaken. It is a light, slightly bitter lager that works perfectly with hotpot: cold enough to dull the heat, light enough not to dull the palate. You can find it for 3 yuan in neighbourhood restaurants and for ten times that price in hotel bars.
+score: 5.8
 ---
 
 Chongqing's bar scene has grown significantly in the past decade, with concentrations in the Jiefangbei area, the south bank Nanbin Road, and the newer Guanyinqiao district. The riverfront bars are the most atmospheric — outdoor seating with views of the illuminated city across the water, warm for much of the year due to the city's sheltered basin climate.

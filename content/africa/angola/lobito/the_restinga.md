@@ -13,6 +13,7 @@ story: >
   one side and the sheltered harbour on the other. It was on this sliver of land that
   Lobito first grew, and the original city's character — fishing families, markets,
   the smell of salt and smoke — survives here in a way it does not on the mainland.
+score: 8.5
 ---
 
 The Restinga is the defining feature of Lobito — a long, thin sandbar spit that extends into the bay and shelters the harbour from the open Atlantic. It is one of the finest natural harbours on the West African coast precisely because of this spit, and the city grew up on and around it.

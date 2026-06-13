@@ -12,6 +12,7 @@ story: >
   stood in the centre of campus until 1959, when the entire steel grandstand was dismantled
   and reassembled at its current location. Since then it has been expanded eleven times, growing
   from 46,000 seats to over 106,000, making it the second-largest stadium in the world.
+score: 8.0
 ---
 
 Beaver Stadium is one of the largest sports venues on earth and the centrepiece of Penn State's legendary football culture. On autumn Saturdays when the Nittany Lions are at home, the stadium fills with over 106,000 fans and the population of the surrounding Centre County effectively doubles. The atmosphere on game day is extraordinary even if you have no particular interest in American football — tailgating starts hours before kickoff across the vast parking lots, and the roar when the team takes the field carries across the valley.

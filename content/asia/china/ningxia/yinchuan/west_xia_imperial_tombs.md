@@ -13,6 +13,7 @@ story: >
   with them. The tombs were excavated only in the 1970s, revealing a
   sophisticated civilisation that had largely vanished from historical memory.
   The Chinese government now calls this the "Pyramids of China."
+score: 9.1
 ---
 
 The Western Xia Imperial Tombs are one of the most remarkable and undervisited archaeological sites in China. Nine imperial mausoleums and over 250 lesser tombs spread across a strip of desert at the foot of the Helan Mountains, their earthen mounds rising like truncated pyramids from the flat ground — unlike the circular burial mounds of China's other dynasties, the Western Xia tombs have a distinctly Central Asian character.

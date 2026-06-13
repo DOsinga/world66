@@ -13,6 +13,7 @@ story: >
   remains controlled by the local fishing cooperative, which charges a modest entry fee and
   limits visitor numbers, keeping the beach considerably calmer than Ky Co's Instagram
   reputation might suggest.
+score: 7.3
 ---
 
 Ky Co is a secluded beach about 25 kilometers south of Qui Nhon, accessible only by boat from Nhon Ly fishing village or by a combination of road and short boat crossing. The water here is a remarkable shade of turquoise — shallower and calmer than the main city beach — and the hills behind are covered in low scrub that keeps the beach shaded in the late afternoon.

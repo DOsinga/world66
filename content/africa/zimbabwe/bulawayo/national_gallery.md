@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -20.1520
 longitude: 28.5850
+score: 5.1
 ---
 
 The Bulawayo branch of the National Gallery of Zimbabwe is a compact but worthwhile gallery in the city centre, with a rotating collection of paintings, sculptures, and crafts by Zimbabwean artists. Zimbabwe has a remarkable sculptural tradition — Shona stone sculpture in particular achieved international recognition in the 1960s and 1970s and continues to be produced by skilled artists today.

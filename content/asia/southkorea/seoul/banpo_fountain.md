@@ -12,6 +12,7 @@ story: >
   nozzles extending 570 metres along both sides of the bridge. The display runs
   at regular intervals in summer evenings, with the water illuminated in
   changing patterns of colour against the dark surface of the Han River.
+score: 6.3
 ---
 
 The Banpo Bridge fountain shoots water from nozzles mounted along both sides of the bridge in arching curtains that fall to the Han River below. The display runs at scheduled times on spring and summer evenings, with coloured LED lighting creating a theatrical effect after dark. The Banpo Hangang Park on the south bank of the river provides good viewing positions, and the surrounding riverside parks fill with people bringing food and drink on warm evenings.

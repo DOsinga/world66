@@ -5,6 +5,7 @@ latitude: 27.789
 longitude: -15.601
 snippet: "A botanical and wildlife park in a ravine 10km north of the resort, with a serious bird collection"
 tags: [things_to_do, nature]
+score: 6.8
 ---
 
 Palmitos Park sits in the Barranco de los Palmitos, a deep ravine about 10 kilometres north of Playa del Inglés on the road toward Fataga. It was established in 1972, which makes it one of the older wildlife parks in the Canaries, and the collection reflects that history: over 1,500 species of tropical plants, a substantial collection of parrots and other birds, an aquarium, and a butterfly house with more than 50 species in flight. The ravine itself provides a genuinely different microclimate from the coast — cooler, more humid, and green in a way that the resort area is not.

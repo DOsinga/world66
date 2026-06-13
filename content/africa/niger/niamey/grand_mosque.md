@@ -9,6 +9,7 @@ tags:
 - sight
 - religious
 story: The Grand Mosque was built in the 1970s with Saudi funding, at a time when petrodollar-backed mosque construction was reshaping skylines across the Sahel. The green-tiled minaret was an unusual choice — most Saudi-funded mosques of the era defaulted to white — and it has given Niamey a distinctive silhouette ever since. On Fridays, thousands of worshippers spill out onto the surrounding streets, which are closed to traffic.
+score: 6.9
 ---
 
 The Grand Mosque of Niamey dominates the city's skyline with its green-tiled minaret, visible from most of the city and the main visual landmark after the Niger River itself. It was built in the 1970s, funded by Saudi Arabia, and holds several thousand worshippers in its main prayer hall.

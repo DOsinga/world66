@@ -11,6 +11,7 @@ story: >
   proves optimistic for delivery drivers in a hurry. Local residents have documented
   dozens of truck collisions over the decades — the roof of many a delivery vehicle
   has been peeled back here like a tin can lid. The videos circulate reliably online.
+score: 5.2
 ---
 
 Kirkland's most unexpectedly entertaining sight is a low pedestrian overpass on NE 6th Street that has been claiming the roofs of delivery trucks and overheight vehicles for decades. The structure has a low clearance that drivers regularly underestimate, and the results — scraped, crumpled, and occasionally completely sheared vehicle roofs — have made it something of a local legend.

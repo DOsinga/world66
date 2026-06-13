@@ -8,6 +8,7 @@ latitude: 39.7767
 longitude: 15.7942
 story: >
   The Lao river marks the ancient boundary between Calabria and Lucania. The Greeks founded the colony of Laos near its mouth around the 6th century BC, making this one of the earliest settled coastlines in southern Italy.
+score: 7.4
 ---
 
 The Lao river cuts through the mountains south of Scalea, forming a narrow gorge with dramatic limestone walls before reaching the Tyrrhenian coast. The gorge is a popular destination for canyoning and kayaking — local outfitters in Scalea offer guided descents through the canyon with rappels down waterfall sections. It is also possible to hike the upper river valley, which is part of the Pollino National Park.

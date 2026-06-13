@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 63.9990
 longitude: -21.2060
+score: 5.8
 ---
 
 The NLFI (National League of Municipalities) Rehabilitation Centre in Hveragerði has used geothermal energy and mineral-rich water for therapeutic treatments since the mid-twentieth century. It draws patients and wellness visitors from across Iceland — the combination of the clean air, the thermal pool complex, and the quiet of a small town away from Reykjavík has made it a respected destination for recovery and rest.

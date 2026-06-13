@@ -9,6 +9,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 5.8
 ---
 
 Chez Loulou is the Sunday gathering point for half the island — a beachside grill at Andilana that lays on whole grilled fish, prawns, calamari and crab to a soundtrack of live Malagasy music. Tables are long and shared, the wine is cold, and the lunches run on into the afternoon.

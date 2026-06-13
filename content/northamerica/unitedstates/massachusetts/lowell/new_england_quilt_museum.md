@@ -7,6 +7,7 @@ tags:
 latitude: 42.6454
 longitude: -71.3121
 snippet: "Compact museum in a renovated mill building with rotating exhibitions of historic and contemporary quilts"
+score: 7.0
 ---
 
 The New England Quilt Museum occupies a renovated mill building in downtown Lowell and is one of the better textile museums in the region. The collection and exhibitions explore the history of American quilting from the 18th century to the present, treating quilts seriously as art objects and as material records of women's domestic lives and creative expression. The connection to Lowell's textile heritage is direct and gives the museum a coherent sense of place.

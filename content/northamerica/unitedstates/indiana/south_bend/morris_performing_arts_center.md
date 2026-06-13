@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.6762
 longitude: -86.2518
+score: 7.5
 ---
 
 The Morris Performing Arts Center is South Bend's main performance venue, housed in a 1922 movie palace that retains much of its original Spanish baroque interior. The building went through a major restoration in the 1990s and now operates as a 2,500-seat hall for touring Broadway shows, concerts, dance, and comedy.

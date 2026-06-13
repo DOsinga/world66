@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 8.3
 ---
 
 The Guildhall on Church Street has been the seat of the Harwich town corporation since the eighteenth century — a sober brick-and-stone building with a small council chamber upstairs and an arcaded ground floor that originally housed the town's lock-up. The interior is unusually well preserved: oak panelling carved with prisoners' graffiti from the 1700s, a courtroom in continuous use until the 1960s, and a small collection of civic silver and mayoral portraits.

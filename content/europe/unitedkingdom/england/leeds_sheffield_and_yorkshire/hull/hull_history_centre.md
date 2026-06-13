@@ -8,6 +8,7 @@ tags:
 title: Hull History Centre
 type: poi
 snippet: "Joint archive and local studies library, holding records from the medieval town to present-day Hull"
+score: 7.9
 ---
 
 The Hull History Centre opened in 2010 as a joint venture between Hull City Council, the University of Hull, and the local archive services. It combines the city archives, the university's special collections, and the local studies library in a single research building on Worship Street. The collections include medieval charters, the original Wilberforce papers, and the archives of Philip Larkin from his three decades as university librarian.

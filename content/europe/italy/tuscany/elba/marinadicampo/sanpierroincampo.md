@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 42.7525
 longitude: 10.2103
 snippet: "Inland granite village with a medieval tower and excellent view across the south coast"
+score: 7.3
 ---
 San Piero in Campo sits in the hills 3 km inland from Marina di Campo, surrounded by the pink granite outcrops that made this area significant long before tourism arrived. The granite quarried from these hills — called granito dell'Elba — was used to pave the streets of Livorno, to build quays along the Tuscan coast, and to construct structures across northern Italy. The industry is mostly finished now, but the stone is everywhere in the village: in the walls, in the road surfaces, in the carved doorways. The church of San Niccolò has a granite portal with Romanesque carving that is straightforwardly worth examining, one of the better examples of medieval stonework on the island.
 

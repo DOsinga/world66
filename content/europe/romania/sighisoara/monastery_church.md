@@ -7,6 +7,7 @@ tags:
   - sight
   - architecture
 type: poi
+score: 7.3
 ---
 
 The Monastery Church on Citadel Square is the former church of a Dominican monastery, built in Gothic style in the 15th century. The Dominicans left after the Reformation, and the building has served various congregations since, currently as a Romanian Orthodox church. The interior retains Gothic vaulting and some traces of medieval decoration under later alterations.

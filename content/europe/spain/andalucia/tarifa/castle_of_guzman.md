@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Castle of Guzmán el Bueno
 type: poi
+score: 8.2
 ---
 
 The square sandstone fortress on the southern edge of Tarifa was built in 960 by the Caliph Abd al-Rahman III as part of the chain of Moorish strongholds along the Strait. It is one of the oldest more or less intact castles in Spain, with horseshoe-arched gates, a long curtain wall, and a central courtyard that has held everything from a Visigothic chapel to a nineteenth-century barracks.

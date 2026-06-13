@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.9585
 longitude: -89.6328
+score: 7.2
 ---
 
 The rapids on the Wisconsin River at downtown Wausau form one of the premier whitewater kayaking venues in the Midwest. The city has hosted numerous national and world championships here, and the river draws competitive paddlers from across the country during the warmer months.

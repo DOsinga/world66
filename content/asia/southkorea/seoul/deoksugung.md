@@ -9,6 +9,7 @@ tags:
 - myeongdong
 title: Deoksugung Palace
 type: poi
+score: 7.7
 ---
 
 The smallest of Seoul's five grand palaces, Deoksugung sits right in the middle of the modern city centre, surrounded by skyscrapers. The stone-wall path (Deoksugung Doldam-gil) along its outer wall is one of Seoul's most pleasant walks. Inside, the palace mixes traditional Korean architecture with a neoclassical Western-style building — the Seokjojeon — that houses a modern art museum. The changing of the guard ceremony happens three times daily.

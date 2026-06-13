@@ -8,6 +8,7 @@ latitude: 47.583
 longitude: 12.1692
 story: >
   Josef Madersperger, a Kufstein tailor, patented a working sewing machine in 1814 — nearly forty years before Isaac Singer's more famous design. He never managed to commercialize his invention and died destitute in a Vienna poorhouse in 1850. The museum makes the case that the wrong man got the credit for one of the key inventions of the Industrial Revolution.
+score: 5.2
 ---
 
 The Nähmaschinenmuseum (Sewing Machine Museum) is a small free museum dedicated to Josef Madersperger, the Kufstein-born inventor widely credited in Austria with developing the first functional sewing machine in the early nineteenth century. The museum is compact — a single room — but presents the story with some conviction, including a replica of the original mechanism and period documents relating to the patent.

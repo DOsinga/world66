@@ -9,6 +9,7 @@ snippet: Glacier-carved valley with iconic granite peaks, 90 minutes away
 tags:
 - things_to_do
 - nature
+score: 8.9
 ---
 
 About 90 minutes from Manteca via Highway 120, Yosemite Valley is a worthwhile day trip any time of year. The glacier-carved valley is framed by granite monoliths -- El Capitan, Half Dome, Cathedral Rocks -- and fed by waterfalls that peak in late spring. Each season brings a different character: wildflowers in May, warm swimming holes in summer, golden oaks in October, and snow-dusted cliffs in winter.

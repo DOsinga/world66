@@ -8,6 +8,7 @@ latitude: 43.7997
 longitude: -91.2130
 story: >
   The bluff was named after the grandfather of a La Crosse pioneer family who used to sit up here in the evenings looking out over the Mississippi valley. Local lore holds that he could spot steamboats coming from miles away. The overlook has been a public park since 1912, and the view — three states visible on a clear day — has changed very little since then.
+score: 8.8
 ---
 
 At 590 feet above the city, Grandad Bluff delivers the kind of view that makes you understand why La Crosse exists where it does. The Mississippi valley spreads below you in all directions — river islands, backwater channels, and the bluffs of Minnesota and Iowa on the far side. On a clear autumn day when the hardwoods are turning, this is one of the better vistas in the upper Midwest.

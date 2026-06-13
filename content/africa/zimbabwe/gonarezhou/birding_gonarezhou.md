@@ -10,6 +10,7 @@ story: >
 sources:
   - https://www.birdlifezimbabwe.org/gonarezhou-national-park/
   - https://www.safaribookings.com/gonarezhou/birds
+score: 8.6
 ---
 
 Gonarezhou's position at the meeting point of several biomes — the Zambezian region to the north, the Afrotropical lowveld, and the dry woodland of the Limpopo basin — gives it a bird list of extraordinary breadth. Over 500 species have been recorded, and the park includes several Important Bird Areas recognised by BirdLife International. The birding is genuinely world-class, largely unappreciated because the park as a whole receives so few visitors.

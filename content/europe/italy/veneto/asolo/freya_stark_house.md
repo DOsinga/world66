@@ -8,6 +8,7 @@ tags:
 latitude: 45.7863
 longitude: 11.9110
 snippet: "Casa Freya, home of the great Arabian explorer for over 40 years"
+score: 4.8
 ---
 
 The explorer and travel writer Freya Stark lived in Asolo for more than four decades, returning to her house here between her journeys through Arabia, Persia, Turkey, and Afghanistan. Casa Freya is a private residence on the slopes of the old town and not open to the public, but the house is easily seen from the street, with its garden and views over the valley.

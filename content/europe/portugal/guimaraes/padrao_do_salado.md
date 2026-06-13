@@ -6,6 +6,7 @@ longitude: -8.2928
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 A small 14th-century Gothic canopy in the middle of Oliveira Square, raised on four slender columns and protecting a stone cross. King Afonso IV had it built to mark the 1340 Christian victory over the Marinid Moroccans at the Battle of the Salado in Andalusia.

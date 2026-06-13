@@ -8,6 +8,7 @@ tags:
 - sight
 title: Oil Museum of Canada
 type: poi
+score: 8.4
 ---
 
 The Oil Museum of Canada sits a short drive south of Petrolia, on the site of James Miller Williams's 1858 well — North America's first commercial oil well. It's a National Historic Site, with original equipment, restored working derricks, and exhibits on the international diaspora of Petrolia oilmen.

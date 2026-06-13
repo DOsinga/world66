@@ -7,6 +7,7 @@ tags:
 - sight
 title: El Prado (Avenida 16 de Julio)
 type: poi
+score: 7.5
 ---
 
 Avenida 16 de Julio — universally called El Prado — is the spine of central La Paz, running downhill for over a kilometre with a broad tree-lined median between two lanes of traffic. It connects the upper commercial districts to the lower city and serves, in the way that good urban boulevards do, as the place where the city watches itself. Shoe-shiners in balaclavas work one end; street vendors selling phone accessories, pirated DVDs, and salteñas from baskets occupy the middle; and the cafe terraces of the larger hotels face out onto the pedestrian median from both sides.

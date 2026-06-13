@@ -5,6 +5,7 @@ price: entries run from $9-23
 title: Eating Out in Central Coast
 type: poi
 url: www.ciaobellabenlomond.com
+score: 1.5
 ---
 
 There are some great restaurants on the Central Coast!

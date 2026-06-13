@@ -9,6 +9,7 @@ latitude: 43.9333
 longitude: 7.6667
 sources:
   - https://en.wikipedia.org/wiki/Pigna,_Liguria
+score: 7.6
 ---
 
 Pigna's medieval centre clusters on the upper slope of a rocky spur, its stone houses stacked so tightly that the upper floors of one building become the foundations of the next. The village layout is typical of the defensive hilltop settlements of the Ligurian inland: a single main lane winds through the centre, with arches overhead and covered passages connecting the buildings. Half the village is crumbling; half is still inhabited and cared for.

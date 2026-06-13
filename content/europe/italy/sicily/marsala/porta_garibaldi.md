@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Old gate on the route Garibaldi took into the city in 1860"
+score: 6.3
 ---
 
 The Porta Garibaldi, formerly the Porta del Mare, is the southernmost of Marsala's surviving city gates: a heavy stone arch crowned with a Spanish-period eagle, marking where the road from the port enters the old town. It owes its current name to the 11 May 1860 landing of Giuseppe Garibaldi and the Thousand, who passed through this gate on their march inland.

@@ -8,6 +8,7 @@ tags:
 - museum
 title: Meadow Brook Hall
 type: poi
+score: 7.7
 ---
 
 Meadow Brook Hall is the fourth-largest historic house museum in the United States: a 110-room Tudor Revival mansion built between 1926 and 1929 for Matilda Dodge Wilson, widow of auto pioneer John Dodge. The interior is exceptionally intact — original furniture, fittings, art collection, and even some of the Dodge family's clothes. The grounds extend over 1,400 acres of what is now the Oakland University campus.

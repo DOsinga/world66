@@ -10,6 +10,7 @@ tags:
   - church
   - uzupis
 neighbourhood: Užupis
+score: 7.8
 ---
 
 The Bernardine Church stands directly beside St. Anne's Church and is reached through the same gate from the street. Where St. Anne's is all Gothic delicacy, the Bernardine Church is Gothic in structure but larger and plainer, built by Franciscan Bernardine monks in the late 15th and early 16th centuries. The interior is notable for its 16th-century frescoes and for the Renaissance altarpiece of St. Anne.

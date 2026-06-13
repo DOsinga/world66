@@ -9,6 +9,7 @@ tags:
 neighbourhood: Al Balad
 latitude: 21.4853
 longitude: 39.1898
+score: 6.2
 ---
 
 One of the new generation of restaurants opening in restored coral-stone houses in Al Balad, taking advantage of the UNESCO listing and the recent loosening of tourism rules. The cooking is contemporary Hijazi — old Jeddah recipes plated and presented with care.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Togetsukyō Bridge
 type: poi
+score: 6.4
 ---
 
 The Togetsukyō ("Moon-Crossing Bridge") spans the Hozu River at the heart of Arashiyama, named in the thirteenth century by the cloistered Emperor Kameyama who likened the moon's passage across the night sky to that of a boat crossing the river. The current bridge is a 1934 reconstruction in pre-modern style — wooden balustrades and rails over a concrete and steel structure designed to survive flash floods in the Hozu gorge.

@@ -16,6 +16,7 @@ story: >
   the most disturbing and moving objects of the Renaissance: a skeleton of shocking
   anatomical precision, its decomposing flesh still clinging to the bones, one arm
   raised to offer its own heart to God.
+score: 9.4
 ---
 
 In the church of Saint-Étienne in Bar-le-Duc's upper town stands one of the most remarkable sculptures in France. The Transi de René de Chalon, carved around 1547 by the Lorraine sculptor Ligier Richier, depicts the young Prince of Orange as a decomposing cadaver — not as a skeleton, but as a body in the process of decay, with dried flesh pulling away from the bones and one bony arm raised high to present the heart.

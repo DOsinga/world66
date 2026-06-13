@@ -7,6 +7,7 @@ tags:
 latitude: 55.0298
 longitude: 82.9256
 snippet: Craft beer bar with local and regional taps in a relaxed basement setting
+score: 5.4
 ---
 
 Sibirskiy Khmel is part of the wave of craft beer bars that arrived in Russian cities in the 2010s. It has a rotating selection of taps covering Novosibirsk and regional Siberian breweries alongside more familiar Russian craft names. The range is better than you might expect: pale ales, stouts, and wheat beers made by small producers who have taken the format seriously.

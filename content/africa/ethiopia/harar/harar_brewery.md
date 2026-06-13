@@ -10,6 +10,7 @@ story: >
   The brewery was established in 1985 and is one of the oldest commercial breweries in Ethiopia. Harar Beer — malty, slightly sweet, and popular throughout the country — is produced here. The brewery's existence in one of Islam's holy cities creates an interesting cultural tension that most Harar residents navigate with pragmatic good humor.
 sources:
   - https://en.wikipedia.org/wiki/Harar_Brewery
+score: 3.0
 ---
 
 The Harar Brewery, on the southern outskirts of the walled city, produces Harar Beer — one of Ethiopia's two most popular beers (the other being St. George's from Addis Ababa). The brewery has been here since the 1980s and its industrial profile is a somewhat incongruous sight in a city defined by its Islamic heritage.

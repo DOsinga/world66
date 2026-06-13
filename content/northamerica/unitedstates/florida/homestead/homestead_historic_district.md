@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 25.46843
 longitude: -80.47939
+score: 5.8
 ---
 
 A few square blocks of pre-Hurricane Andrew Homestead survive around Krome Avenue and Flagler. The district includes the 1917 Homestead Town Hall, the Seminole Cafe and Hotel, the Fuchs Bakery building, and a handful of 1920s storefronts now housing antique shops and Cuban lunch counters.

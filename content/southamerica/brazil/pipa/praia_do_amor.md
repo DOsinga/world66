@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - surfing
+score: 8.2
 ---
 
 Praia do Amor — Love Beach — sits at the south end of the village, reached down a steep wooden staircase from the cliff-top path. It is Pipa's surf beach: a long curve of pale sand with a consistent right-hand break that works well at most tides, popular with both Brazilian and visiting surfers. The water is warm year-round.

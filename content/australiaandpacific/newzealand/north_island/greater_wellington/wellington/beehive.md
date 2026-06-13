@@ -15,6 +15,7 @@ story: >
   opened in 1977, the radical circular form was controversial — still is — but
   it has become the defining image of Wellington and appears on the New Zealand
   ten-dollar note.
+score: 8.4
 ---
 
 The New Zealand Parliament precinct sits at the top of Lambton Quay on a prominent hill, and it is worth going inside. Free guided tours of the parliamentary buildings run most days and cover the debating chamber (which can be watched from the public gallery when parliament is sitting), the history of New Zealand governance, and the distinctive Beehive — the circular executive wing designed by Basil Spence that has become the symbol of Wellington.

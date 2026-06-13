@@ -7,6 +7,7 @@ snippet: Medieval fortress dominating Cairo's skyline from Moqattam hills
 tags:
 - things_to_do
 - landmark
+score: 9.0
 ---
 
 The Citadel of Saladin has watched over Cairo from the Moqattam hills since 1183, when Salah El Din built it to defend the city against Crusader armies. For nearly 700 years it served as the seat of Egyptian government, and even today its massive walls and towers dominate the eastern skyline.

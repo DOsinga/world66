@@ -10,6 +10,7 @@ longitude: -121.0428
 story: "The Empire Mine produced nearly six million ounces of gold between 1850 and 1956 — making it California's most productive hard-rock mine. At its peak, underground shafts extended more than a mile below the surface, and the mine employed hundreds of Cornish and Chinese immigrants who brought their mining techniques from the other side of the world."
 sources:
   - https://en.wikipedia.org/wiki/Empire_Mine_State_Historic_Park
+score: 9.4
 ---
 
 The Empire Mine is the single best reason to visit Grass Valley, and one of the finest historic parks in California. From 1850 until its closure in 1956, this was one of the richest and deepest hard-rock gold mines in the state, and the park preserves the whole industrial complex: the shaft house, the stamp mill where ore was crushed, the mine owner's surprisingly grand Victorian "cottage," and a network of restored buildings and grounds.

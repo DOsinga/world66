@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 47.0264
 longitude: 28.8272
+score: 5.3
 ---
 
 A small literary café-museum on Bucuresti Street, named for the dumpling-cheeked child hero of the much-loved 1967 Moldovan children's book Gugutsa by Spiridon Vangheli. The café opened in 2018 in a corner that once held a bookshop and is now part café, part bookshop, part shrine to Vangheli's stories — bound editions of every Gugutsa book, ceramic figurines, original illustrations on the walls.

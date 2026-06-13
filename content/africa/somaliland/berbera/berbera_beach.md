@@ -8,6 +8,7 @@ latitude: 10.4320
 longitude: 45.0300
 story: >
   Berbera sits on the Gulf of Aden at one of its narrowest points — Yemen is less than 300 kilometres across the water. On clear mornings you can see the haze of the Yemeni coast from the beach. The same location that makes Berbera strategically valuable has made its waters some of the busiest shipping lanes in the world.
+score: 8.6
 ---
 
 Berbera's beach is an extraordinary thing: kilometres of white sand on the Gulf of Aden, warm turquoise water, and virtually no one on it. The beach runs along the coast west of the town, backed by low dunes and the occasional acacia, with the Red Sea Hills visible inland. In the early morning, before the sun becomes oppressive, it is one of the most beautiful beaches in East Africa.

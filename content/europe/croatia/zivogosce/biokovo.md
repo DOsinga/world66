@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The mountain wall behind the riviera — 1,155 m Sutvid, with a marked trail from the village
+score: 8.2
 ---
 
 The Biokovo massif rises almost directly behind Živogošće, and Sutvid at 1,155 metres is the most accessible of the local peaks. The marked trail starts in the village of Blato above the coast, climbs through old terraces of olives and stone walls, and emerges above the tree line onto the bare karst plateau that runs the length of the range. The view from the summit takes in the entire Makarska Riviera, the islands of Brač and Hvar, and on a clear day the long horizon south to the Pelješac peninsula.

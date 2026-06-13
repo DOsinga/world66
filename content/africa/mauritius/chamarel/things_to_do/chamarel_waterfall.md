@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -20.4290
 longitude: 57.3760
+score: 7.9
 ---
 
 The Chamarel Waterfall drops about 100 metres in a single plunge into a narrow basalt gorge, making it one of the tallest waterfalls in Mauritius. The viewpoint is a short walk from the car park at the Seven Coloured Earth site — the same admission ticket usually covers both. From the viewing platform you look down into the gorge where the water fans out into mist against the dark volcanic rock, surrounded by dense tropical vegetation.

@@ -8,6 +8,7 @@ tags:
 - club
 title: Bar Flyy
 type: poi
+score: 4.8
 ---
 
 A multi-level dance club on W. 6th Street in the Warehouse District, open since 2005 and one of the longer-running Cleveland nightclubs. The atmosphere is retro-hipster, the music skews toward house and current dance hits, and the rooftop bar above the dance floor is the draw on warm nights. Lines form on weekends; arrive early to avoid the wait.

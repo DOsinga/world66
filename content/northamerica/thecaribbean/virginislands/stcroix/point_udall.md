@@ -14,6 +14,7 @@ story: >
   Interior Secretary Bruce Babbitt, and Point Udall was chosen as the
   official location where the United States would greet the new millennium —
   the first place in the country to experience the year 2000.
+score: 7.6
 ---
 
 Point Udall is the easternmost point of the United States, a rocky headland at St. Croix's eastern tip where the day begins for the entire country. The drive out along the southeastern shore is rewarding in itself — the road narrows as it climbs through dry scrub forest and cactus, with the Caribbean opening up on both sides, and the light at the point on a clear morning is brilliant and sharp.

@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - wildlife
+score: 8.4
 ---
 
 A private ecological reserve covering about 80 hectares of cliff-top Atlantic forest just west of the village. Three marked trails (about 1, 2, and 4 km) loop through what remains of the coastal Mata Atlântica — sheltered tropical hardwoods, dense undergrowth, and a series of viewpoints over the cliffs to Baía dos Golfinhos far below. Sightings of marmosets, sloths, and over a hundred bird species are routine.

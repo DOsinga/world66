@@ -14,6 +14,7 @@ tags:
 title: Davy Byrne's Pub
 type: poi
 url: www.davybyrnes.com
+score: 6.6
 ---
 
 Leopold Bloom stops at this "moral pub" on Duke Street for a glass of Burgundy and a gorgonzola sandwich in the *Lestrygonians* episode of *Ulysses* — making it one of the most visited literary pubs in the world. Joyce himself was a regular, and the original owner Davy Byrne appears briefly in the novel.

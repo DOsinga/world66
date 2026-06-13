@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 34.1210
 longitude: 35.6488
+score: 8.2
 ---
 
 The old souk of Byblos stretches through the lanes behind the harbour, a genuine working market that has been selling to locals and visitors in roughly the same location for centuries. The shops are a mix of artisans selling locally made crafts — jewellery, ceramics, handwoven textiles — and antique dealers with a rotating stock of Lebanese coins, Phoenician glass, Roman-period artifacts (mostly legal reproductions), and miscellaneous Middle Eastern antiques.

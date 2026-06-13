@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -16.92
 longitude: 145.784444
+score: 6.8
 ---
 
 The mudflats and mangrove-lined estuary of Trinity Inlet that fronts Cairns are not conventionally beautiful, but they reward attention. At low tide the exposed mud attracts enormous numbers of wading birds — godwits, sandpipers, egrets, and herons — and the estuary is one of the few truly wild urban waterways left in a major Australian city. Saltwater crocodiles are present; you will be told this many times.

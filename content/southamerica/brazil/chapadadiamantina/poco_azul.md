@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -12.7833
 longitude: -41.0833
+score: 8.4
 ---
 
 Poço Azul (Blue Pool) is a subterranean pool of startling clarity in a limestone cave in the municipality of Novo Horizonte, on the eastern edge of the Chapada Diamantina region. The pool is lit from above by a shaft of natural light that, at midday, turns the water an extraordinary electric blue — a colour that seems too vivid to be natural and has made Poço Azul one of the most photographed spots in all of Bahia.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 53.8971
 longitude: 11.4572
+score: 5.8
 ---
 
 The Baumhaus at the harbour entrance doubles as a bar in the warmer months, and the location — right at the mouth of the inner harbour, with views across the water toward the open Wismar Bight — is the best outdoor drinking spot in the city. In summer the terrace fills with a mix of locals, sailors, and visitors who have walked up from the old town. It is informal, sometimes noisy, and entirely consistent with the harbour setting.

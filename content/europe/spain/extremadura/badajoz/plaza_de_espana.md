@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Plaza de España
 type: poi
+score: 6.3
 ---
 
 The civic heart of modern Badajoz, a tree-shaded square framed by the cathedral on one side and the Casa Consistorial — the 19th-century town hall with its tile-covered spire — on the other. The square fills with locals from early evening, when the cafes put out their tables and the surrounding streets close to traffic.

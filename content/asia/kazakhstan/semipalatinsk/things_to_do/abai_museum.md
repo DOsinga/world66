@@ -9,6 +9,7 @@ longitude: 80.2620
 sources:
   - https://en.wikipedia.org/wiki/Abai_Qunanbaiuly
   - https://en.wikipedia.org/wiki/Semey
+score: 7.9
 ---
 
 Abai Qunanbaiuly — known simply as Abai — is Kazakhstan's national poet and philosopher, the figure around whom modern Kazakh literary identity is largely constructed. Born in 1845 in the Chingiz hills east of Semipalatinsk, he was sent as a boy to study in the city, where he encountered Russian literature and came to see translation and adaptation as a form of cultural bridge-building. He translated Pushkin, Lermontov, and Byron into Kazakh, and composed verse and philosophical prose that Kazakhs still quote fluently today.

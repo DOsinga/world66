@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 7.5
 ---
 
 The Roanoke City Market is the heart of downtown — a continuously operating open-air farmers' market that has been on the same block since 1882, making it one of the oldest in Virginia. Farmers from the surrounding valley still set up stalls along Market Street through the warmer months; in the dead of winter the activity moves into the adjacent Charter Hall on the second floor of the old Market Building.

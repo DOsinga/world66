@@ -4,6 +4,7 @@ type: poi
 latitude: 52.1582
 longitude: 4.4920
 tags: [eating_out, restaurant]
+score: 6.3
 ---
 
 A small, popular restaurant on the Lange Mare with a short, modern Dutch menu and one of the better wine lists in town. The dining room is narrow and the tables are close together; the kitchen is fast and confident, and the prices stay reasonable for the quality on offer.

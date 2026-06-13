@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 37.4193
 longitude: -79.1390
+score: 6.7
 ---
 
 The James River Heritage Trail runs along the bluff above the James River through central Lynchburg, offering elevated views of the river below and the Blue Ridge Mountains to the west. The trail connects Point of Honor mansion and several city parks along the ridge and is a pleasant place for an evening walk or morning run.

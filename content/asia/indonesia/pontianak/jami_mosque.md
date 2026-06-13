@@ -16,6 +16,7 @@ story: >
   architectural tradition of coastal Southeast Asia.
 sources:
   - https://en.wikipedia.org/wiki/Jami_Mosque_of_Pontianak
+score: 8.0
 ---
 
 The Jami Mosque is the oldest mosque in Pontianak, built in 1771 beside the sultan's palace on the south bank of the Kapuas. The architecture is distinctively Malay rather than Arab: the multi-tiered timber roof rises in diminishing stages without a dome, and the structure is built on piles over the river. It is one of the best examples of Malay mosque architecture in Indonesian Borneo.

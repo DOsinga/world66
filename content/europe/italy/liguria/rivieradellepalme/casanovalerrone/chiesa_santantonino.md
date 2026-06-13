@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0325
 longitude: 8.0498
+score: 7.1
 ---
 
 The baroque parish church of Sant'Antonino is the finest building in Casanova Lerrone, housing a polyptych from 1552 attributed to the school of Ludovico Brea — the Niçoise painter who left altarpieces across western Liguria and the French Riviera in the late 15th and early 16th centuries. The polyptych is well-preserved and shows the sophisticated religious painting being produced in this corner of the Mediterranean at the time.

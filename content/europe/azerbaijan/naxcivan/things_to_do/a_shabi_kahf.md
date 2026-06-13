@@ -7,6 +7,7 @@ snippet: “Sacred cave linked to the Quranic Seven Sleepers legend”
 tags:
 - things_to_do
 - landmark
+score: 7.6
 ---
 
 Ashabi-Kahf (the “People of the Cave”) is a pilgrimage site about 12 km east of Nakhchivan city, nestled between Ilandag and Nahajir mountains. The cave is associated with the Quranic story of the Seven Sleepers (Surah Al-Kahf), in which a group of young believers fled persecution and took refuge in a cave, where God caused them to sleep for centuries before waking them.

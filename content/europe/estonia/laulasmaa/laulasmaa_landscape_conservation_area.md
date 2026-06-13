@@ -4,6 +4,7 @@ type: poi
 latitude: 59.3917
 longitude: 24.2361
 tags: [things_to_do, sight, nature]
+score: 6.9
 ---
 
 A small protected area stretching back from the coast into the pine and juniper woods west of the village. It exists to safeguard the limestone cliff edge, the coastal meadows, and the rare lichen flora that survives in this corner of the Baltic. Marked walking trails of two to six kilometres loop through the forest, and most can be done in trainers.

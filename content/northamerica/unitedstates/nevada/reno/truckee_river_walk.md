@@ -8,6 +8,7 @@ tags:
 - sight
 - nature
 snippet: "Reno's downtown river, with an engineered whitewater course and a riverside path"
+score: 8.3
 ---
 
 The Truckee River runs straight through downtown Reno, and the **Truckee River Walk** that follows its banks for several blocks is the single most pleasant outdoor stretch in central Reno. Cottonwoods overhang the water; benches, public art, and a few cafe terraces line the path; and at the **Reno Whitewater Park** near the Wingfield Park bandshell the city has engineered a series of pools and drops where kayakers, river-surfers, and on hot summer afternoons a steady stream of tubers float past the casinos.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.5078
 longitude: -65.6939
+score: 7.9
 ---
 
 El Sillar — the saddle — is a high pass south of Tupiza where the landscape opens up into a panorama of eroded ridges, spires and red-stained badlands. From the road you look down on a country of pinnacles that would not be out of place in southern Utah.

@@ -8,6 +8,7 @@ title: Dionne Quints Museum
 type: poi
 snippet: "The actual log farmhouse where the Dionne quintuplets were born in 1934"
 story: "The Ontario government took the five girls from their parents at four months old and made them the centerpiece of 'Quintland' — a roadside attraction that drew three million visitors in the late 1930s, more than Niagara Falls."
+score: 7.2
 ---
 
 The five Dionne sisters — Yvonne, Annette, Cécile, Émilie, and Marie — were born on 28 May 1934 to a Franco-Ontarian farm family in nearby Corbeil. They were the first quintuplets in recorded history to survive infancy, and the Ontario government swiftly removed them from their parents to be raised under medical supervision in a purpose-built nursery across the road. For nine years they were paraded daily before paying tourists.

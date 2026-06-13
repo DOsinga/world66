@@ -9,6 +9,7 @@ latitude: 13.5159
 longitude: 7.1034
 sources:
   - https://www.openstreetmap.org/node/7624013453
+score: 6.8
 ---
 
 Kasouwa Matta is one of Maradi's most useful market areas to wander, a place for cloth, food, household goods, and the practical buying and selling that keeps the city moving. It is not polished, and that is the point: Maradi's appeal lies in the way trade fills the streets.

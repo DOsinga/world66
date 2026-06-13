@@ -11,6 +11,7 @@ snippet: "4-mile trail through bamboo forest to Waimoku Falls in Haleakalā Nati
 story: "The bamboo grove on the Pīpīwai Trail is one of the densest in Hawaii. In wind, the thick stalks knock together with a sound like a percussion section warming up — an oddly musical walk through an otherwise silent forest."
 sources:
   - https://en.wikipedia.org/wiki/Pipiwai_Trail
+score: 9.0
 ---
 
 The Pīpīwai Trail is the best hike on Maui, starting from the Kīpahulu Visitor Center in the coastal section of Haleakalā National Park and climbing 4 kilometres (one way) to Waimoku Falls, a 122-metre cascade plunging off a basalt cliff into the forest below.

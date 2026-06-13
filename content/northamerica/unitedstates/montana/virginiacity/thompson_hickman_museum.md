@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.2959
 longitude: -111.9374
+score: 8.2
 ---
 
 The Thompson-Hickman Museum is the best place to read the history of Virginia City in depth. The collection covers the 1863 gold rush, the founding of Montana Territory, and the brutal winter of 1863–64 when the Vigilance Committee — a group of miners who had had enough of the road agent gangs terrorising the goldfields — hanged 21 men in a matter of weeks, including the sheriff himself, Henry Plummer, who turned out to be the gang's leader.

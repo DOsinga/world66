@@ -8,6 +8,7 @@ latitude: 38.4158
 longitude: 77.2544
 story: >
   The Altyn Mosque — Altyn means gold in Uyghur — served as the main congregational mosque of the Yarkand Khanate. The khanate's khans were patrons of both Islamic scholarship and the classical muqam tradition, and the mosque was the setting for both: religious learning during the week, and music and poetry gatherings that brought together the scholars and artists of what was then the most cultured court in Central Asia.
+score: 8.4
 ---
 
 The Altyn Mosque is the oldest and most important mosque in Yarkand, predating the current Amanisahan complex and serving as the main place of worship for the old city's Uyghur population. The building has been repaired and modified over the centuries but retains the character of a traditional Central Asian mosque: a large courtyard shaded by old trees, a flat-roofed prayer hall with carved wooden columns, and the overall atmosphere of a building whose function has not changed in five hundred years.

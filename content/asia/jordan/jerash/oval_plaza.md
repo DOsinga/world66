@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Oval Plaza is unique in the Roman world — no other Roman forum has this elliptical shape. Scholars still debate why it was built this way. One theory is that it was designed to bridge the angle between the colonnaded street and the Temple of Zeus, creating a monumental transition between two axes that did not quite align. Whatever the reason, the result is one of the most impressive open spaces in any Roman provincial city.
+score: 8.6
 ---
 
 The Oval Plaza, or Forum, is the centrepiece of ancient Gerasa: an enormous elliptical colonnaded square ringed by 56 Ionic columns, most of which still stand. At over 80 metres long and 50 metres across, it is an impressive space even in ruin, and the columns give it a sense of enclosure and grandeur that most ancient forums — which were rectangular — do not achieve.

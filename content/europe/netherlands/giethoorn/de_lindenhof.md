@@ -10,6 +10,7 @@ story: >
   by boat or on foot in a village of 2,800 people. Chef Martin Kruithof's kitchen draws serious food
   travelers who take the punt just for dinner. The restaurant sits in a converted farmhouse alongside
   the canal, and arriving by boat in the evening light is an experience in itself.
+score: 6.6
 ---
 
 De Lindenhof is the standout restaurant in Giethoorn by an enormous margin. While the rest of the village dining scene is pancakes and tourist lunches, De Lindenhof operates at the level of a serious fine-dining destination: multi-course tasting menus, a wine list that rewards attention, and cooking that reflects the Dutch landscape and the wetland environment the restaurant sits in.

@@ -5,6 +5,7 @@ snippet: Long-running cafe on the market square serving cakes, breakfasts, and s
 tags: [bars_and_cafes, cafe]
 latitude: 48.8326
 longitude: 9.3163
+score: 5.4
 ---
 
 A reliable cafe on the corner of the Marktplatz, the Tagblatt is one of the busier daytime spots in town. Strong coffee, good house-made cakes, breakfasts available until early afternoon, and a small lunch menu running to quiche, salads, and Swabian classics.

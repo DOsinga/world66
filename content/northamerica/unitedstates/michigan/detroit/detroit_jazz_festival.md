@@ -9,6 +9,7 @@ tags:
 neighbourhood: Downtown
 title: Detroit Jazz Festival
 type: poi
+score: 8.1
 ---
 
 The Detroit Jazz Festival is the world's largest free jazz festival, held downtown every Labor Day weekend since 1980. Four stages — at Hart Plaza and Campus Martius — host more than a hundred performances across four days, drawing major international names along with the deep Detroit jazz scene. Past artist-in-residence appointments have included Wayne Shorter, Pat Metheny, and Dee Dee Bridgewater.

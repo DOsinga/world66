@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Genbikei
 story: >
   Genbikei has a peculiarly Japanese food delivery system: a wooden bucket on a rope strung across the gorge, which visitors fill with money and pull across to a teahouse on the far side, returning with mochi rice cakes and tea. The dango vendor has operated this way for decades, and the bucket-and-rope transaction has become as famous as the gorge itself.
+score: 7.7
 ---
 
 Genbikei is a two-kilometre ravine carved by the Iwai River through volcanic rock near the city of Ichinoseki, in the southern part of Iwate. The name means "stern beauty" and the description fits: the gorge walls are sheer dark basalt, the water drops through a series of pools and cascades, and the narrow path along the rim gives constantly shifting views.

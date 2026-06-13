@@ -6,6 +6,7 @@ longitude: 49.8395
 tags:
   - bars_and_cafes
   - cafe
+score: 5.2
 ---
 
 A small chain of coffee shops with several branches across central Baku, Coffee Moffie does a serious flat white and the city's best baked goods — proper croissants, sourdough toasts, and a rotating set of cakes. The Nizami Street branch has decent wifi and is a good place to write postcards or wait out the afternoon heat.

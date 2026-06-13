@@ -10,6 +10,7 @@ story: >
   Dún Dealgan — the Fort of Dealga — is traditionally identified as the birthplace of Cú Chulainn, the great warrior hero of Irish mythology who singlehandedly defended Ulster from Queen Medb's cattle-raiding army in the Táin Bó Cúailnge. Whether the legendary hero was born here or anywhere else is moot, but the motte sits dramatically on a drumlin hill with views across Dundalk Bay, exactly the kind of landscape that gives mythological stories their geographic gravity.
 sources:
   - https://en.wikipedia.org/wiki/D%C3%BAn_Dealgan_Motte
+score: 6.7
 ---
 
 Dún Dealgan Motte is a well-preserved Norman motte — the earthwork base of a timber castle — sitting on a drumlin hill 2 km west of Dundalk town centre. The motte dates from the 12th century and is a National Monument, but the site itself carries much older significance: the name Dún Dealgan predates the Norman arrival and is associated in Irish mythology with Cú Chulainn.

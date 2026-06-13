@@ -8,6 +8,7 @@ tags:
 - village
 title: Las Galeras
 type: poi
+score: 6.8
 ---
 
 About 30 kilometres east of Samaná, the road ends at Las Galeras — a small fishing village that has slowly become an alternative base for travellers who want the peninsula's beaches without the crowds of Las Terrenas. A handful of guesthouses, a few restaurants, and a tropical lethargy that the bigger resort towns have lost.

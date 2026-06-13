@@ -9,6 +9,7 @@ latitude: 37.270833
 longitude: -76.709167
 snippet: The oldest academic building in continuous use in the United States, at the College of William & Mary
 story: The Wren Building has burned down three times — in 1705, 1859, and 1862 — and been rebuilt each time. The 1862 fire was set by Union soldiers during the Civil War. Despite all these destructions and rebuildings, it has been in continuous academic use since 1695, which gives it a strong claim to being the oldest university building in operation in the Americas. The current structure is a 1930s reconstruction of the 1716 design.
+score: 8.0
 ---
 
 The Wren Building stands at the western end of the Duke of Gloucester Street and forms the anchor of the College of William & Mary campus. Built between 1695 and 1700, it is considered the oldest academic building in continuous use in the United States. The building is named after Sir Christopher Wren, though evidence that he actually designed it is disputed — the attribution came later.

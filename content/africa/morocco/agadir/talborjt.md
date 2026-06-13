@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.4244
 longitude: -9.5931
+score: 6.4
 ---
 
 Talborjt (sometimes spelled Talborjt or Nouvelle Talborjt) is the part of Agadir where most Moroccans actually live — a working neighbourhood set back from the beach and away from the resort hotels, with cheap cafes, local shops, and simple restaurants serving tagine and couscous. It was the settlement area established after the 1960 earthquake, when the old city was completely destroyed and a new one had to be built from scratch.

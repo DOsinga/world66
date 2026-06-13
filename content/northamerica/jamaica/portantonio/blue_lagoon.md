@@ -8,6 +8,7 @@ latitude: 18.1782
 longitude: -76.3608
 story: >
   The Blue Lagoon was the location for the 1980 film of the same name starring Brooke Shields — hence the name change from its original "Blue Hole." The lagoon's extraordinary colour comes from the way cold fresh water from underground springs mixes with warm Caribbean salt water at depth; the density difference keeps the two layers partially separate, creating visible colour variation when you swim through them.
+score: 8.0
 ---
 
 The Blue Lagoon is a deep coastal lagoon 10 km east of Port Antonio, connected to the Caribbean Sea by a narrow channel. At 55 metres deep, it was long believed to be bottomless. The water is a striking shade of blue-green — darker at depth, lighter near the surface — and the mix of cold fresh water from underground springs and warm sea water creates a thermal and visual gradient you can feel when swimming down.

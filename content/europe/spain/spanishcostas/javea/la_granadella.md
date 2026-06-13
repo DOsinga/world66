@@ -7,6 +7,7 @@ tags:
 latitude: 38.7628
 longitude: 0.1588
 snippet: "Unspoiled rocky cove with turquoise water south of the port, minimal development"
+score: 8.3
 ---
 
 La Granadella is a small rocky cove reached by a winding road through pine forest south of Jávea's port, and it is one of the finest undefiled inlets on this stretch of Mediterranean coast. The beach itself is narrow and shingly, but the water is clear turquoise, and the surrounding cliffs and pine trees create a sheltered and visually striking setting. There is a small restaurant and some sunlounger rental, but little else — no hotels, no nightlife, no apartment blocks.

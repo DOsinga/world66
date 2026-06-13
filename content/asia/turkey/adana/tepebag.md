@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood, archaeology]
 latitude: 36.9881
 longitude: 35.3272
+score: 8.2
 ---
 
 Tepebağ is the small hill rising in the middle of old Adana and the oldest continuously inhabited part of the city — excavations have found remains going back to the third millennium BCE, layered beneath the late Ottoman and Republican houses that stand on top. The narrow streets that wind around the slope are some of the most atmospheric in town, with cantilevered timber upper storeys, courtyard houses, and tiny coffee shops barely large enough for two tables.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Melbourne_Museum
 story: >
   The museum's most famous resident is Phar Lap, the racehorse who won the 1930 Melbourne Cup and 37 of his 51 starts before dying in mysterious circumstances in California in 1932. His taxidermied body is displayed in the museum alongside his preserved heart, which weighed 6.35 kilograms — nearly twice the average for a horse. Whether his death was poisoning or accidental remains genuinely disputed.
+score: 8.7
 ---
 
 The Melbourne Museum in Carlton Gardens is the largest museum in the Southern Hemisphere, covering natural history, Indigenous culture, Australian social history, and science in a striking building designed by Denton Corker Marshall and opened in 2000. The Bunjilaka Aboriginal Cultural Centre is one of the most thoughtfully presented Indigenous Australian exhibitions anywhere in the country, co-curated with the communities whose stories it tells.

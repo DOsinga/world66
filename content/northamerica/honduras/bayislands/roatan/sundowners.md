@@ -7,6 +7,7 @@ tags:
 snippet: "Open-air beach bar at the north end of West End — the sunset spot"
 latitude: 16.3030
 longitude: -86.5880
+score: 6.0
 ---
 
 Sundowners is the default sunset bar in West End: a wooden, open-sided structure on the sand at the north end of the village, swing seats, a long bar pouring rum drinks and cold beer, and a stretch of sea wall to lean on while the sun does what the bar is named for.

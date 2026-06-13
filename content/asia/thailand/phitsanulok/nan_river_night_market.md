@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 16.8275
 longitude: 100.2650
+score: 6.4
 ---
 
 The riverfront night market along the Nan River is the social heart of Phitsanulok in the evenings. Stalls set up along the east bank selling grilled meats, pad thai, fresh fruit, and the local speciality, phak bung fai daeng — morning glory fried with a theatrical toss into the air that sends the vegetable flying across the kitchen before landing back in the wok. The show is as much a draw as the food.

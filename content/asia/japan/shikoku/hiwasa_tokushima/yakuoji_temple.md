@@ -13,6 +13,7 @@ story: >
   Shikoku 88-temple pilgrimage. The stone steps leading up to the main hall are
   called "Nanzan-no-ishi" — women climb 33 steps, men climb 42, each a traditional
   unlucky age in Japanese culture. Pilgrims place a coin on each step as they climb.
+score: 7.8
 ---
 
 Yakuōji, temple number 23 on the [Shikoku](/asia/japan/shikoku) pilgrimage circuit, sits on a hill overlooking Hiwasa and the Pacific. It is one of Japan's four temples dedicated to averting bad luck — pilgrims come specifically to ward off misfortune at unlucky ages, placing a coin on each of the stone steps as they climb. The steps themselves are a sight: women climb 33, men climb 42, each figure corresponding to a traditionally unlucky year.

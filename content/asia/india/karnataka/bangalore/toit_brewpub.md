@@ -7,6 +7,7 @@ tags:
 - bar
 title: Toit
 type: poi
+score: 6.7
 ---
 
 Toit is one of Bangalore's best-loved craft breweries, serving its own beers — weiss, stout, red ale, and lager among them — alongside a food menu that goes well beyond the standard pub offering. The space in Indiranagar is large and two-floored, with an outdoor section that is particularly good in the cooler months. The beers are consistently well made, and the rotating seasonal taps usually have something worth trying.

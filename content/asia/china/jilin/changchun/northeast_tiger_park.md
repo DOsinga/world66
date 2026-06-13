@@ -9,6 +9,7 @@ latitude: 43.9070
 longitude: 125.1980
 story: >
   The park holds one of the largest captive populations of Siberian tigers in the world — over 100 animals at any given time. Siberian tigers are critically endangered, with only around 500 remaining in the wild, concentrated in the Russian Far East and small populations in northeast China. The park was established with genuine conservation intent, but its practice of allowing visitors in vehicles close to the animals, and offering live prey feeding as a visitor attraction, has drawn sustained criticism from wildlife organisations.
+score: 4.9
 ---
 
 The Northeast Tiger Park, also called the Siberian Tiger Park, houses over 100 Amur (Siberian) tigers in a large fenced facility on Changchun's northern edge. It is one of the largest captive tiger facilities in the world and attracts significant visitor numbers — including many Chinese tourists who come specifically to see the animals at close range from buses that drive through the enclosures.

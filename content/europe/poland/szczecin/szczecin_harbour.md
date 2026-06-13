@@ -7,6 +7,7 @@ tags:
 - sight
 title: Szczecin Harbour
 type: poi
+score: 6.5
 ---
 
 Szczecin's harbour is one of Poland's largest, an important industrial seaport that has operated continuously since the medieval period. The modern port is active and working — not a heritage attraction — but the riverfront below the Wały Chrobrego embankment has been developed for leisure, with bars and restaurants in converted industrial buildings and a marina for pleasure craft.

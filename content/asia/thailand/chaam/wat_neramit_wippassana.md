@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.7969
 longitude: 99.9563
+score: 6.6
 ---
 
 A few kilometres inland from the beach, Wat Neramit Wippassana is Cha-am's principal temple and sits at the edge of a forested hillside that gives views over the town and the Gulf beyond. The temple itself is active and working — monks from the forest monastery come and go along a covered walkway — rather than a heritage site groomed for visitors. That is part of its appeal.

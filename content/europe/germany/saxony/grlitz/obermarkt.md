@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.1553
 longitude: 14.9872
+score: 7.5
 ---
 
 The Obermarkt is the larger of Görlitz's two main squares, a wide oblong space lined with Baroque and Classicist buildings. At its eastern end stands the Reichenbacher Turm (Reichenbach Tower), one of the best-preserved medieval towers in Saxony, which you can climb for views over the town and across the Neisse to Zgorzelec in Poland. The tower dates from the 13th century and was used as a watchtower, prison, and signal station at various points in its history.

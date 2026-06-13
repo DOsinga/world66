@@ -7,6 +7,7 @@ tags:
 latitude: 40.6378
 longitude: 22.9358
 snippet: No-nonsense Ladadika mezedopoleio famous for mydia saganaki
+score: 6.2
 ---
 
 Hamodrakas is one of the straightforward *mezedopoleia* that make Ladadika work — no frills, no tourist pricing, just a menu of northern Greek small plates and a clientele that ranges from dockworkers to lawyers depending on the hour. The *mydia saganaki* — mussels cooked in a frying pan with tomato, feta, peppers and wine — is the dish Thessaloniki claims to have invented, and this is one of the better versions: the mussels fresh from the Thermaic Gulf, the sauce sharp and generous.

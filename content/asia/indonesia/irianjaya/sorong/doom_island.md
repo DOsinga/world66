@@ -7,6 +7,7 @@ tags:
 latitude: -0.8869
 longitude: 131.2361
 story: "Despite its grim name, 'Doom' has nothing sinister about it — the name is a corruption of the Biak word 'dum', meaning landing place. The Japanese occupied the island during the Second World War and built fortifications here; some concrete bunkers and a few rusting gun emplacements survive in the undergrowth."
+score: 6.3
 ---
 
 Doom Island sits just off Sorong's coast, a short boat ride from the main port. It is small enough to walk around in an hour and has a few beaches, a quiet fishing village, and a handful of war-era ruins. The water is calm in the channel, and the views back across to the mainland are pleasant.

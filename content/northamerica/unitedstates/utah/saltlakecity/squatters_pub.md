@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Squatters Pub Brewery
 type: poi
+score: 5.9
 ---
 
 Squatters Pub Brewery, opened in 1989, is one of Salt Lake City's original craft breweries, operating from a comfortable ground-floor pub space on 300 South just west of downtown. The beer selection covers a broad range of styles; the Emigration Amber is a reliable house standard. The pub food is well-regarded for the genre — burgers, sandwiches, and salads at fair prices.

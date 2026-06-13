@@ -6,6 +6,7 @@ tags:
 - things_to_do
 title: Oslo City Museum
 type: poi
+score: 5.8
 ---
 
 Here you will see a permanent exhibition about the people in Oslo and the city history.

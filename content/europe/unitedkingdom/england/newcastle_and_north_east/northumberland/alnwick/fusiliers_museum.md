@@ -9,6 +9,7 @@ latitude: 55.416
 longitude: -1.706
 sources:
   - https://en.wikipedia.org/wiki/Fusiliers_Museum_of_Northumberland
+score: 6.8
 ---
 
 The Fusiliers Museum of Northumberland is housed in the 14th-century Abbot's Tower inside Alnwick Castle — a location that lends it genuine atmosphere. The museum covers the history of the Royal Northumberland Fusiliers from 1674 to the regiment's amalgamation in 2006, with collections of uniforms, weapons, medals, and personal effects that tell the story of the regiment's campaigns from Flanders to the Falklands.

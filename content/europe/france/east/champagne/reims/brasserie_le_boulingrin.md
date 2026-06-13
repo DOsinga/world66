@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 49.2583
 longitude: 4.0286
+score: 6.8
 ---
 
 Le Boulingrin is the most characterful brasserie in Reims, housed in a landmark 1925 Art Deco interior that has survived intact. The original ceramic wall tiles, banquette seating, and zinc bar make it feel genuinely of its era. It is listed as a historic monument for its interior alone.

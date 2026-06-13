@@ -15,6 +15,7 @@ story: >
   the phenomenon — urban residents encountering frozen precipitation with
   extreme enthusiasm — remains one of the stranger seasonal rituals of
   Taiwanese public life.
+score: 8.7
 ---
 
 Hehuanshan is the high mountain area at the top of the Cross-Island Highway, above the gorge itself — a plateau at 3,000-3,400 metres with several peaks accessible by walking from the road. The main summit, Hehuanshan North Peak (3,422 m), requires a permit (free, applied for online) but the walk from the road takes only about an hour. The views on clear days encompass the Central Range to the south and the Pacific coast to the east; in winter the area is covered with snow.

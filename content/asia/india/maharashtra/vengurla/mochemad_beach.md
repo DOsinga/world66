@@ -14,6 +14,7 @@ story: >
   Hindu settlements, a legacy of the Arab and later Portuguese maritime trade routes
   that shaped coastal Maharashtra. The fishing here is still done with traditional
   methods: hand-cast nets from small wooden boats.
+score: 7.0
 ---
 
 Mochemad beach, about three kilometres north of Vengurla town, is a quieter and less visited alternative to Sagareshwar. The beach is long, relatively narrow, and backed by coconut palms rather than the casuarina trees that line Sagareshwar. A small Muslim fishing community lives at its northern end, and the beach retains a working, lived-in character rather than the more polished tourist atmosphere that has arrived at some Konkan beaches.

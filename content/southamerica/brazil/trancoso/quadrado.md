@@ -11,6 +11,7 @@ tags:
 - architecture
 title: Quadrado
 type: poi
+score: 9.0
 ---
 
 The Quadrado is Trancoso's front room: a broad green lawn edged by bright, single-storey houses that now hold restaurants, boutiques, and bars. It is at its best late in the afternoon, when the heat softens and the first tables appear under the trees.

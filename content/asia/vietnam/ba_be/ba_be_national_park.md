@@ -9,6 +9,7 @@ latitude: 22.4050
 longitude: 105.6170
 sources:
   - https://en.wikipedia.org/wiki/Ba_B%E1%BB%83_National_Park
+score: 8.8
 ---
 
 Ba Be National Park covers 7,610 hectares of limestone karst forest in Bac Kan province. The terrain is dramatic — sheer limestone peaks, deep river gorges, underground streams, and more than 30 caves. The forest is a mix of limestone karst forest and lowland evergreen tropical forest, with over 550 recorded plant species.

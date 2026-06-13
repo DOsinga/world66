@@ -10,6 +10,7 @@ tags:
 - museum
 title: Jade Museum
 type: poi
+score: 8.1
 ---
 
 The Museo del Jade is home to the largest collection of American jade in the world, spread across five floors of a striking angular building on Plaza de la Democracia. The collection goes well beyond jade — pre-Columbian ceramics, stone carvings, and gold miniatures fill the upper levels, tracing the cultures that inhabited Costa Rica and Central America long before European contact.

@@ -14,6 +14,7 @@ story: >
   are displayed in the Manx Museum in Douglas.
 sources:
   - https://en.wikipedia.org/wiki/Peel_Castle
+score: 9.0
 ---
 
 Peel Castle stands on St Patrick's Isle, a small tidal island accessed by a causeway from the town's harbour area. The castle walls, towers, and the ruined round tower of the pre-Norman cathedral create a skyline that is visible from much of the western half of the island. The site has been occupied and fortified since the 10th century, with the current walls dating largely to the 14th and 15th centuries. It is managed by Manx National Heritage and entry is ticketed.

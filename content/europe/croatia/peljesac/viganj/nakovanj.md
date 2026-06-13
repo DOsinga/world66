@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0033
 longitude: 17.0828
+score: 7.4
 ---
 
 The Nakovanj plateau sits in the hills directly above Viganj and is the closest day-hike from the village. A narrow road climbs to the abandoned hamlet of Nakovanj (roughly 4 km, an hour on foot from the coast); from there several paths fan out across the karst uplands toward archaeological sites, isolated chapels, and viewpoints over the channel.

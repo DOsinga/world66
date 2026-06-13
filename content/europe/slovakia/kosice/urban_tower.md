@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.7206
 longitude: 21.2581
+score: 7.1
 ---
 
 The St. Urban Tower is a free-standing Gothic bell tower on Hlavná ulica, immediately adjacent to St. Elisabeth Cathedral. It was built in the 14th and 15th centuries to house the cathedral's largest bells, and its name comes from a legend that the city's bell-makers melted down a statue of St. Urban — the patron saint of wine — to cast the tower's great bell after an unusually bad grape harvest; presumably the saint was judged to have failed in his duties.

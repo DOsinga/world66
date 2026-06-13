@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.9
 ---
 
 The Donauinsel is a narrow artificial island, 21 kilometres long, built in the 1970s to protect Vienna from floods on the Danube. It is now the city's main outdoor recreation space: cycling and running paths the full length, beaches and swimming areas, bars in summer, and an enormous music festival (Donauinselfest) every June that draws around two million people.

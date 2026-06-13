@@ -11,6 +11,7 @@ tags:
 - bar
 title: Touch Supper Club
 type: poi
+score: 5.8
 ---
 
 A neighbourhood bar and supper club on Lorain Avenue in Ohio City. Touch offers good service any night of the week, with solid food at reasonable prices. The drink list is extensive -- a large draft and bottle beer selection plus a long martini menu. The atmosphere is relaxed and unpretentious, making it a reliable spot for a night out in one of Cleveland's most walkable neighbourhoods.

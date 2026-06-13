@@ -8,6 +8,7 @@ tags:
 latitude: 36.1665
 longitude: 54.3500
 snippet: Small Qajar-era covered bazaar at the centre of the old town
+score: 5.9
 ---
 
 The covered bazaar runs in a single L-shaped row of vaulted shops between the Jameh Mosque and the main square. It is small by Iranian standards — nothing like Isfahan or Tabriz — but the lower foot traffic makes it easier to actually talk to the carpet sellers, the pistachio merchants and the metalworkers in their shops.

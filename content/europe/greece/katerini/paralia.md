@@ -5,6 +5,7 @@ tags: [things_to_do, beach, sight]
 latitude: 40.2951
 longitude: 22.5657
 story: "Paralia Katerini is the largest and most developed beach resort on the Olympian Riviera — about 8 km of Blue Flag sand on the Thermaic Gulf, backed by a strip of restaurants, beach bars, and apartment hotels that runs for several kilometres. In high summer it fills with Greek and Balkan holidaymakers, and the beach promenade becomes one of those specifically Greek summer spectacles that mixes families, teenagers, and taverna culture in a way found nowhere else in Europe."
+score: 6.2
 ---
 
 Paralia Katerini is the beach suburb of Katerini, lying about 5 km directly east of the town centre. The beach runs for approximately 8 kilometres along the Thermaic Gulf, with fine sand and very gradual shelving that makes it safe for children and non-swimmers. The EU Blue Flag certification has been maintained consistently, and water quality is generally good.

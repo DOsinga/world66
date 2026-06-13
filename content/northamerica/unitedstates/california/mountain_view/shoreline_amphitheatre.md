@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.4269
 longitude: -122.0806
+score: 7.1
 ---
 
 Shoreline Amphitheatre is one of the major outdoor concert venues in the Bay Area, with a lawn capacity of around 22,000. The venue sits at the edge of Shoreline Park, right on the bay, and on a clear evening the sight lines extend to the hills across the water. The lawn seating is the democratic option — bring a blanket, arrive early, and you have one of the better outdoor concert experiences in Northern California.

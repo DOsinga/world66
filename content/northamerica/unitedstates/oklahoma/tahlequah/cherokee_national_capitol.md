@@ -16,6 +16,7 @@ story: >
   healthcare, housing, and education. Awarded the Presidential Medal of
   Freedom in 1998, she is the most celebrated political figure the city has
   produced — and the Capitol building she worked from is this one.
+score: 8.1
 ---
 
 The 1867 Cherokee National Capitol building stands at the center of downtown Tahlequah — a two-storey brick structure in the middle of the Cherokee National Square that served as the seat of tribal government from its completion until Oklahoma statehood in 1907, when the U.S. government effectively dissolved tribal self-governance. The building is a National Historic Landmark and has been carefully restored.

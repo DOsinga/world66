@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - cycling
   - nature
+score: 8.3
 ---
 
 The West Coast Wilderness Trail is one of the official Great Rides of the New Zealand Cycle Trail: 132 kilometres of well-graded cycling and walking track running south from Greymouth railway station through Kumara, Hokitika, and Ross. The trail follows old gold-mining water races and disused tramways through a remarkable cross-section of West Coast landscape — beech forest, kahikatea swamp, mountain lakes, and long stretches of coast.

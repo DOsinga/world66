@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.5824
 longitude: 12.1648
+score: 6.9
 ---
 
 The riverside promenade runs along the west bank of the Inn from the old town bridge northward, with the fortress cliff rising above the east bank and the painted facades of the old town visible across the water. It is the most pleasant short walk in Kufstein — flat, shaded by linden trees, and with a clear view back toward the fortress that is better than anything you get in the town itself.

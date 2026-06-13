@@ -7,6 +7,7 @@ tags:
 latitude: 22.1505
 longitude: -100.9765
 story: "The plaza takes its name from the founding of the city in 1592, but the most striking monument is the Portales, a long arcaded walkway built in the 17th century that sheltered the city's first commercial establishments. For three hundred years it was where deals were struck, news was exchanged, and the social hierarchy of colonial San Luis was made visible."
+score: 7.3
 ---
 
 The Plaza de los Fundadores (Founders' Plaza) is a few blocks north of the Plaza de Armas and has a quieter, more academic character — the University of San Luis Potosí occupies much of the surrounding buildings. The plaza is anchored by the Compañía church, built by the Jesuits in the 17th century, and the long arcaded Portales colonnade that forms one side of the square.

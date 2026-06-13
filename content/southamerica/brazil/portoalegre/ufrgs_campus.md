@@ -7,6 +7,7 @@ tags:
 - sight
 title: UFRGS Campus
 type: poi
+score: 7.0
 ---
 
 The Universidade Federal do Rio Grande do Sul (UFRGS) is one of the best universities in Brazil and its main campus, spread across several blocks between the city centre and Bom Fim, is one of Porto Alegre's most pleasant urban spaces. The campus architecture mixes late 19th-century institutional buildings — the old faculties of medicine and law in serious neoclassical style — with modernist additions from the mid-20th century, and the whole is generously planted with trees that make it agreeable to walk through even in summer heat.

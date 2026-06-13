@@ -6,6 +6,7 @@ latitude: 42.1197
 longitude: -8.8474
 story: >
   On 1 March 1493, the Pinta — one of Columbus's three ships — sailed into Baiona harbour. The captain, Martín Alonso Pinzón, came ashore to send a message to the Spanish monarchs: land had been found. Baiona thus became the first place in Europe to learn of the New World. A full-size replica of the Pinta is moored in the harbour today.
+score: 8.2
 ---
 
 Baiona is the historic town at the southern mouth of the Ría de Vigo, protected by a medieval fortification that now houses a parador — one of Spain's famous state-owned hotels in a historic building. The fortress walls are open to visitors for a walk with sweeping views over the Atlantic and the Cíes Islands.

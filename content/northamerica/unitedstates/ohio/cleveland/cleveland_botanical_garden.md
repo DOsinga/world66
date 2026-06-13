@@ -10,6 +10,7 @@ tags:
   - sight
   - university_circle
 neighbourhood: University Circle
+score: 7.6
 ---
 
 The Cleveland Botanical Garden occupies a hilltop on the edge of University Circle and combines ten acres of outdoor gardens with the Eleanor Armstrong Smith Glasshouse, a 18,000-square-foot biome that recreates two distinct environments — a Costa Rican cloud forest and the spiny desert of Madagascar — under one glass roof. The Madagascar room, dry and warm with lemurs, chameleons, and baobabs, is the rare botanical greenhouse that earns the word "transporting."

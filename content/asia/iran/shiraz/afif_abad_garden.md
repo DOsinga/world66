@@ -7,6 +7,7 @@ tags:
 - sight
 title: Afif-Abad Garden
 type: poi
+score: 7.4
 ---
 
 The Afif-Abad Garden sits west of the city centre in a leafy district that was once the suburban retreat of Shiraz's wealthy. The grounds were laid out in the late 19th century around a substantial mansion built for the governor and later used as a summer residence by the Pahlavi royal family. Tall plane trees, sour-orange groves, and a long axial pool give it the structure of a classic Persian garden, with a domed pavilion at the centre.

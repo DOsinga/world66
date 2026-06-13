@@ -1,6 +1,7 @@
 ---
 title: "Night Markets and Southern Thai Food"
 type: poi
+score: 7.3
 ---
 
 Surat Thani does not have much in the way of conventional sights, but it has excellent food, and the night markets are the main attraction for travellers with a few hours to spend. The city is a genuine working regional capital with a large local population and a long tradition of Southern Thai cooking — quite different from the food you find in Bangkok or tourist resorts.

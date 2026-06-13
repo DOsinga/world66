@@ -6,6 +6,7 @@ tags:
   - swimming
 latitude: 40.5580
 longitude: 44.9320
+score: 7.4
 ---
 
 Lake Sevan is Armenia's main summer resort — the country is landlocked, and for Armenians the lake fills the role of sea. Beach areas near the monastery and along the shore become busy from July through August, with families from Yerevan making a weekend or day trip of it.

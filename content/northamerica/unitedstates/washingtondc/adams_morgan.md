@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 38.9215
 longitude: -77.0418
+score: 7.3
 ---
 
 Adams Morgan is Washington's most ethnically mixed and most genuinely bohemian neighbourhood, centred on the intersection of 18th Street and Columbia Road NW. It has been the centre of Washington's Ethiopian community for decades — the blocks around 18th Street have more Ethiopian restaurants than any comparable area in the country — and also has Salvadoran, Peruvian, and various other Latin American restaurants mixed in.

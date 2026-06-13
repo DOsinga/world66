@@ -13,6 +13,7 @@ story: >
   of Perak and occupies the same street as the old Residency and the courthouse,
   making this small stretch of Jalan Kota a condensed record of British Perak at
   its administrative peak.
+score: 6.0
 ---
 
 The Taiping Clock Tower stands at the junction of Jalan Kota and is one of the most recognisable colonial landmarks in the town. Built in 1890, the square white tower with its prominent clock faces was constructed to mark a royal visit and served as the symbolic centre of the town during the British period. The surrounding area — the old courthouse, the Residency, and the adjoining padang — retains much of its colonial layout.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 45.0357
 longitude: 7.6663
+score: 5.9
 ---
 
 The original Eataly, opened in 2007 in a converted Carpano vermouth factory next to the Lingotto. The idea — a giant Italian food hall combining a market, half a dozen small restaurants, and producer talks — has since been exported worldwide, but the Turin store is still the best of them: bigger, less polished, and with the deepest selection of Piedmontese specialities.

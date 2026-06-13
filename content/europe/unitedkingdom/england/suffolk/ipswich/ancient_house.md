@@ -13,6 +13,7 @@ story: >
   depicts the continents — Asia, Africa, the Americas, and Europe — each
   represented by a figure. Australia is absent; it hadn't yet been mapped by
   Europeans to the satisfaction of the craftsman.
+score: 7.6
 ---
 
 The Ancient House on Tavern Street is Ipswich's most photogenic building — a 15th-century timber-framed structure with extraordinary 17th-century pargeting on its exterior walls. The decorative plasterwork panels depict biblical scenes, heraldic devices, and allegorical figures of the continents. It is one of the finest examples of pargeting in England.

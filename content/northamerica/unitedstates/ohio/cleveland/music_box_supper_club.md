@@ -8,6 +8,7 @@ snippet: A riverfront live music room with a serious supper menu
 tags:
   - bars_and_cafes
   - bar
+score: 7.1
 ---
 
 The Music Box Supper Club sits on the Flats East Bank waterfront, in a low building on the Cuyahoga River with a long deck overlooking the iron lift bridges. The bookings cover the better end of regional live music: jazz, Americana, soul, the occasional internationally touring act. Dinner is served before the show in a separate dining room with white tablecloths and a competent steak-and-seafood menu.

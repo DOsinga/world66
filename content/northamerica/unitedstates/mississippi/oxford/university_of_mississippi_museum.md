@@ -6,6 +6,7 @@ longitude: -89.5253
 tags:
   - things_to_do
   - museum
+score: 7.9
 ---
 
 The University of Mississippi Museum is a small but unusually rich university museum on the eastern edge of the campus — a five-minute walk from Rowan Oak through Bailey's Woods. The collections cover classical antiquities, American folk art, Southern decorative arts, and a respectable holding of 19th- and 20th-century American paintings.

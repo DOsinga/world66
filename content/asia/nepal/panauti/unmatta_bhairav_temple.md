@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 27.5818
 longitude: 85.5174
+score: 7.2
 ---
 
 The Unmatta Bhairav Temple stands in the main courtyard area of Panauti, dedicated to a fearsome aspect of Shiva worshipped across the Kathmandu Valley as Bhairav. The temple is smaller and less celebrated than Indreshwar Mahadev nearby, but its carved struts and decorative woodwork are finely executed and attract less of a crowd. The deity inside, accessible only to Hindus, is a tantric image of considerable age.

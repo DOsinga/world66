@@ -10,6 +10,7 @@ longitude: 129.1310
 sources:
   - https://en.wikipedia.org/wiki/Centum_City_station
   - https://en.wikipedia.org/wiki/Busan_Cinema_Center
+score: 5.7
 ---
 
 A purpose-built commercial district in the Haeundae area, built on reclaimed land that was an air base until the 1990s. The centrepiece is Shinsegae Centum City, which holds a Guinness record as the world's largest department store — fourteen floors of retail, plus an ice rink, golf driving range, cinema, spa, and a food hall that takes most of an hour to walk through properly.

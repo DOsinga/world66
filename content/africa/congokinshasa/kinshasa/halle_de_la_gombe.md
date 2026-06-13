@@ -7,6 +7,7 @@ tags:
 latitude: -4.306
 longitude: 15.313
 snippet: A popular Gombe bar with a terrace, cold beer, and occasional live music in a safer part of the city
+score: 6.6
 ---
 
 The Halle de la Gombe is a well-established bar in the Gombe district, with a terrace that catches whatever breeze comes off the river and a crowd of local professionals, NGO workers, and the odd traveller who has found their way here. It is the kind of place where you can sit with a cold Primus for a couple of hours and watch Kinshasa go about its business -- which is itself a kind of entertainment.

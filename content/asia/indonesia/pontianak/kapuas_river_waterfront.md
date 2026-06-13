@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: -0.0235
 longitude: 109.3395
+score: 7.8
 ---
 
 The Kapuas waterfront along Jalan Tanjungpura is the social heart of Pontianak, most alive in the evenings when the temperature drops and families come out to walk along the river. Wooden boats are moored along the banks, the old stilt-house kampung extends on both sides, and on the far bank you can see the palace and mosque across the water.

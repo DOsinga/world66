@@ -8,6 +8,7 @@ tags:
 - religious
 title: Carthage Paleo-Christian Museum
 type: poi
+score: 7.1
 ---
 
 The Paleo-Christian Museum is a small but specialised museum focused on Carthage's early Christian period — roughly the third through the seventh century, when Carthage was one of the most important Christian cities in the Roman world. The collection includes mosaic floors, marble inscriptions, sarcophagi, and baptismal fonts, drawn mostly from the dozens of churches and chapels excavated across the ancient city.

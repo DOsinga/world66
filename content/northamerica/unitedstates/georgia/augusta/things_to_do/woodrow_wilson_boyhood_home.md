@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 33.4694
 longitude: -81.9725
+score: 6.7
 ---
 
 Woodrow Wilson, the 28th President of the United States, spent part of his boyhood in Augusta when his father served as pastor of the First Presbyterian Church. The family home on Telfair Street has been carefully restored to its 1860s appearance and is open for guided tours.

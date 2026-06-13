@@ -6,6 +6,7 @@ longitude: -8.8954
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 A long-established family-run restaurant in the side streets behind the market. The menu rotates with whatever came off the boats that morning — typically grilled sea bream, sole, robalo, and shellfish — written up on a board at the door. Side dishes are simple: boiled potatoes, broad beans with chouriço, a tomato salad.

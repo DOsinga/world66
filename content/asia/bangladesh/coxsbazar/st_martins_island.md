@@ -12,6 +12,7 @@ story: >
   St. Martin's Island is locally known as Narical Gingira — Coconut Island — and was only attached administratively to Bangladesh in 1947 at Partition. Before that it was part of the same maritime zone as the Arakanese coast to the east. The island's coral reef, though degraded by overfishing and boat anchor damage, is the only coral ecosystem in Bangladesh and contains species found nowhere else in the country's waters.
 title: St. Martin's Island
 type: poi
+score: 6.4
 ---
 
 Bangladesh's only coral island, lying 9 kilometres south of the Teknaf peninsula at the southern tip of the country. The island is small — about 8 square kilometres — with coconut palms, a sandy shore, and a fringing coral reef. The water is clear and the pace is slow; this is a genuinely different experience from the mainland.

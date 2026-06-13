@@ -13,6 +13,7 @@ story: >
   of his paintings. He famously painted while floating on a punt in the middle
   of the lake, wearing a blue smock he designed himself, occasionally steering
   with a long pole when the composition required a different angle.
+score: 8.0
 ---
 
 The Attersee is the largest lake entirely within Austria — about 20 kilometres long and 3 kilometres wide, with depths reaching 171 metres. The water is cold, clear, and extraordinarily blue-green, and the shores are lined with summer villas, sailing clubs, and small resorts. It is the lake of the Viennese bourgeoisie: for generations, artists, composers, and wealthy families have maintained summer houses here.

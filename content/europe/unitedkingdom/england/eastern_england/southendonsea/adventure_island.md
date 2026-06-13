@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Free-entry seafront amusement park beside the pier with around 30 rides, including the Rage roller coaster.
+score: 6.4
 ---
 
 Adventure Island is the large seafront amusement park immediately west of Southend Pier, occupying a long strip between the high street and the seawall. Unlike most British theme parks, entry is free — you buy wristbands or individual tickets only if you want to go on the rides, of which there are around 30. They range from gentle children's roundabouts up through the Rage steel roller coaster (a small but vicious shuttle coaster with a 73-degree drop) and several flat thrill rides.

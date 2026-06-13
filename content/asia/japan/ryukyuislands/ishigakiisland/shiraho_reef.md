@@ -15,6 +15,7 @@ story: >
   project. They won: the airport was relocated north, and the reef was spared. The episode
   is still cited in Japanese environmental law discussions as a landmark case of a
   community successfully opposing a major infrastructure project.
+score: 8.4
 ---
 
 Shiraho Reef runs along the southeast coast of Ishigaki near the small fishing village of the same name. It holds one of the largest concentrations of blue coral (Heliopora coerulea) in the world — a rare species that grows far more slowly than most reef-building corals and is consequently very difficult to restore once damaged. The reef is also home to staghorn corals, sea turtles, and a dense population of reef fish.

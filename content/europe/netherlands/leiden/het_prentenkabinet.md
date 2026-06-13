@@ -4,6 +4,7 @@ type: poi
 latitude: 52.1574
 longitude: 4.4862
 tags: [eating_out, restaurant]
+score: 6.6
 ---
 
 A bistro inside the old print-room of the Rapenburg, Het Prentenkabinet serves a Mediterranean-leaning menu in a high-ceilinged 17th-century room hung with engravings. It's particularly good for lunch on a wet afternoon, when the windows look out onto the canal and the wood-panelled walls feel suitably cocooning.

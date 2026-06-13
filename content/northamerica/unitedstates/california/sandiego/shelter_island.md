@@ -7,6 +7,7 @@ tags:
 latitude: 32.7195
 longitude: -117.2222
 snippet: A peninsula in San Diego Bay with yacht clubs, fish restaurants, and Japanese-inspired gardens — perfect for a sunset walk
+score: 6.2
 ---
 
 Shelter Island is a man-made peninsula in San Diego Bay, created in the 1950s by dredging bay bottom and piling it against a natural sandbar. The result is a mile-long spit of waterfront lined with marinas, yacht clubs, hotels, and seafood restaurants, with views across the bay to downtown and to the North Island naval station.

@@ -15,6 +15,7 @@ story: >
   and the palace was largely abandoned for decades before its restoration.
 sources:
   - https://en.wikipedia.org/wiki/Mrigadayavan_Palace
+score: 8.4
 ---
 
 Mrigadayavan Palace — the "Palace of Love and Hope" — is one of the most beautiful royal buildings in Thailand, and it sees relatively few visitors despite sitting just 14 km south of Cha-am. King Vajiravudh had it built as a seaside retreat in 1923, and the result is a sweeping complex of interconnected teak pavilions raised on stilts among the casuarina trees, with the sea breezes flowing freely through every room. The architecture manages to be grand and airy at the same time.

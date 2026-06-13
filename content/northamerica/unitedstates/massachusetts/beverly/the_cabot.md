@@ -8,6 +8,7 @@ tags:
 latitude: 42.55139
 longitude: -70.87877
 story: Originally opened in 1920 as a silent film house, the Cabot became a neighborhood anchor for decades before falling into disrepair. A community campaign rescued it in 2016, restoring the original marquee and converting it into a nonprofit performing arts venue that now draws acts from across New England.
+score: 7.2
 ---
 
 The Cabot, at 286 Cabot Street, is Beverly's marquee cultural venue — a lovingly restored 1920 movie palace turned nonprofit performing arts center. The interior retains its original decorative details, and the 600-seat main hall has become one of the more intimate mid-sized concert halls on the North Shore.

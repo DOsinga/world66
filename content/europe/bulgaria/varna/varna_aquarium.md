@@ -7,6 +7,7 @@ tags:
   - sea_garden
 latitude: 43.2014
 longitude: 27.9225
+score: 6.5
 ---
 
 The Varna Aquarium is one of the oldest aquariums in Bulgaria, founded in 1912, and focuses specifically on Black Sea marine life. This is the interesting part: the Black Sea is an unusual body of water — below about 150 metres it is almost completely anoxic, meaning it lacks the oxygen to support most life, and the diversity in the upper layers is distinctive. The aquarium's tanks display the fish, invertebrates, and marine plants that actually live in the sea a few hundred metres from the front door.

@@ -8,6 +8,7 @@ latitude: 57.7389
 longitude: 10.6319
 sources:
   - https://en.wikipedia.org/wiki/Skagen_Bunker_Museum
+score: 6.7
 ---
 
 Skagen's strategic position at the tip of Denmark made it important to the German occupiers during World War II, and the bunkers they built along the northern beaches are still there. This small museum, housed in one of the original Wehrmacht bunkers on the beach northeast of town, covers the occupation years in Skagen — the garrison, the restrictions on the local fishing fleet, the Allied air activity overhead.

@@ -15,6 +15,7 @@ story: >
   is so fine that it has been called the finest piece of metalwork in all of Asia. Ranjit Malla's
   reign ended in 1769 when the Gorkhali forces of Prithvi Narayan Shah conquered the Kathmandu
   Valley.
+score: 8.6
 ---
 
 The Sun Dhoka, or Golden Gate, is the entrance to the inner courtyard of Bhaktapur's Royal Palace in Durbar Square. The gate is sheathed in gilded copper worked with extraordinary intricacy — multi-armed deities, serpents, garuda birds, and complex decorative borders that reward long and close attention. It was built in 1754 and is generally considered the finest metalwork in Nepal.

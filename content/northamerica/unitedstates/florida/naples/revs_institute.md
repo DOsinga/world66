@@ -8,6 +8,7 @@ latitude: 26.16194
 longitude: -81.77656
 story: >
   The collection was assembled over decades by Miles Collier, heir to a Florida real estate fortune. Rather than store the cars as trophies, Collier built a research institute around them — the library holds one of the largest automotive archives in the world, including original factory records, period photographs, and race documentation. You can book a research visit even if you are not coming for the cars.
+score: 7.9
 ---
 
 The Revs Institute is one of the world's great automotive museums, though it presents itself with academic restraint rather than the chrome-and-spectacle approach of most car collections. The roughly 100 vehicles on display were selected for their historical significance rather than their glamour: early racing cars, pre-war road cars, and post-war competition machines that changed the course of automotive design and motorsport. The presentation is thoughtful — cars are displayed in context, with documentation and scholarly notes that explain what you are looking at and why it matters.

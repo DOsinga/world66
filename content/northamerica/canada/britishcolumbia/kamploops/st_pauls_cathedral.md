@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 **St. Paul's Cathedral** is the Anglican cathedral of the Diocese of the Cariboo and the oldest standing church in Kamloops, built in 1887 in pale wood with a tall central spire and a row of pointed-arch windows in the Gothic Revival mode. It is a modest building — closer to a parish church than to a European cathedral — but appealing on its own terms.

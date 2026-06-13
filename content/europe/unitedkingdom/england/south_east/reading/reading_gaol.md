@@ -14,6 +14,7 @@ story: >
   labour. The prison governor assigned him cell C.3.3 — the identity he used when
   first publishing The Ballad of Reading Gaol anonymously in 1898. The poem ends
   with the line "the vilest deeds like poison weeds bloom well in prison air."
+score: 7.3
 ---
 
 Reading Gaol is a mid-Victorian prison on Forbury Road, opened in 1844, that holds an outsized place in literary history because of its most famous inmate. Oscar Wilde was imprisoned here from November 1895 to May 1897, serving two years' hard labour after his conviction for gross indecency. During his imprisonment he wrote De Profundis — a long letter to his lover Lord Alfred Douglas, only published after his death — and after his release composed The Ballad of Reading Gaol, which is both his most accessible poem and one of the most powerful pieces of Victorian social protest literature.

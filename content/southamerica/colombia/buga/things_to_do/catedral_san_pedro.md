@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 3.8994
 longitude: -76.3025
+score: 7.1
 ---
 
 The Cathedral of Saint Peter the Apostle is the official diocesan cathedral of Buga and predates the better-known pilgrimage basilica in importance, if not in pilgrimage traffic. The building that stands today dates from the late 19th century and occupies the main central plaza — the Parque Cabal — which gives it a more civic presence than the basilica a few blocks away.

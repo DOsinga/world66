@@ -14,6 +14,7 @@ story: >
   empire — Cao Cao had specifically instructed that he be buried simply, without
   grave goods that might tempt looters. The instruction was only partially
   followed: the tomb had been robbed extensively in antiquity.
+score: 7.8
 ---
 
 Cao Cao's Mausoleum, officially confirmed by archaeologists in 2009 after years of debate, lies on the northern outskirts of Anyang in the Xigaoxue area. The warlord who dominated the final decades of the Han dynasty and whose campaigns form the backdrop to one of China's great literary traditions — the Romance of the Three Kingdoms — was buried here in 220 CE according to his own austere instructions. The site is now an open museum with walkways over the excavation pits, where you can see the tomb structure, some remaining artefacts, and inscribed stones that clinched the identification.

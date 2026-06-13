@@ -6,6 +6,7 @@ latitude: 42.3889
 longitude: 18.9239
 story: >
   At the height of Cetinje's status as a capital, 14 foreign powers maintained embassies here — including the great powers of Austria-Hungary, Russia, France, Britain, Italy, and Turkey. This was more embassies per capita than almost any city in Europe. Most of the buildings survive in good condition, now used as schools, government offices, or cultural institutions — a remarkably intact diplomatic quarter for what became a small Montenegrin town.
+score: 7.8
 ---
 
 The embassy quarter of Cetinje is one of the strangest and most interesting urban districts in the Balkans — a collection of 19th and early 20th-century European diplomatic buildings clustered within a few streets of each other, representing the brief period when this mountain capital was taken seriously by the great powers.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 15.2770
 longitude: 73.9194
+score: 5.4
 ---
 
 As the sun goes down, the beach shacks that spent the day selling grilled fish become informal bars. The menu shrinks to drinks — cold Kingfisher beer, local feni distilled from cashew or coconut, and the occasional cocktail — and the chairs fill up with people watching the sky turn orange over the Arabian Sea.

@@ -8,6 +8,7 @@ tags:
 latitude: 37.079
 longitude: -8.265
 snippet: Boat excursions to the sea caves and grottos along Albufeira's western coastline
+score: 8.4
 ---
 
 The limestone cliffs west of Albufeira are riddled with sea caves, grottos, and arched rock formations that can only be reached by boat. Tours run from the dock below the old town and from Praia dos Pescadores, lasting between one and three hours depending on the route. The shorter trips take in the caves immediately west of town — Cathedral Cave, with its soaring vaulted ceiling, and the interconnected Xorino Grotto with shafts of light penetrating from holes in the ceiling above. Longer trips extend toward Praia de São Rafael and Praia da Coelha, where the cliff scenery is wilder.

@@ -14,6 +14,7 @@ story: >
   its collection of small sculptures dotted along the pavement — a bronze photographer, a
   bronze couple, a bronze newspaper seller — a tradition of urban art installations that
   began in the 1990s and has been added to periodically since.
+score: 6.9
 ---
 
 Weiner Street is Ekaterinburg's main pedestrian street, a broad boulevard closed to traffic and lined with shops, cafes, restaurants, and a collection of quirky bronze sculptures that invite photographs. It runs from the central square east toward the city's shopping district and is the natural place to spend an evening — street food vendors set up in summer, the cafes spill onto the pavement, and the street musicians range from folk to jazz to classical.

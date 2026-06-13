@@ -12,6 +12,7 @@ story: "The Iron Pillar of Delhi, standing in the Qutub complex's courtyard, was
 sources:
   - https://en.wikipedia.org/wiki/Qutb_Minar
   - https://en.wikipedia.org/wiki/Iron_pillar_of_Delhi
+score: 9.7
 ---
 
 The Qutub Minar complex in South Delhi is one of the most impressive architectural sites in India. The minaret itself — 73 metres of intricately carved red sandstone and marble, built in stages from 1193 — was the tallest brick minaret in the world when completed and remains extraordinary. You can no longer climb it (it was closed after a crush in the 1980s), but seen from the ground it is still overwhelming.

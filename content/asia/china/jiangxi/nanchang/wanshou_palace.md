@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 28.6810
 longitude: 115.8990
+score: 7.7
 ---
 
 Wanshou Palace (万寿宫) is a Taoist temple complex in the Donghu district, dedicated to Xu Xun (许逊), a Taoist immortal associated with Jiangxi who is said to have controlled a great flood in the region during the Jin dynasty. Xu Xun is Jiangxi's tutelary deity, and Wanshou Palace complexes exist throughout the province, but the Nanchang original — while repeatedly rebuilt — is the ancestral site of the cult. The current complex dates primarily to the Qing dynasty with more recent reconstructions.

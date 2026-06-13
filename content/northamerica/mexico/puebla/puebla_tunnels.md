@@ -8,6 +8,7 @@ tags:
 latitude: 19.0413
 longitude: -98.2050
 snippet: "500 years of tunnels under the historic centre — long dismissed as legend, confirmed by excavations in the 2000s"
+score: 6.8
 ---
 
 A network of underground passages running beneath the historic centre, built over several centuries for drainage, military movement, and escape routes. The tunnels were long regarded as urban legend — locals whispered about them but no one could verify their extent. Systematic excavations beginning in the early 2000s confirmed the network's existence and opened sections to the public.

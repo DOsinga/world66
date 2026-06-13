@@ -7,6 +7,7 @@ tags:
 - museum
 title: Sharur Regional Museum
 type: poi
+score: 6.5
 ---
 
 A small regional museum on Shakh Ismail Street documenting the history and archaeology of the Sharur district. Founded in 1978 and operating as a state institution since 1982, the collection holds around 6,000 items including archaeological finds from excavations in the surrounding area. Exhibits cover the region from ancient times through the medieval period.

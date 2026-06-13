@@ -13,6 +13,7 @@ story: >
   village elders kept the technique alive on commissioned pieces sold to
   visiting anthropologists, and the annual Sentani Festival since 2008 has
   brought it back as something young people are learning again.
+score: 8.7
 ---
 
 Lake Sentani lies a few kilometres west of Jayapura's airport, about 30 km from the city centre. It is the largest lake in Papua — 100 square kilometres of fresh water dotted with twenty-odd islands, most of them inhabited by villages built on stilts over the shallows. You can hire a longboat from the village of Yahim, near the airport road, for a half-day tour visiting two or three of the island communities.

@@ -10,6 +10,7 @@ longitude: 120.5478
 sources:
   - https://en.wikipedia.org/wiki/Capas_National_Shrine
 story: "After the surrender of Bataan in April 1942, around 75,000 Filipino and American prisoners were force-marched to Camp O'Donnell, the railhead at Capas. Some 25,000 Filipinos and 1,500 Americans died here in the first months of internment from disease, starvation, and abuse. The 70-metre obelisk at the centre of the shrine was inaugurated in 2003."
+score: 8.3
 ---
 
 The Capas National Shrine is the most important World War II site in the Philippines. The site is the former Camp O'Donnell, the destination of the Bataan Death March: a 110-km forced march of starving and wounded prisoners north from Bataan in April 1942. The shrine itself is a quiet, well-maintained park with a tall obelisk in white marble surrounded by the names of the dead inscribed on a low wall — over 25,000 of them.

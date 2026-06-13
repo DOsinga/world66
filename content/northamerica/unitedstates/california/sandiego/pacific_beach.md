@@ -8,6 +8,7 @@ tags:
 latitude: 32.7950
 longitude: -117.2550
 snippet: The young-and-loud beach neighbourhood — bars along Garnet Avenue, a wide boardwalk, and non-stop surf
+score: 6.5
 ---
 
 Pacific Beach is the beach neighbourhood north of Mission Beach, with a character that splits cleanly between the daytime beach scene and the nighttime bar scene along Garnet Avenue. The beach itself is wide and well-maintained, with a paved boardwalk connecting south to Mission Beach and north toward Crystal Pier. The surf is consistent; the crowd is young.

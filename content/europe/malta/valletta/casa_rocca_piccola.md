@@ -14,6 +14,7 @@ story: >
   conducts tours, combining family anecdotes with Knight-era history. The house contains
   a WWII air-raid shelter carved into the rock beneath the building, which sheltered
   up to 100 people during the siege of Malta.
+score: 8.7
 ---
 
 Casa Rocca Piccola is a 16th-century palazzo on Republic Street that has been continuously occupied by the same aristocratic family since 1580. The De Piro family were close to the Knights of St John, and the house contains an exceptional private collection of Knights' armour, furniture, paintings, and silver. Unlike the state museums, this is a lived-in house with personal character — silverware is out, family portraits line the walls, and the rooms feel inhabited rather than arranged.

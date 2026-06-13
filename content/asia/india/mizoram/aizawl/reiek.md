@@ -9,6 +9,7 @@ latitude: 23.6780
 longitude: 92.6030
 story: >
   Reiek is one of Mizoram's favourite festival settings. The Anthurium Festival has used the hill to show off both the flower that grows so well in the state and the dances, food, and village architecture that make Mizo culture feel distinct.
+score: 8.2
 ---
 
 Reiek is a mountain and village area west of Aizawl, high enough to give sweeping views over the hills and, on unusually clear days, toward the plains of Bangladesh. The slopes are green and cool, and the summit walk is short enough for most reasonably fit visitors.

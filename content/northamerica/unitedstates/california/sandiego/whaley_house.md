@@ -14,6 +14,7 @@ story: >
   to break his neck — he reportedly choked to death over fifteen minutes. Whaley later claimed he
   heard heavy footsteps in the upstairs rooms that matched the description of the dead man's size.
   The U.S. Commerce Department recognizes the house as one of the most haunted in America.
+score: 6.7
 ---
 
 The Whaley House in Old Town San Diego is the oldest two-storey brick structure in Southern California, built by merchant Thomas Whaley in 1857 and serving as a private home, commercial premises, and at various times the San Diego County courthouse, a granary, a billiard hall, and a theater. It is now maintained as a historic house museum and is considered one of the most authentically preserved Victorian homes in California.

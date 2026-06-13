@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.8
 ---
 
 A larger waterfront park immediately north of the Max Brewer Bridge, with picnic shelters, a boat ramp, a small fishing pier, and miles of unobstructed view across the lagoon toward Kennedy Space Center. Like Space View Park, Sand Point fills with launch spectators; outside launch days it is quiet and good for an afternoon walk.

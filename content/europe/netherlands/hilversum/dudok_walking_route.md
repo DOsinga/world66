@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.7
 ---
 
 Hilversum is essentially an open-air Dudok museum. The architect designed schools, housing, garages, fire stations, and a sewage works across the town between 1915 and 1965 — over 75 surviving buildings. A signed walking route, mapped out by the local tourist office, links the highlights in a 6–8 km loop.

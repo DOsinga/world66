@@ -13,6 +13,7 @@ story: >
   itself. The flow came within metres of the town before stopping — Princess Ruth Keelikolani
   reportedly walked out to the lava flow and chanted to Pele, and the lava stopped the next
   morning. The tubes are what was left after the molten interior drained away.
+score: 8.0
 ---
 
 The Kaumana Lava Tubes are among the most accessible lava tube systems in Hawaii and, unusually, completely free and unguarded. A short staircase descends from a roadside park into a collapse pit, and from there you can walk into the tubes in both directions. The main accessible section extends a few hundred metres; the tube narrows and requires crawling to go further. Bring a headlamp — the tubes are pitch dark — and wear clothes you don't mind getting dirty.

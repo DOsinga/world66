@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - shopping
+score: 4.3
 ---
 
 The cruise ship terminal on the north side of the harbour is wrapped around the duty-free shopping complex of Pointe Seraphine, where most visitors who arrive by ship spend their first hour ashore. The architecture is a pleasant pastel pastiche of Caribbean colonial vernacular, the shops are mostly chain-brand jewellery, perfume, and rum, and the dock has a steady stream of taxis and tour vans.

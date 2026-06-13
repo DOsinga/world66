@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - museum
 - niemeyer
+score: 5.4
 ---
 
 The Biblioteca Nacional Leonel de Moura Brizola completes the Niemeyer pair on the Esplanada — a long, low rectangular building facing the dome of the National Museum. Opened in 2006 alongside its partner, it contains over a million volumes and is open to the public for reading and use of facilities.

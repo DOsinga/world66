@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.5500
 longitude: 122.9000
+score: 6.7
 ---
 
 The Liao Dynasty castle ruins at Chengsijiazi, south of Baicheng, are among the few physical reminders in this part of Jilin that the region was controlled by successive nomadic empires long before the Chinese state established its current borders here. The Liao dynasty (916–1125 CE) was a Khitan empire that ruled a vast territory stretching from the steppes into northern China proper, and these ruins represent one of the administrative or military installations they maintained on the western frontier of Manchuria.

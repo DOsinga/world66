@@ -5,6 +5,7 @@ tags:
 - walk
 title: Old Town (Casco Viejo)
 type: poi
+score: 8.2
 ---
 
 Vitoria's old town is built on an elongated hill, and its street plan still reflects the medieval logic of the walled city. The main street that runs the length of the hill — now Calle Cuchillería and Calle Herrería — was lined with cutlers and blacksmiths; parallel lanes were given over to painters, tailors, and zapateros (cobblers). Many of the streets still bear these names, and some of the medieval house types survive.

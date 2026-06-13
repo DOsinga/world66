@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 65.0147
 longitude: 25.4758
+score: 7.4
 ---
 
 The Lutheran Cathedral of Oulu, completed in 1832 in a restrained Empire style by C. L. Engel — the German-born architect who shaped much of central Helsinki. The current building replaced an earlier wooden church destroyed in the Oulu fire of 1822.

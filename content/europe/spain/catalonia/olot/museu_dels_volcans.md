@@ -6,6 +6,7 @@ longitude: 2.4858
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 The Volcano Museum is the place to start a visit to the Garrotxa. Housed in the Torre Castanys, a Modernista mansion set in the Jardí Botànic on the southern edge of Olot, it explains the geological history of the area, the kind of eruptions that built the cones (small Strombolian events, not the catastrophic kind), and the seismology of north-east Catalonia — including the Olot earthquake of 1427-28, which destroyed much of the medieval town.

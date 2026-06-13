@@ -16,6 +16,7 @@ story: >
   earlier buildings going back to the 4th century. You can visit these
   archaeological sites — mosaic floors, Roman walls, a 5th-century baptistery
   — from a separate entrance on the south side.
+score: 9.0
 ---
 
 The Cathédrale Saint-Pierre dominates the Vieille Ville from its hilltop position, the old town's highest point. The current structure began in 1150 and took over 150 years to complete, which explains its architectural inconsistency: Romanesque nave, Gothic choir, and a Classical portico added in 1750 that looks like it belongs to a different building. Calvin stripped the interior of Catholic decoration in 1535, leaving a sober Protestant space that still feels notably bare by the standards of comparable medieval cathedrals.

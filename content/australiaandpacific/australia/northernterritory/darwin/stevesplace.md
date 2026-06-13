@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Steve's Place
 type: poi
+score: 4.9
 ---
 
 A casual bar on Cavenagh Street in the heart of Darwin's CBD. Straightforward drinks, no frills, and one of the more dependable spots in the city centre for a cold beer after a hot day.

@@ -10,6 +10,7 @@ story: >
   In 2022, plans to temporarily dismantle De Hef to allow Jeff Bezos's superyacht
   to pass through the harbour sparked a furious public backlash. Rotterdammers
   threatened to pelt the yacht with eggs. The plan was quietly dropped.
+score: 8.0
 ---
 
 A disused railway lift bridge over the Koningshaven, and one of Rotterdam's most recognisable silhouettes. De Hef (short for Hefbrug, "lift bridge") was built in 1927, badly damaged in the 1940 bombing, rebuilt, and finally retired from service in 1993 when the railway was rerouted through a tunnel. The city considered demolishing it, but public sentiment saved it — Rotterdammers are fiercely attached to this bridge.

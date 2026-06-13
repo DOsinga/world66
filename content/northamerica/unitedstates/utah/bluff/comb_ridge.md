@@ -13,6 +13,7 @@ story: >
   monocline — and simply cut a road down its face. San Juan Hill, as they called
   it, took weeks to chisel. The ruts from their wagon wheels are still visible
   in the sandstone.
+score: 8.6
 ---
 
 Comb Ridge is a 50-mile monocline — a long, knife-edged wall of tilted sandstone — that runs north from the Utah state line like a geological fence across the plateau. Its west face drops nearly 300 metres to the Comb Wash; the east side slopes gently away. The ridge is seamed with canyons, and those canyons hold an astonishing density of Ancestral Puebloan sites.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.6600
 longitude: 78.0800
+score: 7.1
 ---
 
 Ashok Sagar is a reservoir lake on the southwestern edge of Nizamabad, created by a dam on the Alisagar stream. It is a popular evening destination for local residents — a pleasant place to walk along the embankment, watch the light change over the water, and escape the heat and noise of the city centre.

@@ -11,6 +11,7 @@ tags:
   - sight
   - architecture
 neighbourhood: Baixa
+score: 7.9
 ---
 
 The **Cine-Teatro Gil Vicente** sits on Avenida 25 de Setembro in the Baixa, a few blocks from the Cinema Scala. Opened in 1949, designed by **João Ferreira Nunes** and **Manuel da Costa Mavioso**, it is a late Art-Deco masterpiece — pale plaster, curved corners, a long horizontal canopy and the original neon lettering still in place above the doors.

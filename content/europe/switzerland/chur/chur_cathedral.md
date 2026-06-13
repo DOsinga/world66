@@ -16,6 +16,7 @@ story: >
   examples of Carolingian craftsmanship.
 sources:
   - https://en.wikipedia.org/wiki/Chur_Cathedral
+score: 8.4
 ---
 
 Chur Cathedral, dedicated to the Assumption of the Virgin Mary, anchors the upper old town on a terrace above the Rhine valley. The current building was constructed between 1150 and 1272, though the site has been a place of Christian worship since the 4th century. The cathedral shows the fingerprints of several architectural traditions — Romanesque nave, Gothic choir, and decorative elements that reflect the city's position at the crossing of major Alpine trade routes.

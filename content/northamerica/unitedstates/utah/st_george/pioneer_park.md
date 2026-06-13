@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.1046
 longitude: -113.5960
+score: 7.0
 ---
 
 Pioneer Park sits on a red sandstone mesa at the western edge of town, accessible by a short but steep trail from 400 North Street. The mesa gives the best views of St. George and the surrounding valley — the white temple in the middle distance, the red cliffs of Snow Canyon to the north, and the broad sweep of the Mojave Desert stretching toward Nevada. A favourite spot for locals at sunrise and sunset.

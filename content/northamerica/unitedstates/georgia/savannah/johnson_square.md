@@ -9,6 +9,7 @@ tags:
 - sight
 title: Johnson Square
 type: poi
+score: 7.3
 ---
 
 The first and largest of Savannah's 22 squares, Johnson Square was laid out in 1733 and named for South Carolina's governor Robert Johnson. A tall obelisk at the centre marks the grave of Nathanael Greene, a Revolutionary War general. Christ Church, the oldest congregation in Georgia, faces the square from the east.

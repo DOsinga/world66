@@ -9,6 +9,7 @@ tags:
   - architecture
 snippet: A striking modern mosque in the Old Market combining Ottoman, Fatimid, and Mamluk styles.
 story: "Completed in 2017 and named for the Companions of the Prophet, the building is finished in pale limestone with two minarets of unequal height — a deliberate echo of historic Cairene mosques. The four interior pillars are designed to evoke the four Sunni schools of jurisprudence."
+score: 6.5
 ---
 
 Al Sahaba is the most visually arresting building in central Sharm — a large stone mosque rising over the Old Market with a layered, almost theatrical play of domes and arches. The architect, Fouad Tawfik Hafez, drew freely on Egyptian and Anatolian historic styles, mixing Ottoman cascade domes with Fatimid keel arches and Mamluk geometric inlay. The result is unmistakably new but reads as deeply traditional.

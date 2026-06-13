@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 15.4350
 longitude: 120.5550
+score: 5.8
 ---
 
 Hacienda Luisita is a 6,000-hectare sugar estate just south of Tarlac City — the biggest single landholding in the Philippines and one of the most politically loaded properties in the country. The Cojuangco family bought it in 1957 with a Central Bank loan that came with a condition (long ignored) to distribute land to the workers. From this estate came Cory Aquino, her son Noynoy (also president), and the policy debates that have defined Philippine land reform for forty years.

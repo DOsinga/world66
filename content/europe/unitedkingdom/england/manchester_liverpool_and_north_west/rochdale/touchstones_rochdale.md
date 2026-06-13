@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 53.6152
 longitude: -2.1620
+score: 7.4
 ---
 
 Touchstones is Rochdale's combined art gallery, local museum, and heritage centre, housed in a converted Victorian library building a short walk from the town hall. It holds a permanent collection of art and local history objects relating to the textile industry, the cooperative movement, and the town's social history, along with temporary exhibitions by regional and national artists.

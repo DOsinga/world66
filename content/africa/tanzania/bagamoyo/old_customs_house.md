@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: -6.4426
 longitude: 38.9061
+score: 7.6
 ---
 
 The Old Customs House stands directly on the shore opposite the old dhow harbour, a two-storey coral-stone building completed in 1895. For thirty years it was the chokepoint of the East African coastal trade: every elephant tusk and rubber bale arriving from the interior caravan routes and every bale of cotton or sugar leaving for Zanzibar passed through the doors and across the bonded warehouses behind.

@@ -9,6 +9,7 @@ tags:
   - swimming
   - neighbourhood
 snippet: Budva's main beach promenade stretching north from the old town
+score: 4.9
 ---
 
 Slovenska obala is the long promenade beach running north from the old town walls and fronted by Budva's main hotel strip. In July and August it is packed, noisy, and full of sun loungers rented at resort prices. Outside peak season it is a pleasant place to walk: the promenade is well-maintained, the water clean, and the view back to the old town's rooftops satisfying.

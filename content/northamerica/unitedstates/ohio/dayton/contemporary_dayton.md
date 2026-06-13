@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.76180
 longitude: -84.19030
+score: 6.1
 ---
 
 Contemporary Dayton (The Co) is a nonprofit art gallery in downtown that has served as the city's hub for contemporary and experimental visual art since 1991. The gallery mounts rotating exhibitions by regional, national, and international artists, with a particular interest in work that engages with social questions and local identity.

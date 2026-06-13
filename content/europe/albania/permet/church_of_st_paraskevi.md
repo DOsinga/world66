@@ -9,6 +9,7 @@ latitude: 40.2306
 longitude: 20.3541
 sources:
   - https://en.wikipedia.org/wiki/Church_of_St._Paraskevi_(P%C3%ABrmet)
+score: 6.4
 ---
 
 The Church of St. Paraskevi (Kisha e Shën Premtes) stands close to the river in the lower part of Përmet and is one of the town's two designated cultural monuments. It represents a good example of Byzantine-influenced Orthodox church architecture — the style that spread through the southern Albanian highlands during the Ottoman period, when Christian communities maintained their own places of worship under varying degrees of restriction.

@@ -9,6 +9,7 @@ longitude: -71.2133
 snippet: The world's largest winter carnival, held in February with ice sculptures and dog sledding
 sources:
   - https://en.wikipedia.org/wiki/Quebec_Winter_Carnival
+score: 8.2
 ---
 
 The world's largest winter carnival, held for two weeks in February. The Carnaval de Québec has taken place almost every year since 1955 and draws around 400,000 visitors to the city at the coldest time of year. Events include an ice palace (rebuilt each year), a night parade, ice canoe racing on the St. Lawrence (among the most gruelling events in winter sports), dog sledding, snow sculptures, and outdoor concerts.

@@ -7,6 +7,7 @@ tags:
 latitude: 44.1041
 longitude: 9.8195
 snippet: "Compact modern art museum in a converted palazzo"
+score: 6.8
 ---
 
 La Spezia's contemporary art museum occupies a converted palazzo near the city centre and holds a surprisingly good collection for a city this size. The permanent collection covers Italian modern art from the late 19th century onwards, with particular strength in the work of artists connected to Liguria and the Gulf of Poets — the stretch of coast that drew Shelley, Byron, and later the Futurists.

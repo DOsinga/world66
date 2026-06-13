@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Wood-fired grill and microbrewery — Anchorage's most reliable seafood place
+score: 6.7
 ---
 
 The most consistent restaurant in central Anchorage and the place to send people who want one good Alaska meal. A wood-fired grill turns out king salmon, halibut, scallops, and ribs; the brewery side of the operation produces a steady house IPA and a rotating cast of seasonals. The dining room has a great bell-shaped chimney down the middle and a wood-and-stone interior that feels Alaskan without being kitschy.

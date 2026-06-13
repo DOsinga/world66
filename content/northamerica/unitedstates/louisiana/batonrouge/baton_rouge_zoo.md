@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 30.5225
 longitude: -91.2100
+score: 5.8
 ---
 
 The Baton Rouge Zoo is a mid-sized municipal zoo in north Baton Rouge, with a collection focused on Louisiana and Gulf Coast species alongside more wide-ranging exhibits. The zoo covers around 140 acres in Greenwood Park, with natural habitat enclosures for American alligators, red wolves, Louisiana black bears, and a variety of birds native to the region.

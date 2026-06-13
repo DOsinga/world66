@@ -8,6 +8,7 @@ latitude: 23.7833
 longitude: 86.8167
 story: >
   Maithon was the first major dam of the Damodar Valley Corporation — itself India's first multi-purpose river basin authority, modelled directly on the Tennessee Valley Authority. The dam was opened in 1957 with the underground powerhouse on the Jharkhand side, an unusual arrangement that allowed it to keep producing power without flooding the reservoir behind it.
+score: 7.2
 ---
 
 Maithon is a large earth-and-masonry dam on the Barakar river, about an hour northwest of Asansol on the border with Jharkhand. The lake behind it stretches over 65 square kilometres at full capacity, with wooded islands and the Maithon Hills rising on the far shore.

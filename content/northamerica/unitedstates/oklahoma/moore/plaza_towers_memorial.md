@@ -10,6 +10,7 @@ latitude: 35.3256
 longitude: -97.5071
 snippet: Memorial to seven children killed in the 2013 EF5 tornado
 story: "Of the 24 people killed by the May 20, 2013 tornado, seven were third-grade children at Plaza Towers Elementary, where the storm scored a direct hit during the final week of the school year. The rebuilt school includes an above-ground reinforced storm shelter rated for EF5 winds — Oklahoma did not require school storm shelters before the disaster."
+score: 6.8
 ---
 
 The original Plaza Towers Elementary was destroyed by the EF5 tornado that crossed Moore on the afternoon of 20 May 2013, killing seven children sheltering in interior hallways. The school was rebuilt on the same site with hardened concrete and an above-ground tornado shelter built to FEMA's highest specification — the first of its kind in an Oklahoma public school.

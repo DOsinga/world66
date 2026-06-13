@@ -15,6 +15,7 @@ story: >
   cleared the site in the 20th century, the baray had been dry for centuries,
   leaving the temple stranded in the middle of a flat plain where a vast lake
   once stood.
+score: 7.5
 ---
 
 **East Mebon** is a 10th-century Hindu temple-mountain built on what was once an island in the centre of the East Baray, the huge reservoir that provided water for the eastern Angkor complex. Built by Rajendravarman II in 952 AD, it is dedicated to Shiva and closely resembles Pre Rup — both were designed by the same architect. The stone elephants at the corners of each level are among the best-preserved animal sculptures at Angkor, and the brick towers have good surviving carved decoration.

@@ -6,6 +6,7 @@ longitude: -87.6730
 tags:
   - things_to_do
   - sport
+score: 7.9
 ---
 
 From November through April a reliable cross-onshore wind blows along this stretch of the Gulf, and El Cuyo has quietly turned into one of the best kitesurfing spots in Mexico. The water is shallow for hundreds of metres out, the beach is long and largely empty, and the wind is steady at 15–25 knots on most afternoons.

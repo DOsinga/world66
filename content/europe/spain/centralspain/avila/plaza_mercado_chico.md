@@ -15,6 +15,7 @@ tags:
 - neighbourhood
 title: Plaza del Mercado Chico
 type: poi
+score: 6.4
 ---
 
 The Plaza del Mercado Chico is Ávila's main square, the social heart of the walled city and the place where the town hall stands. It is a proper working square — cafés, the covered market building, residents going about their business — and a useful orientation point inside the walls. The architecture is handsome but not showy: the 18th-century town hall with its clock tower is the most prominent building, and the surrounding streets running off the square are typical of the compact, stone-built old town.

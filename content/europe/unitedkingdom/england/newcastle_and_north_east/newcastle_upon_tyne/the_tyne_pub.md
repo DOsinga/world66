@@ -8,6 +8,7 @@ tags:
 - pub
 - ouseburn
 snippet: Quayside Ouseburn pub with a beer garden in a tunnel under the viaduct
+score: 6.8
 ---
 
 A scruffy, lively pub on the Quayside immediately under the Glasshouse Bridge railway viaduct in the Ouseburn. The beer garden sits in a tunnel beneath the railway, hung with string lights and decorated by the regulars. Bands play most weekend nights and the kitchen does respectable pub plates.

@@ -14,6 +14,7 @@ story: >
   and most of his fortune building a full Gothic Revival castle complete with towers,
   battlements, and a drawbridge — overlooking a city that already had several genuine
   medieval castles.
+score: 6.5
 ---
 
 An anomaly among the hills above Genoa: a full Gothic Revival castle built by a Scottish entrepreneur at the turn of the 20th century. Evan Mackenzie, who imported Scottish woollen goods into Liguria, commissioned the building in 1893 as a private residence on a scale that suggested he intended to stay permanently. The result is the most extravagant private house in Liguria — towers, turrets, frescoed halls, and a garden with panoramic views over the city and sea.

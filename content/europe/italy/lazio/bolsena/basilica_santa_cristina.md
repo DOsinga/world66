@@ -8,6 +8,7 @@ title: Basilica of Santa Cristina
 type: poi
 story: >
   The Miracle of Bolsena occurred in 1263 when a Bohemian priest, troubled by doubts about transubstantiation, was celebrating Mass in the basilica. Blood reportedly began seeping from the consecrated host onto the corporale — the linen cloth beneath it. Pope Urban IV, then at nearby Orvieto, was informed of the event and instituted the Feast of Corpus Christi the following year. The blood-stained corporale is still kept at Orvieto Cathedral.
+score: 7.8
 ---
 
 The Basilica of Santa Cristina occupies the site where, according to tradition, the early Christian martyr Cristina was tortured and thrown into the lake in the third century. The church was built and rebuilt over the centuries; the current facade dates from the early sixteenth century. Beneath the main church lie a series of catacombs and an ancient oratory with early Christian frescoes.

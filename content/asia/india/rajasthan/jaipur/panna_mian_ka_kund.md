@@ -10,6 +10,7 @@ longitude: 75.8469
 address: Near Amber Fort, Amer, Jaipur
 snippet: Beautifully preserved 16th-century stepwell in the shadow of Amber Fort
 story: "The stepwell was built by Panna Mian, a trusted keeper of Amber's harem, in the 16th century. Stepwells of this scale required enormous patronage — this one, built by a servant rather than a king, reflects the extraordinary power some household officials wielded at the Rajput courts."
+score: 7.5
 ---
 
 This stepped well (baoli) is one of the most beautiful and least visited monuments in the Jaipur area — a geometric descent of stone steps and arched galleries carved in warm sandstone, sitting directly below the walls of Amber Fort. Despite being a few hundred meters from one of India's most photographed buildings, Panna Mian ka Kund receives a fraction of the visitors.

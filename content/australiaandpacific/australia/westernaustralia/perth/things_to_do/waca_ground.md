@@ -8,6 +8,7 @@ tags:
 latitude: -31.9600
 longitude: 115.8762
 story: "The WACA (Western Australian Cricket Association) ground was long considered one of the fastest and bounciest pitches in world cricket, a characteristic attributed to the 'Fremantle Doctor' — the afternoon sea breeze from the Indian Ocean that cools Perth on hot days and also affects the behaviour of the pitch. Visiting batsmen dreaded it; WA pace bowlers loved it."
+score: 6.7
 ---
 
 The WACA Ground in East Perth is one of Australia's historic cricket venues, home to Western Australian cricket since the 1890s. International Test matches are still occasionally played here, though Perth's big fixtures have largely shifted to the new Optus Stadium since 2018. The WACA remains an active venue for domestic cricket and the occasional international match, and if you have any interest in cricket history it is worth coming to see it. The ground has that battered, working character of a genuinely used sporting venue rather than the corporate polish of the newer stadium.

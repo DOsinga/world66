@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: -7.15
 longitude: 35.72
+score: 7.4
 ---
 
 A seasonal wetland in the flooded margins of the Mtera Reservoir, reached by turning west at Chipogoro and following the track to Logi village. The mbuga (the Swahili word for the seasonally flooded grassland plains characteristic of this part of Tanzania) fills in the rainy season and contracts in the dry months, concentrating birds along its retreating edges.

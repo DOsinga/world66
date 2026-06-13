@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.626278
 longitude: 115.816972
+score: 4.8
 ---
 
 The Nanchang International Sport Center in the southern part of the city is the province's main large-scale sporting venue, hosting professional football matches, athletic events, and occasional concerts. The stadium's modern architecture is notable by provincial Chinese standards; when it is lit up for a night football match, it makes for a striking spectacle along the southern skyline.

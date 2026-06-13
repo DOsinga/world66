@@ -9,6 +9,7 @@ tags:
 - architecture
 title: Bayertor
 type: poi
+score: 8.5
 ---
 
 One of the best-preserved late-Gothic city gates in southern Germany, the Bayertor rises 36 metres over the eastern edge of the old town. Built in 1425 by Duke Ludwig the Bearded as part of Landsberg's second ring of fortifications, it carries an elaborate sculptural program — coats of arms, an enormous Crucifixion group, and a Mary-and-Child Virgin in a niche — all carved straight onto the tower face.

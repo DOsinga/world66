@@ -7,6 +7,7 @@ tags:
 - nature
 title: Muradiye Waterfall
 type: poi
+score: 6.4
 ---
 
 Muradiye Waterfall (Muradiye Şelalesi) is on the Bendimahi River about 80 km north of Van, near the small town of Muradiye. The falls themselves are wide rather than tall — water spills over a thirty-metre lip in a long curtain — but the setting is genuinely pretty: a green river canyon set into otherwise arid uplands.

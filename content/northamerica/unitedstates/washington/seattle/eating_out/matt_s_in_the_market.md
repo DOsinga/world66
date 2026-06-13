@@ -10,6 +10,7 @@ tags:
 neighbourhood: Pike Place Market
 sources:
   - https://en.wikipedia.org/wiki/Matt%27s_in_the_Market
+score: 7.6
 ---
 
 Matt's in the Market sits on the third floor of the Corner Market Building at Pike Place, up a narrow staircase that most tourists miss. The dining room is small and has the feeling of a private club: a few tables, a small bar, and views across the market stalls to the Sound. The menu changes daily based on what the market has that morning, which means the fish and produce are as fresh as anywhere in the city.

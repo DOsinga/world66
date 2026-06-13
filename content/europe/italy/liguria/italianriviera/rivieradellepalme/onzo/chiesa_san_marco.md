@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0667
 longitude: 8.05
+score: 6.3
 ---
 
 The parish church of San Marco stands at the heart of Onzo's medieval village centre, its Romanesque-influenced campanile visible from the surrounding hillsides. Like most churches in the Ligurian hinterland, it has been altered over centuries — the current building incorporates medieval fabric with later Baroque additions to the interior — but the setting against the old stone houses of the village is attractive.

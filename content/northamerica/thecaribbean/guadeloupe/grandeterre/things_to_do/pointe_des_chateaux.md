@@ -8,6 +8,7 @@ latitude: 16.2283
 longitude: -61.3067
 story: >
   The name "Châteaux" — castles — comes from the castellated appearance of the eroded limestone stacks rising from the sea at the point. From a distance they do look like the broken towers of a submerged fortress, which gave sailors a vivid navigational landmark on what was otherwise an undistinguished coastline.
+score: 8.9
 ---
 
 Pointe des Châteaux is the rocky eastern tip of Grande-Terre, where the flat Caribbean island becomes something else entirely — a windswept headland of jagged limestone cliffs, pounding Atlantic surf, and views stretching to the islands of La Désirade and Marie-Galante on the horizon. It is the most dramatic scenery on Grande-Terre and a complete contrast to the calm beach towns on the south coast.

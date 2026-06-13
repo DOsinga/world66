@@ -9,6 +9,7 @@ tags:
 latitude: 47.5112
 longitude: 8.6993
 snippet: A well-preserved 17th-century manor house in Winterthur's western district, open as a restaurant
+score: 6.1
 ---
 
 Schloss Wülflingen is a handsome manor house built in the 1640s on the site of an older castle in the western district of Wülflingen, now incorporated into the city. The white-rendered building with its corner tower and formal garden is one of the best-preserved examples of Swiss early-modern domestic architecture in the canton of Zurich.

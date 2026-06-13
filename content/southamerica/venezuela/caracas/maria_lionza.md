@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "María Lionza is the central figure of Venezuela's syncretic folk religion — an Indigenous earth-mother goddess who, in the popular version, rides a tapir and protects the forests of the Sorte mountain in Yaracuy state. Pilgrims gather there each October, particularly on the night of 12 October, to invoke her in candle-lit ceremonies."
+score: 6.4
 ---
 
 Alejandro Colina's 1951 bronze statue of María Lionza, the Indigenous goddess of the Sorte mountain in Yaracuy, is the most recognisable Venezuelan public sculpture. It shows a powerful nude woman holding a pelvis aloft while riding a tapir — a deliberate fusion of Indigenous, African, and European imagery, sculpted in the heroic socialist-realist scale of the period.

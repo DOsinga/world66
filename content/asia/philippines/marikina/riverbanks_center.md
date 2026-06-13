@@ -8,6 +8,7 @@ latitude: 14.6311
 longitude: 121.0820
 sources:
   - https://en.wikipedia.org/wiki/Riverbanks_Center
+score: 5.4
 ---
 
 Riverbanks Center is a commercial and recreational complex on the western bank of the Marikina River, directly adjacent to the river park. It combines a shopping mall, food court, market stalls, and a small amusement area in a setting that takes advantage of the riverfront. The complex is more interesting than a typical Philippine mall because of its position — the river terrace has outdoor seating with decent views, and the whole development is well-integrated with the adjacent park.

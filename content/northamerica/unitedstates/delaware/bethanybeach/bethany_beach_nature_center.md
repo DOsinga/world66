@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.5356
 longitude: -75.0645
+score: 6.4
 ---
 
 The Bethany Beach Nature Center at 807 Garfield Parkway is a small natural history centre run by the town, with walking trails through coastal marshland and interactive exhibits about the local ecosystem. It's a good stop for families with children who want a break from the beach, or for anyone interested in the birds and wildlife of the Delaware coast.

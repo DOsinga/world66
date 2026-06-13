@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The mountain's name means 'the anvil,' for its unmistakable flat top. When Columbus sighted it from sea on 27 November 1492, he wrote in his journal of 'a high square mountain that looks like an island' — the first European description of any Cuban landmark."
+score: 9.0
 ---
 
 The flat-topped 575-metre mountain that dominates the bay of Baracoa is one of the most recognisable landmarks in Cuba. It is also climbable — a four-to-five hour round trip on a steep, sometimes slippery trail through the protected Cuchillas del Toa Biosphere Reserve, with a swim in a river pool at the start and the summit's panoramic view of mountains and sea at the end.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 56.0585
 longitude: -2.7178
+score: 5.3
 ---
 
 A traditional Scottish pub on Forth Street in the centre of town, with a good rotation of Scottish ales, an open fire in winter, and a stone-walled room that has been a pub for over a century. Locals and visitors mix in roughly equal measure.

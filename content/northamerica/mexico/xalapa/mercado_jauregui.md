@@ -8,6 +8,7 @@ tags:
   - mexican
 latitude: 19.5268
 longitude: -96.9198
+score: 7.1
 ---
 
 The Mercado Jáuregui is the city's main covered market — a sprawling building of stalls selling fresh produce, meat, cheese, and prepared food in the Mexican market tradition. For travellers, the food stalls at the back are the main draw: market women serving chalupas (small oval masa cakes with salsa and toppings), chileatole, and bowls of caldito (a clear broth served as breakfast in Veracruz). Prices are very cheap, portions generous, and the atmosphere is the genuine pulse of daily Xalapan life.

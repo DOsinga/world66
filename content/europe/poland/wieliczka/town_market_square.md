@@ -7,6 +7,7 @@ tags:
 - sight
 type: poi
 snippet: The quiet medieval market square above the famous underground mine
+score: 5.8
 ---
 
 Wieliczka's market square is a pleasant surprise for visitors who have spent the morning underground. It is a proper small Polish town centre — cobbled, surrounded by modest townhouses, with a Gothic church at one corner — and almost entirely free of the tourist crowds that queue at the mine entrance nearby.

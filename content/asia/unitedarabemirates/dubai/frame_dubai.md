@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Dubai Frame
 type: poi
+score: 7.1
 ---
 
 The Dubai Frame is a 150-metre-tall picture frame-shaped structure standing at the edge of Zabeel Park, deliberately positioned so that the older parts of Dubai appear through one side of the frame and the modern skyline through the other. It opened in 2018 and was designed by Mexican architect Fernando Donis, though the project was mired in a dispute about unpaid design fees.

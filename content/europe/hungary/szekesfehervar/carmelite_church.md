@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 47.1895
 longitude: 18.4100
+score: 6.8
 ---
 
 The Carmelite Church (Karmelita templom) on Petőfi utca is a small baroque church easily missed from outside but worth stepping into. The interior is unusually theatrical for a small parish church, with fresco cycles by Caspar Franz Sambach covering the ceiling and side walls — biblical scenes painted in trompe-l'œil to extend the architecture.

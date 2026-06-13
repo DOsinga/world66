@@ -6,6 +6,7 @@ longitude: 38.1330
 tags:
   - things_to_do
   - museum
+score: 6.4
 ---
 
 The Konniy Dvor (Horse Yard) is an 18th-century stable and service complex that once belonged to the Trinity Lavra, now converted into a museum and exhibition space for applied arts and handicrafts associated with Sergiev Posad and the surrounding region. The main collection focuses on traditional Russian decorative arts — carved wood, embroidered textiles, painted lacquerware — with a particular emphasis on the toy-making traditions of the town.

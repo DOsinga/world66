@@ -13,6 +13,7 @@ story: >
   tradition was adopted by the Royal Navy from the Knights' own saluting practice and has
   continued uninterrupted — through two world wars, independence, and into the present —
   making it one of Malta's most enduring daily rituals.
+score: 8.0
 ---
 
 The Saluting Battery sits in the bastions directly below the Upper Barrakka Gardens, commanding the Grand Harbour entrance. A noon cannon is fired here every day, a tradition maintained for over two centuries since the British naval period. The battery has been restored to working condition with period artillery, and the cannon fire at noon draws a small crowd daily — you can watch from the gardens above or, better, from the battery itself.

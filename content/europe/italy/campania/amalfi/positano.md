@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Positano was a working fishing village barely noticed by the outside world until John Steinbeck wrote about it in Harper's Bazaar in 1953. His essay declared it 'a dream place that isn't quite real when you are there and becomes beckoningly real after you have gone.' The article triggered a wave of visitors that never really stopped, and the village's transformation into an upscale resort was essentially complete within a decade."
+score: 7.5
 ---
 
 Positano is the most photographed town on the Amalfi Coast — a cascade of pink, white, and terracotta houses tumbling down a steep hillside to a small beach and a waterfront where the church of Santa Maria Assunta stands with its majolica-tiled dome. The architecture photographs magnificently; the experience of being there in high summer, when the lanes are jammed with tourists, is less so.

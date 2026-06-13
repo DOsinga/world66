@@ -6,6 +6,7 @@ tags:
 - activities
 title: Squash
 type: poi
+score: 3.2
 ---
 
 **Recommendations**

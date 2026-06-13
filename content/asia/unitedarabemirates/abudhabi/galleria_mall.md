@@ -7,6 +7,7 @@ tags:
 neighbourhood: Al Maryah Island
 latitude: 24.5009
 longitude: 54.3877
+score: 5.1
 ---
 
 The high-end mall on Al Maryah Island, slightly newer and shinier than the older Marina Mall on the western Corniche. The luxury-brand corridor is the main draw: Cartier, Bulgari, Dolce, Hermès, all the rest. There is also a serviceable food court and a row of waterfront restaurants opening onto the promenade outside.

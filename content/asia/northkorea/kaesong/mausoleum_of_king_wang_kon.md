@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 37.9847
 longitude: 126.5056
 story: "The original tomb was a modest mound. The current monumental form — wide stone-paved approach, ranks of carved guardians, paired stone pavilions — was built in 1994 on the orders of Kim Il Sung, who wanted to emphasise the historical continuity of Korean statehood. The bones inside, reburied with full ceremony, are said to be those of Wang Kon."
+score: 8.1
 ---
 
 The Hyollung Royal Tomb, west of Kaesong, holds the remains of Wang Kon (T'aejo) — the founder of the Koryo dynasty in 918 and the king who unified the Korean peninsula. The site is one of the grandest royal tombs on the peninsula, though most of what you see was reconstructed in the 1990s on a much larger scale than the original.

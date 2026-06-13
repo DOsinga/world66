@@ -9,6 +9,7 @@ tags:
 - georgian_quarter
 title: The Art School
 type: poi
+score: 6.0
 ---
 
 Chef Paul Askew's fine dining restaurant in a converted Victorian Liverpool Institute building tucked away off Hope Street. The room — high ceilings, white tablecloths, classical music — sets the tone; the cooking is precise modern British, sourced heavily from the Wirral, the Isle of Man and the Lake District.

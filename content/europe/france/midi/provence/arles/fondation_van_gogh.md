@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.6781
 longitude: 4.6256
+score: 7.4
 ---
 
 Van Gogh spent fifteen months in Arles from February 1888 and produced over 200 canvases here, including Sunflowers, The Bedroom, and Café Terrace at Night. The Fondation Vincent van Gogh occupies the Hôtel Léautaud de Donines and is dedicated to keeping his legacy alive in the city that inspired so much of his finest work.

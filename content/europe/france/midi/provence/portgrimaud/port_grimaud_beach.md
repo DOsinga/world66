@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.2685
 longitude: 6.5808
+score: 6.4
 ---
 
 The long sandy beach at the entrance to Port Grimaud stretches along the Gulf of Saint-Tropez and is one of the better public beaches on this stretch of coastline. The sand is fine, the water clear, and the sheltered bay means it is usually calm. Sun loungers are available for hire on the organised sections of the beach; free sections exist towards the edges.

@@ -9,6 +9,7 @@ latitude: -2.528
 longitude: -44.303
 story: >
   The Bumba Meu Boi festival at the centre of this museum's collection is one of the most culturally complex folk traditions in Brazil, mixing Portuguese, African, and indigenous elements into a spectacle of elaborate costumes, intricate music, and ritual drama. The festival re-enacts a folk tale about a bull, the master's slave who kills it, and the miraculous resurrection — but the meaning has accumulated layers over centuries.
+score: 8.3
 ---
 
 The Centro de Cultura Popular is a museum dedicated to the folk traditions of Maranhão, with particular focus on the Bumba Meu Boi festival — the city's most important cultural event. The collection includes magnificent festival costumes decorated with elaborate embroidery, sequins, feathers, and mirrors; musical instruments; photographs; and video documentation of the festival itself.

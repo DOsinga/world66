@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -23.9158
 longitude: 152.3942
+score: 8.3
 ---
 
 Lady Musgrave Island sits within a large coral lagoon — one of the few true enclosed lagoons on the Great Barrier Reef — which makes for unusually calm snorkelling in a protected setting. Day trips operate from Gladstone Marina (the boat trip is about 90 minutes each way), and it is possible to camp on the island for several nights with a permit.

@@ -8,6 +8,7 @@ tags:
 - nature
 title: Marinella di Palmi
 type: poi
+score: 7.4
 ---
 
 Marinella di Palmi is a small coastal area below the town, part of the broken, rocky shoreline that makes the Costa Viola so scenic. It is less about resort convenience and more about clear water, cliffs, and the pleasure of finding a quieter corner.

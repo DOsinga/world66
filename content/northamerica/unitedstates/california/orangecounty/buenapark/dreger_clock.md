@@ -13,6 +13,7 @@ story: >
   installed in 1953. Its 19 dials track local time, the time in a dozen cities
   across six continents, the phase of the moon, the date, and the day of the
   week — an oddly ambitious piece of public art for a suburban street corner.
+score: 4.8
 ---
 
 The Dreger Clock stands near the civic centre and is worth a few minutes of your time if you happen to pass it. The tower displays 19 different dials simultaneously: local California time, the hour in New York, Liverpool, Paris, Berlin, Saint Petersburg, Melbourne, Rio de Janeiro, Buenos Aires, Hong Kong, Tokyo, Rome, and Mexico City, plus the moon phase and the date.

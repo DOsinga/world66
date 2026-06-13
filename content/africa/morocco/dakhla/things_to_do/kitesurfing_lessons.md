@@ -7,6 +7,7 @@ tags:
   - activity
 latitude: 23.6690
 longitude: -15.9550
+score: 8.8
 ---
 
 The lagoon shore south of Dakhla town is lined with kite schools offering everything from first-timers' introductions to advanced coaching. Most operate on a week-based model — daily tuition with the same instructor, equipment included — which makes sense given that any meaningful progress in kitesurfing takes several days. The instructors at the established schools are generally experienced; many are European or South African riders who came for a season and stayed.

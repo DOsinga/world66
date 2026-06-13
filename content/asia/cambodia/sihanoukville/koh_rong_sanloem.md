@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.6500
 longitude: 103.3000
+score: 7.5
 ---
 
 Koh Rong Sanloem is Koh Rong's smaller, calmer sister, about an hour by boat from the mainland. The east coast village of Saracen Bay is the main hub — a single curving beach with a line of small resorts; the west coast has wilder, less developed bays reached by a hike across the island.

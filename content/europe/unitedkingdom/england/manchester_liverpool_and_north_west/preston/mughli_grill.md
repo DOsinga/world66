@@ -7,6 +7,7 @@ tags:
   - eating_out
   - deepdale
   - restaurant
+score: 6.3
 ---
 
 A long-established Pakistani charcoal-grill house on New Hall Lane in Deepdale — the kind of place that does seekh kebabs, lamb chops, and tandoori chicken with serious confidence, all from a clay tandoor visible behind the counter. The biryanis are excellent; the lassis are the real deal. Vegetarians are well served by the dal makhani and the saag paneer.

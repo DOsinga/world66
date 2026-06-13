@@ -13,6 +13,7 @@ story: >
   scattered across Jeju Island are called oreum, and many are still well-formed
   cones — the landscape gives Jeju a distinctly alien quality compared with the
   mainland Korean landscape.
+score: 9.4
 ---
 
 Hallasan is the dominant feature of Jeju Island, an extinct volcano rising to 1,950 metres — South Korea's highest peak. The UNESCO World Heritage designation covers Hallasan and its surrounding volcanic formations. Four main trails lead to the summit; the Seongpanak and Gwaneumsa routes are the most dramatic and reach the summit crater lake (Baengnokdam), while the shorter Yeongsil and Eorimok trails offer impressive lava formations and views without the full summit climb.

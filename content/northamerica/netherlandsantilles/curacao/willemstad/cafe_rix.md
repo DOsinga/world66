@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 12.1042
 longitude: -68.9267
+score: 6.2
 ---
 
 Café Rix is one of the anchors of the Pietermaai bar scene: an open-fronted bar in a beautifully restored colonial house with a long counter, deep wooden shutters, and a crowd that skews young and local on weeknights. They serve a good selection of Curaçaoan rum, Amstel beer (brewed on the island), and cocktails built around Blue Curaçao that are less tacky than you would expect.

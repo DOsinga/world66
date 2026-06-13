@@ -11,6 +11,7 @@ story: >
   common throughout Liguria as the Church absorbed local sacred sites.
   The current baroque structure hides the much older spiritual geography
   underneath it.
+score: 6.9
 ---
 
 The hillside shrine of Nostra Signora della Misericordia at the hamlet of Eremita is one of the more interesting religious sites in the valley. It was built over an earlier pagan temple and later renovated and enlarged during the baroque period, leaving it with a layered history that the exterior alone does not suggest.

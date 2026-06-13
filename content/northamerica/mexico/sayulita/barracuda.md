@@ -9,6 +9,7 @@ tags:
   - seafood
 sources:
   - https://www.yelp.com/biz/barracuda-sayulita
+score: 6.0
 ---
 
 Barracuda is on Calle Delfines, right in the middle of Sayulita's most atmospheric street, and it does very well with fresh fish. The tuna tostadas are the dish that gets mentioned most often — slices of sushi-grade tuna on crisp tortillas with avocado, cucumber, and a light dressing that stays out of the fish's way. Order them alongside something grilled and you have a solid meal.

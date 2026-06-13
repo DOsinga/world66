@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Villa Caruso Steakhouse
 type: poi
+score: 6.0
 ---
 
 A family-run steakhouse on the corner of Connaught Drive and Hazel Avenue, Villa Caruso has been a Jasper fixture for years. The atmosphere is warm and unpretentious -- checked tablecloths, wood-panelled walls, and staff who clearly enjoy what they do.

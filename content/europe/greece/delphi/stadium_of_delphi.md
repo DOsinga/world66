@@ -6,6 +6,7 @@ tags:
   - sight
 title: Stadium of Delphi
 type: poi
+score: 8.4
 ---
 
 The stadium at Delphi is the highest point of the sanctuary and the best preserved ancient stadium in Greece, its starting and finishing lines still visible in the stone. It held 6,500 to 7,000 spectators and was used for the Pythian Games — athletics, chariot racing, and other competitions held every four years in honour of Apollo. The current stone structure dates from the 2nd century AD, paid for by the Athenian millionaire Herodes Atticus, who paid for similarly lavish restorations at several major Greek sites.

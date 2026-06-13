@@ -14,6 +14,7 @@ story: >
   conservation movement rallying against the project. The smelter was
   eventually built elsewhere, and the argument laid groundwork for the
   environmental protection framework that was eventually applied to the fjord.
+score: 8.2
 ---
 
 The Aurlandsfjord is the branch of the Sognefjorden running south from its junction to the village of Flåm. It is about 29 kilometres long, narrowing as it goes, with steep mountain walls that rise directly from the water. Flåm, at the very head of the fjord, is the main base for the inner Sognefjorden — a small village that receives an extraordinary number of visitors given its size, principally because the Flåmsbana railway terminates here and the fjord cruise boats call in.

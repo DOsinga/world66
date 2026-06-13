@@ -15,6 +15,7 @@ tags:
   - sight
 title: Pokrovsky Monastery
 type: poi
+score: 7.8
 ---
 
 Pokrovsky (the Intercession Convent) sits on the opposite bank of the Kamenka from the town, reached by a short walk across the river meadows. It is an active convent today, which gives it a quiet, lived-in atmosphere different from the more museum-like monuments elsewhere in Suzdal. The white bell tower and domed church above the river make one of the best photographs in town.

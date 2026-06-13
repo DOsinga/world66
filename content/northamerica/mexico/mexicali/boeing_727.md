@@ -9,6 +9,7 @@ tags:
 - sight
 story: >
   In April 2012, Discovery Channel and the Mexican government deliberately crashed a remotely piloted Boeing 727 in the Mexicali desert to study survivability. Crash dummies in different seat positions revealed that passengers seated near the back of the plane and bracing for impact had the best chances of surviving — a finding that has shaped airline safety advice ever since.
+score: 5.4
 ---
 
 About an hour's drive south of Mexicali on the highway toward San Felipe lies the wreckage of a Boeing 727 that was deliberately crashed for a 2012 Discovery Channel documentary called "Curiosity: Plane Crash". The aircraft was flown remotely after the crew bailed out, then guided into a controlled impact in the Sonoran Desert. Crash test dummies were placed in different seat positions to study which areas of a plane offered the best survival chances.

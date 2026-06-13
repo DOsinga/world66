@@ -10,6 +10,7 @@ latitude: 38.116
 longitude: 13.374
 story: >
   Lo Steri was used as the seat of the Spanish Inquisition from 1601 to 1782. The cells in the basement preserve some of the most extraordinary prisoner graffiti anywhere in Europe — drawings, prayers, calendars, complete writings in Latin, Italian, and Spanish, scratched onto the walls over more than a century. The work has been carefully studied and is now legible on guided tours.
+score: 8.2
 ---
 
 The Palazzo Chiaramonte — known locally as Lo Steri — was built in 1320 by the powerful Chiaramonte family in the Norman-Gothic style that became known as Chiaramontese, the dominant idiom of 14th-century Sicilian architecture. The exterior is sober: two storeys of dressed limestone with elegant double-arched windows facing the harbour-side Piazza Marina.

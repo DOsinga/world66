@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 type: poi
 snippet: The rough-edged port neighbourhood where Paganini was born
+score: 7.6
 ---
 
 The Pré neighbourhood stretches between the train station at Piazza Principe and the old port, and it is the most genuinely urban — and genuinely rough — part of the old city. The caruggi here are narrower and darker than in the more touristed areas; the shops are African hairdressers, South Asian grocery stores, and late-night snack bars. It is a neighbourhood in the middle of transition, not yet gentrified, still very much itself.

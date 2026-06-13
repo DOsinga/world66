@@ -8,6 +8,7 @@ snippet: The long jacaranda-shaded avenue that traces the centre of the city
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 **Avenida 24 de Julho** is the main artery of central Maputo, running east–west through the heart of the city from the Baixa up to Polana and beyond. The street is named for the date in 1875 when Lourenço Marques became a town. It is wide, treelined for much of its length, and lined with mid-century apartment blocks and offices that show the Art Deco confidence of late colonial Maputo.

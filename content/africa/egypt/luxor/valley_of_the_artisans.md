@@ -7,6 +7,7 @@ tags:
 latitude: 25.731500
 longitude: 32.619000
 snippet: "Cluster of New Kingdom nobles' tombs on the West Bank hillside, less visited than the royal valleys"
+score: 7.2
 ---
 
 The hill of Sheikh Abd el-Qurna on the West Bank contains dozens of non-royal tombs belonging to nobles, officials, and court figures of the New Kingdom. These are not the tombs of pharaohs but of the people who ran Egypt: viziers, royal scribes, high priests, and army commanders. The paintings in these tombs often show scenes of daily life — agricultural work, banquets, craftsmanship — that the royal tombs rarely depict.

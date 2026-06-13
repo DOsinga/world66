@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 5.9
 ---
 
 A small wooded island just north of the town centre, reached by a foot bridge across a narrow channel. Walking paths, a beach, picnic benches, the open-air museum next door, and a sauna by the water that the town keeps open in summer.

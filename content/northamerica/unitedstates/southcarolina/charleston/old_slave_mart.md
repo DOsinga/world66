@@ -14,6 +14,7 @@ story: >
   The building was later used as a tenement, a jail, a museum of Civil War memorabilia, and
   a garage, before opening in 2007 as an honest museum about what actually happened here.
   It is the only surviving structure in South Carolina where enslaved people were auctioned.
+score: 8.2
 ---
 
 The only surviving slave auction building in South Carolina, and one of the most important sites in Charleston for understanding the history of the slave trade. Located on Chalmers Street in the French Quarter, Ryan's Mart at 6 Chalmers was the largest slave-dealing complex in the city, handling thousands of auctions per year in the antebellum period.

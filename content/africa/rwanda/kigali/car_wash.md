@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -1.9353
 longitude: 30.0861
+score: 6.2
 ---
 
 Car Wash is one of Kigali's most popular outdoor bars and a fixture of the city's weekend nightlife, named after its original occupant on a busy Remera street. The open-air terrace fills up on Friday and Saturday nights with a mixed crowd of Rwandans, expats, and visiting Africans from across the continent. The music tends toward Afrobeats, Congolese rumba, and the local Rwandan pop called Kinyarwanda. Primus flows freely and the place gets loud and crowded after 10pm.

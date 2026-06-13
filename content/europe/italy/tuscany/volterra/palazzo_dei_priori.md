@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.5
 ---
 
 Begun in 1208 and finished by 1257, the Palazzo dei Priori is the oldest town hall in Tuscany — pre-dating the more famous Palazzo Vecchio in Florence by half a century. The crenellated facade, set with the terracotta arms of Florentine podestà who governed the city after 1472, is a textbook example of early Tuscan civic Gothic.

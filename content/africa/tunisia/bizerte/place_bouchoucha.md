@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.2768
 longitude: 9.8742
+score: 6.4
 ---
 
 Place Bouchoucha is the small public square at the heart of the old town — the meeting point of the medina, the old port, and the lane leading up to the Spanish Fort. The Great Mosque is on one side; the Youssef Dey fountain (still functioning as a public drinking-water point) is on another; small cafés ring the rest of the perimeter.

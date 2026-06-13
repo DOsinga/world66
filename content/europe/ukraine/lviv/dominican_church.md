@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Dominican_Church,_Lviv
 story: >
   The Dominican Church has had a turbulent history. Built in the 1740s in flamboyant Baroque style, it was converted to a Greek Catholic church after Ukrainian independence and is now the Church of the Holy Eucharist. The massive dome, modelled loosely on the Pantheon in Rome, dominates the skyline of the old town from the east and remains one of the most dramatic Baroque interiors in western Ukraine.
+score: 8.4
 ---
 
 The Dominican Church and Monastery, just east of Rynok Square, presents one of the finest Baroque facades in Lviv: a rhythmic composition of pilasters, cornices, and statuary that looks spectacular on a winter day when the limestone glows against a grey sky. The interior is equally striking — an oval nave under an enormous dome, with elaborate stucco decorations and side chapels that seem to multiply as you look deeper into the building.

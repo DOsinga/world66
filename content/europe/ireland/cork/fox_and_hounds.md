@@ -7,6 +7,7 @@ tags:
 - ballyvolane
 title: Fox & Hounds
 type: poi
+score: 4.7
 ---
 
 The Fox & Hounds is Ballyvolane's main pub — a straightforward Irish local with no pretensions. You'll find good Guinness, sporting fixtures on the screen, and a crowd that's almost entirely local. It's the kind of pub where strangers are tolerated rather than sought out, but that's part of what makes it genuine.

@@ -9,6 +9,7 @@ latitude: -39.4167
 longitude: -71.9333
 story: >
   The park was created in 1940 and covers three connected volcanoes — Villarrica, Quetrupillán, and Lanín (the last shared with Argentina). The park's boundary follows the edge of the araucaria forests, which are protected as a UNESCO World Heritage biosphere reserve. The araucaria, or monkey puzzle tree, was a sacred tree to the Mapuche and remains a symbol of Chilean Patagonia.
+score: 8.2
 ---
 
 Parque Nacional Villarrica encompasses the volcano itself and the forests and highland meadows on its flanks. Beyond the volcano ascent, the park contains several day hikes through araucaria and lenga beech forest, including a trail around the base of the volcano that gives changing views of the cone throughout the day. The park is also accessible from the Argentine side, and experienced trekkers do multi-day crossings to Junín de los Andes.

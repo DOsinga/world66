@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Strong regional museum with finds from sites drowned by the Keban Dam"
+score: 8.3
 ---
 
 The Elazığ Archaeological Museum (Arkeoloji ve Etnografya Müzesi) is much better than a provincial city has any right to expect. The reason is the Keban Dam: when the reservoir flooded a huge area of the upper Euphrates in the 1970s, archaeologists raced to excavate as much as they could, and the finds — from Hittite, Urartian, Hellenistic, Roman and Byzantine periods — ended up here.

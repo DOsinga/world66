@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Ribersborg open-air baths — known as Kallbadhuset — have operated continuously since 1898 and are one of the few remaining cold-water bathing houses in Scandinavia. Men and women bathe separately, all nude, in the traditional Nordic fashion. The wooden structure extends over the Öresund on piles, and on a clear day you can see Denmark from the sauna.
+score: 7.3
 ---
 
 Ribersborg is Malmö's city beach, stretching for about two kilometres along the western shore and ending at the iconic Ribersborg open-air baths. The beach is sandy, backed by a long promenade, and faces directly across the Öresund towards Denmark — on clear days the towers of Copenhagen are visible. It gets crowded in summer but remains a genuine local spot rather than a tourist beach.

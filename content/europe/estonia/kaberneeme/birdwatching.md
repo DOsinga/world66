@@ -6,6 +6,7 @@ tags:
   - wildlife
 latitude: 59.5050
 longitude: 25.2800
+score: 6.7
 ---
 
 The Kaberneeme peninsula and the adjacent Ubari Landscape Conservation Area are rewarding for birdwatching, particularly during the spring and autumn migration seasons. The coastal forests and reed-fringed coves act as a natural stopover for birds moving along the Baltic coast, and the mix of habitats — old pine stands, open meadow, and shoreline — supports a good variety of species.

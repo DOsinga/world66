@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 25.8300
 longitude: 114.9300
+score: 6.5
 ---
 
 Ganzhou's rice noodles (赣州米粉) are served in a peppery, slightly oily broth made from pork bones and dried chilies, with a flavour closer to Hunan cooking than the lighter Guangdong style to the south. The noodles are thick and round, made fresh each morning and cooked to order. Standard toppings are braised pork slices, pickled mustard greens, and fried garlic; more elaborate versions add beef tendon or river fish balls.

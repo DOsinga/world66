@@ -8,6 +8,7 @@ tags:
 latitude: 11.2193
 longitude: -60.7793
 snippet: A 1783 tombstone in Plymouth whose inscription has never been satisfactorily explained
+score: 4.9
 ---
 
 In a small fenced plot at Plymouth, Tobago's second town, stands a tombstone dated 1783 bearing an inscription that has puzzled historians for over two centuries. The stone marks the grave of Betty Stiven, and reads: "She was a mother without knowing it, and a wife without letting her husband know it, except by her kind indulgences to him." Nobody has ever satisfactorily explained what the inscription means, and it has attracted scholarly speculation ranging from the mundane to the scandalous.

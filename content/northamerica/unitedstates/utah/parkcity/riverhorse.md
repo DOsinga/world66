@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.6445
 longitude: -111.4965
+score: 5.9
 ---
 
 Riverhorse on Main is the most consistently rated fine-dining restaurant in Park City, housed in the historic Masonic Hall building on Main Street. The menu is American with strong Rocky Mountain influences: elk tenderloin, Colorado lamb, Utah trout, and produce from regional farms. The wine list is serious and the service is polished without being stiff.

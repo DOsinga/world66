@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.7755
 longitude: 12.8378
+score: 7.3
 ---
 
 The main spine of the old town runs north from Piazza della Repubblica past arcaded medieval and Renaissance facades, many of them painted with traces of the original frescoes. The arcades are deep and shaded, the buildings tall, and the street has the unmistakable feel of a Venetian terraferma trading town — somewhere between Treviso and Padua in character but quieter than either.

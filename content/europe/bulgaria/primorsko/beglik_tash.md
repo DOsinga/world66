@@ -16,6 +16,7 @@ story: >
   period when the site's origins were long forgotten.
 sources:
   - https://en.wikipedia.org/wiki/Beglik_Tash
+score: 8.2
 ---
 
 Beglik Tash is a prehistoric rock sanctuary in the Strandzha hills, about five kilometres north of Primorsko. The site consists of massive granite boulders — some natural, some shaped and arranged by human hands — that form a ritual complex used by the ancient Thracians from around 1500 BCE. Circular stone alignments, carved channels, and openings aligned to the summer solstice sunrise suggest this was a centre of astronomical observation and religious ceremony.

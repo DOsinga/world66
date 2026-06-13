@@ -8,6 +8,7 @@ tags:
 latitude: 61.4964
 longitude: 23.7233
 story: "Pyynikki ridge is the highest gravel ridge in the world formed by glacial processes — a geological footnote that would be merely interesting if the café at the summit tower didn't sell what is widely considered the best munkki (Finnish sugar doughnut) in the country. The tower itself is modest, but on a clear day you can see both Lake Näsijärvi to the north and Lake Pyhäjärvi to the south — the two water bodies that squeeze Tampere into its isthmus."
+score: 8.5
 ---
 
 Pyynikki ridge rises between Lake Näsijärvi and Lake Pyhäjärvi just west of the city centre, and the 26-metre observation tower at its peak provides the clearest panoramic view of Tampere's distinctive geography. From the top you can see how the city sits on a narrow neck of land between two large lakes — a layout that made the Tammerkoski Rapids so valuable as a power source.

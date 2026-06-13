@@ -12,6 +12,7 @@ hours: "Daily 07:00–19:00"
 snippet: "The parish church where Mozart's father was married and young Mozart performed"
 story: >
   Leopold Mozart married Anna Maria Pertl in this church in 1747, and the young Wolfgang Amadeus performed here on several occasions during the family's travels. In 1783, when he was twenty-seven and already famous, Mozart stayed in Linz and composed his Symphony No. 36 in just four days specifically to have something new to perform at a concert here. It has been known as the Linz Symphony ever since.
+score: 6.5
 ---
 
 The City Parish Church (Stadtpfarrkirche) stands just off the Hauptplatz in the heart of Linz's Old Town. The current Baroque building dates largely from the 17th century, with a façade that anchors one end of the main square's visual ensemble. The interior is richly decorated in the Austrian Baroque manner, with stucco ceilings and side chapels of varying elaborateness.

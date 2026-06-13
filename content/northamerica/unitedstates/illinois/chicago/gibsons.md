@@ -10,6 +10,7 @@ snippet: Old-school Gold Coast steakhouse with enormous portions
 tags:
 - eating_out
 - restaurant
+score: 6.7
 ---
 
 A quintessential Chicago steakhouse on the Gold Coast. The portions are enormous -- sides easily feed two or three people -- and the waiters will bring cuts of meat to the table for you to inspect before ordering. Do not ask for well done. Expect to pay $50 or more per person before drinks. It is loud, busy, and unapologetically old-school. A true Chicago experience.

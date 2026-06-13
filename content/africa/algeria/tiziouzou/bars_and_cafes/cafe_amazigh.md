@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 36.7095
 longitude: 4.0415
+score: 6.8
 ---
 
 A university-area café that doubles as an informal cultural space — the walls are hung with Amazigh art and Tamazight calligraphy, and there's usually a stack of Kabyle literary journals near the counter. The clientele is young, educated, and bilingual (French-Kabyle at minimum), and conversations at neighbouring tables tend to cover politics, music, and identity in equal measure.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Anfiteatro Pôr do Sol (Araújo Vianna)
 type: poi
+score: 7.0
 ---
 
 The Anfiteatro Pôr do Sol — Sunset Amphitheatre — in Parque Farroupilha (Redenção), more often called the Araújo Vianna after the older venue it replaced, is Porto Alegre's main outdoor concert stage. It holds around 8,000 people and hosts everything from classical concerts and MPB shows to rock gigs and electronic music events throughout the year. Many of the performances are free; the paid shows are typically very reasonably priced.

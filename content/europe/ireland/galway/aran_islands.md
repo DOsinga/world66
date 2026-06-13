@@ -8,6 +8,7 @@ latitude: 53.1228
 longitude: -9.7673
 story: >
   The Aran Islands are one of the last places in Ireland where Irish is the everyday first language. The film "Man of Aran" (1934), shot on Inis Mór by Robert Flaherty, brought the islands to international attention and created a romantic image of a harsh, heroic way of life — an image the islanders have been living alongside ever since, sometimes ambivalently.
+score: 8.6
 ---
 
 The three Aran Islands — Inis Mór, Inis Meáin, and Inis Oírr — are rocky outposts in Galway Bay where Irish is still the first language and ancient walls divide fields of limestone into patches just large enough to graze a few cows. Inis Mór is the largest and most visited, with the Iron Age hillfort of Dún Aonghasa at its western edge: a series of concentric stone walls ending abruptly at a sheer cliff 90 metres above the Atlantic.

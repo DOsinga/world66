@@ -15,6 +15,7 @@ story: >
   peaks above in mirror-like stillness.
 sources:
   - https://en.wikipedia.org/wiki/Borith_Lake
+score: 7.8
 ---
 
 Borith Lake is a shallow glacial lake about four kilometres south of Passu village, positioned between the Passu Glacier moraine and the main valley floor. It is a serene spot in a landscape that otherwise consists mainly of rock, gravel, and ice — the lake's reeds and the green margins around it stand out sharply against the grey and brown surroundings.

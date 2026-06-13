@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.7
 ---
 
 The Botanical Park (Parcul Botanic) is a small but densely planted public garden in the north-western corner of the historic centre, a short walk from Union Square. It was established in 1986 by Timișoara's horticultural service as a teaching collection for the agricultural university; the public park around the teaching beds is open to all and free.

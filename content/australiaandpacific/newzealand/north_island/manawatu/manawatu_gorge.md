@@ -12,6 +12,7 @@ story: >
   through a mountain range rather than around it — the gorge predates the uplift of
   the Ruahine Range, so the river simply kept cutting as the land rose around it.
   The result is a canyon that grows more dramatic the higher the mountains have pushed.
+score: 8.5
 ---
 
 The Manawatu Gorge is where the Manawatu River cuts through the Ruahine Range in a narrow, steep-sided canyon — one of the most dramatic geological features of the lower North Island. The gorge walkway follows the river for about 10 km through native bush, with the walls rising steeply on both sides and the sound of water constant throughout.

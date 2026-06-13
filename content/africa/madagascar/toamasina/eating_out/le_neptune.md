@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - seafood
+score: 5.5
 ---
 
 Le Neptune is one of Toamasina's better-regarded restaurants, located near the waterfront in the centre of town. The menu leans heavily on seafood — grilled crayfish, tuna steaks, and whole snapper — prepared in the French-Malagasy style that characterises the city's better kitchens: simply cooked, with butter, garlic, and whatever citrus is in season. The dining room is open-sided in the manner of most coastal restaurants here, which means the trade winds provide natural air conditioning on hot evenings.

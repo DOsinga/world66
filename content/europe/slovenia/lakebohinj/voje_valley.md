@@ -9,6 +9,7 @@ tags:
   - nature
   - hiking
 snippet: Hay meadow valley north of the lake, reached by a 90-minute walk
+score: 7.9
 ---
 
 A wide, level hay meadow tucked under cliffs and ringed by hayracks (kozolci), the Voje valley is one of the prettiest short walks from the lake. The route follows the Mostnica Gorge upstream from Stara Fuzina; the gorge opens out abruptly into a sunlit valley with grazing cows, the Slap Voje waterfall at its far end, and a basic mountain hut serving sausages, bean stew (jota) and homemade strudel.

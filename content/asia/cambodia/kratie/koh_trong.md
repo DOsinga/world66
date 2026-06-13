@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.6900
 longitude: 106.0700
+score: 6.1
 ---
 
 Koh Trong is a large island in the Mekong directly across from Kratie town, accessible by small ferry in a few minutes. Once across, the island is entirely different in character from the mainland — it's agricultural, quiet, and almost completely car-free. The main circuit around the island can be cycled comfortably in a couple of hours, passing pomelo and fruit orchards, Cham Muslim fishing villages, and a small Vietnamese community that has lived on a floating village on the island's eastern shore for generations.

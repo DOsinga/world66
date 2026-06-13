@@ -12,6 +12,7 @@ story: >
   of the broader Venezuelan campaign that eventually drove the Spanish from the
   continent. Simón Bolívar passed through Margarita Island several times during
   the wars, and the island holds a significant place in independence mythology.
+score: 8.0
 ---
 
 Fortín de La Galera sits on a low promontory above Juan Griego, a Spanish colonial fort from the independence-war era that saw genuine fighting in the early 19th century. It is compact and well-preserved — not a grand fortification but a small functional one, with thick stone walls, a few cannon still in place, and views that justified every military effort to hold the position.

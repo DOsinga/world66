@@ -5,6 +5,7 @@ tags:
 - museum
 title: Musée des Beaux-Arts
 type: poi
+score: 7.1
 ---
 
 The fine arts museum of Chartres occupies the former Episcopal Palace, a handsome building directly beside the cathedral with views over the city from its terrace. The collection covers French and European painting from the 16th century onward, with particular strengths in 17th-century work, Dutch and Flemish masters, and a good group of 18th-century French portraits. There are also enamels, tapestries, and harpsichords.

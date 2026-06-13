@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground
 story: >
   The MCG hosted the 1956 Olympic Games opening and closing ceremonies, the 1992 and 2015 Cricket World Cup finals, and AFL Grand Finals every year since 1902. During the 1956 Olympics, the closing ceremony broke protocol when athletes from all nations walked together in a mixed procession rather than marching in national groups — a spontaneous expression of friendship that has been followed at every Olympics since. The idea came from Melbourne water polo player John Wing, who sent a handwritten note to the IOC.
+score: 9.0
 ---
 
 The Melbourne Cricket Ground is one of the great sporting venues in the world. With a capacity of nearly 100,000, it is the largest stadium in the Southern Hemisphere and the tenth-largest in the world. It hosted the 1956 Olympic Games, has hosted seven Cricket World Cup finals, and is the spiritual home of Australian Rules Football. On AFL Grand Final day in late September, it fills completely — the atmosphere is unlike any other sporting event in Australia.

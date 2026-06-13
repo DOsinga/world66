@@ -8,6 +8,7 @@ latitude: 35.6870
 longitude: 51.4146
 story: >
   The two salt mummies on display in the National Museum were found in the Chehrabad salt mine in Zanjan province — six separate mummies recovered at different times, the oldest dating to the Achaemenid period (around 500 BCE). They were naturally mummified by the salt. The hair, beards, and skin are largely intact after two and a half millennia. One still has the remains of a leather boot on his foot.
+score: 9.3
 ---
 
 The National Museum of Iran holds the finest collection of Persian antiquities anywhere in the world — objects from Persepolis, Susa, Pasargadae, and dozens of other sites spanning 7,000 years of continuous civilisation. The building itself, a brick vaulted structure designed in the 1930s by French architect André Godard, is an intelligent interpretation of Sasanian palace architecture in modern materials.

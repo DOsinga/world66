@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Fontana_Grande,_Viterbo
+score: 7.6
 ---
 
 The Fontana Grande is the largest and oldest medieval fountain in Italy, standing at the intersection of Via Garibaldi and Via Cavour in the historic centre. Built in 1206 and enlarged in 1279, it has an octagonal basin with smaller lobed basins around a central column crowned with Gothic decoration. It was the main public water supply for medieval Viterbo and remains in working order.

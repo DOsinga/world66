@@ -9,6 +9,7 @@ latitude: 36.8000
 longitude: 10.1789
 story: >
   The cathedral was built between 1882 and 1897, during the French protectorate period, on the highest point of Avenue Bourguiba. Its twin bell towers are the most prominent vertical features on the boulevard. After Tunisian independence in 1956, the cathedral's future was uncertain; unlike many colonial-era churches elsewhere in North Africa it was never converted, and it continues to function as a Catholic church serving the small resident European and African Catholic community.
+score: 5.9
 ---
 
 The Cathedral of Saint Vincent de Paul stands at the top of Avenue Bourguiba, its twin 60-metre towers framing the end of the boulevard's long axis. Built in a neo-Romanesque style with some Gothic elements, it is a prominent piece of French colonial urbanism — designed to announce the presence of European civilization at the symbolic heart of the city.

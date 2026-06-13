@@ -7,6 +7,7 @@ tags:
   - shopping
 latitude: 23.7300
 longitude: 92.7170
+score: 8.0
 ---
 
 Bara Bazar is Aizawl's working market, and it is the best place in town to feel the rhythm of daily life. The stalls are piled with greens, chillies, smoked meat, dried fish, bamboo shoots, oranges in season, and the woven textiles that are still part of Mizo dress.

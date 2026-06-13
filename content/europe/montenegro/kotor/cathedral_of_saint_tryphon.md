@@ -12,6 +12,7 @@ tags:
 - landmark
 title: Cathedral of Saint Tryphon
 type: poi
+score: 8.9
 ---
 
 The Cathedral of Saint Tryphon is Kotor's finest building and one of the best-preserved Romanesque churches on the Adriatic. Construction began in 1166 on the site of an earlier church, and the interior holds a treasury of medieval art: silver-gilt reliefs, a 14th-century ciborium over the altar, and frescoes that survived the 1979 earthquake in remarkably good condition. There is a small entrance fee; the cathedral faces the main square, Trg od Oružja.

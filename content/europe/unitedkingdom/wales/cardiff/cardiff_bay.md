@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Cardiff_Bay
 story: >
   At its peak in the early 20th century, Cardiff was the world's greatest coal exporting port. The Tiger Bay docklands — the district that gave the world singer Shirley Bassey — shifted more coal than anywhere on earth. The barrage built in 1999 that turned the tidal mudflats into a freshwater lake was one of the largest urban regeneration projects in European history, flooding the remains of the old docks forever.
+score: 6.9
 ---
 
 Cardiff Bay is about 2 kilometres south of the city centre and makes a good half-day excursion on its own. What was once the Tiger Bay docklands, one of the world's busiest coal ports in the early 20th century, has been transformed into a waterfront plaza ringed by restaurants, cultural buildings and converted warehouses. The atmosphere on summer evenings, with the lake lit up and the Millennium Centre's facade glowing, is genuinely impressive.

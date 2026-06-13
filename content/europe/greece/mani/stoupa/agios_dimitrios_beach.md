@@ -8,6 +8,7 @@ tags:
   - beaches
   - swimming
   - beach
+score: 7.4
 ---
 
 Agios Dimitrios, also known as Pantazi, is a horseshoe-shaped bay a few kilometres south of Stoupa along the coast road. The water is exceptionally clear and the beach a mix of pebble and sand, with much fewer visitors than Stoupa or Kalogria.

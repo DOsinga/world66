@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 6.8
 ---
 
 Greiz prospered in the late 19th century as a centre of the Thuringian textile industry, and many of the houses built in the boom years are in the Jugendstil — German Art Nouveau — style. The best concentrations are along Thomasstraße, Burgstraße and Leonhardtstraße in the lower town.

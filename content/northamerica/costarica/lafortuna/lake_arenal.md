@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.5000
 longitude: -84.7667
+score: 7.0
 ---
 
 Lake Arenal is the largest lake in Costa Rica, a reservoir created by a dam in 1979 that flooded the original town of Arenal (the residents were relocated). It stretches 33 km along the base of the Tilarán mountain range and is used for kayaking, windsurfing, and sport fishing. The road along its northern shore between La Fortuna and Tilarán passes through some of the finest scenery in the region.

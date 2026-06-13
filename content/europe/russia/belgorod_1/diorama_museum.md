@@ -7,6 +7,7 @@ tags:
 latitude: 50.5966
 longitude: 36.5878
 story: "The diorama painting itself measures 67 metres long and 15 metres high, depicting the Prokhorovka tank battle of July 12, 1943, when roughly 1,500 tanks engaged in a single day. The artists painted from the testimonies of survivors, and some veterans who saw the finished work said it was the most accurate visual representation of what they had witnessed."
+score: 7.8
 ---
 
 The Belgorod State Diorama Museum is one of the most impressive military museums in Russia, housing a massive panoramic painting of the Battle of Prokhorovka — the climactic armoured engagement of the Battle of Kursk in 1943. The painting stretches 67 metres and is 15 metres high, arranged in a curved panorama around the viewer with three-dimensional foreground elements blending into the painted background to create an immersive effect.

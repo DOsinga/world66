@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Postwar neoclassical railway terminal
+score: 6.6
 ---
 
 The two-towered station building west of the city centre is a textbook example of the Stalinist-classical railway architecture that the Soviet Union built across the country in the postwar reconstruction. Completed in 1951 to replace a wartime ruin, the station has an arched main hall, a clock tower at one end, and decorative brickwork in cream and ochre.

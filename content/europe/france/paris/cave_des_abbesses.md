@@ -10,6 +10,7 @@ tags:
 - montmartre
 title: Cave des Abbesses
 type: poi
+score: 6.1
 ---
 
 A neighbourhood wine shop and bar on Montmartre's best street for daily life, where you can drink a glass of whatever the owner is excited about while picking up a bottle to take home. Unpretentious, well-priced, and very much for locals rather than tourists despite the location.

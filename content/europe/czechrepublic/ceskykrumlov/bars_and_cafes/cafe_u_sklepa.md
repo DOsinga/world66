@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 48.8109
 longitude: 14.3152
+score: 5.7
 ---
 
 A cellar cafe in the old town, Café u Sklepa occupies the kind of low-vaulted space that makes a glass of Moravian wine or a Czech coffee taste better than it has any right to. The atmosphere is unhurried — candles on the tables, stone walls, the street noise above dampened to nothing.

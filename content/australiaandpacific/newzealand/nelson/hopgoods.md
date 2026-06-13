@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -41.2716
 longitude: 173.2845
+score: 6.2
 ---
 
 Hopgoods on Trafalgar Street has been Nelson's serious dinner restaurant for nearly two decades. The cooking is broadly modern European with a strong reliance on local produce — Tasman Bay scallops, Marlborough lamb, regional cheeses — and the wine list leans hard on Nelson and Marlborough whites.

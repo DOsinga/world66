@@ -19,6 +19,7 @@ story: >
   tradition of nurturing Bengali arts and culture.
 sources:
   - https://en.wikipedia.org/wiki/Jorasanko_Thakur_Bari
+score: 8.0
 ---
 
 The Tagore family mansion in the Jorasanko quarter of north Kolkata is the birthplace and ancestral home of Rabindranath Tagore, the first non-European to win the Nobel Prize in Literature. The house has been converted into the Rabindra Bharati Museum, with galleries documenting the lives of Tagore and other members of this remarkable family — artists, reformers, musicians, and philosophers who shaped modern Bengali culture.

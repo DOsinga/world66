@@ -11,6 +11,7 @@ tags:
   - baixa
   - market
 neighbourhood: Baixa
+score: 8.5
 ---
 
 The **Mercado Municipal** — known to everyone as the **Mercado Central** — fills a whole block of the Baixa on Avenida 25 de Setembro. The 1903 cast-iron structure is one of the oldest in the city, and the high vaulted hall remains the city's main food market. The mid-morning crowds, the smell of fish and dried prawns and the bargaining make it one of the most photogenic places in Maputo.

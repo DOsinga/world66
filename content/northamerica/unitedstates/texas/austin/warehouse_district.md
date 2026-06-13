@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.2660
 longitude: -97.7482
+score: 6.3
 ---
 
 The Warehouse District, along 4th and 5th Streets west of Congress Avenue, occupies Austin's former commercial warehouse zone and is now the city's most upscale bar and restaurant neighbourhood. The converted industrial buildings house craft cocktail bars, rooftop terraces, and some of Austin's better restaurants, along with the Long Center for the Performing Arts overlooking Lady Bird Lake.

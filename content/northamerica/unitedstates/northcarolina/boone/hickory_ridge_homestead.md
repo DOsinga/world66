@@ -7,6 +7,7 @@ tags:
 - museum
 title: Hickory Ridge Homestead
 type: poi
+score: 6.7
 ---
 
 Hickory Ridge is a small open-air museum of life in the 1700s Appalachian backcountry. Eight log structures (originals and reconstructions) sit on a wooded site adjacent to the Daniel Boone Amphitheater: a cabin, a weaving shed, a smokehouse, a blacksmith's forge. Costumed interpreters demonstrate spinning, hearth-cooking, and gardening on summer weekends.

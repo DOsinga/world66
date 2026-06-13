@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Machapuchare
 story: >
   Machapuchare has never been officially climbed. A British expedition reached within 50 metres of the summit in 1957, then turned back by prior agreement with the Nepalese government, which had stipulated the peak must not be summited. Since then, Nepal has closed the mountain entirely — it is considered the home of the god Shiva, and climbing it is forbidden. It remains one of the few major Himalayan peaks that can legally claim to be unclimbed.
+score: 8.5
 ---
 
 Machapuchare (6,993m) — the Fishtail Mountain — is one of the most visually distinctive peaks in Nepal. Its twin summits, converging to a sharp point when seen from the south, give it the silhouette of a fish's tail and make it immediately recognisable from anywhere in the Pokhara Valley. From the Annapurna Sanctuary, seen from base camp directly below, it is a vertical wall of ice rising 3,000m overhead — as dramatic a mountain view as you will find anywhere.

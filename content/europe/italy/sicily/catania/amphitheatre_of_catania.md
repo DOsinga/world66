@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, archaeology]
 latitude: 37.5074
 longitude: 15.0853
+score: 6.8
 ---
 
 The Roman amphitheatre of Catania sits half-sunk into Piazza Stesicoro, only a fraction of its full ellipse visible above ground. The rest runs under the surrounding buildings — this was one of the largest amphitheatres in the Roman world after the Colosseum, large enough to seat around fifteen thousand.

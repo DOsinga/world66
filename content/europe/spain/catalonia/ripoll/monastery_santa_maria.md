@@ -9,6 +9,7 @@ latitude: 42.2015
 longitude: 2.1907
 story: >
   Abbot Oliba, who expanded the monastery library to 246 manuscripts in the early 11th century, also commissioned the Roda Bible — now in the Bibliothèque nationale de France — and the Ripoll Bible, now in the Vatican Library. He later became Bishop of Vic and founded the Abbey of Montserrat. The man responsible for the portal you're looking at also, essentially, invented Montserrat.
+score: 9.3
 ---
 
 The Monastery of Santa Maria de Ripoll is the reason to come here. Founded in 879 by Wilfred the Hairy, the legendary first Count of Barcelona who unified Catalonia, it grew into the most important monastery in medieval Catalonia and the burial place of the counts of Barcelona. The current building dates largely from an 1886 reconstruction by architect Elias Rogent after the original was devastated in the Carlist Wars of 1835, but it faithfully reproduces the great Romanesque structure.

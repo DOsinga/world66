@@ -7,6 +7,7 @@ tags:
 - sight
 title: Skydiving over the Alps
 type: poi
+score: 7.0
 ---
 
 Tandem skydiving from the Interlaken Airbase at Matten drops you from over 4,000 metres — high enough to see the full Jungfrau massif, both lakes, and on clear days a sweep of Alps from Bern to Graubünden. The freefall lasts around sixty seconds before the parachute opens; the canopy flight down adds another five to eight minutes in the air. The mountain backdrop sets this apart from coastal or flatland jump sites.

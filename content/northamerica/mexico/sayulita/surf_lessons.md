@@ -12,6 +12,7 @@ story: >
   further out reform as smaller, slower waves closer to shore. This is what makes
   it so forgiving for beginners: the energy is consistent but not violent, and
   the sandy bottom means that falling off is genuinely low-risk.
+score: 7.3
 ---
 
 Sayulita's main break is one of the better places in Mexico to take a first surf lesson. The wave reforms consistently, breaks over sand, and is usually small enough that a nervous beginner can stand up on a board within a couple of hours. Several surf schools operate on the south end of the main beach, with instructors who have been teaching here for years.

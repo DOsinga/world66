@@ -7,6 +7,7 @@ tags:
 latitude: 10.7520
 longitude: 106.6524
 snippet: "Vast, dense Chinatown in District 5 — one of the largest in Southeast Asia"
+score: 8.9
 ---
 
 Cholon — meaning "big market" in Vietnamese — is Ho Chi Minh City's Chinese quarter, occupying most of District 5 and spreading into parts of District 6. It has been the centre of the city's Chinese community since the late 17th century and remains one of the largest Chinatowns in Southeast Asia.

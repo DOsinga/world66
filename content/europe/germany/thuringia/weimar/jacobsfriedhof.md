@@ -12,6 +12,7 @@ story: >
   just two years after arriving. His grave, marked by a simple stone, sits among
   those of other notable Weimar residents in what is now one of the most atmospheric
   corners of the city.
+score: 7.4
 ---
 
 The Jacobsfriedhof is Weimar's oldest cemetery, in use since the Middle Ages and now preserved as a historical site. It wraps around the small Jakobskirche north of the Altstadt and contains the graves of Lucas Cranach the Elder, Christiane Vulpius (Goethe's wife), and several members of the Saxe-Weimar court. Schiller was originally buried here too, in the Kassengewolbe (the communal vault for notables), before his remains were moved to the Furstengurft in 1827.

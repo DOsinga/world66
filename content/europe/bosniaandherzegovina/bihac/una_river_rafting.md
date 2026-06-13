@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.8169
 longitude: 15.8697
+score: 8.4
 ---
 
 Rafting the Una is the single activity most people come to Bihać to do, and it deserves its reputation. The standard rafting route runs from Lohovo to Martin Brod, covering around 13 kilometres of white-water rapids through a limestone gorge. The water is an extraordinary green-blue, and the canyon walls close in on both sides to create a sense of genuine wilderness just minutes from the town.

@@ -8,6 +8,7 @@ latitude: 37.3857
 longitude: -118.1789
 story: >
   The oldest living tree ever confirmed is a bristlecone pine in the White Mountains named Methuselah, over 4,800 years old. Its exact location is kept secret to prevent vandalism. When Methuselah germinated around 2800 BCE, the Egyptian pyramids had not yet been built. Bristlecone pines survive in this harsh environment through extreme slowness — a tree an inch in diameter may be 150 years old — and by essentially letting parts of themselves die while keeping enough alive to continue.
+score: 9.8
 ---
 
 The Ancient Bristlecone Pine Forest in the White Mountains above Bishop is one of the most extraordinary places in the American West. At elevations between 9,500 and 11,500 feet, in thin dolomite soils too poor for other trees to compete, bristlecone pines have been growing for up to 5,000 years. They are grotesque and beautiful: bark stripped by wind to bare silver wood, gnarled trunks twisted by centuries of storms, still alive at the tops while half the tree is dead wood.

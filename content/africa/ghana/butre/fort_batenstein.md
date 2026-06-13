@@ -15,6 +15,7 @@ tags:
 - historic_site
 title: Fort Batenstein
 type: poi
+score: 7.9
 ---
 
 A Dutch slave fort from 1652, now in picturesque ruins on the hill above Butre village. It's a short but steep walk up from the village, and the panorama over the coastline and the river mouth at the top makes it worthwhile. Unlike the more visited forts at Elmina and Cape Coast, there are no crowds here — often you'll have it entirely to yourself.

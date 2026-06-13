@@ -11,6 +11,7 @@ story: The First Flyer zip line at First drops 800 metres in altitude over 4 kil
   at up to 84 km/h, making it one of the longest mountain zip lines in the Alps. It
   opened in 2018 as part of Grindelwald's transformation of the First plateau into
   a year-round adventure zone.
+score: 8.3
 ---
 
 First (2,168 m) is the main summer mountain destination above Grindelwald, reached by an 30-minute gondola from the village. The plateau gives access to a network of hiking trails including the classic First to Schynige Platte traverse — a five- to six-hour ridge walk with uninterrupted views of the Eiger, Mönch, and Jungfrau.

@@ -10,6 +10,7 @@ longitude: 111.831140
 sources:
   - https://www.visitsibu.com/rejang-esplanade-sibu-waterfront/
   - https://www.sarawaktourism.com/web/places-to-visit/town-view/sibu/major-attractions/sibu-esplanade
+score: 6.7
 ---
 
 The Rejang Esplanade is Sibu's riverfront promenade, a simple landscaped strip where the town opens onto the Rajang. Fishing boats, express boats, barges, and the occasional floating debris all pass by, making this a better place for watching Sibu than for photographing it.

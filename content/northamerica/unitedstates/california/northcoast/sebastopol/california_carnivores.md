@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.397
 longitude: -122.836
+score: 8.8
 ---
 
 California Carnivores is the largest carnivorous plant nursery in the world, housed in a series of greenhouses in west Sebastopol. The collection runs to hundreds of species: Venus flytraps (the approachable celebrity of the genus), sundews whose sticky red tentacles glitter in the light, pitcher plants with their elaborate insect-trapping tubes, cobra lilies that lure bugs into a translucent trap from which there is no exit. The scale and variety of the collection make it genuinely astonishing even to people who think they have no interest in plants.

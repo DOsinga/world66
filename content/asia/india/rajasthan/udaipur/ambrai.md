@@ -6,6 +6,7 @@ longitude: 73.6789
 tags:
   - eating_out
   - restaurant
+score: 7.6
 ---
 
 Possibly the single best view in Udaipur from a dining table — **Ambrai** sits at lake level on the western shore, looking directly across at the City Palace, Lake Palace, and the ghats lit up at night. The restaurant is part of the Amet Haveli hotel; the tables are set on a paved garden right at the water's edge, with the lights of the old city shimmering on the lake.

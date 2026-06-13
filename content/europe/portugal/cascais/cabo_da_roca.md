@@ -6,6 +6,7 @@ latitude: 38.7805
 longitude: -9.4988
 snippet: "Westernmost point of mainland Europe, with a lighthouse and dramatic cliffs"
 story: "A stone plinth at the cape carries an inscription from the poet Luís de Camões: 'Aqui... onde a terra se acaba e o mar começa' — 'Here, where the land ends and the sea begins.' A small office at the cape will issue an official certificate, stamped and dated, proving you have stood at Europe's westernmost edge."
+score: 8.5
 ---
 
 Twenty minutes' drive north of Cascais, Cabo da Roca is the westernmost point of continental Europe, a cape of dark schist cliffs falling 140 metres straight down to the Atlantic. The lighthouse — the second oldest in Portugal, dating from 1772 — still functions, and there is a small visitor centre and café in the cluster of buildings around it.

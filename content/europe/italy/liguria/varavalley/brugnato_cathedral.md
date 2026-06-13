@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: 11th-century cathedral on the site of a Benedictine abbey
+score: 7.9
 ---
 
 The co-cathedral of Brugnato — Santi Pietro, Lorenzo e Colombano — stands on the site of an early Benedictine abbey said to have been founded by followers of the Irish saint Columban in the 7th century. The current church is a Romanesque building from the 11th century, modified in the Baroque period but never overwhelmed by it: the crypt and parts of the apse still carry the original stonework.

@@ -12,6 +12,7 @@ tags:
   - architecture
 neighbourhood: Polana
 story: The museum's most famous holding is a series of **elephant foetuses** at every stage of gestation, collected during a 1960s cull and preserved in formaldehyde. The exhibit is genuinely unique — no other museum in the world is known to display the full sequence — and unsettling enough to send some visitors straight back to the gift shop.
+score: 8.2
 ---
 
 The **Museu de História Natural** sits in a striking 1933 building in the Manueline revival style — twisted columns, maritime motifs, more like a small Lisbon palace than a museum. It was founded in 1911 and is the oldest museum in the country. The collection is old-fashioned in the best sense: dimly lit cases of stuffed mammals, a panorama of the southern African bush, jars of reptiles and insects, and the famous gallery of preserved elephant foetuses.

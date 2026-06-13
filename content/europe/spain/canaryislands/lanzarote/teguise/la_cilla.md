@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Eighteenth-century tithe barn where the island's grain levy was collected"
+score: 5.8
 ---
 
 La Cilla is the eighteenth-century tithe house, the building where the Catholic Church collected its share of the island's harvest — wheat, barley, lentils — from Lanzarote farmers throughout the colonial period. The squat single-storey building, on the corner of the plaza, has thick walls and a heavy iron-bound door, designed to keep both grain and tax collectors safe.

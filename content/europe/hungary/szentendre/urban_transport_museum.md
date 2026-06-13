@@ -6,6 +6,7 @@ tags: [things_to_do, museum]
 address: "Dózsa György út"
 latitude: 47.6594
 longitude: 19.0739
+score: 6.9
 ---
 
 The Urban Public Transport Museum occupies the old HÉV depot at the southern edge of Szentendre, a short walk from where the suburban train pulls in. It collects the rolling stock that has shifted Budapest's commuters since the 1880s: horse-drawn omnibuses, single-deck wooden trams, the iconic Ikarus articulated buses, and the heavy yellow trolleys that still run on the Pest side of the river.

@@ -10,6 +10,7 @@ latitude: 47.58639
 longitude: 1.33295
 snippet: "Magic museum opposite the château, built around hometown magician Robert-Houdin"
 story: "Robert-Houdin (born here in 1805) is the magician Harry Houdini named himself after — Houdini chose the name as a tribute to his hero. The mechanical dragon heads that emerge from the building's upper windows every half hour are a modern automaton tribute to Robert-Houdin's own clockwork creations."
+score: 7.4
 ---
 
 The Maison de la Magie occupies a building directly across from the royal château and is dedicated to Jean Eugène Robert-Houdin, the 19th-century conjuror, inventor, and diplomat from whom Harry Houdini took his stage name. Robert-Houdin was born in Blois in 1805 and went on to become the most celebrated magician of his age — his automata, mechanical illusions, and theatrical innovations changed conjuring permanently.

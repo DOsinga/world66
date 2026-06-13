@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 24.4595
 longitude: 54.3047
+score: 9.0
 ---
 
 The working presidential palace of the UAE, opened to the public for partial tours in 2019. It is a pale stone building of cathedral proportions: an immense central dome, a grand staircase, vast public halls with mother-of-pearl inlay and chandeliers the size of small cars. The Great Hall is genuinely impressive — the largest dome in the world to be entirely carved in geometric relief.

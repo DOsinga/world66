@@ -7,6 +7,7 @@ tags:
   - paradise_island
 latitude: 25.0834
 longitude: -77.3133
+score: 7.2
 ---
 
 The signature beach of Paradise Island: five kilometres of fine white sand and improbable turquoise water on the north shore, looking out into the open Atlantic. The western end is dominated by the Atlantis resort and is crowded; walk twenty minutes east and the crowds drop off sharply.

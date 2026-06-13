@@ -15,6 +15,7 @@ story: >
   its otherworldly, lunar look.
 sources:
   - https://en.wikipedia.org/wiki/Berca_Mud_Volcanoes
+score: 8.8
 ---
 
 The Berca Mud Volcanoes — Vulcanii Noroioși in Romanian — are the main reason to stop in Buzău rather than pass through. Located about 25 km north of the city near the village of Berca and Scorțoasa, they are a geological reservation protecting one of the best examples of mud volcanism in Europe. Small cones, some barely knee-high and others reaching a few metres, erupt continuously with cold grey mud and natural gas bubbles, creating a landscape that genuinely looks like another planet.

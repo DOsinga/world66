@@ -9,6 +9,7 @@ tags:
 - activities
 title: Squash City
 type: poi
+score: 4.7
 ---
 
 Squash City is Amsterdam's most central squash venue, a ten-minute walk north of Centraal Station in the Westerdok area. The club has well-maintained courts, a fitness room, and a sauna that is included with your court booking — a welcome perk after a hard match. Racket hire is available if you are traveling light. Book ahead for evening slots, which fill up fast.

@@ -9,6 +9,7 @@ tags:
 - bar
 title: Mae West
 type: poi
+score: 4.8
 ---
 
 A nightclub inside the Centro Comercial Neptuno shopping centre that has been part of Granada's nightlife scene for years. The crowd is mostly local university students and the music leans toward mainstream dance and pop. Doors typically open late and the place stays going until around 6 am. It is not fancy, but it is reliably busy on weekends.

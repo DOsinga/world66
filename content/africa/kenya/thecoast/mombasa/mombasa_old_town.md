@@ -10,6 +10,7 @@ tags:
 - neighbourhood
 - old_town
 - sight
+score: 9.3
 ---
 
 Old Town wraps around the landward side of Fort Jesus — a dense, atmospheric quarter of three-storey coral-rag houses, carved wooden doors, projecting wooden balconies, and narrow streets that smell of cloves, frying mahamri, and woodsmoke. This is the oldest inhabited part of Mombasa, and it still feels like the trading port the Omanis and Gujarati merchants built it to be in the 18th and 19th centuries. The architecture is a slow blend of Arab, Indian, Portuguese, and Swahili — flat roofs, ornate doorways, blue-and-white tilework, and the occasional clock-tower minaret.

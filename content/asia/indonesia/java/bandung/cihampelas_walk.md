@@ -7,6 +7,7 @@ tags:
 snippet: Open-air shopping promenade carved into the old jeans-shop street
 latitude: -6.8967
 longitude: 107.6056
+score: 6.2
 ---
 
 Cihampelas Street earned its nickname Jalan Jeans in the 1980s, when every shopfront sprouted larger-than-life Spider-Mans, Supermen and giant denim cowboys to advertise jeans, leather jackets and t-shirts. Many of the originals are gone now, but enough survive that the stroll is still good fun.

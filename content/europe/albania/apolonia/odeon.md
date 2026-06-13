@@ -7,6 +7,7 @@ tags:
 snippet: Small semicircular Roman theatre for music and poetry recitals
 latitude: 40.7222
 longitude: 19.4720
+score: 7.4
 ---
 
 The Odeon stands just behind the Bouleuterion and is a small Roman-era semicircular building used for concerts, recitations, and meetings of the city's intellectual life. The tiered seating is partly preserved and you can sit on its lower steps with a view towards the modern plain.

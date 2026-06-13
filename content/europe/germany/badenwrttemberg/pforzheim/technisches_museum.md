@@ -6,6 +6,7 @@ longitude: 8.6964
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 A working museum of the jewellery and watch industries that made Pforzheim what it is — a complete 1920s workshop with rolling mills, drop-stamps, lathes, and engraving benches, all still in operation. Volunteers (most of them retired Pforzheim goldsmiths) run live demonstrations on certain afternoons.

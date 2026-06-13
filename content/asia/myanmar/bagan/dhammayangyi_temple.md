@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Dhammayangyi Temple
 type: poi
+score: 9.2
 ---
 
 The largest temple in Bagan, the Dhammayangyi is also the most forbidding — a massive red-brick pyramid that dominates the middle of the plain. Its corridors are wider than those of any other Bagan temple, and even in its unfinished state the scale of the ambition is extraordinary.

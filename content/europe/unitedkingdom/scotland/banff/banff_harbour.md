@@ -8,6 +8,7 @@ tags:
 title: Banff Harbour
 type: poi
 snippet: "Coastal harbour with boat trips and views toward Macduff"
+score: 5.8
 ---
 
 Banff Harbour is the departure point for boat trips along the Banffshire coast and for diving excursions with local operators. Small sailing yachts can berth here. The harbour area is pleasant for a walk and offers views along the coast towards Macduff.

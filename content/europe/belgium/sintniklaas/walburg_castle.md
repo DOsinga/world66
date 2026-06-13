@@ -11,6 +11,7 @@ tags:
 - palace
 title: Walburg Castle
 type: poi
+score: 6.5
 ---
 
 A 16th-century castle with moat, set within the urban fabric of Sint-Niklaas. The original structure dates to the 1500s and the castle has been modified several times since, but retains its original form of a fortified manor house surrounded by a water-filled moat. It was used for various administrative purposes over the centuries and is now partly used by the city.

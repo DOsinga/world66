@@ -7,6 +7,7 @@ tags:
 - spa
 title: Contursi Terme
 type: poi
+score: 5.7
 ---
 
 Contursi Terme is a small spa town about 40 kilometres south of Calitri, reached via the Ofanto valley, and the nearest thermal bath facility to the area. The town sits above the Sele river valley and has been known for its sulphurous springs since Roman times. Several thermal establishments operate here, ranging from spa hotels to day-use facilities.

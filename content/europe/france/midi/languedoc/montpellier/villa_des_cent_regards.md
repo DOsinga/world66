@@ -8,6 +8,7 @@ tags:
 - sight
 title: Villa des Cent Regards
 type: poi
+score: 6.0
 ---
 
 A piece of outsider architecture on the northern edge of the city: a small turreted villa, decorated with mosaics, sculpted figures, and odd shrines, built single-handedly between the 1950s and 1980s by a self-taught mason named François Boucher. The eccentric vision recalls the Palais Idéal du Facteur Cheval in the Drôme — a personal cosmology made of stone and salvaged tile.

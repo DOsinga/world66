@@ -7,6 +7,7 @@ tags:
 - sight
 title: Pimbahal Pond
 type: poi
+score: 6.8
 ---
 
 A short walk west of Durbar Square, Pimbahal is a large rectangular pond surrounded by a low brick wall and a few small temples. The Chandeshwari temple on its bank is the main draw — a small pagoda dedicated to the goddess who defeated the demon Chandasura. A standalone Buddhist stupa from the Licchavi period stands in the same square.

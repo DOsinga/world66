@@ -9,6 +9,7 @@ latitude: 61.9558
 longitude: -6.7933
 story: >
   The cathedral was begun around 1300 by Bishop Erlendur, who wrote to the Pope asking for permission to build it — and then never saw it completed. Whether it lacked a roof from the start or fell into ruin after the Reformation in 1537 is still debated. Either way, it stood open to the Atlantic sky for centuries before anyone thought to protect it.
+score: 9.2
 ---
 
 The Magnus Cathedral is the largest medieval building in the Faroe Islands and the most striking ruin in the archipelago. Construction began around 1300 under Bishop Erlendur, and the roofless shell of Gothic arches that resulted is now under a large protective timber shelter while conservation work slowly stabilises the walls. The cathedral was dedicated to Saint Magnus, Earl of Orkney, whose relics were originally housed here before being moved to Orkney.

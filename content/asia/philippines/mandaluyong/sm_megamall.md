@@ -8,6 +8,7 @@ tags:
 - mall
 title: SM Megamall
 type: poi
+score: 5.8
 ---
 
 SM Megamall spans two towers connected by a bridge and contains well over 700 shops, a multiplex cinema, an ice skating rink, a bowling alley, and a food court large enough to make serious decisions difficult. It sits at the corner of EDSA and Julia Vargas Avenue, making it one of the most accessible malls in Metro Manila — the Ortigas MRT station is effectively inside the complex.

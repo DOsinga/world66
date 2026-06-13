@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Steep cobbled lane lined with artists' studios and galleries, host to an outdoor exhibition each August"
+score: 7.7
 ---
 
 Grisia is the main street of Rovinj's old town, a steep and winding cobbled lane that climbs from the main square up to the church of St. Euphemia at the summit. On both sides, the ground floors of the old stone buildings house artists' studios, galleries, and small shops selling original paintings, prints, and jewellery. Many of the artists work in front of their doors in summer and are happy to talk about their work.

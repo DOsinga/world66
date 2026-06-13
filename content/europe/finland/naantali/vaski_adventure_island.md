@@ -7,6 +7,7 @@ tags:
 latitude: 60.4861
 longitude: 21.9786
 snippet: A family adventure island in the archipelago, reached by boat from Naantali.
+score: 5.6
 ---
 
 Väski is a small island in the Turku Archipelago operated as an outdoor activity centre for families. The island offers rope courses, archery, kayaking, and a beach, all set among pine trees and granite outcrops typical of the Finnish coast. It is aimed squarely at children old enough to climb and paddle, though younger ones can use the beach.

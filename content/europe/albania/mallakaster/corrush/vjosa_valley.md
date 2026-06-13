@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.4200
 longitude: 19.7800
+score: 7.5
 ---
 
 The Vjosa river runs through the valley below Corrush, forming part of one of the last large wild rivers in Europe. The Vjosa flows unimpeded for nearly 300 kilometres from its source in Greece to the Adriatic coast, with no major dams along its Albanian stretch. In 2023 it was declared Albania's first National Park, largely in response to international pressure following proposed hydroelectric dam projects.

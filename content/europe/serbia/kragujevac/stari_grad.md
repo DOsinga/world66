@@ -5,6 +5,7 @@ snippet: "Kragujevac's old town centre — the heart of the early Serbian capita
 tags: [things_to_do, sight, neighbourhood]
 latitude: 44.0142
 longitude: 20.9117
+score: 6.3
 ---
 
 Stari Grad — the old town — is the small grid of streets between the Lepenica river and the old princely court, where most of Kragujevac's historic buildings cluster. It is not picturesque in the Central European sense; the bombing of 1941 and the rebuilding under socialism left the centre mostly low-rise concrete with islands of 19th-century survival.

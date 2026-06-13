@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 7.4
 ---
 
 A stone's throw east of Wolferton, Dersingham Bog is a small but biologically rich expanse of valley mire and lowland heath — one of the few surviving fragments of what was once a much larger landscape across the Norfolk coast. It is a Site of Special Scientific Interest and a National Nature Reserve, looked after by Natural England.

@@ -14,6 +14,7 @@ story: >
   on a platform that includes the largest man-made stone plaza in antiquity. The massive
   lead-covered dome was actually not part of the original design — it was added in the
   11th century after earthquakes destroyed earlier structures.
+score: 8.8
 ---
 
 Islam's third holiest site, after Mecca and Medina, Al-Aqsa Mosque sits on the southern end of the Temple Mount (Haram al-Sharif) and has been a place of Muslim prayer since the early 8th century. The mosque as it stands today, with its distinctive silver dome, can accommodate around 5,000 worshippers; the wider Temple Mount compound, including the outdoor plaza and the Dome of the Rock, can hold tens of thousands more for Friday prayers.

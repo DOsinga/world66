@@ -10,6 +10,7 @@ tags:
   - shopping
   - sight
 snippet: "Pedestrianised shopping street that has been the centre of CBD retail since 1977"
+score: 5.2
 ---
 
 A short, pedestrianised stretch of Elizabeth Street between Liverpool and Collins streets, with the usual mix of mainstream Australian retailers, food courts in the arcades behind, and a handful of long-running independent shops. The Mall is the busiest pedestrian space in the city outside Saturday's Salamanca Market — buskers in summer, lunchtime rallies on quieter days, and a flow of office workers and shoppers throughout.

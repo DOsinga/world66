@@ -15,6 +15,7 @@ story: >
   existence. Guided tours occasionally reveal the brick-vaulted chambers,
   many still containing the ledger stones and memorial plaques of their
   original occupants.
+score: 6.4
 ---
 
 Beneath the Guildhall and the Market Place lies a network of brick-vaulted tunnels and burial chambers dating from the mid-19th century. The Derby Catacombs were constructed in 1856 as part of the new Guildhall development, intended to provide a more orderly and hygienic alternative to the overcrowded churchyards that surrounded the medieval town. They were used for a relatively short period before cemetery burial became standard practice.

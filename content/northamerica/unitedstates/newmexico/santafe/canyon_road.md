@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 35.6886
 longitude: -105.9281
+score: 9.0
 ---
 
 A half-mile lane east of the Plaza, lined with more than a hundred art galleries packed into the adobes that originally housed Santa Fe families. The galleries run the full range from earnest landscape painters to contemporary sculpture to native crafts — quality is high, prices higher.

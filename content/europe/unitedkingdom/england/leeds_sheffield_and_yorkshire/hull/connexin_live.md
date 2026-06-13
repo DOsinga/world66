@@ -7,6 +7,7 @@ tags:
 title: Connexin Live
 type: poi
 snippet: "Hull's main arena venue, hosting touring rock, pop, and comedy acts"
+score: 6.3
 ---
 
 Connexin Live (formerly Bonus Arena, formerly Hull Venue) opened in 2018 as part of the wider regeneration around Queen Victoria Square. It seats around 3,500 and is configured for everything from rock and pop tours to stand-up comedy, boxing, and conference work. The acoustics are well-judged and sight lines are good across all tiers.

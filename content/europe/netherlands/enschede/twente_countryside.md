@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: 52.25000
 longitude: 6.85000
+score: 8.1
 ---
 
 The Twente region around Enschede is one of the most pleasant cycling landscapes in the Netherlands — a gently rolling countryside of forest, farmland, and small villages that is unusual in the generally flat Dutch context. The slight hills (the "Twente hills" are modest by any European standard, but they count in the Netherlands) give the cycling enough variation to be interesting.

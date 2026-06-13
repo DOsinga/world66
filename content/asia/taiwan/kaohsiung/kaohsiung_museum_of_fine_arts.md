@@ -7,6 +7,7 @@ tags:
 latitude: 22.6597
 longitude: 120.2828
 snippet: City's main contemporary and historical art museum, set in a sculpture park
+score: 7.4
 ---
 
 The city's main fine-art museum, set in a 41-hectare park north of the centre. The permanent collection focuses on modern and contemporary Taiwanese art, with rotating exhibitions of South Asian and Pacific artists alongside. The Childrens' Museum of Fine Arts in the same complex is one of the best children's art spaces in the country.

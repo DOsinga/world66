@@ -7,6 +7,7 @@ tags:
 - museum
 title: Anatomy Museum
 type: poi
+score: 7.7
 ---
 
 The Musée d'Anatomie occupies the second floor of the Faculty of Medicine and is exactly the sort of museum that scares some visitors and delights others. The collection — much of it 19th-century — fills long galleries with anatomical preparations, deformed skeletons, wax models of internal organs, and several full écorchés (skinless figures) used for teaching surgical students.

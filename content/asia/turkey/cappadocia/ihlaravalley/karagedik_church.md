@@ -6,6 +6,7 @@ longitude: 34.2860
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 Karagedik is unusual in the valley because it is not carved into the cliff but built free-standing from blocks of cut stone — a small basilica of the late Byzantine period set back from the river near Belisirma. Most of the surrounding monastic compound has collapsed; the church survives.

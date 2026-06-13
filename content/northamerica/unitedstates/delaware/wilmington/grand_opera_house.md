@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.6
 ---
 
 The Grand Opera House on Market Street is Wilmington's most striking nineteenth-century building — a cast-iron facade from 1871, painted white, with elaborate Second Empire detailing. Originally a Masonic temple with a 1,200-seat theatre on the upper floors, it has been the home of the Delaware Symphony Orchestra and OperaDelaware since restoration in the 1970s.

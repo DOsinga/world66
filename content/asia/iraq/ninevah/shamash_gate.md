@@ -9,6 +9,7 @@ latitude: 36.3620
 longitude: 43.1700
 story: >
   Shamash was the Assyrian sun god and the god of justice — the same deity whose relief image appears at the top of the Code of Hammurabi stele in the Louvre. Naming a city gate after Shamash was a statement about the city's claim to divine order and legitimacy. Standing at the reconstructed gate, you are passing through the same threshold that Sennacherib, Esarhaddon, and Ashurbanipal walked through three thousand years ago.
+score: 7.7
 ---
 
 The Shamash Gate is one of the most impressive of Nineveh's reconstructed city gates, located on the eastern wall of the ancient city. Shamash, the sun god, was one of the most important deities in the Assyrian pantheon, and his gate was one of the principal entrances to the inner city.

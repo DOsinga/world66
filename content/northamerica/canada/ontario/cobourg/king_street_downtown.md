@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 43.9594
 longitude: -78.1670
+score: 7.8
 ---
 
 King Street is Cobourg's main commercial spine and one of the most coherent surviving Victorian streetscapes in small-town Ontario. The buildings between Division and Third are mostly 1860s-1890s brick, with original upper-floor facades, and the street still functions as a real downtown — independent bookstores, small restaurants, antique shops, and a couple of long-established jewellers and bakeries.

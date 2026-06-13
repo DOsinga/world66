@@ -10,6 +10,7 @@ story: >
   The word "conbento" is the Chamorro adaptation of "convento" — the Spanish term for a priest's residence attached to a mission church. Merizo's conbento is one of the few surviving examples in Guam, most having been destroyed in WWII or demolished in post-war construction.
 sources:
   - https://en.wikipedia.org/wiki/Merizo_Conbento
+score: 6.9
 ---
 
 The Merizo Conbento is a 19th-century stone building that served as the residence of the Spanish colonial priest attached to the Dulce Nombre de Maria church. It is listed on the US National Register of Historic Places as one of the best-preserved examples of Spanish-Chamorro colonial architecture in Guam.

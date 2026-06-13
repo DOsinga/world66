@@ -6,6 +6,7 @@ tags:
   - seafood
 latitude: -32.0564
 longitude: 115.7487
+score: 7.0
 ---
 
 The Fishing Boat Harbour at Fremantle is exactly what it sounds like: a working harbour where the fishing boats come in, and where several fish-and-chip restaurants and seafood markets have set up along the waterfront to take advantage of that proximity. Cicerello's and Kailis' are the two main establishments and have been feeding Fremantle visitors for decades, offering fresh fish — snapper, barramundi, samson fish — alongside lobster, prawns, and oysters from the WA coast. The setting is the point: plastic tables, seagulls eyeing your chips, boats bobbing in the harbour.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Teatro Farnese was inaugurated in 1628 for a royal wedding, and then used for only seven more performances before being closed and largely forgotten. After Allied bombing destroyed the roof in 1944, the restorers chose to rebuild it almost entirely in wood, matching the original construction down to the joinery."
+score: 9.0
 ---
 
 Hidden inside the Palazzo della Pilotta is the Teatro Farnese, the most extraordinary surviving Baroque theatre in Europe — a vast U-shaped auditorium built entirely in wood and painted to look like marble. Completed in 1618 by Aleotti as an opera house for the Farnese court, it could seat 3,000 spectators and was the first theatre with a proscenium arch designed for fully movable scenery.

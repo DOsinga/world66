@@ -11,6 +11,7 @@ tags:
 - bar
 title: Secret Garden
 type: poi
+score: 5.8
 ---
 
 A stylish lounge bar with leather couches and bean bags — not the place for a cheap night out, but genuinely comfortable and well-stocked with cocktails. Tucked away enough that you need to know it exists.

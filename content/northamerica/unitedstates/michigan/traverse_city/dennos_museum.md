@@ -8,6 +8,7 @@ latitude: 44.76472
 longitude: -85.58775
 sources:
   - https://en.wikipedia.org/wiki/Dennos_Museum_Center
+score: 8.0
 ---
 
 The Dennos Museum Center, on the campus of Northwestern Michigan College, houses one of the country's strongest collections of Inuit art — over 1,000 works, including sculptures, prints, and drawings from artists across the Canadian Arctic. The collection was assembled in the 1960s and 1970s and covers the period when Inuit printmaking became a recognized art form. It is not the kind of collection you expect to find in a small Midwest city, and it is worth the short drive east of downtown.

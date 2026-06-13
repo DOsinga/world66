@@ -6,6 +6,7 @@ longitude: 9.6080
 tags:
   - things_to_do
   - sport
+score: 7.6
 ---
 
 The Malbun ski area is Liechtenstein's only commercial ski resort: four lifts (the Sareis chairlift, two T-bars, and a beginner's drag) serving about 23 kilometres of runs between 1,600 and 2,000 metres. The terrain is best for beginners and intermediates, with one steeper run from the top of the Sareis. Snow cover is reliable from January to early April.

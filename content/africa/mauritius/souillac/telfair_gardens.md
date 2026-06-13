@@ -7,6 +7,7 @@ tags:
 latitude: -20.5187
 longitude: 57.5225
 snippet: Peaceful colonial gardens in the town centre, free to enter
+score: 5.6
 ---
 
 A small public garden at the heart of Souillac, laid out in the colonial era and named after Charles Telfair, a nineteenth-century Irish botanist who worked on the island and contributed significantly to the study of its flora. The gardens are modest in scope but genuinely pleasant — shaded, well-maintained, and free — with mature trees, a fountain, and benches that local residents actually use.

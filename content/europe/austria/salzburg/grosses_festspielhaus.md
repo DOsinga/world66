@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - altstadt
+score: 7.2
 ---
 
 The big house of the Salzburg Festival, the Großes Festspielhaus, is built directly into the side of the Mönchsberg — its 102-metre stage is one of the largest in the world. Clemens Holzmeister designed the building in 1960, replacing an older Festspielhaus from 1925.

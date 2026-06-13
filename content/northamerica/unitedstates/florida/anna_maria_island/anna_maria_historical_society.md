@@ -15,6 +15,7 @@ story: >
   genuinely odd survivor.
 sources:
   - https://en.wikipedia.org/wiki/Anna_Maria,_Florida
+score: 6.8
 ---
 
 The Anna Maria Island Historical Society operates out of the Belle Haven Cottage, a small early-20th-century structure that has a more dramatic biography than most buildings. The cottage was originally a private home on the waterfront, fell into Tampa Bay when the shoreline eroded beneath it, and was eventually salvaged and restored by local preservationists.

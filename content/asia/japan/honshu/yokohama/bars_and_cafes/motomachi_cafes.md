@@ -1,6 +1,7 @@
 ---
 title: "Motomachi and Yamate: Cafes and Bars"
 type: poi
+score: 6.4
 ---
 
 The Motomachi shopping street and the Yamate hillside above it have the most characterful cafes and small bars in Yokohama. Motomachi was the shopping street for the foreign community in the nineteenth and early twentieth centuries and still has a slightly European flavour — a mix of long-established kissaten (old-school coffee shops) and newer specialty coffee spots. The street is pleasant to walk in the morning before the shopping crowds arrive, and several of the cafes here have been doing things the same way for decades.

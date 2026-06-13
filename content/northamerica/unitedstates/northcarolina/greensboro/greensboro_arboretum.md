@@ -8,6 +8,7 @@ tags:
   - park
   - sight
 snippet: 17-acre public garden with themed collections and shaded paths
+score: 6.3
 ---
 
 The Greensboro Arboretum is a 17-acre public garden within Lindley Park, a few minutes' drive west of downtown. It is laid out in distinct themed collections — winter garden, butterfly garden, herb and vegetable beds, conifer collection — joined by short paths, with a small gazebo at the centre.

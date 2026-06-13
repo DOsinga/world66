@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 38.4189
 longitude: 27.1378
+score: 8.2
 ---
 
 The Agora of Smyrna has been developed as an open-air archaeological museum since the 1990s, with the excavated remains accessible to visitors on a self-guided circuit. The site covers several city blocks, and ongoing excavations continue to reveal new sections — visiting now means seeing an archaeological site in active use, with visible trenches, exposed mosaic floors, and partially reconstructed colonnades.

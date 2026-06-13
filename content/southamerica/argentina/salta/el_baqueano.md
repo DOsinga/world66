@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -24.7875
 longitude: -65.4108
+score: 6.8
 ---
 
 One of Salta's better restaurants for traditional north-western Argentine cooking — the menu runs to locro (a hearty stew of maize, white beans, and meat, particularly good in winter), humitas (steamed maize parcels), tamales, and of course empanadas salteñas. The cooking is straightforward but careful, with good-quality ingredients.

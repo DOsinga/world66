@@ -7,6 +7,7 @@ tags:
 latitude: 21.0388
 longitude: 105.8258
 snippet: "Untouched French colonial natural history collection at the science university"
+score: 7.1
 ---
 
 The natural history museum at Hanoi University of Science is one of those places that has been largely bypassed by the modernization of Vietnamese cultural institutions. The collection of taxidermy specimens, skeletal mounts, and wet jars of preserved animals was assembled during the French colonial period and has changed relatively little since. Display cases of faded labels, hand-lettered in French and Latin, hold birds, mammals, reptiles, and marine creatures from across Indochina. The taxidermy has the particular stiffness of early-20th-century technique; the specimens are mounted in positions that tell you more about colonial aesthetics than animal behavior.

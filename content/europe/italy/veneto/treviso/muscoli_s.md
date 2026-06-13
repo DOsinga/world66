@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 45.6671
 longitude: 12.2434
+score: 5.8
 ---
 
 A small, busy bacaro on a corner of Piazza dei Signori, with a few outside tables and a constant stream of locals stopping for a quick spritz Aperol or glass of Prosecco. The cicchetti on the counter — anchovies, marinated artichokes, small fritters — change through the day.

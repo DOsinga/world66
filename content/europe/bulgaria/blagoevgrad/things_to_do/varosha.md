@@ -8,6 +8,7 @@ tags:
 latitude: 41.7521
 longitude: 23.4886
 snippet: Blagoevgrad's old quarter of cobbled streets and National Revival architecture
+score: 8.0
 ---
 
 The most atmospheric part of Blagoevgrad, Varosha occupies a hillside above the modern city centre. Its narrow cobbled streets, stone-walled courtyard houses, and wooden balconies represent the Bulgarian National Revival style of the 18th and 19th centuries — the architectural idiom of the period when Bulgarian culture reasserted itself under Ottoman rule. The quarter is well-preserved and genuinely pleasant to walk.

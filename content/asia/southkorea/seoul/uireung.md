@@ -9,6 +9,7 @@ tags:
 - sight
 title: Uireung
 type: poi
+score: 6.8
 ---
 
 Uireung is the burial complex of King Gyeongjong (r. 1720–1724), the twentieth king of the Joseon dynasty, and his second queen consort Seonui. Set in the wooded hills of Seongbuk-gu, the site is one of the more tranquil royal tombs within the city — far less visited than the grander complexes at Donggureung or Seolleung.

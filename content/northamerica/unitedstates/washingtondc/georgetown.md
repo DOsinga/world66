@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 38.9076
 longitude: -77.0721
+score: 8.2
 ---
 
 Georgetown is the oldest part of Washington, pre-dating the federal district by decades, and it shows in the streetscape: Federal and Victorian row houses, cobbled streets in places, and a scale that feels more like an old Maryland port town than a planned capital city. The neighbourhood runs from the Potomac waterfront north to Wisconsin Avenue and from Rock Creek west to Georgetown University.

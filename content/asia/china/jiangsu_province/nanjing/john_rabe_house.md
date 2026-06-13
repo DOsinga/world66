@@ -8,6 +8,7 @@ tags:
 - museum
 - historic_site
 story: John Rabe was a Nazi Party member and Siemens manager who, during the 1937 massacre, set up the Nanjing Safety Zone and used his Nazi armband as protection against Japanese soldiers — SS insignia had symbolic weight with Japan's Axis ally. His diaries, published decades after his death, are considered one of the key eyewitness accounts of the massacre. He saved an estimated 250,000 lives.
+score: 8.1
 ---
 
 The John Rabe House is the preserved home of John Rabe, the German businessman who led the International Safety Zone during the Nanjing Massacre of 1937-1938. Rabe created the zone in defiance of the Japanese military occupation, sheltering hundreds of thousands of Chinese civilians in his compound and in a larger protected district that he administered with other foreigners.

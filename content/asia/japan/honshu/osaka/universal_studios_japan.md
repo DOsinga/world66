@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 34.6654
 longitude: 135.4324
+score: 6.9
 ---
 
 The major theme park in the north of Osaka, drawing over 14 million visitors annually and consistently ranking among the busiest theme parks in Asia. The park is modelled on its American counterparts but has developed its own character, with a particularly strong reputation for Wizarding World of Harry Potter — the Hogsmeade section is widely considered the most elaborate version anywhere in the Universal park network.

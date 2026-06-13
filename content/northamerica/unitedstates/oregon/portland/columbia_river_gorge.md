@@ -9,6 +9,7 @@ latitude: 45.5468
 longitude: -122.0336
 story: >
   The Columbia River Gorge was carved by the Missoula Floods — a series of catastrophic ice-dam failures at the end of the last ice age, between 15,000 and 13,000 years ago. Each flood released more water than all the world's rivers combined flow in a year, carving the gorge in a matter of days. The vertical basalt walls, up to 1,500 feet high in places, are the direct result of repeated floods. Multnomah Falls drops 620 feet in two tiers, making it the second-highest year-round waterfall in the United States.
+score: 8.8
 ---
 
 The Columbia River Gorge begins about 30 km east of Portland on Interstate 84, where the Columbia River has cut through the Cascade Range, creating a dramatic canyon of basalt cliffs and waterfalls. The Historic Columbia River Highway, built in 1916, runs along the Oregon side with overlooks and access to more than a dozen waterfalls including Crown Point, Latourell Falls, and Multnomah Falls.

@@ -8,6 +8,7 @@ latitude: 29.9972
 longitude: 31.2250
 story: >
   The Nilometer on Rhoda Island is one of the oldest human-built scientific instruments still standing. Annual flood levels were measured here for over a millennium and recorded in a continuous dataset stretching from the 7th century to the 19th — the longest meteorological record in human history before modern instrumentation. The data was used not just for agriculture but to calculate taxes: the higher the flood, the richer the harvest, the higher the levy.
+score: 7.5
 ---
 
 The Nilometer on Rhoda Island is one of Cairo's most unusual monuments: a deep octagonal shaft reaching down to the Nile, with a graduated column in the centre for measuring annual flood levels. The structure dates to 715 CE, though a Nilometer has occupied this site since pharaonic times — the Nile flood was the foundation of Egyptian civilization, and measuring it accurately was essential for agriculture and governance.

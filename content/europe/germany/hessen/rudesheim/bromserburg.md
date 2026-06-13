@@ -10,6 +10,7 @@ latitude: 49.9776
 longitude: 7.9177
 story: >
   The Brömserburg is one of the oldest surviving castles in the Rhine valley, with records going back to the 10th century. The Brömser family who gave it their name were wealthy Rüdesheim burghers who used the tower as a private fortress. Today it houses nearly 2,000 wine-related exhibits — a fitting second life for a building that sat at the heart of one of Germany's most famous wine regions.
+score: 7.6
 ---
 
 The Brömserburg, also known as the Rheingau Wine Museum, is a sturdy 10th-century castle on the Rhine bank at the western end of Rüdesheim's old town. It is one of the oldest intact castles on the Rhine, and its thick round tower is a distinctive landmark visible from the opposite bank.

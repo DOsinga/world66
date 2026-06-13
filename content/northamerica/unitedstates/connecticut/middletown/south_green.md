@@ -7,6 +7,7 @@ tags:
   - sight
 title: Middletown South Green
 type: poi
+score: 6.1
 ---
 
 The South Green is the older of Middletown's two public greens and has a more formal, monumental quality than the North Green nearer to Main Street. The green is surrounded by civic and religious buildings, including St. Mary of Czestochowa Church, and several historically significant houses on the surrounding streets. The Christopher Columbus statue nearby was a subject of local debate during the 2020 protests over such monuments.

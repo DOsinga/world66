@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 42.7845
 longitude: -8.8889
+score: 7.6
 ---
 
 The 15th-century church of San Martiño anchors the upper end of Noia's old town. Its carved west portal is one of the finest examples of late Galician Gothic work — figures of apostles and saints clustered into the archivolt, worn by centuries of Atlantic rain but still legible in their detail. The bell tower rises at the corner, giving the whole composition an asymmetry that seems deliberate and pleasing.

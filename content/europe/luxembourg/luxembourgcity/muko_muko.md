@@ -11,6 +11,7 @@ tags:
 title: Muko Muko
 type: poi
 url: mukomuko.lu
+score: 5.3
 ---
 
 A two-room club with a broad musical policy — mostly RnB and house — open Wednesdays, Fridays, Saturdays, and before public holidays. Has a loyal following and a reputation for a good atmosphere without being too exclusive.

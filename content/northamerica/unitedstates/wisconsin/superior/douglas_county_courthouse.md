@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 46.7211
 longitude: -92.0969
+score: 7.1
 ---
 
 The Douglas County Courthouse at 1313 Belknap Street is one of Superior's most handsome buildings, a Romanesque Revival structure that has anchored the city's civic centre since 1889. It is listed on the National Register of Historic Places and still functions as a working courthouse.

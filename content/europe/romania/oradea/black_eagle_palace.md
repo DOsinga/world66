@@ -10,6 +10,7 @@ tags:
   - art_nouveau
 snippet: Y-shaped Art Nouveau palace with a stained-glass shopping arcade
 story: "The Y-shaped passage running through the building is glazed with a stained-glass roof showing a black eagle in flight — the symbol that gave the palace its name. Local legend has it the eagle's wings were modelled on a stuffed specimen the architects kept in their studio for the duration of the project."
+score: 8.9
 ---
 
 The Palatul Vulturul Negru is Oradea's signature Art Nouveau (or Secession) building, completed in 1908 to designs by Komor Marcell and Jakab Dezső, the Budapest architects also responsible for the Stern and Apollo palaces across the river. The exterior runs to the kind of asymmetric, decorated façades the style is known for, with curved balconies, floral plasterwork and copper-edged dormers.

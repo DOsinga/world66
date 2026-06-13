@@ -6,6 +6,7 @@ tags:
   - sight
 title: Beethoven Monument
 type: poi
+score: 6.7
 ---
 
 The bronze statue of Ludwig van Beethoven on the Münsterplatz was unveiled in 1845, with Queen Victoria and her consort Prince Albert attending the ceremony. It was one of the first public monuments to a composer ever erected in Germany — fitting for a city whose greatest claim to fame is his birth.

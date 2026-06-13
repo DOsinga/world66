@@ -11,6 +11,7 @@ tags:
 - market
 title: Trattoria Mario
 type: poi
+score: 7.2
 ---
 
 A beloved Florentine trattoria in business since 1953, steps from the Mercato Centrale. Communal bench seating, cash only, no reservations — the room fills immediately when it opens at noon and stays full until the kitchen closes. The menu changes daily but always includes ribollita (bread and vegetable soup), pasta with meat sauce, and simple Florentine mains. Described by regulars as eating "like being in someone's house."

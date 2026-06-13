@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.7
 ---
 
 The Ismailiyye Palace is the most striking of the buildings on Istiglaliyyat Street: a Venetian Gothic pile in dark grey stone, built between 1907 and 1913 by the oil magnate Musa Naghiyev as a memorial to his son Aga Ismayil, who died of tuberculosis at the age of nineteen. The architect was the Pole Józef Płoszko, who borrowed liberally from the Doge's Palace.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - old_gra
   - restaurant
+score: 7.8
 ---
 
 Port Harcourt's own culinary tradition belongs to the Niger Delta — a cuisine built around freshwater and saltwater fish, crab, periwinkle, and the distinctive seafood soups of the Ijaw, Ogoni, and Kalabari peoples. The most important dish to seek out is banga soup — a rich, palm-nut broth cooked with catfish or crayfish and seasoned with spices that are unique to delta cooking. It is eaten with starch (a firm cassava pudding) and is quite unlike anything in Yoruba or Igbo cooking.

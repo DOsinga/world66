@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Corpus_Christi_Cathedral_(Port_Harcourt)
+score: 6.1
 ---
 
 Corpus Christi Cathedral is the principal Catholic church of Port Harcourt and one of the oldest religious buildings in the city. It stands in the D-line area and is a landmark of colonial-era ecclesiastical architecture in Rivers State. The building has been expanded and renovated over the decades but retains its original form and remains an active parish church.

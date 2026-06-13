@@ -6,6 +6,7 @@ longitude: -92.2820
 tags:
   - things_to_do
   - neighbourhood
+score: 8.2
 ---
 
 The Quapaw Quarter is Little Rock's historic heart — a nine-square-mile district centred on the oldest residential and commercial areas of the city. The neighbourhood takes its name from the Quapaw Nation, the indigenous people who lived in central Arkansas before European settlement.

@@ -8,6 +8,7 @@ tags:
 title: Akauk Taung
 type: poi
 story: "Akauk Taung — 'Tax Mountain' — was the customs post where British colonial officials taxed boats heading upriver in the 19th century. Bored sentries spent their watches carving Buddha images into the cliff face above the water, and over decades the whole hillside filled up with hundreds of them."
+score: 8.2
 ---
 
 About 25 kilometres downstream from Pyay on the west bank of the Ayeyarwady, a low limestone cliff rises straight out of the river. Almost the entire face is carved with Buddhist images — seated Buddhas, niches, and a few larger reliefs — accumulated over centuries.

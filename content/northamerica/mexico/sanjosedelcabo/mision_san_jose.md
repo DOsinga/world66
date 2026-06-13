@@ -7,6 +7,7 @@ tags:
 latitude: 23.0621
 longitude: -109.6958
 story: "The Jesuit mission of San José del Cabo was established in 1730 as the southernmost mission on the Baja California peninsula — a strategic position intended to supply Manila galleons crossing the Pacific. The mission's existence was almost immediately controversial: a Pericú uprising in 1734 killed two priests and forced the abandonment of three missions. San José was evacuated but re-established; the Pericú people were effectively eliminated through epidemic disease within a generation."
+score: 6.7
 ---
 
 The original mission site at the top of the plaza, now occupied by the Parroquia San José church. The fourth and current church building was completed in the 1940s in Baroque Revival style, but the site has been a place of Catholic worship continuously since 1730, when Jesuit father Nicolás Tamaral established the mission among the Pericú people.

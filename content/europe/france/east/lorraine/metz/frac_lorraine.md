@@ -6,6 +6,7 @@ longitude: 6.1795
 tags:
   - things_to_do
   - museum
+score: 6.9
 ---
 
 The Frac Lorraine is a regional contemporary art collection housed in a discreet 18th-century townhouse near Place Saint-Louis. The collection — about 600 works by international contemporary artists — leans towards conceptual and politically engaged work, with rotating exhibitions changing several times a year. It is one of the more challenging modern art spaces in France, and a useful counterpoint to the Pompidou's big-name shows.

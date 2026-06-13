@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - architecture
   - sight
+score: 6.9
 ---
 
 The Antonín Dvořák Theatre is Ostrava's main opera house, opened in 1907 as the German-language Stadttheater Mährisch-Ostrau and renamed after the Czech composer following the First World War. The neo-Baroque interior — gilded plasterwork, a painted ceiling and a chandelier the size of a Trabant — feels lifted from a much grander city.

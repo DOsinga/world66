@@ -7,6 +7,7 @@ tags:
 snippet: Wild, reef-free beach with real surf — the un-resort side of Punta Cana
 latitude: 18.7333
 longitude: -68.4167
+score: 7.8
 ---
 
 Macao is one of the few public beaches on the Punta Cana coast that has no resort hotel backing it. There is no reef here either, so the Atlantic comes in with full force — which makes it the best surf beach in the area, and the most dramatic stretch of coast in what is otherwise a uniformly calm, sheltered shoreline.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: "Belle Époque casino at the heart of Deauville's elegant resort architecture"
+score: 7.2
 ---
 
 The Casino Barrière is the social anchor of Deauville's seafront — a grand Belle Époque pavilion in white stone with a red-tiled cupola, opened in 1912 and still the most visible single building in town. It contains slot machines and gaming tables, a 600-seat theatre that hosts the Deauville American Film Festival screenings, several bars, and a Michelin-listed brasserie.

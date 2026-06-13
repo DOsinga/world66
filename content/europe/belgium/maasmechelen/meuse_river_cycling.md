@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.963418
 longitude: 5.696021
+score: 7.6
 ---
 
 The Meuse river towpath through Maasmechelen is part of one of Belgium's best long-distance cycling routes. The flat riverside path follows the Meuse north into the Netherlands and south toward Liège, offering an easy ride through a working river landscape of barges, weirs, and poplar-lined banks. Maasmechelen sits where the Belgian, Dutch, and German borders converge — a short ride north brings you to the Drielandenpunt, the point where all three meet.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.3680
 longitude: 118.3945
+score: 7.2
 ---
 
 The Yangtze Riverside Park stretches along Wuhu's northern bank, providing access to the river that defined the city's historical identity as a treaty port and trading center. The park is a broad promenade with views across to the far bank — the river here is wide enough that the opposite shore appears as a low green line rather than a distinct landscape. Evening is the best time to visit, when residents gather for walks, dancing, and the small night food stalls that set up along the promenade.

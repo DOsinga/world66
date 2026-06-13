@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: 13th-century barbican gate to Newcastle Castle, severed from the keep by railway
+score: 7.6
 ---
 
 The 13th-century outer barbican to Newcastle Castle, added by Henry III in 1247. The structure now stands a hundred yards from the keep — the East Coast Main Line railway viaduct runs directly between the two — but together they form the Newcastle Castle ticketed visit. The Black Gate's upper floors hold the historical exhibition.

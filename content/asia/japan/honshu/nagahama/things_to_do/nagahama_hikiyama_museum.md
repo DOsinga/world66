@@ -8,6 +8,7 @@ tags:
   - museum
   - festival
 snippet: "A purpose-built museum housing several of the ornate hikiyama festival floats, some over 300 years old, complete with their miniature kabuki stages."
+score: 7.9
 ---
 
 The **Nagahama Hikiyama Festival Museum** (長浜市曳山博物館) was built specifically to display and preserve the hikiyama — the colossal gilded floats used in the city's famous April festival. Of the twelve floats in the city's collection, two are always on show in the main hall, rotated annually so that each float can be fully seen up close over time. The scale of these objects is striking: each stands several metres tall, sheathed in gold leaf and lacquerwork, with intricate carvings and silk curtains.

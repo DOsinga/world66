@@ -8,6 +8,7 @@ latitude: 32.5440
 longitude: -117.0428
 sources:
   - https://en.wikipedia.org/wiki/Las_Americas_Premium_Outlets
+score: 3.8
 ---
 
 Las Americas Premium Outlets is a large open-air shopping centre positioned just north of the border, designed specifically to catch cross-border traffic in both directions. It holds over 125 brand-name outlet stores and draws shoppers from both San Diego and Tijuana looking for American retail prices. Anchor stores include Gap, Coach, Nike, and a range of mid-market American brands.

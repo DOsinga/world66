@@ -9,6 +9,7 @@ tags:
   - architecture
   - balboa_peninsula
 story: "The pavilion was built in 1906 as a railway terminus and Victorian bathhouse for tourists arriving on the Pacific Electric Red Car line from Los Angeles. It claims to be one of California's last surviving examples of Victorian harbour architecture. Big Band swing dances filled the upper-floor ballroom through the 1930s and 1940s — Glenn Miller, Count Basie and Benny Goodman all played here."
+score: 7.1
 ---
 
 The Balboa Pavilion is the most photographed building in Newport Beach: a white Victorian harbour structure with a cupola and a wraparound deck, perched at the water's edge on the Balboa Peninsula. It serves as the departure point for harbour cruises, whale-watching trips (winter and spring) and the Catalina Flyer ferry across to Avalon.

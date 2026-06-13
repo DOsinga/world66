@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/William_McKinley_Presidential_Library_and_Museum
+score: 7.3
 ---
 
 The William McKinley Presidential Library and Museum sits adjacent to the McKinley National Memorial on Monument Park and covers McKinley's life, presidency, and era in considerable depth. The museum was founded in 1945 and has grown into one of the more substantial presidential libraries in the Midwest, with exhibits on the 1890s economy, the Spanish-American War, the annexation of Hawaii and the Philippines, and the McKinley family's life in Canton.

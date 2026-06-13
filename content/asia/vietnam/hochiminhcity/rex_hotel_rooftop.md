@@ -19,6 +19,7 @@ story: >
   a term for any government press briefing perceived as misleading.
 sources:
   - https://en.wikipedia.org/wiki/Rex_Hotel
+score: 7.7
 ---
 
 The Rex Hotel on Nguyen Hue Boulevard is one of the most historically resonant buildings in Ho Chi Minh City. During the American War, it was the billet for senior US military officers and the site of the daily military press briefings that journalists nicknamed "the Five O'Clock Follies" for their relentless optimism.

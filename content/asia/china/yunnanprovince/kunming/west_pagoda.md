@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - pagoda
+score: 6.7
 ---
 
 The smaller and quieter twin of the East Pagoda, the West Pagoda (Xisi Ta) stands a few hundred metres away in an alley just off Dongsi Pagoda Street. Like its larger counterpart it dates in origin to the Tang dynasty and the long-gone Hui Guang Temple, and has been rebuilt and patched several times since.

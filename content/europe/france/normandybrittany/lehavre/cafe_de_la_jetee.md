@@ -7,6 +7,7 @@ tags:
 - bar
 title: Café de la Jetée
 type: poi
+score: 5.3
 ---
 
 The Café de la Jetée sits near the waterfront at the edge of the avant-port, with terrace seating that looks out over the harbour approach and the coming and going of ferries and cargo ships. It is the kind of café that exists to be sat in for an hour watching the water — good coffee, cold beer, a workable croque-monsieur.

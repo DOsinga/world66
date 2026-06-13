@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.0853
 longitude: -77.1508
+score: 6.8
 ---
 
 Rockville Town Square is the revitalised core of downtown, a mixed-use development of shops, restaurants, and apartments arranged around a public plaza. It replaced an unpopular enclosed mall that had hollowed out the historic downtown in the 1970s, and the result is a genuinely pleasant urban space.

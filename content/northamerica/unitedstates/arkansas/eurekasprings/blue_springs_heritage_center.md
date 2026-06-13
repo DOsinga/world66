@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.4028
 longitude: -93.7364
+score: 8.0
 ---
 
 Blue Springs Heritage Center is built around the largest natural spring in northwest Arkansas, a dramatic blue-green pool fed by an underground aquifer that discharges 38 million gallons of water per day. The surrounding grounds include native wildflower gardens, bluffs with carved niches and Native American historical significance, and a boardwalk system through the spring-fed marshland. The water's extraordinary clarity and colour — a vivid turquoise even in overcast weather — makes the spring itself the main attraction.

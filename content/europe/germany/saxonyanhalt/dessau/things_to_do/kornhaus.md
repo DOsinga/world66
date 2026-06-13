@@ -9,6 +9,7 @@ latitude: 51.8632
 longitude: 12.2078
 sources:
   - https://en.wikipedia.org/wiki/Kornhaus_(Dessau)
+score: 7.5
 ---
 
 The Kornhaus sits on the western bank of the Elbe about three kilometres north of the city centre — a low, curved restaurant-and-dance-pavilion that Carl Fieger (a member of the Gropius office) designed in 1929–30. It is the most relaxed of the Dessau Bauhaus buildings: wide terraced windows look out over the river, the circular dance floor opens onto a riverside terrace, and the whole thing has the feel of a building designed for pleasure rather than pedagogy.

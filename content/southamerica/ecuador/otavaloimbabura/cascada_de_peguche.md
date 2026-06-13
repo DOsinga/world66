@@ -16,6 +16,7 @@ story: >
   more serious.
 sources:
   - https://en.wikipedia.org/wiki/Otavalo_(city)
+score: 7.8
 ---
 
 A twenty-minute walk from the town of Peguche (itself a short bus or taxi ride from Otavalo), this 18-metre waterfall drops into a clear pool in a eucalyptus forest. The walk through the forest is pleasant, the waterfall is genuinely impressive, and the whole excursion takes no more than a couple of hours including transport.

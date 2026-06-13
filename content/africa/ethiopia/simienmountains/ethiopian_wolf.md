@@ -14,6 +14,7 @@ story: >
   since then with conservation intervention. The wolves are unusual among
   canids in that they are almost entirely solitary hunters, specialising
   in catching giant mole rats that live in the highland meadows.
+score: 8.4
 ---
 
 Ethiopian wolves are one of the three endemic species that justify the Simien Mountains' UNESCO status, and seeing one in the wild is a legitimate wildlife highlight. The animals live in the high-altitude Afro-alpine moorland above 3,000 metres, where they hunt rodents — particularly giant mole rats — in the open grasslands. Sightings are most likely in the high areas around Chennek camp and the moorland approaching Ras Dashen.

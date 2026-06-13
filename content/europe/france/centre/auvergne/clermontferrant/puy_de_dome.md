@@ -13,6 +13,7 @@ tags:
 - sight
 title: Puy de Dôme
 type: poi
+score: 9.3
 ---
 
 The Puy de Dôme, at 1,465 metres, is the highest point of the Chaîne des Puys — the chain of extinct volcanic cones that frames Clermont-Ferrand to the west — and the dominant landmark of the Auvergne. On clear days the view from the summit encompasses the entire volcanic chain (80 peaks visible at once), the Massif Central to the south, and on exceptional days the Alps to the east. The Clermont city below looks small from here.

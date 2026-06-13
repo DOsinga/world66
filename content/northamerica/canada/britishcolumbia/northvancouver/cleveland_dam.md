@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.3617
 longitude: -123.1097
+score: 6.5
 ---
 
 The Cleveland Dam, completed in 1954, dams the Capilano River to create the Capilano Reservoir — one of the three drinking-water reservoirs that supply metropolitan Vancouver. The concrete arch dam is 91 metres high; the spillway lip is open to the public on a paved walkway across the top, and on the south side a small lookout gives the best photograph of the dam, the reservoir, and (on a clear day) the Lions peaks behind.

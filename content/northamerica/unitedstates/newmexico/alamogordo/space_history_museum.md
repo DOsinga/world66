@@ -12,6 +12,7 @@ story: >
   in space, launched from White Sands in 1961 — is buried in the garden outside
   the museum. His flight preceded John Glenn's orbital mission by less than a
   year.
+score: 8.4
 ---
 
 A museum and planetarium complex on the eastern slope of Alamogordo, dedicated to the history of spaceflight and the Space Age. The building overlooks the Tularosa Basin and White Sands to the west — a view that puts the New Mexico space connection in context, since this region was central to the development of American rocketry.

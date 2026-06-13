@@ -6,6 +6,7 @@ longitude: 13.7625
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 A small but well-presented museum in the village centre dedicated to the constellation of writers, composers, and artists who summered in Altaussee from the late 19th century onward — Hugo von Hofmannsthal, Jakob Wassermann, Theodor Herzl, Friedrich Torberg, and many others.

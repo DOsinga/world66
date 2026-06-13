@@ -7,6 +7,7 @@ tags:
 latitude: 34.7571
 longitude: 72.3622
 story: "Excavation of the Butkara Stupa revealed five concentric stupas built one inside the next, each enlarging the structure as it was successively rebuilt over five hundred years — the kind of layered Buddhist devotion that makes Swat unique."
+score: 8.2
 ---
 
 The Butkara Stupa sits in a small archaeological park on the outskirts of Mingora and is the most important Buddhist site in the Swat Valley. Originally built in the 2nd century BC, it was rebuilt repeatedly until the 10th century AD, when Buddhism faded from the region. Italian archaeologists led the modern excavations from the 1950s onward.

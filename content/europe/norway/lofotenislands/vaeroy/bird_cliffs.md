@@ -5,6 +5,7 @@ tags: [things_to_do, sight, wildlife]
 latitude: 67.625
 longitude: 12.580
 story: The western face of Værøy hosts one of the densest concentrations of nesting seabirds in Norway — hundreds of thousands of individual birds on a single vertical wall of rock, the noise and smell reaching you long before the cliffs come into view from the boat.
+score: 9.3
 ---
 
 The western side of Værøy is a different world from the sheltered harbor at Sørland. Here the island ends in sheer basalt cliffs dropping straight into the Atlantic, and every ledge, crack, and overhang holds birds. Puffins, razorbills, common guillemots, kittiwakes, shags, and cormorants nest here in numbers that have to be seen to be believed. On a calm summer morning the cliffs are alive with motion — birds launching off ledges, spiraling out over the water, returning with fish. The sound is a constant roar.

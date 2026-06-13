@@ -8,6 +8,7 @@ latitude: 33.2980
 longitude: 131.5120
 story: >
   Historical evidence for the original Kifune Castle is scant — local records suggest a fortification existed on this hill but no reliable documentation survives. The current structure was built in 1992 as an observation tower and interpretive centre rather than a historical reconstruction. Atlas Obscura notes the castle is guarded by resident king cobras, an unusual feature attributed to the eccentric vision of the developer who built it.
+score: 5.6
 ---
 
 Kifune Castle sits on a hill east of Beppu Station and serves primarily as an observation tower with views over the city and Beppu Bay. The reconstructed castle tower houses displays on Beppu history and the surrounding coastal landscape. It is a somewhat eccentric attraction — the original castle it supposedly reconstructs has minimal historical documentation — but the hilltop setting and the views are genuine.

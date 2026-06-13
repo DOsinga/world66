@@ -12,6 +12,7 @@ story: >
   and marine protected area. The volcanic basalt columns were formed by the same eruptions that built
   Mount Etna looming to the northwest — ancient mythology and modern geology converging on the same
   stretch of coast.
+score: 8.2
 ---
 
 The Faraglioni dei Ciclopi are a cluster of dramatic basalt sea stacks rising from the water just offshore from Acitrezza, their dark columns stacked like organ pipes above the sea. They are the defining image of this coast and the reason most visitors come. In the right light — early morning or late afternoon — they are genuinely spectacular.

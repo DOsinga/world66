@@ -5,6 +5,7 @@ tags: [things_to_do, sight, ruin]
 latitude: 45.7372
 longitude: 7.3203
 story: "The Porta Praetoria was the main eastern gate of the Roman colony of Augusta Praetoria, founded in 25 BC. Unlike most Roman gates elsewhere in Europe, both the outer and inner arches of the double gate survive essentially complete, enclosing a small forecourt between them. The pale local granite it was built from has proved more durable than limestone, which is part of why it still stands to near-original height after two millennia."
+score: 8.9
 ---
 
 The Porta Praetoria is the most complete Roman gate in the Alpine region, and one of the best-preserved anywhere in Italy. Built in the final decades of the first century BC, it consists of two parallel arched facades — an outer gate and an inner gate — with a rectangular courtyard between them. The outer arch was flanked by towers of which substantial remains survive. The whole structure served both as a fortified entrance and as an architectural statement: this was a Roman city, and it looked like one.

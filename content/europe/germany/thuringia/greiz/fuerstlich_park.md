@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - park
   - sight
+score: 8.2
 ---
 
 The Princely Park is the great surprise of Greiz: a 50-hectare English landscape garden laid out in the early 19th century along the meanders of the White Elster, with the Sommerpalais set at one end and a sequence of meadows, lakes, follies and a rosery winding away to the north.

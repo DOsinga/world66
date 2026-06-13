@@ -8,6 +8,7 @@ tags:
 latitude: 43.266700
 longitude: -7.633300
 story: "The Terra Chá — literally 'flat land' — is an anomaly in Galicia, a province defined by its rugged coastline and steep river valleys. This broad inland plateau was formed by glacial outwash and sits at around 450 metres elevation, giving it a continental climate quite different from the wet Atlantic coast just 70 kilometres away."
+score: 6.5
 ---
 
 The Terra Chá is the agricultural heartland of inland Lugo province — a wide, almost completely flat plateau of hayfields, dairy farms, and small villages connected by narrow roads lined with stone walls and eucalyptus. It is not dramatic scenery by Galician standards, but it has a quiet, pastoral quality that contrasts sharply with the crowded coastal tourist trail.

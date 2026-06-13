@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Two-Michelin-star restaurant in a remote lakeside farmhouse — Faroese tasting menus only
+score: 7.8
 ---
 
 Koks is the most ambitious restaurant in the Faroes and one of the most talked-about in the North Atlantic. Chef Poul Andrias Ziska serves a long tasting menu built almost entirely from Faroese ingredients — fermented lamb, dried fish, sea urchin, foraged herbs, and the occasional puffin — at a remote farmhouse by Leynavatn lake, an hour by shuttle from Tórshavn.

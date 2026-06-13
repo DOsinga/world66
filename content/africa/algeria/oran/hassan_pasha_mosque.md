@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 The Hassan Pasha Mosque — also known as the Pasha Mosque or Oran Grand Mosque — was built in 1796 by Mohamed el-Kebir Bey to celebrate the Ottoman reconquest of Oran from the Spanish. Funded partly by the ransom paid for Spanish prisoners taken during the siege, the mosque is the oldest substantially intact Ottoman-era mosque in the city.

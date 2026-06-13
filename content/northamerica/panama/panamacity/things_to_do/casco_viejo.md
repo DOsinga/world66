@@ -3,6 +3,7 @@ title: Casco Viejo
 type: poi
 latitude: 8.9468
 longitude: -79.5360
+score: 9.4
 ---
 
 The Casco Viejo — the "Old Quarter" founded in 1673 after Henry Morgan's pirates burned the original city to the ground — is the most rewarding neighbourhood in Panama City and, arguably, in all of Central America. It is a compact grid of colonial streets pressing up against the Pacific on a small peninsula, and it rewards wandering: Spanish and French colonial mansions in various states of glory and decay, small plazas shaded by mango trees, the cathedral towers rising above the rooftops, and glimpses of the modern skyline across the bay in every other direction.

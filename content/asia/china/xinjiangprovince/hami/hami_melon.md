@@ -7,6 +7,7 @@ tags:
   - food
 latitude: 42.8193
 longitude: 93.5151
+score: 6.7
 ---
 
 The Hami melon (哈密瓜) is one of the most celebrated agricultural products in China, and visiting Hami in the harvest season (July to October) gives you the opportunity to eat it at source in a way that supermarket versions in Chinese cities cannot replicate. The peak-season melons are large, golden-skinned, white-fleshed, and intensely sweet — the combination of the oasis basin's mineral-rich soil, intense summer sun, and cold desert nights produces a sugar content that is difficult to match elsewhere.

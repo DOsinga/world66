@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "In 1288 the Vietnamese general Trần Hưng Đạo destroyed an invading Mongol fleet here by planting iron-tipped stakes in the river bed at low tide. When the Mongol ships sailed upriver on the rising tide and tried to retreat as the water dropped, hundreds of them were skewered and sunk. The same trick had been used by Ngô Quyền against the Chinese 350 years earlier."
+score: 7.1
 ---
 
 The Bạch Đằng River runs north of Haiphong and is one of the most historically significant waterways in Vietnam. Three separate naval battles fought here — in 938, 981, and 1288 — broke successive invasions from China and Mongolia, and effectively founded the modern Vietnamese state.

@@ -9,6 +9,7 @@ tags:
   - architecture
 sources:
   - https://en.wikipedia.org/wiki/Charlotte_County_Gaol
+score: 7.1
 ---
 
 A stout granite building from 1832, the Charlotte County Gaol was the county jail until 1979 and is one of the oldest surviving purpose-built prisons in Canada. The stonework is excellent — thick walls of rough-cut grey granite quarried locally — and the interior preserves cell blocks and corridors substantially unaltered.

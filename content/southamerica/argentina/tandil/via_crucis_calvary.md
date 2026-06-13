@@ -14,6 +14,7 @@ story: >
   and the competition for parts, including the centurions, Pontius Pilate, and the
   condemned, is fierce. The performance runs for several hours in the dark,
   torchlit and largely silent from the crowd.
+score: 8.2
 ---
 
 The hillside above the city carries a monumental Stations of the Cross — fourteen large sculptural groupings climbing the rocky slope to a crucifixion scene at the summit. It's a striking site at any time of year: the scale is large enough to feel genuinely dramatic, and the views back over the city are good. During **Holy Week** it becomes one of the more remarkable religious spectacles in Argentina, when the Passion Play is staged here across several evenings, culminating on Good Friday night with a cast of hundreds of local volunteers and an audience of tens of thousands. Even if you are visiting outside Easter, the walk up the stations is worthwhile.

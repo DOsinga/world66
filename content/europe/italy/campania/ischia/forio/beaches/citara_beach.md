@@ -7,6 +7,7 @@ snippet: "Forio's main beach — long, sandy, and backed by the Poseidon thermal
 tags:
 - beaches
 - nature
+score: 8.2
 ---
 
 Citara is the longest beach in Forio and one of the most popular on the island, a broad sweep of sand facing west with clear water and a long afternoon of sun. The Poseidon Thermal Gardens occupy the northern end, with a series of seawater and thermal pools at different temperatures, sun terraces, and restaurants — entry costs around €30 in high season. The beach itself has a mix of private lidos and free public sections; the free sections are at the southern end, towards Punta Imperatore.

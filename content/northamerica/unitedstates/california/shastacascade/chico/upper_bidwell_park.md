@@ -8,6 +8,7 @@ tags:
   - cycling
 latitude: 39.7620
 longitude: -121.7850
+score: 7.9
 ---
 
 The upper section of Bidwell Park, beyond the Five-Mile Recreation Area, is a world away from the manicured lawns of the lower park. The trail follows Chico Creek through increasingly wild terrain — chaparral, digger pine, grey pine, and live oak — with the canyon walls closing in as you go further east. There are no services up here, just trails and the creek.

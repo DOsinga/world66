@@ -13,6 +13,7 @@ tags:
   - sight
 title: St Laserian's Cathedral
 type: poi
+score: 8.0
 ---
 
 St Laserian's Cathedral sits in the small settlement of Old Leighlin, two kilometres west of the village of Leighlinbridge itself — a reminder that the two places are connected but distinct. The cathedral is one of the smallest in Ireland: a low cruciform building with a fifteenth-century west tower, much of the rest dating from a thorough Victorian restoration, and a few much older fragments built into the fabric.

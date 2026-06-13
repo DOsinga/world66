@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 42.2104
 longitude: -8.7390
+score: 6.8
 ---
 
 Vigo's municipal museum occupies the Pazo de Castrelos, an elegant baroque manor house set in the landscaped Parque de Castrelos in the southern part of the city. The museum contains a fine collection of Galician archaeology, furniture, and decorative arts, as well as Flemish paintings from the 16th and 17th centuries and a section on regional ceramics.

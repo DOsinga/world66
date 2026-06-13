@@ -19,6 +19,7 @@ story: >
   one upstream into the Saxon Switzerland gorges, with the sandstone cliffs
   rising on both sides, is one of the most atmospheric ways to travel in
   Germany.
+score: 7.1
 ---
 
 From late April to October, the historic paddle-steamers of the Sächsische Dampfschifffahrt run scheduled services along the Elbe between [Dresden](/europe/germany/saxony/dresden) and Bad Schandau, stopping at Pirna, Wehlen, Rathen (for the Bastei), and Königstein along the way. The fleet consists of nine vessels, several dating from the 1880s and 1890s, all driven by original or restored steam paddle-wheel mechanisms.

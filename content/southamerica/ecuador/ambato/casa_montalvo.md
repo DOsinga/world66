@@ -12,6 +12,7 @@ story: >
   García Moreno enough to be exiled twice. From exile, he continued writing ferocious
   attacks on the dictatorship. When García Moreno was assassinated in 1875, Montalvo
   is said to have declared: "My pen killed him."
+score: 7.3
 ---
 
 The house where Juan Montalvo was born in 1832 has been preserved as a museum and is one of Ambato's most important cultural sites. Montalvo is considered one of the finest prose stylists in 19th-century Latin American literature — his essays attacking political tyranny and clerical power made him enemies in high places, but cemented his reputation across the continent.

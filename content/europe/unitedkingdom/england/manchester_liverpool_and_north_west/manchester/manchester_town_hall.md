@@ -12,6 +12,7 @@ tags:
 - architecture
 title: Manchester Town Hall
 type: poi
+score: 8.8
 ---
 
 One of the finest Victorian civic buildings in England. The neo-Gothic exterior dominates Albert Square, and inside the Great Hall is lined with murals depicting the history of Manchester. If the hall is not in use, ask the porter for a visitor pass. Free entrance.

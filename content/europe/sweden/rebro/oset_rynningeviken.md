@@ -6,6 +6,7 @@ longitude: 15.2694
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 Oset and Rynningeviken is a nature reserve where the River Svartån flows into Lake Hjälmaren, about twenty minutes' walk east of the city centre. It is one of Sweden's best birding sites within a major urban area, with a network of hides, boardwalks, and viewing platforms across extensive wetlands and shallow bays.

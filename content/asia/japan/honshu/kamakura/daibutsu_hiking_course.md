@@ -6,6 +6,7 @@ tags:
   - sight
 title: Daibutsu Hiking Course
 type: poi
+score: 7.4
 ---
 
 The Daibutsu Hiking Course is a forested trail that runs through the hills northwest of Kamakura, connecting Kita-Kamakura (near Engaku-ji) with the Great Buddha at Kōtoku-in in the western part of the city. The full route is about 6 kilometres and takes 2–3 hours at a relaxed pace, passing through cedar and bamboo forest with occasional views over the valleys below.

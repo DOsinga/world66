@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.5378
 longitude: -75.0589
+score: 8.0
 ---
 
 Bethany Beach's boardwalk is half a mile long and twelve feet wide — deliberately modest compared to the sprawling boardwalks at Ocean City and Wildwood. There are no carnival rides, no arcades, no deep-fried everything. What there is: a bandstand that hosts free summer concerts on Thursday and Saturday evenings, a handful of shops and snack stands, and clean access to a wide, calm beach.

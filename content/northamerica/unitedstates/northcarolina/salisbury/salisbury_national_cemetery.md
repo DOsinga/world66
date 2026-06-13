@@ -8,6 +8,7 @@ tags:
 title: Salisbury National Cemetery
 type: poi
 story: "After the war, walking the trenches with a quartermaster, the poet Walt Whitman wrote of Salisbury that 'the dead are mostly in long trenches, the trenches sodded over with grass, very little has been written about it — much has been written and printed about the more famous prisons.'"
+score: 8.0
 ---
 
 Salisbury National Cemetery sits on the site of the Salisbury Confederate Prison, the Confederacy's largest prison for Union soldiers. Between 1861 and 1865, more than 15,000 men were held in a compound built for 2,500; over 11,000 died of disease, exposure, and starvation, and are buried here in eighteen long trenches.

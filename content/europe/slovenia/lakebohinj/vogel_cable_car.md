@@ -9,6 +9,7 @@ tags:
   - cable_car
   - skiing
 snippet: Cable car from Ukanc to a 1535m mountain plateau with huge views
+score: 8.5
 ---
 
 The Vogel cable car rises 1,000 metres in five minutes from the south-western corner of the lake to a high plateau at 1,535 metres. From the top station the view back down onto Bohinj is spectacular, with the lake laid out below and the wall of the Julian Alps — Triglav, Slovenia's highest peak, included — filling the horizon. There is a self-service restaurant, a couple of marked hiking routes that loop back down to the lake (count on five hours to walk down rather than ride), and a small chapel.

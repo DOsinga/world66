@@ -4,6 +4,7 @@ type: poi
 author: "Johann Wolfgang von Goethe"
 tags:
   - books
+score: 6.7
 ---
 
 Goethe worked on Faust for most of his adult life, completing Part Two just before his death in Weimar in 1832. The play's themes — the restless pursuit of knowledge, the bargain with the devil, the cost of ambition — are as relevant now as they were two centuries ago. It is the central work of German literature, and Weimar is where it was written.

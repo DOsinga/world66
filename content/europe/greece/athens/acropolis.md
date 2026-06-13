@@ -18,6 +18,7 @@ story: >
   building. The explosion blew out the entire centre of the structure and killed
   hundreds of people sheltering inside. The ruin we see today was created in a
   single afternoon.
+score: 10.0
 ---
 
 The Acropolis is a rocky limestone hill rising 156 metres above the city, and the buildings on its summit are among the most influential ever constructed. The Parthenon (447–432 BC) dominates — a Doric temple of extraordinary mathematical precision, built in honour of Athena and once containing a 12-metre gold-and-ivory statue of the goddess. Alongside it, the Erechtheion carries its famous porch of six caryatid figures (one is a copy; the originals are in the Acropolis Museum below). The small Temple of Athena Nike guards the entrance ramp.

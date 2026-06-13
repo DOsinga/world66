@@ -7,6 +7,7 @@ tags:
 latitude: 39.9484
 longitude: -75.1934
 snippet: "One of the world's great archaeology and anthropology museums, with major Egyptian and Mesopotamian collections"
+score: 9.4
 ---
 
 The University of Pennsylvania Museum of Archaeology and Anthropology — the Penn Museum — is one of the finest archaeology museums in the Western hemisphere and among the most underrated institutions in Philadelphia. The collections were assembled through a century of Penn-funded expeditions, and the results are staggering: a 12-ton granite sphinx from the reign of Ramesses II in Egypt, a tomb chamber from the palace at Meydurn, and an extraordinary assemblage of objects from the Royal Cemetery at Ur — the Death Pit — including gold headdresses and lyres from 2500 BC.

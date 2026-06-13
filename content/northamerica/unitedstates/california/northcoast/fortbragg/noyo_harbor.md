@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.424
 longitude: -123.8037
+score: 7.6
 ---
 
 Noyo Harbor is one of the last working fishing harbors on the California coast, a small basin at the mouth of the Noyo River where commercial fishing boats still put out to sea and return with catches. It is a genuinely functional place — not a tourist marina dressed up to look like one — and the atmosphere in the early morning, when the boats are heading out, is quietly atmospheric.

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 12.0917
 longitude: -61.6919
+score: 6.7
 ---
 
 The visitor centre at the south end of the lake is the obvious starting point for any visit to the reserve. It sits in a low timber building with a deck looking out over the crater, and houses a small interpretation centre with displays on the geology, the forest types, and the wildlife — particularly the mona monkeys and the Grenada dove.

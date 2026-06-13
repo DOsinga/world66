@@ -7,6 +7,7 @@ tags:
 latitude: 39.9476
 longitude: -75.1664
 snippet: "One of the most acclaimed vegetable restaurants in the country — no faux meat, just extraordinary technique"
+score: 7.4
 ---
 
 Rich Landau and Kate Jacoby opened Vedge in 2011 in a handsome rowhouse on Locust Street and have been making the case ever since that vegetables, cooked with classical French technique and treated as the point rather than the accompaniment, can sustain a serious fine dining restaurant. The case has been well received: Vedge appears regularly on national best-of lists and has influenced vegetable-focused cooking across the country.

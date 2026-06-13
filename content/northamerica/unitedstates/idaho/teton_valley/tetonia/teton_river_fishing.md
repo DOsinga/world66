@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8050
 longitude: -111.1900
+score: 7.1
 ---
 
 The upper Teton River meanders through the farmland west of Tetonia in slow, looping bends, and is one of the better small-water fly-fishing streams in eastern Idaho. The river holds Yellowstone cutthroat trout — the native fish of the region — along with rainbows and the occasional brown. Fish are not enormous (most are 10 to 16 inches) but they take dry flies enthusiastically and the setting is hard to beat.

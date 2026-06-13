@@ -14,6 +14,7 @@ story: >
   and led to UNESCO listing the church as endangered. Sinan Pasha Mosque was spared; its
   survival in a city where intercommunal violence left so many wounds makes it an
   uncomfortable but important symbol of what was preserved and what was not.
+score: 8.2
 ---
 
 The Sinan Pasha Mosque, built in 1615, dominates the old bazaar quarter with its enormous lead-covered dome and slender minaret. It is the most architecturally distinguished building in Prizren — the dome sits harmoniously on the square mass of the building, and the proportions recall the great Ottoman mosques of Istanbul on a reduced scale.

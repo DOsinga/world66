@@ -8,6 +8,7 @@ latitude: 53.4788
 longitude: 6.2038
 story: >
   Blue whale bones have been displayed in village squares across the Wadden Islands since the 17th century, when Dutch whalers in the Arctic would bring back jaws and vertebrae as trophies. Schiermonnikoog's jaw is one of the few surviving examples. Blue whales are the largest animals ever to have lived — a full-grown adult is 25 to 30 metres long — and the jaw's scale in the middle of a small island village has an effect that photographs don't quite capture.
+score: 6.2
 ---
 
 In the centre of Schiermonnikoog village, just off the main street, stands a large blue whale jawbone erected as a monument. The bone — over 5 metres long — is a reminder of the Dutch Arctic whaling industry that once defined the economy of the Wadden Sea coast. This kind of display was common across the region in the 17th and 18th centuries; Schiermonnikoog's is one of the few that survives.

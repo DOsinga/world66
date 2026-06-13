@@ -7,6 +7,7 @@ address: Via Castiglione 5/B
 snippet: Sit-down shop where the sfogline roll fresh pasta in the window
 tags:
 - food
+score: 6.8
 ---
 
 Sfoglia Rina is a hybrid of pasta shop and casual restaurant. From the street, you watch the *sfogline* — the women who hand-roll the sheets of egg pasta on broad wooden tables — work through the morning. In the back, the dining room serves what they have made: tortellini in brodo, tagliatelle al ragù, lasagne verdi, tortelloni di ricotta.

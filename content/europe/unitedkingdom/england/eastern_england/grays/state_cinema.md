@@ -15,6 +15,7 @@ story: >
   Art Deco buildings in the county.
 sources:
   - https://en.wikipedia.org/wiki/State_Cinema
+score: 6.8
 ---
 
 The State Cinema on Clarence Road is one of Grays' most distinctive buildings — a Grade II* listed Art Deco cinema dating from 1938, with a curving frontage and bold lettering that makes it stand out on an otherwise unremarkable High Street. It is no longer operating as a cinema, but the exterior is well preserved and gives a good sense of what the great suburban picture palaces of the late 1930s looked like.

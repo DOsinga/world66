@@ -7,6 +7,7 @@ tags:
 snippet: A working stop on the Mumbai–Nagpur main line
 latitude: 20.8922
 longitude: 76.2032
+score: 3.4
 ---
 
 Malkapur station (station code MKU) is on the Central Railway's main Mumbai–Nagpur–Howrah line, one of the busiest broad-gauge corridors in India. Trains in both directions stop here all day; the platform is a slice of small-town Maharashtra — chaiwallahs, porters, schoolchildren commuting to neighbouring towns, the occasional long-distance express thundering through without stopping.

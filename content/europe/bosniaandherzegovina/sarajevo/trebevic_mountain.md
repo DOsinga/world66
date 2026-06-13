@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - wildlife
+score: 8.6
 ---
 
 Mount Trebević rises directly behind Sarajevo's old town to 1,629 metres, and a rebuilt cable car (the original was destroyed in the siege) whisks you up from the suburb of Bistrik in a few minutes. The views from the top are panoramic — the city spread below, the Miljacka valley stretching westward, and the Dinaric Alps rolling into the distance.

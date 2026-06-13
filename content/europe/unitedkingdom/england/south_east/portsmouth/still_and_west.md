@@ -8,6 +8,7 @@ tags:
   - bar
   - old_portsmouth
 neighbourhood: Old Portsmouth
+score: 6.0
 ---
 
 The pub immediately next to the Spice Island Inn at the harbour mouth, with an upstairs balcony directly over the water — possibly the single best beer-drinking spot in Portsmouth on a summer evening. Sailors used to call this stretch of waterfront "the Still and West" after the two old pubs that once stood here, now combined.

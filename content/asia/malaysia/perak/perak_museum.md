@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - museum
   - architecture
+score: 7.8
 ---
 
 The **Muzeum Perak** in Taiping is the oldest museum in Malaysia, founded in 1883 by the British colonial Resident **Hugh Low**. The collection covers the state's natural history (stuffed Malayan tiger, Sumatran rhinoceros, hornbills) and the ethnography of its peoples — including substantial material on the **Orang Asli** aboriginal communities of the upland forests, who form the longest continuously settled population in the peninsula.

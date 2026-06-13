@@ -10,6 +10,7 @@ story: >
   The castle has stood in some form since the early medieval period, but it was Ferdinand I of Aragon who enlarged it to its current shape in the late fifteenth century, using it to control the critical Strait of Messina. The 1908 earthquake, which destroyed most of the city, left the castle damaged but standing — its walls proved more earthquake-proof than the rest of Reggio.
 sources:
   - https://en.wikipedia.org/wiki/Aragonese_Castle_(Reggio_Calabria)
+score: 7.4
 ---
 
 The Castello Aragonese stands at the southern end of the old town, close to the port, and is one of the few structures in Reggio that predates the 1908 earthquake. Built on the site of earlier fortifications and given its current form by the Aragonese rulers of southern Italy in the fifteenth century, it served for centuries as both a fortress and a prison. The Strait of Messina visible from its towers has been one of the most strategically important waterways in the Mediterranean since antiquity.

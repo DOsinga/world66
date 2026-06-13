@@ -11,6 +11,7 @@ tags:
 - sight
 title: Chestnut Woods
 type: poi
+score: 7.0
 ---
 
 The hills above Osiglia are covered in mature sweet chestnut, a tree that for centuries was a staple food in the upper Bormida valley. Chestnuts were ground into flour, made into polenta, and roasted in autumn — and they remain a local pride, celebrated at a small village festival in October.

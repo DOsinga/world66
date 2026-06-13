@@ -14,6 +14,7 @@ tags:
 - things_to_do
 - sight
 - historic_house
+score: 5.9
 ---
 
 The most famous literary address in Marlow is Albion House on West Street, where Percy and Mary Shelley lived from 1817 to 1818. It was in this house that Mary Shelley — aged just 19 — completed the manuscript of *Frankenstein; or, The Modern Prometheus*, one of the most influential novels in English. The house is privately owned and not open to the public, but there is a blue plaque on the facade and the building itself, a handsome Georgian townhouse, is easy to spot.

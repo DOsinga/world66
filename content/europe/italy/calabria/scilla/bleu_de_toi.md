@@ -10,6 +10,7 @@ tags:
 neighbourhood: Chianalea
 title: Bleu de Toi
 type: poi
+score: 6.4
 ---
 
 A long-running Chianalea restaurant whose tables sit on a stone terrace literally above the waves. The menu changes with the daily catch but reliably includes swordfish carpaccio, a generous spaghetti ai ricci di mare (sea-urchin pasta), and grilled fish chosen from the day's haul.

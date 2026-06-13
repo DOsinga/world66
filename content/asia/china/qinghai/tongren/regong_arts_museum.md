@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.5170
 longitude: 102.0160
+score: 8.1
 ---
 
 The Regong Arts Museum in Tongren town serves as the main institutional showcase for the Rebkong tradition of Tibetan Buddhist art. The collection includes thangkas, butter sculptures, clay figurines, and embroidered textiles — the full range of sacred art forms produced in this valley over several centuries. The museum also documents the social context: who the artists are, how the tradition is transmitted, and its relation to the village monasteries around the city.

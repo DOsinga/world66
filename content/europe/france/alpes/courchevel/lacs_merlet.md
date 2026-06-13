@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.3539
 longitude: 6.6569
+score: 8.2
 ---
 
 The two **Lacs Merlet** — a small upper lake and a larger lower one — sit in a high cirque south of Courchevel, just outside the boundary of the Vanoise National Park. The walk in is one of the best half-day hikes in the area: about three hours each way from the trailhead at Pralong, climbing through alpine pastures with marmots and the occasional ibex.

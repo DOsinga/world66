@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.8
 ---
 
 Inaugurated in 2011 and named after Sharif Hussein bin Ali — the leader of the Arab Revolt of 1916 and great-grandfather of the current Jordanian king — this is Aqaba's largest mosque and one of the most visible landmarks in the city. The building is faced in white marble, with four slender minarets and a single central dome trimmed in dark grey.

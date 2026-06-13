@@ -10,6 +10,7 @@ latitude: -14.2860
 longitude: -170.6380
 sources:
   - https://en.wikipedia.org/wiki/Alega,_American_Samoa
+score: 8.8
 ---
 
 The reef running along the bay holds some of the best snorkeling on Tutuila. The shallow inner section is safe for beginners: coral heads rise close to the surface, and reef fish — parrotfish, surgeonfish, triggerfish — are dense enough to be genuinely surprising. Moving toward the channel, the coral wall drops steeply and the fish grow larger. Reef sharks patrol the deeper water; sightings are frequent in clear conditions and not cause for alarm unless you're trailing bait.

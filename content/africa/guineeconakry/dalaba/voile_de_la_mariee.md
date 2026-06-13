@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 10.9580
 longitude: -12.2830
+score: 7.8
 ---
 
 The Voile de la Mariée — Bridal Veil Falls — are a series of cascades near the village of Kinkon, south of Dalaba. The falls spread across a wide basalt face in thin threads of white water that do indeed resemble a bridal veil, particularly in the wet season when multiple streams run across the full width of the escarpment. The setting is striking: the plateau edge drops suddenly, and the falls emerge from dense forest above.

@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - restaurant
+score: 5.6
 ---
 
 Chair 5 is the locals' bar, a few minutes walk from the lifts on the main road through the residential part of Girdwood. Pizza, halibut tacos, the longest beer list in the valley — a wall of Alaskan craft taps and a cooler of bottles. The pool table at the back is the social centre.

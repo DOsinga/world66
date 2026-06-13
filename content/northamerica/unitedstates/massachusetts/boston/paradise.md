@@ -10,6 +10,7 @@ tags:
 snippet: Legendary intimate rock venue since 1977
 title: Paradise Rock Club
 type: poi
+score: 6.8
 ---
 
 A legendary Boston music venue that has hosted major acts on their way up since 1977. The intimate size means there is not a bad spot in the house. Check their schedule for live shows.

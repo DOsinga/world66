@@ -11,6 +11,7 @@ story: >
   the Welsh prince Llywelyn ap Gruffudd. Llywelyn imprisoned him here for more
   than twenty years — from about 1255 to 1277 — as a political rival. The
   castle that kept a prince captive for two decades now admits visitors for free.
+score: 8.1
 ---
 
 Dolbadarn Castle stands on a rocky knoll between Llyn Padarn and Llyn Peris, its single round tower rising against the backdrop of Snowdon. Built by Llywelyn the Great in the early 13th century, it was the most important stronghold of the native Welsh princes of Gwynedd and the site where Llywelyn the Last held his brother Owain Goch captive for over twenty years.

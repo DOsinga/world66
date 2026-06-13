@@ -8,6 +8,7 @@ tags:
   - restaurant
 title: A Nepita
 type: poi
+score: 6.2
 ---
 
 One of the better restaurants in Ajaccio's old town, in a narrow street between the Fesch Museum and the port. The kitchen works with Corsican ingredients — chestnut, brocciu, black pig, local fish — but treats them with more ambition than most places in the city. The menu changes with the market; the wine list focuses on Corsican appellations. Book ahead in summer; the dining room is small.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.3924
 longitude: 20.9524
+score: 8.4
 ---
 
 Jaworzyna Krynicka (1,114 metres) is the highest peak in the Beskid Sądecki range and the focal point of outdoor activity around Krynica both in winter and summer. A gondola lift runs from the town centre to near the summit, making the mountain accessible to all. In winter the slopes offer skiing and snowboarding, with runs of varying difficulty and a ski school; cross-country skiing and snowshoe trails extend through the surrounding forests.

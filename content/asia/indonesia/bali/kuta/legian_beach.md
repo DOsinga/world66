@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.5
 ---
 
 The continuation of Kuta Beach to the north, separated by nothing but a slightly different feel. Legian is calmer and a fraction less crowded, with a wider belt of sand, fewer touts, and the same long Indian Ocean sunset. It is where many travellers end up staying once they decide Kuta proper is too much.

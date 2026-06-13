@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Carlo's Place
 type: poi
+score: 4.9
 ---
 
 A neighbourhood restaurant at the corner of Austin Street and Longueville Road in Lane Cove, Carlo's Place draws locals with straightforward seafood and a comfortable, unpretentious room. It's the kind of place where the cooking is reliable without being showy and the welcome is warm without being effusive.

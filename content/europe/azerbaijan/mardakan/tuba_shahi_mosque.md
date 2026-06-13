@@ -6,6 +6,7 @@ latitude: 40.491847
 longitude: 50.140806
 story: >
   The mosque was commissioned in 1481 by a woman named Tuba Shahi — an inscription above the portal records her name and the date of completion. It is one of very few medieval buildings in Azerbaijan whose patron is known to have been a woman, and her name has been attached to the building ever since.
+score: 6.9
 ---
 
 The Tuba Shahi Mosque is a 15th-century religious building standing near the Quadrangular Fortress in the centre of Mardakan. Built in 1481 in the Shirvan-Absheron style, it is now abandoned and no longer in use as a mosque, but survives in reasonable condition as a protected architectural monument.

@@ -7,6 +7,7 @@ tags:
 latitude: 52.2296
 longitude: 21.0116
 snippet: "Warsaw institution since 1851 — the original Wedel hot chocolate is thick enough to stand a spoon in"
+score: 6.3
 ---
 
 The Wedel chocolate lounge on Szpitalna Street is a Warsaw institution. E. Wedel has been making chocolate in Warsaw since 1851 and their original hot chocolate — czekolada na gorąco — is not like hot chocolate elsewhere. It is thick, intensely dark, and is served with a pastry. The main lounge preserves its art nouveau interior and is genuinely lovely: marble tables, ornate fittings, and a display of Wedel products from different eras.

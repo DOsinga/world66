@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 31.1667
 longitude: -7.85
+score: 7.8
 ---
 
 Below the Oukaimeden plateau, the Tacheddirt valley descends into the High Atlas, passing through remote Berber villages that see few visitors. Tacheddirt itself is a small village at 2,314 metres, reachable on foot from Oukaimeden by a track that drops steeply from the ski resort. The village has a basic refuge (mountain gîte) and the landscape around it — bare rock ridges, narrow terraced fields, walnut trees — is characteristic of the high Atlas at its most austere.

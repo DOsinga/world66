@@ -8,6 +8,7 @@ tags:
 latitude: -23.7917
 longitude: 35.5383
 snippet: A narrow sandbar ending at a lighthouse, with good snorkelling and quieter beaches
+score: 7.1
 ---
 
 The Barra Peninsula curves north from Inhambane and ends at Ponta da Barra, where a functioning colonial-era lighthouse marks the tip. The peninsula is a narrow strip of sand between the Inhambane Bay on one side and the Indian Ocean on the other, covered with towering coconut palms. The beaches are quieter than Tofo and the snorkelling off the point is consistently good.

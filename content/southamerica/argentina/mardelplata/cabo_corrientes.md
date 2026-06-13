@@ -10,6 +10,7 @@ story: >
   The name "Cabo Corrientes" (Cape Currents) comes from the strong sea currents that meet here, where the rocky point creates turbulence in the water. For surfers these currents produce the best waves in the city; for swimmers they make this stretch inadvisable. The lighthouse at the point is one of the oldest on the Argentine coast, first lit in 1891.
 sources:
   - https://en.wikipedia.org/wiki/Cabo_Corrientes,_Mar_del_Plata
+score: 6.8
 ---
 
 Cabo Corrientes is a rocky headland between the Playa Chica and Varese beaches, about two kilometres south of the casino. It's one of the few undeveloped stretches of rocky shoreline in the resort area — a jagged natural point that breaks the long run of sandy beaches. The lighthouse above the rocks is a city landmark and can be seen from most of the central beachfront.

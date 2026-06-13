@@ -7,6 +7,7 @@ tags:
 latitude: 32.5240
 longitude: -117.0285
 snippet: "No-frills taquería famous for its carne asada and adobada."
+score: 7.7
 ---
 
 Tacos El Franc is one of Tijuana's most recommended taco stands among the city's food obsessives — a permanent outdoor taquería near Mercado Hidalgo that draws long queues from a largely local clientele.

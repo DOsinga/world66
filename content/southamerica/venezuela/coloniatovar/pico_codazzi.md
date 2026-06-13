@@ -15,6 +15,7 @@ story: >
   west of the town, and the surrounding cloud forest was declared a Natural
   Monument in 1991 to protect the watershed that supplies both Colonia Tovar
   and Caracas.
+score: 8.5
 ---
 
 Pico Codazzi tops out at 2,425 metres in the Cordillera de la Costa, in a band of cloud forest that receives some of the heaviest rainfall in the Aragua state. The forest is dense, perpetually misty, and home to several endemic bird species — including the cloud-forest thrush and the Venezuelan tapaculo. A rough track from Colonia Tovar leads to the foot of the peak; the final ascent is on foot, taking three to four hours round-trip from the trailhead.

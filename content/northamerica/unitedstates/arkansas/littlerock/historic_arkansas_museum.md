@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - sight
+score: 8.4
 ---
 
 The Historic Arkansas Museum occupies a block of carefully restored antebellum buildings in the River Market District, including the oldest surviving structures in Little Rock. The oldest, the Hinderliter Grog Shop, dates from around 1827 and is one of the few pre-statehood buildings anywhere in Arkansas still standing on its original site.

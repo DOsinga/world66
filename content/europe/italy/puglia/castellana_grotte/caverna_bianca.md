@@ -14,6 +14,7 @@ tags:
   - sight
 title: Caverna Bianca
 type: poi
+score: 8.3
 ---
 
 The Caverna Bianca — "the White Cave" — is the climax of the long tour of the [Grotte di Castellana](/europe/italy/puglia/castellana_grotte/grotte_di_castellana) and one of the most photographed natural sights in southern Italy. It is a small chamber, but the walls, ceiling, and stalactites are almost entirely composed of pure white aragonite, so pale that when the lights are turned up the room appears to glow from within.

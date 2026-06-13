@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 51.514227
 longitude: 7.465279
+score: 5.5
 ---
 
 Pfefferpotthast is the definitive Dortmund dish — a medieval beef stew heavily seasoned with black pepper and spices, slow-cooked until the meat falls apart and the sauce reduces to something dark and intense. The name means roughly "pepper pot" in the old Dortmund dialect, and recipes for the dish appear in city records from as early as the thirteenth century, when Dortmund was a significant trading centre with access to Eastern spices.

@@ -11,6 +11,7 @@ story: >
   Namaziano, discovered when a wild bull (*taurus*) struck the ground with its
   horn and water gushed out — hence the name. The springs are still active; the
   modern spa town of Ficoncella up the road uses water from the same source.
+score: 8.6
 ---
 
 Four kilometres east of Civitavecchia, in open countryside, the Terme Taurine are one of the largest and best-preserved Roman thermal bath complexes in central Italy. The first baths were built in the late Republican period, then dramatically expanded by Trajan in the early 2nd century — the emperor had a villa nearby — and remained in use until the 5th century. What survives is impressive: long stretches of brick walls standing several metres high, the floor outlines of the caldarium, tepidarium and frigidarium, fragments of mosaic flooring, and a dramatic semicircular niche that probably held a cult statue.

@@ -4,6 +4,7 @@ latitude: 55.4153
 longitude: -1.7055
 title: Alnwick Castle
 type: poi
+score: 8.8
 ---
 
 Alnwick Castle has been the ancestral seat of the Percy family — Earls and Dukes of Northumberland — since the early 14th century. It is arguably the finest inhabited castle in England outside the royal collection, its state rooms still filled with paintings and furniture accumulated by one of the country's great aristocratic dynasties. The castle is also recognisable to millions as the exterior of Hogwarts school in the first two Harry Potter films.

@@ -7,6 +7,7 @@ tags:
   - waterfall
 title: Hidden Falls
 type: poi
+score: 6.8
 ---
 
 Hidden Falls is a popular waterfall above the west shore of Jenny Lake. The route is short if you use the boat shuttle and more satisfying if you walk the lake trail.

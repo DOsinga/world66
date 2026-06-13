@@ -6,6 +6,7 @@ longitude: 146.1281
 tags:
   - sight
   - nature
+score: 6.2
 ---
 
 A cluster of three small granite islands sitting 500 metres off the coast between Penguin and Ulverstone — collectively two hectares of rock and tussock grass, home to nesting little penguins, short-tailed shearwaters (mutton-birds), and silver gulls. The islands are conservation areas and landing is not permitted, but they are clearly visible from the Bass Highway lookouts east of town.

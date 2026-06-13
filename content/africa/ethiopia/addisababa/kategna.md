@@ -8,6 +8,7 @@ tags:
 latitude: 9.0155
 longitude: 38.7720
 snippet: "Popular injera restaurant known for its tej and relaxed atmosphere"
+score: 6.4
 ---
 
 Kategna is one of those Addis restaurants that has built a loyal following among both expats and locals through good, consistent food and a relaxed outdoor terrace. The injera with firfir (scrambled injera with spiced butter), the tibs, and the selection of vegetarian fasting dishes are all done well. The tej (honey wine) is among the best in the city.

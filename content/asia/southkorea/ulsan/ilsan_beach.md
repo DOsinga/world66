@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Ilsan Beach
 type: poi
+score: 6.3
 ---
 
 Ulsan's most accessible beach sits on the east side of the city, a short taxi ride from anywhere in town. The sandy stretch is backed by a seafront promenade lined with seafood restaurants, coffee shops and convenience stores. A glass-floored restaurant on the second floor of the last building on the left (above a January's Coffee) serves fresh fish dishes with views straight over the water — a fine spot to catch the sunset.

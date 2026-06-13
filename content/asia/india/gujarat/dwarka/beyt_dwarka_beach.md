@@ -7,6 +7,7 @@ tags:
 - sight
 title: Beyt Dwarka Beach
 type: poi
+score: 5.0
 ---
 
 Beyt Dwarka has stretches of beach and quiet shore away from the busiest temple lanes. The island setting brings clearer water and a more open horizon than the town waterfront.

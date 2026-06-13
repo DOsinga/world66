@@ -7,6 +7,7 @@ tags:
 - nature
 latitude: -36.1
 longitude: 174.59
+score: 7.8
 ---
 
 Mangawhai Harbour is a shallow tidal estuary that fills and empties twice a day through a narrow channel at the Heads. At high tide it is a calm sheet of water that reaches several kilometres inland; at low tide it becomes a maze of sandbars, mangrove islands and wading-bird habitat.

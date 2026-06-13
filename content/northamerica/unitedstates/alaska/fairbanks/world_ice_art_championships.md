@@ -11,6 +11,7 @@ story: >
   for its exceptional clarity. The blocks can weigh up to 4,500 kg each, and the finished
   sculptures — some towering over six metres — are lit with colored lights and displayed
   in a park that stays below freezing well into April.
+score: 8.5
 ---
 
 Every late February through March, Fairbanks hosts the World Ice Art Championships, the largest ice sculpting competition on earth. Teams from around the world descend on the city to carve massive blocks of clear Alaskan ice into intricate, sometimes enormous sculptures ranging from realistic animals to abstract architecture.

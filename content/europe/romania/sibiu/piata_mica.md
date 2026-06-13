@@ -13,6 +13,7 @@ story: >
   on a legend that it collapses when anyone tells a lie while crossing it. Local
   theory holds that the legend was coined because merchants used the passage to
   seal their deals — and everyone knew what those were worth.
+score: 8.0
 ---
 
 Just below Piata Mare and connected to it by a covered passage, the Small Square (Piata Mica) is more intimate and arguably more charming than its neighbour. The surrounding buildings are a mix of Gothic, Renaissance, and Baroque, many with arcaded ground floors that once sheltered market stalls.

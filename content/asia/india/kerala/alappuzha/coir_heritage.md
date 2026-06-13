@@ -8,6 +8,7 @@ latitude: 9.5003
 longitude: 76.4123
 sources:
   - https://en.wikipedia.org/wiki/Alappuzha
+score: 7.2
 ---
 
 Alappuzha built its prosperity on coir — the fibre extracted from coconut husks — and at its peak in the nineteenth and early twentieth centuries the town was the world's principal coir exporting port. Warehouses and coir factories lined the canals; the smell of steeping husks was said to carry for miles. The industry has contracted sharply but has not disappeared.

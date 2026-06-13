@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 56.3328
 longitude: -2.7952
+score: 7.4
 ---
 
 The St Andrews Botanic Garden sits at the southern edge of town, about fifteen minutes' walk from the town centre, and is considerably more worthwhile than its modest profile would suggest. The garden covers around 18 acres and has been managed by the university (and latterly by a charitable trust) since 1889. It is used for teaching and research but is open to the public.

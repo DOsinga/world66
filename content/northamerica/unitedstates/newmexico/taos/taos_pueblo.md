@@ -15,6 +15,7 @@ story: >
   repair and construction are still practiced today.
 sources:
   - https://en.wikipedia.org/wiki/Taos_Pueblo
+score: 9.5
 ---
 
 Taos Pueblo is a UNESCO World Heritage Site and the most remarkable place in the Taos area. The ancient complex — two large multi-storied adobe buildings facing each other across a small stream — has been continuously inhabited for at least a thousand years, and members of the Tiwa-speaking tribe still live in the traditional structures without electricity or running water.

@@ -10,6 +10,7 @@ latitude: 43.5273
 longitude: 5.4471
 snippet: An intimate cobbled square with a central fountain and curious carved balconies
 story: "The Marquis d'Albertas had the square carved out in 1745 so that his town house would have a worthy view, but the buildings opposite were only ever facades — a bit of theatrical scenery for the marquis to look at from his windows. Look up at the wrought-iron balconies and you will spot a row of fairly unmistakable phallic carvings, an eighteenth-century joke that no one has bothered to remove."
+score: 6.9
 ---
 
 A small cobbled square just off Rue Espariat, with a single fountain in the middle and four identical eighteenth-century facades around it. Place d'Albertas is one of the prettiest stops in the old town, and on warm evenings it fills with the sound of buskers — the acoustics are surprisingly good and the chamber-music programme of the summer Aix festival sometimes uses it as a stage.

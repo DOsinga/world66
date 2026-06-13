@@ -11,6 +11,7 @@ tags:
   - centro
 neighbourhood: Centro
 snippet: "São Paulo's classic art-deco skyscraper, with an observation deck on the 35th floor"
+score: 8.0
 ---
 
 The Farol Santander — built as the Banco do Estado de São Paulo headquarters in 1947 — was the tallest building in Latin America at the time of its opening and remains one of the city's defining skyscrapers. The exterior is a clean tower of pinkish granite and bronze art-deco detailing, the interior a confection of bronze, marble, and dark wood. The observation deck on the 35th floor, the Mirante do Vale until recently, gives one of the best views over central São Paulo.

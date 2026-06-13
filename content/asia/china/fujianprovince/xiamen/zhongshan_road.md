@@ -14,6 +14,7 @@ story: >
   sides — was adapted from the shophouse arcades of Southeast Asian
   colonial cities, brought to Xiamen by merchants who had spent time
   in Singapore and Penang.
+score: 4.2
 ---
 
 Zhongshan Road (中山路) is Xiamen's main pedestrian shopping street, a 1.2-kilometre stretch of covered arcades running from the city centre to the Gulangyu ferry terminal. The architecture is the characteristic Hokkien colonial style — two-storey stone buildings with continuous arched arcades at street level, built in the 1920s and largely intact. The covered walkways make it a pleasant street even in Xiamen's humid summers.

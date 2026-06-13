@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 8.6900
 longitude: 0.8400
+score: 7.0
 ---
 
 Several small seasonal waterfalls and rock pools tumble off the Malfakassa escarpment after rain, with the most accessible reachable on a half-day's walk from camp. The pools below the falls are clear, cool and a serious relief in the heat of the dry season — the walk back through the gallery forest with damp clothes is one of the best small experiences in the park.

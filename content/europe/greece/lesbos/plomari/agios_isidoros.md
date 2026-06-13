@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9694
 longitude: 26.4023
+score: 6.2
 ---
 
 Agios Isidoros is the main beach near Plomari, a few kilometres east along the coast road. It is a long stretch of mixed sand and fine pebble backed by a row of tavernas and a small seasonal resort. The water is clear and the setting — a sheltered bay with wooded hills behind — is attractive. In high summer it fills with Greek holidaymakers; in May, June, and September it is much quieter.

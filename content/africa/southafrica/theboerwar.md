@@ -9,6 +9,7 @@ tags:
 - books
 title: The Boer War
 type: poi
+score: 7.8
 ---
 
 Thomas Pakenham's 1979 history of the Boer War (1899-1902) remains the standard single-volume account of the conflict. At nearly 700 pages, it draws on previously unpublished sources to cover the war from the bungled British campaign through the scorched-earth tactics and concentration camps that turned international opinion against the Empire.

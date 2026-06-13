@@ -9,6 +9,7 @@ latitude: 26.3710
 longitude: 106.6573
 story: >
   The South Gate is the primary entrance to Qingyan and the most photographed structure in the town. The original Ming Dynasty gate was rebuilt during the Qing period, and the tower above the arched stone passage carries a plaque reading "定广门" — Gate of Settled and Broad Virtue — a name that reflects the garrison town's purpose as a place that both defended and administered the region. Visitors pass through the arch directly into the flagstone main street, framed on both sides by wooden shopfronts whose carved facades have been painted and repainted but retain their original proportions.
+score: 8.2
 ---
 
 The South Gate tower is the main entrance to Qingyan Ancient Town, an arched stone passage beneath a two-storey timber pavilion built in the style typical of Ming military architecture in Guizhou. The walls flanking the gate are original Ming Dynasty stonework, with the distinctive pale-grey limestone that was quarried locally and used throughout the town — for walls, for streets, for building foundations.

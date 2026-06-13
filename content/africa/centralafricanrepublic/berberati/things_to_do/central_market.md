@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 4.2612
 longitude: 15.7919
+score: 7.3
 ---
 
 Berberati's central market is the beating heart of the city and worth a visit in its own right. It is where the city's complex economy becomes visible: diamond dealers conducting quiet transactions in corners, bush meat laid out on tables alongside dried fish, Chinese-made goods stacked next to locally woven baskets, and produce from the surrounding farms and forest. The market reflects Berberati's character as a frontier trading hub — remote but commercially alive.

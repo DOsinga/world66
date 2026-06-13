@@ -8,6 +8,7 @@ tags:
   - sport
 latitude: 40.2901
 longitude: -76.6581
+score: 5.9
 ---
 
 A 30,000-seat open-air stadium adjacent to Hersheypark, used for major concerts and occasional sporting events. Built in 1939, it has hosted everyone from Frank Sinatra to Taylor Swift, and is one of the larger outdoor music venues in Pennsylvania. The adjacent Giant Center arena hosts the American Hockey League's Hershey Bears, the most decorated franchise in AHL history with 13 Calder Cup championships.

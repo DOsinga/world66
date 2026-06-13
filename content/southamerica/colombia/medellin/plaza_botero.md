@@ -10,6 +10,7 @@ tags:
 title: Plaza Botero
 type: poi
 story: "All 23 bronzes were donated by Botero himself in 2002, on the condition that they remain accessible to the public in his home city, day and night. He was born a few blocks from this square."
+score: 8.1
 ---
 
 A long pedestrian plaza in front of the [Museo de Antioquia](/southamerica/colombia/medellin/museo_de_antioquia), filled with twenty-three monumental bronze sculptures by Fernando Botero — voluptuous nudes, a cat, a horse, a Roman soldier, a hand, a head. People sit on them, lean against them, photograph each other on them; the patina shines where everyone has touched. It is genuinely civic art, free, unguarded, owned by the city.

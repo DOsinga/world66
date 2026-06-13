@@ -9,6 +9,7 @@ latitude: 39.4743
 longitude: -6.3706
 story: >
   It was in this palace that the Catholic monarchs Isabella and Ferdinand were proclaimed Queen and King of Castile in 1479, following the dynastic wars that consolidated the Spanish crown. The Golfines family — one of the most powerful noble dynasties in Extremadura — were supporters of Isabella's faction, and the choice of Cáceres for the proclamation was partly a reward for their loyalty. The carved stone coats of arms above the door still show the royal symbols alongside the Golfines' own heraldry.
+score: 8.2
 ---
 
 The Palacio de los Golfines de Arriba is considered the finest palace in the Ciudad Monumental, a late Gothic and Renaissance building that combines the military severity of a noble fortified house with an increasingly elaborate ornamental vocabulary. The façade, facing the Plaza de Santa María, shows the transition clearly: the lower levels are plain and defensive, while the upper windows and tower display an almost extravagant Plateresque decoration.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - music_row
+score: 5.4
 ---
 
 Musica is the 40-foot bronze of nine larger-than-life dancing nude figures at the Music Row roundabout — the gateway to the neighbourhood from downtown. The sculpture, by Tennessee artist Alan LeQuire (who also made the Athena Parthenos inside the Parthenon), was commissioned by the city in 2003.

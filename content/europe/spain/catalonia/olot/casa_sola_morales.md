@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 The Casa Solà-Morales is the principal Modernista building in Olot — a 17th-century townhouse on the Passeig d'en Blay that was rebuilt in 1916 by Lluís Domènech i Montaner, the Barcelona architect best known for the Palau de la Música Catalana. The façade is decorated with sculpted female figures by Eusebi Arnau and a band of stained glass that lights the inner staircase.

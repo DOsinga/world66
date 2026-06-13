@@ -8,6 +8,7 @@ tags:
 - museum
 title: Eldon House
 type: poi
+score: 7.7
 ---
 
 London's oldest surviving house, built in 1834 for the Harris family — naval officers and merchants — and lived in by their descendants until they donated it to the city in 1959. The four generations of Harrises kept everything, and the house is now a museum stuffed with original furniture, paintings, military memorabilia and souvenirs from a Victorian world tour. The garden, dropping down toward the river, is one of the prettiest spots in the city for an afternoon.

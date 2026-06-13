@@ -13,6 +13,7 @@ story: >
   forts in India, it is still inhabited — Monpa families occupy the same stone
   houses their ancestors built, sharing courtyards with chickens, prayer wheels,
   and stacks of firewood.
+score: 8.5
 ---
 
 The Dzong sits on a bluff above the Kameng river right in the centre of town. It is not a museum or a ruin — it is a working medieval village, with narrow stone passageways, low doorways, and tightly packed two-storey houses built of river stone and timber. The walls of the old fort itself are largely intact, and you can walk through the original gateway into the lanes beyond.

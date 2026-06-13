@@ -8,6 +8,7 @@ tags:
   - market
   - shopping
 snippet: Weekly market in the town centre with local cheese, cider, and Normandy produce
+score: 6.3
 ---
 
 The Saturday morning market fills the central streets of Falaise with stalls selling the best of the Calvados region: unpasteurised camembert and livarot, apple ciders and calvados brandy, charcuterie, seasonal vegetables, and local honey. It runs from early morning until around noon and draws producers from across the surrounding countryside.

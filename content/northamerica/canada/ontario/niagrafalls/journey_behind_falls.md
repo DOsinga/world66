@@ -16,6 +16,7 @@ story: >
   scene — a wall of green-black ice rather than white water.
 sources:
   - https://en.wikipedia.org/wiki/Journey_Behind_the_Falls
+score: 8.8
 ---
 
 Journey Behind the Falls is operated by Niagara Parks and takes visitors 150 feet underground via elevator to a series of tunnels carved into the rock directly behind the Horseshoe Falls. Two observation portals emerge behind the curtain of water, and an upper observation deck puts you at the very edge of the falls. Free ponchos are provided in summer — they are not optional.

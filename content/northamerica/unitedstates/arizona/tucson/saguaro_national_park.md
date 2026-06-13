@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The saguaro cactus (Carnegiea gigantea) grows only here in the Sonoran Desert. A typical saguaro takes about 75 years to grow its first arm; the largest in the park top 50 feet and live over 200 years. Their root system is shallow but radial, spreading as wide as the cactus is tall."
+score: 9.1
 ---
 
 Saguaro National Park surrounds Tucson on two sides — the Tucson Mountain District (West) and the Rincon Mountain District (East) — and protects the densest stands of giant saguaro cactus anywhere. The two halves are about 30 miles apart and feel different: the western unit is denser cactus forest and shorter trails close to the city; the eastern is wilder, with high-country trails up into the Rincons.

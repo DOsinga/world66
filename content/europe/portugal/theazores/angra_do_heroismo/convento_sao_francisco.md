@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, historic, museum]
 latitude: 38.657058
 longitude: -27.216942
+score: 8.3
 ---
 
 The Convent of São Francisco was founded in the 16th century and expanded through the Baroque period, eventually becoming one of the most substantial religious complexes in Angra. After the religious orders were suppressed in Portugal in 1834, the building was repurposed and now houses the Museu de Angra do Heroísmo — the main museum covering the city and island's history. The conversion has been done thoughtfully; the cloister in particular retains much of its original character.

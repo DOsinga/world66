@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Fonte da Telha
 type: poi
+score: 6.3
 ---
 
 Fonte da Telha is a long, windswept stretch of Atlantic sand on the Costa da Caparica, about 25 km south of central Lisbon. The beach is less crowded than its neighbours closer to the Caparica town centre, attracting surfers and families who prefer a bit more space. A cluster of seafood restaurants sits at the base of the sandy cliffs — grilled fish and cold beer with an ocean view.

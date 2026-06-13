@@ -15,6 +15,7 @@ story: >
   opening in 2002 was attended by original cast members Al Lewis
   (Grandpa) and Butch Patrick (Eddie), who confirmed the interior felt
   uncannily right.
+score: 6.9
 ---
 
 Few attractions in Texas are as improbable as the Munster Mansion, a full-scale working replica of the house from the 1960s television series *The Munsters*, built on a private property a few miles north-east of downtown Waxahachie. The exterior — gabled, cobwebbed, and deliberately ramshackle — gives way to interiors that recreate the sitcom's living room, kitchen, lab, and dungeon, including Grandpa's electric chair, the rotating suit of armour, and the trap door.

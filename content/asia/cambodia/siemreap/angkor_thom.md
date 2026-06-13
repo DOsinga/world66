@@ -13,6 +13,7 @@ story: The face-towers of the Bayon — 216 serene stone faces gazing in every d
   a constant reminder of the divine omniscience of King Jayavarman VII. Each face is
   believed to combine the features of the Buddha, the Bodhisattva Avalokiteshvara,
   and the king himself, a political-religious fusion unique in Southeast Asian art.
+score: 6.6
 ---
 
 **Angkor Thom** — "Great City" — was the last and most enduring capital of the Khmer Empire, founded by King **Jayavarman VII** in the late 12th century. The walled city covers nine square kilometres and is entered through five monumental gateways, each approached by a causeway flanked by 54 devas (gods) on one side and 54 asuras (demons) on the other, re-enacting the Hindu myth of the Churning of the Ocean of Milk. The south gate, with its four giant faces staring outward, is the most photographed and the usual entry point.

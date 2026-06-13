@@ -15,6 +15,7 @@ story: >
   construction he watched through a telescope from his apartment in Brooklyn Heights, with
   his wife Emily Roebling relaying instructions to the engineers. She became, in effect,
   the site manager.
+score: 9.4
 ---
 
 The Brooklyn Bridge, completed in 1883, is still the most beautiful bridge in New York and one of the finest 19th-century engineering works in the world. Walking it — the pedestrian walkway runs along the centre of the bridge, elevated above the traffic — is one of the essential New York experiences. The wire cables radiating from the stone Gothic towers, the views of the Manhattan skyline to the west and the Brooklyn waterfront to the east, the hum of traffic below: it works at any time of day but is best at dawn or in the last light of evening.

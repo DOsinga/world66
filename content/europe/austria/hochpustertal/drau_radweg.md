@@ -6,6 +6,7 @@ longitude: 12.4900
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Drau Radweg (Drava cycle path) starts here in the Hochpustertal and runs more than 360 kilometres east through Carinthia and on into Slovenia. It is one of the major European river cycle routes and the upper section through the Hochpustertal is also the prettiest: forested slopes on both sides, rapids in the river, and the silhouette of the Dolomites to the south.

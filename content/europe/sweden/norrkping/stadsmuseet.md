@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 58.5877
 longitude: 16.1866
+score: 7.8
 ---
 
 The Norrköping City Museum occupies one of the old factory buildings in the Industrilandskapet, telling the story of the city from its Viking-age origins through the industrial boom years to the present. The permanent collection covers the textile industry that made Norrköping prosperous — machinery, workers' tools, and social history are all represented — along with archaeological finds from the Bronze Age sites nearby.

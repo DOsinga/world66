@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 30.687
 longitude: -88.046
+score: 6.7
 ---
 
 Fort Condé is a reconstructed French colonial fort in the heart of downtown Mobile, built on the original 1723 site of the fort that gave the city its early European character. The reconstruction is a 1970s project but it is well-executed, and the small museum inside gives a clear account of Mobile's layered colonial history — French, British, and Spanish flags all flew here before the Americans arrived. Costumed interpreters are on hand most days.

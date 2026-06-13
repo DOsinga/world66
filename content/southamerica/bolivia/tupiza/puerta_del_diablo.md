@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.4503
 longitude: -65.7281
+score: 7.4
 ---
 
 The Puerta del Diablo — the Devil's Gate — is a freestanding red sandstone arch a short walk west of Tupiza. The shape is striking enough that it features on most local tour-agency posters, and the wider hillside is honeycombed with smaller arches and balanced rocks.

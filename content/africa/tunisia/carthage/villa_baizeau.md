@@ -12,6 +12,7 @@ tags:
 - architecture
 title: Villa Baizeau
 type: poi
+score: 5.5
 ---
 
 Villa Baizeau is a Le Corbusier-designed house, built in 1929, on the seafront just north of the Antonine Baths in Carthage. It is one of the earliest examples of Le Corbusier's mature International Style outside Europe and incorporates all five of his foundational architectural principles. The house was commissioned by the Tunisian industrialist Lucien Baizeau, who hosted Le Corbusier on his first visit to Tunisia in 1928.

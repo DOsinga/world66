@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 46.4500
 longitude: -80.9500
+score: 7.4
 ---
 
 A 950-hectare protected area on the southeast side of the city, with around 30 kilometres of trails for walking, mountain biking, and — in winter — cross-country skiing and snowshoeing. The trails wind around three lakes, through mixed forest, and past beaver dams and rocky outcrops typical of the Canadian Shield.

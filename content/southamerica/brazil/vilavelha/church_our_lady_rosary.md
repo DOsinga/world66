@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: -20.33068
 longitude: -40.29211
+score: 7.5
 ---
 
 The Church of Our Lady of the Rosary (Igreja de Nossa Senhora do Rosário) stands in the Prainha Historic Site and is one of the oldest Catholic churches in Espírito Santo. The current building dates from the 18th century and replaced an earlier colonial structure. Its whitewashed facade and simple baroque detailing are typical of colonial church architecture along Brazil's southeast coast.

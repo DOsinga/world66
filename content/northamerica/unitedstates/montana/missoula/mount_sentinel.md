@@ -8,6 +8,7 @@ tags:
 - hike
 title: Mount Sentinel and the M Trail
 type: poi
+score: 8.2
 ---
 
 Mount Sentinel rises directly above the University of Montana campus, and the trail to the "M" — a large white letter on the hillside — starts from the south end of the university grounds. The trail is steep, gaining about 300 metres in under 2 kilometres, but it is Missoula's most popular hike for good reason: the views from the M over the Clark Fork valley and the surrounding mountains are excellent, and you can be up there and back in under an hour.

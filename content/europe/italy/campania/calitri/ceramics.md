@@ -7,6 +7,7 @@ tags:
 - shopping
 title: Calitrian Ceramics
 type: poi
+score: 6.8
 ---
 
 Calitri has been producing distinctive pottery for centuries — recognisable by its use of red and green glazes on a white slip, with geometric and floral patterns that draw on both Italian and Moorish decorative traditions. The forms are functional: plates, bowls, jugs, and storage vessels that were made to be used as well as displayed.

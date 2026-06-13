@@ -12,6 +12,7 @@ story: >
   soil and planted a formal garden in the depression — a transformation that
   took nearly a decade and is today entirely invisible to anyone walking
   through.
+score: 7.3
 ---
 
 Ritter Park is Huntington's main city park, and within it the Sunken Gardens is the most distinctive element. The gardens sit in a natural depression — formerly a limestone quarry — and are laid out in a formal style with rose beds, seasonal plantings, stone paths, and a central fountain. The surrounding trees are large and old, and the garden has the feel of something that has been tended carefully for a long time.

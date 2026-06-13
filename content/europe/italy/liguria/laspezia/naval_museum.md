@@ -13,6 +13,7 @@ story: >
   remarkable series depicting Roman emperors and allegorical figures. They were
   salvaged as ships were decommissioned and make for a strange, haunting gallery
   that most visitors to La Spezia never find.
+score: 8.3
 ---
 
 The Museo Tecnico Navale is one of the best naval museums in Italy and one of the main reasons to spend a day in La Spezia rather than rushing through to the Cinque Terre. Founded in 1863, it documents Italian naval history from the 16th century to the present with a collection that includes ship models, navigational instruments, weapons, flags, and — most memorably — a gallery of wooden figureheads from warships of the Sardinian and Italian Royal Navy.

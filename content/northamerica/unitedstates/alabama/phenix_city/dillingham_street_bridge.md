@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Dillingham Street Bridge
 type: poi
+score: 7.4
 ---
 
 A handsome 1912 steel-truss bridge across the Chattahoochee, replacing earlier wooden structures that had been on the same crossing since 1841. It carried road traffic for most of its working life and was the main connection between Phenix City and downtown Columbus. The bridge was closed to vehicles in the late 1990s and converted into a pedestrian crossing, which is now the best way to walk between the two downtowns.

@@ -9,6 +9,7 @@ tags:
 latitude: 63.55
 longitude: -19.3
 snippet: "Accessible outlet glacier of Mýrdalsjökull, walkable with crampons and guide"
+score: 8.2
 ---
 
 Sólheimajökull is an outlet glacier of Mýrdalsjökull, the ice cap that sits above the Katla volcano, and it is one of the most accessible glaciers in Iceland for guided walking. The snout of the glacier is about 30 minutes' walk from the car park on a well-maintained path, and tours operating from Skógar and the Ring Road can take you onto the ice with crampons and ice axes within a couple of hours of arrival.

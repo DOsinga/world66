@@ -8,6 +8,7 @@ tags:
 - chinatown
 title: Statue of Kamehameha I
 type: poi
+score: 6.5
 ---
 
 The golden statue of Kamehameha the Great stands outside Ali'iolani Hale in downtown Honolulu, draped in a yellow feathered cloak and holding a spear. It is one of Honolulu's most recognisable landmarks and the standard reference point for the downtown historic district.

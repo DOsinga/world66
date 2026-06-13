@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: Working fishing harbour at the western end of the island, with the best sunsets on Martha's Vineyard
 story: "The Quint scenes in *Jaws* — the shark hunter's grizzled house and harbour — were filmed in Menemsha in 1974. Half a century later the village still attracts a slow drift of film tourists; the harbour itself looks much as Steven Spielberg's location scouts found it."
+score: 8.8
 ---
 
 Menemsha is the most picturesque corner of Martha's Vineyard: a tiny working harbour at the western end of the island, full of lobster boats, fishing shacks selling clams and chowder from the side door, weathered grey-shingle houses, and stacks of lobster pots on the wharf.

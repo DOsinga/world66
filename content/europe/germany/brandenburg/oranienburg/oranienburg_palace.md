@@ -18,6 +18,7 @@ story: >
   way around.
 sources:
   - https://en.wikipedia.org/wiki/Oranienburg_Palace
+score: 7.1
 ---
 
 Oranienburg Palace is one of the earliest Baroque palaces in the Brandenburg-Prussian lands, built for Electress Louise Henriette in the 1650s and expanded by her successors over the following decades. The current building is a substantial U-shaped baroque structure facing the Havel, surrounded by a formal park. After suffering damage and neglect through various 20th-century uses — including a period as a chemical weapons factory and later a pharmaceutical plant — the palace has been carefully restored and now houses the Oranienburg district administration and a small museum on the building's history.

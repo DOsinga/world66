@@ -6,6 +6,7 @@ longitude: -77.2289
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 The high ground at the southern edge of the town, the anchor of the Union "fishhook" position on the second and third days of the battle. The hill saw a Confederate twilight assault on the second day that briefly broke through Union artillery batteries before being repulsed.

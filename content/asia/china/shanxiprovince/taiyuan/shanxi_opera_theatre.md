@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.8720
 longitude: 112.5100
+score: 5.8
 ---
 
 The Shanxi Grand Theatre is the main performing arts venue in Taiyuan, a large modern concert hall and opera house on the western side of the city that hosts national touring productions, local opera companies, and international performances. The building is architecturally ambitious — part of the broader civic redevelopment along the Fen River — and the interior acoustics are well-regarded.

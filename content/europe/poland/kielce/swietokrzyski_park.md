@@ -11,6 +11,7 @@ tags:
 - day_trip
 - hiking
 snippet: Poland's smallest national park — old fir forest, quartzite "stone rivers," and gentle ridge hikes
+score: 8.6
 ---
 
 Established in 1950 around the Łysogóry ridge, the Świętokrzyski National Park is the smallest of Poland's national parks (76 km²) but one of the most distinctive. It protects the central spine of the Holy Cross Mountains, a worn-down range of Cambrian quartzite that is among the oldest mountains in Europe. The forest is dominated by tall, dark fir — the so-called Świętokrzyska Puszcza — with stretches of beech and oak on the lower slopes.

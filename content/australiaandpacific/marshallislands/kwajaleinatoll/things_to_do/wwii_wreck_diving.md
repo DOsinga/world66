@@ -3,6 +3,7 @@ title: "WWII Wreck Diving"
 type: poi
 latitude: 9.160
 longitude: 167.080
+score: 8.8
 ---
 
 Operation Flintlock, the American assault on Kwajalein in February 1944, left behind an extraordinary underwater graveyard. Dozens of Japanese and American warships, aircraft, and vehicles lie on the lagoon floor, some in very shallow water, others at recreational diving depths. The lagoon's calm, protected waters and excellent visibility make conditions some of the best for wreck diving anywhere in the Pacific.

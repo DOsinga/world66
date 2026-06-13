@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 54.7167
 longitude: 8.5000
+score: 7.8
 ---
 
 Föhr is the second largest of the North Frisian Islands and the most family-friendly — flatter, greener, and quieter than Sylt, with excellent cycling on flat roads through farmland and along the coast. The island is accessible by ferry from Dagebüll on the mainland. Wyk auf Föhr, the main town, is a dignified Bäderarchitektur resort with 19th-century houses along a promenade.

@@ -8,6 +8,7 @@ tags:
   - lake
 latitude: 54.8528
 longitude: 24.1672
+score: 5.8
 ---
 
 The Kaunas Reservoir — Lithuanians call it Kauno Marios, the Kaunas Sea — is the largest artificial lake in Lithuania, stretching 84 kilometres up the flooded valley of the Nemunas River. From Rumsiskes on its northern shore, the water feels genuinely sea-like: wide, open, and moody under grey skies. In summer, the beaches on its banks fill with swimmers and sunbathers from Kaunas and Vilnius.

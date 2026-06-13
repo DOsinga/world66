@@ -7,6 +7,7 @@ snippet: Circular collapsed-cave spring with a natural arch over the outlet
 tags:
 - things_to_do
 - sight
+score: 7.8
 ---
 
 Round Spring is one of the more unusual springs in the park. The spring rises into a perfectly circular pool that was originally a cave whose roof collapsed; the remaining arch of dolomite still bridges the outlet, so the water flows out under a low natural bridge before joining the Current River. The pool is small but deep, and the water is the colour of weak indigo.

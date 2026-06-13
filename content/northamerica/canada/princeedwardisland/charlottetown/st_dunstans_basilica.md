@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.2336
 longitude: -63.1254
+score: 7.6
 ---
 
 St. Dunstan's is the most prominent building on the Charlottetown skyline, its twin Gothic spires rising above the flat historic core and visible from the harbour. The current basilica dates to 1919, rebuilt after a fire destroyed the previous cathedral; the spires were added in the 1950s and reach 55 metres. It is the cathedral of the Roman Catholic Diocese of Charlottetown, and the interior is richly decorated with Italian marble, carved woodwork, and stained glass.

@@ -7,6 +7,7 @@ tags:
   - stare_miasto
 latitude: 50.0535
 longitude: 19.9336
+score: 6.2
 ---
 
 At the foot of Wawel Hill, facing the Vistula, a cave entrance leads into a short underground passage that is claimed to be the lair of the legendary Wawel Dragon. The dragon — the Smok Wawelski — is central to the founding myth of Krakow: the cave was already occupied when Krakus, the city's legendary founder, arrived, and it took the wit of a cobbler named Skuba to defeat the beast by feeding it a sheep stuffed with sulphur and pitch. The dragon drank from the Vistula to quench the resulting fire and burst.

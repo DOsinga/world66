@@ -8,6 +8,7 @@ tags:
   - sight
 story: "The Belgian artist Jean Vérame painted the rocks in 1980 with 10 tons of blue paint donated by the United Nations, as a peace gesture marking the Israel-Egypt treaty. He had asked the Bedouin for permission before starting. The colour is fading but unmistakable from a kilometre away."
 snippet: A scattering of granite boulders in the central Sinai painted bright blue by a Belgian artist in 1980.
+score: 6.6
 ---
 
 The Blue Desert is one of the stranger things in the Sinai. About 14 km outside the town of St. Catherine, in an otherwise unremarkable expanse of beige granite, scattered boulders have been painted a deep ultramarine blue. The contrast with the surrounding rock and sky is startling, especially when the light hits at low angles. Many visitors come at sunset for the photographs.

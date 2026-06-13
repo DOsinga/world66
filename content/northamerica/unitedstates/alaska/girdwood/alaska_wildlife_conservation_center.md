@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 8.4
 ---
 
 A 200-acre wildlife rescue centre at the head of Turnagain Arm, twenty minutes south of Girdwood. The centre takes in injured and orphaned Alaskan animals and rehabilitates or houses them in large enclosures designed to feel like genuine habitat. Bears, moose, wolves, lynx, caribou, bald eagles, musk oxen and the small captive wood bison herd that AWCC bred for reintroduction into the Innoko Wildlife Refuge.

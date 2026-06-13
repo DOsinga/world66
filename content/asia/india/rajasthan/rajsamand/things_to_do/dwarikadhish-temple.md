@@ -1,6 +1,7 @@
 ---
 title: "Dwarikadhish Temple"
 type: poi
+score: 6.2
 ---
 
 The Dwarikadhish Temple stands near the lake embankment and is dedicated to Lord Krishna in his form as the "King of Dwarka." It is an active place of worship visited by local devotees throughout the day, particularly at dawn and dusk when the priests perform aarti — the ritual of lamps and bells offered to the deity. Visitors are welcome to observe or participate in the ceremonies.

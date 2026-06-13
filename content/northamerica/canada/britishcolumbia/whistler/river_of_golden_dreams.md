@@ -14,6 +14,7 @@ story: >
   decided to stay anyway.
 sources:
   - https://en.wikipedia.org/wiki/River_of_Golden_Dreams
+score: 6.8
 ---
 
 The River of Golden Dreams is a 3-kilometre paddle along a gentle waterway connecting Alta Lake to Green Lake through a wetland corridor that feels surprisingly remote given how close it is to the resort. The current is slow, the water clear, and in early summer the banks are lined with wildflowers. Canoes and kayaks can be rented from several operators near Alta Lake.

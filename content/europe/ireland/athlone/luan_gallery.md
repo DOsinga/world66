@@ -8,6 +8,7 @@ latitude: 53.42382
 longitude: -7.94287
 sources:
   - https://en.wikipedia.org/wiki/Luan_Gallery
+score: 6.7
 ---
 
 The Luan Gallery is Athlone's main contemporary art space, housed in a restored historic building on the west bank near the castle. The name echoes the town's Irish root — Áth Luain — and the gallery has focused since its 2012 opening on exhibiting Irish artists, with a particular interest in work connected to the midlands region.

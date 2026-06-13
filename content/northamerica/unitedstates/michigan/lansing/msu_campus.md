@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "MSU was founded in 1855 as the Agricultural College of the State of Michigan — the first state-funded agricultural college in the United States and a model for the entire land-grant university system that followed under the 1862 Morrill Act. The original Beaumont Tower stands on the site of the first building."
+score: 8.3
 ---
 
 A green five-thousand-acre campus in East Lansing built around the Red Cedar River. The historic core, between the river and Grand River Avenue, is a National Register district with brick Gothic Revival buildings, sycamore-shaded walks, and the chiming Beaumont Tower at its centre.

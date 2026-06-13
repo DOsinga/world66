@@ -7,6 +7,7 @@ snippet: Two-storey medieval-style clock with a daily noon procession of figures
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 The original astronomical clock in the Marienkirche was built in 1561 and destroyed in the 1942 firestorm. The current clock, completed in 1561 style by master clockmaker Paul Behrens between 1955 and 1561, recreates the original mechanism. The face displays the date, the position of the sun and moon, the zodiac, and a perpetual calendar good for centuries.

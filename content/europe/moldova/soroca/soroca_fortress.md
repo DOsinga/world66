@@ -9,6 +9,7 @@ latitude: 48.1564
 longitude: 28.2892
 sources:
   - https://en.wikipedia.org/wiki/Soroca_Fort
+score: 9.1
 ---
 
 The circular fortress rising above the Dniester is Soroca's defining monument and one of the finest medieval structures in Moldova. Built in its current form in the early 16th century — likely between 1543 and 1546 under Moldavian Prince Petru Rareș — it replaced an earlier earthwork fortification and reflects both Genoese military architecture and the pressing need to resist Ottoman expansion. The plan is a perfect circle: five round towers connected by thick stone curtain walls, with the river providing a natural moat on one side.

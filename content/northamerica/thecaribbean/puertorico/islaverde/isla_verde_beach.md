@@ -11,6 +11,7 @@ story: >
   When planes take off to the north, they pass almost directly overhead at low altitude — a strange
   and exhilarating experience for beach-goers. The approach path from the south brings planes over
   the water, which means you can watch them glide in just above the waves.
+score: 7.5
 ---
 
 Isla Verde Beach is a wide, crescent-shaped stretch of golden sand backed by coconut palms and the big resort hotels — the Ritz-Carlton, the Fairmont El San Juan, the Marriott. The sand is soft, the water is warm and clear, and there is enough gentle wave action to keep it interesting. This is not a remote, unspoiled cove; it is a proper urban resort beach, which means vendors, jet-ski rentals, and beach bars alongside the palms. It does its job extremely well.

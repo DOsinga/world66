@@ -14,6 +14,7 @@ tags:
 title: Macduff Marine Aquarium
 type: poi
 url: www.marine-aquarium.com
+score: 7.4
 ---
 
 The aquarium showcases the fish and creatures of the Moray Firth in a large central tank that runs from floor to ceiling, with regular diver feeds pulling in crowds. When the divers descend, fish that know the routine gather in a flurry — dogfish, conger eels, rays, and pollock circling the glass walls. It opened in 1997 and remains the town's single biggest visitor draw, pulling around 50,000 visitors a year to a harbour town of 4,000 people.

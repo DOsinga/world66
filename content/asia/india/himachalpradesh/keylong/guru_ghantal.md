@@ -12,6 +12,7 @@ story: >
   Whether or not the founding claim is accurate, the site has an atmosphere of genuine antiquity: parts
   of the structure date to at least the 10th century, and the clay images inside look as old as anything
   in the valley.
+score: 8.1
 ---
 
 Guru Ghantal Gompa is one of the oldest monasteries in the Lahaul valley, located about 4 kilometres from Keylong near the confluence of the Chandra and Bhaga rivers. The gompa belongs to the Nyingma school of Tibetan Buddhism — the oldest school, associated with Guru Padmasambhava — and preserves a character quite distinct from the more recently established Gelugpa and Kagyu monasteries nearby.

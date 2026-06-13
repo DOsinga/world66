@@ -14,6 +14,7 @@ tags:
 - city_bowl
 title: Labia Theatre
 type: poi
+score: 7.8
 ---
 
 The Labia is Cape Town's oldest independent cinema, opened in 1949 in a converted ballroom on Orange Street, and one of the very few art-house cinemas left in the country. Four small screens run a mix of foreign-language films, documentaries, repertory classics and the more thoughtful end of new releases.

@@ -8,6 +8,7 @@ latitude: 15.59
 longitude: 73.81
 sources:
   - https://en.wikipedia.org/wiki/Hanuman_Natyagraha
+score: 6.2
 ---
 
 The Hanuman Natyagraha is Mapusa's main theatre and one of the leading venues for Konkani and Marathi language drama in Goa. Built in the mid-20th century, it has been the home of Goa's vernacular theatre tradition through the years of liberation struggle, the transition from Portuguese rule, and the development of modern Goan cultural identity. Plays in Konkani — Goa's official language — are performed here regularly throughout the season from October to May.

@@ -8,6 +8,7 @@ story: >
   The Skagit Valley produces more tulip bulbs than any other region in the United States — a legacy of Dutch immigrant farmers who recognized in the valley's rich alluvial soil a perfect match for the bulb crops of their homeland. At peak bloom in early April, the fields around Burlington and Mount Vernon turn the flat valley floor into a patchwork of red, yellow, orange, and purple visible from miles away.
 sources:
   - https://en.wikipedia.org/wiki/Skagit_Valley_Tulip_Festival
+score: 8.5
 ---
 
 The Tulip Festival, held each April across the Skagit Valley, is one of Washington's most visited annual events. The bloom typically peaks in the first two weeks of April, when the fields of Roozengaarde and Tulip Town — the two main flower farms open to the public — are accessible for walking and photography.

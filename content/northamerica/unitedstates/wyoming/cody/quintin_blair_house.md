@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.5094
 longitude: -109.0011
+score: 5.8
 ---
 
 The Quintin Blair House is a private residence designed by Frank Lloyd Wright and built in 1952–53, one of his Usonian houses — Wright's concept for affordable, organically designed homes for middle-class American families. The low horizontal profile, the integration with the landscape, and the use of natural materials are all characteristic of the Usonian programme. It is one of only a handful of Wright buildings in Wyoming.

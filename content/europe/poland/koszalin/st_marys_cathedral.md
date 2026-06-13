@@ -13,6 +13,7 @@ story: >
   centuries, cutting the city off from maritime trade and ending its medieval prosperity.
   The cathedral, however, survived — one of the few Gothic structures that came through
   the heavy fighting of March 1945 with its structure intact.
+score: 6.4
 ---
 
 The Cathedral of the Virgin Mary is the oldest and most significant building in Koszalin — a Gothic hall church begun in the early 14th century when the city was a functioning seaport. The exterior is handsome in the brick Gothic style typical of Pomeranian cities, with a massive west tower that dominates the old town skyline. The interior was heavily damaged in the war and reconstructed in the 1950s, so it lacks the original furnishings of comparable churches elsewhere in Poland.

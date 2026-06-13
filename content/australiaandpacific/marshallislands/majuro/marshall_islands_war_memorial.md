@@ -6,6 +6,7 @@ latitude: 7.085833
 longitude: 171.371667
 story: >
   Majuro Atoll served as a major US Navy advance base after American forces captured the Marshall Islands in early 1944. At its peak the base handled more ships than any other anchorage in the Pacific. The memorial park stands near where the supply docks once crowded the lagoon shore.
+score: 6.5
 ---
 
 The Marshall Islands War Memorial Park is a beachfront park in Delap, overlooking the lagoon near the site of the old American naval base. A series of memorials and rusting wartime relics pay tribute to both the Marshallese civilians caught up in the fighting and the American and Japanese forces who contested these islands in 1944.

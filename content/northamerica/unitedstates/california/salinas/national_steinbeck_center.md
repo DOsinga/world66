@@ -13,6 +13,7 @@ story: >
   Travels with Charley. The truck is a battered GMC pickup with a custom camper
   shell, and seeing the actual vehicle Steinbeck slept in for months makes the
   book feel immediate in a way reading alone cannot.
+score: 8.9
 ---
 
 The National Steinbeck Center is the main reason most visitors come to Salinas, and it earns its status as a serious museum. The permanent collection covers all of Steinbeck's major works through a series of thematic rooms that combine physical objects, audio and video, and original manuscripts. The East of Eden room recreates the Salinas Valley landscape that appears in the novel; the Grapes of Wrath section includes Dust Bowl-era photographs and migrant camp materials.

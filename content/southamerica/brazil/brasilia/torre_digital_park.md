@@ -7,6 +7,7 @@ snippet: Strong cultural centre of the Banco do Brasil, with international exhib
 tags:
 - things_to_do
 - museum
+score: 6.8
 ---
 
 The Centro Cultural Banco do Brasil occupies a former 1960s bank building near the Itamaraty Palace, repurposed as one of the strongest contemporary cultural venues in the country. Free or low-priced exhibitions of international art, photography, design, and cinema run year-round — past shows have included major Picasso and Andy Warhol retrospectives that drew long queues.

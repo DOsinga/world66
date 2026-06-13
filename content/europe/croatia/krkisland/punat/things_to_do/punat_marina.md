@@ -1,6 +1,7 @@
 ---
 title: "Punat Marina"
 type: poi
+score: 6.6
 ---
 
 Marina Punat is one of the largest and best-equipped marinas in the Adriatic, with more than eight hundred berths spread across floating pontoons and a substantial dry-dock facility. It has been a fixture here since the 1960s and draws sailors from across Europe who use it as a base for cruising the Croatian islands. Even if you're not arriving by boat, the marina is worth a wander — the quays are lively in summer and the boatyard gives a real sense of the local maritime tradition.

@@ -8,6 +8,7 @@ latitude: 48.7505
 longitude: -122.4848
 sources:
   - https://en.wikipedia.org/wiki/Bellingham_waterfront
+score: 7.1
 ---
 
 The Bellingham Waterfront is a long-running urban redevelopment project transforming the former Georgia-Pacific industrial complex along Bellingham Bay into a mixed-use district of parks, trails, housing, and commercial space. The industrial past is still visible — the massive GP pulp mill smokestack still stands as a landmark — but the working waterfront is gradually giving way to public access, and the views across the bay to the San Juan Islands are outstanding on clear days.

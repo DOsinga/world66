@@ -9,6 +9,7 @@ tags:
   - architecture
   - hankou
 neighbourhood: Hankou
+score: 7.4
 ---
 
 The Hankou Customs House on Yanjiang Dadao is the grand dame of the Hankou concession-era riverfront — a Greek-revival Custom House completed in 1924 with a 4-storey portico, a domed central clock tower, and the kind of presence that only the Customs Service of British-administered colonial ports ever achieved. It is locally known as Big Ben.

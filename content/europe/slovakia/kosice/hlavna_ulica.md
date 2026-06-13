@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 48.7221
 longitude: 21.2576
+score: 8.5
 ---
 
 Hlavná ulica is Košice's main street — a long pedestrian promenade running roughly north to south through the old town, about 1.5 kilometres from end to end. It is wide enough to function as a public square rather than simply a street, and lined on both sides with a mixture of Gothic, Baroque, Classicist, and Secessionist architecture that has been carefully restored over the past few decades. The concentration of significant buildings along a single street is remarkable.

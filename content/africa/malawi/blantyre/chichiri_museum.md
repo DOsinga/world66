@@ -13,6 +13,7 @@ story: >
   93.2 kilograms — a lump of iron that fell from the sky long before any
   European set foot in the region and has been sitting in this landlocked
   country ever since.
+score: 7.6
 ---
 
 The Chichiri Museum, also known as the Museum of Malawi, is the national history and culture museum and the best place to get a grounding in what shaped this country. The current building opened in 1966, though the institution traces its origins to the Nyasaland Museum established by legislation in 1957.

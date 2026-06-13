@@ -9,6 +9,7 @@ tags:
   - wine
   - cycling
 snippet: The closest wine district to Mendoza city, best explored by bicycle
+score: 8.0
 ---
 
 Maipú is the wine district closest to Mendoza city — barely 15 kilometres east — and the easiest to reach independently. Unlike Luján de Cuyo or the Uco Valley, the terrain around the Maipú bodegas is flat enough to cycle comfortably between estates, and several rental shops near the Maipú bus terminal will equip you for a day on two wheels.

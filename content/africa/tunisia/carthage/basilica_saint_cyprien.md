@@ -9,6 +9,7 @@ tags:
 - historic
 title: Basilica of Saint-Cyprien
 type: poi
+score: 6.4
 ---
 
 The Basilica of Saint-Cyprien is identified as the church built over the tomb of Cyprian, the third-century bishop of Carthage who was martyred during the Decian persecution and remains one of the most important figures in early Latin Christianity. The basilica was constructed in the fifth century and rebuilt in the sixth, then destroyed during the Arab conquest.

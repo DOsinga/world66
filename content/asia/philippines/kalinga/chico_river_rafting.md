@@ -15,6 +15,7 @@ story: >
   enormous cost, including the assassination of the leader Macli-ing Dulag in
   1980. The cancellation of the Chico Dam project is still cited as one of the
   defining victories of indigenous activism in Asia.
+score: 7.8
 ---
 
 The Chico is the wildest navigable river in the Philippines. Half- and full-day rafting trips run from Tabuk through a series of Class III and IV rapids — the "Surprise," "Roller Coaster," and "Wall" sections are the named ones, though the best stretches change year to year as the river shifts.

@@ -11,6 +11,7 @@ tags:
 - oberkampf
 title: Bistrot Paul Bert
 type: poi
+score: 7.2
 ---
 
 If you want a single restaurant to stand for the Paris bistro at its finest and most unreconstructed, Bistrot Paul Bert is it. Zinc bar, chalkboard menu, paper tablecloths, waiters in aprons, the same dishes for twenty years: steak frites, bone marrow, crème brûlée in a dish the size of a hubcap.

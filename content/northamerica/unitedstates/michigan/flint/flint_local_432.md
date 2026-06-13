@@ -7,6 +7,7 @@ tags:
 latitude: 43.0156
 longitude: -83.6919
 address: "124 West 1st Street, Flint, MI 48502"
+score: 6.8
 ---
 
 An all-ages, substance-free music venue downtown that has been the heart of Flint's punk, hardcore and indie scene since 1994. Built by local musician Joel Rash and run as a non-profit, the Local has launched several touring acts and remains one of the few places in town where you can reliably catch a Friday-night show.

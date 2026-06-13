@@ -9,6 +9,7 @@ tags:
   - historic_house
 title: Moore House
 type: poi
+score: 7.8
 ---
 
 The Moore House is where representatives of Washington, Rochambeau, and Cornwallis negotiated the British surrender. The restored house sits away from the village, surrounded by fields and woods that make the military geography easier to picture.

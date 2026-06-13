@@ -10,6 +10,7 @@ latitude: 53.71051
 longitude: -2.10812
 sources:
   - https://en.wikipedia.org/wiki/Dobroyd_Castle
+score: 5.7
 ---
 
 Dobroyd Castle is a Victorian Gothic mansion built between 1866 and 1875 for John Fielden, heir to the family that dominated Todmorden's cotton industry. The architect John Gibson designed it as a private house of extraordinary size and ambition — more country house than mill-owner's home, with turrets, battlements, and a commanding position above the town. It is a striking example of what serious textile money could produce in mid-Victorian England.

@@ -10,6 +10,7 @@ story: The Brimfield Antique Show started in 1959 when dealer Gordon Reid set up
   dealers spread across more than 20 fields along a mile-long stretch of highway. Serious
   dealers arrive before dawn on opening day to sweep the best pieces before the general
   public gets in — prices at 6am on day one are often half what they'll be by noon.
+score: 8.3
 ---
 
 The Brimfield Antique Show takes place three times a year — in May, July, and September — along a roughly one-mile stretch of Route 20 in Brimfield, five miles west of Sturbridge. More than 6,000 dealers occupy over 20 separate fields, each field independently operated with its own hours, admission policies, and character. Some fields open days before others, which creates a rolling schedule across the week-long event. The scale is hard to grasp before you've been: this is not a large flea market, it's an entire temporary town dedicated to antiques and collectibles.

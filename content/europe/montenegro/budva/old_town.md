@@ -11,6 +11,7 @@ tags:
 snippet: Walled medieval old town on a rocky peninsula — the heart of Budva
 story: >
   Budva is one of the oldest settlements on the Adriatic coast, with Greek and Illyrian roots going back over 2,500 years. The current walls date largely from the Venetian period, and the town was substantially rebuilt after the 1979 earthquake damaged much of it. The restoration was careful enough that the old town still feels genuinely old.
+score: 8.8
 ---
 
 The Budva Old Town sits on a small rocky peninsula jutting into the Adriatic, surrounded on three sides by sea and connected to the mainland by a short causeway. The Venetian-era walls that encircle it are remarkably intact, and the narrow stone streets inside reward aimless wandering. The town's churches — including the Church of the Holy Trinity (Sveta Trojica) and the Church of St. John — are open to visitors and hold artworks that date back centuries.

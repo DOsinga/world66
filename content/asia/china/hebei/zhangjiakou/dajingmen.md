@@ -13,6 +13,7 @@ story: >
   outside the gate gave birth to Zhangjiakou's reputation as one of China's
   major commercial cities — a fact almost invisible today in the ski resort
   brochures.
+score: 7.5
 ---
 
 Dajingmen — the Great Gate — is the most important surviving section of the Great Wall in the Zhangjiakou area, a brick archway roughly 13 metres high and 9 metres wide built in 1644 at the start of the Qing dynasty. It marks the point where a key mountain pass opens onto the Mongolian Plateau, and for two centuries it was one of the busiest trade gateways in northern China. Tea, silk, and silver moved north through the gate; furs, livestock, and Russian goods moved south.

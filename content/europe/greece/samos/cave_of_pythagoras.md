@@ -6,6 +6,7 @@ longitude: 26.6593
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 A pair of caves halfway up the south flank of Mount Kerkis where, legend holds, Pythagoras took refuge from the tyrant Polycrates of Samos. The story is medieval rather than ancient, but the location is stunning: a steep path past olive terraces leads up to two openings in the cliff, with a small rock-cut chapel of Panagia Sarantaskaliotissa wedged between them.

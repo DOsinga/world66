@@ -11,6 +11,7 @@ story: >
   to escape slave raids — the Fon kingdom, whose warriors dominated the region, had a
   religious prohibition against attacking communities built on water, making the lake
   a place of sanctuary.
+score: 6.9
 ---
 
 Lake Nokoué lies just south of Porto-Novo and stretches west to Cotonou. The lake's most remarkable feature is Ganvié, a fishing village of several thousand people built entirely on stilts above the water — one of the largest such settlements in Africa. The approach by pirogue (dugout canoe), through stands of bamboo and past fishermen working their traps, takes about 30 minutes from the Abomey-Calavi embarkation point near Cotonou.

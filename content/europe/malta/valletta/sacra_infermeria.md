@@ -15,6 +15,7 @@ story: >
   rooms in Europe when built and could accommodate up to 914 beds. The hospital treated
   patients of any religion without charge, which was remarkable for the 16th century and
   central to the Knights' founding mission as Hospitallers.
+score: 7.9
 ---
 
 The Sacra Infermeria was the great hospital of the Knights of St John, built in 1574 along Valletta's southern bastions. The original purpose of the Knights was medical — they were founded as a hospice order in Jerusalem before acquiring their military character — and this building embodied their founding mission on a grand scale. The Great Ward, running the length of the building at 185 metres, was among the largest rooms in Europe.

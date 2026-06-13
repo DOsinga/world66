@@ -14,6 +14,7 @@ story: >
   beautiful church in the world." When Pope John Paul II visited in 1985,
   he called it "the eighth wonder of the world." Whether or not you share
   that assessment, the interior is genuinely astonishing.
+score: 9.7
 ---
 
 The Church of La Compañía de Jesús is the most ornate building in Quito and one of the most spectacular Baroque church interiors in the Americas. Every centimetre of the interior is covered in carved and gilded decoration — twisted Solomonic columns, elaborate niches, gilded altars, painted ceilings — executed in the distinctive Quito School style that blended Spanish Baroque with indigenous Andean motifs.

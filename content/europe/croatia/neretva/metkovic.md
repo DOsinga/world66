@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The riverside town that serves as the main base for the Neretva delta.
+score: 6.4
 ---
 
 Metković sits on the right bank of the Neretva, around 20 km from the sea, where the river finally slows and widens into delta. The town itself is unspectacular — a few thousand residents, a long quay, a parish church, and a strong line in mandarin orange production. What it has is location: the natural base for everything in the delta, with the boat operators, the road network, and the railway station all in one place.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kraljevica Shipyard
 type: poi
+score: 6.8
 ---
 
 The Kraljevica Shipyard was founded by imperial decree in 1729 to build warships for the Habsburg Adriatic fleet, making it one of the oldest continuously operating shipyards in Europe. Charles VI signed the founding charter; the early yards built galleys and frigates, and the works expanded through the 19th century. In the 20th century the yard turned to merchant ships, ferries, and fishing vessels.

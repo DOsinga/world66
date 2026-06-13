@@ -12,6 +12,7 @@ story: >
   and early drafts. The Steinbeck archive here was the reason the National
   Steinbeck Center chose Salinas over other competing cities when it was built
   in the 1990s.
+score: 6.8
 ---
 
 The John Steinbeck Library is the public library of Salinas and houses the city's primary Steinbeck archive. While the main public library functions as a regular Monterey County branch, the Special Collections room holds a substantial research archive of Steinbeck materials — letters, photographs, first editions, and local newspapers from the period he was writing about.

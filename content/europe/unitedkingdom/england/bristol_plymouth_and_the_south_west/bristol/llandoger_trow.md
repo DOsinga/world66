@@ -8,6 +8,7 @@ latitude: 51.4517
 longitude: -2.5941
 story: >
   The pub's name comes from a type of flat-bottomed barge used on the River Severn, called a "trow," and Llandoger in Wales. Daniel Defoe is said to have met Alexander Selkirk here — the Scottish sailor who spent four years alone on a Pacific island and became the inspiration for Robinson Crusoe. Robert Louis Stevenson is also claimed to have used it as inspiration for the Admiral Benbow inn in Treasure Island.
+score: 7.0
 ---
 
 The Llandoger Trow is a 17th-century timbered pub on King Street, its five gabled bays making it one of Bristol's most photographed buildings. The pub opened around 1664 and has accumulated more than its fair share of legend — Daniel Defoe meeting the castaway Alexander Selkirk here, Stevenson using it as inspiration for Treasure Island — some verified, some embellished, all entertaining.

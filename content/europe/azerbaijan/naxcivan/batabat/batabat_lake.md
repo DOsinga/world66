@@ -12,6 +12,7 @@ story: >
   occasional curious herder slowly push them around the lake — usually only a
   few metres in a day, but enough that the map of the lake changes from year
   to year.
+score: 8.1
 ---
 
 Batabat Gol — also called Ganli Gol, "Blood Lake", for the reddish algae that sometimes tints its shallows — sits in a high meadow above the Bichanak Pass at an altitude of about 2,400 metres. It is the headline attraction of the Batabat plateau and the reason most travellers come up here at all. The lake is small and shallow, ringed by snowmelt streams in spring and turning into a working summer pasture for shepherds by July.

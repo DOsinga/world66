@@ -8,6 +8,7 @@ tags:
 latitude: -2.4500
 longitude: 29.1500
 story: Two chimpanzee communities have been habituated in Nyungwe — one near Cyamudongo, a small isolated forest patch reached by a 90-minute drive from the main park, and a much larger group in the Uwinka area. The Cyamudongo group is more reliable to find, but tracking can still mean three or four hours of steep climbing through wet undergrowth before the chimps are located.
+score: 8.9
 ---
 
 Chimpanzee tracking starts before sunrise — trackers go ahead to locate the group's overnight nesting site, then radio back so visitors can be guided in. The hike that follows can be anywhere from one to six hours, on steep slippery trails through dense forest. Sightings are not guaranteed, though the success rate is around 80%.

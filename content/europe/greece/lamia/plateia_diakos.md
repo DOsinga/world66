@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.8993
 longitude: 22.4342
+score: 5.7
 ---
 
 Lamia's central square is named for Athanasios Diakos, a local hero of the Greek War of Independence who was captured and executed by the Ottomans in 1821 — roasted alive on a spit, according to the accounts, after refusing to renounce his faith or join the Ottoman side. His statue dominates the square, and there is a genuine civic pride around him in Lamia that you feel even as a passing visitor.

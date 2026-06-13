@@ -21,6 +21,7 @@ tags:
 - observatory
 title: South African Astronomical Observatory
 type: poi
+score: 7.5
 ---
 
 The South African Astronomical Observatory occupies a quiet leafy site at the eastern end of Observatory suburb, a few kilometres from the city centre. Its early-nineteenth-century main building, the Mclear Building, is the oldest extant observatory in the southern hemisphere, and the site has been continuously used for astronomical work for over two hundred years.

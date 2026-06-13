@@ -14,6 +14,7 @@ story: >
   to find persons who could speak of the singing, among slaves, as evidence of their
   contentment and happiness. It is impossible to conceive of a greater mistake. Slaves
   sing most when they are most unhappy."
+score: 5.4
 ---
 
 The Frederick Douglass statue in Morgan Park near the Upton neighbourhood commemorates Baltimore's most famous abolitionist and one of the most important Americans of the 19th century. Douglass was born into slavery in Maryland, grew up and worked in Baltimore, learned to read here (illegally), and escaped the city in 1838 — the escape that made his subsequent career as abolitionist, writer, and statesman possible.

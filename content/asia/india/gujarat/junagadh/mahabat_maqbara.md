@@ -15,6 +15,7 @@ story: >
   staircases running around the outside. Local craftsmen apparently worked from
   European pattern books without fully understanding what they were copying, which
   produced something genuinely original.
+score: 8.7
 ---
 
 The Mahabat Maqbara is the mausoleum of the Nawab of Junagadh, completed in 1892, and it is one of the most extraordinary buildings in Gujarat. The structure mixes European Neo-Classical architecture with Islamic ornament and Indian craftsmanship in a way that shouldn't work but somehow does. The main facade has arched loggias with elaborately carved stonework, Venetian Gothic windows with blue Belgian glass, and four minarets with external spiral staircases that guests can climb for views over the city.

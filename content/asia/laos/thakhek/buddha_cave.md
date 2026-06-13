@@ -8,6 +8,7 @@ latitude: 17.4350
 longitude: 104.9200
 story: >
   The cave was discovered in April 2004 when a local farmer went hunting and noticed a hole in the base of a limestone cliff. He climbed in and found 229 bronze Buddha statues that had been placed there, by unknown hands, an estimated 450 years ago. The statues range from 15 centimetres to over a metre in height and include examples from the Lane Xang, Sikhottabong, Khmer, and Vietnamese traditions. No one knows who placed them there or why — the most plausible theory involves preservation during a period of political instability, with the intention to recover them that was never fulfilled.
+score: 8.2
 ---
 
 Tham Pa Fa, known to travellers as Buddha Cave, lies about 12 kilometres northeast of Thakhek, accessible by motorbike or bicycle on a manageable road. The cave entrance sits at the base of a limestone cliff above a lake (Nong Pa Fa). The lower level is partially flooded and visited by canoe; the upper level is dry and houses the extraordinary collection of ancient Buddhist statues.

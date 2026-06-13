@@ -15,6 +15,7 @@ story: >
   attacking a much larger armoured cruiser at night required considerable nerve. The
   engagement established the Bulgarian Navy's reputation and the Drazki became a
   national symbol. The ship has been preserved here since 1954.
+score: 7.2
 ---
 
 The Naval Museum sits at the southern end of the sea garden, on the waterfront where the park meets the port. It covers the history of the Bulgarian Navy from its founding in 1879, with displays of naval equipment, weapons, and documents spanning World War One, World War Two, and the Communist period. The collection includes submarines, torpedoes, mines, and navigation instruments, as well as a good section on the merchant marine tradition of the Black Sea coast.

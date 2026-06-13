@@ -9,6 +9,7 @@ latitude: 9.9333
 longitude: -84.7833
 story: >
   Isla San Lucas operated as a prison from 1873 to 1991, and the conditions were famously brutal. The Costa Rican poet José León Sánchez spent 30 years imprisoned here and later wrote La isla de los hombres solos — "The Island of Lonely Men" — a harrowing account of life in the penal colony. The book became a bestseller across Latin America and was instrumental in the prison's eventual closure. The ruins of the prison are now the island's main visitor attraction.
+score: 7.9
 ---
 
 Isla San Lucas, a short boat ride from the Puntarenas ferry terminal, was a prison island for over a century before being converted into a wildlife refuge in 1995. The ruins of the old prison buildings still stand among the trees, giving the island an eerie, atmospheric quality that sits oddly alongside the wildlife and the turquoise water.

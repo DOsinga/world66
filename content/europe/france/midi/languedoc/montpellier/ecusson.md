@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: The Écusson
 type: poi
+score: 9.1
 ---
 
 The Écusson — French for "shield" — is the heart of historic Montpellier, named for its shape on the map. The whole quarter is a tight tangle of medieval and Renaissance lanes paved in pale stone, almost entirely closed to cars. Place de la Comédie sits at the south, the Promenade du Peyrou at the west, and the Esplanade Charles-de-Gaulle bounds the north.

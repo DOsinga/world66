@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.8082
 longitude: -8.4170
+score: 5.9
 ---
 
 The Jardim dos Poetas is a small public garden on the north bank of the Lima, next to the bridge. It is named for two Renaissance poets — Diogo Bernardes and his brother Friar Agostinho da Cruz — who were born in Ponte da Barca in the sixteenth century and wrote pastoral and devotional verse that praised this stretch of river. Bronze busts of both stand among the hedges.

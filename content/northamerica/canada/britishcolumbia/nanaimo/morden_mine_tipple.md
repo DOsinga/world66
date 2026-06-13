@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.1027
 longitude: -123.9611
+score: 6.8
 ---
 
 The Morden Mine Tipple is an imposing relic of Nanaimo's coal-mining era — a large wooden ore-sorting structure that has stood on a hillside south of the city since the late 19th century. The tipple was used to sort and load coal before it was transported down to the harbour. It is one of the few surviving examples of this type of industrial structure in North America.

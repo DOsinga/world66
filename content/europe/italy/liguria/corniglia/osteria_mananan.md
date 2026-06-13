@@ -6,6 +6,7 @@ longitude: 9.7085
 tags:
   - eating_out
   - restaurant
+score: 6.5
 ---
 
 Osteria Mananan is the most reliable restaurant in Corniglia — a small, rustic place on Via Fieschi with a short menu of Ligurian classics. The trofie al pesto is made with local basil and properly sauced rather than just smeared. Anchovies appear in several forms: marinated, fried, or stuffed. The wine list is local and short: Cinque Terre Bianco and Sciacchetrà, which is as it should be.

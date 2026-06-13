@@ -13,6 +13,7 @@ story: >
   1922 — and the Prix Morny for two-year-olds. The yearling sales held at
   the adjacent Arqana auction house in the same weeks are the biggest in
   France: a 2018 colt named Calyx fetched €1.6 million.
+score: 6.8
 ---
 
 La Touques is the larger of Deauville's two thoroughbred racecourses and the focus of one of the most important flat-racing meetings in Europe. The grandstand sits right on the edge of town, a five-minute walk from the central square; the season runs from late July through August and again briefly in October. On race afternoons the whole social scene — film festival celebrities, Parisian socialites, breeders, jockeys — funnels through here.

@@ -7,6 +7,7 @@ tags:
   - sight
 title: Sculpture Garden
 type: poi
+score: 6.6
 ---
 
 A small but unexpectedly worthwhile sculpture garden — the Leighlinbridge Sculpture Garden, also called the Garden of the Bones — runs along the east bank of the Barrow opposite the castle. Pieces by Irish sculptors in stone, bronze, and steel are arranged through the lawns and trees, with new works added over the years.

@@ -12,6 +12,7 @@ tags:
 - architecture
 title: Castro Palafitos
 type: poi
+score: 8.5
 ---
 
 Castro's palafitos are the postcard image of Chiloé: wooden houses on stilts, painted in strong colours and balanced over the tidal edge of the fjord. The best-known group is around the Gamboa district, where the houses line the water below the town.

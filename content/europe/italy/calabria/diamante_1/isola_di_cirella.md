@@ -8,6 +8,7 @@ latitude: 39.7286
 longitude: 15.7964
 story: >
   The Norman tower on the summit was built in the 16th century as a watch against Saracen pirate raids. The island and the village of Cirella below were sacked anyway in 1808 by French forces under Napoleon, and old Cirella was abandoned for the modern village on the mainland.
+score: 8.3
 ---
 
 A small uninhabited island sits just off the coast a few kilometres north of Diamante, opposite the village of Cirella. It is barely 600 metres across and rises sharply from the sea, topped by the ruins of a Norman watchtower. The cliffs are honeycombed with sea caves that local fishermen will take you into for a small fee.

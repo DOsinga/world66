@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - day_trips
 - outdoor
+score: 7.1
 ---
 
 The Petrified Forest west of Calistoga is a collection of giant Pliocene-era redwoods, knocked down and buried by a volcanic eruption from Mount St. Helena about 3.4 million years ago and slowly turned to silica. A short interpretive trail loops through the forest, with the largest logs over twenty metres long and up to two metres in diameter.

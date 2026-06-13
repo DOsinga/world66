@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -29.6
 longitude: 29.8
+score: 6.5
 ---
 
 The Natal Midlands is the broad highland plateau between Durban and the Drakensberg foothills, known for rolling grasslands, misty mornings, and a concentration of small towns, craft studios, and country hotels that have positioned themselves along the Midlands Meander. This is green, temperate country, distinctly different from the subtropical coast.

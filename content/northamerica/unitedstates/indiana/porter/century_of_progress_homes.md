@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.6139
 longitude: -87.0614
+score: 7.8
 ---
 
 Five experimental houses built for the 1933 Chicago World's Fair — the "Century of Progress" exposition — were barged across Lake Michigan and reassembled on the Indiana shoreline after the fair closed. They represent the cutting edge of domestic architecture and technology as envisioned in the early 1930s: flat roofs, steel frames, floor-to-ceiling glass, and radiant heating. Each was built by a different manufacturer using different materials and methods, making the group a kind of outdoor museum of Modernist building ideas.

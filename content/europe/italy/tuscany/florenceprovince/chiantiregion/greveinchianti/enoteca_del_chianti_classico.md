@@ -7,6 +7,7 @@ tags:
   - wine
 latitude: 43.5832
 longitude: 11.3165
+score: 6.8
 ---
 
 The Enoteca del Chianti Classico on Piazza Matteotti is the best starting point for understanding the wines of the zone. It stocks a comprehensive range of Chianti Classico producers — from the large cooperative estates to small family wineries — and the staff know their way around the bottles.

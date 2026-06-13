@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 30.50884
 longitude: -97.6796
+score: 5.7
 ---
 
 Koughan Memorial Water Tower Park is a small public park in the heart of old Round Rock, anchored by the city's 1920s-era historic water tower. The tower itself is a well-preserved example of an elevated steel tank on a lattice frame, the kind that once defined the skylines of small Texas towns.

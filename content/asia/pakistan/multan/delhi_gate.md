@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 30.1922
 longitude: 71.4781
+score: 7.2
 ---
 
 **Delhi Gate** sits on the eastern wall of the walled city, the gate through which travellers from Lahore and Delhi historically entered Multan. It is the largest of the surviving gates — two storeys high, with a barrel-vaulted carriageway wide enough for elephants — and was the principal ceremonial entrance under the later Mughal and Sikh governors.

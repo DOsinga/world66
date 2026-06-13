@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -24.787
 longitude: -65.4108
+score: 6.9
 ---
 
 The Museo de Arte Contemporáneo de Salta (MACS) occupies a restored colonial building near the main plaza and displays works by contemporary Argentine and international artists. The museum has a particular focus on artists from the north-west region, many of whom work with themes drawn from Andean culture and landscape.

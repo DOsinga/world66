@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 25.2942
 longitude: 51.5363
+score: 5.2
 ---
 
 The Museum of Illusions near MIA Park is a commercial attraction featuring optical illusions, holograms, and interactive installations. It is firmly in the family entertainment category rather than serious museum territory, but it reliably works as an activity for children and is air-conditioned — a significant practical virtue in Doha's climate. Located in a compact space near the waterfront, it takes about 90 minutes to cover.

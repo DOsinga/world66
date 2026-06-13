@@ -8,6 +8,7 @@ tags:
 - park
 title: Sycamore Grove Park
 type: poi
+score: 7.0
 ---
 
 A large regional park on the south-western edge of Livermore, with paved and dirt trails running through ancient oak woodland and along Arroyo del Valle creek. The park is named for the large California sycamores along the watercourse, some over 200 years old.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 11.3213
 longitude: -73.9078
+score: 8.1
 ---
 
 Tayrona is one of the best places in Colombia to see tropical wildlife without deep jungle trekking. The park sits in a transition zone between dry tropical forest near the coast and wetter cloud forest as the Sierra Nevada rises inland. The trails between the beaches pass through sections of primary forest where wildlife is active throughout the day.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 44.2520
 longitude: 28.6270
+score: 6.3
 ---
 
 Mamaia's reputation as a party destination rests on the cluster of large outdoor clubs and beach bars that operate from June to September along the northern end of the resort. International DJs play here through the summer, and the scene draws young Romanians from Bucharest and beyond. Venues vary in price and style — some are genuinely expensive by Romanian standards, others are casual beach bars with cheap beer and local music.

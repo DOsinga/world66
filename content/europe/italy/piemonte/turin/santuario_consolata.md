@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.0744
 longitude: 7.6800
+score: 8.1
 ---
 
 The most visited church in Turin, dedicated to the city's patron Madonna della Consolata. Behind a relatively plain neoclassical facade is a remarkable late-seventeenth-century interior by Guarino Guarini and Filippo Juvarra: an elongated hexagonal sanctuary, an oval choir, and a series of nesting elliptical chapels that demonstrate just how far Baroque architects could push the rulebook.

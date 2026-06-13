@@ -14,6 +14,7 @@ story: >
   light over the archipelago is clearly visible in the paintings he made here.
 sources:
   - https://en.wikipedia.org/wiki/Krager%C3%B8_Church
+score: 6.5
 ---
 
 Kragerø Church is a whitewashed stone church sitting above the harbour on a rocky promontory, dating from the early 19th century in its current form, though a church has stood on this site since medieval times. It is the parish church for the town and a modest but pleasing example of Norwegian coastal ecclesiastical architecture, with a simple interior and good views over the archipelago from the churchyard.

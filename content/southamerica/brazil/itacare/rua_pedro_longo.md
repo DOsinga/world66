@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -14.2772
 longitude: -38.9961
+score: 7.2
 ---
 
 The main pedestrian street that runs through the centre of Itacaré, lined with surf shops, juice bars, restaurants, and small boutiques selling handmade jewellery and beach clothes. It is partly cobbled, partly sandy, and almost entirely closed to cars. The whole town's social life passes through here in the evenings.

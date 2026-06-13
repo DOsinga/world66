@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Bedu mask is one of the tallest masks in West Africa — up to two and a half metres of painted plank rising above the dancer's head, with circular faces at the top. The mask form is relatively recent, developed by the Nafana subgroup of the Kulango in the early 20th century to ward off epidemics."
+score: 8.4
 ---
 
 The Bedu masquerades are performed by the Kulango villages around Bondoukou during the month-long festival held at the end of the dry season (usually November). Pairs of dancers — one male, one female mask — emerge from the bush at dusk and dance through the village to drumming and singing.

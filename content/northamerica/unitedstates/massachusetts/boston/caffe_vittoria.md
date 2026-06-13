@@ -10,6 +10,7 @@ tags:
 title: Caffe Vittoria
 type: poi
 url: vittoriacaffe.com
+score: 7.3
 ---
 
 The oldest Italian cafe in Boston, opened in 1929 and still in the same Romano family. Caffe Vittoria spreads across multiple connecting rooms with marble-topped tables, mosaic floors, pressed-tin ceilings, and a collection of antique espresso machines lined up along the walls — heavy chrome and brass, the kind that hissed in every Italian bar before the Gaggia revolution.

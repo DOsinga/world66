@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.4622
 longitude: 35.3015
+score: 6.7
 ---
 
 The Great Mosque of Jenin, properly the Fatima Khatun Mosque, sits at the heart of the old city and is the religious focus of the town. It takes its name from Fatima Khatun, a 16th-century Ottoman patroness who is said to have funded its construction. The current building combines older fabric with substantial Ottoman additions; its minaret is the most prominent landmark of central Jenin.

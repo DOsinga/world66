@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - walled_city
+score: 7.6
 ---
 
 The Old City of Lahore was once surrounded by a wall pierced by thirteen gates. Six survive in some form: **Delhi Gate** (still the main entrance, leading through a covered bazaar to the Wazir Khan Mosque), **Bhati Gate**, **Lahori Gate**, **Roshnai Gate**, **Kashmiri Gate**, and **Taxali Gate**. The walls themselves are mostly gone, replaced by a circular boulevard, but the gates still mark the historic city's edges and each has its own story.

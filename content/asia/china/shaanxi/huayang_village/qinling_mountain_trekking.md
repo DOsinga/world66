@@ -14,6 +14,7 @@ story: >
   exactly through the ridge above Huayang. Standing on the crest, you are on
   the boundary between north and south China in every sense — biological,
   climatic, and cultural.
+score: 8.1
 ---
 
 The mountains around Huayang offer serious trekking in a part of China that sees very few foreign visitors. The Qinling range reaches above 2,500 metres in this area, with forested slopes of oak, birch, and fir giving way to alpine meadows near the ridges. The trails are not well marked or maintained by tourist standards, and going with a local guide is strongly recommended.

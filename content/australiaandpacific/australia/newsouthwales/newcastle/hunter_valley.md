@@ -7,6 +7,7 @@ tags:
 latitude: -32.7500
 longitude: 151.1500
 snippet: Australia's oldest wine region, less than an hour from Newcastle
+score: 6.0
 ---
 
 The Hunter Valley wine country begins about 50 kilometres west of Newcastle and contains Australia's oldest continuously producing wine region. The valley floor is planted mainly with Semillon and Shiraz — both varieties that do particularly well here — with dozens of wineries spread across two main clusters around Cessnock and Pokolbin. The Hunter Semillon is distinctive: when young it is lean and minerally, but with age it develops extraordinary richness and complexity without needing to be picked late or have any botrytis.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - market
+score: 8.1
 ---
 
 The Vakil Bazaar — actually a network of linked bazaars accumulated over centuries — runs for nearly two kilometres along the line of the old caravan road through Kerman. The vaulted brick passages are punctuated by domed crossings, small caravanserais, mosques, and bathhouses; the whole complex is essentially a roofed indoor city. The oldest sections date to the Safavid period; the rest is Qajar and Pahlavi expansion.

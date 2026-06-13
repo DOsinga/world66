@@ -14,6 +14,7 @@ story: >
   arrived and river commerce died, the town vanished so completely that
   archaeologists only confirmed its exact location in the 1980s by digging
   beneath the Johnson Park picnic grounds.
+score: 7.1
 ---
 
 East Jersey Olde Towne Village is an open-air museum of twelve colonial-era buildings gathered into Johnson Park on the bank of the Raritan River. The structures — spanning 1703 to 1850 — were relocated here from sites across central New Jersey: a one-room schoolhouse, an 18th-century tavern, a church replica, and several farmhouses show how ordinary people lived in the Raritan Valley before industrialisation.

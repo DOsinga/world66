@@ -6,6 +6,7 @@ longitude: 21.0103
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The Liepāja Symphony Orchestra (Liepājas Simfoniskais orķestris) was founded in 1921 and is the oldest professional symphony orchestra in the Baltic states. That claim to priority carries real weight: orchestras in Riga, Tallinn, and Vilnius all came later. The orchestra now performs at the Great Amber Concert Hall, which opened in 2015 and gave it a venue commensurate with its history and ambition.

@@ -17,6 +17,7 @@ tags:
 - sight
 title: Pyramid of Cestius
 type: poi
+score: 7.2
 ---
 
 Rome's only pyramid, a genuine 2,000-year-old Roman tomb built between 18 and 12 BC when Egyptian funerary fashions swept through the Roman upper class following Julius Caesar's conquest of Egypt. The 36-metre-tall white marble structure stands at the Ostiense city gate, incorporated into the ancient Aurelian Walls, and is one of the best-preserved structures from Roman antiquity.

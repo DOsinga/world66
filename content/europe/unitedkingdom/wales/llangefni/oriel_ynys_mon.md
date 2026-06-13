@@ -15,6 +15,7 @@ story: >
   his measured drawings of dead birds — made purely for his own reference —
   which are unexpectedly detailed and moving, a record of a lifetime's
   obsessive attention.
+score: 8.2
 ---
 
 Oriel Ynys Môn is a museum and arts centre in Llangefni, covering the history and art of Anglesey from prehistoric times to the present. The name translates simply as "the Gallery of the Isle of Anglesey," and it is the island's main cultural institution. The permanent collection runs from Neolithic burial finds and Celtic metalwork through the Roman occupation — when Anglesey was the last druidic stronghold, sacked by the Roman governor Paulinus in AD 60 — and on to more recent history and contemporary Welsh art.

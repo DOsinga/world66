@@ -8,6 +8,7 @@ tags:
 latitude: 25.700500
 longitude: 32.641000
 snippet: "The main bazaar area behind Luxor Temple, selling alabaster, papyrus, replica cartouches, and the usual tourist stock"
+score: 5.8
 ---
 
 The bazaar behind Luxor Temple is the main commercial cluster of the tourist economy. Alabaster workshops, papyrus shops, jewellers selling cartouches with names in hieroglyphs, spice stalls, and clothing shops fill the streets around the Sharia el-Souk, the old market road that runs parallel to the temple's western wall.

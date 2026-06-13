@@ -8,6 +8,7 @@ tags:
   - sight
   - viewpoint
 snippet: "Open grassland summit reached by jeep track from Madikeri."
+score: 7.8
 ---
 
 Mandalpatti is a high open meadow at about 1,600 metres, reached by a rough jeep track from Abbey Falls Road just outside Madikeri. The view from the top is one of the most spectacular in Coorg — a sea of forested ridges with mist rolling up the valleys at dawn and dusk.

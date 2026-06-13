@@ -6,6 +6,7 @@ longitude: 21.2360
 tags:
   - things_to_do
   - sight
+score: 5.1
 ---
 
 The Dan Paltinisanu Stadium (named after the former Politehnica midfielder who died young) is the main football stadium of Timisoara, in the southern district just across the Bega from the centre. The current 32,000-seat structure was completed in 1963 and is the home ground of the city's flagship club, Politehnica Timișoara, who play in the lower professional divisions.

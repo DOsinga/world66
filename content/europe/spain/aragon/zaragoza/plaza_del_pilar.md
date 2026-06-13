@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Plaza del Pilar
 type: poi
+score: 6.8
 ---
 
 Plaza del Pilar is one of the largest pedestrian squares in Europe, stretching for over 400 metres along the south bank of the Ebro. Three monumental buildings frame its north side: the Basílica del Pilar at the west end, the Catedral de la Seo at the east, and La Lonja (the Renaissance exchange) in the middle. The square itself is largely open pavement — nothing like the enclosed Italian piazzas — which gives it an expansive, slightly windswept character that works best in summer evenings when the whole city seems to be out walking.

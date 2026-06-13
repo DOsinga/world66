@@ -13,6 +13,7 @@ tags:
 title: St. Pete Pier
 type: poi
 url: www.stpetepier.org
+score: 6.4
 ---
 
 The rebuilt pier that opened in 2020 is a genuine improvement on its predecessor — a long promenade stretching 1,400 feet into Tampa Bay, with restaurants, a bait shop, a small beach, and sweeping views back toward the downtown skyline. Pelicans and dolphins are regular visitors. It is free to enter and worth a walk at any time of day, though the views are best at sunset when the light comes across the bay from the west.

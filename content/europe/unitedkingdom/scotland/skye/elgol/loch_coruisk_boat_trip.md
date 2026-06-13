@@ -13,6 +13,7 @@ story: >
   of wild sublimity. Sir Walter Scott had already visited and written about it, and the
   combination of Scott's prose and Turner's canvas turned Coruisk into a Victorian
   pilgrimage site. Boats have been running this route ever since.
+score: 9.0
 ---
 
 Aquaxplore and Bella Jane Boat Trips run small vessels from Elgol pier into Loch Scavaig and round to the landing below Loch Coruisk, a freshwater loch ringed almost entirely by the bare gabbro ridges of the Black Cuillin. The crossing takes about 30 minutes and the landscape becomes steadily more dramatic: the Cuillin appears first as distant peaks, then as the whole encircling wall of rock that made Victorian travellers reach for words like "sublime" and "terrible." 

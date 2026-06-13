@@ -14,6 +14,7 @@ story: >
   upper section — a different shade of granite marks where the 19th-century masons made good.
 sources:
   - https://en.wikipedia.org/wiki/Ciudad_Rodrigo_Cathedral
+score: 8.7
 ---
 
 The Cathedral of Santa María sits just inside the walls, close to the bus stop, and is the natural starting point for any visit. The building spans several centuries of construction — Romanesque, Gothic, and Plateresque elements sit side by side in a way that would look awkward elsewhere but here feels organic.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.8433
 longitude: -106.1269
+score: 7.0
 ---
 
 The Buena Vista Heritage Museum occupies the old Chaffee County courthouse, a distinctive red brick building on the east side of downtown that dates from 1882. The collection covers the full arc of the region's history: the Ute people who used the hot springs and hunting grounds for centuries, the silver and lead mining boom that brought thousands of prospectors in the 1870s, and the ranching and farming economy that outlasted the mines.

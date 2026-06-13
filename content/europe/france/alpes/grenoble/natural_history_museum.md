@@ -8,6 +8,7 @@ longitude: 5.7352
 tags:
 - things_to_do
 - museum
+score: 7.1
 ---
 
 Grenoble's natural history museum sits near the Jardin des Plantes and has a solid collection focused on the natural world of the Alps. The geology and mineralogy sections are particularly strong — the Dauphiné region has produced some exceptional crystal specimens, and the Alpine minerals on display are striking. There are also exhibits on local wildlife, paleontology, and the history of Alpine exploration.

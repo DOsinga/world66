@@ -7,6 +7,7 @@ tags:
 latitude: 44.8595
 longitude: -0.5593
 snippet: The post-industrial northern waterfront, home to the Cité du Vin and the emerging creative quarter
+score: 7.5
 ---
 
 Bacalan is the neighbourhood at the northern end of the Bordeaux waterfront, once entirely industrial dock territory and now in the middle of a long regeneration. The Cité du Vin wine museum, opened here in 2016, was the catalyst — its striking curved form, resembling a swirling wine decanter, put the neighbourhood on the tourist map.

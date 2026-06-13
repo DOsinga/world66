@@ -7,6 +7,7 @@ tags:
 latitude: 47.7921
 longitude: -4.2924
 snippet: 'Rocky headland at the western edge of town with panoramic coastal views and access to the GR 34.'
+score: 7.1
 ---
 
 The Pointe de Men Meur marks the western limit of Guilvinec, a low rocky headland where the granite meets the Atlantic in a tumble of boulders and tidal channels. The views from here are excellent: east toward the port and Lechiagat, west along the rugged Bigouden coast to the Eckmuhl lighthouse, and on clear days you can make out the Iles de Glenan on the southern horizon.

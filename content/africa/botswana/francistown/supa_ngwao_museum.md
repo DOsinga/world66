@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/Francistown
+score: 7.6
 ---
 
 The Supa Ngwao Museum is Francistown's most worthwhile stop and one of the better regional museums in Botswana. Its name means "show the heritage" in Kalanga, and it takes that mandate seriously. The permanent collection covers the Tati Gold Rush of the 1860s — one of the first in southern Africa — with mining equipment, photographs, and documents from the concession era. A separate wing focuses on the Kalanga people, the dominant local group, with exhibits on traditional crafts, initiation ceremonies, and oral history.

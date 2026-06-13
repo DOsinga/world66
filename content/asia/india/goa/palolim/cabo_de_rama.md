@@ -6,6 +6,7 @@ longitude: 73.9272
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 Twenty kilometres north of Palolem, Cabo de Rama is a ruined fort perched on a clifftop above the sea. The Portuguese rebuilt the original Hindu fortification in the 18th century; today most of the outer walls remain, a small chapel at the centre still functions, and the rest is open ground with sheer drops to the Arabian Sea on three sides.

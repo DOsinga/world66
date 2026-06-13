@@ -7,6 +7,7 @@ tags:
 latitude: 14.5192
 longitude: 120.9808
 neighbourhood: Entertainment City
+score: 6.3
 ---
 
 Nobu Manila, inside City of Dreams on the Entertainment City strip, is the Philippines outpost of Nobu Matsuhisa's global Japanese-Peruvian restaurant empire. The menu is familiar to anyone who has eaten at a Nobu elsewhere — black cod miso, yellowtail sashimi with jalapeño, rock shrimp tempura — but the execution is consistently high and the waterfront setting adds something. Dress smartly; the atmosphere is formal by Manila standards.

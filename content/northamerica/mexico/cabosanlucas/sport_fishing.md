@@ -8,6 +8,7 @@ latitude: 22.8898
 longitude: -109.9148
 story: >
   The Bisbee's Black & Blue Tournament, held each October, is one of the richest sport fishing competitions in the world, with prize payouts that regularly exceed a million dollars. Teams from across the Americas fly their boats and crews to Cabo for four days of marlin fishing — an extravagant carnival of money, fish, and organised excess that the town takes completely in its stride.
+score: 7.8
 ---
 
 Sport fishing is the activity that put Cabo on the map long before the resorts arrived. The convergence of the Pacific and the Gulf of California creates an exceptionally rich marine environment, with marlin, tuna, wahoo, dorado, and roosterfish all present year-round and in large numbers. The marina at Cabo San Lucas is one of the best-equipped sport fishing operations in the world, with dozens of charter boats available at various price points.

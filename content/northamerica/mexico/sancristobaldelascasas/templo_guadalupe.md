@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 16.7381
 longitude: -92.6253
+score: 7.5
 ---
 
 The Templo de Guadalupe sits at the top of a long flight of steps on the eastern hill above the historic centre, giving it one of the best views over the rooftops of San Cristóbal. The climb is worthwhile for the panorama alone: the red-tiled roofs, the towers of Santo Domingo and the cathedral in the middle distance, and the green hills rising above the city on all sides.

@@ -2,6 +2,7 @@
 title: "Farmer's Gastropub"
 type: poi
 tags: [eating_out]
+score: 5.8
 ---
 
 Farmer's Gastropub on South Avenue represents the more refined side of Springfield's dining scene, occupying a restored historic building in the Midtown neighborhood. The kitchen sources heavily from regional Ozark producers — local farms, Missouri cheeses, Ozark-raised meats — and the menu changes seasonally to reflect what is available. Expect dishes built around familiar American ingredients treated with care: roasted beets with local goat cheese, house-made charcuterie, wood-fired proteins, and a thoughtful selection of craft beers and an extensive whiskey list.

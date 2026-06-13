@@ -8,6 +8,7 @@ tags:
 latitude: 29.963
 longitude: 76.828
 snippet: 'Dense cluster of temples around Brahma Sarovar, each tied to the Mahabharata'
+score: 7.5
 ---
 
 Around the Brahma Sarovar, dozens of small and mid-sized temples cluster densely along the ghats and in the lanes behind them, each dedicated to a different deity or to a specific episode from the Mahabharata or the Bhagavad Gita. The circuit is best done on foot, moving from one ghat to the next and dipping into whichever shrines are active.

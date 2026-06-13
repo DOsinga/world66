@@ -11,6 +11,7 @@ tags:
 - sight
 title: Fort Charles
 type: poi
+score: 8.4
 ---
 
 Fort Charles is the oldest of the six forts that once defended Port Royal and the only one still standing in any complete form. The British built it in 1655 immediately after taking the island from the Spanish, originally calling it Fort Cromwell. It was a vital piece of the chain of harbour defences that protected the buccaneers, naval ships, and merchantmen anchored in Kingston Harbour.

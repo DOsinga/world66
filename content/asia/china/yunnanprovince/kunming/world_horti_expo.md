@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - garden
+score: 5.5
 ---
 
 The World Horti-Expo Garden was built for the 1999 International Horticultural Exposition, an event that triggered most of the modernisation of present-day Kunming. The 218-hectare site, on a hillside in the northeastern suburbs, has been kept open as a public botanical garden and is one of the largest in China.

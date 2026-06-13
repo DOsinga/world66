@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.7455
 longitude: 90.3776
+score: 7.3
 ---
 
 A long, narrow artificial lake in the middle of the Dhanmondi residential district, ringed with a walking and cycling path, benches, food stalls, and small gardens. Dhanmondi Lake is one of the few genuinely pleasant public outdoor spaces in Dhaka — somewhere locals use for early morning walking, evening socialising, and weekend picnics. Paddle boats can be rented at several points along the shore.

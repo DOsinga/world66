@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.6200
 longitude: 101.7850
+score: 6.5
 ---
 
 The Salar people — a Turkic-speaking Muslim minority who have lived in the Xunhua area of Qinghai for centuries — have a distinct culinary tradition that is slightly different from mainstream Hui Muslim cooking. Salar restaurants in Xining, found scattered through the Muslim quarter, serve Salar-style lamb dishes with a heavier use of dried chilli and a different balance of spices than the Hui norm.

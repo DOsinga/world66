@@ -11,6 +11,7 @@ story: >
   The Precinct of Mut contains hundreds of black granite statues of the lioness goddess Sekhmet, set up by Amenhotep III. The king built so many statues — estimates range from 365 to 730 — that it was once thought each represented a day in the year, so that one could be ritually anointed each day to keep the dangerous goddess pacified. Many of the statues were later moved to other temples, but enough remain at the site to create an unusually atmospheric ensemble.
 sources:
   - https://en.wikipedia.org/wiki/Precinct_of_Mut
+score: 7.5
 ---
 
 The Precinct of Mut is one of the four main enclosures of the Karnak complex, connected to the Precinct of Amun-Re by an avenue of sphinxes. It is less visited than the main Karnak enclosure because it is still largely under excavation, but this gives it a wonderful archaeological atmosphere — you can watch work in progress and see the temple in a state between discovery and restoration that the main sites have long since passed.

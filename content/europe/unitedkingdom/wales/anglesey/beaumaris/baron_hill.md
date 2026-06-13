@@ -8,6 +8,7 @@ tags:
   - ruin
 sources:
   - https://en.wikipedia.org/wiki/Baron_Hill,_Anglesey
+score: 5.8
 ---
 
 Baron Hill is the ruined seat of the Bulkeley family, who dominated Beaumaris for nearly five centuries from the 1440s onward. The current shell — a vast neoclassical mansion designed by Samuel Wyatt in 1776 — was abandoned during the Second World War after Polish troops occupied it, and was gutted by fire in 1947.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.8892
 longitude: 116.3818
+score: 8.9
 ---
 
 Directly opposite the Temple of Heaven and rarely on tourist itineraries, the former Temple of Agriculture (Xiannong Tan) houses the Museum of Ancient Chinese Architecture — a genuinely interesting collection of architectural models, building components, and documented historical structures spread through the temple's surviving halls. The temple itself, where emperors came annually to plough the first ritual furrow of spring, is beautiful and almost entirely crowd-free.

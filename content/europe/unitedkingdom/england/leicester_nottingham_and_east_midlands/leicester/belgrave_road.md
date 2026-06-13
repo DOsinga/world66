@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 52.6475
 longitude: -1.1255
+score: 7.4
 ---
 
 Belgrave Road, running north from the city centre into the Belgrave suburb, is Leicester's "Golden Mile" — a stretch of shops, restaurants, mithai houses, and jewellers that is the commercial heart of one of Britain's most significant South Asian communities. Walking it is one of the most vivid cultural experiences in England outside London.

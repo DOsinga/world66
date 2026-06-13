@@ -9,6 +9,7 @@ tags:
 title: Le Bec Fin
 type: poi
 snippet: "Philadelphia's legendary French fine-dining institution, a Walnut Street landmark since 1970"
+score: 2.0
 ---
 
 Le Bec-Fin, Philadelphia's premiere fine dining restaurant, provided memorable dining experiences from 1970 until its closure in 2012. Chef and owner Georges Perrier created a restaurant that became a Philadelphia landmark and an international gastronomic destination — the sort of place that defined what fine dining meant in an American city for four decades.

@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 50.2591
 longitude: 19.0228
+score: 6.3
 ---
 
 U Michała is one of the best places in Katowice to eat traditional Silesian food. The menu is built around the regional staples: rolada śląska (beef olives stuffed with pickle, bacon, and mustard), kluski śląskie (round potato dumplings with the characteristic dimple), and kapusta zasmażana (braised sauerkraut). The portions are large and the prices are low. The decor runs to checkered tablecloths and framed photographs of old Silesia.

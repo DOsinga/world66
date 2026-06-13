@@ -8,6 +8,7 @@ latitude: 6.3000
 longitude: 0.0500
 sources:
   - https://en.wikipedia.org/wiki/Akosombo_Port
+score: 7.6
 ---
 
 The port is the southern terminus of all Lake Volta traffic. From here the slow passenger ferry **Yapei Queen** (when it is running) starts its two-day journey north to Yeji, stopping at the dispersed lakeside villages along the way — one of the great long-haul boat journeys still operating in West Africa. The schedule is famously unreliable; check at the VRA office in town before relying on it.

@@ -8,6 +8,7 @@ tags:
 latitude: 38.0560
 longitude: -81.0840
 story: "The Gauley River, dam-controlled and released only 22 days each autumn, is rated among the top five whitewater rivers in the world. Class V rapids with names like Pillow Rock, Iron Ring, and Heaven Help You drop the river through 22 miles of continuous rapids. Outfitters worldwide bring their best guides for the brief Gauley Season — late September to mid-October."
+score: 8.9
 ---
 
 Fayetteville sits at the crossroads of two great rivers. The **New River** offers something for everyone — gentle Class I–II floats through the upper gorge for families, and serious Class III–IV whitewater in the Lower New, where the river crashes down a series of named rapids beneath the bridge.

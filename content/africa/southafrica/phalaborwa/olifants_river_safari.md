@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -24.0073
 longitude: 31.7125
+score: 7.6
 ---
 
 The Olifants River forms the boundary between Kruger's central and northern zones, and boat safaris on the stretch accessible from the Hoedspruit and Phalaborwa areas offer an entirely different perspective on the bush. From the water, animals approach the riverbank without noticing the boat — crocodile sunning on sandbanks, hippo half-submerged in pods, elephant families crossing at ancient drift points, and giraffe bowing awkwardly to drink.

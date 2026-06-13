@@ -6,6 +6,7 @@ latitude: 4.540
 longitude: -75.770
 snippet: Coffee-themed theme park near Montenegro, half an hour from Armenia
 story: The park opened in 1995 and was built by the National Federation of Coffee Growers as a way to promote — and profit from — Colombia's coffee heritage. It now combines genuine educational exhibits on coffee history with the country's largest collection of roller coasters and a cable car that runs over the surrounding plantation.
+score: 6.9
 ---
 
 A surprisingly large coffee-themed theme park about 25 kilometres west of Armenia, near the town of Montenegro. It is divided into two halves: a museum and botanical gardens section that traces the history of Colombian coffee from cultivation to cup, and an amusement-park section with roller coasters, a log flume, and a chairlift that runs over the working coffee fields.

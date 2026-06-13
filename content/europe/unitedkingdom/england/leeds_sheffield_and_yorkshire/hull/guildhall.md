@@ -8,6 +8,7 @@ tags:
 title: Hull Guildhall
 type: poi
 snippet: "Edwardian baroque civic centre on Lowgate, still the home of Hull City Council"
+score: 7.8
 ---
 
 The Guildhall on Lowgate is the seat of Hull City Council and was completed in 1916 in a flamboyant Edwardian baroque style intended to rival civic palaces in larger cities. The exterior is studded with allegorical statuary and topped by a clock tower; the marble interior includes a vaulted main hall and a council chamber lined with portraits of past mayors and aldermen.

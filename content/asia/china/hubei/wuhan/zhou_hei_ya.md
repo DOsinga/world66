@@ -6,6 +6,7 @@ longitude: 114.2856
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 Zhou Hei Ya — Zhou's Black Duck — is the Wuhan chain that took the city's traditional duck-neck snack and made it national. Founded in 1997, the brand specialises in marinated and braised duck, especially duck necks, wings, gizzards, and feet, all vacuum-sealed for snacking and sold from small kiosks across the city.

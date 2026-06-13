@@ -8,6 +8,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Wadi_Araba_Crossing
+score: 7.6
 ---
 
 The Yitzhak Rabin crossing between Eilat and Jordan's Aqaba is one of the easiest border crossings in the region, and it puts Wadi Rum within reach as a day trip. The desert valley, with its extraordinary sandstone towers and Bedouin camps, is about an hour's drive from Aqaba — you can be in the landscape of Lawrence of Arabia within two hours of leaving your hotel in Eilat.

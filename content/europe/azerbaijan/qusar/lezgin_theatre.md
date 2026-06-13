@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.4225
 longitude: 48.4347
+score: 7.4
 ---
 
 The Lezgin State Drama Theatre opened in 1998 in Qusar and is one of only two professional theatres in the world that stages performances in the Lezgin language. The Lezgins are a Caucasian people of around 700,000 who straddle the Russian-Azerbaijani border; their language belongs to the Northeast Caucasian family and has no close relatives outside the region. The theatre occupies a prominent position on Qusar's central square alongside the post office and the principal hotel.

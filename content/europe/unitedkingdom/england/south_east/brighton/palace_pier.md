@@ -9,6 +9,7 @@ latitude: 50.8174
 longitude: -0.1369
 story: >
   Brighton Palace Pier was opened in 1899, but it nearly didn't survive the 20th century. A ship crashed into it in 1973, severing a section. Rather than repair it, the owners tried to claim it as two separate piers to get around planning restrictions. The courts disagreed. The pier was repaired and remains intact, while those same owners lost control of it.
+score: 6.9
 ---
 
 The Palace Pier is the working one. It juts 524 metres into the English Channel with amusement arcades, fairground rides including a rollercoaster, fish and chip stalls, and that particular smell of salt air and fried doughnuts that has defined British seaside holidays since the Victorian era. It is unashamedly cheerful and doesn't apologise for it.

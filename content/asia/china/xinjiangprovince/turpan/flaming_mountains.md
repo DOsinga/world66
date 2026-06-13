@@ -15,6 +15,7 @@ story: >
   among the hottest places in China — ground temperatures exceeding 80°C
   have been recorded in summer, and the rocks really do appear to ripple
   with flame in the afternoon sun.
+score: 6.9
 ---
 
 A 100-kilometre ridge of bare red sandstone hills running northeast from Turpan, marking the northern rim of the Turpan Depression. In the afternoon sun the eroded gullies and ridges genuinely look like flames; the official Turpan tourist site has the predictable giant thermometer and Journey to the West statues.

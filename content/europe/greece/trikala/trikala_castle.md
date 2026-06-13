@@ -11,6 +11,7 @@ story: >
   where Asclepius, the god of medicine, was said to have been born. Homer mentions Tricca 
   in the Iliad as the domain of the physician heroes Machaon and Podalirius — sons of 
   Asclepius himself. The hill has been continuously fortified for at least 2,500 years.
+score: 7.3
 ---
 
 The Kastro of Trikala occupies the old acropolis hill that has been a fortified position since antiquity. The current walls are Byzantine in origin, built over Hellenistic foundations, and were subsequently modified by the Serbs and then the Ottomans. A section of the walls and several towers survive, along with a small garden park inside the enclosure.

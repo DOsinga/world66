@@ -7,6 +7,7 @@ tags:
 latitude: 41.8084
 longitude: 13.7893
 story: "The Marsican brown bear is a distinct subspecies, isolated in the central Apennines since the last ice age. Fewer than 60 individuals survive, making it one of the rarest large mammals in Europe. The national park has been their stronghold since 1923 — when the park was established specifically to protect them — and the population has grown slowly but consistently under protection."
+score: 9.4
 ---
 
 The Apennine brown bear — the Marsican subspecies — is the symbol of Abruzzo, Lazio and Molise National Park and the primary reason many visitors come to Pescasseroli. With fewer than 60 individuals in the wild, a sighting is never guaranteed, but the park's bears are habituated to a degree of human presence and sightings are reasonably common. Dawn and dusk near the valley meadows give the best odds; the park authority can direct you to current hotspot areas and offers guided wildlife excursions.

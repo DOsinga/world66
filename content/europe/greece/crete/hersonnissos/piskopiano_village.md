@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 35.3050
 longitude: 25.3879
+score: 6.8
 ---
 
 Piskopiano sits on a hill above Hersonissos, a 15-minute walk or a short drive up from the coast road, and is the place where local life kept going while the resort below boomed and the village kids moved down to the beach. Narrow whitewashed lanes climb between bougainvillea-draped houses to a small platia with a couple of old-fashioned tavernas under plane trees and a bakery that has been here since long before tourism arrived.

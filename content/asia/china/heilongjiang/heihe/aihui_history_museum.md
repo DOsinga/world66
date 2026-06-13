@@ -14,6 +14,7 @@ story: >
   either: it is one of the few places in China where 19th-century humiliation
   at Russian hands is laid out plainly rather than folded into a general
   narrative of foreign aggression.
+score: 8.2
 ---
 
 The Aihui History Museum stands in the old town of Aigun, about 33 kilometres south of Heihe city centre, and documents one of the more consequential and less-discussed episodes in Sino-Russian border history. The Treaty of Aigun (1858) was signed here during a period when China's Qing dynasty was severely weakened, and it resulted in Russia gaining enormous tracts of territory north and east of the Amur River. The earthworks of the old Aigun city are still partially visible nearby.

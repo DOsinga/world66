@@ -7,6 +7,7 @@ tags:
 latitude: -31.4378
 longitude: 152.9314
 snippet: The most popular patrolled surf beach, with a grassy reserve behind and a kiosk
+score: 7.2
 ---
 
 Flynns Beach is the most popular of Port Macquarie's ocean beaches and the one most locals recommend for swimming. It is patrolled by surf lifesavers on weekends and public holidays throughout summer, with the flags marking the safest area to swim. The break is consistent enough for beginner surfers and the swell manageable for confident swimmers most of the time.

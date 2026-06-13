@@ -8,6 +8,7 @@ tags:
 address: 1534 Oak St, Jacksonville, FL
 latitude: 30.3133
 longitude: -81.6751
+score: 6.5
 ---
 
 Black Sheep is one of Riverside's most interesting restaurants, a wood-fired kitchen that takes its ingredients seriously and keeps the menu tightly focused on what is good that week. The menu changes frequently and is built around local and seasonal products — farm vegetables, Florida seafood, Gulf shrimp — prepared with confidence and without fussiness.

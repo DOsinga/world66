@@ -6,6 +6,7 @@ longitude: 17.5338
 tags:
   - things_to_do
   - beach
+score: 6.2
 ---
 
 Komarna's small harbour and the gravel beach beside it are the centre of village life, such as it is — a handful of fishing boats, a couple of café-bars on the seafront, and a swimming area sheltered from the open Adriatic by the curve of the bay.

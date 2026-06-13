@@ -10,6 +10,7 @@ tags:
 - sight
 title: Tour of the Falls
 type: poi
+score: 6.8
 ---
 
 The walk through the rainforest along the gorge rim — taking in the falls, the spray-drenched forest, and the Livingstone Statue — can be done independently or with a guided tour. An entrance fee is charged at the gate. Raincoats and umbrellas can be hired at the car park opposite the entrance.

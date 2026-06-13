@@ -7,6 +7,7 @@ tags:
 - nature
 latitude: -41.099
 longitude: 174.918
+score: 7.8
 ---
 
 Pauatahanui Inlet is the eastern arm of Porirua Harbour, ringed by hills and stretching about six kilometres inland. The head of the inlet is one of the most important saltmarshes in the lower North Island and the centrepiece of the Pauatahanui Wildlife Reserve, co-managed by Forest & Bird and Greater Wellington Regional Council.

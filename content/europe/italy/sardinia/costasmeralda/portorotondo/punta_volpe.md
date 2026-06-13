@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.0150
 longitude: 9.5550
+score: 7.7
 ---
 
 Punta Volpe ("Fox Point") is one of the best beaches on this stretch of coast — a long strip of very fine white sand backed by low scrub and fragrant Mediterranean maquis, with shallow turquoise water that makes it suitable for children and excellent for snorkelling off the rocks at the headland. Access is by a short dirt track from the main road.

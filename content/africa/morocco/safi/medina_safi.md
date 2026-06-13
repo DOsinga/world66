@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 32.2935
 longitude: -9.2370
+score: 8.3
 ---
 
 Safi's medina is one of the least touristy in Morocco. There are no carpet sellers lurking at the gates and no guides offering to show you around for a fee. This is a town where Moroccans actually live and work, and the streets reflect it: butchers, hardware merchants, bakers, and mechanics outnumber souvenir shops by a wide margin.

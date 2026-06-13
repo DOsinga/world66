@@ -9,6 +9,7 @@ latitude: 47.3055
 longitude: 28.9748
 story: >
   The site sits atop layers of history stretching back 2,000 years or more. Geto-Dacian fortifications from around the 3rd century BC sit beneath 13th-century Mongol Golden Horde ruins, which themselves overlie even earlier settlements. When Mongol power collapsed after 1241, Moldovan princes used the same defensive position. The name "Orheiul Vechi" means "Old Orhei" — the original city of Orhei was here before it moved to its current location some 20 km away.
+score: 8.1
 ---
 
 The broader archaeological reserve at Orheiul Vechi encompasses the entire limestone peninsula and spans several thousand years of human occupation. The most visible medieval remains are the foundations of a Mongol-era bathhouse and caravanserai from the Golden Horde period (13th–14th centuries), when this was an administrative centre called Shehr al-Jadid (New City). These structures were uncovered through archaeological excavations in the twentieth century and are partially restored.

@@ -11,6 +11,7 @@ tags:
 - fishing
 title: Lake Fort Gibson
 type: poi
+score: 5.9
 ---
 
 Lake Fort Gibson lies west of Tahlequah, formed by the impoundment of the Grand (Neosho) River. At around 19,000 acres it is one of the larger lakes in Oklahoma — a broad, shallow reservoir with irregular shoreline and numerous coves. Bass fishing is the main draw, and the lake consistently produces good largemouth and striped bass; crappie and catfish fill out the catch. Several marinas and boat ramps serve the north and east shores.

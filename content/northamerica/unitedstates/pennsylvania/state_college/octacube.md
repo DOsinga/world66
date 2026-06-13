@@ -12,6 +12,7 @@ story: >
   tribute to his love of mathematics. The sculptor, Adrian Ocneanu, designed it to represent
   a four-dimensional mathematical object projected into three dimensions — the same conceptual
   leap that a shadow represents for a three-dimensional object.
+score: 5.9
 ---
 
 The Octacube is a large stainless steel sculpture displayed in the atrium of the mathematics building at Penn State. It represents the 24-cell, a four-dimensional geometric object that has no direct equivalent in three-dimensional space — the sculpture is essentially a three-dimensional shadow of something that cannot physically exist in our universe. At over 1.5 metres in diameter, it is a striking object even for visitors with no mathematical background, catching light beautifully and changing in appearance as you move around it.

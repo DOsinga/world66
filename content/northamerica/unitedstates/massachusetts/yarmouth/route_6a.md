@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.705
 longitude: -70.23
+score: 7.8
 ---
 
 Route 6A through Yarmouthport is one of the most scenic drives on Cape Cod — the Old King's Highway, which ran the length of the peninsula before the turnpike arrived. Through Yarmouthport, it's a canopied road of mature oaks and maples, lined with sea captains' houses from the 18th and early 19th centuries, antique shops, small galleries, and the occasional general store.

@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 10.6308
 longitude: -4.7589
+score: 5.6
 ---
 
 The Grand Marché in the centre of Banfora runs every day but is busiest on Saturdays, when traders come in from across Comoé Province and over the borders from Côte d'Ivoire and Mali. The market is good for the practicalities — mangoes and bananas in season, peanuts, cane sugar from the local refinery, cheap cotton cloth, leather sandals — and entertaining as a piece of theatre.

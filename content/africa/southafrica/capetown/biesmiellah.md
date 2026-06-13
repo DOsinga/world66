@@ -13,6 +13,7 @@ tags:
 - bo_kaap
 title: Biesmiellah
 type: poi
+score: 7.7
 ---
 
 Biesmiellah is one of the oldest restaurants in Cape Town and one of the best places to eat genuine Cape Malay food. The kitchen at Upper Wale Street has been producing bobotie, denningvleis, bredie and pickled fish since 1965, and the recipes have not been adjusted for tourist tastes. Portions are generous and prices are modest. The room is simple; the cooking is the point.

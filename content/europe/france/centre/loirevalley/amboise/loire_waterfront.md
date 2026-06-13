@@ -7,6 +7,7 @@ tags:
 latitude: 47.4080
 longitude: 0.9830
 snippet: The Loire river frontage and its mid-stream island below the chateau
+score: 7.4
 ---
 
 Amboise sits where the Amasse river meets the Loire, and the waterfront below the chateau is one of the most pleasant stretches of river in the valley. A quayside promenade runs along the south bank; from here you look up at the chateau walls rising directly from the rock above.

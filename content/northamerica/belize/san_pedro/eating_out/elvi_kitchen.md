@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 17.9139
 longitude: -87.9667
+score: 7.2
 ---
 
 Elvi's Kitchen is San Pedro's most enduring restaurant and something of a local institution. It started, as the story goes, as a literal kitchen — Elvi Staines cooking for neighbours and fishermen out of her home. It has since grown into a proper restaurant but retains the atmosphere of home cooking: Belizean rice and beans, stewed chicken, conch fritters, and fresh seafood prepared simply and well.

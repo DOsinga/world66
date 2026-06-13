@@ -9,6 +9,7 @@ latitude: 46.4800
 longitude: 12.1450
 sources:
   - https://en.wikipedia.org/wiki/Croda_da_Lago
+score: 8.1
 ---
 
 Croda da Lago is a compact mountain chain west of San Vito di Cadore, rising to 2,709 metres and enclosing the beautiful Lago Federa at its base — one of the most photogenic lakes in the Dolomites, set against sheer dolomitic walls and typically framed by wild flowers in July. The chain sits between the Cortina basin and the Fiorentina valley, and the approach from Cortina (via the Pocol plateau) is more common, but the peaks are clearly visible from San Vito and reachable in a long day.

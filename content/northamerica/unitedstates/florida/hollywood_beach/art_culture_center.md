@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 26.0104
 longitude: -80.1407
+score: 6.3
 ---
 
 The Art and Culture Center of Hollywood is the main cultural institution in the city, a multi-disciplinary arts organization with gallery space, performing arts programming, and an arts education programme for local schools. The exhibitions rotate regularly and cover contemporary art, photography, and cultural history, with a particular focus on Florida and Latin American work given the local demographics.

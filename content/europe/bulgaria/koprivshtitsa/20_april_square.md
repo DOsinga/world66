@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.6372
 longitude: 24.3576
+score: 7.0
 ---
 
 The central square of Koprivshtitsa is named for the date in 1876 when the April Uprising began. It is a small, handsome space — a fountain, a monument, a couple of cafes with outdoor tables, and the painted facades of old merchant houses on three sides. Not grand, but pleasant and human-scaled.

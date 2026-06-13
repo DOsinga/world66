@@ -4,6 +4,7 @@ type: poi
 tags: [beaches, sight]
 latitude: 37.075
 longitude: 25.3517
+score: 7.6
 ---
 
 Agios Prokopios is the closest good beach to Hora, a 10-minute drive south of town, and it earns its popularity. The sand is fine and pale gold, the water is shallow and clear for a long way out, and the combination makes it the best family beach on the island. Sunbeds and umbrellas are available for hire across most of the bay, tavernas sit at the back of the beach, and the whole setup is efficiently organised without being unpleasantly crowded — at least outside August, when everywhere on the island fills.

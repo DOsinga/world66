@@ -5,6 +5,7 @@ snippet: Surprising Art Deco district tucked between the old centre and the cita
 tags: [things_to_do, sight, architecture, art_deco, neighbourhood]
 latitude: 50.4628
 longitude: 4.864
+score: 7.5
 ---
 
 Most visitors to Namur expect cobbled streets and seventeenth-century houses, and find them — but the Quartier des Carmes, just south of the cathedral, is a surprise: a small but coherent district of **Art Deco** houses, banks and shopfronts built mostly in the 1920s and early 1930s. It was developed on the site of an old Carmelite convent (the name "Carmes" survives from the order) and largely escaped the wartime damage that flattened so much of central Belgium.

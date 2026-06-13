@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 59.5942
 longitude: 16.6261
+score: 6.8
 ---
 
 Västerås Flygmuseum sits alongside the city's airport and houses a collection of Swedish military and civilian aircraft from the post-war decades. The centrepiece is a collection of SAAB jets — Västerås was deeply embedded in Swedish aerospace history through its connections with the SAAB and Volvo Flygmotor industries — alongside piston-engined trainers, helicopters, and some rare Cold War-era machines.

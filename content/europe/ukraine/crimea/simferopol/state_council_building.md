@@ -8,6 +8,7 @@ tags:
   - architecture
   - sight
 story: "In February 2014, masked gunmen seized the building in an overnight raid and raised the Russian flag; a hastily convened session of the parliament inside then voted to hold the referendum that led to Crimea's annexation. The events are now commemorated by a plaque and a small honour-guard at the entrance."
+score: 4.4
 ---
 
 The seat of the regional parliament, an imposing late-Soviet building on Lenina Street faced with grey marble. Architecturally it is unremarkable — typical of administrative buildings of the 1980s — but the building has been at the centre of every major Crimean political moment of the last forty years.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 5.1640
 longitude: -52.6350
+score: 6.3
 ---
 
 Kourou's main beach is one of the few properly equipped beaches in French Guiana — there are shaded picnic shelters, a fitness trail, and children's play areas, making it more usable than the raw coastal stretches you'll find elsewhere in the territory. The beach itself is pleasant enough, though ocean currents from the Amazon basin occasionally deposit debris along the tideline.

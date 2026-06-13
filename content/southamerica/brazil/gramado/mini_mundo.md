@@ -6,6 +6,7 @@ longitude: -50.8819
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 A miniature theme park of model towns and famous buildings built at 1:24 scale, with running model trains threading between them. The execution is meticulous and the gardens around it are lovingly maintained. It is unashamedly kitsch and aimed squarely at children — but it is also rather charming, especially if you have kids in tow.

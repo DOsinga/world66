@@ -14,6 +14,7 @@ story: >
   around it were at the centre of the diplomatic deadlock that resulted in Brcko's
   unique self-governing status under the Dayton Agreement — a compromise reached
   because neither entity could be allowed to hold the crossing.
+score: 6.6
 ---
 
 The Sava River at Brcko is wide and slow — a proper central European river, brown with upstream silt, with fishing boats moored along the bank and the flat Croatian plain visible on the far side. Walk along the waterfront promenade, which runs for several hundred metres along the river's edge, and cross the road bridge to officially enter Croatia, if only briefly.

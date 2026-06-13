@@ -8,6 +8,7 @@ tags:
   - market
 latitude: 9.3085
 longitude: 123.3077
+score: 7.3
 ---
 
 From around sunset, a row of portable grills and fold-out stalls occupies the pavement along Rizal Boulevard, and the smell of charcoal and charring squid is the reliable signal that the evening is starting. The stalls sell grilled fish — red snapper, tilapia, bangus — alongside squid, pork belly skewers, and barbecued chicken, all served with rice and a vinegar dipping sauce. Prices are negligible by any standard: a full meal for two with beers costs the equivalent of a coffee back home.

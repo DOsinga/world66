@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - museum
+score: 5.5
 ---
 
 The State Flag Square is a vast paved plaza dominated by an enormous Azerbaijani flag flying from one of the tallest flagpoles in the country. The attached museum is housed beneath the square and contains exhibits on Azerbaijani statehood, the national flag, coats of arms, and historic banners. It is one of several similar flag squares built across Azerbaijan in the 2010s as a national-pride project.

@@ -12,6 +12,7 @@ story: >
   while the Sioux Wars were still ongoing nearby. The cabin was preserved as the park was
   developed and stands as one of the earliest surviving homestead structures in this part of
   the Great Plains.
+score: 7.5
 ---
 
 Lake Herman State Park sits just west of Madison on the shores of Lake Herman, a 1,350-acre natural prairie lake that provides the best swimming, fishing, and camping in the area. The park has a beach, a boat ramp, campsites, and picnic areas. In summer it draws families from throughout the region; in winter the lake freezes solid and is popular for ice fishing.

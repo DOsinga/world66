@@ -6,6 +6,7 @@ longitude: 0.2583
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The Forum is a small independent music venue housed in a former 1930s public toilet block on the Common — a fact celebrated in its NME-award-winning reputation as "Britain's smallest live music venue." Standing capacity is just 250, but the line-up has included Coldplay, Mumford & Sons, Foals, Ed Sheeran, Ben Howard and Frank Turner, most before they hit the big time.

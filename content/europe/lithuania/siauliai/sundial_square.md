@@ -6,6 +6,7 @@ longitude: 23.3148
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Sundial Square (**Saulės laikrodžio aikštė**) is the city's most photographed open space, a small park anchored by a tall sundial column and the bronze figure of *Šaulys* — the Archer — drawing his bow. The piece, by Stanislovas Kuzma, was unveiled in 1986 and commemorates the medieval Battle of Saulė, after which the city is named.

@@ -8,6 +8,7 @@ latitude: 36.5611
 longitude: 128.7305
 story: >
   The Andong mask dance tradition (Hahoe Byeolsingut Talnori) was originally performed every ten years as a village exorcism ritual, not as entertainment. The masks represented specific characters — a nobleman, a monk, a woman, a butcher — and the dances used physical comedy and transgression to mock the social hierarchy. Confucian scholars, who were the targets of some of the mockery, reportedly found this uncomfortable but were powerless to ban it.
+score: 7.7
 ---
 
 Andong Mask Dance Festival is one of Korea's most celebrated cultural festivals, held each year in late September or early October in the city. Andong is the historical centre of Korean mask dance performance, and the festival brings together troupes from across Korea and international performers for ten days of outdoor performances, workshops, and demonstrations.

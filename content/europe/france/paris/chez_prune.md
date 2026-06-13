@@ -10,6 +10,7 @@ tags:
 - bar
 title: Chez Prune
 type: poi
+score: 6.5
 ---
 
 Chez Prune is the cafe-bar that effectively created the Canal Saint-Martin scene in the late 1990s, before the area became fashionable. It still draws a loyal local crowd — artists, writers, neighbourhood regulars — alongside the visitors who have read about it. The terrace facing the canal is one of the most pleasant places in Paris for an afternoon drink.

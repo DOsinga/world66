@@ -10,6 +10,7 @@ tags:
 snippet: Montreal's great public market — the best reason to visit Little Italy
 sources:
   - https://en.wikipedia.org/wiki/Jean-Talon_Market
+score: 8.8
 ---
 
 Marché Jean-Talon is the largest open-air market in North America and, for many Montrealers, the best reason to get out of bed on a Saturday morning. Located in the Little Italy neighbourhood in the north of the city, the market fills an entire city block with produce stalls, cheese shops, butchers, fishmongers, and bakers. In summer the stalls overflow with Quebec strawberries, corn, tomatoes, and chanterelles; in autumn the squashes, ciders, and maple products take over.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 7.4
 ---
 
 The Franciscan Church on Piața Muzeului is one of the oldest in Cluj — a 15th-century Gothic structure converted to baroque in the 18th century when the Franciscan friars moved in. The narrow Gothic windows still survive in the apse, and the tower retains its medieval form.

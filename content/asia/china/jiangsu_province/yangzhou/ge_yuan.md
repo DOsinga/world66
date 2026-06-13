@@ -8,6 +8,7 @@ latitude: 32.4020
 longitude: 119.4381
 story: >
   Ge Yuan was built by Huang Yingtai, a bamboo merchant, and his design obsession with bamboo is visible everywhere: not just the extensive bamboo plantings, but in the garden's Chinese name — ge (个) is the character for "bamboo leaf." The garden's four seasonal rockery scenes are made from four different kinds of stone, each arranged to suggest a different time of year.
+score: 9.0
 ---
 
 Ge Yuan is considered one of the finest private gardens in China — a compact masterpiece of the Huizhou garden tradition, built in the early Qing Dynasty for a salt merchant who had the taste and the money to commission real artistry. The centrepiece of the garden is the Four Seasonal Rockeries: four separate stone-and-plant compositions representing spring (bamboo with stalagmite rock), summer (lake rock with shade plants), autumn (yellow rock with weathered surfaces), and winter (white quartz arranged to suggest snow).

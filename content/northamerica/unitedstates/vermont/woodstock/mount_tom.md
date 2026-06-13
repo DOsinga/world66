@@ -5,6 +5,7 @@ tags: [things_to_do, sight, hiking]
 latitude: 43.6300
 longitude: -72.5300
 snippet: Low wooded mountain above Woodstock with village views and carriage-road trails
+score: 7.8
 ---
 
 Mount Tom rises directly above Woodstock and gives the town its best easy hike. Trails and carriage roads climb through the forest to viewpoints over the village, the Ottauquechee River valley, and the surrounding hills.

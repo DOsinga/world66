@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -27.0905
 longitude: -48.6126
+score: 5.6
 ---
 
 The Igreja Matriz do Santíssimo Sacramento sits in the small historic centre a few blocks back from the beach and is the most visible reminder of Itapema's Azorean origins. The current building is a 20th-century reconstruction on the site of the original 19th-century chapel, simple, white-walled, and centred on a single bell tower.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 28.2010
 longitude: 112.9640
+score: 6.8
 ---
 
 Changsha has a genuinely active live music scene, partly an overflow from the entertainment industry presence and partly driven by the city's large student population. Jazz bars, folk music venues, Mando-pop showcases, and underground rock clubs all operate in the Jiefang West Road area and the lanes off it. The quality varies enormously; the best venues have house bands of real competence and an audience that actually listens.

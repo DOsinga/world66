@@ -7,6 +7,7 @@ tags:
   - waterfall
 title: Marymere Falls
 type: poi
+score: 7.1
 ---
 
 Marymere Falls is a graceful forest waterfall reached by an easy trail from the Lake Crescent area. The walk passes through big trees and ferny understory before climbing to viewpoints of the falls.

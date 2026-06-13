@@ -10,6 +10,7 @@ title: St John's Church
 type: poi
 story: >
   Two Dominican monks requested to be immured alive in the church wall in 1384, believing it would bring divine blessing to the building. A small niche in the southern wall, visible from Jāņa sēta courtyard, marks the spot — with two carved faces peering through the stone.
+score: 6.6
 ---
 
 St John's (Sv. Jāņa baznīca) is one of the oldest churches in Riga, built by Dominican friars in the 13th century and later given to the city as a Lutheran church. The building is a striking mix of Gothic and Renaissance elements added at different periods.

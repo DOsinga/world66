@@ -11,6 +11,7 @@ tags:
 - nightlife
 title: Palo Palo
 type: poi
+score: 5.5
 ---
 
 A long-running club just behind the Hauptbahnhof that draws Hannover's nightlife regulars. Weekend nights lean heavily into funk, soul and Black music — Hannover-born producer Mousse T. has been spotted at the decks more than once. Expect crowded floors and close dancing.

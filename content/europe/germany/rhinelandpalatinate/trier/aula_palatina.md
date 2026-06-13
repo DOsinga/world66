@@ -15,6 +15,7 @@ story: >
   The building's survival is partly accidental: it was converted into a palace
   in the 13th century, then a church, and has been a Protestant church since 1856,
   which is why it was maintained rather than quarried for stone.
+score: 8.8
 ---
 
 The Konstantinbasilika (Constantine's Basilica) is the largest surviving Roman building from antiquity that remains substantially intact. Built around AD 310 as the throne room of Emperor Constantine I — who governed the entire Roman Empire from Trier for a period — the hall is 67 metres long, 27 metres wide, and 30 metres high, with original Roman brick walls still reaching full height.

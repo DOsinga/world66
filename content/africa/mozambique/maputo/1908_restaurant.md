@@ -11,6 +11,7 @@ tags:
   - restaurant
   - cafe
 neighbourhood: Baixa
+score: 7.3
 ---
 
 The **Café Continental** is the last and most atmospheric of the surviving colonial-era cafés of the Baixa. Opened in 1908, it occupies the ground floor of a corner building on Avenida 25 de Setembro near Praça dos Trabalhadores — wooden panelling, brass fittings, slow-turning fans, marble-topped tables and a long bar that has seen most of the 20th century.

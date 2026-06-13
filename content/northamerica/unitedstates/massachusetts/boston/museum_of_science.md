@@ -10,6 +10,7 @@ tags:
 title: Museum of Science
 type: poi
 url: www.mos.org
+score: 8.4
 ---
 
 A sprawling museum built across the old Charles River dam at the edge of Beacon Hill — the building itself is part Cambridge and part Boston. Inside are about 700 hands-on exhibits: a model of the human body big enough to walk through, a full-size T. rex skeleton, a model T model engine that's been running for decades, and demonstrations of static electricity using the world's largest air-insulated Van de Graaff generator.

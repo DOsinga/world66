@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Affordable seafood pan-fries, served in their cast-iron pans
+score: 7.6
 ---
 
 Messinn has been one of the best-value seafood restaurants in the city centre for years. The signature dish is fish served in the cast-iron pan it was cooked in — Arctic char in honey and almonds, cod in chorizo broth, salmon with capers and butter — with potatoes and salad on the side.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.7800
 longitude: 100.4600
+score: 5.2
 ---
 
 Er Lang Jian is the main scenic access point on the southern shore of Qinghai Lake, about 150 kilometres from Xining and the first place most visitors reach when coming directly from the capital. There are viewing platforms, a short lakeshore walk, and bicycle rentals for those starting the lake circuit. The entry fee for the main scenic area is around 100 yuan.

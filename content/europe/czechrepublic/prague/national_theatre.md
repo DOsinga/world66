@@ -13,6 +13,7 @@ type: poi
 url: narodni-divadlo.cz
 story: >
   The theatre burned down just two months after its gala opening in 1881, before most Czechs had seen the inside. Rather than accept defeat, the country launched a new public subscription drive. The rebuilt theatre opened in 1883, and the phrase "a nation built it for itself" became a Czech national motto.
+score: 8.4
 ---
 
 The National Theatre stands on the Vltava embankment, its golden roof visible from Charles Bridge. Built between 1868 and 1881 as a monument to Czech culture during the period of Austrian domination, it was funded entirely by public donation — including contributions from Czech emigrants across the world.

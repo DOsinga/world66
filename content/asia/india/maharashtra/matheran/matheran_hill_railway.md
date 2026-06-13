@@ -16,6 +16,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Matheran_railway_station
   - https://en.wikipedia.org/wiki/Matheran
+score: 8.4
 ---
 
 The narrow-gauge railway from Neral to Matheran is one of the oldest hill railways in India, built in 1907 and operating essentially unchanged. The 21-km journey takes about two hours — which is slow even by the standards of hill railways — because the line negotiates dozens of tight curves and climbs nearly 800 metres through forested hillside.

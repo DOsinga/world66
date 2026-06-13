@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Conwy_Castle#Town_walls
 story: >
   The walls enclose an area of roughly 9 hectares and were built simultaneously with the castle, between 1283 and 1287. They originally had 22 towers and three gatehouses, and 21 of the towers survive almost intact — making Conwy's walls among the best-preserved of any medieval European town. The circuit is just over a mile long.
+score: 9.0
 ---
 
 The medieval walls that encircle Conwy's old town are among the most complete in Britain. Unlike most medieval fortifications, which have been patched, absorbed into later buildings, or torn down wholesale, Conwy's walls survive almost intact — 21 of the original 22 towers still stand, and you can walk the full circuit of the battlements and look down into the streets and gardens below.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Yorkin
 type: poi
+score: 8.5
 ---
 
 Yorkin is a small Bribri community at the upper reaches of the Yorkin river, on the Costa Rica–Panama border. The community runs **Stibrawpa**, a women-led tourism cooperative that offers overnight stays — cooking, planting, weaving, traditional Bribri stories — in a way that supports the local economy directly.

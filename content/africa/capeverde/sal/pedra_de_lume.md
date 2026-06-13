@@ -12,6 +12,7 @@ story: >
   Atlantic slave trade. The crater was a natural advantage: the caldera
   walls kept out the sea, and when a canal was cut through in 1804, salt
   water flooded in and evaporation did the rest.
+score: 8.3
 ---
 
 Pedra de Lume is one of Sal's most unusual sights — an extinct volcanic crater that was breached in the 19th century to let seawater flood in, creating an inland salt lake about two kilometres from the coast. The salt has been harvested here for centuries, and the old industrial infrastructure — rusting tramways, salt pans, and processing sheds — still stands around the lake's edge.

@@ -14,6 +14,7 @@ story: >
   for his restless students and nailed two peach baskets to the elevated running
   track. The first game was played with a soccer ball. Springfield got the Hall
   of Fame because the city is where it all started.
+score: 7.6
 ---
 
 The Naismith Memorial Basketball Hall of Fame is the sport's central shrine, named after the Canadian-American gym instructor who invented the game in Springfield in 1891. The current building on West Columbus Avenue, opened in 2002, is a dramatic glass sphere beside the Connecticut River that you can see from the highway.

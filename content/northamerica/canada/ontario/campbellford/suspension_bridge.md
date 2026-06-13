@@ -6,6 +6,7 @@ longitude: -77.7920
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 The Ranney Falls suspension footbridge is a 91-metre cable bridge that crosses the Trent Gorge at the south end of Ferris Provincial Park. The bridge hangs about 28 metres above the river and the rapids of Ranney Falls below — a serious drop, and the bridge gives a soft bounce underfoot that surprises first-time visitors.

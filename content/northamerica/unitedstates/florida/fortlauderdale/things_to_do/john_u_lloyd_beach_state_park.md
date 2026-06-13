@@ -9,6 +9,7 @@ tags:
 latitude: 26.0811
 longitude: -80.1110
 story: "John U. Lloyd sits on a barrier island between Port Everglades inlet and the ocean, which means that on any given afternoon you can watch container ships and cruise liners pass close enough to read the names on their hulls while standing on a beach that looks completely undeveloped."
+score: 7.3
 ---
 
 John U. Lloyd Beach State Park is the wilder alternative to the manicured Fort Lauderdale beachfront, located about six miles south of downtown near Dania Beach. The park covers a narrow strip of barrier island fronting 2.5 miles of undeveloped Atlantic beach, with a boat basin and mangrove estuary on the Intracoastal side. The beach itself tends to be uncrowded compared to the main Fort Lauderdale strip, and the water is clear enough for decent snorkeling near the rocks at the southern end.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 37.6384
 longitude: 21.6317
+score: 6.4
 ---
 
 A long covered hall that ran along the eastern edge of the Altis, separating the sacred precinct from the stadium beyond. Built in the 4th century BC, it took its name from an acoustic phenomenon: a sound made inside could be heard echoing up to seven times. Ancient writers describe it as the "poikile stoa" (painted colonnade), suggesting its walls were decorated with frescoes, none of which survive.

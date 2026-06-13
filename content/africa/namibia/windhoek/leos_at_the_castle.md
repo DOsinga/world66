@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Leo's at the Castle
 type: poi
+score: 5.9
 ---
 
 Leo's is the restaurant inside Heinitzburg castle, perched on a hill east of the centre. The cooking is European-Namibian fine dining — game with classical French sauces, fresh fish flown in from the coast, an extensive wine list heavy on South African labels. Prices are well below comparable rooms in Cape Town or Johannesburg, but high by Windhoek standards.

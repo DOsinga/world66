@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: Lakeside museum on the natural and human history of Lac Léman
+score: 7.1
 ---
 
 A museum dedicated entirely to Lac Léman — its geology, fish (including the giant catfish that occasionally turn up in nets), traditional sailing boats, the steamships of the Belle Époque, and a working aquarium of the lake's freshwater species. The building was originally a 19th-century mansion built on the waterfront for a wealthy local merchant; it became a museum in 1954.

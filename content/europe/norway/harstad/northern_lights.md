@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 68.7999
 longitude: 16.5440
+score: 7.6
 ---
 
 Harstad is one of the better bases in Norway for northern lights (aurora borealis) viewing, with the season running from around late August through April. The key requirements — darkness and clear skies — are both achievable here. The nights are dark enough from late August, and the weather, while changeable, is not as relentlessly overcast as further south.

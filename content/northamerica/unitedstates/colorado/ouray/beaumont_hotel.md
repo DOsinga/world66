@@ -16,6 +16,7 @@ story: >
   before a major restoration in 2003 returned it to its Victorian appearance.
 sources:
   - https://en.wikipedia.org/wiki/Beaumont_Hotel_(Ouray,_Colorado)
+score: 6.5
 ---
 
 The Beaumont Hotel is the most prominent building on Main Street, an Italianate brick structure from 1886 that served as the social center of Ouray during the silver boom years. The hotel was built with considerable ambition — a three-story atrium lobby, pressed-tin ceilings, elaborate woodwork — and the 2003 restoration preserved these features while updating the services.

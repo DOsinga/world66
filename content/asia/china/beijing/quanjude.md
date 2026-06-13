@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.9022
 longitude: 116.3963
+score: 5.8
 ---
 
 The most famous Peking duck restaurant in Beijing, founded in 1864 and still operating from its flagship location near Qianmen. Quanjude uses the traditional hung-oven roasting method — ducks are hung on hooks inside a wood-burning oven and roasted whole — which produces a slightly different result from the closed-oven method used at some competitors. The skin is crisp, the meat juicy, and the ceremony of carving at the table is part of the experience.

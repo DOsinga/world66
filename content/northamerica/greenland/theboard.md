@@ -8,6 +8,7 @@ tags:
 - shopping
 title: The Board
 type: poi
+score: 8.3
 ---
 
 "The Board" — Kalaaliaraq ("The Little Greenlander") in Greenlandic — is the open-air meat and fish market found in every Greenlandic town. Usually set up down at the harbour, this is where hunters, fishers, and pickers sell the day's catch directly to locals: seal, whale, musk ox, reindeer, arctic char, and seasonal berries.

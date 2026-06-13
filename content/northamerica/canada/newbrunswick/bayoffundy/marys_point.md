@@ -17,6 +17,7 @@ story: >
   the mudflats.
 sources:
   - https://en.wikipedia.org/wiki/Mary%27s_Point
+score: 7.9
 ---
 
 Mary's Point is a wetland reserve on the Shepody Bay shore of the upper Bay of Fundy, recognized internationally as one of the most important shorebird staging areas in the western hemisphere. The broad mudflats exposed by the enormous tidal range support exceptional concentrations of food for migratory birds, and the spectacle of massed shorebird flocks in July and August is one of the great wildlife experiences on the Canadian Atlantic coast.

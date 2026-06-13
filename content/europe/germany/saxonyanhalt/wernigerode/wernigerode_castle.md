@@ -16,6 +16,7 @@ story: >
   Neuschwanstein in Bavaria. The count wanted something that looked ancient but was, in fact,
   almost entirely Victorian. The result is a fairy-tale profile that dominates the town
   from every angle, which was exactly the intention.
+score: 8.5
 ---
 
 Wernigerode Castle sits on a wooded hill south of the town centre, visible from most of Wernigerode and reachable on foot via a steep but pleasant path through the forest. The current appearance — turrets, towers, and a dramatic silhouette — dates from an 1880s renovation in neo-Gothic style, though the site has been fortified since the 12th century. Inside, the castle is a museum with period-furnished rooms showing aristocratic life from the Middle Ages through the 19th century.

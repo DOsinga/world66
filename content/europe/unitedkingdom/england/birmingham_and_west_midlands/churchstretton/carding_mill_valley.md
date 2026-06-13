@@ -10,6 +10,7 @@ latitude: 52.5390
 longitude: -2.8210
 sources:
   - https://en.wikipedia.org/wiki/Long_Mynd
+score: 8.6
 ---
 
 The most popular entry point onto the Long Mynd, Carding Mill Valley is a deep, heather-sided cleft that opens above the town and leads up onto the moorland plateau. The valley floor follows a clear stream — Mott's Road runs alongside it — past bracken slopes and boggy grassland, eventually opening onto the broad summit plateau of the Long Mynd. The full walk to the Pole Bank trig point, the highest point on the Long Mynd at 516 metres, takes around two hours from the valley car park.

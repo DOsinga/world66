@@ -9,6 +9,7 @@ latitude: -34.4369
 longitude: 172.7319
 story: >
   These dunes are among the largest in New Zealand, rising up to 150 metres from the valley floor. They look so otherworldly that filmmakers have used them as stand-ins for desert landscapes — a remarkable feat for a country better known for rain.
+score: 8.4
 ---
 
 The Te Paki Sand Dunes are a spectacular natural amphitheatre where the Tasman Sand Dune System tumbles down to meet Te Paki Stream. Rising up to 150 metres, they are some of the largest dunes in New Zealand, and sandboarding down their faces is one of the most exhilarating free activities in Northland.

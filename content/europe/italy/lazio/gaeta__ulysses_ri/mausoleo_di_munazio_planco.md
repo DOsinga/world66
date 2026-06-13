@@ -9,6 +9,7 @@ longitude: 13.5641
 sources:
   - https://en.wikipedia.org/wiki/Mausoleum_of_Lucius_Munatius_Plancus
   - https://en.wikipedia.org/wiki/Gaeta
+score: 8.9
 ---
 
 At the very tip of Monte Orlando, within the regional park that covers the headland, stands one of the best-preserved Roman funerary monuments in central Italy. The cylindrical mausoleum of Lucius Munatius Plancus — consul in 42 BC, founder of Lyon and Augst, and notably the man who proposed the title "Augustus" for Octavian — was built in the 1st century BC and remains largely intact, its drum of travertine blocks rising above the cliff edge with the sea on three sides.

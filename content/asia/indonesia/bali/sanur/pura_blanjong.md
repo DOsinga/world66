@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - temple
+score: 7.4
 ---
 
 A modest neighbourhood temple in southern Sanur whose importance is entirely out of proportion to its size. Inside the compound stands the **Prasasti Blanjong** — a weathered stone pillar inscribed in 914 AD in both Sanskrit (Pre-Nagari script) and Old Balinese (Kawi). It records a military victory by Sri Kesari Warmadewa, an early ruler of Bali, and is the oldest dated piece of writing on the island. The temple itself is small and quiet; bring a sarong, and the priest will sometimes lift the protective cover so you can see the pillar.

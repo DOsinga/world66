@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Co-Cathedral_of_Logro%C3%B1o
 story: >
   The cathedral's unusual name — "de la Redonda" — refers to the round Romanesque church that originally stood on this site. The current building was begun in the fifteenth century and its twin towers, added in the eighteenth century, are the most recognisable feature of the Logroño skyline. The cathedral was elevated to co-cathedral status in 1959, sharing duties with the Cathedral of La Calzada.
+score: 7.2
 ---
 
 The Co-Cathedral of Santa María de la Redonda is Logroño's principal church, and its twin Baroque towers — built between 1742 and 1762 by Martín de Beratúa — give the city its most recognisable silhouette. The interior is Gothic with later Baroque additions, and the cloister preserves some of the original Gothic elements from the fifteenth-century building.

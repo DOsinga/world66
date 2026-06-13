@@ -7,6 +7,7 @@ snippet: Riverside promenade lined with restaurants and the city's historic harb
 tags:
 - things_to_do
 - sight
+score: 6.3
 ---
 
 An der Untertrave is the riverside street running along the western side of the Altstadt, facing the Holstentor across the Trave. The cobbled promenade was the city's working harbour for centuries — barges from the Stecknitz Canal unloaded salt at the Salzspeicher just upstream, and merchant cogs tied up to discharge cargo at the warehouses on the eastern side.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 story: "The Parenzana railway ran for just over 30 years, opened in 1902 and closed in 1935 under Italian rule. Mussolini had the rails ripped up and shipped to Africa for use in his Ethiopian campaign. The bed of the track lay forgotten until the 2000s, when Slovenia, Italy and Croatia jointly restored it as a cross-border trail."
+score: 7.5
 ---
 
 Poreč is the southern terminus of the Parenzana, a 123-kilometre walking and cycling trail that follows the bed of a long-vanished narrow-gauge railway built by the Austro-Hungarians to bring Istrian wine and olive oil to the port of Trieste. The first eight kilometres out of town are easy, mostly level, and lead through olive groves and small villages up into the hills.

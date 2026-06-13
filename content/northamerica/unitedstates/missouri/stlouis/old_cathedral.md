@@ -8,6 +8,7 @@ tags:
 - downtown
 latitude: 38.6234
 longitude: -90.1885
+score: 7.2
 ---
 
 The Basilica of Saint Louis, King of France — known as the Old Cathedral — sits in the shadow of the Gateway Arch on the original site of the first Catholic chapel in St Louis, founded in 1770. The current Greek Revival building dates from 1834, making it one of the oldest cathedrals in the United States west of the Mississippi.

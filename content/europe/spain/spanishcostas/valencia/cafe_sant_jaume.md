@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: 39.4773
 longitude: -0.3801
+score: 5.8
 ---
 
 A former 19th-century apothecary turned bar, with the original marble counter, dark wood shelving, and apothecary cabinets still intact behind the bar. It is one of the classic places to drink an **agua de Valencia** — the local cocktail of cava, vodka, gin, and freshly squeezed orange juice that was invented in another bar nearby in the 1950s but is poured here as well as anywhere.

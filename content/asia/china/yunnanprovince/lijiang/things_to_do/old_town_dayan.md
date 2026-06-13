@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 sources:
   - https://en.wikipedia.org/wiki/Old_Town_of_Lijiang
+score: 9.1
 ---
 
 Dayan is the ancient Naxi heart of Lijiang, a UNESCO World Heritage Site of cobblestone lanes, wooden merchant houses, and clear streams that have threaded the same channels for seven hundred years. The layout is deliberately labyrinthine — unlike most Chinese cities, it was built without a central axis, following instead the contours of the land and the flow of the Yulong River tributaries that run through it. Getting lost is not a problem; every lane eventually leads back to Sifang Square or the market square at the northern end.

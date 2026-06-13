@@ -8,6 +8,7 @@ tags:
   - garden
 latitude: 24.2179
 longitude: 55.7644
+score: 8.6
 ---
 
 The largest of the six UNESCO-listed oases of Al Ain, a 90-minute drive east of Abu Dhabi at the foot of the Jebel Hafit mountain. The cool palm groves cover 1,200 hectares and are still irrigated by the ancient *falaj* system — narrow stone channels carrying water from underground aquifers.

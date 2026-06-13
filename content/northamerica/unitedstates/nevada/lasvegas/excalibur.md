@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - south_strip
+score: 5.2
 ---
 
 Excalibur is the white-and-blue castle towering over the south Strip intersection with Tropicana Avenue. It opened in 1990 as the world's largest hotel and still has more than 4,000 rooms. The exterior — pointy turrets, drawbridges, the works — has aged into a kind of self-aware kitsch that the resort embraces rather than hides.

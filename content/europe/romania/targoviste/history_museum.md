@@ -6,6 +6,7 @@ longitude: 25.4605
 tags:
   - things_to_do
   - museum
+score: 7.2
 ---
 
 The Dâmbovița County Museum of History, in a 19th-century mansion on Calea Domnească next door to the art museum, traces the region from Dacian times through the Wallachian principality to the present. Highlights include weapons, coins, manuscripts, and a substantial collection of medieval Wallachian objects.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.2113
 longitude: -74.2350
+score: 6.5
 ---
 
 El Rodadero is Santa Marta's main resort beach, about four kilometres south of the historic centre on a broad bay with calm, warm Caribbean water. The beach is wide, the sand is clean by Colombian coastal standards, and the protected bay means gentle waves — good for swimming and snorkelling. The beachfront is lined with restaurants, juice stands, and lounger rental operations, and the whole scene is emphatically local: this is where Colombian families from the interior come on vacation.

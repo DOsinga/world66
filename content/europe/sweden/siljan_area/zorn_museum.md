@@ -15,6 +15,7 @@ story: >
   state.
 sources:
   - https://en.wikipedia.org/wiki/Zorn_Museum
+score: 8.8
 ---
 
 The Zorn Museum in Mora holds the largest collection of work by Anders Zorn, a Swedish painter who is less known internationally than he deserves. Zorn was a virtuoso technician — his watercolours, oils, and etchings span portraiture, nudes, and scenes of rural Dalarna life — and the museum holds around 100 paintings and several hundred prints and drawings. The light in the galleries, designed for the collection, shows the work well.

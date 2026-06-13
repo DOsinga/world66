@@ -10,6 +10,7 @@ story: >
   Tsar Nicholas II had this chapel built in 1899 so he could attend Russian Orthodox services when visiting Darmstadt — the hometown of his wife, Empress Alexandra Feodorovna, born Princess Alix of Hesse. She was the granddaughter of Queen Victoria and the last Empress of Russia, and this small golden-domed chapel on a German hilltop is one of the odder footnotes of the Russian imperial story.
 sources:
   - https://en.wikipedia.org/wiki/Russian_Chapel_in_Darmstadt
+score: 7.8
 ---
 
 The Russian Chapel (officially the Church of St. Mary Magdalene) stands on the Mathildenhöhe immediately adjacent to the Wedding Tower, its five golden onion domes entirely incongruous against the Jugendstil buildings around it. It was commissioned by Tsar Nicholas II in 1899 and built by the St. Petersburg architect Leonty Benois, decorated with mosaics and gilded woodwork in the Russian Orthodox tradition.

@@ -15,6 +15,7 @@ story: >-
   StairMaster" by local hikers in the 1990s and the name stuck. The fastest
   recorded ascent, set in 2010, is 24 minutes and 58 seconds; most regular
   hikers take 90 minutes, and the trail is closed in winter.
+score: 7.9
 ---
 
 Grouse Mountain is the small ski resort and tourist attraction occupying the peak directly above downtown North Vancouver. From the city it is impossible to miss: the visible flank of mountain, the gondola line, the Eye of the Wind turbine on the summit. From the top — accessible by the Skyride aerial tramway in about eight minutes — the view stretches from Mount Baker in Washington to the southern edge of the Pacific Ranges.

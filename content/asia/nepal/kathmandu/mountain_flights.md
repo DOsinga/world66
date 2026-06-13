@@ -7,6 +7,7 @@ tags:
 latitude: 27.6966
 longitude: 85.3591
 address: Tribhuvan International Airport, Kathmandu
+score: 8.8
 ---
 
 Several Nepali airlines offer one-hour "mountain flights" from Tribhuvan Airport — a circuit over the Himalayan range that brings the aircraft within clear view of Everest, Cho Oyu, Lhotse, Makalu, Kanchenjunga, Manaslu, and the Annapurnas. Window seats alternate: first half of the flight, left side gets the mountain views; second half, right side. Every passenger gets a window seat for part of the route.

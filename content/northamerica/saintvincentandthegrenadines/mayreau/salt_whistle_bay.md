@@ -8,6 +8,7 @@ latitude: 12.6472
 longitude: -61.3905
 story: >
   Salt Whistle Bay takes its name from an old salt pond that once sat behind the beach. Locals harvested salt here when the island had a small export trade; now the pond is gone, and the bay is famous for something quite different — being one of the most beautiful anchorages in the entire Caribbean.
+score: 8.4
 ---
 
 Salt Whistle Bay is a perfect crescent of white sand on the northern tip of Mayreau, sheltered by a rim of palms and sea grape trees. The water is an improbable shade of turquoise and almost always calm, protected from the Atlantic swell by the curve of the bay. On most days you will share it with a handful of yachts at anchor and not much else.

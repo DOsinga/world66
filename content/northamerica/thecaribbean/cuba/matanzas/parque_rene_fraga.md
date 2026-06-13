@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.0477
 longitude: -81.5778
+score: 5.4
 ---
 
 A central park in the Pueblo Nuevo neighbourhood, one of the main gathering places for residents outside the historic centre. The park is planted with large trees and has the unhurried feel of a neighbourhood square rather than a tourist attraction — benches occupied by older residents, children playing in the afternoon, and occasional small performances.

@@ -7,6 +7,7 @@ tags:
   - waterfront
 title: Riverwalk Landing
 type: poi
+score: 6.0
 ---
 
 Riverwalk Landing is Yorktown's easy-going waterfront, lined with restaurants, small shops, docks, and a promenade along the York River. After the battlefield, it feels almost startlingly peaceful.

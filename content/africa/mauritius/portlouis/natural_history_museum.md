@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The museum holds the most complete dodo skeleton ever assembled, painstakingly reconstructed from bones found in 1865 in the Mare aux Songes swamp near Mahebourg. The bird was extinct within 80 years of European arrival on the island."
+score: 7.8
 ---
 
 The Natural History Museum on Place d'Armes is small but contains the best collection of dodo remains in the world. The reconstructed skeleton in the central case is the star, but the surrounding cabinets cover the rest of the island's lost fauna — the giant tortoises, the solitaire, the broad-billed parrot — along with the surviving plants, fish, and shells.

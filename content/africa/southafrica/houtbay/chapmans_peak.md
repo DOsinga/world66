@@ -8,6 +8,7 @@ latitude: -34.0872
 longitude: 18.3606
 story: >
   Chapman's Peak Drive was blasted into the cliff face in the early twentieth century by convict labour, a feat that required removing hundreds of thousands of tonnes of rock to create a shelf road only a few metres wide in places. The road was closed periodically for decades due to rockfalls, then underwent a R400 million reconstruction and reopening in 2003 — it now includes tunnels, netting, and a toll gate. When it's open, it's one of the world's great coastal roads.
+score: 9.2
 ---
 
 The Chapman's Peak Drive hugs the cliff face between Hout Bay and Noordhoek, with the Atlantic Ocean a sheer drop below and the granite face of Chapman's Peak rising steeply above. The nine-kilometre stretch passes through 114 curves cut into the mountainside, with frequent lay-bys offering views that stop traffic in both directions.

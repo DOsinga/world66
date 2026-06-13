@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: The quieter southern end of Lakeside, near the dam and Davis Falls
+score: 6.8
 ---
 
 Locally called **Pardi** but known to most travellers as Damside, this is the quieter southern continuation of [Lakeside](/asia/nepal/pokhara/lakeside). It sits beside the small dam at the outflow of Phewa Lake, with a different — and arguably better — view of the Annapurnas and Machhapuchhre than the main Lakeside strip.

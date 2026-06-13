@@ -8,6 +8,7 @@ latitude: 39.1978
 longitude: -120.2341
 sources:
   - https://en.wikipedia.org/wiki/1960_Winter_Olympics
+score: 7.1
 ---
 
 The small Olympic Museum in the village commemorates the VIII Winter Olympic Games, held in Squaw Valley in February 1960. It was the first Winter Olympics to be broadcast on television, and the games put the valley — and California skiing generally — on the world map.

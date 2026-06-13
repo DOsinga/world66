@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 41.3794
 longitude: -73.4528
+score: 7.1
 ---
 
 Tarrywile Park is a large municipal park in the south of Danbury, covering nearly 500 acres of woodland, fields, and wetlands. Over 20 miles of trails wind through the property, ranging from easy strolls to more demanding climbs with views over the Housatonic valley. The centerpiece is Tarrywile Mansion, a Victorian summer home that hosts events and can be rented for functions.

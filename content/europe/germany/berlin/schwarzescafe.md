@@ -11,6 +11,7 @@ tags:
 - charlottenburg
 title: Schwarzes Café
 type: poi
+score: 7.1
 ---
 
 One of Berlin's great institutions: a café that never closes. Good for any hour of the day or night — late-night refuge, early-morning coffee, or a full meal at 5am when nothing else is open. The eclectic menu includes good food alongside the weird. In summer, the courtyard is one of the better outdoor spots on Kantstraße.

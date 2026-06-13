@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 19.5177
 longitude: 73.7230
 story: "The temple was built during the Shilahara dynasty in the 12th century, a period of intensive temple construction across the Western Ghats. It survived largely intact because of its remote location — unlike many temples in the plains, it was too inaccessible to attract the attention of the Mughal armies that destroyed so much of Maharashtra's medieval religious architecture."
+score: 8.0
 ---
 
 The Amruteshwar Temple in Ratanwadi village, 10 kilometres from Bhandardhara, is a finely carved Shiva temple built in the Hemadpanthi style during the 12th century. The exterior is covered in intricate stone carvings of deities, celestial beings, and decorative motifs, remarkably well-preserved for its age and location.

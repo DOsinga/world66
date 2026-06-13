@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -1.4675
 longitude: 29.4925
+score: 8.0
 ---
 
 Volcanoes National Park is also home to a substantial population of golden monkeys (Cercopithecus kandti), an endemic subspecies found only in the Virunga Mountains. The monkeys are bright golden-orange with black faces and backs — striking creatures that move through the bamboo zone at the lower elevations of the park in boisterous groups of up to several dozen animals. Habituated troops can be tracked through the bamboo forests below the main gorilla trekking zones, and the experience is notably different in character from the gorilla trek: the monkeys move fast and erratically through the bamboo, requiring active tracking rather than the patient waiting of a gorilla encounter.

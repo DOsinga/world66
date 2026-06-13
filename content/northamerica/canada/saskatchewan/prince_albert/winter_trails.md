@@ -9,6 +9,7 @@ tags:
   - cycling
 sources:
   - https://www.pc.gc.ca/en/pn-np/sk/princealbert/activ/hiver-winter
+score: 7.2
 ---
 
 In winter, Prince Albert National Park maintains a network of groomed cross-country skiing trails around the Waskesiu area and beyond. The boreal forest is transformed — spruce trees load up with snow, the lakes freeze solid, and the trails cut through a landscape of extraordinary quiet. The Waskesiu ski trails include loops suitable for beginners and longer runs for experienced skiers; the backcountry routes extend for days.

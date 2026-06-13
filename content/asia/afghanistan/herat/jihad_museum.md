@@ -7,6 +7,7 @@ tags:
 latitude: 34.3468
 longitude: 62.2022
 snippet: Museum dedicated to the Afghan resistance against the Soviet occupation
+score: 6.7
 ---
 
 The Jihad Museum documents Afghanistan's resistance to the Soviet occupation of 1979–1989 from a decidedly partisan perspective — the museum celebrates the mujahideen victory and the foreign fighters who came to Afghanistan during the war. The exhibits include captured Soviet weaponry, photographs, propaganda materials from both sides, and dioramas of battle scenes.

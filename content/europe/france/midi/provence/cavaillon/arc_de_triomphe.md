@@ -10,6 +10,7 @@ story: >
   The arch dates from around the first century AD, when Cavaillon — then called Cabello — was a prosperous Roman city on the road between Arles and the Alps. It was incorporated into the medieval town walls and used as a gate throughout the Middle Ages, which is largely why it survived. When the walls came down, the arch stayed, stranded in what is now a small square near the cathedral.
 sources:
   - https://en.wikipedia.org/wiki/Cavaillon
+score: 6.8
 ---
 
 The Roman triumphal arch at the edge of Cavaillon's old town is a modest but genuine first-century monument, one of several Roman remains scattered through the Luberon plain. It stands about eight metres tall, largely intact except for the upper decorative work, and carries carved reliefs of garlands and military trophies that are still legible despite two millennia of weathering.

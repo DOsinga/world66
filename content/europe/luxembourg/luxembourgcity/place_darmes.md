@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - ville_haute
   - sight
+score: 6.7
 ---
 
 The smaller and more cheerful of the two main old-town squares, lined with cafés, brasseries, and the bandstand where the military band plays on summer evenings. The Cercle Municipal on the western side, an exuberant Beaux-Arts building from 1909, is worth a look for its frescoed facade.

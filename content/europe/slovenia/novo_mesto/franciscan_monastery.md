@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.8025
 longitude: 15.168
+score: 7.3
 ---
 
 The Franciscan monastery in Novo Mesto was founded in 1472 by monks fleeing the Ottoman advance into the Balkans. They brought with them books, relics, and intellectual traditions that helped make Novo Mesto a significant cultural centre in the late medieval period. The monastery complex includes a church, a cloister, and an old library.

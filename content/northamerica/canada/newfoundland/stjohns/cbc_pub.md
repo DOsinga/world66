@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 47.5618
 longitude: -52.7109
+score: 6.7
 ---
 
 One of the old stalwarts of George Street, Christian's has been doing steady business for decades and has avoided the worst of the street's drift toward sports bars and DJ nights. It hosts regular live music including traditional Newfoundland folk sessions — fiddle, accordion, and the occasional kitchen party energy that Newfoundlanders do better than anyone. Arrive early on weekends if you want a seat.

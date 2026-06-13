@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 31.7398
 longitude: -106.4850
+score: 7.0
 ---
 
 Avenida Juárez is the main artery of the historic border zone, running from the Paso del Norte bridge into the heart of the old downtown. For most of the twentieth century this street was the first thing Americans saw when they crossed from El Paso: pharmacies selling cheap medications, restaurants, curio shops, cantinas, and the peculiar buzz of a street that lives off the border crossing.

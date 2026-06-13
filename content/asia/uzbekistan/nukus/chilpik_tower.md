@@ -8,6 +8,7 @@ latitude: 42.6152
 longitude: 59.6517
 story: >
   In Zoroastrian belief, a corpse is unclean and must not contaminate the earth, fire, or water. The solution was a tower of silence — a circular stone platform where the dead were exposed to the sky and to vultures. Chilpik may be one of the oldest surviving examples of this practice, possibly dating to the 1st century AD. The Zoroastrian faith was eventually supplanted by Islam across Central Asia, but the physical structures outlasted the religion.
+score: 7.8
 ---
 
 Chilpik is a Zoroastrian tower of silence standing on a hill above the Amu Darya river, about 35 kilometres south of Nukus. It consists of a circular stone wall enclosing a platform where the dead were exposed to birds of prey as part of Zoroastrian funerary rites. The tower dates to roughly the 1st to 4th centuries AD and is one of the best-preserved examples in Central Asia.

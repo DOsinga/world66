@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Palazzo_Vertemate-Franchi,_Valchiavenna
 story: >
   The Vertemate Franchi were Chiavenna silk merchants who made their fortune trading along the alpine passes. The frescoes they commissioned for the villa in the 1580s include a remarkable ceiling in the Sala degli Dei depicting the Olympian gods — a statement of humanist ambition that would have been unthinkable in a more devoutly Catholic part of Italy, but which speaks to the cosmopolitan, commercially minded culture of the mountain trading towns.
+score: 8.7
 ---
 
 The Palazzo Vertemate Franchi is a Renaissance villa standing in a wooded garden above the town of Prosto di Piuro, about two kilometres up the valley from Chiavenna. It was built by a wealthy silk-trading family in the late sixteenth century and is one of the finest surviving examples of Renaissance domestic architecture in Lombardy — surprisingly grand for such a remote alpine location.

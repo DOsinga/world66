@@ -9,6 +9,7 @@ longitude: 101.383038
 tags:
 - things_to_do
 - hiking
+score: 7.8
 ---
 
 At 2,032 metres, Gunung Brinchang is the highest peak in the Cameron Highlands and one of the few summits in Peninsular Malaysia accessible without a serious expedition. The hike takes around two hours from the trailhead near Boh Tea Plantation, following a mossy, root-tangled path through montane cloud forest.

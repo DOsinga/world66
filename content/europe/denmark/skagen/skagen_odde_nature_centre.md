@@ -8,6 +8,7 @@ latitude: 57.74
 longitude: 10.5956
 sources:
   - https://en.wikipedia.org/wiki/Skagen_Odde_Nature_Centre
+score: 7.1
 ---
 
 This small museum on the northern tip of Jutland deals with sand, water, wind, and light — the four forces that created and continue to shape the Skagen Odde landscape. It's an unexpectedly good exhibit: clear, hands-on, and honest about how dynamic and temporary this whole stretch of coastline is.

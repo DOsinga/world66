@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -23.8557213
 longitude: -45.2886653
+score: 8.7
 ---
 
 Castelhanos is Ilhabela's most celebrated east-coast beach and the hardest to reach without effort. The access road crosses the island's spine through dense Atlantic Forest — a 15-kilometre dirt track passable only in 4WD vehicles or on foot — and that barrier keeps the crowds manageable even in high season. The beach itself is about 1.7 kilometres long, set against a wall of forested hills, and has a distinctive heart shape that becomes clear from the Mirante do Coração viewpoint above. The sea faces open ocean, so the surf can be substantial; experienced surfers seek it out, and there are calmer corners near the rocks at either end.

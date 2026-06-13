@@ -15,6 +15,7 @@ tags:
 - sight
 title: Via Appia Antica
 type: poi
+score: 9.2
 ---
 
 Rome's most atmospheric ancient monument, the 2,300-year-old Appian Way stretches south from the city walls through open countryside, flanked by ancient tombs, umbrella pines, and catacombs. The first stretch (about 10 km) is best explored on a hired bicycle — the road is closed to cars on Sundays — passing the Tomb of Cecilia Metella, the Circus of Maxentius, and countless anonymous funerary monuments that once lined the road in an unbroken procession.

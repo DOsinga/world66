@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   The Markale market was hit by mortar fire twice during the siege — on 5 February 1994, killing 68 people, and on 28 August 1995, killing 43. Both attacks are believed to have been deliberate. The second attack triggered NATO airstrikes against Serb positions and was a turning point in the war.
+score: 7.1
 ---
 
 Markale is Sarajevo's main open-air market, a covered and outdoor food market selling fruit, vegetables, cheese, meat, and household goods. It has operated on this site since Ottoman times and is still where Sarajevo residents go for fresh produce.

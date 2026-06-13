@@ -9,6 +9,7 @@ latitude: 14.5033
 longitude: 120.9916
 sources:
   - https://en.wikipedia.org/wiki/Paranaque_Integrated_Terminal_Exchange
+score: 5.5
 ---
 
 PITX is not a typical tourist attraction, but as the Philippines' most modern and ambitious bus terminal it is genuinely worth knowing about — and as an example of what public infrastructure can look like when properly funded, it is striking enough to deserve a few minutes of attention.

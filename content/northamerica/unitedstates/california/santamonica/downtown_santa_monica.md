@@ -7,6 +7,7 @@ tags:
 latitude: 34.0155
 longitude: -118.4965
 snippet: "The commercial core around Third Street Promenade, Wilshire Boulevard, and the Metro terminus"
+score: 6.8
 ---
 
 Downtown Santa Monica covers the blocks around Third Street Promenade, Wilshire Boulevard, and the Metro E Line terminus at 4th and Colorado. It is the most walkable part of the city and the easiest to navigate without a car — the pier, Palisades Park, and most of the main restaurants and shops are within a 15-minute walk of the Metro station.

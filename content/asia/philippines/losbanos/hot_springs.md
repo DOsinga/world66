@@ -8,6 +8,7 @@ tags:
 - spa
 - hot_spring
 story: Los Baños means "The Baths" in Spanish — the name given by Spanish missionaries who found the thermal springs already in use by the local Tagalog population when they arrived in the 16th century. The springs were subsequently developed into bathing establishments, and the town has been a spa destination for over four centuries. At one point during the Second World War, the Japanese military used the spring baths near the lake shore for their own relaxation while the town's civilian population was interned at the agricultural campus.
+score: 7.8
 ---
 
 Los Baños sits on a geothermal zone at the foot of Mount Makiling, and hot springs bubble up throughout the town. Numerous resort pools and private bathing establishments draw on the thermal water, which ranges from pleasantly warm to genuinely hot depending on the source. The springs are considered therapeutic for skin conditions and joint pain, though the main attraction is simply a long soak in mineral-rich water.

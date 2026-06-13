@@ -13,6 +13,7 @@ tags:
 title: Potter Park Zoo
 type: poi
 url: www.potterparkzoo.org
+score: 6.4
 ---
 
 A small but well-maintained zoo along the Red Cedar River. Home to over 500 animals including snow leopards, red pandas, and a variety of Michigan native species. A good half-day outing, especially with kids.

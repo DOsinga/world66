@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 7.9
 ---
 
 Obzova is the highest point on the island of Krk at 568 metres, a bald limestone summit rising above the Bašćanska Draga valley northwest of Baška. The view from the top takes in the whole southern half of the island, the Velebit range on the mainland, and on clear days the long line of the Adriatic coast.

@@ -16,6 +16,7 @@ story: >
   pilgrims have been making the climb ever since, and the combination of
   religious devotion and mountain air produced one of the older continuous
   hiking traditions in the eastern Alps.
+score: 8.6
 ---
 
 The Dobratsch (2,166 m) is the mountain that dominates the western skyline of Villach, and its upper slopes have been a protected nature reserve since 1969. The Naturpark Dobratsch encompasses the plateau and the steep southern and western flanks of the massif, with a network of marked walking trails ranging from easy plateau strolls to more demanding ridge routes.

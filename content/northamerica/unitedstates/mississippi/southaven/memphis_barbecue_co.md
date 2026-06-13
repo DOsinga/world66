@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 34.9737
 longitude: -89.9852
+score: 7.4
 ---
 
 Founded by competition pitmasters John and Melissa Cookston, the Memphis Barbecue Co. flagship in Southaven is a serious destination for slow-smoked pork. The Cookstons compete on the international barbecue circuit and the menu reflects it: pulled pork shoulder, dry-rub ribs, wet ribs Memphis-style, and a much-praised pit-smoked half chicken.

@@ -9,6 +9,7 @@ title: Mendut Temple
 type: poi
 story: >
   The three Buddhas inside Mendut — the central Vairocana flanked by Avalokitesvara and Vajrapani — are carved from a single stone block each and are among the finest examples of classical Javanese Buddhist sculpture. The Vairocana is depicted in the "turning the wheel of dharma" gesture — the mudra of teaching — which is relatively rare in Southeast Asian iconography. The temple is still used for religious ceremonies, including the annual Vesak festival when Buddhist pilgrims walk in procession from Mendut to Borobudur.
+score: 8.0
 ---
 
 Mendut Temple stands about 3 km east of Borobudur and is considered the starting point of the traditional processional route to the main monument. Built in the early 9th century, the temple is small in comparison to Borobudur but contains what many consider the finest Buddhist statuary in Java: three enormous seated Buddhas housed in the inner sanctuary, their faces serene and their scale overwhelming in such a small space.

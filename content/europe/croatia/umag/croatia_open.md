@@ -8,6 +8,7 @@ latitude: 45.4388
 longitude: 13.5243
 sources:
   - https://en.wikipedia.org/wiki/Croatia_Open
+score: 6.9
 ---
 
 Every July, in the last week of the month, Umag hosts the Croatia Open — officially the Plava Laguna Croatia Open — one of the ATP Tour's oldest clay-court tournaments. It has been running since 1990, which makes it one of the first clay-court events of the European summer hardcourt-to-clay transition, and it consistently draws a strong field.

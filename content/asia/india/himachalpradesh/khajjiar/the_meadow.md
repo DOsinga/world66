@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.5486
 longitude: 76.0597
+score: 8.7
 ---
 
 The grass bowl that holds the lake and the village is the reason Khajjiar exists as a destination. It is about a kilometre across, almost perfectly flat, and ringed by a wall of dark deodar. In summer it is brilliant green; in winter it is sometimes lightly dusted with snow.

@@ -9,6 +9,7 @@ latitude: 29.4244
 longitude: -98.4972
 story: >
   O. Henry — William Sydney Porter — lived in San Antonio in the 1890s and worked here as a pharmacist and bank teller before his conviction for embezzlement launched him on a very different career. He served three years in a federal prison in Ohio, during which time he adopted the pen name O. Henry and began writing the short stories of ironic twist endings that made him famous. His San Antonio stories include "A Fog in Santone" and "The Missing Chord."
+score: 5.9
 ---
 
 A small museum in the Queen Anne cottage where the short story writer O. Henry (William Sydney Porter) lived in the 1890s. Two rooms are open to visitors, furnished in period style with photographs, first editions, and exhibits about his San Antonio years. Porter worked nearby as a pharmacist and bank teller before his legal troubles; the city inspired several of his stories.

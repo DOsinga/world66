@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 The Sessions House on Harris Street is the grand baroque courthouse next door to the Harris — completed in 1903 to a design by Henry Littler, with a vast Portland stone facade modelled on Wren's St Paul's. The interior was used for criminal trials until 2017 and is now part-empty, awaiting a new use; the exterior remains one of the most architecturally ambitious courthouses outside London.

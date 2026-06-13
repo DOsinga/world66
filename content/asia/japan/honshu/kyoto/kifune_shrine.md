@@ -9,6 +9,7 @@ tags:
 - sight
 title: Kifune Shrine
 type: poi
+score: 7.9
 ---
 
 Kifune Shrine is reached by a famous flight of stone steps lined with vermilion lanterns, climbing from the small mountain river of the same name to a shrine dedicated to a deity of water and rain. The shrine is one of the oldest of its kind in Japan and is considered the spiritual headquarters of every shrine in the country dedicated to the *Suijin* water deity. The lit lantern steps after dark — especially when lightly covered in snow — are one of the most photographed shrine scenes in Kyoto.

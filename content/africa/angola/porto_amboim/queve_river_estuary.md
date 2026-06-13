@@ -9,6 +9,7 @@ latitude: -10.7102
 longitude: 13.7583
 sources:
   - https://en.wikipedia.org/wiki/Cuvo_River
+score: 6.9
 ---
 
 The Queve River (known in Portuguese as the Rio Cuvo) meets the Atlantic just north of Porto Amboim, creating an estuary that is worth exploring for its birdlife and the contrast it offers to the open beach. The calm, brackish water shelters a variety of wading birds, kingfishers, and herons, and fishing dugouts move slowly between the mangrove edges in the early morning hours.

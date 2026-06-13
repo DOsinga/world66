@@ -9,6 +9,7 @@ latitude: 34.2919
 longitude: 35.9546
 sources:
   - https://en.wikipedia.org/wiki/Ehden
+score: 6.3
 ---
 
 Ehden's village centre is a compact collection of stone buildings arranged around a central square, with the old church, a handful of cafes, and the characteristic honey-coloured limestone that defines northern Lebanese mountain architecture. In summer the population swells as Beirut families move up to escape the coast heat, and the village takes on a lively, almost festive atmosphere — restaurants and coffee shops stay open late, and the square fills up in the evenings.

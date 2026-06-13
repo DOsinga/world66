@@ -10,6 +10,7 @@ longitude: -68.0000
 snippet: Legendary waterway with sea lions, penguins, and cormorants — best explored by boat
 story: >
   Charles Darwin sailed the Beagle Channel in 1832 and 1833 on HMS Beagle, studying the Fuegian peoples and the extraordinary landscape. The channel — and the ship — gave their names to each other: the waterway was named after the vessel, not the other way around.
+score: 9.2
 ---
 
 The Beagle Channel is the strait that separates the Argentine and Chilean portions of Tierra del Fuego from a chain of smaller islands to the south, ending at Cape Horn. Named after HMS Beagle — the ship that carried Darwin on his voyage of discovery — the channel is one of the most dramatic seaways in the world, with mountains plunging directly into dark water on both sides.

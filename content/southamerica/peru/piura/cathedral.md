@@ -7,6 +7,7 @@ tags:
   - church
 latitude: -5.1966
 longitude: -80.6268
+score: 7.1
 ---
 
 The yellow-and-white Catedral San Miguel Arcángel dates from 1588 in its earliest form, though most of what stands today is from a 1660s rebuild after earthquake damage. The bell tower is a later addition from the early twentieth century.

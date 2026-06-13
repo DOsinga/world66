@@ -11,6 +11,7 @@ story: >
   time: an explicit attempt to represent the indigenous Sami people on their
   own terms, through livelihood, handicraft, and pre-Christian religion, at a
   time when Norway's official policy was still one of cultural assimilation.
+score: 8.8
 ---
 
 The Tromsø Museum is the northernmost university museum in the world, holding around two million objects across its collections. Its main site south of the city centre covers northern Norwegian archaeology, natural history, and — most distinctively — an extensive exhibition on Sami culture that is one of the best anywhere in Norway.

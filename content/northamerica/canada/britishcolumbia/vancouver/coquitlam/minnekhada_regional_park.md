@@ -10,6 +10,7 @@ longitude: -122.6949
 snippet: A 219-hectare regional park on the Pitt River floodplain, with wetlands, forest and excellent winter birding
 story: >
   The lodge at Minnekhada was built in 1934 by Eric Werge Hamber, a future lieutenant-governor of British Columbia, as a private hunting retreat — a Scottish-style baronial pile that hosted King George VI and Queen Elizabeth in 1939. The provincial government bought the estate in 1958, and the lodge is still in use for weddings, conferences and very occasional public tours. The marsh below the lodge is one of the best places in Metro Vancouver to see wintering raptors, with up to nine eagle species recorded over a single season.
+score: 8.4
 ---
 
 Minnekhada Regional Park covers 219 hectares of low forested ridges and dyked wetlands at the edge of the Pitt River, on the north-eastern outskirts of Coquitlam. The Halkomelem name *Minnakhada* means "place of berries" — the marshes here are dotted with cranberry, salmonberry and other plants that the Kwikwetlem First Nation harvested for centuries.

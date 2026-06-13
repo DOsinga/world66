@@ -8,6 +8,7 @@ tags:
 - deira
 title: Spice Souk
 type: poi
+score: 7.7
 ---
 
 The Spice Souk is one of the most aromatic corners of the old city: a dense cluster of shops in Deira selling saffron, dried limes (loomi), frankincense, rose water, hibiscus, henna, and spice blends from Iran, India, and East Africa. The sacks of vivid reds, yellows, and browns spilling out of the shopfronts are extremely photogenic, and the traders know it.

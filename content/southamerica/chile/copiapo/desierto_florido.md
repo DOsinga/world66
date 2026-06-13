@@ -11,6 +11,7 @@ story: >
   The flowering is triggered by the El Niño weather pattern, which occasionally brings rain to this part of the Atacama. In a typical year the desert receives less than 10 millimetres of rain; in a flowering year it can receive 10 times that. The seeds of the flowering plants can lie dormant in the soil for years, even decades, waiting for exactly this moment.
 sources:
   - https://en.wikipedia.org/wiki/Copiap%C3%B3
+score: 8.8
 ---
 
 In rare years — roughly every five to seven years, when El Niño rains reach the desert — the hillsides around Copiapó explode into colour. Dozens of species of flowering plants, dormant in the soil through years of drought, bloom simultaneously, covering the normally bare brown hillsides with carpets of purple, yellow, pink, and white. The Desierto Florido (flowering desert) is one of the most striking natural spectacles in South America.

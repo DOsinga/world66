@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.4509
 longitude: 30.5230
+score: 5.2
 ---
 
 A reconstructed medieval gateway monument on Maidan Nezalezhnosti, on the spot where the historic Lach Gates — one of three entrances through the city walls of Kyivan Rus — stood from the 11th century until the 17th. The original gates faced westward, toward the Lyakhs (Poles), hence the name.

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 12.1555
 longitude: -86.2721
+score: 8.4
 ---
 
 The Museo Nacional de Nicaragua is housed within the National Palace of Culture and is the principal archaeology and history museum in the country. Its collection covers pre-Columbian cultures of Nicaragua — the Chorotega, Nicarao, and other indigenous peoples — with ceramics, stone carvings, jade jewellery, and figurines from sites across the country.

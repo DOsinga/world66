@@ -7,6 +7,7 @@ snippet: Curious scientific instruments and oddities from four centuries of rese
 tags:
 - things_to_do
 - museum
+score: 7.5
 ---
 
 A small, quirky museum just off the Oude Boteringestraat that displays the cast-offs and curiosities of four centuries of university research: brass orreries, antique microscopes, a preserved blue whale skeleton, a 19th-century anatomical collection in glass jars, and the personal items of past professors. It is free to enter and rarely crowded.

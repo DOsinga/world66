@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.3990
 longitude: 8.2749
+score: 6.2
 ---
 
 The parish church of San Lorenzo is the dominant landmark of Cairo Montenotte's town centre, its tall campanile visible from the surrounding hills. The current building dates from the 1630s, built in the late Renaissance style that was spreading through Ligurian towns during that period, though a church has occupied this site since the medieval period.

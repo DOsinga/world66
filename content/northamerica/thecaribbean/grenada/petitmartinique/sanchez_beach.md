@@ -7,6 +7,7 @@ tags:
   - sailing
 latitude: 12.5164
 longitude: -61.3844
+score: 7.2
 ---
 
 Sanchez Beach is both beach and working waterfront, which makes it more interesting than a simple strip of sand. Boats are hauled, repaired, launched, and discussed here; on a small island, the beach is part of the island's public workshop.

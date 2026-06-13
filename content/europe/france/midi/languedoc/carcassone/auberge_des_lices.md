@@ -8,6 +8,7 @@ tags:
   - the_cite
   - restaurant
 neighbourhood: La Cité
+score: 5.4
 ---
 
 One of the better restaurants inside the Cité. It is still tourist-priced but the cooking is more careful than the average inside the walls — the cassoulet is honest, the lamb good, and there is a small terrace overlooking the inner lices.

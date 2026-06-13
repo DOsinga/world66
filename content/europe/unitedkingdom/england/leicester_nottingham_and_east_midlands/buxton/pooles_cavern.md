@@ -8,6 +8,7 @@ latitude: 53.2505
 longitude: -1.9263
 story: >
   The cavern takes its name from a 15th-century outlaw named Poole, who is said to have used the cave as a hideout and storage for stolen goods. Whether Poole was real or a legend attached retroactively to a convenient cave is not clear, but the name has stuck for 500 years. Mary Queen of Scots visited in 1582 while imprisoned at Chatsworth — one of the few outings permitted to her.
+score: 8.3
 ---
 
 Poole's Cavern is a two-million-year-old natural limestone cave at the southern edge of Buxton, reached by a short walk through Buxton Country Park. The cave was known to the Romans — Roman artefacts and Bronze Age objects have been found inside — and has been open to tourists in some form since at least the 17th century.

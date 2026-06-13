@@ -8,6 +8,7 @@ latitude: 16.2528
 longitude: -61.2717
 story: >
   Saint-François was a fishing village until the 1970s, when a casino and marina were built to attract a different kind of visitor. The transformation was deliberate and relatively rapid — the government wanted a resort on Grande-Terre's south coast that could compete with other Caribbean destinations. The fishing boats are still there, now moored alongside yachts.
+score: 6.8
 ---
 
 Saint-François is the most resort-oriented town on Grande-Terre's south coast — a former fishing village that was developed in the 1970s into a destination with a marina, casino, golf course, and a string of good beaches. It sits near the eastern end of the south coast, about 45 km from Pointe-à-Pitre, and makes a comfortable base for exploring this end of the island.

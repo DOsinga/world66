@@ -6,6 +6,7 @@ latitude: 31.1145
 longitude: 120.8448
 story: >
   The Shen family built their fortune supplying grain and tax revenues to the imperial government, and in 1742 they built accordingly — over a hundred rooms arranged around a sequence of courtyards and water gardens. The descendants of this merchant dynasty lived here until the early twentieth century; the house was then used as a rice warehouse before the town's preservation began.
+score: 8.6
 ---
 
 The Shen Family Mansion (沈厅) is the grandest of Zhouzhuang's old residences, built in 1742 across seven courtyards and more than a hundred rooms. The compound stretches from a street-facing ceremonial hall all the way back to private living quarters facing the canal, with carved wooden screens, painted beams, and stone-paved courtyards in between. The scale alone is impressive: this was the home of a merchant dynasty wealthy enough to effectively control regional grain trade.

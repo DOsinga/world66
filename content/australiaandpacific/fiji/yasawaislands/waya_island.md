@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.9
 ---
 
 Waya is one of the larger and more varied islands in the southern Yasawas, with a dramatic landscape of steep volcanic peaks, several villages, and a coastline that alternates between rocky headlands and sheltered sandy bays. It sits close to Wayasewa and the two are sometimes treated as a pair, though they have distinct communities and characters.

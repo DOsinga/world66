@@ -8,6 +8,7 @@ latitude: 29.5452
 longitude: 103.7740
 story: >
   Lingyun Mountain is the site of the Leshan Giant Buddha — the mountain and the statue are one structure. During construction, the cliff face was essentially excavated away around the figure, meaning the Buddha's back is part of the living rock. Engineers who inspected the site in the 20th century found that water seeping through the rock had been channelled by the original builders into a concealed drainage network, keeping the interior of the statue dry and structurally sound.
+score: 7.3
 ---
 
 Lingyun Mountain rises directly above the river confluence where the three rivers meet. The mountain is part of the same scenic area as the Giant Buddha and Wuyou Temple, and the path through it is the route you take to reach the top of the statue and the staircase descent. The path through the forested upper slopes is pleasant, and several viewpoints along the ridge look down over the rivers.

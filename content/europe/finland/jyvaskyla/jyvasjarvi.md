@@ -8,6 +8,7 @@ latitude: 62.2400
 longitude: 25.7700
 sources:
   - https://en.wikipedia.org/wiki/Jyv%C3%A4sj%C3%A4rvi
+score: 7.2
 ---
 
 Lake Jyväsjärvi is one of the most central urban lakes in Finland — it sits literally in the middle of Jyväskylä, surrounded by parkland, cycling paths, and the city's harbour district. On a summer evening, the lakeside paths and cafés fill with locals cycling, jogging, and enjoying the long northern twilight. The lake's southern shore has a sandy beach and swimming area used heavily in summer.

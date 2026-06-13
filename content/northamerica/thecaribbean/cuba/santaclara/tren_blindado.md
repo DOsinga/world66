@@ -12,6 +12,7 @@ story: >
   tracks ahead of a Batista armoured train carrying 400 soldiers and a military
   arsenal intended to relieve the besieged city. The derailed cars became a trap.
   The soldiers surrendered after four hours. Batista fled Cuba three days later.
+score: 8.5
 ---
 
 The Tren Blindado — the Armoured Train — is one of the most tangible revolutionary monuments in Cuba. Four of the original derailed railcars sit exactly where they were toppled on 28 December 1958, at the site where Che Guevara's rebel column defeated a Batista force of 400 soldiers and effectively decided the outcome of the Cuban Revolution.

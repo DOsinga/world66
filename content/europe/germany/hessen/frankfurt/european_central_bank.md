@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 50.1090
 longitude: 8.7022
+score: 6.5
 ---
 
 The European Central Bank's headquarters tower on the eastern edge of Frankfurt is the symbolic centre of the euro zone, and one of the most striking pieces of modern architecture in the city. Designed by Coop Himmelb(l)au and completed in 2014, the building is a 185-metre twisted twin-tower atrium glued onto the side of the old Grossmarkthalle — the city's wholesale fruit and vegetable market of 1928, itself a landmark of early modernism by Martin Elsaesser.

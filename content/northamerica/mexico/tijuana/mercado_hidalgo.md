@@ -9,6 +9,7 @@ latitude: 32.5248
 longitude: -117.0292
 snippet: "The city's main covered market, brilliant for spices, chillies, and street food."
 story: "Mercado Hidalgo opened in 1955 and has been the city's most important public market ever since. Unlike the tourist market on Revolución, this is where Tijuana actually shops. The spice and dried-chilli section is extraordinary — mounds of thirty or forty varieties of dried chillies, herbs from Baja California, and blends that you won't find anywhere else. The weekend flea market that spreads into the surrounding streets doubles the chaos pleasantly."
+score: 8.0
 ---
 
 Mercado Hidalgo is Tijuana's central covered market, a large mid-century building in the Zona Centro that has been the city's main commercial food market for over sixty years. It's exactly the kind of place that gets recommended as an 'authentic experience' but actually is one.

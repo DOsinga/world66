@@ -8,6 +8,7 @@ tags:
   - sight
   - history
 snippet: One of the original 14 national cemeteries established by Congress in 1862, containing over 4,500 Union graves.
+score: 7.2
 ---
 
 Winchester National Cemetery was among the first 14 national cemeteries established by an Act of Congress in 1862, created specifically to accommodate the enormous casualties of the Civil War's early campaigns. More than 4,500 Union soldiers are buried here, including many who were initially interred on nearby battlefields and later reinterred. The original boundaries of the cemetery reflect the geography of wartime Winchester — a town so contested that both armies used it simultaneously as hospital base and supply depot at different points in the conflict.

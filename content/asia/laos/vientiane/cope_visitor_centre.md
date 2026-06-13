@@ -8,6 +8,7 @@ tags:
 title: COPE Visitor Centre
 story: "Between 1964 and 1973, the United States dropped more than two million tonnes of ordnance on Laos — more than was dropped on Germany and Japan combined during the Second World War. Around 30 percent failed to detonate, and is still killing or maiming Lao villagers today."
 type: poi
+score: 8.7
 ---
 
 The Cooperative Orthotic and Prosthetic Enterprise runs this small, free visitor centre on the grounds of Mahosot Hospital. It is the most quietly devastating museum in Vientiane. Display cases show defused cluster bomb casings repurposed by farmers as flower pots, fence posts, and house stilts. Other rooms tell the stories of survivors maimed by submunitions decades after the war ended.

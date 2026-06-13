@@ -9,6 +9,7 @@ tags:
 - festivals
 title: Meskal
 type: poi
+score: 9.3
 ---
 
 Meskal (also spelled Meskel) is one of Ethiopia's most spectacular festivals, a two-day celebration at the end of September marking the Finding of the True Cross. The date coincides with the end of the rainy season, when the hillsides turn yellow with meskal daisies.

@@ -16,6 +16,7 @@ story: >
   of which has any Roman function at all.
 sources:
   - https://en.wikipedia.org/wiki/Roman_Baths,_Potsdam
+score: 7.9
 ---
 
 The Roman Baths (Römische Bäder) in Sanssouci Park are a picturesque ensemble of classical and Italian vernacular buildings grouped around a small courtyard with a goldfish pool and vine-covered pergola. Designed by Karl Friedrich Schinkel and Ludwig Persius in the 1830s for Crown Prince Frederick William, they were built as a romantic folly — a stage-set impression of a Roman country estate, never intended to function as actual baths.

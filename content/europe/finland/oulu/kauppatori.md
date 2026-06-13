@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 65.0139
 longitude: 25.4633
+score: 7.8
 ---
 
 Oulu's main market square, on the harbour where the Oulujoki river meets the sea. A row of bright-red wooden storehouses lines the water — converted from 19th-century warehouses to cafes, craft shops, and a brewery. The market itself is busiest in summer when stalls sell fish, berries, smoked reindeer, and tourist tat.

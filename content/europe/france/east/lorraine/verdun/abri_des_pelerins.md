@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - landmark
 snippet: "Pilgrim shelter near the Ossuary, built for the many post-war visitors"
+score: 4.9
 ---
 
 The Abri des Pèlerins — the Pilgrims' Shelter — stands beside the Ossuary on the right bank battlefield, a stone refectory built in the 1920s for the huge numbers of bereaved families who came in the years after the war to look for the graves of their dead. It still serves a function as a visitor centre and small café.

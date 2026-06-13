@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 21.0072
 longitude: 101.3900
+score: 6.2
 ---
 
 The Boat Landing is a small guesthouse and restaurant about 4 kilometres south of town on the Nam Tha River, long regarded as the best place to eat in Luang Namtha. The kitchen works with local suppliers and produces traditional dishes from the various ethnic communities of the region — Lao, Khmu, Akha — that you will not find elsewhere. Dishes change with the season and what is available from the surrounding forest and farms.

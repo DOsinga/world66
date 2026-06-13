@@ -8,6 +8,7 @@ tags:
   - monastic_zone
 latitude: 27.4797
 longitude: 83.2722
+score: 6.4
 ---
 
 A small Japanese Buddhist temple on the Mahayana side of the Monastic Zone, run by the **Nipponzan-Myohoji** order which also built the **World Peace Pagoda** further north. The architecture is restrained — dark wood, minimal ornamentation — and the temple feels more like a meditation hall than a public shrine.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.2381
 longitude: 139.0461
+score: 7.8
 ---
 
 The largest art museum in Hakone, opened in 2013 by the founder of the Okada Group, with a collection of around 450 Japanese, Chinese, and Korean artworks spanning some 5,000 years. The building is purpose-built and impressive — a sleek structure that descends underground into the hillside, with galleries on five floors.

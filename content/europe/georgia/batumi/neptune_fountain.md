@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Neptune Fountain
 type: poi
+score: 5.8
 ---
 
 In the middle of Theatre Square, in front of the drama theatre, stands a careful copy of the famous Neptune Fountain of Bologna — the bronze figure of the sea god with his trident, surrounded by smaller figures of sea nymphs and sirens. It was installed in 2010 as part of the wider remake of central Batumi and is one of several deliberate Italianate touches dotted around the city.

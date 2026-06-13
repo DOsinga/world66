@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.2480
 longitude: 117.8618
+score: 6.7
 ---
 
 [Wuyuan](/asia/china/jiangxi/wuyuan)'s ancient Huizhou-style villages are accessible from Shangrao by local bus or hired car in about 1.5 hours. The high-speed rail station at Wuyuan is on the same line as Shangrao, which makes direct train connection the simplest option for a day trip or overnight. Shangrao provides a broader range of accommodation options than Wuyuan itself during peak spring season, when the village guesthouses fill quickly with tour groups.

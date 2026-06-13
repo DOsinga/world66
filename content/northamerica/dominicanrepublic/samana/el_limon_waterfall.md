@@ -12,6 +12,7 @@ tags:
 - waterfall
 title: Salto El Limón
 type: poi
+score: 8.3
 ---
 
 About 30 kilometres west of Samaná town, near the village of El Limón, a tall ribbon of water drops some 50 metres from a fern-covered cliff into a deep pool. The walk in goes through small-holder banana groves and patches of secondary rainforest, with several river crossings on horseback or wading.

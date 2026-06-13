@@ -6,6 +6,7 @@ longitude: -93.7242
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 A Tex-Mex institution on Line Avenue with a deep-shaded patio that fills every warm evening. The fajitas, the queso, and the frozen margaritas are the standard order; the chips and salsa keep coming.

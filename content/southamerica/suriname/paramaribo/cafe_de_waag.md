@@ -8,6 +8,7 @@ tags:
   - cafe
 latitude: 5.8246
 longitude: -55.1541
+score: 5.9
 ---
 
 The De Waag café occupies the ground floor of the 18th-century weigh house on the Waterkant — one of the most atmospheric settings for a drink or a light meal in the city. Tables spread out onto the embankment in the afternoon, and the view across the Suriname River at sunset is one of those reliable Paramaribo pleasures. Cold Parbo beer, rum, fresh juices, and simple food.

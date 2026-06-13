@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - historic
+score: 6.7
 ---
 
 A monumental Karelian log house in Nurmes, an hour's drive north of Lieksa around the head of the lake. Bomba is a 1978 reconstruction of an 1855 farmhouse from Suojärvi in Russian Karelia (the original was burned in the Continuation War). Two storeys, a massive wooden facade, more than twenty rooms.

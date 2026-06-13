@@ -7,6 +7,7 @@ tags:
 - bar
 title: Anyela's Vineyards
 type: poi
+score: 7.1
 ---
 
 Anyela's sits on a steep slope above the western shore of Skaneateles Lake, with rows of riesling and chardonnay running down to the water and a wood-and-glass tasting room with one of the best views in the Finger Lakes. The wines lean dry — the rieslings are the standout — and tastings are reasonably priced.

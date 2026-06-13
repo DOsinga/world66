@@ -4,6 +4,7 @@ type: poi
 tags: [beaches]
 latitude: -16.4943
 longitude: -39.0664
+score: 7.3
 ---
 
 Mucugê is the most popular beach in Arraial: a long arc of pale sand backed by low cliffs and palm trees, with a chain of *barracas* — beach bars on stilts — running the full length. Each one rents chairs and umbrellas, serves grilled fish, *moqueca*, and *caipirinhas*, and most have a daily soundtrack of forró or MPB. The water is warm, clear, and usually calm.

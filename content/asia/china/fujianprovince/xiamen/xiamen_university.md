@@ -15,6 +15,7 @@ story: >
   rebuilding it. The campus architecture, blending traditional Fujian
   rooflines with Western academic buildings, was his personal design
   project.
+score: 8.2
 ---
 
 Xiamen University (厦门大学) is widely considered the most beautiful university campus in China, and the setting delivers on the reputation: traditional swooping green-tiled roofs on stone academic buildings set against tropical gardens and a waterfront location on the south shore of Xiamen Island. The campus is open to visitors and walking it is one of the more pleasant hours available in Xiamen — the buildings, the trees, and the stretch of beach along the southern perimeter combine well.

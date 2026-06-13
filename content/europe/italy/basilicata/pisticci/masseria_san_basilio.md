@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.3850
 longitude: 16.5450
+score: 7.1
 ---
 
 The Masseria Fortificata in the hamlet of San Basilio, a few kilometres from Pisticci, is a fortified farmstead that began as a Norman military structure under Roger I in the eleventh century. In 1133 it was converted into an abbey by Basilian monks — the Greek-rite monks who established communities across Calabria and Basilicata during the Byzantine period — and it retains elements of both its military and religious phases.

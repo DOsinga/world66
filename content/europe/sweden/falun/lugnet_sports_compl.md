@@ -9,6 +9,7 @@ longitude: 15.6583
 snippet: "Falun's world-class Nordic skiing and ski jumping venue, open year-round for outdoor activities"
 sources:
   - https://en.wikipedia.org/wiki/Lugnet,_Falun
+score: 6.7
 ---
 
 Lugnet is a large outdoor sports complex on the eastern edge of Falun that hosts international cross-country skiing and ski jumping competitions, including the Nordic World Ski Championships. In winter, the 10km of groomed cross-country ski tracks are open to the public, and the ski jumping hills are used for training and competition. The setting — forest-ringed hills above the city — is beautiful on a clear winter day.

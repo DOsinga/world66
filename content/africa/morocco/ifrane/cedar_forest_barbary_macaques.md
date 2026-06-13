@@ -12,6 +12,7 @@ story: >
   Classified as endangered, the Middle Atlas cedar forests are one of their last strongholds. 
   The forest around Ifrane and Azrou holds one of the largest remaining populations — though 
   feeding them is discouraged, as it changes their behaviour and diet.
+score: 8.6
 ---
 
 The cedar forests stretching between Ifrane and Azrou are among the most impressive in North Africa — old-growth Atlas cedars reaching 30 metres, with dense undergrowth and a genuine sense of wildness. The best stands are accessible along the road south toward Azrou, about 15 kilometres from Ifrane.

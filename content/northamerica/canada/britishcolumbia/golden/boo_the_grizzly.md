@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 51.358
 longitude: -117.051
+score: 5.8
 ---
 
 At the base of Kicking Horse Mountain Resort lives Boo, one of the most famous grizzly bears in Canada. Boo was orphaned as a cub in 2002 after his mother was hit by a train and has lived at the resort's wildlife refuge ever since. The 20-hectare enclosure gives him room to roam, forage, and hibernate naturally while allowing visitors to observe him from an elevated boardwalk.

@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: Lakeside national art collection from the nineteenth century to today
+score: 8.1
 ---
 
 A handsome white building on the eastern shore of Tjörnin, the National Gallery of Iceland (Listasafn Íslands) holds the country's largest collection of Icelandic art — from the nineteenth-century romantic landscape painters Þórarinn B. Þorláksson and Ásgrímur Jónsson, through Kjarval and the modernists, to contemporary names.

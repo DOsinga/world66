@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.6430
 longitude: -106.3920
+score: 5.5
 ---
 
 Elway's in the Lodge at Vail is the Vail outpost of Denver Broncos quarterback John Elway's steakhouse mini-chain. It is exactly what you expect: a proper American steakhouse with generous cuts of well-aged beef, a serious bourbon and whiskey selection, and the kind of clubby atmosphere that suits aprés-ski evenings. The bone-in ribeye and the prime aged New York strip are the main events.

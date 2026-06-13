@@ -9,6 +9,7 @@ latitude: 48.7333
 longitude: -122.4800
 sources:
   - https://en.wikipedia.org/wiki/Sehome_Hill_Arboretum
+score: 7.8
 ---
 
 Sehome Hill Arboretum is a 65-hectare forest park managed jointly by the city and Western Washington University, whose campus edges up to the lower slopes. A network of hiking trails climbs through second-growth Douglas fir and madrone to a stone observation tower at the summit, where on a clear day you can see Bellingham Bay, the San Juan Islands, the Olympic Mountains, and the snow cone of Mount Baker all at once.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Khambeswari Temple
 type: poi
+score: 6.1
 ---
 
 The Khambeswari temple is the principal religious site in Aska, dedicated to the goddess Khambeswari, a form of Durga particularly venerated in Ganjam District. The temple draws devotees from across the surrounding area, and festival days bring large crowds to the town.

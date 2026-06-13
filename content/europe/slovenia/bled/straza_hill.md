@@ -7,6 +7,7 @@ tags:
 title: Straža Hill
 type: poi
 snippet: Easy 646-metre hill with a chairlift, summer toboggan and lake views
+score: 6.8
 ---
 
 A 646-metre forested hill rising directly above the southeast corner of the lake. A chairlift runs from the village to within a short walk of the summit, where you find a small chapel, a beer garden and one of the easier high views of the lake.

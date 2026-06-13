@@ -14,6 +14,7 @@ story: >
   were the dominant working-class housing type in Victorian Birmingham. At their peak,
   around 43,000 of them housed over 200,000 people. By the 1960s most had been demolished
   as slums; this small court near Hurst Street is the last surviving example in the city.
+score: 8.9
 ---
 
 A National Trust property in the Southside district, preserving the last surviving court of back-to-back houses in Birmingham. The houses — arranged around a small courtyard with a shared outdoor toilet — are interpreted across different periods from the 1840s to the 1970s, with each dwelling furnished to represent a specific family and time.

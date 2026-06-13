@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 35.8986
 longitude: 14.5099
+score: 6.3
 ---
 
 Crystal Palace is one of the few pastizzerias that Valletta residents themselves actually use, which is the best possible recommendation. It serves the two canonical Maltese snacks — pastizzi tal-irkotta (flaky pastry filled with ricotta and egg) and pastizzi tal-piżelli (the same pastry with a mushy pea filling) — hot from the oven throughout the day. A pastizz costs almost nothing and is a cultural institution: the unofficial national snack.

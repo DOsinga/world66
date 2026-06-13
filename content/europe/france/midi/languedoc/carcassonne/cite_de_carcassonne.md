@@ -14,6 +14,7 @@ story: >
   were correct for the region. He was almost certainly wrong: archaeological evidence
   suggests the towers were indeed flat-topped and slate-covered. But the pointed version
   is now so iconic that no one seriously proposes changing it.
+score: 9.5
 ---
 
 The medieval fortified city of Carcassonne is the largest in Europe and one of the best-preserved in the world. Fifty-two towers and two concentric walls totalling three kilometres of ramparts enclose an entire medieval town: the Basilica of Saints Nazarius and Celsus, the Château Comtal, a network of narrow cobbled streets, artisan workshops, and restaurants. The whole ensemble is a UNESCO World Heritage Site.

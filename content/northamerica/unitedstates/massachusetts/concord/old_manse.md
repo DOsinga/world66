@@ -9,6 +9,7 @@ latitude: 42.4683
 longitude: -71.3494
 story: >
   Nathaniel Hawthorne and his wife Sophia lived here from 1842 to 1845, and in the window glass of one of the upstairs rooms they scratched messages to each other with a diamond from Sophia's ring: "Man's accidents are God's purposes" (Sophia) and "The Old Manse, March 29, 1843. In this chamber I have written Mosses from an Old Manse. N.H." (Nathaniel). The glass, and the inscriptions, are still in place.
+score: 8.3
 ---
 
 The Old Manse stands at the edge of the North Bridge battlefield, built in 1770 by the grandfather of Ralph Waldo Emerson. The minister William Emerson watched the battle from its upstairs window; his grandson Ralph Waldo Emerson wrote his first book, *Nature* (1836), in the garden summerhouse. Nathaniel Hawthorne and his wife Sophia honeymooned here and lived in the house for three years, during which Hawthorne wrote the stories collected in *Mosses from an Old Manse*.

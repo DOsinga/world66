@@ -8,6 +8,7 @@ tags:
   - sight
   - walking
 snippet: Scenic coastal road between Savusavu and the Natewa Peninsula
+score: 7.4
 ---
 
 The Hibiscus Highway is the coastal road running south-east from Savusavu along the southern shore of Vanua Levu towards the Natewa Peninsula. The name is unofficial but apt: the road passes through coconut groves, small Fijian villages, and rocky bays where coconut palms lean over turquoise water. The drive is one of the finest in Fiji, especially in the late afternoon when the light on the bay turns gold.

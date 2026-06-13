@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: One of the most visited Hindu temples in north India, dedicated to Hanuman, right next to Patna Junction
+score: 7.3
 ---
 
 Mahavir Mandir is a Hanuman temple just outside Patna Junction railway station, and one of the busiest Hindu shrines in north India. It is unusual for a Hanuman temple in housing two identical idols of the deity, side by side, representing his benevolent (Parihar) and wish-granting (Prarthan) aspects.

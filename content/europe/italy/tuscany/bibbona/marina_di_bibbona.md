@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.2590
 longitude: 10.5490
+score: 7.3
 ---
 
 Marina di Bibbona is the coastal resort below the hill village, a long stretch of fine sand backed by a dense pine forest that has been protected from development. The beach is quieter and less built-up than the resorts to the north and south — fewer large hotels, more family-run stabilimenti with sun loungers and beach bars. The water is clean and the sand firm.

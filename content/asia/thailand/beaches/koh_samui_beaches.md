@@ -7,6 +7,7 @@ tags:
 latitude: 9.5120
 longitude: 100.0136
 snippet: Island beaches from busy Chaweng to quiet coves
+score: 8.0
 ---
 
 Koh Samui's coastline offers a beach for every mood. Chaweng is the longest and busiest -- a wide strip of white sand backed by restaurants, bars, and shops. It's where the action is, for better or worse.

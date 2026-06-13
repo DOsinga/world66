@@ -10,6 +10,7 @@ snippet: "One of the finest Brick Gothic churches in northern Germany, overlooki
 story: "St. Nikolai was built largely in the 14th century and contains one of the most valuable Gothic altarpieces in northern Europe — the Stralsund altarpiece, with its richly carved figures. When Swedish forces took Stralsund in the Thirty Years' War, the church became a garrison; Swedish officers are still commemorated in memorial tablets on its walls."
 sources:
   - https://en.wikipedia.org/wiki/St._Nikolai%27s_Church,_Stralsund
+score: 8.7
 ---
 
 St. Nikolai is the main church of Stralsund and one of the great Brick Gothic churches of the Baltic region. Built over the 13th to 15th centuries, it rises above the market square and dominates the old town skyline. The interior is spacious and dim, with a fine collection of medieval art including the Astrologicalclock from 1394 — one of the oldest functioning astronomical clocks in the world.

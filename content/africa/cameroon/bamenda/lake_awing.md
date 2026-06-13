@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 5.8167
 longitude: 10.2333
+score: 6.6
 ---
 
 A small volcanic crater lake about 30 km southeast of Bamenda, set in a forested ring of hills. The water is dark, calm, and considered sacred by the Awing people; swimming is discouraged but the surrounding walks are excellent.

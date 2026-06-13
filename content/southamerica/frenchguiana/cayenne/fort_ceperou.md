@@ -9,6 +9,7 @@ tags:
 latitude: 4.9420
 longitude: -52.3370
 story: "Cépérou was the Galibi chief who in 1643 gave the French permission to settle the hill, founding what would become Cayenne. The fort still bears his name, but little else of the original Indigenous presence remains on the site."
+score: 7.4
 ---
 
 Fort Cépérou is the small hilltop fort that marks the very foundation of Cayenne — French settlers, led by Charles Poncet de Brétigny, built a wooden stockade here in 1643 on a hill granted by the Galibi chief Cépérou. The current stone walls date mostly from the 17th and 18th centuries and have served as a fort, a barracks, and a prison in turn.

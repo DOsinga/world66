@@ -8,6 +8,7 @@ latitude: 42.7122
 longitude: -74.9298
 sources:
   - https://en.wikipedia.org/wiki/Cardiff_Giant
+score: 6.9
 ---
 
 The Cardiff Giant is a ten-foot carved stone figure created in 1868 by New York tobacconist George Hull as a deliberate fraud — buried on a farm near Cardiff, New York, "discovered" in 1869, and exhibited to a credulous public as the petrified remains of an ancient giant. It was one of the most successful hoaxes in American history and a perfect window into 19th-century credulity about biblical archaeology and the supernatural.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.3015
 longitude: 97.9680
+score: 6.8
 ---
 
 Wat Hua Wiang, on Phanit Wattana Road in the market area of Mae Hong Son, is notable for its brass Buddha image, Phra Chao Phara La Khaeng — a replica of a revered image in Myanmar. The Burmese-style seated figure has a distinctive narrow face and elongated features characteristic of Mandalay-period craftsmanship.

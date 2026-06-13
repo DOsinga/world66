@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 43.2750
 longitude: 11.9845
+score: 6.2
 ---
 
 Preludio is a small, well-regarded restaurant on Via Guelfa, a short walk from Piazza della Repubblica. The kitchen serves modernized Tuscan cooking — pici with a slow-cooked duck ragu, Chianina beef tartare, hand-rolled pasta with truffle in season.

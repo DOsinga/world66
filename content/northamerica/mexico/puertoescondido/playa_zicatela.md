@@ -13,6 +13,7 @@ story: >
   can reach eight metres or more, and international competitions have been held here
   since the 1990s. The undertow is severe — swimmers drown here every year, and the
   red flags are not a suggestion.
+score: 8.8
 ---
 
 Playa Zicatela is Puerto Escondido's most famous beach and one of the most powerful shore breaks in the Americas. A long straight stretch of dark sand backed by palapa restaurants and surf shops, it draws professional surfers from around the world. The waves here are not just big — they are fast, hollow, and close to shore, breaking directly onto a steep beach with almost no gradual shallow water to slow them down.

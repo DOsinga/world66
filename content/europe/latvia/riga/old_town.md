@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 title: Old Town (Vecrīga)
 type: poi
+score: 8.8
 ---
 
 Vecrīga (Old Riga) is the historic core of the city and a UNESCO World Heritage Site: a compact tangle of cobbled streets, church towers, and medieval merchant architecture on the eastern bank of the Daugava. It's small enough to walk across in twenty minutes, but worth spending longer — the scale is right for exploration on foot, and the architecture rewards looking up.

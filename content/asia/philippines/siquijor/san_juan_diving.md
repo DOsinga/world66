@@ -13,6 +13,7 @@ story: >
   events that bleached many Philippine reefs, and the fish density here is noticeably
   higher than at more visited dive sites. Night dives reveal a different population
   entirely: basket stars, frogfish, and sleeping reef sharks.
+score: 7.4
 ---
 
 San Juan, on the west coast of Siquijor, is the centre of the island's dive industry. Several small operators — most of them run by long-term foreign residents — offer day dives, night dives, PADI courses, and free-diving instruction at competitive rates. The sites range from gentle slopes good for beginners to steep walls and current-swept passages for more experienced divers.

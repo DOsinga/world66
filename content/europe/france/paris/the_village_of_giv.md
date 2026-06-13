@@ -11,6 +11,7 @@ tags:
 title: Giverny — Monet's Gardens
 type: poi
 url: www.fondation-monet.com
+score: 8.9
 ---
 
 Claude Monet lived in the village of Giverny for the last 43 years of his life and created the gardens that inspired the Nymphéas series — the water lily paintings that now fill an entire room at the Orangerie in Paris. The gardens are maintained to the same standard as in Monet's lifetime and are genuinely extraordinary: the Japanese bridge, the wisteria tunnels, the lily ponds in all their seasonal colours.

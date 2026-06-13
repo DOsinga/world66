@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 42.8050
 longitude: 74.8800
+score: 7.5
 ---
 
 In summer the valley above Norus opens up into broad meadows and pine forest, with a clear stream running down the centre. The hiking here is unhurried and accessible: there are no technical sections, the altitude gain is gradual, and the trail is easy to follow up through the trees before emerging onto the open jailoo (high pasture) above.

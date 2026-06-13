@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Palace Theatre
 type: poi
+score: 7.3
 ---
 
 The Palace is Manchester's grandest theatre, opened in 1891 and still running in its original Oxford Street home. The auditorium seats just under 2,000 and has the ornamented plasterwork, gilded boxes, and deep red upholstery that Edwardian theatre-builders did so well. It's worth arriving early just to look at it properly before the lights go down.

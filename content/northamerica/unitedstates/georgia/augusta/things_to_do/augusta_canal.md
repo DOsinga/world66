@@ -8,6 +8,7 @@ tags:
   - cycling
 latitude: 33.4877
 longitude: -82.0103
+score: 8.4
 ---
 
 Built in 1845 to power textile mills along the Savannah River, the Augusta Canal is one of the only pre-Civil War industrial canals in the United States still in its original use corridor. The canal runs for about eight miles through the city, and the towpath alongside it makes for an excellent walk or bike ride. The headgates and lock mechanisms have been preserved and are worth examining up close.

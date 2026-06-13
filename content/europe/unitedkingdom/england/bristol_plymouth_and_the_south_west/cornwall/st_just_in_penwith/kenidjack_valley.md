@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 50.13
 longitude: -5.703
+score: 7.1
 ---
 
 Kenidjack Valley (sometimes called Nancherrow Valley) runs from the moorland above St Just down to the sea at Tregeseal Cove, cutting through what was once a dense concentration of tin and copper mining activity. The valley sides are littered with the remains of count houses, dressing floors, and water wheels from mines that operated here from the 18th to the early 20th century.

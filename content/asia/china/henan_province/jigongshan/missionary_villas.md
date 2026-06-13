@@ -15,6 +15,7 @@ story: >
   exhibition of every European domestic style then fashionable, set against
   Chinese forest on a Chinese mountain, at the edge of a China that would soon
   make such arrangements permanently impossible.
+score: 8.0
 ---
 
 The concentration of pre-1949 foreign-built villas on Jigongshan is one of the most distinctive things about the mountain. Between 1898 and 1936, missionaries representing dozens of Western organisations constructed more than three hundred summer residences here, escaping the punishing heat of central China's lowland cities. The result is an inadvertent outdoor museum: English cottages with low eaves and brick chimneys sitting next to American colonial porches, Swiss chalets with ornamental carved woodwork, and the occasional attempt at a Chinese-influenced synthesis. Some villas are now guesthouses, others are in various states of conversion, and a handful stand empty and slowly returning to the forest.

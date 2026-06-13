@@ -10,6 +10,7 @@ latitude: 50.7267
 longitude: 1.6130
 story: >
   The dome visible from anywhere in the lower town was built between 1827 and 1866 by a single man — the parish priest Father Haffreingue — who spent four decades on the project, largely without formal architectural training, financing it through donations and his own persistence. The crypt beneath, entered through a separate door, is the largest in France and contains a celebrated statue of the Virgin that has been the object of pilgrimage since the 7th century.
+score: 7.8
 ---
 
 The Basilique Notre-Dame dominates the Haute Ville skyline, its 101-metre dome visible from the Channel on clear days. The current basilica was built in the 19th century by the Abbé Haffreingue over the ruins of the medieval cathedral destroyed during the Revolution, and the result is a curious architectural hybrid — neo-classical exterior, baroque interior, and a crypt of extraordinary scale beneath.

@@ -11,6 +11,7 @@ phone: "(019) 580 074"
 latitude: 60.406658
 longitude: 25.612691
 snippet: "18th-century Swedish-era manor house in the Porvoo countryside"
+score: 5.8
 ---
 
 One of the old manor houses dotting the countryside around Porvoo, Kiiala dates from the Swedish period and is typical of the landed estates that once defined life in this part of Finland. The main building is a well-preserved example of neoclassical manor architecture, set in grounds that give a sense of the rural landscape the town grew out of.

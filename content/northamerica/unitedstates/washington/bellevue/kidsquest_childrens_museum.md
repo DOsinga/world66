@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.6206
 longitude: -122.1958
+score: 5.2
 ---
 
 A hands-on children's museum in Bellevue that emphasises STEAM learning through play. The exhibits are designed for children roughly two to ten years old and include a water table, construction area, art studio, and a stage for performance. The permanent exhibits are supplemented by rotating installations that typically arrive from national touring shows.

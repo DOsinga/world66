@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 35.3667
 longitude: -80.9386
+score: 6.9
 ---
 
 Historic Latta Plantation is a preserved cotton plantation on the shores of Mountain Island Lake, about 20 kilometres north of Uptown. The main house dates to around 1800 and has been carefully restored, along with a collection of outbuildings including slave cabins, a kitchen, and farm structures. The site is honest about its history — tours cover not just the architecture and domestic life of the Latta family but the lives of the enslaved people who made the plantation function.

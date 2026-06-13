@@ -6,6 +6,7 @@ latitude: 52.2870
 longitude: -1.5450
 sources:
   - https://en.wikipedia.org/wiki/Victoria_Park,_Leamington_Spa
+score: 6.2
 ---
 
 Victoria Park lies at the western end of the riverside walk from Jephson Gardens, separated from it by a bridge over the Leam. Where Jephson is formal and manicured, Victoria Park is more open — a broad expanse of grass used for cricket, tennis, and a popular outdoor lido in summer.

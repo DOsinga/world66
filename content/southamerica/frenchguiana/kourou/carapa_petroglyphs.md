@@ -8,6 +8,7 @@ latitude: 5.1597
 longitude: -52.6503
 sources:
   - https://museedupatrimoine.fr/roches-gravees-de-la-carapa-/58478.html
+score: 6.7
 ---
 
 The Carapa engraved rocks are a set of pre-Columbian petroglyphs on the edge of Kourou, classified as a French historical monument since 1993. More than 150 carvings are spread across two large rock surfaces — geometric patterns, anthropomorphic figures, and animal forms whose precise meaning and age remain uncertain, though they are broadly attributed to Amerindian cultures that inhabited this stretch of the Guiana coast before European contact.

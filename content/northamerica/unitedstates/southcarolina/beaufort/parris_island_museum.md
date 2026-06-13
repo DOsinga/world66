@@ -8,6 +8,7 @@ tags:
 - history
 title: Parris Island Marine Museum
 type: poi
+score: 6.7
 ---
 
 Parris Island has been the Marine Corps' main East Coast recruit depot since 1915, and almost every Marine on the east half of the country first learned how to be one here. The museum on base tells that story alongside the longer history of the island, which was a Spanish settlement (Santa Elena) in the sixteenth century before becoming French and then English.

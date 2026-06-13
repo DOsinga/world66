@@ -13,6 +13,7 @@ story: >
   assassination attempt. An estimated 30,000 people were killed over three days. The
   massacre is rarely discussed in Western histories of the Second World War,
   despite being one of the largest single atrocities of the era.
+score: 7.2
 ---
 
 An obelisk and memorial in the Sheger Park area mark the site where Italian forces carried out one of the largest massacres in African history, killing an estimated 30,000 Ethiopians in February 1937. The monument, inaugurated in 1955, is a sober reminder of the Italian occupation period and the violence that accompanied it.

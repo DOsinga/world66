@@ -7,6 +7,7 @@ tags:
 latitude: 40.6306
 longitude: 22.9419
 snippet: Historic waterfront cinema and cultural venue, home of the film festival
+score: 6.6
 ---
 
 The Olympion is a grand early-20th-century cinema on Nikis Avenue, right on the seafront, and the main venue of the Thessaloniki International Film Festival each November. During the rest of the year it operates as a functioning cinema and occasional concert or theatre space. The building is one of the best-preserved examples of the interwar neo-Renaissance style in the city.

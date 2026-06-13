@@ -7,6 +7,7 @@ snippet: "Small wooded island five minutes by boat from the old town"
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 The long, low island closing off Porec harbour from the open sea has been a private resort for decades, but day-trippers are welcome. The five-minute taxi-boat hop from the old town runs every 20 minutes through the summer.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.8012
 longitude: 2.1352
+score: 6.6
 ---
 
 The Place du Marché Notre-Dame is the lively square that surrounds the covered market halls, about 10 minutes' walk from the palace along the Rue de la Paroisse. On market days it fills with stalls and noise; the rest of the time it is a pleasant square lined with restaurants and brasseries with outdoor terrace seating.

@@ -7,6 +7,7 @@ tags:
 - shopping
 latitude: 15.3034
 longitude: -61.3884
+score: 8.3
 ---
 
 The New Market, on the north bank of the Roseau river where it meets the sea, is the principal food market for the capital — and one of the best in the eastern Caribbean. The covered stalls and the spillover stands on the surrounding pavements sell mountains of dasheen, yams, cassava, breadfruit, mangoes, papayas, bay leaves, soursop, herbs by the bunch, hot sauces and bottles of vanilla extract.

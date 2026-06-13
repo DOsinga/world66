@@ -7,6 +7,7 @@ tags:
 latitude: 34.7570
 longitude: 32.4159
 snippet: Domed Byzantine-revival church above Kato Paphos with a famous icon
+score: 5.9
 ---
 
 A small domed church on a rocky outcrop in Kato Paphos, rebuilt in the early 20th century on the foundations of a far older Byzantine structure. The name — Theoskepasti, "covered by God" — comes from a legend that a divine mist hid the church from Arab raiders in the 7th century.

@@ -7,6 +7,7 @@ tags:
 latitude: 27.823
 longitude: 75.026
 snippet: Painted haveli near the clock tower with vividly imaginative frescoes of European women and British soldiers
+score: 8.1
 ---
 
 The Rathi Family Haveli near Lachhmangarh's clock tower is one of the most visually entertaining examples of Shekhawati fresco painting — the paintings here include a particularly vivid series depicting European women in 19th-century dress and British soldiers in full uniform, painted by local artists who were working from secondhand accounts and imported illustrations rather than direct observation.

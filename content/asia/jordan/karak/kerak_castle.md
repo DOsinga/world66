@@ -9,6 +9,7 @@ tags:
   - sight
   - castle
 story: "The castle's most notorious lord was Raynald of Châtillon, who in the 1180s used Kerak to raid Muslim caravans heading for Mecca, breaking treaties and goading Saladin into war. After Saladin's victory at Hattin in 1187, Raynald was personally beheaded by the sultan. A particularly grim local tradition holds that Raynald used to throw prisoners off the castle walls with wooden boxes on their heads, so they would remain conscious until they hit the ground."
+score: 8.8
 ---
 
 Kerak Castle sprawls along a narrow ridge above the modern town, a 220-metre-long fortress with vaulted galleries, dark passages, deep cisterns, and a small museum tucked inside. Built by the Crusader lord Pagan the Butler around 1142 as the strongest of the Oultrejordain castles, it changed hands repeatedly: Saladin took it in 1188 after an eight-month siege, the Ayyubids and then the Mamluks strengthened it, and the Ottomans used it as an administrative centre into the 19th century.

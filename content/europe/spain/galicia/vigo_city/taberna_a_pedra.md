@@ -9,6 +9,7 @@ tags:
 neighbourhood: Berbés Quarter
 title: Taberna A Pedra
 type: poi
+score: 5.8
 ---
 
 Right beside the Pedra oyster market, this small bar is the best place to continue the shellfish session after eating oysters at the stone counters outside. The mussels are steamed to order, the Ribeiro white comes in traditional tazas (ceramic bowls), and the vibe is unhurried and local. Chairs spill out onto the cobbles when the weather allows.

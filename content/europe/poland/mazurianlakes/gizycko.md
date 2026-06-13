@@ -15,6 +15,7 @@ story: >
   incorporated into the Soviet Union. The German name Lötzen is still used
   by some older Polish residents, and the architecture of the Prussian period
   dominates the centre.
+score: 7.3
 ---
 
 Giżycko is the largest town in the Mazurian Lakes and the practical hub of the region: marinas, boat hire, provisions, equipment, and transport connections. It sits on the isthmus between two large lakes — Lake Niegocin to the south and Lake Kisajno to the north — connected by a rotating railway bridge, the only one of its kind in Poland, which swivels open to let sailboats through.

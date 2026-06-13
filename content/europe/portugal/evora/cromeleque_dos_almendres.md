@@ -15,6 +15,7 @@ story: >
   the Neolithic into the Bronze Age — a span of time longer than the entirety of
   recorded Western history. Some of the stones bear carved cup marks and other
   symbols whose meaning remains unknown.
+score: 8.8
 ---
 
 The Cromeleque dos Almendres is a neolithic stone circle about 15km west of Évora, tucked into a cork oak forest on a gentle hillside above the plains. It is one of the oldest megalithic monuments in Europe and arguably the most impressive in the Iberian Peninsula — a roughly oval arrangement of 95 standing stones, some over two metres tall, covering a hillside the size of a football pitch.

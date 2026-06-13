@@ -7,6 +7,7 @@ tags:
 - sight
 title: Valle delle Sfingi
 type: poi
+score: 7.0
 ---
 
 A short, easy walk through beech and hornbeam from the village of Camposilvano leads to a strange clearing of stubby rock pillars known as the Valley of the Sphinxes. The pinnacles are remnants of an ancient seabed: a hard cap of nummulite limestone has protected a softer marl beneath, leaving free-standing columns up to seven or eight metres tall. Local guidebooks insist they look like crouching animals; in practice they look more like a forgotten chess set, but the effect is genuinely strange.

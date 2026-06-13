@@ -6,6 +6,7 @@ longitude: 13.6490
 tags:
   - things_to_do
   - museum
+score: 8.8
 ---
 
 The Hallstatt Museum, on the main square, houses an unrivalled collection of finds from the prehistoric salt mines and from the great Iron Age cemetery on the Salzberg. The cemetery — excavated from the 1840s onwards — yielded over 1,500 graves with such a distinctive mix of swords, bronze vessels, amber, and ivory that archaeologists named an entire era of European prehistory after the village: the Hallstatt culture, roughly 800 to 450 BCE.

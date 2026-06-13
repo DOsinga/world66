@@ -8,6 +8,7 @@ tags:
 title: Doi Inthanon National Park
 type: poi
 story: Doi Inthanon is named after the last king of Chiang Mai, who was so devoted to the mountain that he requested his ashes be scattered at the summit. The mountain's dense cloud forest is home to more than 380 species of birds — more than anywhere else in Thailand — making it a serious draw for birdwatchers.
+score: 9.4
 ---
 
 Doi Inthanon National Park, about 80 kilometres southwest of Chiang Mai, contains Thailand's highest peak (2,565 metres) and some of the most dramatic scenery in the north. The summit is cool and often wreathed in mist even when the city is hot; temperatures can drop below 10°C in December. The contrast with the Thai lowlands is striking.

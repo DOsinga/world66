@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.1792
 longitude: 75.8516
+score: 4.9
 ---
 
 Seven Wonders Park is a municipal park on the banks of Kishore Sagar lake, containing scaled replicas of seven world monuments including the Eiffel Tower, the Taj Mahal, and the Colosseum. It sounds kitsch — and it is, a little — but the lakeside setting is pleasant, the replicas are better made than you might expect, and it is very popular with Kota families and students, who use it as a weekend gathering place.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Cultural centre with rotating exhibitions and free concerts
+score: 7.1
 ---
 
 The Casa de la Cultura on Calle Argentina functions as a kind of municipal arts club, with rotating exhibitions of contemporary Bolivian painting, photography and craft on the ground floor, and an auditorium upstairs that hosts free concerts, poetry readings, and small theatre performances. Programming is uneven but it is worth pushing open the heavy wooden door to see what is on; the city's cultural calendar is more active than the tourist literature suggests, particularly during semester.

@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 12.1222
 longitude: -86.2947
+score: 6.7
 ---
 
 The Laguna de Asososca is a volcanic crater lake on the western edge of Managua, similar in origin to the Tiscapa Lagoon but larger and less developed. It serves as part of Managua's water supply, which means access to the crater rim is restricted — but the road around the outside of the reserve passes through a greener, quieter part of the city and gives views down into the blue-green water below.

@@ -8,6 +8,7 @@ tags:
 - museum
 title: Konsthallen
 type: poi
+score: 7.2
 ---
 
 Gothenburg's Konsthallen occupies part of the grand building on Gotaplatsen, the city's cultural square anchored by Poseidon's fountain. It hosts rotating exhibitions of contemporary art, often featuring Nordic and international artists working across painting, sculpture, and installation.

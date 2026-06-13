@@ -14,6 +14,7 @@ story: >
   Romans knew it as Portus Magnus — the Great Port — and the sheltered anchorage
   is what drove the founding of Palma (then Palmeria) as the island's capital in
   the 1st century BCE.
+score: 6.5
 ---
 
 The Bay of Palma is the broad, south-facing bay that S'Arenal sits at the eastern edge of. Looking west from the beach on a clear day, you can see the entire arc of the coastline: the cathedral and old city of Palma in the middle distance, the hills behind it, and the western headlands receding into haze. It is one of the better views on the island's southern coast, available simply by standing on the beach and looking left.

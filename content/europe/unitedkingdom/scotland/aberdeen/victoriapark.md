@@ -6,6 +6,7 @@ tags:
 - sight
 title: Victoria Park
 type: poi
+score: 5.8
 ---
 
 Victoria Park sits on Westburn Road in the west end of Aberdeen, a well-maintained Victorian municipal park with ornamental flower beds, a notable granite fountain at its centre, and accessible paths throughout. The park is quieter than Duthie Park and draws mostly local residents rather than visitors, but it is a pleasant walk from the university area and worth a short detour.

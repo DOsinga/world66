@@ -8,6 +8,7 @@ snippet: Buzzy student square ringed by bars and restaurants
 tags:
 - things_to_do
 - sight
+score: 7.4
 ---
 
 Plaza Perú sits at the edge of the university campus, a small triangular square that is the social heart of student Concepción. The arched colonnades on the north side house bars, cafés, ice-cream parlours and ethnic restaurants, and the central garden fills up with students from late afternoon onwards.

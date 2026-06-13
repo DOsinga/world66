@@ -9,6 +9,7 @@ tags:
 - sight
 title: Plaza Bolívar
 type: poi
+score: 7.0
 ---
 
 Plaza Bolívar is the geographical and ceremonial heart of old Valencia. Laid out in the early colonial period as the *plaza mayor*, it took its present form in the nineteenth century, when the colonial buildings around it were replaced and a bronze equestrian Bolívar — by the sculptor Adamo Tadolini — was set in the centre. The surrounding palms and ornamental ironwork are typical of the period.

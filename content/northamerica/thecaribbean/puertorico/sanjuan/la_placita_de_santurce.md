@@ -8,6 +8,7 @@ tags:
   - bar
   - santurce
 neighbourhood: Santurce
+score: 7.8
 ---
 
 La Placita is the produce and meat market of Santurce by day and the most concentrated late-night drinking scene in San Juan by night. The market hall, built in 1910, anchors a small plaza ringed by bars — El Boricua, La Cubanita, Trastevere, and a dozen others — that spill onto the streets when the produce stalls close at sundown.

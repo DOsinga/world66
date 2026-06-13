@@ -15,6 +15,7 @@ story: >
   with their cargoes fully intact — tanks, aircraft, munitions, personal effects,
   and meals half-eaten in the galley. The lagoon became an accidental time capsule
   of the Pacific War.
+score: 9.7
 ---
 
 Truk Lagoon holds the world's greatest concentration of accessible WWII shipwrecks. More than 40 Japanese vessels were sunk here in February 1944 during Operation Hailstone, and they remain on the seabed almost exactly as they went down — their holds still carrying tanks, aircraft, trucks, torpedoes, and the mundane cargo of a fleet that never knew the attack was coming.

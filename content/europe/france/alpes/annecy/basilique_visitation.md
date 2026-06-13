@@ -8,6 +8,7 @@ tags:
 latitude: 45.8927
 longitude: 6.1224
 snippet: "Hilltop basilica with the tombs of Saint Francis de Sales and Saint Jane de Chantal"
+score: 7.0
 ---
 
 The Basilique de la Visitation crowns the wooded hill of the Crêt du Maure on the southern edge of the city, a twentieth-century building (consecrated 1949) that looks much older — heavy round-arched neo-Romanesque, in the manner of a great Cluniac abbey shrunk to parish scale. Inside lie the relics of Saint Francis de Sales (d. 1622) and Saint Jane de Chantal (d. 1641), the co-founders of the Order of the Visitation.

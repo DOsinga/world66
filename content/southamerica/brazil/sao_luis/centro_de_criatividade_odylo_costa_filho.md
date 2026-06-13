@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.524
 longitude: -44.296
+score: 6.7
 ---
 
 The Centro de Criatividade is a multi-purpose cultural centre occupying a large building near the historic centre, with spaces for visual arts exhibitions, theatre performances, and craft workshops. It's the main hub for contemporary culture in São Luís, hosting exhibitions of local and national artists, film screenings, and occasional music events.

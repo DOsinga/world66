@@ -13,6 +13,7 @@ tags:
 - yalong_bay
 title: Yalong Bay
 type: poi
+score: 8.5
 ---
 
 Yalong Bay is a 7.5-kilometre crescent of fine white sand about 25 kilometres east of central Sanya, and it is the reason most foreign tourists end up in the city. The water is the clearest and most turquoise of any beach in the area, the sand is whiter than at Dadonghai or Sanya Bay, and the entire bay is lined with international resort hotels — Hilton, Marriott, Ritz-Carlton, Sheraton, Mandarin Oriental, St Regis — each with their own private stretch.

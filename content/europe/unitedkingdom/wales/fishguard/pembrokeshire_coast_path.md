@@ -8,6 +8,7 @@ tags:
 latitude: 51.9938
 longitude: -4.9768
 story: "The Pembrokeshire Coast Path was one of the first National Trails designated in Wales, opened in 1970. It follows 299 kilometres of coastline from Amroth in the south to Poppit Sands near Cardigan in the north — a route that accumulates more ascent than climbing Everest twice, because of the constant drops into coves and climbs back up the other side. Most people walk it in sections over several visits."
+score: 8.5
 ---
 
 The Pembrokeshire Coast Path passes directly through Fishguard, and the town makes an excellent base for walking sections of it in either direction. Heading east from Fishguard toward Newport, the path follows dramatic cliffs above Dinas Head and the Needle Rock sea stack — some of the finest coastal scenery in Wales. Heading west toward Strumble Head, the path crosses the heathland of the Pencaer peninsula above Fishguard Bay.

@@ -1,6 +1,7 @@
 ---
 title: Casco Viejo restaurants
 type: poi
+score: 8.0
 ---
 
 The Casco Viejo has Panama City's most interesting restaurant scene and arguably the best concentration of restaurants in Central America. The neighbourhood's restored colonial buildings provide a natural setting for ambitious cooking — high ceilings, internal courtyards, rooftop terraces looking out across the bay — and a generation of Panamanian chefs trained abroad have returned to open places that take local ingredients seriously.

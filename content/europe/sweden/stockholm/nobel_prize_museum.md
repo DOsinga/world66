@@ -7,6 +7,7 @@ tags:
   - gamla_stan
 latitude: 59.3246
 longitude: 18.0714
+score: 7.4
 ---
 
 The Nobel Prize Museum occupies the former Stock Exchange Building on Stortorget, the main square of Gamla Stan. The museum covers the history of the Nobel Prize and profiles its laureates through objects, films, and interactive installations — each year's prizes in physics, chemistry, medicine, literature, peace, and economics get their own presentation.

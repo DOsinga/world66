@@ -7,6 +7,7 @@ tags:
 - sights
 title: Bharat Tea Estate
 type: poi
+score: 7.5
 ---
 
 One of the more accessible tea estates in Cameron Highlands, sitting alongside the main road between Ringlet and Tanah Rata. The rows of low-cut tea bushes cascade down the hillsides in a vivid green carpet that looks best in the morning mist.

@@ -14,6 +14,7 @@ story: >
   the base had to be relocated when the dune advanced across it. Standing on top, you can see the pines
   disappearing into the sand in real time — a reminder that the landscape here has been continuously moving
   for thousands of years.
+score: 9.2
 ---
 
 The Dune du Pilat is the tallest sand dune in Europe, rising over 100 metres above sea level at its highest point and stretching about 2.7km along the coast south of Arcachon. It is a genuinely spectacular natural feature: from the summit you look west to the Atlantic breakers, south over an apparently endless pine forest, and north across the Bassin d'Arcachon to the Banc d'Arguin sandbank.

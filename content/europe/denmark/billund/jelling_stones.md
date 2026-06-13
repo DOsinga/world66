@@ -15,6 +15,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Jelling_stones
   - https://en.wikipedia.org/wiki/Jelling
+score: 9.4
 ---
 
 The Jelling stones are two massive carved granite runestones standing in the churchyard at Jelling, 15km north of Billund. The smaller stone was raised by King Gorm the Old in the early 10th century in honour of his wife Thyra; the larger, more famous stone was erected by their son Harald Bluetooth around 965 AD. Harald's inscription declares that he "made the Danes Christian" — it is the moment of Denmark's conversion recorded in stone, and the closest thing the country has to a founding document. Both stones are UNESCO World Heritage listed.

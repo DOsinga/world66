@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Jesuit-founded radio network with a small cultural centre
+score: 6.8
 ---
 
 The Acción Cultural Loyola (ACLO) was founded by the Jesuits in 1966 as a network of community radio stations serving Quechua and Aymara-speaking communities across southern Bolivia. From its base in Sucre it broadcasts in indigenous languages and runs adult literacy, agricultural training and human rights programmes. The cultural centre attached to the office on Calle Junín hosts occasional concerts, lectures and small exhibitions on indigenous culture.

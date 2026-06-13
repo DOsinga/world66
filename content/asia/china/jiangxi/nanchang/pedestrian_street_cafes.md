@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 28.6760
 longitude: 115.8970
+score: 5.7
 ---
 
 The Pedestrian Street (中山路步行街) in central Donghu has been a commercial spine of the city since the Republican era and has accumulated a dense layer of cafes, milk tea shops, and bars over the renovations of recent decades. International chain cafes (Starbucks, Luckin) coexist with small independent coffee places and an above-average selection of Taiwanese-style milk tea establishments that take their drinks seriously.

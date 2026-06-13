@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 41.1369
 longitude: -8.6163
+score: 6.4
 ---
 
 The Beira-Rio Market occupies a handsome iron-and-glass structure on the Gaia waterfront, a short walk from the Ponte Dom Luís I. Originally built in the early twentieth century and restored in recent years, the market hall is one of the more attractive public buildings on the Gaia side of the river — the kind of structure that is now more valued than when it was built.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.6575
 longitude: -7.9139
+score: 7.4
 ---
 
 Viseu is the commercial and cultural capital of Dão wine country, and the city is the best place to understand and taste wines from one of Portugal's most underrated appellations. Dão reds — made primarily from Touriga Nacional and Tinta Roriz on granite soils at altitude — are firm, earthy, and fragrant, with good natural acidity and real aging potential.

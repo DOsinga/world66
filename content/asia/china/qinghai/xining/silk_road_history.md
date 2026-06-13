@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 36.6303
 longitude: 101.7540
+score: 4.8
 ---
 
 Xining was not on the main northern Silk Road route (which passed through the Hexi Corridor to the north) but sat at the junction of several secondary routes connecting the plateau to the Chinese interior. The Tang-Tibet road — the diplomatic and trade artery linking Chang'an (Xi'an) with Lhasa — passed directly through Xining, and for centuries the city was a major market for the exchange of Chinese silk and manufactured goods for Tibetan horses and wool.

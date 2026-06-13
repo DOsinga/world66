@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "Andean cemetery with painted family tombs and Day of the Dead traditions"
 story: "On 2 November, families gather here for the Day of the Dead with picnics of colada morada — a sweet purple porridge made from black corn, blueberries, and tropical fruits — and t'anta wawas, bread babies. The mazapán craft for which Calderón is famous began as a side use of the same bread dough."
+score: 6.8
 ---
 
 The municipal cemetery at the edge of Calderón is a striking example of indigenous Andean burial tradition. Family tombs are painted in bright primary colours — pinks, blues, yellows — and decorated with photographs, plastic flowers, and small offerings.

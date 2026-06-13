@@ -9,6 +9,7 @@ tags:
 - museum
 title: Madurodam
 type: poi
+score: 7.5
 ---
 
 Madurodam is a 17,000-square-metre miniature park that reproduces the entire Netherlands at 1:25 scale, with the focus on architectural landmarks and infrastructure: Amsterdam canals, Rotterdam port, Schiphol airport, the Delta works, Maastricht, Den Bosch. The detail is obsessive — working trains run on a 4 km miniature rail network, Schiphol's miniature aircraft taxi, and locks on the miniature waterways actually fill and empty.

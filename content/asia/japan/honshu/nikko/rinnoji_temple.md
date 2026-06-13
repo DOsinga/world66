@@ -7,6 +7,7 @@ tags:
 - sight
 title: Rinnō-ji Temple
 type: poi
+score: 8.7
 ---
 
 Rinnō-ji is the main Buddhist temple in Nikkō, founded in 766 CE — nearly a thousand years before the shogunal shrines were built. The Sanbutsudō (Three Buddha Hall) houses three gilt statues over 8 metres tall: Amida Buddha, the Thousand-Armed Kannon, and the Horse-Headed Kannon. The scale of the interior is impressive, and the contrast with the Shinto shrines nearby reveals the syncretic relationship between Buddhism and Shinto that defined Nikkō's religious life for centuries.

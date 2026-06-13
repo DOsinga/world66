@@ -8,6 +8,7 @@ tags:
 latitude: 37.0006
 longitude: -8.9483
 story: "The most dramatic feature inside the fortress isn't the walls or the old church — it's the Rosa dos Ventos, a huge wind rose laid out in stone on the ground, 43 metres in diameter. Debate still runs over whether Henry the Navigator used it or whether it was added later, but it's extraordinary to walk around regardless."
+score: 8.9
 ---
 
 The fortress occupies a dramatic headland on the western tip of the Algarve, where the land drops away in cliffs on three sides. Prince Henry the Navigator allegedly established a school of navigation here in the early 15th century and sent his sailors out to map the African coast. The current walls date largely from reconstruction after the 1755 earthquake.

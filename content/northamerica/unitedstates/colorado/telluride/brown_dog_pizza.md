@@ -6,6 +6,7 @@ tags:
 - restaurant
 latitude: 37.9372
 longitude: -107.8108
+score: 6.1
 ---
 
 The local pizza institution, and the answer to "where does everyone actually eat?" Brown Dog does nothing particularly complicated: good dough, proper toppings, an unpretentious room on Colorado Avenue. It is exactly the kind of place that a resort town needs and that many of them lack.

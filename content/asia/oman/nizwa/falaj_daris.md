@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The falaj system is so central to Omani life that the country has its own legal code governing water rights. Each share of the falaj is measured by the length of time the water flows to your land — typically half-hours by sundial during the day and stars by night."
+score: 7.0
 ---
 
 Falaj Daris is the largest and most famous of Oman's traditional aflaj — gravity-fed underground irrigation channels that have watered the country's date palm oases for over 1,500 years. It is one of five aflaj inscribed by UNESCO as World Heritage in 2006.

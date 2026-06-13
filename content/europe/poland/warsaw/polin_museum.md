@@ -11,6 +11,7 @@ snippet: "World-class museum documenting 1,000 years of Jewish life in Poland, b
 story: "POLIN was built on the site of the former Warsaw Ghetto, where roughly 450,000 Jews were confined before being transported to Treblinka. The building faces the Monument to the Ghetto Heroes, and its name — POLIN — is both the Hebrew word for Poland and a medieval legend about a place where Jews heard a divine voice saying 'here you shall rest.' It won the European Museum of the Year award in 2016."
 sources:
   - https://en.wikipedia.org/wiki/POLIN_Museum_of_the_History_of_Polish_Jews
+score: 9.7
 ---
 
 One of the finest history museums in Europe, POLIN tells the story of a thousand years of Jewish life in Poland — from medieval merchants to the Holocaust. The building is architecturally striking: two interlocking volumes with a symbolic crack of light running through the centre. The permanent exhibition is extraordinarily well-designed, moving through eight distinct historical galleries with immersive environments, original artefacts, and powerful personal testimonies.

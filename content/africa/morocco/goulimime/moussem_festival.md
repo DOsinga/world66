@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.9833
 longitude: -10.0500
+score: 8.8
 ---
 
 The annual moussem of Guelmim, held in June, is one of the most spectacular regional festivals in southern Morocco. A moussem is a traditional gathering combining religious devotion, horse fantasia, music, and trade — this one draws nomadic people from across the Western Sahara and the Draa Valley, and for a few days the town fills with blue-robed figures who are otherwise rarely seen.

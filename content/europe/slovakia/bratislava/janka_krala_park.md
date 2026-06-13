@@ -5,6 +5,7 @@ tags: [things_to_do, sight, petržalka]
 latitude: 48.1304
 longitude: 17.1040
 story: Janko Kráľ Park, laid out on Petržalka island in the 18th century, claims to be the oldest public park in Central Europe — predating the Vienna Prater and other famous urban parks. The island is separated from the main bank by a narrow arm of the Danube and connected by footbridges, giving it a distinct quiet character even in summer.
+score: 6.9
 ---
 
 Janko Kráľ Park is a large urban park on a river island in Petržalka, directly across the Danube from the old town. The park is one of the oldest public parks in Central Europe, established in the 18th century on what was then a flood-prone island. Today it's a popular spot for Bratislava families and a good escape from the compact intensity of the old town.

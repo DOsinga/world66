@@ -16,6 +16,7 @@ story: >
   in 1871, partly while in residence at Babelsberg.
 sources:
   - https://en.wikipedia.org/wiki/Babelsberg_Palace
+score: 7.8
 ---
 
 Schloss Babelsberg is the centrepiece of Babelsberg Park — a turreted Gothic Revival castle rising above the Havel on a wooded hill, designed by Ludwig Persius in 1833 for Prince William of Prussia and significantly expanded over the following decades. The castle is deliberately English in character, with round towers, crenellations, and pointed windows that look more like Windsor than Prussia. The contrast with the neoclassical restraint of Charlottenhof and the Rococo of Sanssouci makes it one of the more distinctive buildings in the Potsdam landscape.

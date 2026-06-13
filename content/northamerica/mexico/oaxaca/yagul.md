@@ -9,6 +9,7 @@ tags:
 latitude: 16.9583
 longitude: -96.4717
 snippet: Zapotec hilltop fortress with panoramic views and ancient ball courts
+score: 7.8
 ---
 
 Yagul is a Zapotec archaeological site about 40 km east of Oaxaca, perched on a rocky ridge above the valley floor. It is smaller than Monte Albán and less visited than Mitla, which makes it more rewarding in some ways — on a weekday morning you may have it almost to yourself. The site has one of the largest ball courts in Mesoamerica, a palace complex with a labyrinthine layout of courtyards and tombs, and a hilltop fortress reached by a short but steep climb that rewards you with panoramic views across the full breadth of the valley.

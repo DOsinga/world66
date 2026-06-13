@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -0.8693
 longitude: 131.2536
+score: 7.6
 ---
 
 The Pelabuhan Sorong is the working heart of the town and the place every Raja Ampat-bound traveller passes through. Pelni passenger ships call here on the long route between Jakarta and Jayapura, and the smaller wooden ferries to Waisai (the entry point for Raja Ampat) leave from the same complex.

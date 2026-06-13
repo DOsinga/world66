@@ -8,6 +8,7 @@ tags:
 neighbourhood: Fondren
 latitude: 32.3408
 longitude: -90.1839
+score: 5.8
 ---
 
 A long-running independent coffee shop on North State Street, in Fondren. Sneaky Beans does proper espresso, a deep tea menu, and weekend brunch with eggs and breakfast burritos. The space has the look of a converted living room — sofas, mismatched chairs, local art on the walls.

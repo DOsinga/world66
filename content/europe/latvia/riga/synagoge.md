@@ -8,6 +8,7 @@ tags:
   - sight
 title: Peitavas Synagogue
 type: poi
+score: 7.2
 ---
 
 The Peitavas Street Synagogue is the only synagogue in Riga to survive the Second World War. Before the war, Riga had one of the largest Jewish communities in the Baltic — around 40,000 people, making up a third of the city's population — and dozens of synagogues. The Nazis burned all but this one in 1941, reportedly sparing it because the surrounding buildings were too close and the fire would have spread.

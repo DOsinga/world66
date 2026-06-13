@@ -8,6 +8,7 @@ tags:
   - restaurant
 latitude: 39.4715
 longitude: 75.9830
+score: 8.1
 ---
 
 The night market that sets up in the lanes around the old town after sunset is one of the great informal food experiences in Xinjiang. Vendors push carts loaded with skewers of lamb, chicken feet, quail eggs, and corn; others set up folding tables beside charcoal grills or enormous woks. The light is dim, the smoke is considerable, and the crowd is a mix of local families, migrant Han workers from elsewhere in China, and travellers who found their way here.

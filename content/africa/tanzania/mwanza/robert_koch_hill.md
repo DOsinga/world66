@@ -13,6 +13,7 @@ story: >
   investigating East African sleeping sickness. The hill, where he set up part of his
   field laboratory, was named for him by the German colonial administration. His house
   no longer stands but a small plaque marks the site.
+score: 7.5
 ---
 
 Robert Koch Hill rises to about 100 metres directly behind the central market and gives the best in-town view over Mwanza's harbour, the dancing rocks, and out across the open lake. The walk up takes 15 to 20 minutes from the city centre — partly road, partly a stone stair cut into the granite — and is best done in the early morning before the heat builds or in the late afternoon.

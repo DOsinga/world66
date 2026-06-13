@@ -17,6 +17,7 @@ story: >
   is the sweet spot, which is why hire spades are rented at the local shop.
 sources:
   - https://en.wikipedia.org/wiki/Hot_Water_Beach
+score: 8.3
 ---
 
 Hot Water Beach is one of New Zealand's most unusual natural attractions: a Pacific beach where geothermal springs push heated water up through the sand at low tide. Dig a hole in the right spot with a spade — you can rent one from the shop near the carpark — and you can soak in your own private hot pool while the sea runs around your feet. The temperature can reach 64°C directly over the vents, so test carefully before sitting down.

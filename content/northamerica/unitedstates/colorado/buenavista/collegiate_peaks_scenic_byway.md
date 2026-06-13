@@ -12,6 +12,7 @@ story: >
   Ivy League in their naming conventions: they awarded peaks above 14,000 feet to the 
   universities they knew best, which is why Colorado has a collegiate cluster that 
   would otherwise make no geographic sense.
+score: 7.8
 ---
 
 The Collegiate Peaks Scenic Byway runs through the Arkansas River Valley between Poncha Springs and Leadville, passing directly through Buena Vista. The route frames a remarkable lineup of fourteeners: Mounts Harvard, Yale, Columbia, Oxford, and Princeton rise along the western edge of the valley, their names reflecting the survey team that mapped them in the 1860s.

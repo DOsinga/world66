@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.0231
 longitude: 4.8396
+score: 7.8
 ---
 
 Ma Cuisine occupies a peculiar niche in Beaune: it is not a grand restaurant, but it has one of the most serious wine lists in the region at markups closer to a wine shop than a restaurant. The food is good Burgundian cooking — terrine, poulet de Bresse, fromage blanc — but people come primarily for the cellar, which includes older vintages of Burgundy that are almost impossible to find on restaurant lists elsewhere at any price.

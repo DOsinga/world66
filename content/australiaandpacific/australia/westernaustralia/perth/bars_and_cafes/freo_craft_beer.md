@@ -7,6 +7,7 @@ tags:
   - craft_beer
 latitude: -32.0553
 longitude: 115.7460
+score: 6.5
 ---
 
 Fremantle has a strong claim to being the craft beer capital of Western Australia, anchored by Little Creatures at the Fishing Boat Harbour but extending well beyond it. The Sail and Anchor on South Terrace was one of Australia's first craft beer pubs when it opened in the 1980s, and it still draws a good crowd with its rotating taps of local and imported beers. The Norfolk Hotel on South Street is another solid choice, with an outdoor garden that is particularly pleasant on warm evenings. Between them, these venues have given Fremantle a beer drinking culture that goes well beyond the standard Australian pub experience.

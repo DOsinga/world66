@@ -7,6 +7,7 @@ tags:
 snippet: "Modernist casino-hotel on the lakefront"
 latitude: 41.31900
 longitude: -72.98300
+score: 4.3
 ---
 
 The Casino Enjoy is the long, dark, modernist building at the eastern end of the lakefront — a casino, hotel, spa, and conference centre rolled into one. It is the only large piece of contemporary architecture in Puerto Varas and divides opinion locally; the lakeside view from its terrace bar is good either way.

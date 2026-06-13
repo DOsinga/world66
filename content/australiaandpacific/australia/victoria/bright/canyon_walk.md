@@ -9,6 +9,7 @@ latitude: -36.7218
 longitude: 146.9645
 story: >
   The gorge along Morses Creek, upstream from the town centre, was the site of anti-Chinese riots in 1859 — one of the most violent episodes of goldfield racism in Victoria. Today the path through the same narrow valley is shaded and peaceful, with no trace of that history in the scenery.
+score: 8.1
 ---
 
 The Canyon Walk follows the Ovens River and Morses Creek through a narrow gorge just upstream from the town centre, winding through stands of manna gum and stringybark beside rushing water. The track is flat, well-maintained, and takes about an hour return at an easy pace — suitable for all ages including small children. It's the best short walk in the area and deservedly popular.

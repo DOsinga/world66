@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - nature
+score: 8.4
 ---
 
 Loktak Lake is the largest freshwater lake in north-east India and one of the most distinctive bodies of water in the country. It covers about 290 square kilometres and is famous for the phumdis — the rafts of vegetation, mud and decomposing plants that drift on its surface in patterns that look from the air like a green honeycomb. Some of the larger phumdis support stilted fishing huts and small communities of people who live and work on them year-round.

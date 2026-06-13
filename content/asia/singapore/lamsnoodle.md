@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: Lam's Noodle
 type: poi
+score: 4.9
 ---
 
 A neighbourhood noodle shop on River Valley Road serving Hong Kong-style wonton noodles, congee, and baked goods. The kind of place that fills up at breakfast and lunch with regulars who have been coming for years. Order the wonton noodle soup and a milk tea.

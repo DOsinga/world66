@@ -13,6 +13,7 @@ story: >
   succession documents — to a simple dislike of the fengshui at the eastern site.
   Whatever the reason, the decision created a second imperial necropolis and an
   alternating burial pattern that lasted for the rest of the dynasty.
+score: 8.3
 ---
 
 The Tailing is the oldest and most elaborately developed tomb in the Western Qing complex, begun in 1730 and completed in 1737 for the Yongzheng Emperor. As the founding mausoleum of the western site, it set the template for the others: a long spirit way with stone animals and officials, a series of ceremonial gates and courtyards, offering halls, and the burial mound behind. The processional spirit way at Tailing is particularly fine, with some of the best stone animal sculpture in the complex.

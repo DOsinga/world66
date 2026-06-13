@@ -7,6 +7,7 @@ tags:
 - things_to_do
 title: Vermilion Lakes
 type: poi
+score: 8.1
 ---
 
 A 4.5 km scenic drive branches off Mount Norquay Road just before the Banff/Norquay overpass and runs along three shallow lakes backed by the Sundance Range. The marshland setting draws a good variety of birds and wildlife — elk, muskrat, and the occasional osprey. At dawn and dusk the lakes mirror Mount Rundle almost perfectly, making this one of the most photographed spots in the park.

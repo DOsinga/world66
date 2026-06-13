@@ -9,6 +9,7 @@ tags:
 latitude: 52.1627
 longitude: 10.5299
 story: "The palace's onion-domed tower was actually added in the 17th century to disguise the building's earlier medieval defensive bulk, which the ruling dukes felt was no longer fitting for their cultural ambitions. Underneath the Baroque facade is still essentially a medieval Wasserburg — a moated castle that protected the entire ducal residence town behind it."
+score: 8.4
 ---
 
 Schloss Wolfenbüttel was the seat of the Dukes of Brunswick-Lüneburg for two centuries. The building you see today is mostly 17th-century Baroque on a medieval core: a long white facade with an onion-domed tower, sitting across a moat from the old town.

@@ -13,6 +13,7 @@ story: >
   been slightly optimistic, but the ambition behind it was not. Black Masons in Boley
   wanted a building that proclaimed permanence and dignity — one that would match or
   exceed anything in surrounding white towns. The building is still standing.
+score: 7.0
 ---
 
 Built in 1912 at the height of Boley's prosperity, the three-story Masonic Lodge is one of the most substantial buildings to survive in the historic district. The lodge was a central institution in the town's social and civic life — Black fraternal organisations like the Masons served as mutual aid societies, social clubs, and community anchors at a time when most mainstream civic institutions were closed to Black Americans.

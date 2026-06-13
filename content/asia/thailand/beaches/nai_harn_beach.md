@@ -8,6 +8,7 @@ tags:
 address: "Nai Harn, Phuket"
 latitude: 7.7768
 longitude: 98.3058
+score: 6.8
 ---
 
 Tucked into a bay at Phuket's southern tip, Nai Harn is one of the island's more relaxed beaches. The bay is sheltered, the water is shallow for a good distance out, and the beach itself is wide enough for football and frisbee -- a rarity on Phuket where many strands are narrow.

@@ -14,6 +14,7 @@ story: >
   between Augsburg and the Brenner Pass. The town's location at a crossing of the Lech made
   it a natural staging point for the Alpine trade, and the Ballenhaus was its commercial
   heart. The painted facade visible today is a restoration of the original decorative scheme.
+score: 7.6
 ---
 
 The Ballenhaus is Schongau's most striking building, standing on the market square (Marktplatz) in the centre of the Altstadt. The name translates roughly as "bale house" — it was built as a trade warehouse in the early 16th century for storing bales of cloth and other goods in transit along the Alpine trade routes. The building has a distinctive stepped gable facade and was later used as a town hall and is now the local museum.

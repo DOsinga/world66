@@ -9,6 +9,7 @@ latitude: 33.1584
 longitude: -96.6153
 story: >
   The sanctuary's land was donated by Bessie Heard in 1967, when she was 80, to keep a piece of the Blackland Prairie from being lost to suburban sprawl spreading north from Dallas. Her instinct was right: the surrounding area went from cattle pasture to subdivisions within twenty years, and the Heard is now an island of native habitat surrounded by master-planned neighbourhoods.
+score: 8.0
 ---
 
 The Heard Natural Science Museum and Wildlife Sanctuary occupies 289 acres of forest, prairie, and wetland south of McKinney. The site combines a small natural-history museum with guided and self-guided nature trails through several distinct habitats — bottomland hardwood, upland prairie, and the floodplain of Wilson Creek.

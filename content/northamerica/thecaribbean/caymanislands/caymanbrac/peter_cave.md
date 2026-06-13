@@ -8,6 +8,7 @@ tags:
   - cave
 latitude: 19.7261
 longitude: -79.7833
+score: 7.1
 ---
 
 Peter's Cave is the easiest of the Brac's caves to reach — a 15-minute climb up a stepped path from Spot Bay to a wide cool opening in the Bluff face, looking out over the north coast. Inside the cave broadens into a series of chambers with stalactites and bat colonies. It was used historically as a hurricane shelter and the locals have used it again, most recently during Paloma in 2008.

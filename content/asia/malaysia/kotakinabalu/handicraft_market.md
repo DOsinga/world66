@@ -6,6 +6,7 @@ longitude: 116.0718
 tags:
   - shopping
   - market
+score: 5.9
 ---
 
 The waterfront Handicraft Market near the main post office is the obvious first stop for souvenirs. Stalls are stacked with batik cloth, pearls from Sabah's island farms, rattan basketry, wooden carvings, beaded jewellery from the Kadazan-Dusun tradition, and the ubiquitous orangutan plush toys. Quality varies considerably — look past the generic items at the back of the stalls for the more interesting handmade pieces.

@@ -9,6 +9,7 @@ tags:
 - pagoda
 title: Bawbawgyi Pagoda
 type: poi
+score: 7.7
 ---
 
 The Bawbawgyi is the most striking single monument at Sri Ksetra and probably the oldest surviving stupa in Myanmar. A tall tapering cylinder of dark red brick, about 46 metres high with no surface decoration, it stands on a square base in open fields at the southern edge of the archaeological zone.

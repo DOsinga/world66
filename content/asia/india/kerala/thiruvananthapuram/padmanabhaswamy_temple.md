@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple
 story: >
   In 2011, a survey of the temple's vaults revealed one of the largest treasures ever discovered in any religious institution — gold, jewellery, statues, and ancient coins estimated to be worth billions of dollars, accumulated over centuries of royal patronage. Vault B remains sealed on court orders, and legend has it that opening it without the correct rituals would bring catastrophe. The Indian Supreme Court is still involved in deciding the temple's governance.
+score: 8.8
 ---
 
 The Padmanabhaswamy Temple is the city's defining monument — a seven-storey Dravidian gopuram (gateway tower) that rises above the old fort district and draws pilgrims from across the subcontinent. The presiding deity is Vishnu in his cosmic sleep form, reclining on the great serpent Ananta across a length of several metres, a posture requiring three separate shrines to encompass. The image is accessible only through three doors, and only at specific times of day.

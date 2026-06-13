@@ -8,6 +8,7 @@ tags:
 - garden
 title: Daniel Boone Native Gardens
 type: poi
+score: 6.5
 ---
 
 A quiet, three-acre garden devoted exclusively to plants native to the southern Appalachians. Paths wind through rhododendron and mountain laurel thickets, a fern glade, a meadow, and a small reflecting pool. Spring brings ephemeral wildflowers — trillium, bloodroot, jack-in-the-pulpit — and in June the rhododendrons explode.

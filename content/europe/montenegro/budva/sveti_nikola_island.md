@@ -9,6 +9,7 @@ tags:
   - swimming
   - nature
 snippet: Uninhabited island off Budva with beaches and hiking, reached by water taxi
+score: 7.3
 ---
 
 Sveti Nikola (also known locally as "Hawaii") is a small uninhabited island about 1 km off the coast of Budva, clearly visible from the old town and from Slovenska obala. Water taxis run from the Budva marina during summer months and take about 15 minutes. The island has several small beaches, including a nudist section, and paths through scrubby Mediterranean woodland from which you can see across to the mainland.

@@ -10,6 +10,7 @@ tags:
 - charlottenburg
 title: Gucci
 type: poi
+score: 4.5
 ---
 
 The Charlottenburg flagship carries the full range of Gucci clothing and accessories. There's a second branch at Friedrichstrasse 71 in Mitte.

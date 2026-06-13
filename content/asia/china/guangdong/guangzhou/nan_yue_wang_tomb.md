@@ -7,6 +7,7 @@ tags:
 - museum
 title: Nan Yue Wang Tomb Museum
 type: poi
+score: 9.1
 ---
 
 The tomb of Zhao Mo, the second king of the Nanyue Kingdom, was discovered in 1983 during construction work on Xianggang Hill, near the northern edge of Yuexiu Park. Dating to around 122 BC, it is the best-preserved Han-dynasty royal tomb found in southern China.

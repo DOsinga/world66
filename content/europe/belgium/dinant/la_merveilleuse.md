@@ -10,6 +10,7 @@ tags:
 - sight
 title: La Merveilleuse
 type: poi
+score: 6.9
 ---
 
 The most impressive of the show caves near Dinant, La Merveilleuse features dramatic underground waterfalls, thousands of fine, needle-like stalactites, and several large flowstone formations. The 45-minute guided tour leads you through a series of chambers along a path beside the underground stream.

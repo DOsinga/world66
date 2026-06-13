@@ -7,6 +7,7 @@ longitude: -83.9194
 story: "Market Square has been the commercial heart of Knoxville since 1854. It was a cattle market, a political rally ground, and briefly a war staging area during the Civil War. Today it hosts the city's most popular farmers' market every Wednesday and Saturday morning."
 sources:
   - https://en.wikipedia.org/wiki/Market_Square,_Knoxville
+score: 7.8
 ---
 
 Market Square is the social centre of downtown Knoxville — a proper public space rather than a pedestrianised shopping precinct. The square is surrounded by two- and three-storey brick buildings that date from the late nineteenth and early twentieth centuries, many of them now housing restaurants, bars, and independent shops.

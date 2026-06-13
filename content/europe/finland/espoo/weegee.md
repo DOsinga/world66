@@ -8,6 +8,7 @@ tags:
 latitude: 60.1751
 longitude: 24.8079
 address: "Ahertajantie 5, 02100 Espoo"
+score: 7.1
 ---
 
 The WeeGee Exhibition Centre occupies a converted industrial building that once housed the Weilin & Göös printing works (hence "WeeGee") in Tapiola. It now brings together several of Espoo's cultural institutions under one roof: EMMA (the Espoo Museum of Modern Art), the Espoo City Museum, and the original Futuro House prototype designed by Matti Suuronen in 1968.

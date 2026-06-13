@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: Boat trips out to the resident pilot whales and bottlenose dolphins
 story: "The waters between Tenerife and La Gomera hold one of Europe's most stable populations of short-finned pilot whales — around 350 animals live here year-round, plus visiting fin whales, sperm whales, and orcas. The area was given EU Whale Heritage Site status in 2021."
+score: 8.0
 ---
 
 Small boats leave the harbour throughout the day on two to three hour trips out into the strait. Sightings of pilot whales and bottlenose dolphins are almost guaranteed; sperm whales, fin whales, and even orcas pass through at certain times of year. Operators range from quiet sailboats to larger catamarans; the smaller ones are better for actually hearing the whales blow.

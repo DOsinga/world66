@@ -6,6 +6,7 @@ tags:
   - wildlife
 latitude: 12.30
 longitude: 2.48
+score: 8.2
 ---
 
 More than 350 bird species have been recorded in W National Park, making it one of the richest birdwatching sites in West Africa. The mix of habitats — gallery forest, open savanna, laterite plateaus, and river margins — supports an extraordinary range.

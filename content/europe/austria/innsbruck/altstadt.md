@@ -7,6 +7,7 @@ tags:
 latitude: 47.2685
 longitude: 11.3933
 snippet: The compact medieval and Renaissance heart of Innsbruck
+score: 8.8
 ---
 
 The Altstadt is the historical nucleus of Innsbruck — a small area of medieval lanes and arcaded streets that can be crossed in ten minutes but takes much longer to absorb properly. The Herzog-Friedrich-Strasse is the main spine, running from the Golden Roof south past the Stadtturm and the Helblinghaus, a Baroque facade of extravagant stucco work applied to a Gothic building. Everything of historical significance in Innsbruck is either in or immediately adjacent to this quarter.

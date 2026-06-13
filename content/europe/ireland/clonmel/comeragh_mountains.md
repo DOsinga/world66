@@ -11,6 +11,7 @@ story: >
   each containing a dark lake. Coumshingaun, on the western face, is considered
   one of the finest glacial corrie lakes in Ireland: a near-perfect horseshoe of
   cliff dropping 300 metres to a black lake with no visible outlet.
+score: 8.8
 ---
 
 The Comeragh Mountains rise immediately south of Clonmel, forming the most distinctive part of the view from the town and offering some of the finest walking in Munster. The range is a sandstone plateau with dramatic glaciated edges — steep corries on the northern and western faces, gentler heather moorland on top. The highest point, Fauscoum, reaches 792 metres.

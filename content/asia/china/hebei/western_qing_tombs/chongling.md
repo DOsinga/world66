@@ -13,6 +13,7 @@ story: >
   Cixi, who is the most likely suspect. His tomb was completed in 1915 by the
   early Republic, using funds scraped together after the dynasty it was meant to
   glorify had already ceased to exist.
+score: 7.6
 ---
 
 The Chongling is the tomb of the Guangxu Emperor, whose death in 1908 — almost certainly by deliberate poisoning — preceded that of Empress Dowager Cixi by a single day. The emperor had spent a decade under house arrest at the Summer Palace following the failed Hundred Days' Reform movement of 1898, during which he had attempted to modernise the Qing state and was outmanoeuvred by Cixi. His tomb was only completed in 1915, seven years after his death, using funds provided by the early Republic of China — a government that had formed specifically in opposition to everything the tomb was meant to represent.

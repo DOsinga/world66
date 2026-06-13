@@ -12,6 +12,7 @@ tags:
 title: Fujiyama
 type: poi
 url: www.newfujiyama.com
+score: 6.2
 ---
 
 A Japanese noodle bar in Brixton, unpretentious and good value. Ramen, donburi, bento boxes, pan-fried noodles, and curry rice; a main course for around £6–8 will fill most appetites. The place is small and popular with locals, which is a decent recommendation.

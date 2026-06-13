@@ -8,6 +8,7 @@ latitude: 12.4700
 longitude: 107.2200
 story: >
   The Bunong (also called Mnong or Phnong) are an Austroasiatic-speaking highland people whose territory spans the Cambodia–Vietnam border. Their traditional relationship with elephants dates back centuries — Bunong mahouts trained and rode elephants for hunting, warfare, and forest work long before tourism arrived. The animist ceremonies that mark the Bunong calendar, including rituals to maintain the elephant's spiritual bond with its mahout, still take place in villages near Sen Monorom, and some community trek operators include a ceremony observation as part of the programme.
+score: 4.3
 ---
 
 Treks to Bunong communities around Sen Monorom offer a genuinely different cultural experience from lowland Cambodia. The Bunong maintain distinct traditions including weaving, animist spiritual practices, and the mahout culture around elephants, all within a highland landscape of pine forest, bamboo, and red earth roads that looks nothing like the Tonle Sap basin.

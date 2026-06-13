@@ -4,6 +4,7 @@ type: poi
 tags: [beaches, sight]
 latitude: 37.0528
 longitude: 25.3444
+score: 8.8
 ---
 
 Plaka is the beach you stay on Naxos for. It stretches for roughly five kilometres along the island's western flank — longer than any other beach in the Cyclades — with almost no development for most of its length. The sand is fine and clean, backed by low dunes and stands of tamarisk and cedar that provide natural shade without the help of any infrastructure. The sea is the right colour and depth. On weekdays outside August, you can walk a kilometre from the nearest taverna and have a stretch of beach essentially to yourself.

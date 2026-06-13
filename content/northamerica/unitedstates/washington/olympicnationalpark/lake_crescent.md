@@ -7,6 +7,7 @@ tags:
   - lake
 title: Lake Crescent
 type: poi
+score: 8.6
 ---
 
 Lake Crescent is a long, deep glacial lake west of Port Angeles, famous for its clear blue water and steep forested slopes. It is one of the easiest Olympic stops to enjoy without a major hike.

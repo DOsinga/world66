@@ -6,6 +6,7 @@ type: poi
 snippet: "Day trip combining the Botanical Garden, Zoo, and Arthur Avenue"
 latitude: 40.8623
 longitude: -73.8764
+score: 2.8
 ---
 
 For a day trip that doesn't require leaving the city, head up to the Bronx. From Grand Central Terminal, take the Metro North Harlem line to the Botanical Garden stop -- it's only a twenty-minute ride. Buy your ticket before boarding to avoid the surcharge.

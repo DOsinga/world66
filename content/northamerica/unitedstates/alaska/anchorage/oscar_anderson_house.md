@@ -9,6 +9,7 @@ tags:
   - museum
   - architecture
 snippet: The first wood-frame house in Anchorage, now a tiny museum
+score: 6.2
 ---
 
 The first permanent wood-frame house in Anchorage, built in 1915 by a Swedish butcher who arrived during the railroad construction. The Andersons lived here for sixty years; the house was given to the city in 1976 and is now preserved exactly as they left it — original furniture, family photographs, the kitchen stove still in place. It is the only house museum in the city.

@@ -1,6 +1,7 @@
 ---
 title: "Auki Market"
 type: poi
+score: 7.5
 ---
 
 The market in Auki is the commercial and social heart of the provincial capital, and the best single place to take the pulse of Malaitan daily life. Vendors set out fresh fish from the night's catch, piles of root vegetables and greens, betel nut wrapped in pepper leaves, and strings of shell money for sale alongside plastic goods and trade store imports. The fish market section is particularly lively in the early morning, when outrigger canoes arrive from nearby villages.

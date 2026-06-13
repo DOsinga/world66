@@ -15,6 +15,7 @@ story: >
   and had 16 gates, each named and each associated with a specific trade or clan. The
   walls were built and maintained by a system of obligatory communal labour —
   every household in the Old City contributed days of work each year.
+score: 8.9
 ---
 
 The mud-brick walls that ring Kano's Old City are among the most complete examples of pre-colonial African urban fortification still standing. Though much of the original 15th-century structure has crumbled or been built over, substantial sections remain — the most accessible is near the Kofar Mata Gate, where you can walk alongside walls several metres thick and several stories high, their surface baked to a deep terracotta by generations of Sahel sun.

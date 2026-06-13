@@ -9,6 +9,7 @@ tags:
   - restaurant
 title: Kalú
 type: poi
+score: 6.5
 ---
 
 Kalú occupies a converted house in Barrio Escalante and serves some of the most interesting food in San José — contemporary Costa Rican cooking that takes local ingredients seriously. The menu changes with the season. Expect things like hearts of palm prepared in ways you wouldn't have thought of, or fish from the Pacific coast with tropical fruit salsas.

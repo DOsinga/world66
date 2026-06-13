@@ -7,6 +7,7 @@ tags:
 - sight
 title: Plaza de Toros Monumental
 type: poi
+score: 6.6
 ---
 
 The Plaza de Toros Monumental de Valencia is the largest bullring in Venezuela and one of the largest in Latin America, with capacity for more than twenty-five thousand spectators. The arena was inaugurated in 1968 and is built in a stripped, modernist version of Spanish *plaza de toros* architecture — a circular drum of pale concrete with a series of arched entrances and concrete bullhorns above the gates.

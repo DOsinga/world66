@@ -19,6 +19,7 @@ tags:
 - camps_bay_neighbourhood
 title: Lion's Head
 type: poi
+score: 9.1
 ---
 
 Lion's Head is the sharply pointed peak between Table Mountain and Signal Hill, rising 669 metres above the city. A well-marked spiral path winds around the mountain to the summit, with a section of chain-assisted scrambling near the top. Allow about two and a half hours up and back.

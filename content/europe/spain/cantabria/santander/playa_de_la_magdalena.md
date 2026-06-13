@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.4692
 longitude: -3.7750
+score: 6.9
 ---
 
 Playa de la Magdalena sits at the base of the Magdalena Peninsula, sheltered from the open Atlantic by the headland above it. It is the calmer, smaller counterpart to El Sardinero — protected enough that the waves rarely build to any size, making it a good choice for families and less confident swimmers. The water is clear, the sand is fine, and the view from the beach up toward the palace and the pine woods of the peninsula is one of the most attractive settings of any city beach in northern Spain.

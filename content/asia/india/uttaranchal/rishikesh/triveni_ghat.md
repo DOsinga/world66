@@ -6,6 +6,7 @@ tags:
   - sight
 title: Triveni Ghat
 type: poi
+score: 7.4
 ---
 
 Triveni Ghat is the main bathing ghat in Rishikesh proper (Lower Rishikesh), where pilgrims come to take ritual baths in the Ganges at the point where three rivers are said to meet — the Ganges, Yamuna, and the mythological underground Saraswati. In practice it is the most accessible ghat to the railway station and bus stands, and the most visited during the early morning bathing hours.

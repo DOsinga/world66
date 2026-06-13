@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 27.6700
 longitude: 113.9600
+score: 7.6
 ---
 
 Luxi Ancient Town (芦溪古镇), about 30 kilometers east of central Pingxiang, preserves a stretch of Ming and Qing dynasty commercial architecture along the Luxi River. The town was historically a trading post on the route between Jiangxi and Hunan, and the surviving shophouses and guild halls reflect the prosperity of that cross-provincial commerce. The riverside setting — old stone bridges, willow trees, and the reflections of whitewashed walls in the water — is more naturally scenic than the more famous Huizhou villages to the northeast.

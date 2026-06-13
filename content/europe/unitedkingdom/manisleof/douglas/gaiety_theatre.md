@@ -9,6 +9,7 @@ latitude: 54.155
 longitude: -4.478
 sources:
   - https://en.wikipedia.org/wiki/Gaiety_Theatre,_Isle_of_Man
+score: 8.0
 ---
 
 The Gaiety Theatre is a Victorian theatre on the Douglas promenade designed by the architect Frank Matcham, who was responsible for some of the finest theatres in Britain including the Coliseum in London. Opened in 1900 and restored to its original splendour in the 1990s, it is considered one of the best surviving examples of Matcham's work, with its elaborate plasterwork, ornate boxes and swooping balconies largely intact.

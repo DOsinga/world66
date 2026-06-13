@@ -7,6 +7,7 @@ tags:
 latitude: -8.5000
 longitude: 115.2650
 snippet: Cycling tours through the craft villages and rice paddies surrounding Ubud
+score: 7.5
 ---
 
 The villages surrounding Ubud — Mas, Celuk, Batubulan, Batuan, Peliatan, Penestanan — have been craft centres for generations, each specialising in something different: woodcarving in Mas, silverwork in Celuk, stone carving in Batubulan, painting in Batuan. The roads between them run through rice fields and past small temples and village ceremonies, and the whole area is ideal for cycling at a pace that allows you to stop and look.

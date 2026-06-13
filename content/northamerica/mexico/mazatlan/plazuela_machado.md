@@ -10,6 +10,7 @@ tags:
 neighbourhood: Centro Historico
 snippet: "The animated old-town square at the heart of Mazatlan's evenings"
 story: "Juan Nepomuceno Machado, a Filipino merchant who came to Mazatlan in the 19th century via the Manila galleon trade, donated the land for the square in 1837. The plaza he gave the city outlasted his fortune by nearly two hundred years."
+score: 8.4
 ---
 
 The Plazuela Machado is the centre of the old town and the place to start an evening in Mazatlan. The square is small, wrapped by arcaded buildings painted ochre, pink, and pale blue, and shaded by enormous laurel trees. The cafes and bars set tables under the arcades and out into the square itself; on Friday and Saturday nights, mariachi bands and trios cycle from table to table.

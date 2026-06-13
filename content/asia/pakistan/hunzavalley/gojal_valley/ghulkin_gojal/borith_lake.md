@@ -6,6 +6,7 @@ longitude: 74.8600
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 Borith Lake is a saline lake sitting at around 2,500 metres elevation, approximately two kilometres north of Ghulkin village. The lake occupies a shallow depression dammed by glacial moraine, and its milky turquoise colour comes from glacial rock flour suspended in the water. It is one of the better bird-watching spots in upper Hunza, particularly between March and June when migratory wildfowl — ducks, geese, and waders — stop here on passage from the Indus plains.

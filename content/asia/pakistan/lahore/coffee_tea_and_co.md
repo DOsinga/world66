@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 - cafe
 - gulberg
+score: 5.3
 ---
 
 A long-running cafe at Hussain Chowk in Gulberg, best known for its sandwiches and home-style coffee. The clientele is a mix of office workers stopping for lunch and a younger crowd settling in with laptops in the late afternoon. The food is unfussy and reliable; the wifi is reasonable.

@@ -7,6 +7,7 @@ tags:
   - hiking
 latitude: 68.2483
 longitude: 14.6012
+score: 8.9
 ---
 
 The mountain rising directly above Svolvær, Fløya offers the best panoramic view of the town, the surrounding islands, and — on a clear day — the full sweep of the Lofoten Wall to the southwest. The summit stands at 610 metres and is reachable in 1.5 to 2 hours from the town centre on a marked trail that starts near the top of Blåbærlia street.

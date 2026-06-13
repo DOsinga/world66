@@ -9,6 +9,7 @@ latitude: 38.8913
 longitude: -77.0321
 story: >
   The museum's building, designed by David Adjaye, is clad in a bronze-coloured latticed exterior based on the ironwork of enslaved craftsmen in the American South — a deliberate reference to the history the museum documents. The corona shape of the exterior is derived from a Yoruba crown. It is one of the most architecturally significant buildings constructed in Washington in the 21st century.
+score: 8.9
 ---
 
 The National Museum of African American History and Culture, opened in 2016, is the newest Smithsonian museum on the Mall and one of the most significant. It documents African American history from the era of slavery through the Civil Rights Movement to the present, and does so with emotional directness and historical depth that are unusual in a national museum.

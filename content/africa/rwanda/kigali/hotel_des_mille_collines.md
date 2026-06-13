@@ -11,6 +11,7 @@ story: >
   over 1,200 Tutsi and moderate Hutu refugees inside the building, using
   his connections and the hotel's international guests as a buffer against
   the militias outside. The story was told in the 2004 film Hotel Rwanda.
+score: 6.6
 ---
 
 The Mille Collines — Hotel of the Thousand Hills — is a working four-star hotel in the heart of Kiyovu, and visiting it is one of Kigali's stranger experiences. The poolside terrace where refugees hid in 1994 is now a perfectly pleasant place to have a coffee and watch the city from the hillside. The hotel has become both a pilgrimage site and a functioning luxury property, which creates an odd tension that is itself worth thinking about.

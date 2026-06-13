@@ -14,6 +14,7 @@ story: >
   the resulting Gothic Queen Anne mansion, with its turrets, wraparound porch,
   and deeply carved woodwork, is widely considered the finest Victorian house in
   the state.
+score: 6.7
 ---
 
 The Empress of Little Rock is a stunning 1888 Gothic Queen Anne mansion in the Quapaw Quarter, now operating as a bed and breakfast. The house was built for saloon-owner James Hornibrook in a competitive act of one-upmanship and is widely cited as the finest example of Gothic Queen Anne architecture in the United States.

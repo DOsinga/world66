@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Vast historic beer hall in a 15th-century arsenal, serving the unmissable Zürcher Geschnetzeltes"
+score: 6.3
 ---
 
 The Zeughauskeller occupies the converted 15th-century city armoury beside Paradeplatz — a single soaring stone-vaulted hall hung with halberds, cannons and pikes from the old arsenal, with long wooden tables that fill quickly at lunchtime and dinner. It is touristy, busy, and unapologetic, and it is also one of the few places in Zurich where the classic Swiss-German dishes are still done properly and at scale.

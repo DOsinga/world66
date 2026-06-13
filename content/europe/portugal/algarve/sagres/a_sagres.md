@@ -7,6 +7,7 @@ tags:
 latitude: 37.0089
 longitude: -8.9407
 story: "The grilled fish here is cooked over charcoal and served with nothing more complicated than potatoes, salad, and good olive oil. That's all it needs. Order the catch of the day, whatever it is."
+score: 5.8
 ---
 
 A reliable fish restaurant in Sagres village, popular with Portuguese visitors and local surf crowd alike. The menu is short and largely determined by what the boats brought in that day. Grilled sea bass, bream, and local squid are the constants. The portions are generous and the prices are reasonable for the Algarve.

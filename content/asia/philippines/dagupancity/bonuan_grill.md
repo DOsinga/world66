@@ -8,6 +8,7 @@ tags:
   - seafood
 latitude: 16.0723
 longitude: 120.3431
+score: 5.3
 ---
 
 A casual seafood grill near Tondaligan Beach, with the standard line-up of grilled fish, prawns, and squid done well, plus *sisig*, *crispy pata*, and a serviceable kare-kare. Plastic chairs, paper tablecloths, San Miguel by the bucket.

@@ -8,6 +8,7 @@ snippet: Three-century-old clay-modelling quarter on the northern edge of town
 latitude: 23.4286
 longitude: 88.5063
 story: "The Patra families of Ghurni have made the same kind of clay figures for at least three hundred years — gods, historical characters, fishermen, sweet-sellers, women at their cooking stoves — and their work has won prizes at world fairs in Paris and London since the nineteenth century."
+score: 8.5
 ---
 
 Ghurni is the clay-modelling quarter of Krishnanagar, a small neighbourhood on the bank of the Jalangi where dozens of workshops produce some of the finest folk sculpture in India. The figures are made from local riverbank clay, fired, and painted in extraordinary detail: gods, courtiers, market scenes, miniature portraits of contemporary politicians and film stars.

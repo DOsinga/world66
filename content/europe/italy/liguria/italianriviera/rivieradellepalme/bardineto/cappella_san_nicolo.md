@@ -12,6 +12,7 @@ snippet: "Eleventh-century hilltop chapel with rare fifteenth-century frescoes"
 story: "The frescoes inside San Nicolò survived centuries of neglect partly because the chapel's remote hilltop position kept it out of the way of successive waves of restoration and repainting that transformed so many Ligurian churches in the baroque period."
 sources:
   - https://en.wikipedia.org/wiki/Bardineto
+score: 7.5
 ---
 
 The oldest structure in Bardineto, the Cappella di San Nicolò stands on the hill of the same name just above the village and dates from the eleventh century. It is a simple Romanesque structure in local stone, austere from the outside but remarkable within. The interior preserves a series of fifteenth-century frescoes depicting saints and biblical scenes in the late Gothic style typical of inland Liguria during that period.

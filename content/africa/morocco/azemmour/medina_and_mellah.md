@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 33.2878
 longitude: -8.3434
+score: 8.4
 ---
 
 Azemmour's medina is one of the least-visited in Morocco and one of the most atmospheric. The streets are narrow, the houses are whitewashed, and the pace is genuinely unhurried — not because tourism has not yet arrived, but because the town has never really tried to attract it. The medina comprises three distinct quarters: the main old town, the kasbah, and the former mellah (Jewish quarter).

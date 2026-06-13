@@ -7,6 +7,7 @@ phone: "(520) 877-6000"
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 Tucson Mountain Park is the 20,000-acre county park that lies between the city and Saguaro National Park West, with hundreds of miles of hiking, mountain biking and equestrian trails through some of the densest saguaro forest in the state.

@@ -14,6 +14,7 @@ story: >
   in spring it is bordered by wildflowers.
 sources:
   - https://en.wikipedia.org/wiki/Val_d%27Orcia
+score: 8.9
 ---
 
 San Quirico sits at the heart of the Val d'Orcia, the UNESCO World Heritage landscape of rolling hills, wheat fields, and cypress trees that represents Tuscany's most iconic scenery. The countryside around the town can be explored by car or bicycle on the white gravel roads (strade bianche) that wind through the farmland.

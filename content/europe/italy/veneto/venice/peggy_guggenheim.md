@@ -15,6 +15,7 @@ tags:
 title: Peggy Guggenheim Collection
 type: poi
 url: www.guggenheim-venice.it
+score: 8.6
 ---
 
 Venice's premier modern art museum, housed in Peggy Guggenheim's former home — a low, unfinished palazzo right on the Grand Canal. The collection is personal and exceptional: Pollock, Picasso, Dalí, Calder, Duchamp, Ernst (her second husband), and Brancusi in a garden on the water. One of the most pleasurable museums to visit in Italy — compact, well-lit, and intelligently arranged.

@@ -14,6 +14,7 @@ story: >
   and poor to attract the kind of investment that usually triggers
   architectural change. The remoteness that was an obstacle for centuries
   is now the main attraction.
+score: 9.2
 ---
 
 Ushguli is a cluster of four villages at the head of the Enguri valley, at an altitude of about 2,100 metres — often cited as the highest continuously inhabited settlement in Europe. The villages are surrounded by Caucasus peaks on three sides, with the Shkhara glacier clearly visible above. The village architecture is essentially medieval: stone towers up to 25 metres tall, stone houses with few windows, narrow alleys, and the general impression that significant change last occurred in the 13th century.

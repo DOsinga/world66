@@ -13,6 +13,7 @@ story: >
   salt-trading communities that settled around this bend in the Hai River, and the city
   grew up around the temple rather than the other way around. Mazu, the sea goddess, was
   the patron of sailors, fishermen, and merchants crossing the treacherous seas.
+score: 7.9
 ---
 
 The Tianhou Temple, dedicated to Mazu (the sea goddess), is the oldest building in central Tianjin, predating the city itself by almost a century. The compound includes the main hall, side pavilions, and a small museum of folk art and nautical history. Restoration work in the 1980s was done carefully and the temple feels genuinely old despite sitting at the heart of the busy Ancient Culture Street pedestrian zone.

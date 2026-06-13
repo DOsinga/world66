@@ -15,6 +15,7 @@ story: >
   the town, and the colonial buildings were seen as useful. The result is one of
   Cambodia's most intact collections of French colonial architecture — faded, a little
   crumbling in places, but genuinely old rather than reconstructed.
+score: 7.7
 ---
 
 The old town centre of Kampot is a loose grid of French colonial streets running back from the waterfront. The architecture is modest — two- and three-storey shophouses with iron balconies and arcaded ground floors, built mostly in the 1910s and 1920s — but the scale is human and the streets are walkable. Guesthouses, cafes, and small restaurants have taken over many of the former shops.

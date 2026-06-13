@@ -8,6 +8,7 @@ tags:
 - beach
 title: Lido di San Giovanni
 type: poi
+score: 6.1
 ---
 
 Alghero's main town beach runs north for several kilometres from the harbour, with the closest stretch — Lido di San Giovanni — just a fifteen-minute walk along the seafront from the old town. The sand is fine, the water clear, and the sea bottom shelves gently which makes it good for families and beginner swimmers. Free public beach access alternates with lidos that rent loungers and umbrellas.

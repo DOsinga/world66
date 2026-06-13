@@ -8,6 +8,7 @@ tags:
 - monument
 - landmark
 snippet: "Stepped pyramid memorial above the riverbank with a knight at the top"
+score: 7.5
 ---
 
 The Monument à la Victoire, inaugurated in 1929, is the chief memorial of the city itself — distinct from the battlefield monuments outside town. A long flight of 73 stone steps rises from the Rue Mazel to a small pyramid topped by a granite knight, sword resting point-down between his feet, looking out over the Meuse.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, history]
 latitude: 39.058055555555555
 longitude: -95.68222222222222
 story: Sumner Elementary was the all-white school that Linda Brown's father attempted to enrol her in in 1951, triggering the chain of events that led to Brown v. Board of Education. The school is named after Charles Sumner, a Massachusetts senator who was beaten unconscious on the Senate floor in 1856 by a pro-slavery congressman — a piece of historical irony that was apparently invisible to those who later enforced segregation in a school bearing his name.
+score: 6.4
 ---
 
 Sumner Elementary School, at 330 SW Western, is the counterpart to the Monroe Elementary School (now the Brown v. Board National Historic Site) in the story of the Topeka desegregation case. While Monroe was the Black school that Linda Brown attended, Sumner was the white school five blocks from her home that she was prevented from attending. Oliver Brown, her father, attempted to enrol Linda at Sumner and was turned away — an act that he and the NAACP used as the basis for the lawsuit.

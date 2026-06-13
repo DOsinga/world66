@@ -8,6 +8,7 @@ latitude: 33.6911
 longitude: -117.8894
 story: >
   South Coast Plaza was built in 1967 on a lima bean field by Henry Segerstrom, a local bean farmer who gambled that Orange County was about to become wealthy enough to support luxury retail. He was right. The mall now generates more sales per square foot than any other shopping centre in the United States.
+score: 6.3
 ---
 
 South Coast Plaza is the largest shopping mall in California — an enormous complex on Bristol Street with over 250 stores, anchored by every significant luxury brand: Cartier, Louis Vuitton, Chanel, Hermès, Gucci. For anyone interested in high-end retail, this is one of the great concentrations of it in North America.

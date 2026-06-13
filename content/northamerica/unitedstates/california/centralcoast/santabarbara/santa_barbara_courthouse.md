@@ -9,6 +9,7 @@ tags:
 title: Santa Barbara County Courthouse
 type: poi
 story: "The Mural Room on the second floor is covered floor to ceiling with painted canvases by Daniel Sayre Groesbeck depicting Santa Barbara's history — from the Chumash, through the Spanish missions, to American statehood. The court can still call session in the room; visitors squeeze around the gallery while a judge presides."
+score: 9.3
 ---
 
 Built in 1929 in Spanish-Moorish Revival style after the 1925 earthquake levelled the old courthouse, this is widely considered the most beautiful working courthouse in the United States. The white walls, red-tile roofs, painted ceilings, and the green sunken garden where outdoor weddings take place make it as much a destination as a public building.

@@ -15,6 +15,7 @@ story: >
   him a martyr to the abolitionist movement and electrified the debate over slavery.
 sources:
   - https://en.wikipedia.org/wiki/John_Brown%27s_Fort
+score: 8.1
 ---
 
 John Brown's Fort is the small brick fire engine house where abolitionist John Brown and his raiders made their final stand during the October 1859 raid on the federal armory. It is the most tangible surviving relic of one of the most consequential events in the lead-up to the Civil War.

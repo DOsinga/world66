@@ -8,6 +8,7 @@ snippet: A fine 12th-century Gothic cathedral that survived the 1944 bombing of 
 latitude: 49.1464
 longitude: 0.2285
 story: "When Allied bombers attacked Lisieux in June 1944 to cut German supply lines, over 80 percent of the town was destroyed. The cathedral survived largely intact, partly because its location in the old town centre placed it slightly away from the railway and industrial targets. It was one of the few medieval buildings left standing in the ruins."
+score: 7.9
 ---
 
 The Cathédrale Saint-Pierre is the older and architecturally more interesting of Lisieux's two major religious buildings. Construction began in the 12th century and continued through the 13th, with a Romanesque apse and Gothic nave — a combination that reflects the transition between the two styles that was happening in Normandy at exactly that period.

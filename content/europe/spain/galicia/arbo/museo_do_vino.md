@@ -8,6 +8,7 @@ snippet: Small museum tracing the Condado de Tea winemaking tradition
 tags:
 - things_to_do
 - museum
+score: 5.5
 ---
 
 This small museum in Arbo traces the winemaking traditions of the Condado de Tea sub-zone, part of the Rías Baixas denomination of origin. Displays cover the local grape varieties -- primarily Treixadura and Albariño -- along with traditional production tools and the cultural role wine has played in the Miño river valley for centuries.

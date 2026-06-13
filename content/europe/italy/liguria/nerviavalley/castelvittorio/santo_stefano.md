@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.9335
 longitude: 7.6336
+score: 6.2
 ---
 
 The parish church of Santo Stefano stands at the northern end of the village, a plain stone building with a square bell tower that doubles as a landmark visible from the valley road. The current structure is mainly seventeenth century, raised on the footprint of an earlier medieval church.

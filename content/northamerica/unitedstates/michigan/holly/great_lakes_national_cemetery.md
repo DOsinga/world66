@@ -7,6 +7,7 @@ tags:
 - sight
 title: Great Lakes National Cemetery
 type: poi
+score: 5.9
 ---
 
 Established in 2005 on a former state-forest site north of Holly, Great Lakes National Cemetery is one of the largest VA-administered cemeteries in the country, with a capacity for nearly 250,000 interments. The rolling 544 acres are quietly landscaped, with stone walls, simple monuments, and the long rows of identical white markers that mark a national cemetery anywhere in the United States.

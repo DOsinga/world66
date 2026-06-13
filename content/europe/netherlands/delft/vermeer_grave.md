@@ -12,6 +12,7 @@ story: >
   unknown until a memorial stone was placed in the floor in 2007. He produced
   fewer than 36 known paintings in his lifetime — each one now worth tens of
   millions.
+score: 7.1
 ---
 
 A simple stone marker in the floor of the Oude Kerk (Old Church) in Delft, marking the burial place of Johannes Vermeer. The modesty of the memorial is striking given that Vermeer is now one of the most famous painters in the world — Girl with a Pearl Earring, The Milkmaid, View of Delft — but he died in obscurity and poverty, and was largely forgotten for two centuries after his death.

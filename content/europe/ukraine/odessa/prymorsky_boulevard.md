@@ -7,6 +7,7 @@ tags:
 - sight
 title: Prymorsky Boulevard
 type: poi
+score: 9.0
 ---
 
 Prymorsky Boulevard is one of the finest urban promenades in Eastern Europe: a broad avenue shaded by acacia trees, running along the clifftop above the port, lined on one side with the Italianate palaces of 19th-century merchants and officials. At the western end stands the Vorontsov Palace colonnade; at the eastern end, the Potemkin Stairs descend to the sea. In between, a succession of statues, benches, and views of the Black Sea make this the place Odessans come to walk in the evenings.

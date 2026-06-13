@@ -18,6 +18,7 @@ story: >
   let it fall intact to the Spanish during the siege of Haarlem.
 sources:
   - https://en.wikipedia.org/wiki/Brederode_Castle
+score: 7.8
 ---
 
 Brederode Castle, about 5 kilometres south of IJmuiden near Santpoort-Zuid, is the ruined remains of a medieval fortification founded in the second half of the 13th century. William I van Brederode began construction around 1282; subsequent lords expanded the complex through the 14th and 15th centuries. The castle played a role in the Hook and Cod wars that divided the Dutch nobility in the 14th century, and was besieged and surrendered in 1351 before being rebuilt.

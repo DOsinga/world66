@@ -8,6 +8,7 @@ latitude: 49.3730
 longitude: -122.5010
 story: >
   The twin peaks of Golden Ears — the summits of Mount Blanshard — get their name from the way they glow amber in early morning and late afternoon light. Blanshard itself was named after Richard Blanshard, the first governor of the Colony of Vancouver Island, who never actually visited this part of the province.
+score: 8.8
 ---
 
 The signature hike in the park climbs to the ridge below the two summits that give Golden Ears its name. The return trip is 24 kilometres with around 1,500 metres of elevation gain — a full day out that requires solid fitness and appropriate gear. The trail starts at the West Canyon trailhead, follows West Canyon Trail through deep forest, then ascends the open ridge to the twin peaks.

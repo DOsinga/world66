@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 The Puerta de Alarcos (or *Puerta de la Villa*) is the surviving medieval gateway from Tarancón's old town wall, a stone arch tucked between the houses on the western edge of the old centre. The wall itself has long since been absorbed into later buildings, but the gate has been restored as a small historical monument and stands as the only visible reminder of the town's defensive past.

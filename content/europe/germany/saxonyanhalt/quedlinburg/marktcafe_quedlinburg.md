@@ -7,6 +7,7 @@ tags:
 latitude: 51.7906
 longitude: 11.1478
 snippet: Coffee and Harz honey cake on the market square
+score: 5.3
 ---
 
 The cafe on the Marktplatz is the obvious stop for mid-morning coffee and cake after a walk through the old town. Quedlinburg honey has been locally famous for centuries — the Harz foothills have a long beekeeping tradition — and it shows up in the baked goods here in a way that distinguishes them from generic German cafe fare.

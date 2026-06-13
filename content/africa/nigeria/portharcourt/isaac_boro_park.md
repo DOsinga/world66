@@ -17,6 +17,7 @@ story: >
   to death, though he was later pardoned and died fighting for Nigeria in the
   Biafra War. The park's name keeps his memory alive in the city he sought to
   liberate.
+score: 6.4
 ---
 
 Isaac Boro Park is one of Port Harcourt's most pleasant public spaces, a well-maintained green area in the Old GRA neighbourhood that provides shade and breathing room from the surrounding streets. The park is named after the Ijaw activist and soldier Isaac Adaka Boro, a significant figure in the history of Niger Delta resistance politics.

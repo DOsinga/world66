@@ -12,6 +12,7 @@ story: >
   The Lord of the Rings trilogy. The mossy canopy and clear Hutt River proved a
   near-perfect stand-in for Tolkien's elven refuge, and a small sign now marks
   the exact spot where Frodo woke to find Elrond's house around him.
+score: 8.3
 ---
 
 Kaitoke Regional Park lies about 20 km north of Upper Hutt, where the Hutt River curves through stands of tall beech and native bush. The park has several easy to moderate walking tracks threading through the forest — the Hutt River Trail passes here on its way upstream, and there are swimming holes on the river where the water runs clear and cold over smooth boulders.

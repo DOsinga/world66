@@ -8,6 +8,7 @@ tags:
 - music
 latitude: 38.6403
 longitude: -90.2155
+score: 7.3
 ---
 
 The Scott Joplin House is the only surviving St Louis residence of the composer who, more than any other figure, defined ragtime music. Joplin and his wife lived in this second-floor flat from 1900 to 1903 — the years he wrote "The Entertainer" and several of his most famous compositions.

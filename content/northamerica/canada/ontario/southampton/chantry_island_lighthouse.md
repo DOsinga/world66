@@ -15,6 +15,7 @@ story: >
   switching to colza oil and eventually electricity; the light was automated in
   1954 and now runs on solar power, making its Fresnel lens one of the longest
   continuously functioning on the Great Lakes.
+score: 7.6
 ---
 
 Chantry Island sits about two kilometres offshore from Southampton, protected as a Federal Migratory Bird Sanctuary. The lighthouse on its north shore is one of six "Imperial Towers" built on Lake Huron and Georgian Bay in the 1850s, all constructed from cut limestone and granite to the same design. At 26 metres tall, it remains an imposing structure. The adjacent keeper's dwelling was restored in 2001 using hemlock timber harvested from nearby forests.

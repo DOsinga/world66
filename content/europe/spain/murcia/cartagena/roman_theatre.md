@@ -14,6 +14,7 @@ tags:
   - architecture
 title: Roman Theatre
 type: poi
+score: 9.5
 ---
 
 The Roman Theatre is Cartagena's headline sight and the best single explanation of the city. Built in the late 1st century BC, it once held thousands of spectators in the Roman colony of Carthago Nova. Its restoration has been handled with unusual intelligence, letting you approach through a museum and then emerge into the theatre itself.

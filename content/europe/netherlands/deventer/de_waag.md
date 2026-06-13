@@ -4,6 +4,7 @@ type: poi
 latitude: 52.2511
 longitude: 6.1599
 tags: [things_to_do, sight, museum]
+score: 8.1
 ---
 
 Deventer's Weigh House dominates the eastern side of the Brink. Built in 1528 in late-Gothic style with a stepped gable and an open ground-floor arcade where carts could be driven in for weighing, it is one of the most-photographed buildings in the city. The giant copper kettle still hanging on the front wall is a local mystery — versions of the story include the public execution of a counterfeiter and a much duller medieval taxation symbol.

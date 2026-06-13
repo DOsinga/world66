@@ -15,6 +15,7 @@ tags:
 title: Palazzo Pitti & Boboli Gardens
 type: poi
 url: www.uffizi.it/en/pitti-palace
+score: 8.7
 ---
 
 The Medici's immense 16th-century palace across the Arno, now housing five museums including the Palatine Gallery — a series of lavishly frescoed rooms crammed with Raphael, Titian, and Rubens. The Boboli Gardens stretching behind the palace are formal Italian gardens on a monumental scale, with fountains, grottoes, cypresses, and long views over the Florentine hills.

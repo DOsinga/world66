@@ -9,6 +9,7 @@ latitude: 26.5436
 longitude: -78.6681
 story: >
   The garden was built in the 1970s by Wallace Groves — the American financier who founded Freeport as a free-trade zone — as a wedding gift to his wife Georgette. After decades of neglect following Groves's death it was restored and reopened in 2008. The cascading waterfalls that give it its distinctive character were rebuilt from scratch.
+score: 7.1
 ---
 
 A 12-acre botanical garden and wildlife sanctuary in the heart of Freeport, the Garden of the Groves is a welcome contrast to the city's planned commercial character. Waterfalls, tropical plants, a chapel, and a small maze are connected by winding paths. Wild peacocks roam freely through the grounds.

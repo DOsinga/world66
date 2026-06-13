@@ -8,6 +8,7 @@ tags:
 latitude: 68.4214
 longitude: 27.4177
 story: "Saariselkä sits well above the Arctic Circle inside the auroral oval — the ring of latitudes where the lights appear most often. On a clear, dark night in winter the odds of seeing them are roughly one in two."
+score: 9.0
 ---
 
 Saariselkä is one of the most reliable places in Europe to see the aurora. The skies are dark, the light pollution is almost nothing, and the season runs from late August (when nights become dark enough) through to early April. Peak frequency is generally September–October and February–March, when the sky is clearest.

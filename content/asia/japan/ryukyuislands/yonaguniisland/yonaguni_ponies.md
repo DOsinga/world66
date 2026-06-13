@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, wildlife]
 latitude: 24.4620
 longitude: 123.0050
+score: 7.3
 ---
 
 The Yonaguni horse — a small, stocky pony breed native to the island — roams semi-wild on the grasslands of the island's northern and eastern coasts. The breed is one of the oldest in Japan and has been on the island for at least 2,000 years, possibly brought by early settlers from continental Asia. The horses are compact and sturdy, adapted to the island's terrain and typhoon-swept conditions, and are designated a protected natural monument by the Japanese government.

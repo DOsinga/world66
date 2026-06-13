@@ -13,6 +13,7 @@ story: >
   since, and the bar is named after her memory. Whether you believe the story or not,
   the building is genuinely atmospheric and the Governor's Bar makes a very adequate
   margarita.
+score: 7.6
 ---
 
 The Lodge Resort and Spa is Cloudcroft's most notable landmark — a Victorian-era wood-frame building with a distinctive red copper-topped tower that you can see from the main street. Built during the railroad era as a resort for lowland visitors escaping the heat, it burned down in 1909 and was rebuilt in 1911. The present building is on the National Register of Historic Places and still operates as a hotel with a restaurant and the Governor's Bar.

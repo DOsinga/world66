@@ -12,6 +12,7 @@ story: >
   meetings in Swedish history. Gustav Vasa used it to break the Catholic Church's power
   in Sweden, confiscating church property to fund the Crown and effectively launching
   the Swedish Reformation in a single parliamentary session.
+score: 7.1
 ---
 
 Västerås Castle stands at the southern edge of the old town, a compact round tower flanked by later Renaissance wings that transformed a medieval fortress into an administrative palace. The original tower dates to the 13th century; the characteristic red-and-white wings were added in the 16th century under Gustav Vasa. Today the castle houses the county administrative board.

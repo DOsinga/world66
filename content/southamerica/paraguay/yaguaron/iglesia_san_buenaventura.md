@@ -18,6 +18,7 @@ story: >
 sources:
   - https://whc.unesco.org/en/tentativelists/6614/
   - https://en.wikipedia.org/wiki/Yaguaron
+score: 9.4
 ---
 
 The Iglesia San Buenaventura is one of the great surviving colonial churches of South America. The exterior is deceptively simple — low, wide, with wide wooden galleries running along three sides to shelter the walls from tropical rain. A separate wooden bell tower stands nearby in the old Guaraní mission style. None of this prepares you for what is inside.

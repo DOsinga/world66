@@ -8,6 +8,7 @@ latitude: 44.1167
 longitude: 8.2167
 snippet: Prehistoric cave complex with bear bones and Neanderthal footprints
 story: "The caves at Toirano contain fossilized footprints believed to be those of Neanderthals — among the clearest evidence of pre-modern human presence in northern Italy, pressed into the cave clay perhaps 100,000 years ago."
+score: 8.4
 ---
 
 The Grotte di Toirano, about 4 kilometres north of Ceriale, are among the most interesting prehistoric caves in Liguria. The cave system runs deep into the limestone hills and contains stalactites, stalagmites, and — more unusually — the bones of cave bears that sheltered here during the Pleistocene, as well as traces of human occupation stretching back tens of thousands of years.

@@ -14,6 +14,7 @@ story: >
   circuits, the route had already become the most popular way to spend a day in the central
   Dolomites. On a clear day it is possible to complete the full loop — 26km and 40-plus
   lifts — twice.
+score: 8.3
 ---
 
 The Sella Ronda is the classic Dolomites ski circuit: a full loop around the Sella massif connecting four valleys — Val Gardena, Val Badia, Val di Fassa, and the Arabba area — on a single ski pass. The circuit is marked by coloured poles (orange clockwise, green anti-clockwise) and can be completed in a long morning of moderate skiing; the full loop covers around 26km of piste and passes through four high mountain passes.

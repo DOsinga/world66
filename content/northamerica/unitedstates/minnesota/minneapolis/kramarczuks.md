@@ -7,6 +7,7 @@ tags:
   - northeast
 latitude: 44.98777777777778
 longitude: -93.25736111111111
+score: 7.8
 ---
 
 Kramarczuk's has been making Central European sausages and deli foods on Northeast Avenue since 1954, when Wasyl and Anna Kramarczuk arrived from Ukraine and opened a sausage shop to serve the Eastern European community that had settled in Northeast Minneapolis in the early 20th century. The business has remained family-owned for three generations.

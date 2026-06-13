@@ -11,6 +11,7 @@ story: >
   existed as a sport in Britain or the Alps. They were sent up by
   the local sheriff to collect a wager and reported back that the
   summit was perfectly walkable — which it is not.
+score: 7.9
 ---
 
 Romsdalshornet — the Romsdal Horn — is the unmistakable pointed peak that rises above the valley south of Åndalsnes. At 1,550 metres it is not the tallest peak in the area, but its sharp, isolated profile makes it the icon of the Romsdal range. It is a serious climb, generally requiring rope work and route-finding skill, and it should only be attempted with a guide or solid alpine experience.

@@ -7,6 +7,7 @@ tags:
   - beaches
 latitude: 22.2183
 longitude: -159.5664
+score: 7.0
 ---
 
 Lumaha'i Beach is one of Kauaʻi's most beautiful and most dangerous beaches. Backed by ironwood trees and the green wall of the north shore mountains, it curves for about a kilometre along a shore that is exposed to open Pacific swells — the same swells that make it photogenic also make it genuinely hazardous for swimming year-round. There are no lifeguards and no facilities. People drown here regularly.

@@ -1,6 +1,7 @@
 ---
 title: "Schneeballen"
 type: poi
+score: 6.4
 ---
 
 The Schneeball (plural Schneeballen, "snowballs") is Rothenburg's signature food and appears in every shop window in the old town. The pastry is made from shortcrust dough rolled around a special wooden form, deep-fried into a rough ball about the size of a tennis ball, then finished with icing sugar, cinnamon sugar, chocolate, nougat, marzipan, or any combination of coatings the maker feels like. The plain icing-sugar version is the traditional one; the chocolate-coated versions are for tourists who want a souvenir that looks good on Instagram.

@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: -6.108
 longitude: 177.341
+score: 6.4
 ---
 
 Lake Manu'a is the larger of the two small brackish ponds in the interior of Niutao. It sits in a low depression in the centre of the island, ringed by pandanus and coconut palms, with the water slightly salty from underground seepage from the surrounding ocean. The lake supports a particular population of small fish that the villagers harvest at certain times of year.

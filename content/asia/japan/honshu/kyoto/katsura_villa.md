@@ -10,6 +10,7 @@ tags:
 - sight
 title: Katsura Imperial Villa
 type: poi
+score: 9.1
 ---
 
 Katsura Imperial Villa is one of the most influential buildings in the world. Constructed for an imperial prince in the early seventeenth century on the western bank of the Katsura River, the villa's modular post-and-beam architecture, sliding paper walls, integration of building and garden, and pure geometric restraint became the founding text of Japanese aesthetic minimalism — and, through Bruno Taut and a generation of mid-twentieth-century architects, a major influence on European and American modernism.

@@ -9,6 +9,7 @@ latitude: -36.7586
 longitude: 144.2806
 sources:
   - https://en.wikipedia.org/wiki/Shamrock_Hotel,_Bendigo
+score: 7.2
 ---
 
 The Shamrock Hotel is one of the grandest Victorian-era pub buildings in Australia, occupying a prominent corner position on Pall Mall in the heart of Bendigo. Built in the 1890s when gold money was still flowing freely, it has the elaborate rendered facade, ornate ironwork balconies, and imposing scale that characterised the most ambitious commercial buildings of the era.

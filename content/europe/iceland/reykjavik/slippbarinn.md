@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Pioneering cocktail bar in the Reykjavik Marina Hotel
+score: 7.3
 ---
 
 Slippbarinn opened in 2012 in the lobby of the Reykjavik Marina Hotel and is often credited with starting Iceland's serious cocktail scene. The drinks are inventive without being silly; the bartenders work with foraged Icelandic ingredients — birch, angelica, juniper, dulse — alongside the usual spirits.

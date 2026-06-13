@@ -8,6 +8,7 @@ tags:
   - italian
 title: Angelo's Civita Farnese
 type: poi
+score: 6.8
 ---
 
 Angelo's at 141 Atwells Avenue on Federal Hill has been serving the same red-sauce Italian-American menu since 1924, which makes it one of the oldest continuously operating restaurants in Providence. The menu is unapologetically old-fashioned: homemade ravioli, cavatelli with broccoli rabe, veal parmesan, baked ziti. Everything is made from scratch at prices that seem impossibly reasonable for the quality.

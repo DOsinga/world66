@@ -8,6 +8,7 @@ latitude: 29.9667
 longitude: 32.55
 story: >
   The Suez Canal has no locks — it is entirely at sea level, which is why a ship simply sails in one end and out the other. The level of the Red Sea and the Mediterranean are effectively the same, a fact that surprised the engineers of the original 1869 project who had assumed significant differences. Ships travel in convoys to manage the single-lane sections, and waiting for a convoy to pass can take most of a day.
+score: 8.0
 ---
 
 The point where the Suez Canal meets the Red Sea is one of the more unusual spectacles in travel: massive container ships, supertankers, and bulk carriers crawling through a desert landscape as if the sea has somehow extended its reach into the sand. From the waterfront near Suez Port, you can watch these convoys pass at close range — the scale of the vessels against the flat desert is genuinely astonishing.

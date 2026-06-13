@@ -7,6 +7,7 @@ tags:
   - eating_out
   - market
   - seafood
+score: 6.9
 ---
 
 The Iba public market is the best introduction to what the town actually eats. Fishermen from the South China Sea bring their catch here each morning — bangus (milkfish), squid, shrimp, and various reef fish — and the prices are low by any standard. In April and May the market fills with Dinamulag mangoes sold by the kilo at prices you will not find in Manila. Pick up a bag, find a stall selling fried rice, and you have the best breakfast Iba can offer.

@@ -8,6 +8,7 @@ tags:
   - sight
   - festival
 story: "The marriage market is now partly a performance for visitors, but it still serves a real function: in a region where families are scattered across mountain passes, the moussem is one of the few times Ait Haddidou clans gather in one place to settle engagements, trade livestock, and dance the ahidous."
+score: 8.6
 ---
 
 The Moussem des Fiançailles, also called the Imilchil Marriage Festival, is held in late August or September in the village of Ait Amer, about 20 kilometres from Imilchil. It is traditionally a gathering of the Berber Ait Haddidou tribe, where engagements are agreed and divorces formalised under the eye of family elders.

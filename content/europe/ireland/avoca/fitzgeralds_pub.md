@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 52.857
 longitude: -6.215
+score: 5.7
 ---
 
 Fitzgerald's is the pub that appeared as the central gathering place in the BBC television series Ballykissangel, which was filmed in Avoca in the 1990s. The series ran for six seasons and made the village internationally known; Fitzgerald's became one of the most visited pubs in Ireland as a result. It has leaned into the connection ever since, with photographs and memorabilia from the show decorating the walls.

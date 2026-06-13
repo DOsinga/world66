@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Free public library on North Terrace with remarkable historical collections"
+score: 8.7
 ---
 
 The State Library occupies a rambling Victorian complex on North Terrace beside the South Australian Museum. Its public reading rooms are open to all and include the original Institute Building from 1884 — a grand Italianate hall with a glass barrel-vaulted ceiling that is one of the most beautiful reading rooms in Australia.

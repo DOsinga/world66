@@ -7,6 +7,7 @@ tags:
 - sight
 snippet: Active Benedictine abbey in the heart of Mont-Laurier, known for its choir and artisanal products
 type: poi
+score: 7.4
 ---
 
 The Abbaye Sainte-Marie des Deux-Montagnes is an active Benedictine monastery whose large stone church anchors the centre of Mont-Laurier. Founded in 1947, the abbey community follows the Rule of Saint Benedict and maintains traditional forms of Gregorian chant — the monks' liturgical singing at daily offices is the most memorable experience available to visitors. The church is open to visitors attending services; guided visits of part of the monastery can be arranged in advance.

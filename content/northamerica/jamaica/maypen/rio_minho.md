@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - river
+score: 5.9
 ---
 
 The Rio Minho is the longest river in Jamaica — almost 93 kilometres from the Bull Head Mountain in the centre of the island to the sea at Carlisle Bay. May Pen sits at one of its main crossings, and the old May Pen Bridge over the river still carries the road south.

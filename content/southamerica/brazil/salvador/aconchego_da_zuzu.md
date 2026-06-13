@@ -9,6 +9,7 @@ tags:
 - restaurant
 - rio_vermelho
 snippet: Rio Vermelho restaurant for home-style Bahian cooking
+score: 6.6
 ---
 
 A small restaurant in Rio Vermelho run by the family that gives it the name, serving home-style Bahian cooking — moqueca, bobó, caruru, peixe na telha — to a mostly local crowd. The atmosphere is informal and the kitchen is the point.

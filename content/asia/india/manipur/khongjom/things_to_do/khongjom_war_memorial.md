@@ -1,6 +1,7 @@
 ---
 title: "Khongjom War Memorial"
 type: poi
+score: 7.4
 ---
 
 The Khongjom War Memorial stands on the hill where, on 23 April 1891, a small Manipuri force made its last stand against the British Indian Army. The battle ended Manipur's independence: the kingdom was annexed and its rulers exiled. The memorial park commemorates not just a military defeat but a defining moment in Manipuri identity — the soldiers who died here, above all Major Paona Brajabashi, are celebrated as patriots who refused to surrender.

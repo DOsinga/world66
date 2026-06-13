@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 47.6618
 longitude: 9.1744
+score: 6.7
 ---
 
 Felchen is the fish of Lake Constance — a whitefish caught in the cold, deep water of the Bodensee and pan-fried simply, usually with butter and almonds or served alongside boiled potatoes and a wedge of lemon. It is delicate and clean, and it tastes of the lake. Hecht (pike) turns up in a more elaborate preparation, often as Hechtklößchen (pike dumplings) in a cream sauce.

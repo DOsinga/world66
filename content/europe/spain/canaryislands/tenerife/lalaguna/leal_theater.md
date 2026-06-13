@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 28.4897
 longitude: -16.3181
+score: 7.2
 ---
 
 The Teatro Leal is one of the most distinguished pieces of Modernista architecture in the Canary Islands, built between 1914 and 1918 to a design by the local architect Manuel de Cámara — who also worked on the cathedral facade. The exterior is covered in ornamental ceramic tiles and sculptural plasterwork in the Catalan Modernisme style, unusual this far south and west of Barcelona. The building fell into disrepair in the late 20th century and was extensively restored; it now operates as an active performance venue.

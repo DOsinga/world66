@@ -7,6 +7,7 @@ tags:
 latitude: 41.7523
 longitude: 23.4884
 snippet: 19th-century Orthodox church at the heart of the Varosha old quarter
+score: 7.0
 ---
 
 The Church of the Assumption of the Holy Virgin stands in a stone-walled courtyard at the centre of the Varosha old quarter. The current building dates from 1844 — constructed during the Bulgarian National Revival period, when the Ottoman authorities allowed Christian communities greater latitude to build and restore churches. The exterior is modest; the interior has a richly carved wooden iconostasis and a collection of 19th-century icons.

@@ -7,6 +7,7 @@ tags:
 title: Wat Langka
 type: poi
 snippet: Riverside pagoda that hosts public meditation sessions in English
+score: 8.2
 ---
 
 One of Phnom Penh's five original wats, founded in 1422 to house sacred Buddhist scriptures and named for a historical link with Sri Lankan monks (Langka being the Khmer name for the island). Quieter than the nearby Royal Palace, with elaborate murals along the inner walls of the sanctuary and a constant flow of saffron-robed students from its monastic school.

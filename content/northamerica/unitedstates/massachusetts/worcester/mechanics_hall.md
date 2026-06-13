@@ -9,6 +9,7 @@ tags:
 title: Mechanics Hall
 type: poi
 snippet: 1857 concert hall, one of the finest in America for acoustics
+score: 8.4
 ---
 
 Mechanics Hall is a striking pre-Civil War concert hall on Main Street, built in 1857 by the Worcester County Mechanics Association — the local equivalent of the trade unions that connected the city's skilled metalworkers and machinists. The building's Great Hall has long been considered one of the best-sounding rooms in the country, in the league of the Boston Symphony's home at Symphony Hall.

@@ -16,6 +16,7 @@ story: >
   circuit was never used in serious competition again, and a century later
   the concrete oval still stands behind a chicken farm outside Sant Pere de
   Ribes, slowly cracking apart under the Mediterranean sun.
+score: 6.7
 ---
 
 The Autòdrom de Sitges-Terramar is one of the world's most evocative abandoned racetracks: an intact 1923 high-banked concrete oval sitting forgotten behind farmland a couple of kilometres west of the town. Built in just 300 days for the 1923 Spanish Grand Prix, it bankrupted its developer, was never officially used again, and has been crumbling quietly for more than a century.

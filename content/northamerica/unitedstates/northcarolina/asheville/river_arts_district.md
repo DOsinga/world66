@@ -6,6 +6,7 @@ longitude: -82.5703
 tags:
   - things_to_do
   - neighbourhood
+score: 8.0
 ---
 
 The River Arts District is a sprawl of converted warehouses and factories along the French Broad River, southwest of downtown. More than 200 working artists keep studios here — painters, glassblowers, potters, jewellers, sculptors, printmakers — and most of them are open to the public most days of the week. You can wander in, watch someone working at a wheel or a forge, and buy directly from them.

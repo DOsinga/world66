@@ -9,6 +9,7 @@ tags:
   - plateau_mont_royal
 neighbourhood: Plateau-Mont-Royal
 snippet: The 24-hour poutine institution with 30 variations on the classic
+score: 6.8
 ---
 
 La Banquise at 994 rue Rachel Est is open 24 hours and serves more than 30 varieties of poutine. The classic — fries, cheese curds, gravy — is the thing to order, and La Banquise does it better than most. But the menu also offers poutines topped with pulled pork, bacon, merguez, mushrooms, fried onions, and many combinations thereof, for those who want to experiment.

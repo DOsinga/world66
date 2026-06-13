@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.3877
 longitude: -1.6625
+score: 6.5
 ---
 
 Place Louis XIV is the main square of Saint-Jean-de-Luz and the place where the town takes its ease. It is named for the Sun King who lodged in the Maison Louis XIV on the square's edge before his wedding in 1660, and whose equestrian statue — a copy of the bronze in Versailles — stands at the centre. The terraces of the surrounding cafes are reliably occupied from mid-morning to midnight.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Filming locations from the trilogy in the country around Queenstown
+score: 7.6
 ---
 
 Peter Jackson used the country around Queenstown extensively for the Lord of the Rings trilogy. Glenorchy and the head of Lake Wakatipu doubled as Isengard, Lothlórien, and parts of Amon Hen; the Remarkables stood in for the Misty Mountains; Deer Park Heights above Frankton was Rohan; and Skippers Canyon was the Ford of Bruinen. Several operators run dedicated tours combining stops with stills from the films.

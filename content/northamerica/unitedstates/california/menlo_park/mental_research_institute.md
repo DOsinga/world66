@@ -8,6 +8,7 @@ latitude: 37.45331
 longitude: -122.18484
 story: >
   The Mental Research Institute, founded in 1959, is where Gregory Bateson, Paul Watzlawick, and Don Jackson developed the double-bind theory of schizophrenia and, more lastingly, the communication theory that underpins modern family therapy. Their insight — that problems are patterns of interaction rather than traits of individuals — shifted the entire field of psychology. The MRI trained therapists from around the world and influenced fields from management consulting to artificial intelligence.
+score: 7.1
 ---
 
 The Mental Research Institute is a small but historically significant research organisation on Willow Avenue in Menlo Park, a few blocks from the Caltrain station. Founded in 1959 by Don Jackson, it became the birthplace of the systemic and brief therapy movements that transformed clinical psychology in the second half of the 20th century. The institute's early researchers — including Gregory Bateson, Jay Haley, Virginia Satir, and Paul Watzlawick — produced ideas about communication, feedback loops, and human behaviour that spread far beyond psychiatry.

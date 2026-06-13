@@ -8,6 +8,7 @@ tags:
   - beaches
 latitude: 5.3478
 longitude: -0.6175
+score: 7.1
 ---
 
 The main town beach runs east from the fishing harbour, a long sweep of fine pale sand backed by palms and a few simple beach bars. The Atlantic surf here is strong — fine for body-surfing but with serious rip currents, so swimming requires care.

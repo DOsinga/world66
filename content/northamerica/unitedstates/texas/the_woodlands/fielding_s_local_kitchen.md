@@ -8,6 +8,7 @@ tags:
 latitude: 30.1800
 longitude: -95.5019
 story: "Fielding's is what The Woodlands restaurant scene aspires to be — locally sourced ingredients, a menu that changes with the season, and a bar program with real thought behind it. Not cheap, but better than you'd expect from a suburban dining room."
+score: 6.3
 ---
 
 One of the better independent restaurants in The Woodlands, on Market Street, with a menu focused on seasonal American cooking and a solid cocktail list. The space is warm and comfortable without being precious. Brunch on weekends is popular with families; dinner is more of a date-night crowd.

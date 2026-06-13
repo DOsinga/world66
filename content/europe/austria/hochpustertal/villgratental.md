@@ -6,6 +6,7 @@ longitude: 12.4400
 tags:
   - things_to_do
   - sight
+score: 8.2
 ---
 
 The Villgratental is a side valley running north from the Hochpustertal, ending in the two small villages of Innervillgraten and Außervillgraten. It is one of the most traditional corners of Tirol: a dead-end valley with no through road, no big resort, and a farming culture that has barely changed in a century.

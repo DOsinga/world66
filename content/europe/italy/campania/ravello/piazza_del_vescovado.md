@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 40.6490
 longitude: 14.6118
+score: 7.5
 ---
 
 Ravello's main square is small enough to cross in thirty seconds, which makes the view from it all the more surprising: the gulf opens up to the south between the rooftops, and the village drops away so steeply that you are looking at the sea from what feels like an aircraft. The piazza is the natural gathering point of the town — there are a few cafe tables, the cathedral occupies one side, and the bell tower rises behind it.

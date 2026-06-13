@@ -6,6 +6,7 @@ longitude: -9.1398
 tags:
   - things_to_do
   - sight
+score: 8.4
 ---
 
 Tram 28 is the most famous tram route in Lisbon, rattling through the Alfama and Graça on a spectacular course that climbs and descends the steepest streets in the city. The historic Remodelado trams — mustard-yellow wooden carriages from the 1930s — are among the most photographed objects in Portugal, and the ride, particularly the section through the narrow alleys of the Alfama, is genuinely exciting.

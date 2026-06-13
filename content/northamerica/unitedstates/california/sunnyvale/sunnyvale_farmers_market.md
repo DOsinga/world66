@@ -6,6 +6,7 @@ longitude: -122.0297
 tags:
   - shopping
   - market
+score: 6.3
 ---
 
 A weekly Saturday market on Murphy Avenue from May to December, selling produce from farms across the Central Valley and the Santa Clara hills along with prepared food, baked goods, and crafts. Around 50 vendors, plus live music and an outdoor café atmosphere.

@@ -10,6 +10,7 @@ tags:
 title: Walking Tour of Città Alta
 type: poi
 url: www.cooraltur.it
+score: 6.9
 ---
 
 A guided walking tour of Bergamo's Città Alta, the medieval hilltop town ringed by 16th-century Venetian walls. The tour runs on Sundays in English, departing at 15:00 from Piazza Mercato delle Scarpe at the top of the funicular.

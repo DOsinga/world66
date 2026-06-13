@@ -8,6 +8,7 @@ tags:
   - museum
 story: >
   The building that houses Moderna Museet Malmö is itself a piece of history: a former turbine hall built in 1900 for the city's power station. When artists began squatting the abandoned building in the 1980s, they accidentally created one of Sweden's most vibrant art scenes — the Rooseum, which eventually evolved into the Moderna Museet's Malmö branch.
+score: 8.0
 ---
 
 Malmö's outpost of Stockholm's Moderna Museet occupies a former power station turbine hall, which gives it dramatically high ceilings and generous space for large-scale installations. The permanent collection covers Swedish and international modern and contemporary art from the 20th century onward, with particular strength in video art and installation work.

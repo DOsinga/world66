@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.7595
 longitude: 83.3710
+score: 4.5
 ---
 
 The stretch of road leading from Gorakhpur Junction towards the city centre is lined with dhabas that serve travellers around the clock. These are straightforward north Indian roadside kitchens: dal tadka, sabzi, chapati, and rice at prices calibrated for people catching early trains or arriving late from long journeys.

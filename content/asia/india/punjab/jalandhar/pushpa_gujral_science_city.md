@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 31.3565
 longitude: 75.4397
+score: 5.8
 ---
 
 A large science museum and theme park 25 kilometres west of Jalandhar on the road to Kapurthala. The campus covers 72 acres and includes a planetarium, a 3D theatre, a dinosaur park, a flight simulator, and a series of hands-on physics galleries. It is unmistakably a state-government project — the kind of edutainment complex India built across several cities in the 2000s — but it is well maintained and good for an afternoon with children.

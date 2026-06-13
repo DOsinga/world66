@@ -7,6 +7,7 @@ tags:
 latitude: 56.1456
 longitude: -3.9225
 snippet: Stirling's main multi-arts venue, on the University of Stirling campus
+score: 5.5
 ---
 
 The Macrobert Arts Centre is the principal performing arts venue for Stirling and central Scotland. It sits on the [University of Stirling](/europe/unitedkingdom/scotland/stirling/university_of_stirling) campus but operates as a public venue with a year-round programme of theatre, dance, music, film, comedy and children's events.

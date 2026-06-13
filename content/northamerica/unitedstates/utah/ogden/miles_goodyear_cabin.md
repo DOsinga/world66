@@ -9,6 +9,7 @@ latitude: 41.2287
 longitude: -111.9755
 sources:
   - https://en.wikipedia.org/wiki/Miles_Goodyear_Cabin
+score: 7.2
 ---
 
 The oldest non-Native American structure in Utah, the Miles Goodyear Cabin was built in 1845 by trapper and trader Miles Goodyear on the banks of the Weber River. Goodyear established here the first permanent European-American settlement in the Great Basin, trading with emigrants on the California Trail. When Mormon pioneers arrived two years later, Brigham Young's brother Lorenzo bought out Goodyear's claim, and the settlement grew into what is now Ogden.

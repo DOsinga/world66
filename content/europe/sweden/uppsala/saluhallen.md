@@ -7,6 +7,7 @@ snippet: The city's covered market hall, with stalls for lunch and Swedish produ
 tags:
   - eating_out
   - market
+score: 7.2
 ---
 
 Saluhallen is the central food hall of Uppsala, housed in a small brick building on Sankt Eriks torg, between the cathedral and the river. Inside, a handful of stalls sell fish, cheese, charcuterie, and bakery items, and several of them double as lunch counters during the day.

@@ -7,6 +7,7 @@ tags:
 latitude: 44.0640
 longitude: 12.5640
 neighbourhood: Borgo San Giuliano
+score: 6.6
 ---
 
 A long-running osteria in the Borgo San Giuliano, the old fishermen's quarter across the Tiberius Bridge. The menu sticks to Romagnola classics — homemade tagliatelle al ragù, passatelli in brodo, grilled meats — served in a warm informal room hung with prints.

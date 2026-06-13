@@ -12,6 +12,7 @@ story: >
   their debt by leaving behind exotic animals — especially monkeys — brought back from
   the tropics. The Dutch expression "in de aap gelogeerd" (staying at the monkey's
   place), meaning to be in trouble, is said to originate here.
+score: 7.6
 ---
 
 One of only two remaining wooden buildings in central Amsterdam, dating from around 1550. It sits on the Zeedijk, the old sailors' quarter, and has been a bar for most of its existence. The interior is dark, cramped, and full of character — low ceilings, creaking floors, and the unmistakable sense of a building that has seen five centuries of drinking.

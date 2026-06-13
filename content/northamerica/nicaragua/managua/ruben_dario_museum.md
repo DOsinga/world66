@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 12.1556
 longitude: -86.2720
+score: 7.2
 ---
 
 Nicaragua's greatest cultural export is Rubén Darío (1867–1916), the poet from Metapa (now renamed Ciudad Darío in his honour) who effectively invented the Modernismo movement in Spanish-language literature and influenced every major Spanish poet who followed him. His influence extended to García Lorca, Pablo Neruda, and Jorge Luis Borges, each of whom acknowledged debts to Darío's innovations in rhythm and imagery.

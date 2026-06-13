@@ -12,6 +12,7 @@ story: >
   invented by Srimanta Sankaradeva in the 15th century to teach devotional stories through drama.
   Each mask takes two to three weeks to construct from bamboo, clay, and cloth, and the largest — depicting
   the demon Ravana — can weigh over 10 kilograms.
+score: 9.0
 ---
 
 Samaguri Satra is the most visited of Majuli's monasteries, famous throughout Assam for its centuries-old tradition of mask-making. The craftsmen here produce the elaborate bamboo-and-cloth masks used in Bhaona, the classical dramatic form Srimanta Sankaradeva created in the 15th century to spread Vaishnavite devotion. The masks — depicting gods, demons, and animals — are vivid, oversized, and extraordinarily detailed: Garuda with outstretched wings, Narasimha with a lion's head, characters from the Ramayana and Mahabharata.

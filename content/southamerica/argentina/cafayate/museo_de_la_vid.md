@@ -8,6 +8,7 @@ latitude: -26.073
 longitude: -65.977
 story: >
   The wine museum in Cafayate is housed in the former Casa Isasmendi, a colonial-era mansion. The building itself is as interesting as the exhibits — its thick adobe walls, internal courtyards, and carved wooden doorways are examples of the regional colonial architecture that once characterised much of northwestern Argentina but is now increasingly rare.
+score: 8.3
 ---
 
 The Museo de la Vid y el Vino (Museum of the Vine and Wine) tells the story of Cafayate's wine industry from the pre-Columbian cultivation of grapes through the Spanish colonial period to the modern era of high-altitude viticulture. The exhibits cover the botany of the vine, the tools and techniques of winemaking, the social history of the valley's wine culture, and the particular conditions — altitude, sunshine, low humidity — that make this region unusual in the wine world.

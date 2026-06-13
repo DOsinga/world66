@@ -7,6 +7,7 @@ tags:
 latitude: 21.9519
 longitude: 96.0786
 story: "The Mahamuni image is considered so sacred that women are not permitted to approach closer than a certain distance. Male worshippers have been applying gold leaf to the image for centuries — the layer of gold now coating the lower half of the seated figure is so thick that the original form of the arms and torso is completely buried beneath it."
+score: 9.0
 ---
 
 The Mahamuni Buddha Temple is the most important pilgrimage site in Mandalay, housing a 3.8-metre seated Buddha image that is one of the most revered in Myanmar. According to tradition the image was cast during the lifetime of the historical Buddha and is one of only five that carry his own likeness — a claim that concentrates extraordinary devotion on this spot.

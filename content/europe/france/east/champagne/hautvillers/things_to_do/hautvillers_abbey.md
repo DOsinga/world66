@@ -17,6 +17,7 @@ story: >
   Legend has it that when he first tasted his sparkling creation he cried out to his fellow 
   monks: "Come quickly, I am drinking the stars!" Historians believe this story was 
   invented nearly 200 years after his death.
+score: 9.0
 ---
 
 The Abbey of Saint-Pierre at Hautvillers is a Benedictine abbey founded in 650 CE. Most of the medieval buildings were destroyed during the French Revolution; what stands today is largely an 18th-century reconstruction, now owned by Moët & Chandon and used for storage of champagne. The abbey church, however, is open and contains the tomb of Dom Perignon — a simple black marble slab set in the floor before the altar that has become a genuine pilgrimage site for wine lovers.

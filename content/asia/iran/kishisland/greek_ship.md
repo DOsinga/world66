@@ -13,6 +13,7 @@ story: >
   it has transformed from a shipwreck into one of Kish's most iconic images, especially at sunset.
 sources:
   - https://en.wikipedia.org/wiki/Greek_Ship
+score: 6.8
 ---
 
 The Khoula F — universally known as the Greek Ship — is a rusted cargo steamship that ran aground on the southwest reef of Kish Island in 1966 and never left. Decades of salt air and sun have turned it a deep orange-brown, and it sits half-submerged in shallow turquoise water like a piece of accidental sculpture.

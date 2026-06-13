@@ -15,6 +15,7 @@ story: >
   Germany after the wars that had devastated this border region. Chagall chose the theme
   of peace deliberately — the Moselle valley had changed hands between the two countries
   four times in less than a century.
+score: 8.5
 ---
 
 The Chapelle des Cordeliers dates to the 13th century and was once part of a Franciscan friary. The chapel itself is a modest Gothic structure, but it was transformed in 1976 when Marc Chagall installed his monumental stained-glass window "La Paix" (Peace) — 12 metres wide and 10 metres high, occupying the entire west wall. Working in his signature deep blues and purples, Chagall created one of the largest stained-glass compositions of his career, depicting themes of peace, love, and the reconciliation of peoples through a flowing tableau of figures, animals, and biblical scenes.

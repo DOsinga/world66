@@ -10,6 +10,7 @@ latitude: 42.3010
 longitude: 2.1633
 sources:
   - https://en.wikipedia.org/wiki/Vall_de_N%C3%BAria_Rack_Railway
+score: 9.0
 ---
 
 The Vall de Núria Rack Railway — always called the Cremallera (Catalan for zipper) — is not just transport but the central experience of any visit to Núria. Opened in 1931, it climbs 1,000 metres in about 45 minutes from Ribes de Freser through the spectacular Gorges del Freser, a narrow rocky gorge where the track clings to cliffs above the cascading Freser river.

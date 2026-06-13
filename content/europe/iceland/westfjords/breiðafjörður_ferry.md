@@ -14,6 +14,7 @@ story: >
   Viking-age sea route. The ferry Baldur has crossed it seasonally for decades,
   threading between the islands in a crossing that has almost no equivalent elsewhere
   in Iceland for scenery and variety.
+score: 7.9
 ---
 
 The Baldur ferry crosses Breiðafjörður bay between Stykkishólmur on the Snæfellsnes Peninsula and Brjánslækur in the southern Westfjords, a crossing of about 2.5 hours that is one of the finest ferry journeys in Iceland. The bay is full of islands and skerries, and eider ducks, oystercatchers, and white-tailed eagles are visible from the deck. White-beaked dolphins are regularly spotted in the channel.

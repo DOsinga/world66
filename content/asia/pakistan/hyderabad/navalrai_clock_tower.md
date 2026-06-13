@@ -9,6 +9,7 @@ latitude: 25.39884
 longitude: 68.36924
 sources:
   - https://en.wikipedia.org/wiki/Navalrai_Clock_Tower,_Hyderabad
+score: 6.8
 ---
 
 A Victorian-era clock tower in the Saddar district, built during the British colonial period in the late nineteenth century. Named after a prominent local Hindu merchant, Navalrai Hotchand, who funded its construction, the tower stands at a prominent junction in what was once the commercial heart of British Hyderabad.

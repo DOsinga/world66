@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Aquarium Restaurant
 type: poi
+score: 4.8
 ---
 
 The Aquarium Restaurant at Dubai Creek Golf and Yacht Club sits on the first floor of the distinctive clubhouse, with panoramic views of Dubai Creek and the adjacent park through floor-to-ceiling windows. The menu centres on seafood flown in from international sources, and the restaurant's signature feature is a large floor-to-ceiling marine tank that runs the length of the dining room.

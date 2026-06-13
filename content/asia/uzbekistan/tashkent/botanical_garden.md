@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.3433
 longitude: 69.2925
+score: 6.9
 ---
 
 A 67-hectare botanic garden in the north of the city, founded in the 1920s as a research arboretum and now open to the public. Around 4,500 plant species are arranged by geographic region — Central Asian, East Asian, North American, and European sections — with mature trees, glasshouses, and a small lake.

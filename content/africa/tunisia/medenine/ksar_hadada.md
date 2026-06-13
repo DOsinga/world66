@@ -10,6 +10,7 @@ tags:
   - film
 story: >
   Ksar Hadada appeared as the slave quarters of Mos Espa in *Star Wars Episode I: The Phantom Menace* — the ghorfas standing in for Anakin and Shmi Skywalker's home. George Lucas's location scouts came back to southern Tunisia for the prequels after using nearby Matmata for the original 1977 film. The set dressing has long been removed but the architecture is unchanged from the film, and the cumulative effect of three layers of fiction (Berber granary / Lucas's Tatooine / pilgrims' destination) is genuinely strange.
+score: 8.1
 ---
 
 Ksar Hadada is the most famous of the ksour around Medenine, partly for itself and partly because George Lucas filmed the slave quarters of *The Phantom Menace* among its ghorfas. The complex is large and well-preserved, with cells arranged around several connected courtyards. Some have been converted into a basic hotel; most are empty.

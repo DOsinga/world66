@@ -8,6 +8,7 @@ latitude: 29.5020
 longitude: 106.5480
 story: >
   Nanshan's One Tree Hill viewpoint became famous online for a photograph taken in fog: a single pavilion appears to float above a sea of cloud, with the city towers emerging below as if through water. The photograph captures something true about Chongqing — the city is foggy for much of the year, and the fog has a way of transforming the urban landscape into something dreamlike.
+score: 8.1
 ---
 
 Nanshan is a forested ridge south of the Yangtze River, rising to about 295 metres and offering some of the most celebrated views over Chongqing. The One Tree Hill (一棵树观景台, Yī Kē Shù Guānjǐng Tái) viewpoint on the ridge is particularly popular for dawn and dusk views, when the city lights spread below in a carpet that stretches to the horizon.

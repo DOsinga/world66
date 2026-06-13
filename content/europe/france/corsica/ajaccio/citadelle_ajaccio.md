@@ -9,6 +9,7 @@ tags:
   - sight
 title: Citadelle d'Ajaccio
 type: poi
+score: 6.7
 ---
 
 The 16th-century Genoese fortress that anchors the southern end of the old town. Built between 1554 and 1559 under the direction of the Banco di San Giorgio — the Genoese merchant bank that administered Corsica at the time — the citadel occupies the rocky promontory between the port and the open sea. It is still used by the French military and access to the interior is restricted, but the exterior walls and the views along the waterfront from below are worth the short walk from Place Foch.

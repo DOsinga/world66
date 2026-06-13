@@ -13,6 +13,7 @@ story: >
   pedestrian-only and restored to resemble its Roman appearance — no more asphalt, no more metal barriers.
 sources:
   - https://en.wikipedia.org/wiki/Roman_bridge_of_Lugo
+score: 7.0
 ---
 
 The Roman bridge of Lugo spans the Miño river on the southern edge of the old town, a 104-metre crossing built during the first century AD to carry the main road south toward what is now Portugal. It is one of the few Roman bridges in Spain that still carries foot traffic across a working river. The bridge was restored in the Middle Ages and again in the early modern period, though its foundations remain largely original.

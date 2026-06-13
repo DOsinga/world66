@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 13.3000
 longitude: 2.5900
+score: 7.0
 ---
 
 Even setting the giraffes aside, the landscape around Kouré is worth paying attention to. The Sahel zone — the transitional band between the Sahara to the north and the savannah to the south — has a particular austere beauty: low acacias scattered across pale laterite soil, termite mounds the height of a person, the occasional dry streambed.

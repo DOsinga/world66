@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 9.3097
 longitude: 123.3075
+score: 6.5
 ---
 
 Lab-as is a Dumaguete institution: a no-frills Filipino restaurant that has been feeding students, locals, and anyone who asks a local where to eat for years. The menu is exactly what it should be — a rotation of Filipino staples done with care and sold at prices that make the question of ordering a second dish a non-question. Grilled fish, pork sinigang, chicken adobo, kare-kare when they have it, always rice.

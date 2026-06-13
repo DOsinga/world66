@@ -11,6 +11,7 @@ story: >
   At 599 metres, the Ping An Finance Centre is the fifth-tallest building in the world. Its designers planned an antenna that would have pushed it above 660 metres, but aviation authorities vetoed it for interfering with Shenzhen's flight paths — leaving a blunt, flat crown that has become one of the building's most distinctive features.
 sources:
   - https://en.wikipedia.org/wiki/Ping_An_Finance_Centre
+score: 7.7
 ---
 
 The Ping An Finance Centre is Shenzhen's defining skyscraper — a gleaming diamond-cross tower that rises 599 metres above Futian Central Business District and dominates the skyline from almost every angle in the city. It was completed in 2017 and for a time ranked as the fourth-tallest building in the world.

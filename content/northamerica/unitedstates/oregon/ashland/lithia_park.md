@@ -10,6 +10,7 @@ latitude: 42.1921
 longitude: -122.7110
 sources:
   - https://en.wikipedia.org/wiki/Lithia_Park
+score: 8.6
 ---
 
 Lithia Park is the beating heart of Ashland — 93 acres running along Ashland Creek from the main plaza up into the wooded hills, and one of the finest urban parks in the Pacific Northwest. The landscape architect John McLaren (who also designed Golden Gate Park) laid out the formal lower sections in the early twentieth century; further up the creek the park turns wild, with old-growth forest and hiking trails that continue into the Siskiyou Mountains.

@@ -12,6 +12,7 @@ tags:
 - fishing
 title: Lake Tenkiller
 type: poi
+score: 6.7
 ---
 
 About 20 miles south of Tahlequah, Lake Tenkiller is consistently rated one of the clearest lakes in Oklahoma — a dam reservoir on the Illinois River where the water is visibly different from the murky red-clay lakes that dominate most of the state. The clarity draws scuba divers, an unusual activity for an inland Oklahoma lake, as well as swimmers, boaters, and bass anglers.

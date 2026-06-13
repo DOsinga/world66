@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 64.9242
 longitude: -23.2478
+score: 6.7
 ---
 
 Grundarfjörður is a small fishing town on the north coast of Snæfellsnes, sitting at the base of Kirkjufell mountain beside a wide fjord. It has the functional character of a real fishing community rather than a tourist village — fish processing, boats, and a harbour alongside a growing layer of visitor infrastructure drawn by the Kirkjufell phenomenon. The town has a couple of guesthouses, a campsite, and a restaurant.

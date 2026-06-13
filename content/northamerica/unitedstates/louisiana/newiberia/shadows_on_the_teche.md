@@ -9,6 +9,7 @@ latitude: 30.00439
 longitude: -91.81566
 story: >
   Shadows-on-the-Teche was acquired by the National Trust for Historic Preservation in 1958, making it one of the first Southern plantation houses to pass into national stewardship. The donation was made by Weeks Hall, the last private owner, who had spent his life as a painter and preservationist. Hall famously invited visitors including Walt Disney, Mae West, and Henry Miller to the house; their signatures are collected in a guest book that now forms part of the archive.
+score: 8.3
 ---
 
 Shadows-on-the-Teche is a National Historic Landmark on Main Street in the heart of New Iberia — a Greek Revival plantation house built in 1834 by sugar planter David Weeks, set directly on the bank of Bayou Teche under a canopy of live oak trees. The house is one of the best-preserved antebellum plantation homes in Louisiana, managed by the National Trust for Historic Preservation with a relatively honest interpretation of both the planter's family history and the enslaved workforce that built and operated the estate.

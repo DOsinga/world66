@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.7422
 longitude: -74.0339
+score: 6.7
 ---
 
 The Church of Our Lady of Grace is a substantial Gothic Revival brick church a block off Washington Street, built between 1874 and 1876 for the city's Irish Catholic community. Twin spires, a rose window, and an interior with cathedral-scaled vaulting make it the most architecturally serious building in central Hoboken.

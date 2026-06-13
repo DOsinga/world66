@@ -7,6 +7,7 @@ tags:
 - museum
 title: Tulcea Art Museum
 type: poi
+score: 6.9
 ---
 
 The Tulcea Art Museum occupies a stately 19th-century townhouse on Grigore Antipa Street, with a small but well-curated permanent collection of Romanian painting and sculpture from the 19th century to the present. Highlights include works by Theodor Pallady, Ștefan Luchian and Nicolae Tonitza — major names in Romanian modernism — alongside local Dobrujan artists.

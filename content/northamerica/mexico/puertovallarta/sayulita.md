@@ -8,6 +8,7 @@ tags:
 - beach
 title: Sayulita
 type: poi
+score: 7.3
 ---
 
 A small surf town an hour up the coast from Puerto Vallarta — bohemian, brightly painted, and now firmly on the international yoga-and-surf circuit. The main break is mellow enough for beginners and there are dozens of board-rental and lesson shops along the beach. The downtown is a grid of cobblestone streets crammed with taquerías, surf shops, Huichol art galleries, and trendy boutiques.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Kanmon_Roadway_Tunnel
 story: >
   The tunnel opened in 1958, making it possible to cross between Honshu and Kyushu entirely on foot. At the midpoint, a painted line on the floor marks the boundary between Yamaguchi Prefecture and Fukuoka Prefecture — one of the few places in Japan where you can step from one prefecture to another underground, without getting wet.
+score: 6.8
 ---
 
 The Kanmon Pedestrian Tunnel runs 780 metres beneath the Kanmon Strait, connecting Shimonoseki on Honshu with Moji on the Kyushu side. Access is by elevator from the Mimosusogawa-cho entrance on the Shimonoseki waterfront, about 2km east of Shimonoseki Station. The crossing is free for pedestrians; cyclists pay 20 yen and must wheel their bikes.

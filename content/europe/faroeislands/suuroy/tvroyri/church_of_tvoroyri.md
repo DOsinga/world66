@@ -9,6 +9,7 @@ tags:
 - church
 title: Church of Tvøroyri
 type: poi
+score: 6.6
 ---
 
 The Church of Tvøroyri stands above the town on a small rise, its red-painted wooden exterior visible from the fjord below. The building dates from 1908, replacing an earlier structure, and is typical of the Faroese national church style — a modest wooden frame with a turf roof on the vestry extension and interior woodwork painted in the pale greens and creams that characterise the island's churches.

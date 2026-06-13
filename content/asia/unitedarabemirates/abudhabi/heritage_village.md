@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 24.4769
 longitude: 54.3367
+score: 6.9
 ---
 
 A reconstructed traditional village on the breakwater at the western end of the Corniche, run by the Emirates Heritage Club. It is part open-air museum, part craft workshop: a Bedouin tent, a falaj irrigation channel, a souk of small workshops where potters, weavers, and metalsmiths do their work in front of you.

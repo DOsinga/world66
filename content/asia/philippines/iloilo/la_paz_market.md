@@ -7,6 +7,7 @@ tags:
 latitude: 10.7157
 longitude: 122.5628
 story: La Paz batchoy was invented in this market in the 1940s by Federico Guillergan Sr., who ran a noodle stall called Ted's. The dish — wheat noodles in pork broth with liver, kidney, and heart, topped with chicharron and a raw egg — became the signature food of Iloilo and eventually spread across the Philippines. The original Ted's La Paz Batchoy stall is still operating, still in the market, and still widely considered to make the best version.
+score: 7.7
 ---
 
 La Paz Market is a large public market in the La Paz district, northwest of the Iloilo city centre, and the original home of la paz batchoy — the noodle soup that put Iloilo on the Filipino food map. The market is busy from early morning with fresh produce, meat, fish, and cooked food stalls, but the main reason to come is Ted's La Paz Batchoy, the original restaurant founded by Federico Guillergan in the 1940s at a stall inside the market.

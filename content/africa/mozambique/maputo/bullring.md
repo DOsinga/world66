@@ -10,6 +10,7 @@ tags:
   - sight
   - architecture
 story: Bullfighting in Lourenço Marques never enjoyed the popularity it did in Portugal, and the ring closed for good after independence in 1975. For years it stood empty and partly used as a livestock market; the round, almost colosseum-like silhouette is now one of the more incongruous sights in the city skyline, framed by Maputo's prefab apartment blocks.
+score: 7.0
 ---
 
 The **Praça de Touros Monumental de Lourenço Marques** is a striking circular concrete shell in the Malhangalene district, built in 1956 for bullfighting and abandoned in 1975. The architecture is unmistakable — a low, ringed concrete arena in the Portuguese late-modernist mode, a smaller cousin of Lisbon's Campo Pequeno.

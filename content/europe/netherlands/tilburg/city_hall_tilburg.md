@@ -14,6 +14,7 @@ story: >
   was completed as his winter residence. He had suffered a stroke while out riding, and was brought
   to the palace where he died within days. The city bought the building shortly afterwards and
   it has been the town hall ever since.
+score: 6.3
 ---
 
 The Tilburg city hall began life as a royal palace — King Willem II had it built in 1849 as a private winter residence, and the neo-classical building is noticeably grander than any working municipal building would usually be. The king died in the palace that same year, and the city acquired it shortly afterwards.

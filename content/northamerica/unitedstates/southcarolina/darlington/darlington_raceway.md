@@ -9,6 +9,7 @@ longitude: -79.9059
 snippet: NASCAR's oldest superspeedway, shaped around a minnow pond
 story: >
   The track's odd egg shape — wider at one end than the other — is a direct result of Harold Ramsay refusing to let the builders drain his minnow pond. Rather than fight him, Harold Brasington designed around it. That quirk has tormented drivers for 75 years.
+score: 8.7
 ---
 
 Darlington Raceway opened in September 1950, making it NASCAR's oldest surviving superspeedway. Unlike the near-perfect ovals at Talladega or Daytona, Darlington's asymmetric layout means the two ends of the track handle completely differently — Turn 1 is tighter, Turn 3 is more open — and the concrete wall is notoriously unforgiving. The distinctive black streak from tire rubber scraped along the outside barrier is known as the "Darlington Stripe," a badge of dishonor that even great drivers collect.

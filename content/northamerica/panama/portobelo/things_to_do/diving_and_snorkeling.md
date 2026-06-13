@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 9.5490
 longitude: -79.6490
+score: 7.2
 ---
 
 Portobelo's bay is one of the better diving destinations on Panama's Caribbean coast, and it is accessible without a boat for much of it. The bay holds several wrecks — including the Buena Vista, a cargo ship resting at around 10 metres — as well as coral reefs with reasonable visibility on calm days. The reefs are close enough to shore that confident snorkellers can reach them from the beach; scuba divers will find the wrecks the main draw.

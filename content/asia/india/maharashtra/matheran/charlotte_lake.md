@@ -9,6 +9,7 @@ latitude: 18.9778
 longitude: 73.2678
 sources:
   - https://en.wikipedia.org/wiki/Matheran
+score: 7.0
 ---
 
 The main water reservoir for Matheran, Charlotte Lake sits at the southern edge of the plateau in a quiet wooded setting. The walk down from town takes about 20 minutes and passes through dense forest — good for birds, especially in the early morning. Racket-tailed drongos, crested serpent eagles, and Malabar whistling thrushes are all commonly seen in the trees around the lake.

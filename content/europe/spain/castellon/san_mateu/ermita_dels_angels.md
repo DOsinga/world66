@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, church]
 latitude: 40.475
 longitude: 0.176
+score: 6.2
 ---
 
 The Ermita dels Àngels stands on a low hill about a kilometre north of Sant Mateu, reached by a stone-paved track from the edge of town. The hermitage dates to the 17th century but sits on the site of much older sanctuaries; it is the focal point of the town's pilgrimage on the Monday after Easter, when most of Sant Mateu walks up the hill for a picnic.

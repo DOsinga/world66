@@ -7,6 +7,7 @@ tags:
 latitude: -41.1333
 longitude: -71.3097
 snippet: "Natural history and Mapuche culture in the Civic Centre"
+score: 7.9
 ---
 
 The Museo de la Patagonia occupies the eastern wing of the Centro Civico and is named after Francisco P. Moreno, the explorer-naturalist who donated the lands that became Nahuel Huapi National Park — Argentina's first. The museum is small but very good. Ground-floor galleries cover the geology, flora, and fauna of Patagonia, with taxidermy from pumas and condors to the tiny pudu deer.

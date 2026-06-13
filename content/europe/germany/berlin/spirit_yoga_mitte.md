@@ -11,6 +11,7 @@ tags:
 title: Spirit Yoga
 type: poi
 url: www.spirityoga.de
+score: 5.7
 ---
 
 One of Berlin's well-regarded yoga studios, with two locations (Mitte and West). Over 35 classes weekly, mainly in Vinyasa Flow style. Both beginners and experienced practitioners are welcome — the Mitte studio is conveniently central for anyone staying in the east of the city.

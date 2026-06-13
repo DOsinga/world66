@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -9.4500
 longitude: 35.1500
+score: 8.1
 ---
 
 The southern edge of the Njombe plateau drops away spectacularly into the **Kilombero valley** — a 1,500-metre escarpment of forested cliffs and tea estates. The view east toward Mahenge from the Lupembe-Madeke road is the most dramatic single panorama in southern Tanzania.

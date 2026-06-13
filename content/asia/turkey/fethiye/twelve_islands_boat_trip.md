@@ -6,6 +6,7 @@ tags:
 snippet: Full-day gulet cruise around the islands and coves of Fethiye Bay
 latitude: 36.6220
 longitude: 29.1080
+score: 5.8
 ---
 
 The twelve islands boat trip is one of Fethiye's most popular excursions — a full-day cruise on a traditional wooden gulet around the islands and coves of the bay. The standard route includes swimming stops at Tersane Island (with a ruined Ottoman shipyard), Yassıca Islands (flat rocks perfect for sunbathing), and Kızılada (Red Island). Lunch is usually included, cooked on board.

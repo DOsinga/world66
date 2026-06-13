@@ -8,6 +8,7 @@ tags:
 neighbourhood: Saadiyat Island
 latitude: 24.5418
 longitude: 54.4078
+score: 7.1
 ---
 
 A multi-purpose arts venue on Saadiyat Island that doubles as a permanent visitor centre for the Saadiyat cultural district. The architectural models of the planned museums — Guggenheim, Zayed National Museum, the Performing Arts Centre — are on permanent display and worth a visit even before those institutions open.

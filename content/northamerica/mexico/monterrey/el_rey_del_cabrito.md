@@ -8,6 +8,7 @@ tags:
   - restaurant
   - barrio_antiguo
 neighbourhood: Barrio Antiguo
+score: 7.3
 ---
 
 El Rey del Cabrito is the most famous cabrito restaurant in Monterrey — and since Monterrey is the capital of cabrito in Mexico, that makes it worth knowing about. The restaurant has been operating in the city centre since 1966, and the roast baby goat here is as good as it gets. The atmosphere is festive and slightly touristy, which doesn't diminish the food.

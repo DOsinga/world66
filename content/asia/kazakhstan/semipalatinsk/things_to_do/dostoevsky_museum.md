@@ -15,6 +15,7 @@ story: >
   before a last-minute reprieve arrived. He spent five years here as a private in
   the Siberian Army Corps, writing and rebuilding his faith. Notes from the House of
   the Dead, his account of the labour camp, was drafted largely in this city.
+score: 8.7
 ---
 
 Fyodor Dostoevsky was posted to Semipalatinsk in 1854 following four years of hard labour in Omsk, the punishment for his involvement with a group of radical intellectuals in St Petersburg. He lived and wrote here until 1859, a period that proved transformative: he fell in love for the first time, regained his civil rights, and began the literary work that would lead to *Notes from the House of the Dead* and, later, the great novels.

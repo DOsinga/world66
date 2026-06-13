@@ -10,6 +10,7 @@ longitude: 12.543427
 sources:
   - https://en.wikipedia.org/wiki/Rungstedlund
 story: "Blixen wrote most of her major works at Rungstedlund after returning from Africa in 1931, having lost both her coffee farm and the great love of her life. She is buried in the garden under a beech tree at her own request — a grave that is famously simple for someone who was nominated repeatedly for both the Nobel Prize in Literature and the Nobel Peace Prize."
+score: 8.3
 ---
 
 The Karen Blixen Museum occupies the white 18th-century manor house at Rungstedlund where Blixen was born in 1885, lived for most of her life, and died in 1962. She is best known internationally for *Out of Africa*, the memoir of her years managing a coffee farm outside Nairobi, and for her collections of Gothic tales written under the pen name Isak Dinesen.

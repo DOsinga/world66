@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: Quiet park with a children's playground on the city's east side
+score: 6.7
 ---
 
 Parque Tabladita is a small green park on the eastern edge of the historic centre, on Calle Hernando Siles, much used by local families at weekends. It has tall eucalyptus trees, a children's playground, a couple of food carts selling api (a hot purple corn drink) and pasteles (fried cheese pastries), and a small open-air theatre that occasionally hosts free concerts. It is the kind of neighbourhood park that tourists never find but local life flows around.

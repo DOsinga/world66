@@ -6,6 +6,7 @@ longitude: 110.4283
 tags:
   - beaches
   - sight
+score: 8.1
 ---
 
 Smaller and quieter than its larger neighbour, Menjangan Kecil is fringed by some of the most photogenic reefs in the park — shallow, sandy-bottomed, with table corals close enough to the surface to walk over at low tide. The snorkelling here is the highlight of most standard day-trip itineraries.

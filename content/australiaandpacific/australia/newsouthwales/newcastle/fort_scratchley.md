@@ -9,6 +9,7 @@ tags:
 snippet: "Coastal fort that fired back at a Japanese submarine in 1942"
 title: Fort Scratchley
 type: poi
+score: 8.2
 ---
 
 A nineteenth-century coastal fortification perched on the headland above Nobbys Beach, with sweeping views over the harbour entrance and the ocean. The tunnels and gun emplacements are open for self-guided exploration, and the military museum inside the fort tells the story of Newcastle's role in both World Wars. Entry to the grounds is free; the tunnel tours charge a small fee.

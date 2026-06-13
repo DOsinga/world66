@@ -10,6 +10,7 @@ tags:
 - public_transport
 title: Subway Metro
 type: poi
+score: 6.6
 ---
 
 The Shenzhen Metro is the backbone of public transport in the city and the easiest way to move between the main commercial and residential districts. The network has grown rapidly and now covers most areas a visitor is likely to need, including Futian, Luohu, Nanshan, and the high-speed rail stations.

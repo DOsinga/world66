@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.0000
 longitude: 96.4500
+score: 7.8
 ---
 
 Anisakan Falls is the most dramatic of the waterfalls near Pyin Oo Lwin. The approach involves a steep descent through forest — around 45 minutes each way on foot — before you emerge at a plunge pool fed by a cascade dropping sharply through the tree cover. The hike is worth it: the falls are genuinely beautiful, and the forest path is quiet and birdy in the early morning.

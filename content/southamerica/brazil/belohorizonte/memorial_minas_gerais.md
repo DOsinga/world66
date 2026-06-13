@@ -7,6 +7,7 @@ tags:
 - museum
 title: Memorial Minas Gerais Vale
 type: poi
+score: 7.9
 ---
 
 The Memorial Minas Gerais Vale opened in 2010 in another of the restored neoclassical palaces on Praça da Liberdade. The museum is essentially a multimedia portrait of the state — its writers, musicians, religious traditions, food, sport, and political life — told across two floors of installations that mix film, sound, objects, and interactive panels.

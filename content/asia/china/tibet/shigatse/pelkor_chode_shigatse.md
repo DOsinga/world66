@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 29.1066
 longitude: 86.8698
+score: 7.1
 ---
 
 Rinchen Gang, also known locally as the Chode Monastery, is a smaller religious site within the old quarter of Shigatse that predates Tashilhunpo and belongs to a different tradition — the Sakya sect rather than the Gelug. The temple complex is compact and unpolished, with an assembly hall containing older-style murals and a handful of monks in residence. It receives almost no tourists and makes a refreshing contrast to the well-managed monastery up the road.

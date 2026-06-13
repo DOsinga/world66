@@ -11,6 +11,7 @@ story: >
   Mary Leakey found the skull of Paranthropus boisei — initially called "Nutcracker Man" for his enormous molars — on the morning of 17 July 1959, while her husband Louis was ill in camp with influenza. She ran back to camp shouting "I've found him! I've found him!" The skull, dated to 1.75 million years old, was the first hominid fossil to be definitively associated with stone tools, and transformed paleoanthropology. Louis later described it as "the most significant fossil find of our generation."
 sources:
   - https://en.wikipedia.org/wiki/Olduvai_Gorge
+score: 8.4
 ---
 
 Olduvai Gorge — technically the Oldupaai Gorge in Maasai — sits just outside the Serengeti's southern boundary in the Ngorongoro Conservation Area, a steep ravine cut 90 metres deep by an ancient stream into volcanic sediments that preserve an extraordinary record of human evolution. The Leakey family worked here from the 1930s onwards, finding the fossils and stone tools that established eastern Africa as the cradle of humanity.

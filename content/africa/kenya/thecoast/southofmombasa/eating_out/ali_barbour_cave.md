@@ -6,6 +6,7 @@ tags:
   - eating_out
 title: Ali Barbour's Cave Restaurant
 type: poi
+score: 6.9
 ---
 
 One of Kenya's most atmospheric dining settings: a natural coral cave that opens to the night sky, set right on Diani Beach. The cave has been used as a restaurant for decades and is a longstanding fixture of Diani's dining scene. Tables are set on the cave floor, lit by lanterns, with the sound of the ocean close by.

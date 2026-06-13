@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -26.1458
 longitude: 28.0426
+score: 6.7
 ---
 
 Rosebank sits between Sandton and the CBD and has a more relaxed, neighbourhood feel than either. The Walk in Rosebank precinct is a well-designed open-air strip with galleries, independent restaurants, and coffee shops — a decent place to spend an afternoon without a specific agenda. The Zone @ Rosebank has a good cinema and several decent bars.

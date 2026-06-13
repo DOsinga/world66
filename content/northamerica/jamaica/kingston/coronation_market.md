@@ -8,6 +8,7 @@ latitude: 17.9822
 longitude: -76.7958
 story: >
   Coronation Market opened in 1954, the year after the coronation of Elizabeth II — hence the name. It is the largest open-air market in the English-speaking Caribbean, covering several blocks of West Downtown, and on Saturday mornings it handles a significant fraction of the food supply for the entire Kingston metropolitan area.
+score: 8.2
 ---
 
 Coronation Market on West Queen Street is one of the great markets of the Caribbean — massive, chaotic, and entirely genuine. On Saturday mornings, when trade peaks, thousands of vendors spread across covered stalls and the surrounding streets selling produce brought in from across Jamaica: yams, breadfruit, callaloo, scotch bonnets, green bananas, ackee, sorrel. The noise and density are considerable, and the market rewards those who come without a specific shopping agenda, simply to watch how a major city moves its food.

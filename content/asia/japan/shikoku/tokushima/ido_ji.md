@@ -7,6 +7,7 @@ tags:
 - sight
 title: Ido-ji
 type: poi
+score: 6.7
 ---
 
 Tokushima's stop on the Shikoku Henro, the 1,200-km pilgrimage circuit of 88 temples associated with the monk Kukai. Ido-ji is the seventeenth temple on the route and sits in a residential neighbourhood at the western edge of the city, its name meaning "well temple" after the spring Kukai is said to have struck open with his staff in 815.

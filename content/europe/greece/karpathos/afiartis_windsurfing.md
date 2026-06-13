@@ -8,6 +8,7 @@ latitude: 35.5428
 longitude: 27.1461
 story: >
   Afiartis was "discovered" by the professional windsurfing circuit in the 1980s and has been one of the sport's cult venues ever since. The consistent summer meltemi funnels through the bay at 25–35 knots almost every afternoon from June through August.
+score: 8.2
 ---
 
 The bay at Afiartis, on the southern tip of Karpathos, is one of the finest windsurfing locations in Europe. The meltemi — the strong north wind that sweeps the Aegean each summer — channels through here with remarkable regularity, creating textbook conditions for freestyle and wave riding. Several schools operate on the beach offering tuition and equipment hire.

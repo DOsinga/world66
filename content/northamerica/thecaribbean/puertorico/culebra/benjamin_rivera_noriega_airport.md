@@ -6,6 +6,7 @@ longitude: -65.3044
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 Culebra's tiny airstrip, named after a local mayor, sits just north of Dewey. Single-runway, single-terminal, no jet bridges, no security theatre — the kind of small Caribbean airport that has all but disappeared elsewhere. Air Flamenco and Vieques Air Link run several daily hops to and from San Juan and Ceiba in nine-seat Britten-Norman Islanders.

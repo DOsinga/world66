@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6658
 longitude: 116.9983
+score: 7.7
 ---
 
 Zhenzhu Spring — Pearl Spring — is named for the strings of bubbles that rise from the sandy bottom of the pool, catching the light like pearls as they rise. The spring is set within a historic compound in the old city north of Baotu Spring that was once a Ming Dynasty palace; the buildings around it are among the most atmospheric historic structures surviving in central Jinan.

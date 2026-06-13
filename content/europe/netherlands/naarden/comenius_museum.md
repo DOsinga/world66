@@ -15,6 +15,7 @@ tags:
   - museum
 title: Comenius Museum
 type: poi
+score: 6.8
 ---
 
 Dedicated to Jan Amos Comenius, the Moravian bishop and philosopher who is sometimes called the father of modern education. His ideas — that education should be universal, systematic, and adapted to the child's natural development — were radical in the 1650s and sound remarkably contemporary now. The museum covers his life, his major works including the *Orbis Sensualium Pictus* (one of the first illustrated children's textbooks), and his influence on European thought. Small but well put together.

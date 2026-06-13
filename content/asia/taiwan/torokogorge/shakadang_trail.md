@@ -14,6 +14,7 @@ story: >
   current name comes from the Truku Indigenous word for the area.
   The Truku people have lived in this valley for centuries; their ancestors
   built many of the paths that became the Cross-Island Highway.
+score: 8.8
 ---
 
 The Shakadang Trail is a flat, easy walk along a narrow ledge above the Shakadang River — a turquoise tributary of the Liwu River that cuts through a smaller but equally dramatic marble canyon. The trail runs about 4.5 kilometres from the trailhead (near the gorge entrance) to a rest area with cold drinks; the return trip takes about three hours at a leisurely pace.

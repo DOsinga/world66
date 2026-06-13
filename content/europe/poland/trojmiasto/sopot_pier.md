@@ -6,6 +6,7 @@ latitude: 54.4413
 longitude: 18.5625
 story: >
   The Sopot pier has burned down twice — in 1914 and again in 1945 — and been rebuilt both times. Its current length of 511.5 metres makes it the longest wooden pier in Europe. In summer, a small pleasure boat service runs from the pier to Gdansk and Gdynia, tracing the coastline of the Gulf of Gdansk.
+score: 6.8
 ---
 
 The Sopot pier stretches 511 metres out into the Gulf of Gdansk, easily the longest wooden pier in Europe. Walking its length in either direction takes about ten minutes and gives you open sea views with the sweep of the bay to the north and south. At the end, a small pavilion hosts a café and a viewing platform.

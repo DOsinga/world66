@@ -8,6 +8,7 @@ tags:
 latitude: 42.341132
 longitude: -88.045034
 snippet: "Large restored prairie and wetland with excellent birding"
+score: 7.6
 ---
 
 Rollins Savanna is one of Lake County's best natural areas — around 1,400 acres of restored tallgrass prairie, oak savanna, and wetlands managed by the Lake County Forest Preserves. The restoration project has been underway since the 1990s, gradually eliminating invasive species and reintroducing native grasses and wildflowers. The results are visible in the diversity of wildlife the area now supports.

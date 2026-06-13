@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.1274
 longitude: -9.7022
+score: 6.1
 ---
 
 The Inishmore Lighthouse stands on the highest point of the island, a white tower that was decommissioned in 2011 after more than a century of service and is now a holiday cottage. It cannot be entered by casual visitors, but the walk to the lighthouse from the road near Bun Gabhla crosses the open limestone plateau and provides some of the best views on the island: north over Galway Bay toward Connemara, west toward the Atlantic, and back over the island's interior with its grid of stone walls.

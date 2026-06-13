@@ -6,6 +6,7 @@ tags:
 - nightlife
 title: Pines Lounge
 type: poi
+score: 4.4
 ---
 
 A karaoke bar at the Rosa Passadena complex in Brinchang. It's one of the few late-night options in the Cameron Highlands, where nightlife is otherwise very quiet. The atmosphere is relaxed and local — don't expect anything fancy, but it's a decent spot to unwind after a day of tea plantation visits.

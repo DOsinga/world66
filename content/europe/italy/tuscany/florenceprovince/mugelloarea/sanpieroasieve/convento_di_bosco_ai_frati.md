@@ -11,6 +11,7 @@ tags:
 - church
 title: Convento di Bosco ai Frati
 type: poi
+score: 8.0
 ---
 
 A Franciscan convent and church rebuilt by Michelozzo for Cosimo de' Medici. The complex includes a small museum housing a precious wooden crucifix attributed to Donatello. Open every day; for information call 055848111.

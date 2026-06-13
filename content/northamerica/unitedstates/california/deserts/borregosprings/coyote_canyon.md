@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
   - wildlife
+score: 8.2
 ---
 
 A long sandy canyon running north from Borrego Springs into the mountains, with one of the few year-round streams in the park and a string of palm groves along its length. The lower section is open to four-wheel-drive vehicles; further up, the route becomes hiking only. Bighorn sheep, deer and the occasional mountain lion live here, and the canyon is closed to visitors from mid-June to mid-September to give wildlife uninterrupted access to the water.

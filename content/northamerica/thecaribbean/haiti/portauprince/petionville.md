@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 18.5118
 longitude: -72.2918
+score: 7.3
 ---
 
 The hilltop suburb where Port-au-Prince's middle and upper classes live, and the most functional part of the metropolitan area for travelers. At 900 metres above sea level it is noticeably cooler than the lower city, and its tree-lined streets, galleries, restaurants, and supermarkets feel like a different world. Many of the country's best restaurants are here, and the art scene — galleries selling Haitian paintings, metalwork, and sculpture — is concentrated in Pétion-Ville more than anywhere else in the city.

@@ -9,6 +9,7 @@ longitude: 24.8419
 snippet: Large garden in the Pirita suburb with 8,000 plant species and a palm house
 sources:
   - https://en.wikipedia.org/wiki/Tallinn_Botanic_Garden
+score: 7.1
 ---
 
 The Tallinn Botanic Garden in Pirita holds over 8,000 plant species across 123 hectares of open gardens and glasshouses, including a large palm house, a rose garden, and a well-designed collection of native Estonian plants. It opened in 1961 and, by the standards of Eastern European botanical gardens of its era, has been consistently well maintained.

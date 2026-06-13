@@ -8,6 +8,7 @@ tags:
   - temple
 latitude: 5.8400
 longitude: -55.1650
+score: 6.3
 ---
 
 Paramaribo has a significant Javanese community — descendants of indentured labourers brought from Java (then the Dutch East Indies) in the late 19th and early 20th centuries — as well as a Chinese community with its own religious traditions. The Buddhist temples serving these communities add another layer to the city's extraordinary religious landscape, where you can hear the call to prayer, see saffron-robed monks, and pass a synagogue all within a few blocks.

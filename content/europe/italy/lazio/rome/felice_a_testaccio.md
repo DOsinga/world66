@@ -15,6 +15,7 @@ tags:
 - restaurant
 title: Felice a Testaccio
 type: poi
+score: 8.0
 ---
 
 A Rome institution since 1936 in the working-class Testaccio neighbourhood — historically the city's slaughterhouse district and still the heartland of traditional Roman cucina. The tonnarelli cacio e pepe is finished tableside and widely regarded as one of the best versions in the city. The rigatoni con pajata (calf intestines with tomato) and coda alla vaccinara are for the more adventurous.

@@ -3,6 +3,7 @@ title: "Military Base Facilities"
 type: poi
 latitude: 8.720
 longitude: 167.736
+score: 2.4
 ---
 
 Kwajalein Island has US military dining facilities, a convenience store, and a small supermarket available to base residents and authorised guests. The facilities are functional and well-stocked by remote Pacific standards — the US military supply chain ensures that.

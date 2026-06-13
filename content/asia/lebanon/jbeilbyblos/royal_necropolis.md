@@ -11,6 +11,7 @@ story: "One of the tombs in this necropolis, the Tomb of Ahiram (circa 1000 BC),
 sources:
   - https://en.wikipedia.org/wiki/Royal_necropolis_of_Byblos
   - https://en.wikipedia.org/wiki/Bronze_Age_necropolis_of_Byblos
+score: 7.7
 ---
 
 The Royal Necropolis of Byblos contains nine Bronze Age shaft tombs cut into the bedrock of the archaeological site, housing the burials of Phoenician kings from the 2nd millennium BC. The tombs were discovered during the French excavations of the 1920s and yielded extraordinary grave goods — gold jewellery with Egyptian and local Phoenician motifs, alabaster vessels, bronze weapons, and the famous Sarcophagus of Ahiram. Several of the shaft tombs are open to view at the site, some excavated to show the original depth and burial structure.

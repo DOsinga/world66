@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.1550
 longitude: 73.7600
+score: 7.0
 ---
 
 The shrine complex at Khari Sharif, a short drive from central Mirpur, holds the tombs of two significant figures: Mian Muhammad Bakhsh, the 19th-century Punjabi poet and Sufi who wrote the romantic epic *Saif-ul-Mulook*, and his teacher Pir-e-Shah Ghazi. The shrine is an active pilgrimage site visited by devotees from across Azad Kashmir and Pakistani Punjab, particularly on the anniversary of the poet's death.

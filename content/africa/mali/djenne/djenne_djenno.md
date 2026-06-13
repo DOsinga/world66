@@ -10,6 +10,7 @@ tags:
 - sight
 title: Djenné-Djenno
 type: poi
+score: 7.7
 ---
 
 Djenné-Djenno (Old Djenné) is the archaeological mound about three kilometres south-east of the modern town, marking the location of an even older city that flourished from around 250 BCE until it was abandoned in the 13th century. Excavations led by Roderick and Susan McIntosh in the 1970s and 1980s uncovered evidence of iron production, terracotta sculpture, and dense urban settlement — pushing the date of urbanism in West Africa back by more than a thousand years and forcing a rewrite of the region's history.

@@ -9,6 +9,7 @@ tags:
 latitude: 43.0397
 longitude: -83.7044
 address: "1400 East Kearsley Street, Flint, MI 48503"
+score: 8.0
 ---
 
 The 34-acre estate of Charles Stewart Mott, the founder of the Mott Foundation and once GM's largest shareholder, sits a short distance north of downtown. The 1916 arts-and-crafts house is open for limited tours; the gardens — formal beds, orchards, working hops yard, beekeeping demonstrations — are open most of the year and free to wander.

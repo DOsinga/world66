@@ -6,6 +6,7 @@ longitude: 9.7467
 tags:
   - things_to_do
   - museum
+score: 7.7
 ---
 
 The Vorarlberg Museum is the state art and cultural history museum of Austria's Vorarlberg region, sitting a few steps from the Kunsthaus on the lakeside. The building, redesigned and reopened in 2013, has an unconventional facade of cast concrete elements that references the region's craft tradition. Inside, the collection spans archaeology, folk art, and applied design from prehistory to the present.

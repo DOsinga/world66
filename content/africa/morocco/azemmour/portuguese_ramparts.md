@@ -8,6 +8,7 @@ latitude: 33.2878
 longitude: -8.342
 story: >
   The Portuguese occupied Azemmour from 1513 to 1541, and among the soldiers in the 1513 campaign of conquest was Ferdinand Magellan — who would go on to lead the first circumnavigation of the globe. Azemmour is also where Estevanico was born and enslaved, before becoming the first African to explore what is now the United States.
+score: 8.0
 ---
 
 The Portuguese circuit of walls is Azemmour's most impressive sight. Built and reinforced during the 28 years of Portuguese occupation (1513–1541), they follow the curve of the Oum er-Rbia river and are best appreciated from the opposite bank, where the full scale of the fortifications becomes clear — towers, crenellations, and whitewashed medina houses rising directly from the water.

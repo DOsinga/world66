@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Café Nabbensberg
 type: poi
+score: 5.3
 ---
 
 The café attached to Vänersborg Museum occupies a terrace on the slope of the Nabbensberg hill with a view across the rooftops toward Lake Vänern. In summer the outdoor seating is the best place in the city for a fika — the Swedish coffee-and-cake ritual that anchors most social occasions. Cinnamon buns, open sandwiches, and a rotating selection of home-baked cakes are the staples.

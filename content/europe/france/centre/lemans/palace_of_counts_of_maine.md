@@ -9,6 +9,7 @@ latitude: 48.0075
 longitude: 0.1974
 sources:
   - https://en.wikipedia.org/wiki/Palace_of_the_Counts_of_Maine
+score: 7.5
 ---
 
 The Palace of the Counts of Maine stands within the old city walls and represents one of the few surviving medieval palaces in northwestern France. The structure dates from the Merovingian period in its earliest foundations, with substantial rebuilding in the 9th and 10th centuries when it served as the residence of the counts who governed the province of Maine.

@@ -14,6 +14,7 @@ story: "The Certosa was commissioned in 1396 by Gian Galeazzo Visconti as a maus
   of the cloisters, but the deeper monastery remains closed."
 snippet: Grand Carthusian monastery with one of the most ornate Renaissance facades in Italy
 type: poi
+score: 9.2
 ---
 
 The Certosa di Pavia, 8 kilometres north of the city, is the finest thing in the province. The facade of the church, a cliff of white marble encrusted with medallions, statues, and bas-reliefs, is an extraordinary piece of Renaissance ambition — more decoration than architecture, applied over decades by a succession of sculptors. Inside, the church is vast and serene, with Visconti and Sforza tombs and frescoed chapels. The great cloister, with its terracotta ornament and herb garden, is one of the great monastic spaces in Italy.

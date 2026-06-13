@@ -9,6 +9,7 @@ latitude: -37.1349
 longitude: 175.5376
 sources:
   - https://en.wikipedia.org/wiki/Thames_School_of_Mines
+score: 7.8
 ---
 
 The Thames School of Mines was established in 1886 to train engineers and managers for the hard-rock goldfields of the Coromandel. Its graduates worked mines across New Zealand, Australia, and the Pacific. The building — a handsome two-storey structure near the centre of Thames — is now a nationally significant museum containing an extraordinary collection of mining equipment, geological specimens, and documents from the goldfield era.

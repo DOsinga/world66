@@ -8,6 +8,7 @@ tags:
 latitude: 32.6267
 longitude: -117.1080
 story: "The Chula Vista Bayfront development is one of the largest coastal redevelopment projects on the California coast — a 535-acre transformation of former industrial land on San Diego Bay that was set in motion in 2018. At its heart is a new convention centre and hotel, but the public parkland, nature trails, and bay access form the real reason most people will come."
+score: 6.9
 ---
 
 The Chula Vista Bayfront stretches along San Diego Bay south of downtown San Diego, occupying what was for decades a mix of abandoned industrial lots and undeveloped coastal land. The redevelopment project has created new waterfront parks, kayak launch areas, fishing spots, and walking trails with unobstructed views across the bay toward the Coronado Bridge and Point Loma.

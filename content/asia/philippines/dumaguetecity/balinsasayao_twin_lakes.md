@@ -15,6 +15,7 @@ story: >
   agriculture since the 19th century. The lakes and their forest are now a
   critical refuge for birds found nowhere else in the world, including the
   Negros Bleeding-heart Pigeon.
+score: 7.4
 ---
 
 Two linked crater lakes set in protected rainforest about 22 km inland from Dumaguete, accessible by a combination of habal-habal (motorcycle taxi) and a short hike. The lakes are rimmed by tall forest, and the path between them passes through dense vegetation with good birdwatching opportunities. Kayaks and bancas (outrigger canoes) can be hired on the water.

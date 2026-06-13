@@ -6,6 +6,7 @@ longitude: -98.3981
 tags:
   - things_to_do
   - museum
+score: 7.5
 ---
 
 The Museum of the Great Plains, in Elmer Thomas Park on the north side of Lawton, covers the long history of the southern plains from the late Pleistocene through the cattle-drive era. Strong sections cover the Comanche horse culture, the buffalo trade, the 1901 land lottery that founded Lawton, and the dust-bowl years.

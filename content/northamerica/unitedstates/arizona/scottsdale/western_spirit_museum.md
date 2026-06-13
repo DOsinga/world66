@@ -8,6 +8,7 @@ tags:
   - museum
   - old_town
 neighbourhood: Old Town
+score: 7.8
 ---
 
 The American West museum opened on the south side of Old Town in 2015 and quickly became one of Scottsdale's strongest cultural draws. It rotates exhibits across cowboy and Native American art, photography of the West, and the cultural history of the nineteen-state region the museum defines as "the West".

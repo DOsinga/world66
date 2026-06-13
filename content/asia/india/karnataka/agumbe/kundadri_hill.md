@@ -8,6 +8,7 @@ tags:
 latitude: 13.5579
 longitude: 75.1690
 snippet: Forested hill 17km from Agumbe with a 17th-century Jain temple and sweeping Ghats views
+score: 8.3
 ---
 
 Kundadri Hill rises 826 metres in the Shimoga district of the Western Ghats, about 17 kilometres from Agumbe on the Theerthahalli road. A narrow road climbs almost to the summit, from where a short path leads to a 17th-century Jain temple dedicated to Parshwanath, the 23rd Tirthankara. The temple is active and maintained, set among massive rock outcrops with forest all around.

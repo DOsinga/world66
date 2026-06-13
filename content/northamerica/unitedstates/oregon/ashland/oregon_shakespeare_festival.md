@@ -10,6 +10,7 @@ longitude: -122.7082
 sources:
   - https://en.wikipedia.org/wiki/Oregon_Shakespeare_Festival
   - https://en.wikipedia.org/wiki/Allen_Elizabethan_Theatre
+score: 9.4
 ---
 
 The Oregon Shakespeare Festival is one of the largest regional theatre companies in the United States and the reason most people come to Ashland. Founded in 1935 by Angus Bowmer on a repurposed Chautauqua grounds, it now runs eight to eleven productions each season — Shakespeare alongside new and contemporary works — across three venues on a single compact campus in the centre of town.

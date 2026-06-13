@@ -9,6 +9,7 @@ latitude: 44.9763
 longitude: -93.2735
 story: >
   Wilbur Foshay modelled the 1929 tower on the Washington Monument and hired John Philip Sousa to compose a march for the opening celebration. He paid Sousa $20,000 but the check bounced when his utilities empire collapsed just two months after the tower opened. Sousa refused to allow the march to be performed for 30 years — until the debt was finally paid by a Minnesota businessman in 1959.
+score: 8.0
 ---
 
 The Foshay Tower is a 32-story obelisk-shaped skyscraper from 1929 that was the tallest building in Minneapolis for 43 years. Designed to resemble the Washington Monument, it is an extraordinary piece of art deco ambition: a tapering square shaft clad in limestone, with the name "FOSHAY" spelled out in large letters on all four sides near the top.

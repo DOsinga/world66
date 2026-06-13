@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Kearney County Courthouse in the centre of Minden is a handsome brick building listed on the National Register of Historic Places. Built in a restrained Neoclassical style typical of Nebraska county courthouses from the early 20th century, it anchors the small downtown square with the W.T. Thorne Building across the street.

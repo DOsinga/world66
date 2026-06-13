@@ -10,6 +10,7 @@ tags:
   - nature
   - hiking
 story: "At Agawa Rock within the park, Ojibwe pictographs painted in red ochre at least 150 to 400 years ago depict canoes, lynxes, and Mishipeshu — the horned underwater serpent said to control the storms on Lake Superior. The rock face is reached by a short but slippery trail, and Park rangers warn that the lake's waves have killed visitors who lingered too long on the ledge."
+score: 8.8
 ---
 
 Just south of Wawa, the Trans-Canada Highway threads through one of the most spectacular stretches of Lake Superior coastline anywhere. Lake Superior Provincial Park covers more than 1,500 square kilometres of granite headlands, beaches, boreal forest, and trout streams. It is the obvious day trip from Wawa, and a great destination in its own right.

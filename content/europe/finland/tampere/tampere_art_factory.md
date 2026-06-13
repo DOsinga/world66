@@ -7,6 +7,7 @@ tags:
   - gallery
 latitude: 61.5040
 longitude: 23.7750
+score: 6.3
 ---
 
 Tampere Art Factory (Taiteen ja kulttuurin Tampere, known locally as Taiko) occupies a former industrial building in the Tammela district east of the centre. It functions as an umbrella organisation hosting artist studios, small galleries, a theatre space, and various cultural projects. The emphasis is on emerging and experimental work rather than established names.

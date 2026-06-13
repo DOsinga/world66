@@ -9,6 +9,7 @@ latitude: 46.1708
 longitude: 21.3158
 sources:
   - https://en.wikipedia.org/wiki/Ioan_Slavici_Classical_Theatre
+score: 7.6
 ---
 
 The Ioan Slavici Classical Theatre is Arad's main theatre, a Neo-Baroque building from 1874 that stands on the central square. It is named after Ioan Slavici, the Romanian writer born near Arad who became one of the founders of modern Romanian prose. The theatre facade, with its columns, statuary, and ornate pediment, is one of the most handsome in western Romania.

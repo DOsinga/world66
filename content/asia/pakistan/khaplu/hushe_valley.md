@@ -7,6 +7,7 @@ tags:
 snippet: Dramatic high-altitude valley leading to the base of Masherbrum and K6
 latitude: 35.0833
 longitude: 76.4000
+score: 8.6
 ---
 
 The Hushe Valley extends south from Khaplu for about 60 km, rising through small Balti villages and apricot orchards into one of the most dramatic mountain landscapes in Pakistan. The road ends at the village of Hushe, which serves as the starting point for treks to Masherbrum base camp and the Charakusa Glacier — a remote destination popular with serious mountaineers and experienced trekkers.

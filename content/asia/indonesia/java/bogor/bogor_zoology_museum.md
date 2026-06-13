@@ -11,6 +11,7 @@ story: >
   whale skeletons on public display anywhere in the world. It was washed ashore
   on the Java coast in 1916 and was assembled over several years. At 27 metres,
   it nearly fills the main hall.
+score: 7.8
 ---
 
 The Bogor Zoology Museum sits at the main entrance of the Botanical Gardens and houses one of Southeast Asia's most significant natural history collections. Founded in 1894, it holds millions of specimens covering the fauna of the Indonesian archipelago, including insects, birds, reptiles, fish, and mammals.

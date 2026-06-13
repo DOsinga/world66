@@ -8,6 +8,7 @@ tags:
 story: Iberê Camargo was Rio Grande do Sul's greatest painter — a expressionist whose large, dark, obsessive canvases are almost unknown outside Brazil but rank among the most powerful works produced in South America in the 20th century. He died in 1994 before the museum dedicated to his work was begun; Oscar Niemeyer, then 94, designed it. The building was finished in 2008 when Niemeyer was 100.
 title: Fundação Iberê Camargo
 type: poi
+score: 8.5
 ---
 
 The Fundação Iberê Camargo sits on the southern shore of the Rio Guaíba, about five kilometres south of the city centre, and it is one of the most striking buildings in Brazil. Oscar Niemeyer designed it in his nineties, and the white concrete structure — with its extraordinary ramps curving around the exterior facade like frozen waves — is among the best buildings of his long career. Even if you have no particular interest in the art inside, the building alone justifies the trip.

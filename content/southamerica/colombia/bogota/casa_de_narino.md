@@ -8,6 +8,7 @@ tags:
 latitude: 4.5957
 longitude: -74.0757
 snippet: "Colombia's presidential palace, with free weekend tours and changing of the guard"
+score: 7.7
 ---
 
 The white neoclassical presidential palace on Carrera 8 just south of Plaza Bolivar occupies the site where the independence hero Antonio Nariño was born. The building is functional government, not a museum, but free guided tours run on Saturday and Sunday mornings — the only days the gates open to the public. Arrive early, as numbers are limited.

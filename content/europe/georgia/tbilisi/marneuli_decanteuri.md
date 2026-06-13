@@ -7,6 +7,7 @@ tags:
 - bar
 title: Vino Underground
 type: poi
+score: 7.6
 ---
 
 Vino Underground on Galaktion Tabidze Street is one of the best wine bars in Tbilisi for natural and traditional-method Georgian wines, with a well-curated cellar stocking small producers from Kakheti, Kartli, and Imeretia alongside imports. The space is small and underground (as the name suggests), with a bar and a few tables; the staff know the wines well and are used to guiding non-specialist visitors.

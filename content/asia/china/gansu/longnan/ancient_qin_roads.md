@@ -15,6 +15,7 @@ story: >
   contributed to the unification of China under the First Emperor. Some of the cliff
   inscriptions marking the roads survive, left by officials recording the completion
   of road sections more than two thousand years ago.
+score: 7.8
 ---
 
 Longnan's position on the route between the Guanzhong plain and Sichuan gave it strategic importance that long predates the Silk Road. The roads the Qin state pushed through these mountains — the Chencang and Baoxie routes — were the arteries through which armies, merchants, and officials moved between the north China heartland and the south. Inscribed cliff faces in several locations along these routes record the labour of construction and the names of officials who oversaw the work.

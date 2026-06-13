@@ -8,6 +8,7 @@ tags:
 - architecture
 title: San Francisco Columbarium
 type: poi
+score: 8.4
 ---
 
 The San Francisco Columbarium is a neoclassical rotunda built in 1898, tucked away at the end of a cul-de-sac in the Richmond District. Inside, a three-storey domed space holds 8,500 niches for cremated remains, many decorated by families with photographs, trinkets, and personal mementos -- baseball caps, wine bottles, model trains, love letters.

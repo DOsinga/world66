@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 5.8
 ---
 
 The Church of Saint George is one of several small 19th-century churches tucked into the Old Town's lanes. It is partly built below ground level — a relic of Ottoman-era restrictions that limited the height of Christian buildings — and the interior is darker and more atmospheric for it. The wooden iconostasis and the icons of George slaying the dragon are well kept.

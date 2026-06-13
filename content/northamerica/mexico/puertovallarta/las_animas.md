@@ -8,6 +8,7 @@ tags:
 - beach
 title: Las Ánimas
 type: poi
+score: 6.6
 ---
 
 A small beach village on the southern shore of Banderas Bay, accessible only by boat. The beach itself is a long stretch of soft white sand backed by palapa restaurants serving grilled fish and cold beer. The water is calm enough for kids and there is good snorkelling at the rocky points at either end of the bay.

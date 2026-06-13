@@ -14,6 +14,7 @@ story: >
   and the prince-bishops expanded it continuously until moving to the new Residenz in 1720.
   The roundel tower at the centre of the complex dates from the 8th century and was originally
   a chapel — it is one of the oldest circular buildings in Germany still standing.
+score: 8.8
 ---
 
 Marienberg Fortress dominates the hillside across the Main from the old town, visible from virtually every point in Würzburg. The prince-bishops lived here from 1253 until 1720, when they moved into the newly completed Residenz, and the fortress shows the full range of medieval, Renaissance, and baroque fortification styles accumulated over five centuries. The views from the ramparts over the Main valley, the vineyards on the surrounding hills, and the spires of the old town are the finest in the region.

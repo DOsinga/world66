@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 34.2666
 longitude: 117.1993
+score: 6.1
 ---
 
 The Sacred Heart Cathedral is a large Catholic church in the centre of Xuzhou, its Gothic revival architecture standing out conspicuously against the surrounding Chinese streetscape. The building dates to the early twentieth century and was constructed by Italian Franciscan missionaries who established a significant presence in Jiangsu during the Republican period.

@@ -12,6 +12,7 @@ story: >
   the skippers circle and wait for the right moment; on calm days the boat
   glides through and everyone on board gets a few seconds of near-darkness
   surrounded by sheer rock.
+score: 7.8
 ---
 
 The Hole in the Rock at Cape Brett is the iconic excursion from the Bay of Islands — a sea arch at the tip of a peninsula about 15 km northeast of Russell, large enough for commercial vessels to pass through. The boat trip out crosses some of the most beautiful stretches of the bay, and dolphins often accompany the vessel.

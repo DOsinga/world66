@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
   - cetate
+score: 5.9
 ---
 
 Cafeneaua Scartz on Mercy Square is a small two-room cafe-bar with a literary and theatrical clientele — a meeting place for the city's actors, journalists and writers, especially during the early evening. The room is hung with photographs of Timisoara from the early 20th century and the menu is brief: coffee, beer, palinca and small plates of regional cheese and salami.

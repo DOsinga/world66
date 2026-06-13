@@ -8,6 +8,7 @@ snippet: Hot-springs town at the north end of the valley
 tags:
 - things_to_do
 - day_trips
+score: 7.5
 ---
 
 Calistoga sits at the north end of the Napa Valley and feels noticeably more relaxed than the towns lower down — partly because it's that bit further from San Francisco, partly because the hot springs that give the town its character set a different pace. Spa hotels offer mud baths, mineral pools and massage treatments based on geothermal water from the surrounding hills.

@@ -8,6 +8,7 @@ latitude: 43.9559
 longitude: -78.1667
 story: >
   Cobourg's sand is not the Lake Ontario norm. The town spent decades hauling and grading it, and now defends it actively against erosion. The famous Sandcastle Festival, held each August since 1979, exists in part to remind taxpayers what the sand is for.
+score: 7.5
 ---
 
 The beach is the engine of summer in Cobourg. A wide arc of fine pale sand runs for about a kilometre west of the harbour, with shallow swimming water that warms early in the season and a low boardwalk along the back. On a hot July weekend it fills with Toronto day-trippers — the town's population briefly doubles — but the morning and evening hours are still quiet enough.

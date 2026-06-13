@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Radovi%C5%A1
 story: >
   Radoviš has been a religious centre since at least the 10th century, when Byzantine Emperor Basil II documented the town in 1019. The Holy Trinity church was built as a deliberate act of civic pride after Macedonian independence, its gleaming white bell tower visible from every direction as a statement that the town had arrived — even if most travellers still drive straight past on the M6.
+score: 6.0
 ---
 
 The Church of the Holy Trinity (Македонски: Света Троица) is the most prominent building in Radoviš — a large, modern Macedonian Orthodox church whose white stone bell tower anchors the lower part of town. It was constructed in the late 20th century and consecrated after Macedonian independence, and it has the confident scale of a church built to outlast political uncertainty.

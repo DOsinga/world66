@@ -9,6 +9,7 @@ tags:
 latitude: 33.7833
 longitude: -80.7833
 story: "Congaree was logged for decades, but its bottomland floods so heavily and so unpredictably that crews kept abandoning the work. That is why the old-growth survived — the trees were saved by their own swamp."
+score: 9.5
 ---
 
 Congaree protects the largest intact stand of old-growth bottomland hardwood forest left in the United States. Bald cypress, water tupelo, loblolly pine and sweetgum tower above the floodplain, and the average canopy height here is one of the tallest in the eastern half of the country.

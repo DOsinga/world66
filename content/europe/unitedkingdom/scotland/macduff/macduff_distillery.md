@@ -11,6 +11,7 @@ tags:
 - sight
 title: Macduff Distillery
 type: poi
+score: 5.9
 ---
 
 The Macduff Distillery sits at the southern edge of town, close to the River Deveron, and has been producing single malt Scotch whisky since 1962. It is not a grand Victorian distillery — the buildings are functional and industrial — but the whisky is genuine Highland single malt, sold primarily under the Glen Deveron label. Visitor tours are available, though less elaborate than the big Speyside operations an hour to the south and west.

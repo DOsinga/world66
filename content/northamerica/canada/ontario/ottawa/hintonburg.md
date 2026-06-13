@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 45.4061
 longitude: -75.7312
+score: 7.1
 ---
 
 Hintonburg is Ottawa's most energetic neighbourhood for independent restaurants, craft beer and gallery culture — a grid of residential streets west of downtown around Wellington Street West that has been transforming for a decade and hasn't stopped yet. The neighbourhood has a slightly grittier feel than the Glebe or Westboro, with mix of longtime residents, artists and young professionals that tends to produce genuine local character.

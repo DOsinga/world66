@@ -12,6 +12,7 @@ story: >
   trapping the water behind a natural barrier of solidified basalt. The name means "Mirror Lake" 
   in Chinese — on calm mornings, the reflection of the pine-forested shore in the dark volcanic water 
   earns it completely.
+score: 8.7
 ---
 
 Jingpo Lake (Jingpohu) is China's largest mountain barrier lake, formed when lava flows dammed a river valley tens of thousands of years ago. It stretches 45 kilometres through forested hills about 90 kilometres south of Mudanjiang, and it is the main reason most visitors make the trip to this part of Heilongjiang. The name means Mirror Lake, and on still days the description is apt: the pine-clad slopes reflect perfectly in the dark, slightly volcanic-tinted water.

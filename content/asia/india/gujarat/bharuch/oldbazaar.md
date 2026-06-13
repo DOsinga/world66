@@ -7,6 +7,7 @@ tags:
 - sight
 snippet: The dense, atmospheric trading quarter that preserves Bharuch's mercantile heritage
 type: poi
+score: 7.2
 ---
 
 Bharuch's old bazaar occupies the lanes below the fort hill and retains the density and noise of a working commercial quarter. Textile merchants, spice dealers, hardware shops, and small restaurants fill narrow lanes that haven't changed much in layout since the town's trading days. The scale and character feel genuinely old — this is not a heritage zone but a place that still functions the way bazaars have always functioned.

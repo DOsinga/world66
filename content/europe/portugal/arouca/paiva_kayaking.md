@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.8970
 longitude: -8.2400
+score: 6.8
 ---
 
 The Paiva River is fast-moving, cold, and exceptionally clear — one of the least polluted rivers in Portugal. Several operators based near Arouca offer guided kayak and canoe trips along sections of the river, ranging from easy half-day floats suitable for families to more technical runs through the gorge. The season runs roughly from April to October, with the river at its most dramatic in spring when snowmelt from the Serra da Freita keeps the water level high.

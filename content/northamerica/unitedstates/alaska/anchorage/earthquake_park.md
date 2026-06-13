@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: Bluff-edge park on the site of the 1964 Good Friday earthquake landslide
 story: "On Good Friday 1964 at 5:36 pm, a magnitude 9.2 earthquake — the most powerful ever recorded in North America — broke open the bluff here and dropped 200 acres of Turnagain Heights neighbourhood 30 feet into Cook Inlet. The park is built on the landslide rubble; the lumpy ground under your feet is what is left of houses."
+score: 7.5
 ---
 
 A small park on the west side of the city, looking out over Cook Inlet from the rim of the 1964 earthquake landslide. Interpretive panels along the short trails explain what happened — 75 houses destroyed in minutes, the bluff resettling thirty feet lower. The forest that has grown up since hides much of the ground deformation, but the path follows the cracked terraces and you can still see where the land split.

@@ -8,6 +8,7 @@ tags:
 latitude: 62.07527777777778
 longitude: -7.414444444444444
 story: "The larger of the two Drangarnir stacks has a natural arch at its base — Hvannhagi arch — large enough for small boats to pass through in calm conditions. The stacks are visible from the Bøur–Gásadalur hike and can be reached more closely via a separate trail from the Bøur area, though the final approach requires care."
+score: 8.9
 ---
 
 Drangarnir is a pair of sea stacks standing between Tindhólmur and Vágoy in Sørvágsfjørður. They're among the most photographed formations in the Faroe Islands — the larger stack, Stóri Drangur (108 m), frames views of Tindhólmur from certain angles and appears in many of the archipelago's signature images.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 38.7187
 longitude: -75.0831
+score: 6.6
 ---
 
 Rehoboth Avenue is the main street of town, running straight from the ocean to Route 1. The eastern half, nearest the boardwalk, is the busiest commercial strip: restaurants, bars, surf shops, ice cream parlours, and the particular mix of souvenir stalls and boutique clothing stores that characterises a prosperous American beach town.

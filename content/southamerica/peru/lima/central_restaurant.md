@@ -10,6 +10,7 @@ tags:
 neighbourhood: Barranco
 snippet: Virgilio Martínez's tasting-menu restaurant, repeatedly World's 50 Best #1
 url: centralrestaurante.com.pe
+score: 8.8
 ---
 
 **Central**, the restaurant of Virgilio Martínez and Pía León, has been the world's most decorated Peruvian restaurant for a decade — number one on the World's 50 Best list in 2023 and continuously in the top five before and after. Each course is matched to an altitude (-25 m at sea level all the way to +4,100 m on the Andes plateau), and the kitchen sources ingredients from a research lab Martínez runs in the Sacred Valley. The setting, a discreet glass-walled space in Barranco, includes the open kitchen and gardens of native plants.

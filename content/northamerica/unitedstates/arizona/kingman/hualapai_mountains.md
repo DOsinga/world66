@@ -11,6 +11,7 @@ story: >
   The Hualapai Mountains rise to over 8,400 feet just 14 miles south of Kingman, making them one of the most dramatic topographic transitions in Arizona. Temperatures at the summit can be 30 degrees Fahrenheit cooler than on the desert floor — a fact that made the park a popular summer retreat for Kingman residents long before air conditioning arrived.
 sources:
   - https://en.wikipedia.org/wiki/Hualapai_Mountain_Park
+score: 7.3
 ---
 
 Hualapai Mountain Park is the surprising green escape within easy reach of Kingman. The Hualapai Mountains rise sharply to over 8,400 feet from the Sonoran Desert floor, and the upper elevations are covered in ponderosa pine, Gambel oak, and alligator juniper — a world away from the cactus and creosote bush on the valley below.

@@ -9,6 +9,7 @@ tags:
 latitude: 38.245
 longitude: 21.7418
 story: "The castle stands on the site of the ancient acropolis, which means people have been fortifying this hill since at least the 6th century BC — the medieval walls you see were built by the Byzantine emperor Justinian in the 6th century AD on foundations that were already ancient. It was rebuilt and expanded by the Franks, the Venetians, the Ottomans, and then the Venetians again, each layer adding to the palimpsest of the site. The mixture of Byzantine brickwork, Frankish masonry, and Venetian renovation is visible in the walls if you look for it."
+score: 8.1
 ---
 
 Patras Castle commands the hill above the city and earns the climb. The 6th-century Byzantine fortification was built by Justinian on an ancient acropolis site and subsequently remodelled by every power that occupied Patras — Frankish crusaders, Venetians, and Ottomans all left their mark on the walls and towers. The resulting structure is a layered history of western Greece's medieval occupation, readable in the shifting styles of stonework.

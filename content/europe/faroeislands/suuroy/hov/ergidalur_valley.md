@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 61.5080
 longitude: -6.7700
+score: 6.6
 ---
 
 The valley of Ergidalur lies west of Hov, a green fold in the hills that rises toward the interior of Suðuroy. The name is believed to be of Celtic origin — a linguistic trace left by Irish hermit monks who settled the Faroe Islands before the Norse arrived. The Vikings came in the 9th century and displaced or absorbed the earlier population, but place names like this one survived.

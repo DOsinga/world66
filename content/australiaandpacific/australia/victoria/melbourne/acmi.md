@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Australian_Centre_for_the_Moving_Image
 story: >
   ACMI holds the largest collection of moving image material in the Southern Hemisphere, including original Australian film and television archives going back to the early 1900s. When the museum reopened after a major redevelopment in 2021, it introduced a digital "passport" that visitors carry through the permanent exhibition: every interactive touchpoint records your choices and the museum sends you a personalised digital record of your visit afterward. The technology was developed in-house and has since been adopted by several other museums internationally.
+score: 8.8
 ---
 
 ACMI occupies one of the two main buildings in Federation Square and is dedicated to film, television, video games, and digital culture. The permanent exhibition, called The Story of the Moving Image, traces the history of screen culture from early cinema through to interactive digital art, with hands-on exhibits and immersive environments that work well for visitors of all ages.

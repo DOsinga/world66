@@ -9,6 +9,7 @@ longitude: 18.61083
 sources:
   - https://en.wikipedia.org/wiki/Toru%C5%84_Castle
 story: "The castle was deliberately demolished by Toruń's own citizens in 1454 after the city switched allegiance from the Teutonic Order to the Polish Crown — the ruins have never been rebuilt, and the exposed cellar vaults and tower stump are all that remain."
+score: 7.6
 ---
 
 The ruins of Toruń Castle stand on the south side of the old town, close to the Vistula. Built by the Teutonic Knights in the 13th century, it was one of the order's main strongholds in the region. After Toruń defected to the Polish Crown in 1454, the city's inhabitants tore the castle down — a deliberate act of rejection rather than war damage — and the ruins have remained in this state ever since.

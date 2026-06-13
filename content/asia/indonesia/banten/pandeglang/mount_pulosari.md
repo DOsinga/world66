@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -6.3417
 longitude: 105.9750
+score: 7.2
 ---
 
 Pulosari is a smaller dormant volcano southwest of Pandeglang town, popular as a half-day climb. The summit at 1,346 metres opens into a wide grassy crater that is one of the most peaceful campsites in Java when you have it to yourself.

@@ -10,6 +10,7 @@ longitude: 14.6950
 sources:
   - https://en.wikipedia.org/wiki/Rab_concentration_camp
   - https://en.wikipedia.org/wiki/Kampor
+score: 7.4
 ---
 
 Between 1942 and 1943, the Italian occupying forces ran a concentration camp near the village of Kampor on the western coast of the island. At its peak the camp held over ten thousand prisoners — Slovenes, Croats, Jews, and political detainees — in conditions of severe deprivation. Several thousand died of hunger, disease, and violence before the Italian capitulation in September 1943.

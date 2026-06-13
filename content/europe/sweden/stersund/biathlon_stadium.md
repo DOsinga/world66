@@ -9,6 +9,7 @@ tags:
   - winter
 latitude: 63.1903
 longitude: 14.6581
+score: 7.2
 ---
 
 The Östersund Ski Stadium is a World Cup biathlon and cross-country skiing venue, and it hosts the season-opening biathlon World Cup every November — the first major competition of the international biathlon calendar. If you're visiting in November and have any interest in skiing sports, the World Cup is an extraordinary spectacle: thousands of enthusiastic Scandinavian fans, athletes from twenty countries, and the peculiar combination of explosive athleticism (the skiing) and controlled precision (the shooting) that makes biathlon such compelling viewing.

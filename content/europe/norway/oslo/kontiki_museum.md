@@ -10,6 +10,7 @@ tags:
 title: Kontiki Museum
 type: poi
 zipcode: http://www.museumsnett.no/kon-tiki/Museum/
+score: 6.5
 ---
 
 This fine museum houses Thor Heyerdal's Kontiki and Ra2. A visit can well be combined with visits to a number of other museums on the Bygdøy Peninsula.

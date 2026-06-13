@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic, stare_mesto]
 latitude: 48.1430
 longitude: 17.1050
 story: Between 1563 and 1830, Bratislava (then Pozsony) was the coronation city of the Hungarian kings. The coronation procession followed a fixed route through the old town — from St Martin's Cathedral, down Coronation Hill (where kings symbolically rode a horse to the top and brandished a sword toward the four points of the compass), and back through the city. Gold coins were thrown to the crowd along the route.
+score: 8.3
 ---
 
 The Coronation Route through Bratislava's old town follows the path taken by Hungarian monarchs during their coronation ceremonies from 1563 to 1830. When the Ottoman occupation of Buda forced the court to relocate, Bratislava became the de facto capital of Hungary for nearly three centuries. Nineteen kings and queens were crowned here, including several Holy Roman Emperors.

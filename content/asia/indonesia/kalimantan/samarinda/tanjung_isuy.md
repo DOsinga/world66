@@ -11,6 +11,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Tanjung_Isuy
   - https://en.wikipedia.org/wiki/Lake_Jempang
+score: 8.0
 ---
 
 Tanjung Isuy is a Benuaq Dayak village on the shores of Lake Jempang, about 250 kilometres upriver from Samarinda — roughly a day by express boat or two by public river ferry. The village has been welcoming travellers for decades and has basic guesthouses where you can stay with local families.

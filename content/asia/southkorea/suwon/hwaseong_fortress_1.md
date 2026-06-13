@@ -11,6 +11,7 @@ tags:
 - sights
 title: Hwaseong Fortress
 type: poi
+score: 9.1
 ---
 
 Hwaseong Fortress is a late 18th-century fortification that wraps 5.7 kilometres around the centre of [Suwon](/asia/southkorea/suwon). King Jeongjo ordered it built in 1794 to honour his father, and the scholar Jeong Yak-yong designed it using both Korean and Western engineering principles. The result was the most technically advanced fortress in Korea at the time, combining stone and fired brick, with defenses designed to withstand gunfire as well as traditional weapons.

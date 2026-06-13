@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.4847
 longitude: -82.9858
+score: 7.2
 ---
 
 Housed in the historic Shelton House, this small museum focuses on the traditional craft traditions of western North Carolina and the broader Appalachian region — pottery, weaving, quilting, furniture-making, basketry, and metalwork. The collections document the craft lineages that stretch back to the original Scots-Irish and English settlers of the mountains, as well as the Cherokee traditions that predate European settlement.

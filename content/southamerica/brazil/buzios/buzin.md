@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -22.7470
 longitude: -41.8822
+score: 5.9
 ---
 
 Buzin is a long-established restaurant on Rua das Pedras that has maintained its reputation through years when Búzios restaurants have come and gone. It serves straightforward Brazilian coastal cooking — grilled fish, moqueca, seafood rice — with good technique and consistent quality. Nothing on the menu is surprising; everything is done properly.

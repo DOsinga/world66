@@ -9,6 +9,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.8
 ---
 
 **Kenna Cartwright Park** is the largest municipal park in British Columbia at around 800 hectares, occupying the long ridge of **Mount Dufferin** on the western edge of Kamloops. The terrain is classic dry-belt grassland — sagebrush, bunchgrass, ponderosa pine — and the park's 40 km of trails are accessible year-round, including a few high-point loops with sweeping views over the city, the river confluence and the Thompson valley.

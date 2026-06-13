@@ -5,6 +5,7 @@ snippet: Dramatic hilltop fortress reached by scenic hike
 tags: [things_to_do, fortress, historic_site]
 title: Smbataberd Fortress
 type: poi
+score: 8.4
 ---
 
 This fortress sits on a narrow peninsula with sheer sides on three flanks, making it virtually impregnable. The tall walls added to the natural defences complete the picture. The setting is spectacular — high above the valley with views in every direction.

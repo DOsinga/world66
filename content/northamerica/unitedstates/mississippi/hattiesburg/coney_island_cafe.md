@@ -12,6 +12,7 @@ story: >
   outlasted multiple recessions, a world war, and the transformation of downtown Hattiesburg 
   from a busy commercial district to a struggle for revitalisation. It serves lunch only, 
   closes at 2pm, and has no plans to change.
+score: 6.8
 ---
 
 Coney Island Cafe on Main Street has been open since 1923, making it one of the longest continuously operating lunch counters in Mississippi. The menu is short and has not changed meaningfully in decades: steak sandwiches, hot dogs, chili, and a few daily specials. The steak sandwich — thin-sliced beef on white bread with optional chili — is the thing to order.

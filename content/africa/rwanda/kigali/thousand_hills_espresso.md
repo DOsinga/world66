@@ -8,6 +8,7 @@ tags:
 neighbourhood: Kiyovu
 latitude: -1.9469
 longitude: 30.0604
+score: 6.4
 ---
 
 Thousand Hills Espresso is one of the best places in Kigali to experience Rwanda's exceptional specialty coffee. Rwanda produces some of the finest arabica beans in Africa — grown at altitude on the volcanic soils of the western highlands — and Thousand Hills sources directly from cooperatives and serves it with genuine care. The espresso is excellent, the pour-overs even better.

@@ -10,6 +10,7 @@ address: "200 Pearl St., Council Bluffs, IA 51503"
 url: "www.uprrmuseum.org"
 latitude: 41.2613
 longitude: -95.8558
+score: 6.6
 ---
 
 Just across the Missouri River in Council Bluffs, Iowa — Omaha's sister city — the Union Pacific Railroad Museum tells the story of the first transcontinental railroad, which was built eastward from Sacramento while the Union Pacific pushed westward from Omaha. The two tracks met at Promontory Summit, Utah, on 10 May 1869. The museum covers the engineering feat, the Chinese and Irish labour that built the line, and the role of the railroad in opening the American West. Admission is free.

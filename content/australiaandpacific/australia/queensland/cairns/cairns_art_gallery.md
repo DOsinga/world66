@@ -12,6 +12,7 @@ story: >
   and humidity. The original courthouse next door, built 1919-1921, is now a hotel.
   The two buildings represent the complete administrative muscle of colonial Far North
   Queensland, repurposed for culture and beer.
+score: 7.0
 ---
 
 The Cairns Art Gallery occupies an elegant interwar building in the civic precinct on Abbott Street, part of the former Cairns Court House Complex. The gallery focuses on contemporary and historical art from the region, with a strong holding of works by Aboriginal and Torres Strait Islander artists from Cape York communities. The regional collection is particularly good — art from this corner of Australia reflects a cultural world that most southern Australians never encounter.

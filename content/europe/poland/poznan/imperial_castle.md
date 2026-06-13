@@ -19,6 +19,7 @@ story: >
   historical resonance.
 sources:
   - https://en.wikipedia.org/wiki/Imperial_Castle,_Pozna%C5%84
+score: 8.0
 ---
 
 The Imperial Castle — popularly called Zamek, simply "the castle" — is the most architecturally distinctive building in Poznan: a red-brick Neo-Romanesque palace built for Kaiser Wilhelm II at a time when Poznan was the Prussian city of Posen, capital of the German province of Posen. The architecture is monumental and somewhat pompous, which was rather the point. Today it houses a cultural centre with exhibition spaces, a cinema, a theatre, and several restaurants.

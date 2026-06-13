@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.8820
 longitude: 125.3050
+score: 5.5
 ---
 
 Dongzhongdao is one of Changchun's main evening entertainment streets — a stretch of bars, restaurants, KTV establishments, and cafes that operates from late afternoon through the early hours. The clientele is predominantly young and the atmosphere shifts from relaxed early evening dining to more energetic late-night activity as the hours progress.

@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - roman
+score: 7.2
 ---
 
 The Castellum Divisorium is the small circular basin where the water carried by the Pont du Gard aqueduct emerged into Nîmes — about 30 metres in diameter, lined with stone, with ten holes around the rim through which lead pipes distributed water across the city. It is one of only two surviving examples in the Roman world (the other is in Pompeii).

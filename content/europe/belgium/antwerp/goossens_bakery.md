@@ -9,6 +9,7 @@ tags:
 title: Goossens Bakery
 type: poi
 snippet: Family bakery since 1884 — known for raisin bread and proper sourdough
+score: 6.7
 ---
 
 A tiny family bakery in the centre that has been on the same corner since 1884, four generations of the Goossens family. The shopfront is barely two metres wide and there is almost always a queue. The signature loaf is the raisin bread — heavy, slightly sweet, sold in chunks weighed at the counter. The sourdough is excellent, the chocolate bread is a Saturday treat.

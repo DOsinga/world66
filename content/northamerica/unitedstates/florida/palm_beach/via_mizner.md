@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 26.701111
 longitude: -80.040556
+score: 7.5
 ---
 
 Via Mizner is the oldest and most elaborate of the arcaded lanes (vias) that run off Worth Avenue into a maze of small courtyards. Addison Mizner designed it in the 1920s alongside the Worth Avenue buildings as a series of pedestrian passages giving access to small shops and studios behind the main street frontages. The result is a miniature Spanish village grafted onto the back of a luxury shopping district.

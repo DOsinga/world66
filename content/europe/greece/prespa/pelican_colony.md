@@ -13,6 +13,7 @@ story: >
   1980s the total world population had fallen to fewer than 1,000 pairs.
   Conservation efforts at Prespa, led by the Society for the Protection of
   Prespa, helped reverse the decline.
+score: 8.6
 ---
 
 The Prespa Lakes support breeding colonies of both Dalmatian and Great White Pelicans — making this one of the most important sites in Europe for these birds. The Dalmatian Pelican colony on Micro Prespa is among the largest in the world, with several hundred pairs nesting in the lake's reed beds from February onwards.

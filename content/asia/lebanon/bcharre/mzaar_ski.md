@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.2530
 longitude: 36.0530
+score: 7.0
 ---
 
 The Cedars (Mzaar Bcharre) is the highest ski area in the Middle East, with runs between roughly 2,000 m and 3,000 m on Mount Makmel above the namesake cedar grove. It is small by Alpine standards — a handful of lifts, a few dozen kilometres of pistes — and the lift system is dated.

@@ -7,6 +7,7 @@ tags:
 title: Chief Commanda II Lake Nipissing Cruise
 type: poi
 snippet: "Catamaran cruise from the city waterfront across Lake Nipissing"
+score: 6.8
 ---
 
 The 200-passenger catamaran runs scheduled trips out across Lake Nipissing through the summer, including dinner cruises and a longer run down the French River that follows the historic voyageur canoe route west.

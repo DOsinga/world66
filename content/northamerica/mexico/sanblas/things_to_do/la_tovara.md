@@ -15,6 +15,7 @@ story: >
   herons and egrets stand motionless in the shallows. The spring itself emerges
   from the earth at a constant temperature, and the pool has been used as a swimming
   hole by locals since long before tourism arrived.
+score: 8.5
 ---
 
 La Tovara is San Blas's classic excursion: a forty-minute boat ride through mangrove channels and jungle waterways to a freshwater spring where you can swim in surprisingly clear water. Small launches depart from the canal near the bridge into town. The boatmen know the channels well and typically stop to point out wildlife along the way.

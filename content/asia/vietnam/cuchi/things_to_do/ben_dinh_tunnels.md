@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 10.9744
 longitude: 106.4949
+score: 7.8
 ---
 
 Ben Dinh is the more accessible and heavily visited of the two Cu Chi tunnel sites, about 35 km from Ho Chi Minh City. Almost all organised tours from HCMC's Pham Ngu Lao backpacker district come here, which means crowds are larger than at Ben Duoc — but the facilities and interpretation are also more developed.

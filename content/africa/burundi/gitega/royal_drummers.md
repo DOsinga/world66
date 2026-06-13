@@ -8,6 +8,7 @@ tags:
 latitude: -3.4230
 longitude: 29.9100
 story: The royal drumming tradition of Burundi — the Karyenda — is one of the most distinctive cultural practices in Africa. The sacred drums were symbols of royal authority and divine power, and the drummers who maintained them held an elevated hereditary status at court. The tradition survived colonialism, revolution, and the abolition of the monarchy, and was inscribed on UNESCO's Representative List of the Intangible Cultural Heritage of Humanity in 2014.
+score: 8.5
 ---
 
 The Royal Drummers of Burundi perform their traditional ceremonies at a site near Gitega, which was historically the royal capital of the Kingdom of Burundi before Belgian administration moved the political centre to Bujumbura. The drummers maintain a tradition that dates back centuries, performing on the sacred karyenda drums in elaborate choreographed sequences involving drumming, chanting, and dance.

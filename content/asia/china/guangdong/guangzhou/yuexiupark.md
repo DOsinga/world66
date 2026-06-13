@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Yuexiu Park
 type: poi
+score: 7.9
 ---
 
 Guangzhou's largest inner-city park, spreading across 92 hectares in the heart of the city. The centrepiece is the Five Rams sculpture — five stone goats that have been the symbol of Guangzhou since the city's founding myth — and it draws a steady stream of visitors alongside locals doing morning tai chi and playing cards in the shade.

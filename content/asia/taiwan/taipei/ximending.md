@@ -8,6 +8,7 @@ tags:
 neighbourhood: Ximending
 title: Ximending
 type: poi
+score: 7.5
 ---
 
 Ximending is a pedestrianised grid of streets just west of Taipei Main Station, and the closest thing the city has to Tokyo's Harajuku — a dense weave of small streetwear shops, K-pop merch stores, cosplay outfitters, tattoo parlours, cheap restaurants and old single-screen cinemas. It is the centre of Taipei's youth culture and the busiest pedestrian area in the city, particularly on weekends.

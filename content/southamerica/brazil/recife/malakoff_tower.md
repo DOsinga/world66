@@ -4,6 +4,7 @@ type: poi
 latitude: -8.0608
 longitude: -34.8708
 tags: [things_to_do, sight, recife_antigo]
+score: 6.2
 ---
 
 A pale stone arched gateway and observatory tower at the edge of Recife Antigo, named after the Russian fortress that captured the imagination of Brazilian engineers in the 1850s. Originally part of the naval arsenal, it now operates as a cultural centre with rotating exhibitions of contemporary art and photography.

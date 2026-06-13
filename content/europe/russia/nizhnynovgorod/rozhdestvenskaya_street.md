@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
   - sight
+score: 8.5
 ---
 
 Rozhdestvenskaya Street is the lower town's main historical street — a long sloping lane that runs along the base of the upper bluff, lined with 18th- and 19th-century merchant buildings in various states of restoration. The street connects the Stroganov Church at its western end to the area around the Old Fair grounds at the eastern end, and walking it gives a good sense of what the pre-revolutionary lower town looked like at the height of its commercial prosperity.

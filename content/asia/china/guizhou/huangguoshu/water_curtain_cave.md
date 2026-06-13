@@ -8,6 +8,7 @@ latitude: 26.0180
 longitude: 105.6362
 story: >
   The cave formed over millions of years as the river undercut the limestone cliff above the original pool. As the waterfall retreated upstream through erosion, it left behind the hollow passage that now runs through the rock face. Walking through it, you are inside the geology that created the falls.
+score: 8.8
 ---
 
 Water Curtain Cave (Shuiliandong) runs 134 metres through the cliff face behind the Huangguoshu waterfall, with six natural window openings cut through the rock face that look out directly onto the falling water. The passage is large enough to walk upright throughout, with chambers and connecting corridors following natural fractures in the limestone. Three natural springs emerge inside the cave, adding to the general wetness.

@@ -9,6 +9,7 @@ latitude: 12.6333
 longitude: 37.4833
 sources:
   - https://en.wikipedia.org/wiki/Wolleka_Synagogue
+score: 6.7
 ---
 
 About 3km north of the city centre, the village of Wolleka was the main settlement of the Beta Israel — the Ethiopian Jewish community, also known as Falasha — in the Gondar region. The community had lived in the Ethiopian highlands for millennia, maintaining Jewish practices in isolation from the wider Jewish world, until most emigrated to Israel in Operation Moses (1984–85) and Operation Solomon (1991).

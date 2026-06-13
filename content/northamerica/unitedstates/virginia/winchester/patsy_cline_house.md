@@ -14,6 +14,7 @@ story: >
   Talent Scouts in 1957, winning first place with "Walkin' After Midnight," her label had been so 
   skeptical of the song that she'd almost refused to record it. She was 24 and had been performing 
   since she was eight years old.
+score: 6.4
 ---
 
 The small clapboard house at 608 S. Kent Street is where Virginia Patterson Hensley — later known as Patsy Cline — lived with her family from 1948 to 1953, between the ages of 16 and 21. These were the years she was honing her voice in local honky-tonks and trying to break into the music business, years before "Walkin' After Midnight" and "Crazy" made her one of the defining voices in country music. The house has been restored to its period appearance and is open for guided tours.

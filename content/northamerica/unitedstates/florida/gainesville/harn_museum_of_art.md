@@ -8,6 +8,7 @@ latitude: 29.6369
 longitude: -82.3700
 story: >
   The Harn opened in 1990 as one of the largest university art museums in the American South, funded by a $10 million donation from Samuel Harn — a local lawyer and landowner who had never previously been publicly associated with art collecting. When the university asked what he wanted named after him in recognition of the gift, he chose the museum rather than a building, saying he preferred the idea of something living to something fixed in concrete.
+score: 7.8
 ---
 
 The Samuel P. Harn Museum of Art is the University of Florida's main art museum, located in the Cultural Plaza beside the Florida Museum of Natural History. It is free to visit and substantial enough to warrant a few hours — the permanent collection runs to over 10,000 objects and includes African art, Asian art, photography, and a strong selection of modern and contemporary works by American and European artists.

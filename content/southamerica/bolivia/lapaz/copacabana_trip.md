@@ -7,6 +7,7 @@ tags:
 - sight
 title: Copacabana Day Trip
 type: poi
+score: 7.6
 ---
 
 Copacabana sits on a peninsula on the Bolivian shore of Lake Titicaca, three to four hours from La Paz by bus with a short lake crossing at the Strait of Tiquina. The town is Bolivia's main pilgrimage destination — the Basilica of Our Lady of Copacabana holds a famous dark-wood statue of the Virgin, and car-blessing ceremonies (blessings of vehicles at the church steps, complete with garlands and champagne) take place daily. The combination of genuine religious life and backpacker infrastructure makes for an unusual atmosphere.

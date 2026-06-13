@@ -6,6 +6,7 @@ tags:
   - shopping
 latitude: 31.9590
 longitude: 77.1093
+score: 5.8
 ---
 
 Akhara Bazaar is the long market street that runs north from the centre of Kullu. It is the place to buy the traditional Kullu shawl — geometric borders on plain wool, woven on hand looms in villages around the valley — as well as the woollen pattu, caps, and dried fruit that are the valley's specialities.

@@ -12,6 +12,7 @@ story: >
   quilt flat on the surface and stepped on it — it held. They laid quilts end to end and walked
   the entire distance, then back, returning with enough flour to save the colony. The annual
   Quilt Walk Festival in June re-enacts the journey.
+score: 5.8
 ---
 
 A small park in the centre of town commemorates the Quilt Walk — a moment of pioneer ingenuity that saved the early Panguitch settlement from starvation. The memorial is modest: a piece of public green space with interpretive signage explaining the 1864 incident. It is the kind of local history that doesn't make it into national textbooks but says something specific and real about the people who shaped this part of the country.

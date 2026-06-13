@@ -12,6 +12,7 @@ story: >
   growing wealthy on the granite trade — its quarries supplied stone for buildings from Boston to
   Washington. When the railroads bypassed the town, the prosperity stopped, and the result was a
   remarkably intact streetscape that never had a reason to tear itself down and build something new.
+score: 8.3
 ---
 
 The Hallowell Historic District covers the old commercial heart of the city along Water Street and Second Street, a compact grid of brick storefronts and Federal-style houses that looks much as it did in the 1820s. The district is listed on the National Register of Historic Places and preserves one of the most complete early 19th-century commercial streetscapes in Maine.

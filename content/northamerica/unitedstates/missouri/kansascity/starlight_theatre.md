@@ -8,6 +8,7 @@ tags:
 - theatre
 title: Starlight Theatre
 type: poi
+score: 6.6
 ---
 
 Starlight Theatre is an 8,000-seat outdoor amphitheater in Swope Park, one of the oldest continuously operating outdoor performing arts venues in the United States. It opened in 1951 and has hosted Broadway touring productions, major concert acts, and the longest-running outdoor Broadway series in the country. The setting — open air, under the Kansas City sky, in one of the largest urban parks in the nation — gives performances a quality that indoor venues cannot replicate.

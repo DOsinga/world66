@@ -11,6 +11,7 @@ story: >
   Jalgaon was chosen for the institute largely because of its connection to the Jain industrialist families of Khandesh, whose traditions of non-violence aligned closely with Gandhi's philosophy. The foundation houses one of the most comprehensive Gandhian archives in India outside of the national institutions in Delhi and Ahmedabad.
 sources:
   - https://en.wikipedia.org/wiki/Gandhi_Research_Foundation
+score: 6.6
 ---
 
 The Gandhi Research Foundation in Jalgaon is an unusual institution — a privately funded centre dedicated to studying and promoting Gandhian thought, housed in a purpose-built campus on the edge of town. The foundation runs an academy, library, and museum, and organises programmes on non-violence, sustainability, and conflict resolution attended by scholars from across India and abroad.

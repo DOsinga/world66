@@ -14,6 +14,7 @@ story: >
   around the city. The installation was meant to be temporary, but the public
   refused to let it be removed. It has stood on this vacant lot for more than a
   decade, a decision made collectively rather than by any institution.
+score: 7.7
 ---
 
 On a vacant lot on Madras Street, 185 white-painted chairs stand in the open air, one for each person killed in the February 2011 earthquake. They are arranged in rough clusters, not rows, and they vary wildly — office chairs, dining chairs, rocking chairs, a child's plastic seat, a wheelchair. The diversity of the chairs is the point. Each person was different; each death was specific.

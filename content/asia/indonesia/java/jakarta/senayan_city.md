@@ -13,6 +13,7 @@ tags:
 - restaurant
 title: Senayan City
 type: poi
+score: 5.2
 ---
 
 A high-end shopping mall in South Jakarta, directly across from Plaza Senayan and part of the same cluster of malls that dominates the Senayan district. The mix skews toward international luxury and fashion brands alongside a department store, a well-regarded cinema with premium screens, and restaurants ranging from a food court to proper sit-down dining. Easy to combine with a visit to Plaza Senayan next door; together they cover most of what upmarket Jakarta shopping has to offer.

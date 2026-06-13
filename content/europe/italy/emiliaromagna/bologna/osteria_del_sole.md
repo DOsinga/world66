@@ -7,6 +7,7 @@ address: Vicolo Ranocchi 1/D
 snippet: A wine bar open since 1465, where you bring your own food
 tags:
 - bars_and_cafes
+score: 7.6
 ---
 
 Tucked down an alley off Via degli Orefici in the Quadrilatero, the Osteria del Sole has been pouring wine since 1465 — almost certainly Bologna's oldest continuously operating drinking establishment. The rules have not changed much: wine and beer at the bar, paper cups, no food served.

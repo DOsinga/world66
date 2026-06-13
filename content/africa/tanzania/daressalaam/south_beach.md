@@ -7,6 +7,7 @@ tags:
 - sight
 title: South Beach Kigamboni
 type: poi
+score: 6.1
 ---
 
 Cross the small passenger ferry from beside the Kivukoni fish market and you land on Kigamboni — the southern bank of the harbour, much less developed than the city proper. From the ferry slip, a bajaji ride of fifteen minutes south brings you to a series of broad sand beaches stretching down to Mjimwema and beyond, with a handful of modest beach hotels and weekend bars.

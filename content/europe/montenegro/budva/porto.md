@@ -8,6 +8,7 @@ tags:
   - restaurant
   - seafood
 snippet: Waterfront seafood restaurant on the marina promenade
+score: 5.8
 ---
 
 Porto sits on the marina promenade just outside the old town, with a terrace looking directly across the water toward Sveti Nikola island. It is one of Budva's better-regarded waterfront dining spots, with a menu built around Adriatic seafood — branzino, sea bream, and octopus salad are constants, alongside the obligatory Montenegrin mixed grills for those not interested in fish.

@@ -8,6 +8,7 @@ tags:
   - sight
   - history
 story: "The plays of Aeschylus, Sophocles, Euripides, and Aristophanes were all first performed on this stage in the 5th century BCE — the foundational moment of Western drama. The City Dionysia festival every spring drew the whole population of Athens, and the front row of marble thrones (carved later, in Roman times) carried the names of the priests and dignitaries who watched."
+score: 8.1
 ---
 
 The Theatre of Dionysus, on the southern slope of the Acropolis just below the Parthenon, is the oldest theatre in the world and the birthplace of Western drama. The original wooden structure dates from the 6th century BCE; the stone theatre whose ruins we see now is mostly from the 4th century BCE and was later remodelled in Roman times.

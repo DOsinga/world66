@@ -11,6 +11,7 @@ tags:
 - day_trip
 snippet: A 650,000-acre patchwork of southern Appalachian forest stretching along the Tennessee–North Carolina border, headquartered in Cleveland
 story: "The forest is named for the Cherokee Nation, whose Eastern homeland these mountains were until the forced removal of 1838–39. The Trail of Tears began less than 10 miles from the current forest headquarters in Cleveland, at the Red Clay council ground and the Cherokee agency at Charleston."
+score: 8.7
 ---
 
 The **Cherokee National Forest** is one of the great wild places in the southeastern United States — 650,000 acres of southern Appalachian ridges, balds, hardwood coves and trout streams, stretching for almost 300 km along the Tennessee–North Carolina border. Cleveland is the **forest headquarters**, and the southern half of the forest spreads out east and south of town up to the high country around the Hiwassee and Ocoee rivers.

@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 title: High Street
 type: poi
+score: 7.8
 ---
 
 High Street runs parallel to Main Street, one block to the west, and carries almost all of Middletown's best domestic architecture. The street was developed in the early 19th century by merchants and professionals who wanted to be close to the commercial centre without living above a shop, and the resulting collection of Federal and Greek Revival houses is exceptional.

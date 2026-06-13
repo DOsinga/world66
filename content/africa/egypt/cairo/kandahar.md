@@ -9,6 +9,7 @@ tags:
 - restaurant
 title: Kandahar
 type: poi
+score: 4.5
 ---
 
 One of Cairo's better Indian restaurants, on El Dowal El Arabia Street in Mohandiseen. Slightly hard to find but worth the effort — the food is good and the service attentive.

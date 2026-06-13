@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -5.0660
 longitude: 39.1080
+score: 6.2
 ---
 
 The Tanga Yacht Club sits on the headland at the mouth of the bay — a low colonial-era clubhouse with a long terrace looking out over the water and the small mooring of fishing dhows and the occasional cruising yacht. Visitors are welcome on day membership, paid at the door. The bar serves cold Tusker and Kilimanjaro, plain simple grilled fish, and chips.

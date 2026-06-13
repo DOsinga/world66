@@ -7,6 +7,7 @@ tags:
 - sight
 title: Goose Spit Park
 type: poi
+score: 7.2
 ---
 
 A two-kilometre curl of sand and gravel that hooks east from Comox to form the southern shelter of Comox Harbour. Half the spit is a Canadian Navy training base (HMCS Quadra) and closed to the public; the other half is a regional park with a sand-and-cobble beach, picnic tables, and unmatched views back to the Coast Mountains.

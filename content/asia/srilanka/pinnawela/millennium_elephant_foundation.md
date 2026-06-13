@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.2750
 longitude: 80.3833
+score: 7.4
 ---
 
 The Millennium Elephant Foundation is a small charity-run sanctuary on a 15-acre coconut plantation a couple of kilometres south of the orphanage, in the village of Hiriwadunna. It currently looks after a handful of elderly and rescued elephants, most of them retired from a lifetime of work in the timber trade or at temples, and runs an on-site mobile veterinary unit that treats elephants across the country.

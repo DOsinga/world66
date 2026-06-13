@@ -12,6 +12,7 @@ title: Turku Cathedral
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Turku_Cathedral
+score: 8.8
 ---
 
 Turku Cathedral has been the mother church of Finnish Christianity since the 13th century and remains the seat of the Archbishop of Finland. The building has been rebuilt and expanded many times following fires — the current structure dates largely from the early 19th century. The cathedral museum inside contains medieval art and ecclesiastical objects, including the tomb of Karin Månsdotter, the only Finnish-born queen of Sweden.

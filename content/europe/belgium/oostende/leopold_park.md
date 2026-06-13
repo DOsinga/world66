@@ -6,6 +6,7 @@ tags:
   - things_to_do
   - sight
 type: poi
+score: 5.8
 ---
 
 Leopold Park is a five-hectare landscaped park in the centre of Ostend, laid out in 1870 in the English picturesque style with ponds, tree-lined paths, and the ornate bandstand that still hosts concerts in summer. The famous flower clock at the park's edge is a Belgian civic institution; the flower arrangements are changed regularly and the clock keeps accurate time through a battery mechanism beneath the planted face.

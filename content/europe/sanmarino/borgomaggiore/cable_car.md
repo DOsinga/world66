@@ -13,6 +13,7 @@ tags:
 - sight
 title: San Marino Cable Car (Funivia)
 type: poi
+score: 8.2
 ---
 
 The cable car connecting Borgo Maggiore's central piazza to the historic city of San Marino above. The three-minute ride swings out over the hillside with a clear view across the Emilia-Romagna plain toward Rimini and the Adriatic coast on clear days. The station in Borgo Maggiore is in the main market square, making it easy to combine with the Thursday market. The upper station is a short walk from the main historic centre. Return tickets are cheaper than two singles. Runs continuously through the day; no need to book.

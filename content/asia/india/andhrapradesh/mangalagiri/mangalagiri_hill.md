@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Sacred hill rising 240 metres above the plains, with two temples and a long view
+score: 7.3
 ---
 
 Mangalagiri — literally "auspicious hill" — is a single 240-metre rocky outcrop standing alone above the flat coastal plain. It is the geological feature that gives the town its name and its religious importance. There are three Narasimha shrines on the hill: the foothill temple of Lakshmi Narasimha, the cave temple of Panakala Narasimha halfway up, and the Gandala Narasimha shrine on the summit.

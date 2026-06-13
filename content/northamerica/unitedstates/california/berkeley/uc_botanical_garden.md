@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.8750
 longitude: -122.2375
+score: 8.6
 ---
 
 The UC Botanical Garden sits in Strawberry Canyon above the campus, with views across the bay through the trees. Its 34 acres hold more than 20,000 individual plant specimens representing over 12,000 species — one of the most diverse collections in the United States, and genuinely worth an afternoon even for people who don't think of themselves as plant people.

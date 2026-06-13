@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: -22.7466
 longitude: -41.8815
+score: 5.7
 ---
 
 Pátio Havana occupies a corner spot on Rua das Pedras with an outdoor terrace and a consistently good cocktail programme. The bar has a Cuban theme that mostly manifests in the rum selection — there is a long list of aged rums and the mojitos are made properly, with fresh mint and not too much sugar. Caipirinhas are also available for those who want to stay local.

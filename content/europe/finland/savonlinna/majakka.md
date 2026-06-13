@@ -8,6 +8,7 @@ tags:
 title: Ravintola Majakka
 type: poi
 snippet: A long-running harbour-side restaurant by the kauppatori, specialising in lake fish
+score: 6.1
 ---
 
 Majakka is Savonlinna's best-known year-round restaurant, a wood-panelled space overlooking the harbour and the kauppatori. The menu leans on Finnish lake-and-forest staples — vendace, pike-perch, reindeer, mushroom soup — with the freshwater fish straight from Lake Saimaa.

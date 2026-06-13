@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 33.8959
 longitude: 35.5009
+score: 6.2
 ---
 
 The Grand Serail crowns a hill above downtown — a long, honey-coloured Ottoman barracks built in 1853 and converted to government use after the First World War. Today it houses the office of the Lebanese prime minister and is closed to visitors.

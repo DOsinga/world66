@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0581
 longitude: 9.9301
+score: 8.4
 ---
 
 The caruggi are the narrow stepped alleys that thread down through Tellaro from the upper car park to the seafront. They are too steep and too tight for cars, which is why the village has the still, end-of-the-road feel that the rest of the Riviera lost decades ago. Houses lean over the path; laundry hangs above your head; cats sleep in doorways painted ochre, pink and dusty green.

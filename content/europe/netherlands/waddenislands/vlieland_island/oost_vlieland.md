@@ -5,6 +5,7 @@ tags: [things_to_do, sight, neighbourhood]
 snippet: "The single village on the island — a quiet street of 17th-century houses"
 latitude: 53.2972
 longitude: 5.0656
+score: 7.2
 ---
 
 Oost-Vlieland is the only settlement on the island and home to almost all of its 1,200 permanent residents. The tree-lined Dorpsstraat runs through the village from the ferry quay, with old captains' houses, the small Tromp's Huys museum, the village church, and a row of cafés, bakeries, and a handful of shops. By the standards of Dutch islands it is small — perhaps a hundred buildings of any age — but the scale and the quiet are part of the appeal.

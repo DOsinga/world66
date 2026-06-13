@@ -9,6 +9,7 @@ latitude: 18.0467
 longitude: -76.5792
 sources:
   - https://en.wikipedia.org/wiki/Blue_Mountain_Peak
+score: 8.9
 ---
 
 At 2,256 m, Blue Mountain Peak is the highest point in Jamaica and the tallest summit in the Caribbean outside Hispaniola. The standard approach is an overnight hike, departing the trailhead at Penlyne Castle or nearby Whitfield Hall around 2am to reach the summit by sunrise. On a clear morning you can see the coast of Cuba, 145 km to the north.

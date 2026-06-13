@@ -8,6 +8,7 @@ tags:
 - friedrichshain
 title: Simon-Dach-Straße
 type: poi
+score: 6.8
 ---
 
 Simon-Dach-Straße runs east from the Warschauer Straße S-Bahn through the heart of Friedrichshain's café district to Boxhagener Platz, and for most of its length it is wall-to-wall outdoor seating. The mix has shifted upmarket over the past decade — there are fewer of the €2 beer-and-plastic-chair dives and more places with actual menus and decent wine — but the outdoor culture remains intact and the density of options makes it one of the better streets in Berlin for deciding where to eat or drink by just walking the length of it and seeing what appeals.

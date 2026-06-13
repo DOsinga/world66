@@ -8,6 +8,7 @@ tags:
   - hiking
 title: Meteora Hiking Trails
 type: poi
+score: 8.7
 ---
 
 The main loop trail connecting all six monasteries is about 12 kilometres and can be done in three to four hours at a relaxed pace. The path winds up through the rock formations, crosses the high plateau between the monasteries, and descends back to Kastraki or Kalambaka. You pass between the rocks on foot in a way that is impossible by car, and the scale of the formations becomes clear only when you are standing among them.

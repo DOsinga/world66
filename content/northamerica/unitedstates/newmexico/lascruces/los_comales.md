@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 32.3144
 longitude: -106.7789
+score: 5.8
 ---
 
 Los Comales is the kind of New Mexican restaurant that people from Las Cruces brag about to visitors — a family-run place with no pretensions and food that uses real green chile from the Hatch Valley. The menu covers the New Mexican standards: enchiladas, green chile stew, huevos rancheros, and tamales. The chile is used with confidence, not as decoration — it is genuinely hot if you order the green without specifying mild.

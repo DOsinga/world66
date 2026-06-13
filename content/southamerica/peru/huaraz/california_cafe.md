@@ -7,6 +7,7 @@ tags:
   - cafe
 latitude: -9.5278
 longitude: -77.5292
+score: 5.8
 ---
 
 California Café, on the pedestrian street of José de Sucre, is the best breakfast spot in Huaraz. It has been feeding trekkers for years, and the menu reflects what people actually want before heading into the mountains: proper coffee, fresh fruit, pancakes, eggs done several ways, and wholegrain bread. The service is attentive and the kitchen reliable.

@@ -16,6 +16,7 @@ story: >
   identity commissioned in the 1890s, at a time when the French state was actively
   suppressing regional languages. The room is free to enter and often overlooked by visitors
   who stop only at the square outside.
+score: 7.9
 ---
 
 The heart of Toulouse: a grand neoclassical facade in pink brick that closes the western side of the vast Place du Capitole. The building serves as the city hall and opera house, and its interiors — particularly the painted Salle des Illustres — are open to visitors during office hours. The square itself, large enough to hold an entire neighbourhood's worth of café tables, is the social centre of the city. At night the building is illuminated, and the Occitan cross inlaid into the paving glows under the lamp posts.

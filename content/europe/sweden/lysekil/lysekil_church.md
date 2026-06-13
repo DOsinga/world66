@@ -8,6 +8,7 @@ tags:
 - church
 title: Lysekil Church
 type: poi
+score: 6.8
 ---
 
 Lysekils kyrka sits on the rocky knoll behind the harbour, built in 1901 in heavy local pink granite to a design by Adrian Pettersson. The exterior is muscular and unornamented; the interior is brighter, with painted wooden vaulting, a stained-glass window in the apse, and a 1981 organ. Its perch makes it the visual anchor of the town from the water.

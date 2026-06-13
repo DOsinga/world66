@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 12.9274
 longitude: -85.9185
+score: 8.3
 ---
 
 The mountains around Matagalpa produce some of the best coffee in Central America, and several fincas offer tours that explain shade-grown cultivation, wet processing, and the economics of the specialty coffee trade. This is not tourist theatre — these are working farms, and the tours go through active operations.

@@ -14,6 +14,7 @@ story: >
   most other pagan temples in the empire preserved this one by filling the barrel-vaulted
   interior with holy water and a headless statue of John the Baptist. The head belongs to a
   sarcophagus lid in the atrium.
+score: 8.3
 ---
 
 Tucked into the western sector of the palace, the Temple of Jupiter is the best-preserved Roman structure in Diocletian's Palace after the mausoleum. Built as the imperial family's private temple, it was later repurposed as a Christian baptistery, which is why it's survived intact: the barrel-vaulted ceiling with its original Roman relief decoration, the Sphinxes flanking the entrance (real Egyptian imports), and the medieval baptismal font made from a Roman sarcophagus are all still in place.

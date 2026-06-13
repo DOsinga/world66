@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: -22.7430
 longitude: -41.8750
+score: 7.1
 ---
 
 The waters around the Búzios peninsula offer decent diving by Brazilian standards, with visibility that routinely reaches 10–15 metres and water temperatures warm enough for a 3mm wetsuit outside the cooler winter months. The main attraction is marine life rather than dramatic topography: reef fish, moray eels, octopus, sea turtles, and the occasional school of larger fish around the deeper rocky outcrops.

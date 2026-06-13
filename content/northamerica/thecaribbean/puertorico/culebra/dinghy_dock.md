@@ -9,6 +9,7 @@ tags:
   - bars_and_cafes
   - bar
   - seafood
+score: 5.7
 ---
 
 A waterfront restaurant and bar on the lagoon, on the far side of the drawbridge from Dewey's main street. The deck looks out over moored sailboats and a school of huge tarpon that hang around the dock waiting for kitchen scraps — feeding them is part of the experience.

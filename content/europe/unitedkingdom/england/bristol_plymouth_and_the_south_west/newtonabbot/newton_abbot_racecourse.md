@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 50.5386
 longitude: -3.5978
+score: 5.3
 ---
 
 Newton Abbot Racecourse is a country National Hunt course on the edge of town, running about twenty fixtures a year — mostly summer evening meetings. It is one of the smaller and friendlier courses in the South West, with a real local-track atmosphere and a tight, undulating layout that produces unpredictable racing.

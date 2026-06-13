@@ -9,6 +9,7 @@ latitude: 78.2122
 longitude: 15.8000
 sources:
   - https://en.wikipedia.org/wiki/Adventdalen
+score: 8.4
 ---
 
 The broad, flat-bottomed valley stretching east from Longyearbyen is the easiest accessible wilderness in Svalbard. In winter it is the main corridor for snowmobile safaris heading toward the Russian settlement of Barentsburg. In summer, hikers and birdwatchers walk the valley floor past old mining infrastructure, river terraces, and Arctic tundra.

@@ -10,6 +10,7 @@ tags:
 - sight
 title: Eucharistic Miracle
 type: poi
+score: 7.2
 ---
 
 The Eucharistic Miracle of Lanciano is the town's best-known sight, preserved in the church of San Francesco. Pilgrims come to see the relics associated with the miracle, displayed in a chapel that is more intimate than grand.

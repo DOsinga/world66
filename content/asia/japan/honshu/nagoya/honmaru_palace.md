@@ -8,6 +8,7 @@ tags:
 latitude: 35.1846
 longitude: 136.8996
 neighbourhood: Meijo
+score: 8.7
 ---
 
 The Honmaru Palace within Nagoya Castle's main bailey is the most ambitious traditional-architecture reconstruction in postwar Japan. The original — built in 1615 as the official residence and audience hall for the lords of Owari domain — was destroyed in the 1945 firebombing along with the keep. Reconstruction began in 2009 using surviving prewar measurements, photographs and material samples, and finished in 2018 at a cost of around 15 billion yen.

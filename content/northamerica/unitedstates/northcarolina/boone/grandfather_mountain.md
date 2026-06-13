@@ -8,6 +8,7 @@ tags:
 - sight
 title: Grandfather Mountain
 type: poi
+score: 9.1
 ---
 
 Grandfather Mountain — named for the craggy face that elders saw in its summit profile — rises to 5,946 feet and is among the most striking peaks in the eastern United States. The attraction at the top, run by a non-profit, includes the Mile High Swinging Bridge, a wildlife habitat with native species (black bears, river otters, cougars, eagles), and a small natural history museum.

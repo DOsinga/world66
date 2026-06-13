@@ -13,6 +13,7 @@ story: >
   individual oyster rather than any external treatment. No two Mangareva pearls are exactly
   alike, which is what makes them prized. The Gambier lagoon's nutrient-rich waters produce
   pearls with particularly deep, lustrous colours.
+score: 8.0
 ---
 
 The black pearl farms are the economic heartbeat of Mangareva. The deep, sheltered waters of the Gambier lagoon are ideal for oyster cultivation, and the island produces some of the most prized black pearls in the world — deeper in colour and more lustrous than pearls from many other Pacific locations. Most of Mangareva's families are involved in pearl farming in some capacity.

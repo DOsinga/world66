@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.6780
 longitude: 115.9040
+score: 5.8
 ---
 
 Nanchang has absorbed the national hotpot enthusiasm and added local color to it. The city's own variation tends toward a clear or lightly spiced broth rather than the numbing Sichuan style, emphasizing the flavor of the ingredients — particularly the local river fish, pork offal, and seasonal vegetables — rather than the sauce. The student neighborhoods in the western part of the city and the commercial streets around Bayi Square both have concentrations of hotpot restaurants.

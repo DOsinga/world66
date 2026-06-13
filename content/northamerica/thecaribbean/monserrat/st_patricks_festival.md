@@ -13,6 +13,7 @@ story: >-
   rebellion timed to coincide with the holiday — the planters were expected
   to be drunk at their celebrations — and so the modern festival is a hybrid
   of Irish heritage, Caribbean carnival, and the memory of the rebellion.
+score: 8.4
 ---
 
 Montserrat's St Patrick's Festival is a ten-day national celebration in mid-March, anchored on St Patrick's Day (17 March) and held mostly at Little Bay and across the safe northern villages. The festival mixes Irish-heritage traditions (a shamrock parade, ceilidh-style dances, masquerades), the Afro-Caribbean street carnival (steel pan, soca, calypso, the masquerade troupes), and a series of solemn events marking the failed 1768 enslaved persons' rebellion that was planned to coincide with the date.

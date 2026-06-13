@@ -14,6 +14,7 @@ story: >
   compared the approach to the Swiss Alps, and promoters of Vermont's Northeast
   Kingdom still use that comparison — which, for once, is not entirely
   exaggerated.
+score: 9.2
 ---
 
 Lake Willoughby is Vermont's most dramatic lake — a long, narrow body of water carved by glaciers between Mount Pisgah to the east and Mount Hor to the west. The cliffs on both sides drop almost vertically into water that reaches depths of over 90 metres, making it one of the deepest lakes in New England.

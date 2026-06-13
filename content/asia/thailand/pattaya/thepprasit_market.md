@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 12.8756
 longitude: 100.8727
+score: 7.8
 ---
 
 The Thepprasit Night Market opens on Thursday, Friday, Saturday, and Sunday evenings in the southern part of Pattaya, near Jomtien. It is one of the best street food markets on the eastern seaboard: cheap, crowded, and genuinely local. The stalls sell grilled seafood, pad thai, mango sticky rice, fried insects, and enormous quantities of cheap clothing and household goods.

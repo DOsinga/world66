@@ -17,6 +17,7 @@ story: >
   restricted to protect them.
 sources:
   - https://en.wikipedia.org/wiki/Lanphere_Dunes
+score: 7.8
 ---
 
 The Lanphere Dunes are a National Natural Landmark north of Arcata, at the tip of the peninsula between Humboldt Bay and the Pacific. They protect one of the most intact coastal dune systems remaining in California — a sequence of foredunes, deflation plains, and back-dune forest that has been largely undisturbed for decades thanks to careful management. The US Fish and Wildlife Service manages them as part of the Humboldt Bay National Wildlife Refuge.

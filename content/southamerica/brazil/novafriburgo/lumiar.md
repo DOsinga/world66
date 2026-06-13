@@ -11,6 +11,7 @@ story: >
   and handmade craft shops sit alongside the adventure sports outfitters.
   The combination of hippie commune roots and serious outdoor recreation is
   unusual and makes Lumiar unlike anywhere else in the Serra do Mar.
+score: 8.3
 ---
 
 A small village about 35 km from Nova Friburgo in the valley of the Rio São João, Lumiar has become the adventure sports capital of Rio de Janeiro state. White-water rafting on the São João is the main attraction: the river runs through a narrow gorge with rapids graded for beginners through to experienced paddlers, and several operators in the village offer half-day and full-day trips with equipment and guides included.

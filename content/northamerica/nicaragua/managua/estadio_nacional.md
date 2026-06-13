@@ -9,6 +9,7 @@ latitude: 12.1494
 longitude: -86.2828
 sources:
   - https://en.wikipedia.org/wiki/Estadio_Nacional_Soberan%C3%ADa
+score: 7.8
 ---
 
 The Estadio Nacional Soberanía is Nicaragua's main baseball stadium, with a capacity of around 35,000 — and baseball, not football, is the passion of Nicaraguans. The winter league (Liga Nicaragüense de Béisbol Profesional) runs from November to March, and watching a game here is one of the most enjoyable local experiences Managua offers. The atmosphere is festive and relaxed, the tickets are cheap, and the crowd is genuinely engaged.

@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 37.8031
 longitude: -122.2705
+score: 6.8
 ---
 
 A 22-story Romanesque Revival tower from 1923, with a distinctive open-air lantern at its top and a clock face on three sides. The Tribune Tower was the headquarters of the Oakland Tribune newspaper for most of the 20th century and remains one of the most recognisable silhouettes on the Oakland skyline. The building has been converted to apartments and ground-floor retail.

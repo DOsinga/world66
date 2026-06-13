@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 45.07
 longitude: -66.97
+score: 8.7
 ---
 
 The Bay of Fundy is one of the best whale watching destinations in the world. The tidal mixing and cold upwelling water supports extraordinary concentrations of plankton, which attracts right whales, humpbacks, finbacks, minke whales, and harbour porpoises. The North Atlantic right whale — one of the most endangered large whale species on earth — feeds in the bay in summer, with populations of 50 or more regularly observed.

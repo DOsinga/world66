@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Centuries of horology in the basement of a Bahnhofstrasse watch shop"
+score: 8.1
 ---
 
 The Uhrenmuseum Beyer occupies a single basement room beneath Beyer Chronometrie, the family-owned watch shop on Bahnhofstrasse, but it holds one of the finest private collections of timepieces anywhere — over 500 objects spanning from Egyptian water clocks and Roman sundials through medieval church clocks, baroque pocket watches, marine chronometers and modern Swiss complications.

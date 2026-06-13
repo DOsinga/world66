@@ -9,6 +9,7 @@ latitude: 35.5622
 longitude: 45.4256
 story: >
   The building's walls are still riddled with bullet holes from the 1991 Kurdish uprising, when residents and peshmerga fighters stormed the compound and freed the prisoners inside. The complex was taken in fierce fighting; the holes were deliberately left unrepaired as evidence. In the compound outside, 182,000 glass fragments are suspended in the air — one for each Kurdish village destroyed during the Anfal campaign, which killed an estimated 50,000 to 182,000 people between 1986 and 1989.
+score: 9.3
 ---
 
 Amna Suraka — Arabic for "Red Security" — was the headquarters of Saddam Hussein's secret police in Sulaymaniyah, a complex used for interrogation, torture, and detention of Kurdish political prisoners. It is now a museum and memorial dedicated to documenting the Ba'athist regime's persecution of the Kurds, and it is one of the most important and disturbing sites in the entire Middle East.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7080
 longitude: -116.3956
+score: 6.4
 ---
 
 A small trailhead park at the south end of Palm Desert that serves as one of the main access points into the Santa Rosa foothills. The parking area sits at the edge of the residential grid, and within five minutes of walking you are out of sight of houses and surrounded by ocotillo, creosote, and barrel cactus.

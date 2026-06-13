@@ -9,6 +9,7 @@ tags:
   - wine
 latitude: 45.0490
 longitude: 8.3870
+score: 7.2
 ---
 
 The Castello di Uviglie is one of the most picturesque of Monferrato's many surviving castles, rising on a vine-covered hilltop a few kilometres outside Rosignano Monferrato. Built in 1322 and remodelled in the fifteenth century, it has been continuously inhabited and is now a working wine estate.

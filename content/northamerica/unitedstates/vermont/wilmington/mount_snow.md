@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Mount Snow was developed in the 1950s by Walter Schoenknecht, who wanted to bring big-mountain skiing to southern New England. He installed the first US gondola lift, the first heated outdoor pool at a ski resort, and an indoor heated bubble called the 'Snow Lake Lodge' — innovations that defined the modern destination ski resort."
+score: 8.1
 ---
 
 Mount Snow is the closest major ski area to New York and Boston — a 3,600-foot peak with 80 trails spread over 600 acres, served by lifts that include the Bluebird Express, the first six-passenger bubble chair in North America. The terrain is best for intermediates; the Carinthia side of the mountain has one of the largest dedicated terrain parks in the east.

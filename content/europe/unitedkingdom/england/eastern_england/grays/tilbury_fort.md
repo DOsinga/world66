@@ -16,6 +16,7 @@ story: >
   The current structure dates mostly from the 1670s, but it stands on the site of that gathering.
 sources:
   - https://en.wikipedia.org/wiki/Tilbury_Fort
+score: 8.3
 ---
 
 Tilbury Fort sits on the south bank of the Thames directly opposite Grays, accessible by the Gravesend-Tilbury ferry from the Gravesend side or by road from the A1089 on the Essex bank. It is the best-preserved example of artillery fort architecture in England, built in its current form under King Charles II in the 1670s to defend the Thames approach to London. English Heritage manages the site and it is open to visitors most of the year.

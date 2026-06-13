@@ -10,6 +10,7 @@ longitude: -74.7552
 sources:
   - https://en.wikipedia.org/wiki/John_A._Roebling%27s_Sons_Company,_Trenton_N.J.,_Block_3
   - https://en.wikipedia.org/wiki/Roebling_Machine_Shop
+score: 7.9
 ---
 
 John Roebling moved his wire rope factory from Pittsburgh to Trenton in 1848, and the company went on to manufacture the cables for the Brooklyn Bridge, the George Washington Bridge, and dozens of other major suspension bridges. The sprawling complex of brick industrial buildings on South Broad Street and surrounding streets is a National Historic Landmark — the largest surviving 19th-century wire manufacturing complex in the United States.

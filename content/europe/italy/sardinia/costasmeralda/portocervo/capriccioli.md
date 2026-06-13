@@ -5,6 +5,7 @@ latitude: 41.0794
 longitude: 9.5520
 tags:
   - beaches
+score: 8.3
 ---
 
 Capriccioli is one of the most photographed beaches on the Costa Smeralda and on a calm day it looks the part — two crescents of white sand divided by a tumble of granite boulders, with the water shading from turquoise to deep blue. The smaller, eastern beach (Capriccioli Est) is the more sheltered of the two and is popular with snorkellers; the western beach is wider and gets the afternoon sun longer.

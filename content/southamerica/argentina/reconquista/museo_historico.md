@@ -6,6 +6,7 @@ longitude: -59.6454
 tags:
   - things_to_do
   - museum
+score: 6.0
 ---
 
 The municipal history museum is a modest single-storey building south of the centre, with collections covering the founding of Reconquista in 1872, the displacement of the Mocoví indigenous people, and the arrival of Italian and Eastern European settlers who shaped the modern town. Old photographs, documents, agricultural tools, and a handful of period rooms make up the bulk of the display.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 The Imam Mohammed bin Saud Mosque, just outside the At-Turaif walls, is a large modern mosque in the traditional Najdi style — pale earth-coloured walls, angular minaret, palm-shaded courtyards. It is named for the founder of the First Saudi State, who agreed the famous 1744 pact with the religious reformer Muhammad ibn Abd al-Wahhab here in Diriyah.

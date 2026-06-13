@@ -14,6 +14,7 @@ story: >
   it, the city had every brick and timber numbered, dismantled the building
   piece by piece, and reassembled it on a new plot a hundred metres away. The
   rebuilt pub reopened in 2022 with its original frontage and bar.
+score: 7.5
 ---
 
 The Earl de Grey is a striking yellow-brick Victorian pub with an ornate cast-iron veranda, originally one of the busiest dockers' taverns in the city. After standing empty for years and threatened by a road widening, it was painstakingly relocated and restored as part of the wider regeneration of the Castle Street corridor.

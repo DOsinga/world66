@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Medieval stone church that survived where its congregation did not
+score: 7.2
 ---
 
 The small stone church at Hosby — known in Swedish as Hösby — is one of the oldest buildings in Noarootsi. Medieval in origin, it served the Swedish-speaking community of the parish for centuries before the mass exodus of 1944 emptied the pews almost overnight. The church has been maintained and is still used for occasional services, but its surroundings — a quiet churchyard with Swedish-language gravestones slowly being reclaimed by grass — tell the melancholy story of a community that disappeared in a matter of days.

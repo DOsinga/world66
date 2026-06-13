@@ -8,6 +8,7 @@ tags:
 - shopping
 title: SM City Bacolod
 type: poi
+score: 4.6
 ---
 
 The largest mall in Bacolod and one of SM's lifestyle centres, with a full range of department stores, supermarket, cinemas, restaurants, and dozens of retail shops. For visitors it's mainly useful for stocking up, changing money, or escaping the midday heat. The food court has a decent selection of local fast food alongside the usual chains.

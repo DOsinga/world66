@@ -10,6 +10,7 @@ tags:
 title: Indian Canyons
 type: poi
 url: https://www.indian-canyons.com
+score: 9.4
 ---
 
 Four spectacular palm oases — Palm Canyon, Andreas Canyon, Murray Canyon, and Tahquitz Canyon — carved into the base of the Santa Rosa Mountains and operated by the Agua Caliente Band of Cahuilla Indians, who have lived here for centuries. Palm Canyon is the most visited, a stunning gorge sheltering one of the world's largest natural groves of California fan palms. Andreas Canyon has dramatic rock formations and a year-round stream. Tahquitz Canyon, the ancestral home of the Cahuilla, is accessed separately and requires a guided tour.

@@ -8,6 +8,7 @@ tags:
 latitude: 9.3107
 longitude: 123.3090
 snippet: "1904 Stick-style building on the Silliman campus, now an anthropology museum"
+score: 7.8
 ---
 
 Silliman Hall is the oldest standing building on the Silliman University campus and one of the most distinctive pieces of American colonial architecture in the Philippines. Built in 1904 in the Stick style — a decorative wooden architectural tradition common in New England in the late 19th century — it looks like nothing else on the island.

@@ -11,6 +11,7 @@ story: >
   the dye itself, which in earlier centuries would stain their skin blue over time. The Saturday
   market is one of the last places in Morocco where you can see genuine nomadic traders rather than
   actors dressed for tourist photographs.
+score: 8.5
 ---
 
 The Saturday market (souk el-had) is the largest weekly market in the Sous-Massa-Draa region and one of the most authentic in southern Morocco. Hundreds of traders arrive from surrounding villages and from deep in the Western Sahara, setting up stalls that sell everything from dates and argan oil to second-hand clothing and livestock.

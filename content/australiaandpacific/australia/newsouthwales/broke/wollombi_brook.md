@@ -6,6 +6,7 @@ tags:
 - nature
 latitude: -32.762
 longitude: 151.095
+score: 6.2
 ---
 
 The Wollombi Brook meanders through the valley floor near Broke, cutting between vineyards and eucalyptus woodland. The creek flats along its bank make for easy, mostly flat walking — you can follow informal tracks from the village for several kilometres in either direction without needing a map.

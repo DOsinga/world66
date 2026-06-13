@@ -7,6 +7,7 @@ tags:
 latitude: 43.0709
 longitude: 141.3382
 snippet: Statue of the American agronomist who shaped Hokkaido's pioneer university
+score: 5.0
 ---
 
 William Smith Clark spent just eight months in Hokkaido in 1876-77, yet his influence on the island has proved durable enough to earn him a prominent statue on the Hokkaido University campus. Clark was an American agricultural scientist recruited by the Meiji government to help establish what would become Hokkaido University and to introduce Western farming techniques suited to Hokkaido's climate. He organised the curriculum, imported seeds and livestock, and helped set the university's practical-science orientation. His departing words — "Boys, be ambitious!" — became sufficiently famous to be inscribed on the statue, which shows him pointing east, supposedly towards the future.

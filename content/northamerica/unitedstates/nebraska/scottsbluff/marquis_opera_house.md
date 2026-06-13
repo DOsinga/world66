@@ -8,6 +8,7 @@ tags:
   - historic_site
 latitude: 41.8625
 longitude: -103.661944
+score: 6.4
 ---
 
 The Marquis Opera House on Broadway dates from the early 20th century and is one of the most handsome commercial buildings in downtown Scottsbluff. Built in a Romanesque Revival style, the building retains its original facade and much of its ornamental brickwork — a rarity in the Nebraska Panhandle, where many historic main street buildings have been stripped or lost to fire and development.

@@ -11,6 +11,7 @@ story: "Ios claims to be the burial place of Homer, and the island takes the cla
 sources:
   - https://en.wikipedia.org/wiki/Chora,_Ios
   - https://en.wikipedia.org/wiki/Ios
+score: 8.5
 ---
 
 Chora is the hilltop main town of Ios, and it is genuinely beautiful — a maze of white cubic Cycladic houses, narrow paved lanes, blue-domed churches, and flower-filled terraces climbing a steep hill above the port. By day it is quiet and photogenic; by night in summer it becomes one of the loudest places in the Aegean, with bars spilling into the streets until sunrise.

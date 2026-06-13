@@ -9,6 +9,7 @@ tags:
 title: Mercado Modelo
 type: poi
 snippet: The main covered market of central Santiago, selling everything from religious icons to fresh produce
+score: 6.9
 ---
 
 The Mercado Modelo is the catch-all market of the centre — a covered building with stalls of fresh produce, dried herbs, religious figures, amber and larimar jewellery, t-shirts, cigars, and tourist tat. It is smaller and less aggressive than its Santo Domingo namesake, and the prices are reasonable even before bargaining.

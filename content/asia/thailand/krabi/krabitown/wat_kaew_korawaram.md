@@ -9,6 +9,7 @@ longitude: 98.913459
 snippet: "White hilltop temple overlooking Krabi Town"
 story: >
   The gleaming white viharn was completed in 1997, built with donations from locals and the royal family. The resident monks run a regular meditation programme open to foreign visitors — one of the few temples in the Krabi area that actively welcomes non-Thai participants.
+score: 6.6
 ---
 
 Krabi Town's most prominent landmark sits on a white hill above the town centre, its bright white buildings and gilded spire visible from most of the riverside. The climb up the hill takes about ten minutes from the main road, or you can take the staircase from the rear car park.

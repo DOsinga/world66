@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 48.8103
 longitude: 2.1125
+score: 7.5
 ---
 
 The Temple de l'Amour (Temple of Love) is a small circular neoclassical pavilion on an island in the English garden of the Petit Trianon, designed by Richard Mique in 1778. It stands on twelve Corinthian columns and houses Bouchardon's sculpture *Cupid Cutting his Bow from the Club of Hercules* — a copy; the original is in the Louvre. The original was placed here by Marie Antoinette and reportedly depicted a young man with the features of her favourite, the Swedish nobleman Axel von Fersen.

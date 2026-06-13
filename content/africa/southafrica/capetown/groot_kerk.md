@@ -15,6 +15,7 @@ tags:
 - city_bowl
 title: Groote Kerk
 type: poi
+score: 8.1
 ---
 
 The Groote Kerk on Adderley Street is the oldest existing church building in South Africa, with the present church dating from 1841 but incorporating the bell tower of an earlier 1700 building. As the mother church of the Dutch Reformed denomination it has been a centre of Afrikaner religious life for more than three centuries.

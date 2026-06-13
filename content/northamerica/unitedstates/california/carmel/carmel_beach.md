@@ -7,6 +7,7 @@ tags:
 - beach
 title: Carmel Beach
 type: poi
+score: 8.1
 ---
 
 The beach at the foot of Ocean Avenue is white, fine-grained sand — white enough that it's sometimes compared to Caribbean beaches, though the Pacific here is cold year-round and the fog rolls in most mornings. The backdrop of Monterey cypress trees on the bluffs above the south end of the beach gives it a distinctive, melancholy character that shows up in hundreds of paintings by the artists who settled here.

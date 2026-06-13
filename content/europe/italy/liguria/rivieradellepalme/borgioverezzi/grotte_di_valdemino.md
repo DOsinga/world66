@@ -12,6 +12,7 @@ story: >
   Among the formations inside is the longest known straw stalactite in Italy —
   a hollow calcite tube over 2.5 metres long — delicate enough that a breath
   of air can set it vibrating.
+score: 8.1
 ---
 
 The Grotte di Valdemino are a karst cave system on the outskirts of Borgio, carved through limestone by the underground Rio Battorezza stream. The tourist route, opened in 1970, covers 800 metres and passes through chambers of striking colour — white, yellow, ochre and deep red — caused by iron and manganese oxides in the rock. Specialists have called it the most colourful show cave in Italy, and the claim is easy to believe when the lights catch the overlapping tones on a single chamber wall.

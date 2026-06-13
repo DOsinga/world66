@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 32.65
 longitude: 21.4
+score: 6.8
 ---
 
 The Jebel Akhdar — Green Mountain — is the most verdant part of Libya, a limestone plateau rising to over 800 metres and receiving enough rainfall to support juniper forests, orchards, and old terraced Berber villages. The contrast with the desert and coastal plain below is stark and welcome. Qasr Libya sits on the plateau and makes a good base for exploring the surrounding landscape.

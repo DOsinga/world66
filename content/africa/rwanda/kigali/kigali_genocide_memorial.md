@@ -11,6 +11,7 @@ story: >
   of what was once a residential neighbourhood. Many were brought to this
   site seeking refuge during the 1994 genocide and were killed here instead.
   The memorial's outdoor gardens are maintained in their honour.
+score: 9.3
 ---
 
 The Kigali Genocide Memorial in Gisozi is the most important site in Rwanda and one of the most powerful genocide memorials in the world. It tells the story of the 1994 genocide with clarity and restraint — the permanent exhibition walks you through the colonial history that deepened ethnic divisions, the hundred days in which an estimated one million people were killed, and the long process of reconciliation since. There is a children's wing that documents the youngest victims by name and photograph, which is the hardest section to walk through.

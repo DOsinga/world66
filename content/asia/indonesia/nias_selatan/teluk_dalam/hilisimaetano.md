@@ -4,6 +4,7 @@ type: poi
 latitude: 0.6033
 longitude: 97.7831
 tags: [things_to_do, sight, village, culture]
+score: 7.7
 ---
 
 A traditional village near Bawömataluo with a long avenue of omo hada houses and a quieter, less-visited atmosphere. The architecture is the same Nias hill style — high pillars, scaled roofs, carved facades — but without the steady trickle of tour groups that arrives at Bawömataluo most mornings.

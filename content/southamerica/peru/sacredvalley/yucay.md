@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -13.3167
 longitude: -72.0892
 snippet: Small village just east of Urubamba, the favourite estate of the Inca Huayna Capac
+score: 6.6
 ---
 
 A small village a few kilometres east of Urubamba along the valley floor. Yucay was the favourite country estate of Huayna Capac, the last Inca emperor before the Spanish conquest, and the village still has fragments of Inca terraces and walls scattered through it.

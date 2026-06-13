@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 37.8720
 longitude: 112.5630
+score: 6.8
 ---
 
 The Taiyuan Folk Customs Museum occupies an old courtyard compound in the city centre and focuses on the domestic culture, craft traditions, and folk practices of Shanxi. The collection includes traditional textiles, embroidery, paper-cutting, agricultural implements, wedding customs, and domestic furniture from the Ming and Qing periods. It is a more intimate museum than the Shanxi Museum and covers aspects of everyday life that the larger institution's emphasis on archaeological and high-culture objects tends to skip.

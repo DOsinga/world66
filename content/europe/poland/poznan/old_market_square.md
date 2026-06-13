@@ -16,6 +16,7 @@ story: >
   war.
 sources:
   - https://en.wikipedia.org/wiki/Old_Market_Square,_Pozna%C5%84
+score: 9.2
 ---
 
 The Old Market Square — Stary Rynek — is one of the largest and most beautiful Renaissance market squares in Europe, and the definitive heart of Poznan. The centrepiece is the Town Hall, a graceful Italian Renaissance building completed in 1560, its arcade-fronted facade and slender tower giving the square a distinctly Mediterranean air that surprises visitors expecting standard Central European Gothic.

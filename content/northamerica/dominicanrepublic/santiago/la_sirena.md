@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 19.4527
 longitude: -70.7015
+score: 7.2
 ---
 
 The Museo del Tabaco (Tobacco Museum) is a small free museum in the centre of Santiago dedicated to the history and culture of Dominican cigar production. The collection traces the industry from the colonial period through the Trujillo era and into the modern free-trade zone period, with displays on cultivation, curing, rolling techniques, and the major families who built the industry.

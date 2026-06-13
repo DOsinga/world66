@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - religious
+score: 6.2
 ---
 
 The small fortified parish church on the western edge of the village, originally medieval and rebuilt in the 18th century. The walled enclosure and small graveyard around it are quiet and atmospheric, with views down to the harbour. The bell tower is a recognisable landmark from out in the bay.

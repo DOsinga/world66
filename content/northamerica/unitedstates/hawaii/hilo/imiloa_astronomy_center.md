@@ -14,6 +14,7 @@ story: >
   — some 3,500 kilometres away — without instruments, using star positions, ocean swells, and
   cloud formations. The same sky that guided them to Hawaii is now home to 13 telescopes at
   the summit of Mauna Kea. ʻImiloa is the only place that addresses this continuity directly.
+score: 7.9
 ---
 
 ʻImiloa (the name means "exploring new knowledge" in Hawaiian) is the best place in Hawaii to understand both the ancient Hawaiian relationship to the sky and the modern Mauna Kea Observatory complex. The museum draws the thread between Polynesian wayfinding — one of the greatest feats of navigation in human history — and the world-class astronomy that now happens on the same mountain the Hawaiians held sacred.

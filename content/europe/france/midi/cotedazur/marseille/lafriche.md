@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - arts
 - nightlife
+score: 7.9
 ---
 
 La Friche Belle de Mai occupies the buildings of an old tobacco factory east of the Saint-Charles station, converted from 1992 onward into one of France's largest independent cultural complexes. The 45,000 square metres now contain artist studios, dance and theatre rehearsal spaces, two cinema screens, a contemporary art gallery (Tour-Panorama), a radio station, a skate park, a kindergarten and a long-running bar-restaurant. Around 70 organisations work on site.

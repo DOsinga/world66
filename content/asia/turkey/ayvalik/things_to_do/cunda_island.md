@@ -1,6 +1,7 @@
 ---
 title: "Cunda Island (Alibey Adası)"
 type: poi
+score: 8.5
 ---
 
 Cunda is the largest of the islands scattered across the bay of Ayvalık, connected to the mainland by a causeway and also reachable by small passenger boat from the town waterfront. Like Ayvalık itself, it was a prosperous Greek community before 1923, and the old village at the northern end of the island has a concentration of stone houses and ruined churches that feels even more melancholy than the mainland quarter — some buildings here were left to decay and have stayed that way, vines growing through window frames, walls slowly subsiding.

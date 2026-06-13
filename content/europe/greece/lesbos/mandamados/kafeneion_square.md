@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 39.310716
 longitude: 26.336002
+score: 6.8
 ---
 
 The central square in Mandamados is a classic example of the Greek village plateia — shaded by plane trees, surrounded by a handful of kafeneions, and largely unchanged in atmosphere from a generation ago. This is where village life actually happens: old men playing backgammon in the morning, families gathering in the evening, and the occasional tourist looking slightly lost among the regulars.

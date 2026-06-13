@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Before the viaduct opened in December 2004 traffic on the route from Paris to the Mediterranean used to back up for kilometres on summer weekends as everyone funnelled down into Millau and back up again. The bridge cut the bottleneck in a single stroke and is now driven by around four million vehicles a year."
+score: 9.2
 ---
 
 The Millau Viaduct is the world's tallest bridge: 2,460 metres long, with seven slender concrete pylons supporting a steel deck more than 270 metres above the bed of the Tarn. The tallest pylon, with its mast, reaches 343 metres — taller than the Eiffel Tower. Designed by the British architect Norman Foster with the French engineer Michel Virlogeux, it opened in 2004 and replaced one of the worst traffic chokepoints in France.

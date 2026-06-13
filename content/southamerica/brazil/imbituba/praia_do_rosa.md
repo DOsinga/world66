@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: -28.1229
 longitude: -48.6636
 snippet: "Brazil's premier surf and whale-watching beach in a stunning bay"
+score: 8.9
 ---
 
 Praia do Rosa is a long arc of sand stretched between two green headlands, with the kind of setting that makes you want to stay longer than you planned. The surf here is serious — consistent enough that the beach hosted the ISA World Surfing Games — but the bay is well protected, and swimming is fine outside the main break. The water is Atlantic-blue and the hills behind are lush in a way that feels more subtropical jungle than typical beach resort.

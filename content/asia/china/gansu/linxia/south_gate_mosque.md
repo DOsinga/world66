@@ -12,6 +12,7 @@ story: >
   after the destruction of the Hui uprisings and subsequent Qing reprisals in the 1870s.
   The rebuilding itself became a statement of communal resilience — the mosque was made
   larger and more prominent than before, visible from the main market streets.
+score: 7.1
 ---
 
 The Nanguan Mosque stands near the centre of Linxia and is one of the most active religious sites in the city. The architecture blends Chinese pavilion forms with Islamic symbolism — the green-tiled roofs, the crescent finials, the calligraphy panels above the entrance — in the way that characterises Chinese mosque design in the northwest. Friday prayers draw worshippers from across the city and surrounding villages.

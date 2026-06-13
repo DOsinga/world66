@@ -16,6 +16,7 @@ story: >
   artefacts and fossils, some of legitimate archaeological significance. The combination
   of neon signs and dinosaur tracks gives the cave an unmistakably mid-century American
   roadside character.
+score: 5.6
 ---
 
 Moqui Cave is a natural sandstone cave about 8 km north of Kanab on US-89, converted in the 1950s into a commercial attraction that mixes genuine palaeontological and archaeological interest with classic American roadside showmanship. Inside the cave, displays include dinosaur tracks, mineral fluorescents, Native American pottery and artefacts, and a collection of sandstone formations. The temperature inside stays around 10°C year-round regardless of the desert heat outside.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Eisenhower bought the farm in 1950, the only home he and Mamie ever owned. He retired here in 1961 and used the farm to host Charles de Gaulle, Nikita Khrushchev, and Winston Churchill — the porch where they sat is still set up with the original chairs."
+score: 7.8
 ---
 
 President Dwight D. Eisenhower's retirement home, a working dairy farm just south-west of the Gettysburg battlefield. The 1950s Pennsylvania farmhouse is preserved almost exactly as the Eisenhowers left it, complete with their books, Ike's painting studio, Mamie's dressing room, and a TV set always tuned to whatever channel was getting Ike worked up.

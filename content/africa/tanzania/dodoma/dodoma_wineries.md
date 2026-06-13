@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Italian missionaries planted the first vines around Dodoma in the 1950s as a side project for the local diocese. By the 1980s the state had taken the operation over and 'Dodoma Red' was the only Tanzanian wine on the shelf — sweet, fortified, and an acquired taste."
+score: 6.8
 ---
 
 Dodoma sits at around 1,100 metres on a dry, sunny plateau, conditions that turn out to suit vines surprisingly well. The wineries on the southern outskirts of the city — Cetawico, Tanganyika Vineyards, and several smaller operations — produce most of Tanzania's domestic wine, from dry whites and reds to the famously sweet fortified Dodoma Red.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
   - sight
+score: 7.2
 ---
 
 The Armenian quarter of Kamianets-Podilskyi occupies the southeastern part of the old town island — a reminder that from the 14th to the 18th century, the city had a substantial Armenian merchant community. The Armenians arrived as traders on the route between Poland and the Levant and established their own church, trading house, and residential quarter within the city.

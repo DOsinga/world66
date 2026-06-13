@@ -9,6 +9,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Historico
 snippet: "The original parish church of Mazatlan, two blocks west of the cathedral"
+score: 6.9
 ---
 
 The Templo de San José is the older of the two main churches in the old town and a more intimate space than the cathedral. The current building dates from the late 19th century but the parish has been at this site since the 1840s. The single nave is plain in the way that 19th-century Mexican churches of working neighbourhoods tend to be; the wooden ceiling and the painted retablos are the visual interest.

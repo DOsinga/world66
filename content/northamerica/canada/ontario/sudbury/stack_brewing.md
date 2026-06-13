@@ -7,6 +7,7 @@ tags:
   - brewery
 latitude: 46.5197
 longitude: -80.9967
+score: 5.6
 ---
 
 Sudbury's flagship craft brewery, named for the Superstack on the horizon. The taproom in the Notre Dame Avenue brewing facility serves the full range of Stack beers — the Saturday Night IPA and the Dark Mild are the standards — with a small food menu of pizza and snacks designed to match.

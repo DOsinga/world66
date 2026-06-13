@@ -6,6 +6,7 @@ longitude: 102.7110
 tags:
   - bars_and_cafes
   - bar
+score: 5.1
 ---
 
 The Hump is a backpacker hostel just south of Jinma Biji Square whose rooftop bar has been the unofficial Yunnan-traveller gathering point for more than two decades. The name is a reference to "flying the Hump" — the wartime air route across the Himalayas from India to Kunming that supplied Chiang Kai-shek's Republic against the Japanese, which had its eastern terminus a few kilometres from here.

@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "The painter Asta Nielsen and the writer Gerhart Hauptmann both made Hiddensee their summer retreat in the 1920s. The bohemian crowd they drew earned the island the East German nickname 'Capri of the North' — an exaggeration, but a clue to the kind of escape the place has always represented."
+score: 9.1
 ---
 
 Hiddensee is the small, car-free island off the western coast of Rügen, a 17-kilometre sliver of dune, heath, and meadow that has long served as a Baltic retreat for artists and writers. Cars are not allowed; transport is by bicycle, horse-drawn carriage, or foot. The Dornbusch lighthouse on the northern bluff and the small white village of Kloster are the obvious sights.

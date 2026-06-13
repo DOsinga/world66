@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 28.9944
 longitude: 77.7067
+score: 7.4
 ---
 
 The old city of Meerut, centred on the historic Ghanta Ghar (clock tower) area, is a dense warren of narrow lanes and specialised bazaars that reward slow exploration. Different streets focus on different trades — silver jewellery in one lane, spices in another, textiles in a third — following a pattern of commercial zoning established centuries ago under Mughal administration when market areas were strictly organised by craft.

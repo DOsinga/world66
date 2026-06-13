@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 7.6693
 longitude: 36.8395
+score: 4.8
 ---
 
 Minta, known locally as Twins, is a lively restaurant in central Jimma popular with university students, local workers, and anyone who wants a straightforward, good-value meal. The menu focuses on grilled meats — tibs in various preparations — along with injera-based dishes and a rotating selection of daily specials.

@@ -9,6 +9,7 @@ latitude: 48.5130
 longitude: 32.2580
 story: >
   Built in 1752 as a military outpost against Tatar and Ottoman raids, the fortress was named for Empress Elizabeth of Russia. Its earthwork ramparts and star-shaped bastions were designed by the engineer de Witt and followed the Vauban school of fortification. The city grew up around the fortress, and by the 19th century the military structure had become a public park — one of the stranger transformations of military architecture into leisure space in Ukraine.
+score: 7.1
 ---
 
 The remains of the Fortress of Saint Elizabeth (Svyato-Elizavetinskaya Fortetsya) form the oldest physical layer of Kropyvnytskyi. Built in 1752 to protect the new southern frontier of the Russian Empire from Tatar cavalry raids, the fortress was designed with five bastions connected by earth curtain walls and surrounded by a ditch. It was never attacked, becoming obsolete within decades as the frontier pushed further south.

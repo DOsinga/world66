@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 12.5975
 longitude: -61.4208
+score: 7.3
 ---
 
 Clifton Harbour is the heart of Union Island — a compact waterfront strip of small guesthouses, provision stores, rum shops, and a concrete jetty where the ferry from St Vincent and the water taxi to Canouan and Mayreau arrive and depart. It has the cheerful, slightly ramshackle atmosphere of a working Caribbean port.

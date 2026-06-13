@@ -7,6 +7,7 @@ snippet: Public library built over Roman ruins, with a glass-floored central hal
 tags:
 - things_to_do
 - sight
+score: 7.3
 ---
 
 The Salaborsa is Bologna's main public library and one of the city's most distinctive interior spaces. The central hall — once the trading floor of the Bologna stock exchange — has a glass floor that allows you to look down at the Roman ruins below: the basilica and forum of Bononia, the city founded by the Romans in 189 BC.

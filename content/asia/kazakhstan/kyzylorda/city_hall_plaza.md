@@ -7,6 +7,7 @@ tags:
 latitude: 45.2067
 longitude: 63.9157
 snippet: A new public square with fountains and Soviet-era grandeur
+score: 5.4
 ---
 
 The central plaza near Kyzylorda's city hall is a modern public space that has become the social heart of the city. Built as part of Kazakhstan's post-independence drive to modernise provincial centres, the square features fountains, benches, and the kind of wide-open space that Soviet urban planning always insisted upon.

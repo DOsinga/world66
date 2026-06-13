@@ -6,6 +6,7 @@ longitude: 98.2814
 tags:
   - things_to_do
   - sight
+score: 4.9
 ---
 
 A large nightly cultural-theme park north of Patong on Kamala Road, run by the same company that operates Phuket FantaSea. The format is dinner-buffet plus carnival shows: light-and-water displays, parades with elaborate floats, acrobatic routines, and a temple-and-elephant motif throughout.

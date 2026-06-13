@@ -8,6 +8,7 @@ latitude: 65.5852
 longitude: 22.1421
 sources:
   - https://en.wikipedia.org/wiki/Norrbotten_Theatre
+score: 6.9
 ---
 
 Norrbottensteatern is the regional theatre of Norrbotten, housed in a modernist building near the city centre. As the main professional theatre for Sweden's vast and sparsely populated north, it has developed a distinctive identity: productions often draw on Sami themes, Arctic landscapes, and the particular social history of northern Sweden, and the company tours extensively to reach communities scattered across an enormous geographic area.

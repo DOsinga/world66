@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - sport
+score: 3.8
 ---
 
 The Stade Municipal de Bingerville is a small multi-use stadium used primarily for football. It seats around three thousand and hosts matches by local clubs as well as occasional youth-international fixtures.

@@ -16,6 +16,7 @@ story: >
   before a major restoration in the late 1990s.
 sources:
   - https://en.wikipedia.org/wiki/Wright%27s_Opera_House
+score: 6.9
 ---
 
 Wright's Opera House is an Italianate brick building from 1888 that remains in active use as a performing arts venue in the center of Ouray. The building retains its original pressed-tin ceiling, balcony, and stage, and the interior restoration has preserved the character of a late-Victorian mountain-town opera house while updating it for contemporary use.

@@ -8,6 +8,7 @@ tags:
   - shopping
   - market
 snippet: Sucre's main shopping market for clothes, household goods, and crafts
+score: 6.9
 ---
 
 Mercado Modelo, a sprawling daily market a few blocks north-east of the central plaza, is the everyday shopping market of Sucre. Stalls cover clothes, shoes, household goods, kitchen pots, fabrics, and stationery, with a small section of handicrafts at the back. Less colourful than the Mercado Central and far less rural than the Mercado Campesino, it is a pragmatic place where city people come for school uniforms and replacement lightbulbs.

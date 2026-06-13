@@ -9,6 +9,7 @@ latitude: 45.8500
 longitude: 6.1700
 snippet: "The cleanest big lake in Europe, framed by Alpine ridges and ringed by a 42-kilometre cycle path"
 story: "In the 1960s Lake Annecy was so polluted that swimming was banned. A coalition of riparian mayors built the *Syndicat Intercommunal du Lac d'Annecy* and a pioneering sewer collector ring around the lake — the cleanup, completed by 1976, is still cited as a model in European limnology."
+score: 9.4
 ---
 
 Lake Annecy stretches 14 kilometres south from the city, framed by the Massif des Bauges to the west and the Bornes-Aravis to the east. Its reputation as the cleanest large lake in Europe is largely justified — the water clarity often reaches 7 or 8 metres, and the colour shifts from emerald to deep blue depending on the angle of the sun.

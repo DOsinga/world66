@@ -8,6 +8,7 @@ latitude: 33.3064
 longitude: -111.6553
 story: >
   The museum's Boeing B-17 Flying Fortress, Sentimental Journey, is one of the most airworthy Second World War bombers still flying. It conducts passenger flights from Falcon Field — for a fee, you can sit in the bombardier's position or the tail gunner's seat and actually take off. The experience of being inside a wartime B-17 in flight is one the museum calls, without much exaggeration, "unforgettable."
+score: 7.6
 ---
 
 Housed at Falcon Field Airport in East Mesa, the Commemorative Air Force Airbase Arizona has one of the best collections of flyable Second World War aircraft in the United States. The organisation's stated mission is to preserve, maintain, and fly these machines — not just display them in a hangar — and the collection includes a B-17 Flying Fortress, a B-25 Mitchell, several fighter aircraft, and other period planes in various states of restoration.

@@ -7,6 +7,7 @@ type: poi
 latitude: 34.6833
 longitude: 33.0500
 snippet: "Long coast with calm city beaches and wilder western coves"
+score: 5.7
 ---
 
 Limassol's beach options split naturally into two zones. Close to the city, the beaches have wave breakers, organized facilities, and sun lounger rentals. Further out, particularly toward Pissouri to the west and along the road toward Pentakomo to the east, the coast gets quieter and more varied.

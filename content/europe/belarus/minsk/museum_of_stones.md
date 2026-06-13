@@ -8,6 +8,7 @@ tags:
 latitude: 53.9148
 longitude: 27.6402
 snippet: A park laid out as a map of Belarus made from thousands of actual boulders
+score: 6.7
 ---
 
 The Museum of Stones is one of Minsk's more unusual attractions: an outdoor park in which thousands of boulders and stones have been arranged in a roughly geographic layout representing the territory of Belarus, interspersed with blue spruce trees. The collection tells the geological history of the country, from ancient glacial erratics to stones from every region.

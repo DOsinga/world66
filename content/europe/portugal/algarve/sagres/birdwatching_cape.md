@@ -7,6 +7,7 @@ tags:
 latitude: 37.0050
 longitude: -8.9450
 story: "The cape is one of the top seawatching spots in Europe during autumn migration — gannets, shearwaters, skuas, and petrels funnel past in staggering numbers on north winds from late September through November. On a good day, birders count thousands of birds per hour passing within view of the fortress walls."
+score: 7.8
 ---
 
 Sagres Point and Cabo de São Vicente form a funnel for migratory birds crossing from Atlantic feeding grounds to winter quarters in Africa and the Mediterranean. In autumn (September to November) the seabirds — Cory's and Balearic shearwaters, sooty and great shearwaters, European storm petrels, skuas, gannets — pass in enormous numbers on westerly and northerly winds.

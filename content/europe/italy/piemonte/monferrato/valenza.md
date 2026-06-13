@@ -10,6 +10,7 @@ tags:
 latitude: 45.0140
 longitude: 8.6420
 story: Valenza produces roughly half of all the high-end gold jewellery made in Italy — over a thousand workshops and ateliers operate in and around the town. The trade dates back to the early 1800s, when local craftsmen began producing jewellery for the courts of Turin and Milan, and the town's school of orafi has trained generations of master jewellers.
+score: 5.8
 ---
 
 Valenza is an unremarkable-looking town on the right bank of the Po that quietly produces an enormous share of Italian fine jewellery. Most of the workshops are closed to casual visitors, but Valenza Gioielli, the trade fair held twice a year, opens the doors to professionals and serious buyers.

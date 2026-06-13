@@ -10,6 +10,7 @@ story: >
   The monastery belongs to the Gelugpa (Yellow Hat) tradition — the school of which the Dalai Lama is the head. After the Tibetan uprising of 1959, many monks fled Chinese-controlled Tibet and several found their way to Kalimpong, reinforcing the town's role as a centre of Tibetan culture in India. The monastery's library holds rare Tibetan manuscripts brought over by refugees.
 sources:
   - https://en.wikipedia.org/wiki/Tharpa_Choling_Monastery
+score: 7.4
 ---
 
 The Tharpa Choeling Gompa (also spelled Gaden Tharpa Choling) was founded in 1922 at the top of Tirpa Hill, and is the largest and most accessible of Kalimpong's monasteries. It belongs to the Gelugpa school of Tibetan Buddhism — the same tradition as the Dalai Lama — and remains an active religious community. The monastery is easy to find and well-signposted from the town centre.

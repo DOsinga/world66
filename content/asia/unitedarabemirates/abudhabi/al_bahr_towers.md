@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 24.4566
 longitude: 54.4009
+score: 6.8
 ---
 
 The twin 25-storey towers of the Abu Dhabi Investment Council, on the eastern Corniche, wrapped in a kinetic shading system inspired by the *mashrabiya* lattice screens of traditional Arab architecture. Around 2,000 umbrella-like panels open and close in response to the sun's position, cutting solar gain by more than half.

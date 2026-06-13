@@ -8,6 +8,7 @@ tags:
   - sight
   - food_drink
 story: "Tea has been grown commercially at Gorreana since 1883, when the Mota family imported plants and a pair of Chinese tea masters to set up the estate. The factory is now run by the fifth generation of the same family, and several of the rolling and drying machines on the production line are the original Victorian-era cast-iron units, still in daily use."
+score: 8.2
 ---
 
 The only tea plantation in Europe that still produces tea commercially, set on green hillsides ten kilometres east of Ribeira Grande along the north-coast road. The estate is open daily, free to wander, and the factory tour walks you through the original nineteenth-century machinery — the rolling tables and the wood-fired dryers — that still process the leaves picked from the surrounding fields.

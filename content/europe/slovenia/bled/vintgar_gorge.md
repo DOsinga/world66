@@ -7,6 +7,7 @@ tags:
 title: Vintgar Gorge
 type: poi
 snippet: Spectacular 1.6 km boardwalk above the Radovna River
+score: 8.8
 ---
 
 A 1.6 km canyon cut by the Radovna River through limestone walls 100 metres high, traversed since 1893 by a network of wooden boardwalks bolted to the gorge sides. The water below runs an improbable turquoise, broken by short waterfalls and the 16-metre Šum Falls at the far end.

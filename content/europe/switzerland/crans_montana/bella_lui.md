@@ -5,6 +5,7 @@ tags: [things_to_do, sight, viewpoint]
 latitude: 46.3461
 longitude: 7.4847
 story: "At 2,543 metres, Bella Lui is the central high point of the Crans-Montana ski area and one of the best viewpoints in the Swiss Alps accessible by lift. The panorama from the summit takes in 82 named peaks, from Mont Blanc in France to the Bernese Oberland giants, and the 360-degree view is clear enough on good days to pick out individual glaciers."
+score: 8.0
 ---
 
 Bella Lui is the main mid-mountain peak in the Crans-Montana ski area, reached by gondola from Montana to the Cry d'Er station and then by the Toula chairlift or on foot in summer. The summit sits at 2,543 metres and commands an exceptional south-facing panorama across the Rhône Valley to the Italian Alps, while to the north the great peaks of the Bernese Oberland — the Finsteraarhorn, the Mönch, the Jungfrau — fill the horizon.

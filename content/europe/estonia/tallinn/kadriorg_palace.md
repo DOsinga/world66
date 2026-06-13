@@ -13,6 +13,7 @@ story: >
   Peter the Great began building Kadriorg in 1718 as a gift to his wife Catherine I, after whom the park is named (Kadriorg means "Catherine's Valley" in Estonian). He visited the construction site three times and apparently helped lay bricks personally. He died in 1725 before the palace was completed and never lived to see it finished.
 sources:
   - https://en.wikipedia.org/wiki/Kadriorg_Palace
+score: 8.3
 ---
 
 Kadriorg Palace is a small Petrine baroque palace commissioned by Peter the Great and completed after his death in 1725. The building, designed by the Italian architect Niccolò Michetti, sits in a formal park of the same name about 2 kilometres east of the Old Town — a 20-minute walk along the coast or a short tram ride. It now houses the Kadriorg Art Museum, a branch of the Art Museum of Estonia, with collections of Dutch, German, Flemish, and Russian art spanning the 16th to the early 20th century.

@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Combi
 type: poi
+score: 4.0
 ---
 
 Greek, Italian, and international, with a solid lunch menu of simple home-style cooking. Outdoor veranda in summer.

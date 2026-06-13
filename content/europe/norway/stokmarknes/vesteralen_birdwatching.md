@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 69.2899
 longitude: 15.8977
+score: 7.8
 ---
 
 The sea bird colony at Bleiksøya — a small island just off the village of Bleik on Andøya, about 85 km north of Stokmarknes — is one of the most accessible in northern Norway. The colony hosts hundreds of thousands of Atlantic puffins along with razorbills, guillemots, and northern gannets during the summer nesting season, typically running from late May through early August.

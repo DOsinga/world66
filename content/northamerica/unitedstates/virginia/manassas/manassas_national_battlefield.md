@@ -15,6 +15,7 @@ snippet: Civil War battlefield where the myth of a short war died
 title: Manassas National Battlefield Park
 type: poi
 url: https://www.nps.gov/mana
+score: 8.8
 ---
 
 This National Park Service site preserves the ground where two of the Civil War's earliest and most consequential battles were fought — First Manassas in July 1861 and Second Manassas in August 1862. Both were Confederate victories, and together they established that the war would be long, bloody, and far from certain.

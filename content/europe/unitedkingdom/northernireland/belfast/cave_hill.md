@@ -8,6 +8,7 @@ latitude: 54.632
 longitude: -5.9549
 story: >
   In 1795, three men stood on the basalt promontory known as McArt's Fort at the top of Cave Hill and swore to work for Irish independence. They were Theobald Wolfe Tone, Henry Joy McCracken, and Samuel Neilson — founders of the United Irishmen. Three years later, the rebellion they planned ended in defeat and executions. The view from the hill they stood on is unchanged.
+score: 8.3
 ---
 
 Cave Hill rises steeply behind Belfast's northern suburbs, a basalt escarpment with views over the entire city, Belfast Lough, and — on clear days — Scotland. The hill's distinctive profile, with Napoleon's Nose at the summit, is claimed to have inspired Jonathan Swift's description of the Brobdingnagian landscape in *Gulliver's Travels*, which Swift wrote while living in Ireland.

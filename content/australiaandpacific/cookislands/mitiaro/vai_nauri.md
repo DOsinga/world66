@@ -8,6 +8,7 @@ latitude: -19.8684
 longitude: -157.6980
 story: >
   The small eels that inhabit Vai Nauri have lived alongside swimmers for generations and show no fear of humans. Local legend holds that they are the guardians of the water, and disturbing them is said to bring rain — a useful belief that has probably helped protect the cave ecosystem.
+score: 8.7
 ---
 
 Vai Nauri is Mitiaro's most famous freshwater cave pool, set within the island's ancient limestone makatea. A narrow opening in the coral rock leads down into a cavern where a deep pool of clear, cool water waits — one of the most refreshing swims you will find anywhere in the Pacific. Stalactites hang overhead, and shafts of light filter through openings in the rock. The eels that share the water with swimmers are docile and accustomed to company.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "The westernmost point of mainland Africa, a rocky headland with surf breaks"
+score: 5.9
 ---
 
 The Pointe des Almadies is, by a few hundred metres, the westernmost point of mainland Africa — a low rocky promontory at the tip of the Cap-Vert peninsula. There is no dramatic monument; just a small concrete marker on a windswept rock, a couple of fishing boats pulled up nearby, and Atlantic surf working a long reef break offshore.

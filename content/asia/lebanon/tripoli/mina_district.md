@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 34.4508
 longitude: 35.8286
+score: 7.4
 ---
 
 El-Mina is the port district of Tripoli, a peninsula that was once a separate municipality and still has a distinct character from the old city. The seafront promenade is pleasant for an evening walk, and the restaurants around the harbour are the best place to eat seafood in the Tripoli area — the fish is often fresher and the prices lower than in Beirut.

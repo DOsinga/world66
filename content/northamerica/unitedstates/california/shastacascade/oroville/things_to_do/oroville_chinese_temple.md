@@ -2,6 +2,7 @@
 title: "Oroville Chinese Temple"
 type: poi
 tags: [museum, culture, history]
+score: 8.7
 ---
 
 Built in 1863 by Chinese immigrants during the height of California's Gold Rush and railroad construction era, the Oroville Chinese Temple is one of the oldest and best-preserved Chinese religious sites in North America. What makes it exceptional is that it survived intact — the altarpieces, ceremonial robes, lanterns, tapestries, and hand-carved wooden puppets are largely original, giving it an authenticity that most historic sites simply cannot match.

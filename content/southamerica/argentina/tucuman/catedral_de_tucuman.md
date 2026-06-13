@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -26.8314
 longitude: -65.2034
+score: 7.1
 ---
 
 The neoclassical cathedral on the north side of Plaza Independencia, completed in 1856 to replace an earlier colonial church. Two domed towers and a pedimented portico front the plaza; inside, the carved wooden altar of the Virgen de la Merced is the focus of one of Tucumán's biggest religious festivals each September.

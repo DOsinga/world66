@@ -7,6 +7,7 @@ tags:
 - nature
 title: Suttle Lake
 type: poi
+score: 7.4
 ---
 
 Suttle Lake is a long, narrow glacial lake just off Highway 20 about 25 kilometres west of Sisters, set into pine forest at the foot of Mount Washington and Three Fingered Jack. The water is clear, cold, and excellent for swimming on a hot summer day; non-motorized boats and small motorboats (with strict horsepower limits) are allowed and the lake is well-suited to canoes, kayaks, and stand-up paddleboards.

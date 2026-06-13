@@ -10,6 +10,7 @@ longitude: -74.0764
 snippet: "Colombia's Supreme Court, rebuilt after the 1985 M-19 siege and retaking"
 story: >
   In November 1985, the M-19 guerrilla group seized the Palacio de Justicia, taking hundreds of hostages including all 25 Supreme Court justices. The Colombian army's retaking of the building two days later killed over 100 people, including 11 justices. The original building burned and was demolished; the current structure was built on the same footprint and opened in 1999. Twelve people who were taken from the building alive during the siege were never seen again.
+score: 5.8
 ---
 
 The current Palacio de Justicia on the north side of Plaza Bolivar occupies the site of one of the most traumatic events in modern Colombian history. The original palace was seized by M-19 guerrillas in November 1985 and destroyed in the army's retaking; the rebuilt version opened in 1999.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.7638
 longitude: -43.3481
+score: 6.5
 ---
 
 Parque Halfeld is a small but well-kept public garden in the centre of Juiz de Fora, a few blocks from the main pedestrian street. It was laid out in the 19th century and named, like the street nearby, after the German engineer who shaped much of the city's early urban form. Benches under large trees, a bandstand, and a fountain make it the most pleasant square in the city centre.

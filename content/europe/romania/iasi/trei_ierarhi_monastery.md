@@ -10,6 +10,7 @@ story: >
   The monastery's exterior is covered entirely in carved stone geometric patterns — every surface of the facade is ornamented in a lace-like grid of interlocking motifs. It is said that no two panels are identical. The building was completed in 1639 under Prince Vasile Lupu, who intended it to rival the finest churches of Constantinople.
 sources:
   - https://en.wikipedia.org/wiki/Trei_Ierarhi_Monastery
+score: 9.2
 ---
 
 The Church of the Three Hierarchs (Trei Ierarhi) is one of the most remarkable buildings in Romania. Built between 1637 and 1639, it stands out immediately for its facade: every centimetre of the exterior stonework is covered in carved geometric and floral patterns, creating an effect unlike anything else in Orthodox church architecture. The carving is extraordinarily fine and was executed by craftsmen brought from across the Orthodox world.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 38.1108
 longitude: 13.3727
+score: 7.3
 ---
 
 Villa Giulia, opened in 1778, was the first formal public park in Europe — a Bourbon-era statement of enlightened urbanism laid out by Nicolò Palma on a quadripartite grid of broad avenues, with parterres, fountains, and statuary at each crossing. Goethe walked here in 1787 and wrote that the gardens were "the most beautiful place on earth".

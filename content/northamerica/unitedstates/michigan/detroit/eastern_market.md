@@ -11,6 +11,7 @@ tags:
 neighbourhood: Eastern Market
 title: Eastern Market
 type: poi
+score: 8.7
 ---
 
 Eastern Market is one of the oldest and largest farmers markets in the United States, filling six city blocks just northeast of downtown. The Saturday market is the big day, with hundreds of stalls of produce, flowers, meat, cheese, baked goods, and prepared food, attracting tens of thousands. A smaller Sunday market focuses on artisans and prepared food, and a Tuesday market runs in summer.

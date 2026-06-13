@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "In February 1958, a BEA Ambassador aircraft on a charter flight crashed into the south slope of Winter Hill, killing seven of the forty-two people on board. A memorial stone marks the crash site near the summit. Less grimly, Winter Hill was also the site of the first public television transmitter in the north of England, established in 1956 — the tall transmission mast that stands on the summit has been sending signals across Lancashire and Greater Manchester ever since and is one of the most visible landmarks for miles around."
+score: 7.8
 ---
 
 Winter Hill is the highest point on the West Pennine Moors at 456 metres, and on a clear day the view from the summit encompasses an extraordinary sweep of northern England: the Bowland Fells to the north, the Pennines to the east, and on exceptional days the mountains of the Lake District to the northwest and the Isle of Man across the Irish Sea to the west. A major telecommunications mast on the summit has been transmitting television and radio signals across the region since the 1950s.

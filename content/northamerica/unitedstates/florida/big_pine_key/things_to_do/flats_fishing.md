@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - sport
+score: 8.4
 ---
 
 The shallow Atlantic flats east of Big Pine Key are among the most celebrated bonefishing and permit grounds in the world. The water is clear enough to sight-fish — you stand on the bow of a skiff poled by a guide through ankle-to-knee-deep water and cast to individual fish you can see feeding on the grass flats. Bonefish, permit, and tarpon are the three prizes of Keys flats fishing, and catching all three in a single trip — the "grand slam" — is the benchmark that serious anglers chase.

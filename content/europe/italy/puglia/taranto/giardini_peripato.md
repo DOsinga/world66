@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.4742
 longitude: 17.2425
+score: 5.9
 ---
 
 The Giardini Peripato are public gardens at the eastern edge of the old city, overlooking the Mar Piccolo. The name comes from the Peripatetic school of philosophy — according to tradition, Archytas of Tarentum, the 4th-century BC mathematician and philosopher who was a friend of Plato, used to walk and teach in the gardens that occupied this part of the ancient city.

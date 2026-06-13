@@ -11,6 +11,7 @@ tags:
 - museum
 title: Constitution House of Tabriz
 type: poi
+score: 8.2
 ---
 
 The Constitution House, or Khaneh Mashruteh, is a beautiful Qajar-era courtyard

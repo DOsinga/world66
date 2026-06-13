@@ -8,6 +8,7 @@ latitude: -4.78
 longitude: 55.505
 sources:
   - https://en.wikipedia.org/wiki/Mah%C3%A9
+score: 8.8
 ---
 
 Anse Intendance, near the southern tip of Mahe, is one of the finest beaches on the island and one of the best in the Seychelles. A wide crescent of white sand backed by palms and low vegetation, with granite boulders framing each end of the bay. There are no beach bars or food vendors here — just the beach, the Indian Ocean, and the occasional other visitor.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.9929
 longitude: 116.3964
+score: 6.5
 ---
 
 The park built for the 2008 Summer Olympics, housing the Bird's Nest, Water Cube, and several other venues from the Games, with large landscaped open spaces connecting them. The park is worth an afternoon — partly for the architectural experience of the two main stadiums, partly because the scale of the development is itself a statement about modern China's ambitions. In 2022, the same venues hosted key Winter Olympic events.

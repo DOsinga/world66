@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   Turnagain Arm is one of only sixty or so places on earth where a tidal bore forms — a wall of water that runs up the inlet on the incoming tide, sometimes ten feet tall and travelling at fifteen miles per hour. Bald Eagle State park rangers post predicted bore times for the next two weeks, calibrated to the lunar cycle. Surfers and stand-up paddleboarders ride it.
+score: 8.7
 ---
 
 The Turnagain Arm — the long fjord-like inlet that Girdwood sits on — has the second-highest tidal range in North America, second only to the Bay of Fundy. On the strongest tides, the rising water races up the inlet as a visible wave, the bore tide, which can be watched from several pullouts along the Seward Highway between Beluga Point and Girdwood.

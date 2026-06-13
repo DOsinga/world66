@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.11480
 longitude: 15.48700
+score: 8.8
 ---
 
 The Tremiti Islands are part of a marine protected area, and the underwater world here is considerably richer than the unprotected stretches of the Adriatic coast. Posidonia seagrass meadows shelter octopus, sea bream, grouper, and moray eel; the limestone cliffs drop steeply below the surface and are colonised by gorgonian corals, sponges, and encrusting organisms that make for vivid diving. Visibility in calm conditions is often 20–30 metres.

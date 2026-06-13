@@ -6,6 +6,7 @@ longitude: -74.4452
 tags:
   - bars_and_cafes
   - bar
+score: 6.7
 ---
 
 Court Tavern on Church Street is the legendary New Brunswick rock club where Bon Jovi played early gigs and where the long-running New Brunswick basement-show scene crossed paths with the formal venue circuit. It opened in 1980, closed in 2012, and reopened under new management — the live music side remains the heart of the place.

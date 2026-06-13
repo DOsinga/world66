@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.8
 ---
 
 Tea Tree Bay is the first of the small bays you reach walking east along the national park coastal track from the headland — about fifteen minutes from the visitor centre. The beach is small, scallop-shaped, lined with paperbarks and pandanus, and faces east into a clean break that on a clean swell makes a beautiful right-hand point.

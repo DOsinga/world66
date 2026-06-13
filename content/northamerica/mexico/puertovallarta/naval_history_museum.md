@@ -8,6 +8,7 @@ tags:
 - centro
 title: Naval History Museum
 type: poi
+score: 6.6
 ---
 
 A free municipal museum in a 19th-century building at the southern end of the Malecón, dedicated to the maritime history of Banderas Bay. The collection runs from prehispanic dugout canoes used by the Aztec coastal tribes through Spanish galleons and 19th-century coastal traders to the modern Mexican Navy. Several rooms contain detailed model ships, navigation instruments, and uniforms.

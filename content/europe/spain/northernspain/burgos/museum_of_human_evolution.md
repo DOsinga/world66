@@ -11,6 +11,7 @@ story: >
   species that lived 800,000 years ago and may be the common ancestor of
   modern humans and Neanderthals. One skull, nicknamed "Miguelon," is the
   most complete pre-Neanderthal skull ever found.
+score: 8.2
 ---
 
 The Museo de la Evolución Humana opened in 2010 specifically to house and contextualise the finds from the Atapuerca archaeological sites — a UNESCO World Heritage Site in its own right that has transformed scientific understanding of early human history in Europe. The building, designed by Juan Navarro Baldeweg, is striking: a glass-fronted structure on the south bank of the River Arlanzón that makes the most of natural light.

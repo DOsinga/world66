@@ -6,6 +6,7 @@ tags:
 - landmark
 title: University of Alabama at Birmingham
 type: poi
+score: 4.9
 ---
 
 UAB is one of the largest employers in Alabama and its medical complex is one of the top-ranked research hospitals in the country. The campus sits immediately south of Five Points South and has an expansive if somewhat utilitarian feel. The on-campus Alys Stephens Performing Arts Center is one of the best mid-sized concert venues in Birmingham, hosting touring orchestras, dance companies, and visiting performers.

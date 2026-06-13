@@ -13,6 +13,7 @@ story: >-
 tags:
   - things_to_do
   - sight
+score: 7.5
 ---
 
 The Cruceiro de Melide is a 14th-century stone cross standing in the small square in front of the Iglesia de Sancti Spiritus. It is generally accepted as the oldest dated cruceiro in Galicia and one of the oldest in the Iberian peninsula. The figure of Christ is carved on the western face and a Christ in Majesty (Maiestas Domini) on the eastern; the base shows Adam and Eve, with the serpent coiled around the tree behind them.

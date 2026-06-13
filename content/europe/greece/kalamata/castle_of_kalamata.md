@@ -12,6 +12,7 @@ story: >
   On 23 March 1821, Maniots under Petros Mavromichalis captured the castle from the Ottoman
   garrison — making Kalamata the first major town to be liberated in the uprising that would
   become the Greek Revolution. The date is still celebrated as Liberation Day in the city.
+score: 7.6
 ---
 
 The Byzantine castle stands on a low hill above the old town, offering good views over Kalamata and the Messinian Gulf. Most of what remains dates from the Frankish period (13th century), when the Villehardouin dynasty of the Principality of Achaea built it up as a major fortification. The Byzantines, Venetians, and Ottomans all held it at various points, and the walls bear traces of all of them.

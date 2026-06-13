@@ -16,6 +16,7 @@ story: >
   Asia. The Amo Chhu, which flows from Bhutan into India as the Torsa river,
   provides a natural habitat corridor, and the breeding programme here has
   contributed to regional conservation efforts for the species.
+score: 6.1
 ---
 
 The Amo Chhu Crocodile Breeding Centre sits on the bank of the Amo Chhu river, about a five-minute drive north of the bus terminal. It was set up to help conserve the gharial, a critically endangered crocodilian with a distinctive long, narrow snout adapted for catching fish — quite unlike the broad-jawed mugger crocodiles more commonly seen across South Asia.

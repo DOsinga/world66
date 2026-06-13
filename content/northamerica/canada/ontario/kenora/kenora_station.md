@@ -8,6 +8,7 @@ tags:
 - architecture
 title: Kenora CPR Station
 type: poi
+score: 6.8
 ---
 
 The Kenora railway station is a 1899 Canadian Pacific Railway building of brick and stone, designed in the Romanesque Revival style typical of the CPR's stations across the prairies. It is a federally designated heritage station and one of the most prominent surviving 19th-century buildings in town. VIA Rail's Canadian still stops here on its Toronto-Vancouver run.

@@ -7,6 +7,7 @@ tags:
 latitude: 23.5483
 longitude: 87.2914
 snippet: One of India's prestigious NIT campuses, founded 1960 in the planned city
+score: 5.6
 ---
 
 The National Institute of Technology Durgapur (formerly Regional Engineering College) was established in 1960 as one of India's early public technical universities, part of the same nation-building project that created the steel plant and the planned city around it. The campus is large and relatively leafy, occupying a quiet corner of the city near the Steel Township.

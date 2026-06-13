@@ -7,6 +7,7 @@ tags:
 - sight
 title: Iglesia de Santa Maria
 type: poi
+score: 6.4
 ---
 
 The town's main parish church, begun in 1418 and not finished until the early 19th century. The Condor Legion's incendiaries gutted the interior in 1937 but the stone shell survived, and the rebuilt nave preserves the original Gothic ribs and pointed windows.

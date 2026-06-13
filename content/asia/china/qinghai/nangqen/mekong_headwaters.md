@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.1500
 longitude: 96.3000
+score: 7.4
 ---
 
 The Zaqu River, the main headwater of the Mekong, flows through the valleys south of Nangqen before crossing into Tibet and eventually becoming the great river that runs through Southeast Asia to the South China Sea. Here it is young, cold, and fast, cutting through gorges of pale limestone beneath ridges that hold snow well into summer.

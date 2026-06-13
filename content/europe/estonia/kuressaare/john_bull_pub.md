@@ -7,6 +7,7 @@ tags:
 latitude: 58.2528
 longitude: 22.4855
 snippet: "The most reliably busy bar in Kuressaare's centre, with a good range of draught beers"
+score: 4.6
 ---
 
 The John Bull is an English-style pub on the central square that has become the default meeting point for an evening drink in Kuressaare. The choice of Estonian craft beers and imported draught lagers is wider than the exterior suggests, and the bar fills up on summer evenings with an equal mix of locals and visitors.

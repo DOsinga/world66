@@ -9,6 +9,7 @@ latitude: 18.4970
 longitude: -77.6555
 sources:
   - https://en.wikipedia.org/wiki/Falmouth_Courthouse
+score: 7.4
 ---
 
 The Falmouth Courthouse, built in 1815 on the north side of Water Square, is one of the finest examples of Georgian public architecture in Jamaica. The building is a handsome two-storey structure with a colonnaded veranda on the upper level, symmetrical windows, and proportions typical of the British colonial administrative style of the period. It has been restored and is still in use as a courthouse, which gives it a vitality that many preserved colonial buildings lack.

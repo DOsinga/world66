@@ -6,6 +6,7 @@ longitude: 74.9486
 tags:
   - eating_out
   - restaurant
+score: 5.3
 ---
 
 A Bathinda institution near the old bus stand, **Bansal Sweets** is the go-to spot for Punjabi *mithai* — *gulab jamun* still warm from the syrup, *barfi* in a dozen flavours, fresh *jalebi* coiled into hot ghee in the front window. They also do a good chana-bhatura and chole-kulche if you are looking for breakfast.

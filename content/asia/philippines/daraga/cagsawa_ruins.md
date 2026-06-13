@@ -13,6 +13,7 @@ tags:
 - ruins
 title: Cagsawa Ruins
 type: poi
+score: 8.5
 ---
 
 The most photographed sight in the Bicol region: the ruined bell tower of the 18th-century Cagsawa church, rising from green fields with Mayon Volcano as its backdrop. The church was destroyed in the great 1814 eruption that buried the surrounding village entirely — the tower is all that remains above ground.

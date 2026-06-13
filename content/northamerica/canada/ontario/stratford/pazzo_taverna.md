@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - italian
+score: 5.8
 ---
 
 A reliable Italian on the central square, in business since the late 1990s. The upstairs taverna does proper plates of pasta and wood-fired pizza; the basement pizzeria is cheaper and faster, useful before a curtain.

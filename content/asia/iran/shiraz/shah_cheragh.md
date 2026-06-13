@@ -13,6 +13,7 @@ tags:
 - sight
 title: Shah Cheragh
 type: poi
+score: 8.8
 ---
 
 The Shah Cheragh — "King of Light" — is the mausoleum of Sayyid Ahmad, brother of the eighth Shia Imam, and one of the most important pilgrimage sites in Iran. The 12th-century complex sits in the heart of the old city near the bazaar, with a vast inner courtyard and twin minarets rising above the surrounding rooftops.

@@ -15,6 +15,7 @@ story: >
   The statues more likely represent Yama, the Hindu god of death and the
   underworld, making the terrace a place associated with royal funerary rites
   rather than any diseased monarch.
+score: 6.7
 ---
 
 **The Terrace of the Leper King** runs along the northern end of the Royal Palace compound at Angkor Thom, immediately north of the Terrace of the Elephants. It is smaller but, in some ways, the more intriguing of the two: the outer face of the terrace is carved with seven tiers of astonishing relief sculpture — nagas, garudas, divine figures, and the three-headed Naga king, all overlapping in an extraordinary density of imagery. A narrow trench between the outer and inner walls reveals the original buried face, preserved in near-perfect condition because it was sealed underground for centuries.

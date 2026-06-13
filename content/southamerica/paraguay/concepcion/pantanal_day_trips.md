@@ -6,6 +6,7 @@ longitude: -57.5000
 tags:
   - things_to_do
   - sight
+score: 8.8
 ---
 
 Concepción sits at the edge of the Paraguayan Pantanal — one of the world's great wetland systems, shared between Paraguay, Bolivia, and Brazil. The Paraguayan section is the least visited and least developed of the three, which means it is also the least crowded and, in places, remarkably wild.

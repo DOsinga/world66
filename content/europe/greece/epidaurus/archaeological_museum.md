@@ -10,6 +10,7 @@ story: >
   Among the museum's most haunting exhibits are the iamata — stone tablets recording the miraculous cures received by patients who slept in the sanctuary. One describes a man who had been blind for years being cured after the god's dogs licked his eyes. Another records a woman who dreamed that a snake bit her on the neck and woke to find her tumour gone. The tablets were set up publicly as testimonials.
 sources:
   - https://en.wikipedia.org/wiki/Archaeological_Museum_of_Epidaurus
+score: 7.8
 ---
 
 The small museum at the entrance to the archaeological site contains the most important finds from the sanctuary: architectural fragments from the Temple of Asklepios and the tholos, marble reliefs of Asklepios and his family, surgical instruments, and the iamata tablets recording miraculous cures.

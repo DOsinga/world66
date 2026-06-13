@@ -8,6 +8,7 @@ tags:
 - chinatown
 title: Hawaiian Mission Houses
 type: poi
+score: 8.1
 ---
 
 The Hawaiian Mission Houses Historic Site preserves the three oldest Western-built structures remaining in Hawaii — a prefabricated wooden house shipped from Boston around Cape Horn in 1821, a coral-block house completed in 1831, and the original printing house where the first Hawaiian-language Bible was produced. The complex was the headquarters of the American Protestant mission that transformed Hawaiian culture in the 1820s and 1830s.

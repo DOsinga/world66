@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 42.1389
 longitude: -87.9311
+score: 6.5
 ---
 
 The corner of Dundee and Milwaukee marks the start of the older, denser cluster of restaurants in Wheeling — a mix of Indian, Korean, Mexican, and Polish kitchens within a couple of blocks of each other. Stand outside on a Friday evening and you can hear half a dozen languages spoken in passing.

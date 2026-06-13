@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - canal
+score: 7.4
 ---
 
 The Pont-Canal de l'Orb carries the Canal du Midi directly over the Orb River on a stone aqueduct — a technically demanding solution that Riquet proposed as an alternative to the originally planned riverside diversion. Completed in 1858 as part of a later improvement to the canal (Riquet's original crossing was at river level), the aqueduct allows boats to cross the river with no change in water level, which was a significant engineering achievement for its time.

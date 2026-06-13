@@ -11,6 +11,7 @@ tags:
 - sight
 title: Giddy House
 type: poi
+score: 6.4
 ---
 
 Just outside the walls of Fort Charles, the Giddy House is a small brick artillery store built in 1888 for the Victoria and Albert Battery. In the 1907 Kingston earthquake the soft sandy ground beneath it gave way, tipping the building sharply to one side. It has stayed that way ever since.

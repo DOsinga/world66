@@ -8,6 +8,7 @@ tags:
   - museum
   - historic_house
 snippet: Victorian-era pioneer home on the National Register of Historic Places
+score: 6.5
 ---
 
 The Kanab Heritage House Museum, also known as the Bowman-Chamberlain House, is an 1894 Victorian house preserved as a museum of pioneer life in Kane County. The house was built for Thomas Chamberlain and represents a relatively prosperous standard of frontier construction for southern Utah — red brick with decorative woodwork, a covered porch, and a small garden. Inside, the rooms are furnished to their late 19th-century appearance.

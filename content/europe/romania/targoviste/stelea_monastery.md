@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.9
 ---
 
 A small Moldavian-style monastery in the centre of Târgoviște, founded in 1645 by the Moldavian prince Vasile Lupu as a peace gesture to his Wallachian rival Matei Basarab. The church is unusually compact and combines Wallachian and Moldavian architectural elements — slender twin towers, a high apse, narrow proportions.

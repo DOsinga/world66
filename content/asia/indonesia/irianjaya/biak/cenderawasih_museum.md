@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: -1.1833
 longitude: 136.0917
+score: 7.0
 ---
 
 The main museum in Biak town covers the natural history, ethnography, and war history of the island and the broader Cenderawasih Bay region. The collections include traditional artefacts from Biak's Austronesian-speaking communities — ceremonial objects, traditional boats, carved wooden items — alongside natural history displays covering the marine environment of the bay and the terrestrial wildlife of Papua.

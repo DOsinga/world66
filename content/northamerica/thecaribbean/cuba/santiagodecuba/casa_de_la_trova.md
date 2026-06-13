@@ -9,6 +9,7 @@ latitude: 20.0217
 longitude: -75.8294
 story: >
   The Casa de la Trova in Santiago is where son — the Afro-Cuban musical form that became salsa — was preserved and celebrated through the decades when it was considered old-fashioned. When the Buena Vista Social Club recordings were released in 1997, the world discovered music that had been playing here, largely ignored by the wider world, for decades.
+score: 9.0
 ---
 
 The Casa de la Trova on Calle Heredia is Santiago's most important music venue and one of the essential experiences in Cuba. Son, bolero, and other traditional Afro-Cuban forms have been performed here since the 1960s; the musicians are typically veterans who have played this music their whole lives.

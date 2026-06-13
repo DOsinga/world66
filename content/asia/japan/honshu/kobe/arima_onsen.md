@@ -13,6 +13,7 @@ story: >
   employed the tea master Sen no Rikyu, and their falling out over tea eventually led
   to Rikyu being ordered to commit ritual suicide. Whether Arima's waters improved
   Hideyoshi's temper is unrecorded.
+score: 8.7
 ---
 
 Arima Onsen is a historic hot spring resort tucked into the mountains behind Kobe, a 30-minute bus or ropeway ride from the city. It is one of Japan's oldest spa resorts, with records of its springs going back over a thousand years. The town is compact and pleasant — a network of narrow lanes, traditional ryokan, souvenir shops, and the Zuihoji Park where warlord Hideyoshi once held tea ceremonies.

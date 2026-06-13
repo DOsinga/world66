@@ -11,6 +11,7 @@ story: >
   The lagoon contains 38 species of coral, 72 species of fish, and provides nesting habitat for hawksbill turtles.
   Its protected status was hard-won — a planned expansion of the nearby airport threatened the lagoon in the early
   2000s, and a campaign by local conservationists and international NGOs eventually reversed the plans.
+score: 8.7
 ---
 
 Blue Bay Marine Park is the finest snorkelling site on the island, a protected lagoon about 8 kilometres south of Mahébourg with exceptional coral diversity and clarity. The water is warm and shallow enough for novice snorkellers, but the coral gardens extend into deeper water that repays more experienced swimmers. The range of fish life — parrotfish, triggerfish, moray eels, and occasional turtles — is outstanding by any standard.

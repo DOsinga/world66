@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 The 1926 LeFlore County Courthouse anchors the centre of Poteau on Courthouse Square. It is a three-storey Classical Revival building in pale brick and limestone, with a symmetrical front, tall arched windows on the ground floor, and the usual courthouse pediment. It is on the National Register of Historic Places.

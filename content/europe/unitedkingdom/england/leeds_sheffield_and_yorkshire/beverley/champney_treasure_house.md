@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: "Town museum, art gallery, and East Riding archives in one building"
+score: 7.1
 ---
 
 A surprisingly substantial cultural complex for a town this size: the Champney Treasure House combines the local Beverley Museum, the **Beverley Art Gallery** (with a strong collection of work by Frederick William Elwell, who lived and painted in the town), the East Riding Archives, and a roof viewing terrace with a clear panorama over the Minster, St Mary's, and the rooftops in between.

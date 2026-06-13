@@ -13,6 +13,7 @@ snippet: Large country park with lake, nature centre, and woodland walks
 sources:
   - https://en.wikipedia.org/wiki/Tilgate_Park
   - https://en.wikipedia.org/wiki/Tilgate_Nature_Centre
+score: 6.8
 ---
 
 Tilgate Park occupies 260 acres on Crawley's southern fringe, covering woodland, a large lake, a walled garden, and the Tilgate Nature Centre. It is the best open space within the borough — worth a few hours if you are staying near Gatwick and want to move your legs somewhere other than an airport terminal.

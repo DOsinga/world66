@@ -8,6 +8,7 @@ tags:
 title: Sund
 type: poi
 snippet: "Old fishing hamlet on the strait that divides Flakstad in two, with a small museum of marine engines"
+score: 6.7
 ---
 
 Sund is a tiny fishing village at the narrowest point of the Sund strait, which divides Flakstad from Moskenes. The harbour holds a small fleet of fishing boats and the Sund Fiskerimuseum — a folk museum of marine engines, several still kept in running order. A retired blacksmith on the same plot makes hand-forged cormorant sculptures that sell internationally; the workshop is open to visitors.

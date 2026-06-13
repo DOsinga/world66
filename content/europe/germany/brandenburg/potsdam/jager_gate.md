@@ -9,6 +9,7 @@ latitude: 52.3946
 longitude: 13.0693
 sources:
   - https://en.wikipedia.org/wiki/J%C3%A4ger_Gate
+score: 6.5
 ---
 
 The Jäger Gate (Jägertor) is the oldest surviving city gate in Potsdam, built in 1733 by Frederick William I and largely unaltered since. It is the simplest of Potsdam's three preserved gates — a functional baroque arch without the Gothic fancifulness of the Nauen Gate or the grandeur of the Brandenburg Gate. The cartouche above the arch depicts a hunting scene, explaining the name (Jäger means hunter).

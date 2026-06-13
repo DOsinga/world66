@@ -6,6 +6,7 @@ longitude: -83.1134
 tags:
   - things_to_do
   - sport
+score: 6.8
 ---
 
 Golfito sits in some of the most productive billfish water in the world. Marlin (blue, black, and striped), sailfish, tuna, dorado, and roosterfish are all taken regularly; the inshore action for snook and pargo is equally good. The peak season is December to April for sails, August to October for blue marlin.

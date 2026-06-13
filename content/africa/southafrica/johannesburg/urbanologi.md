@@ -8,6 +8,7 @@ tags:
 latitude: -26.204
 longitude: 28.057
 neighbourhood: Maboneng
+score: 5.8
 ---
 
 Urbanologi is a wood-fired restaurant in the [Maboneng](/africa/southafrica/johannesburg/maboneng) precinct with an approach that suits the neighbourhood: careful sourcing, interesting combinations, good coffee, and the kind of relaxed atmosphere that makes a long lunch viable. The menu changes with the seasons but generally runs to flatbreads and sharing plates from the wood-fired oven, alongside more substantial mains.

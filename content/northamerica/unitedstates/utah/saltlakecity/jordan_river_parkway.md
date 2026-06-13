@@ -7,6 +7,7 @@ tags:
   - cycling
 latitude: 40.7500
 longitude: -111.9214
+score: 5.3
 ---
 
 The Jordan River, the slow muddy stream that drains Utah Lake to the Great Salt Lake, runs north-south through the western edge of Salt Lake City. The Jordan River Parkway is a continuous paved trail along its banks for about 45 miles, from Utah Lake all the way to the Great Salt Lake.

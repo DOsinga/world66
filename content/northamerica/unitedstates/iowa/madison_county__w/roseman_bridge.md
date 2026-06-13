@@ -8,6 +8,7 @@ tags:
 title: Roseman Bridge
 type: poi
 story: "Robert James Waller's novel made this the most famous of the six. In the book and the 1995 film, this is the bridge where photographer Robert Kincaid asks Francesca Johnson for directions — the meeting that sets the plot in motion."
+score: 8.3
 ---
 
 The most-visited bridge in Madison County, made so by Waller's 1992 novel and the Clint Eastwood / Meryl Streep film. A 107-foot wooden span over Middle River, built in 1883 with the distinctive flat-pitched gabled roof shared by all the Madison County bridges.

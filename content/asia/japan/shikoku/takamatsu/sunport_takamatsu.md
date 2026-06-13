@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 34.3529
 longitude: 134.0465
+score: 6.5
 ---
 
 The post-redevelopment harbourfront immediately north of Takamatsu Station, opened in stages from 2004 — a large public plaza, a glass concert hall and convention centre, the city's symbol tower (the tallest building in Shikoku at 152 metres), and the ferry terminal serving Naoshima and the other Setouchi art islands.

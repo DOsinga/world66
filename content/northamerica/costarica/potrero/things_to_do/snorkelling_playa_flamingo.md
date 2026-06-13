@@ -1,6 +1,7 @@
 ---
 title: "Snorkelling at Playa Flamingo"
 type: poi
+score: 7.0
 ---
 
 Playa Flamingo, five minutes south of Potrero, has the white sand and calmer, cleaner water that makes it the better of the two beaches for snorkelling. The bay is more sheltered and the visibility is generally good, particularly in the dry season when rainfall has not stirred up sediment. Reef fish are abundant close to shore, and it is not unusual to spot sea turtles coming up to breathe — green turtles in particular feed along this stretch of coast.

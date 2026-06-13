@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 19.9090
 longitude: 99.8290
+score: 4.8
 ---
 
 Easy House is a popular rooftop bar in central Chiang Rai, a few minutes' walk from the clock tower and night market. The terrace gives you views over the city rooftops and a breeze that makes the tropical evenings more manageable. Cocktails are reasonably priced and properly made; the beer selection is standard Thai plus a few imports.

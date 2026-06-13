@@ -7,6 +7,7 @@ address: Pir Sohawa Road
 tags:
   - eating_out
   - restaurant
+score: 7.1
 ---
 
 The Monal is the most famous restaurant in Islamabad — a sprawling open-sided dining room on the very edge of a cliff at Pir Sohawa, 1,170 metres up in the Margalla Hills, with the whole of the capital laid out below. It opens late afternoon and the view at sunset, with the city lights coming on under the receding heat haze, is the reason most people come.

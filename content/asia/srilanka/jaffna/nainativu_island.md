@@ -14,6 +14,7 @@ story: >
   Buddha is said to have visited Sri Lanka on his second legendary visit to the island.
   Pilgrims from both traditions come to the same jetty and walk in opposite directions.
   The coexistence is quiet and seems entirely natural to the people who live and worship here.
+score: 8.0
 ---
 
 Nainativu, reached by ferry from Kurikattuwan jetty (about 90 minutes north of Jaffna), is a small island in the Palk Strait famous for two ancient religious sites sitting almost side by side. The Nagapooshani Amman Kovil is an important Hindu temple dedicated to the goddess who protects against snakebite, decorated in vivid colours and busy with worshippers. A short walk away, the Nagadeepa Vihara marks a site traditionally associated with one of the Buddha's legendary visits to Sri Lanka.

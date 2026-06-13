@@ -14,6 +14,7 @@ tags:
 - sight
 title: Chaîne des Puys
 type: poi
+score: 9.1
 ---
 
 The Chaîne des Puys is a north-south alignment of 80 volcanic cones, lava flows, and maars (explosion craters) stretching 40 kilometres along the plateau west of Clermont-Ferrand. The chain was declared a UNESCO World Heritage Site in 2018 and represents one of the finest examples of monogenetic volcanism in the world — a volcanic landscape where each eruption creates a new feature rather than adding to a single structure. The youngest eruptions occurred around 6,000 years ago, making this geologically very recent.

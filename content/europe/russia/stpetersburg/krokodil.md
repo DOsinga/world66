@@ -10,6 +10,7 @@ tags:
 - kolomna
 title: Krokodil
 type: poi
+score: 5.9
 ---
 
 A cafe for the in-crowd, with occasional events and performances. The atmosphere is creative and unpretentious — a good spot to experience the local arts scene over a drink. Galernaya Street runs south of the Admiralty, an easy walk from the Hermitage.

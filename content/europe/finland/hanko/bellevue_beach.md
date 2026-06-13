@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 59.8175
 longitude: 22.9806
+score: 7.2
 ---
 
 Bellevue is the spa-era beach and still the most-photographed in Hanko: a half-kilometre arc of fine sand, shallow Baltic water, and a row of brightly painted nineteenth-century changing huts (the last surviving such row in Finland). It runs from the eastern end of the harbour promenade out to the Tulliniemi headland.

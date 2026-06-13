@@ -9,6 +9,7 @@ latitude: 30.9000
 longitude: -5.9000
 story: >
   The Saghro was the last redoubt of the Aït Atta Berber confederation, who fought a French colonial army of some 80,000 troops to a standstill in the Battle of Bougafer in February 1933 — one of the final acts of armed resistance to the French Protectorate.
+score: 8.1
 ---
 
 The Jebel Saghro is the volcanic spine that separates the Drâa Valley from the higher Dadès and the High Atlas to the north — a starkly beautiful, semi-arid range of black basalt cliffs, plateaus and gorges, sparsely inhabited by Aït Atta Berber semi-nomadic families. Nkob is the southern gateway and the easiest base for trekkers.

@@ -8,6 +8,7 @@ tags:
 title: Astana Tombs
 type: poi
 snippet: Tang-era cemetery of Gaochang's nobility, with desert-preserved mummies
+score: 8.4
 ---
 
 A 5 km-long necropolis on the desert plain just outside Gaochang, containing more than a thousand tombs of the city's nobility and officials from the 3rd to 8th centuries. The dry, salty soil and burning heat have preserved bodies, silks and even Tang-era food offerings to a remarkable degree.

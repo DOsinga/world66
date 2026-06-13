@@ -8,6 +8,7 @@ tags:
 title: Place des Cocotiers
 type: poi
 story: "The square takes its name from coconut palms that were planted when the city was founded in 1854. The palms are long gone, replaced by flamboyant trees, but the colonial bandstand at the centre still hosts free concerts on Sunday mornings — a tradition that has continued unbroken for over a century."
+score: 6.8
 ---
 
 Place des Cocotiers — Coconut Square — is the beating heart of central Nouméa, a rectangular shaded plaza that has served as the city's gathering point since it was laid out in the 1860s. Enormous flamboyant trees cast deep shade over the benches and paths, and the ornate Victorian bandstand in the centre still hosts free Sunday morning concerts.

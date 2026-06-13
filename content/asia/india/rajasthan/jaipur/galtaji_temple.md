@@ -9,6 +9,7 @@ longitude: 75.8616
 address: Galta Road, Jaipur
 opening_hours: dawn to dusk daily
 snippet: Ancient hilltop temple complex with sacred kunds and hundreds of rhesus macaques
+score: 7.8
 ---
 
 Galta Ji sits in a rocky gorge in the Aravalli hills east of the city walls — a complex of shrines, pavilions, and sacred water tanks (kunds) built into the cliff face, fed by a natural spring whose water is considered holy. The drive or walk up through the hills is already atmospheric, and arriving at the temple complex to find hundreds of rhesus macaques lounging in the pools and around the shrines is one of those genuinely memorable Jaipur experiences.

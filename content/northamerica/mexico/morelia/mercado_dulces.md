@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 19.7026
 longitude: -101.1950
+score: 7.5
 ---
 
 The Mercado de Dulces — Candy Market — is one of those places that feels too good to be true: an entire market dedicated to the traditional sweets for which Morelia is famous throughout Mexico. Stall after stall is stacked with candied fruits, cajeta (thick goat-milk caramel), ate (a dense fruit paste often served with cheese), cocadas (coconut sweets), and dozens of other confections made to recipes that haven't changed in generations.

@@ -15,6 +15,7 @@ story: >
   through forest and parkland almost continuously, connecting Potsdam's royal palaces and
   gardens in a loop that can be done in a day and reveals the full scale of the UNESCO
   World Heritage landscape.
+score: 7.3
 ---
 
 The lakes and rivers of the Havel system around Potsdam make one of the finest cycling landscapes in Germany. A network of well-maintained cycle paths traces the shores of the Templiner See, the Schwielowsee, and the Glienicker See, connecting the palaces of Sanssouci and Babelsberg, the Glienicke Bridge, and the wooded shores of the Neuer Garten in a sequence of continuous parkland. The paths are flat, well-signposted, and for most of the route separated from motor traffic.

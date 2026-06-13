@@ -9,6 +9,7 @@ longitude: -105.3900
 sources:
   - https://www.cityofdouglas.org/158/North-Platte-River-Fishing
   - https://wgfd.wyo.gov/Public-Access/Public-Access-Areas/North-Platte-River-South-Douglas
+score: 6.5
 ---
 
 The North Platte River runs through and south of Douglas, and it offers blue-ribbon trout fishing that is accessible practically from the town centre. The river holds strong populations of brown and rainbow trout, and fly fishing is the standard method. Public access is generous: from I-25 Exit 140, about a mile of riverbank is accessible on both sides, and the South Douglas Public Access Area, three miles south on Wyoming Highway 94, opens up nearly eleven miles of river across seven parking areas.

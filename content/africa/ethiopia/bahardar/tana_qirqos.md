@@ -8,6 +8,7 @@ tags:
 - sight
 - monastery
 story: Local tradition says the Ark of the Covenant was once kept at Tana Qirqos before being taken to Axum. Whether you accept the story or not, it explains the island's powerful place in Ethiopian Orthodox memory.
+score: 7.5
 ---
 
 Tana Qirqos is one of Lake Tana's more storied island monasteries, set farther from Bahir Dar than the quick Zege Peninsula stops. It is associated with deep Ethiopian Orthodox traditions and with legends that link the lake to Axum.

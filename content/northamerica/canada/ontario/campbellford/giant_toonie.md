@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "When Canada introduced its $2 coin in 1996, the polar bear design was the work of Brent Townsend, a Campbellford-area wildlife artist. The town built a 27-foot-tall replica of the coin in his honour in 2002."
+score: 5.9
 ---
 
 A 27-foot-tall replica of the Canadian two-dollar coin stands in Old Mill Park in central Campbellford, beside the Trent River. The toonie commemorates Brent Townsend, the local wildlife artist who designed the polar bear that appears on the real coin. It is unambiguously roadside-attraction kitsch — and entirely charming for it.

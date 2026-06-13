@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.382
 longitude: 46.240
+score: 8.8
 ---
 
 The Wings of Tatev holds a Guinness World Record as the world's longest non-stop double-track reversible cable car, stretching 5.7 kilometres from the village of Old Halidzor down in the gorge to Tatev village on the plateau above the monastery. The ride takes about twelve minutes and crosses country that would take the better part of an hour on the winding road — deep ravines, forest, and the broad Vorotan gorge spread out below the gondola windows. On a clear day you can see far into the ranges on the Iranian border.

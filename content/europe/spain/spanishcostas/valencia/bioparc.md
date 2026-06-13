@@ -7,6 +7,7 @@ tags:
   - family
 latitude: 39.4763
 longitude: -0.4001
+score: 6.7
 ---
 
 Valencia's main zoo, opened in 2008 at the western end of the Turia gardens. The design follows the immersion principle — no obvious cages or fences, the animals appear to share habitats with the visitors, and the African sections (Madagascar, equatorial Africa, savanna) are particularly well done. Lemurs jump along paths beside you; mandrills sit on the rocks at eye level; lions and gorillas have huge open enclosures separated from visitors only by a deep moat.

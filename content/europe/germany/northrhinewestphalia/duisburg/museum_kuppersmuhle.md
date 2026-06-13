@@ -9,6 +9,7 @@ longitude: 6.7750
 sources:
   - https://en.wikipedia.org/wiki/Museum_K%C3%BCppersm%C3%BChle
 story: "The building was a grain silo and mill that closed in 1972. Herzog & de Meuron — the architects of the Tate Modern in London — converted it in 1999, adding a striking red staircase tower to the industrial brick shell. The collection was assembled by Ströher, a German collector who focused heavily on post-war German art: Richter, Baselitz, Kiefer, and Immendorff in depth."
+score: 8.2
 ---
 
 The Museum Küppersmühle (MKM) occupies a converted grain mill and silo on the edge of Duisburg's Inner Harbour. The conversion was carried out by Herzog & de Meuron — the architects responsible for London's Tate Modern — who added a distinctive red staircase tower to the solid brick industrial shell while leaving the basic structure intact.

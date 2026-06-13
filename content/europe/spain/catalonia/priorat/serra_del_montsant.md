@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 41.2840
 longitude: 0.8100
+score: 8.4
 ---
 
 The Serra del Montsant forms Priorat's northern wall, a rugged limestone massif that gives the region its most dramatic skyline. From the wine villages below, the cliffs look severe and almost bare; up close, the range is full of ravines, hermitages and hard, rewarding walking.

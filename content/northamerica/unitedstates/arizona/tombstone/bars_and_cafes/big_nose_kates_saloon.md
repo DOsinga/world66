@@ -6,6 +6,7 @@ longitude: -110.0674
 tags:
   - bars_and_cafes
   - bar
+score: 5.9
 ---
 
 The most famous saloon on Allen Street, Big Nose Kate's is named after Mary Katherine Haroney — Doc Holliday's common-law wife, who went by "Big Nose Kate" in Tombstone's saloon culture. The building dates to 1881 and has been a drinking establishment almost continuously ever since. Today it is the largest and most popular bar in town, with live country and western music most evenings, a long wooden bar, and enough period memorabilia on the walls to keep you occupied between rounds.

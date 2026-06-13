@@ -8,6 +8,7 @@ latitude: 24.4940
 longitude: 93.9780
 story: >
   The garden sits on the bank of the Sekmai River at Uyok Ching, a spot that has served as a gathering ground for the various ethnic and linguistic communities of the Kakching area for generations. Within the grounds are the Mahadev Temple and the Ibudhou Pakhang Laiseng shrine — two different religious traditions coexisting in the same garden, which is very much in keeping with the town's character as a crossroads of cultures.
+score: 6.2
 ---
 
 Kakching Garden is the largest public garden in the district, laid out along the bank of the Sekmai River at the site known as Uyok Ching, just south of Kakching Bazaar. It is a genuine botanical garden — a planned space with flowering and non-flowering plants, shaded walkways, and benches overlooking the river — as well as a social meeting place for the town.

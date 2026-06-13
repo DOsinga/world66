@@ -10,6 +10,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Gonarezhou_National_Park
   - https://gonarezhou.org/
+score: 6.2
 ---
 
 Chipinda Pools is the main entrance and hub for the northern half of Gonarezhou. A series of natural rock pools in the Runde River, shaded by large figs, acacias, and sycamore trees, it is a reliable water source year-round and consequently a magnet for wildlife. Hippos maintain permanent residence in the deeper pools; crocodiles bask on every suitable rock; and elephant herds arrive at the river's edge throughout the day in the dry season, sometimes a hundred or more at a time.

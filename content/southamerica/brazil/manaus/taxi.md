@@ -6,6 +6,7 @@ tags:
 - getting_around
 latitude: -3.1316
 longitude: -59.9825
+score: 3.5
 ---
 
 Taxis in Manaus are metered and reasonably priced by Brazilian standards. They are easy to find at the main hotels, the airport, the mall ranks, and in front of the Teatro Amazonas; outside those points it is better to call one or use an app. Both Uber and 99 operate widely in the city and tend to be cheaper than street taxis for the same trip.

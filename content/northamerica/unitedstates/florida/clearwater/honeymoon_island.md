@@ -10,6 +10,7 @@ tags:
   - wildlife
 story: >
   In the 1940s, a New York developer built thatched-roof bungalows on the island and marketed it as a honeymoon destination, offering free vacations to newlywed couples. The promotion was short-lived — World War II intervened — but the name stuck. The bungalows are long gone, replaced by virgin slash pine forest and some of the best shelling beaches on the Gulf Coast.
+score: 8.5
 ---
 
 Honeymoon Island is a 385-acre barrier island state park connected to the mainland by a causeway from Dunedin, about 15 minutes north of Clearwater Beach. The park has four miles of beaches on its western shore, three miles of nature trails through one of the last remaining stands of virgin slash pine forest in South Florida, and a bird observation area where ospreys nest in large numbers from January through May.

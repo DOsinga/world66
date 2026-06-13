@@ -10,6 +10,7 @@ tags:
 title: Beachwood Place
 type: poi
 url: "www.beachwoodplace.com"
+score: 4.5
 ---
 
 The main upscale shopping center in Northeast Ohio, located in Beachwood off I-271. Anchored by Nordstrom and Saks Fifth Avenue with a mix of high-end retailers and boutiques alongside restaurants. It serves Cleveland's affluent east-side suburbs and draws shoppers from across the region.

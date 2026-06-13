@@ -8,6 +8,7 @@ tags:
 latitude: 40.6357
 longitude: 22.9453
 snippet: Restored 15th-century Ottoman bathhouse on Egnatia Street
+score: 8.4
 ---
 
 The Bey Hamam — also called the "Baths of Paradise" — is one of the largest and best-preserved Ottoman bath complexes in Greece, built around 1444 by the order of Ishak Bey. It sits directly on Egnatia Street, the ancient Via Egnatia, and was once part of a larger complex of pious foundations that included a mosque and a caravanserai.

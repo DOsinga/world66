@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 22.0331
 longitude: 96.4667
+score: 6.8
 ---
 
 Horse-drawn carriages are still the most distinctive way to get around Pyin Oo Lwin — a survival from the British colonial period when the hill station lacked motor roads. They wait at the central market and at the entrance to the botanical gardens, and a circuit of the main colonial-era streets takes about an hour.

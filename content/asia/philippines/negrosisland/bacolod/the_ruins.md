@@ -14,6 +14,7 @@ story: >
   set the mansion on fire to prevent its use as enemy headquarters. The Italian
   Renaissance columns survived the blaze and have stood for decades in the
   sugarcane fields, earning the structure the nickname "Taj Mahal of the Philippines."
+score: 8.9
 ---
 
 The Ruins is the burned-out skeleton of a grand early 20th-century mansion in Talisay, about 12 kilometres north of Bacolod. The ornate Italianate columns and neoclassical facade survived the wartime fire that gutted the building and have stood for nearly a century in the middle of sugarcane fields — one of the most romantically melancholy sights in the Philippines.

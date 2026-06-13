@@ -7,6 +7,7 @@ tags:
 latitude: -16.6793
 longitude: -49.2640
 story: "The park takes its name from the buriti palm (Mauritia flexuosa), a tree deeply embedded in the culture of central Brazil's cerrado. The buriti is the state tree of Goiás, and local Indigenous peoples have used its fruit, oil, leaves, and fibre for centuries. Seeing it growing in urban parkland is a reminder that Goiânia sits at the edge of one of the world's most biodiverse savannas."
+score: 6.9
 ---
 
 Bosque dos Buritis is a large urban park in the centre of Goiânia, a green island among the broad avenues of the planned city. The park is defined by its tall buriti palms, which rise above the surrounding tree canopy and give the place a strikingly different feel from the grassy parks common elsewhere in Brazil's cities.

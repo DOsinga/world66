@@ -14,6 +14,7 @@ tags:
   - landmark
 title: Gawdawpalin Temple
 type: poi
+score: 7.7
 ---
 
 The Gawdawpalin is the second-largest temple in Bagan, a massive two-storey structure built by King Narapatisithu in the late 12th century and expanded by his successors. The name means "platform for paying royal homage" — the kings of Bagan would hold ceremonies here to receive tribute from vassal states.

@@ -8,6 +8,7 @@ latitude: 32.2200
 longitude: 119.4450
 story: >
   Beigushan is where the Three Kingdoms general Liu Bei supposedly spotted the strategic value of this Yangtze promontory and resolved to take it, triggering a sequence of events that led to the famous Battle of Red Cliffs. In Chinese historical consciousness, this hill carries the same weight that strategic sites in European history carry for Western readers — it is a place where the shape of Chinese civilisation turned.
+score: 7.7
 ---
 
 Beigushan, the northernmost of Zhenjiang's three scenic hills, rises directly from the Yangtze riverbank and provides the clearest views of the river crossing point that made Zhenjiang important. The Iron Pagoda (Tieta), built in the Northern Song Dynasty, stands near the summit and is one of the oldest structures in Zhenjiang. The Ganlu Temple complex, also on the hill, dates to the Three Kingdoms period in its founding though the current buildings are later.

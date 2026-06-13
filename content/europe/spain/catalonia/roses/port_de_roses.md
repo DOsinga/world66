@@ -6,6 +6,7 @@ longitude: 3.1740
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 The fishing harbour at the eastern end of the bay is one of the busiest on the northern Costa Brava. The fishing fleet still goes out daily and brings back anchovies, prawns, and the deep-water Roses prawn (gamba de Roses), which has its own protected geographical indication and is the headline ingredient in every serious restaurant in town.

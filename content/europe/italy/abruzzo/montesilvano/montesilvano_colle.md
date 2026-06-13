@@ -7,6 +7,7 @@ tags:
 - neighbourhood
 title: Montesilvano Colle
 type: poi
+score: 6.9
 ---
 
 Montesilvano Colle is the older hilltop settlement above the modern seaside resort. It is small, quiet, and a useful reminder that the coast's apartment blocks are only the newest layer of the town.

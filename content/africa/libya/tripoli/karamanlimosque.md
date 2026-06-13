@@ -16,6 +16,7 @@ story: >
   semi-autonomous dynasty that ruled for 123 years. His descendant Yusuf Karamanli later
   triggered the First Barbary War with the United States, making this small mosque the
   starting point for one of America's earliest overseas military campaigns.
+score: 8.7
 ---
 
 The Karamanli Mosque is probably the most splendid mosque in Tripoli's old medina. Built in 1738 by Ahmed Karamanli, the semi-autonomous Ottoman governor who founded a ruling dynasty, it sits near the castle at the entrance to the main souq. The interior is lavishly decorated with imported Italian tiles, carved stucco, and multiple small domes — a level of ornamentation unusual for North Africa and reflecting the wealth the Karamanli family extracted from piracy and trade.

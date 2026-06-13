@@ -6,6 +6,7 @@ tags:
 - nature
 latitude: 34.8531
 longitude: 135.4697
+score: 7.9
 ---
 
 The 33-metre Mino-o Falls at the end of a wooded 2.7-kilometre trail through Meiji-no-Mori Mino-o Quasi-National Park, north of Osaka. The path up to the falls follows the Mino-o River through cedar and maple forest, passing several small restaurants and sweet shops selling momiji (maple leaf) tempura — a snack unique to this area, in which fresh maple leaves are pickled for a year and then battered and deep-fried.

@@ -11,6 +11,7 @@ tags:
   - sight
   - museum
 story: "The museum was built in 1952 by a banker and a journalist who wanted to teach Tucson schoolchildren about the desert. It pioneered the 'living museum' format — outdoor enclosures, native plants, native animals — that has since been copied around the world."
+score: 9.3
 ---
 
 The Arizona-Sonora Desert Museum is the single best introduction to the Sonoran Desert and probably the most rewarding sight in Tucson after the Mission. It is part zoo, part botanical garden, part natural-history museum — but all of it outdoors, on a 98-acre site in the Tucson Mountains, with the saguaro forest stretching out around you.

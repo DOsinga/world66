@@ -9,6 +9,7 @@ snippet: Family-run Italian institution serving Choc beer and lamb fries since 1
 latitude: 34.9319
 longitude: -95.7159
 neighbourhood: Krebs
+score: 8.7
 ---
 
 Pete's Place is the most famous restaurant in southeastern Oklahoma, and arguably the most famous Italian restaurant in the state. Pete Prichard opened it as a Prohibition-era speakeasy in 1925 in Krebs, a coal-town suburb of McAlester founded by Italian immigrants. The dining rooms are still small private spaces called "family rooms," a holdover from the bootlegging years.

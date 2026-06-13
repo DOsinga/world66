@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: -1.0200
 longitude: 29.7100
+score: 7.4
 ---
 
 Bwindi offers guided forest walks for those who want to explore without focusing exclusively on gorillas. The Buhoma and Ruhija sectors have well-marked trails of varying lengths, and guides can be arranged at the park office. The walks are genuinely excellent: the forest is old-growth, the canopy dramatic, and the birding exceptional.

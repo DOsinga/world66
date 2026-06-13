@@ -9,6 +9,7 @@ latitude: -4.1988
 longitude: 152.1681
 story: >
   The Japanese military excavated over 500 kilometres of tunnels into the hills around Rabaul between 1942 and 1945, creating an underground city that housed command centres, hospitals, ammunition depots, and living quarters for tens of thousands of troops. After Japan's surrender, thousands of soldiers who refused to believe the war was over hid in these tunnels for months. The tunnels were also used to conceal suicide boats — small craft packed with explosives, intended to ram Allied ships — from Allied air reconnaissance.
+score: 8.6
 ---
 
 The hills around Rabaul are riddled with Japanese military tunnels from the Second World War — an underground system built under constant Allied bombing that effectively put the entire military apparatus underground. Several of these tunnels are open to visitors and provide an extraordinary and somewhat eerie window into the experience of Japanese forces during the Pacific War.

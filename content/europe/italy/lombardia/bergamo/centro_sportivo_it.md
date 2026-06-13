@@ -9,6 +9,7 @@ tags:
 title: Swimming Pool Centro Sportivo Italcementi
 type: poi
 url: www.bergamosportspa.it
+score: 2.8
 ---
 
 Swim all year round - in the outdoor pools in summer and in the indoor pools in winter. The gymnasium has bleachers to seat 1,000 people for the viewing of sporting events such as volley ball, basket ball, indoor soccer or other events like Karate and so on.

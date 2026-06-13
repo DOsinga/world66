@@ -8,6 +8,7 @@ tags:
 latitude: 33.5253
 longitude: 36.2747
 snippet: Old quarter climbing the slopes of Mount Kassioun, with Kurdish and Hanbali shrines
+score: 8.0
 ---
 
 Al-Salihiyya is the old quarter that climbs the lower slopes of Mount Kassioun in the northwest of the city. It was founded in the 12th century by Hanbali refugees from Crusader Jerusalem, who built a string of small mosques, madrassas and shrines that survive today. Many of the architects of the great buildings of the Old City lived here.

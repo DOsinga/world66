@@ -9,6 +9,7 @@ tags:
 - waterfront
 title: The Three Graces
 type: poi
+score: 9.4
 ---
 
 The collective name for the three vast Edwardian buildings — the Royal Liver Building, the Cunard Building and the Port of Liverpool Building — that line the Pier Head waterfront. Together they form one of the most distinctive city skylines in Britain, and were a major reason Liverpool was inscribed as a UNESCO World Heritage Site in 2004 (a status the city controversially lost in 2021 over waterfront redevelopment).

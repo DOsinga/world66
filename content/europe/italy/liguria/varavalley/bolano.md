@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Hilltop village at the mouth of the valley
+score: 5.8
 ---
 
 Bolano sits on a low ridge where the Vara meets the Magra, looking south across the broad floodplain toward La Spezia. The village is mentioned in records as early as the year 963 and has the characteristic Ligurian layout: a narrow main street climbing a spine, tall narrow houses on either side, and a parish church at the top with views back down the valley.

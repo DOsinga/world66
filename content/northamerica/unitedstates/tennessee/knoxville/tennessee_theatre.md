@@ -7,6 +7,7 @@ longitude: -83.9194
 story: "The Tennessee Theatre opened in 1928 as a movie palace for Loew's cinemas. It was nearly demolished in the 1970s but Knoxville residents rallied to save it. Today it is the official state theatre of Tennessee and its Moorish interior — all gilded plasterwork and painted ceilings — remains largely intact."
 sources:
   - https://en.wikipedia.org/wiki/Tennessee_Theatre
+score: 8.5
 ---
 
 The Tennessee Theatre on Gay Street is one of the finest surviving movie palaces in the American South. Opened in 1928, it seats nearly 1,600 people inside a lavishly decorated Moorish-revival interior: gilded arches, ornate plasterwork, painted ceilings, and the original Wurlitzer theatre organ, which still plays before select events.

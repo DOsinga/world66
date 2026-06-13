@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 7.8
 ---
 
 The Franciscan Monastery sits at the end of the long western seafront walk, on a promontory shaded by old cypress trees. Founded in 1461, it survived the Ottoman raids that flattened much of Hvar Town and has been continuously inhabited by the order ever since.

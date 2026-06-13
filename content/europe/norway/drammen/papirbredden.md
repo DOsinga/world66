@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood]
 latitude: 59.7395
 longitude: 10.2045
+score: 6.9
 ---
 
 Papirbredden — "paper banks" — is the name given to the revitalised stretch of waterfront on the Strømsø side of the Drammenselva, built on the site of a former paper mill. The development, completed in the mid-2000s, includes the Drammen public library (a strikingly designed building open to all, with good cafe seating), a university campus, and several residential and commercial buildings along the river.

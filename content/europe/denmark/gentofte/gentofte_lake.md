@@ -10,6 +10,7 @@ latitude: 55.7461
 longitude: 12.5356
 sources:
   - https://en.wikipedia.org/wiki/Gentofte_Lake
+score: 6.4
 ---
 
 Gentofte Lake (Gentofte Sø) is a narrow, calm lake at the centre of the municipality, surrounded by a nature reserve that provides an unexpected patch of green in the middle of an otherwise dense suburb. A footpath and cycle path circle the lake in about 45 minutes, passing through reed beds and stands of alder and willow. Waterfowl are abundant year-round; the lake is good for quiet birdwatching, particularly in spring.

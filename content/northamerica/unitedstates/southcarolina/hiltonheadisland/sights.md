@@ -8,6 +8,7 @@ phone: 843-671-4700
 title: Sights
 type: poi
 url: www.hiltonheadrentals.com
+score: 3.0
 ---
 
 Located at the southern end of Hilton Head Island, Sea Pines Plantation is the island's largest and oldest resort. Sea Pines is skirted by five miles of wide sandy beaches and intersected by salt marshes and winding fresh water lagoons.

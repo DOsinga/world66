@@ -5,6 +5,7 @@ author: "Geoffrey Chaucer"
 isbn: "978-0140424386"
 tags:
   - books
+score: 7.8
 ---
 
 Chaucer's late-fourteenth-century frame-story of pilgrims travelling from London to the shrine of Thomas Becket is the foundation of English literature and the reason the journey to Canterbury became the iconic English road trip. The pilgrims tell each other stories along the way — bawdy, devotional, comic, cynical — and what emerges is a rough sociological cross-section of medieval England.

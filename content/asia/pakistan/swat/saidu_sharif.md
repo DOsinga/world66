@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 34.7500
 longitude: 72.3572
+score: 5.8
 ---
 
 Saidu Sharif is the administrative capital of Swat District and effectively the southern half of the twin city it forms with neighbouring Mingora. The town grew around the shrine of the Akhund of Swat, a 19th-century religious leader, and the white-domed shrine is still a focal point.

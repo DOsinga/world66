@@ -8,6 +8,7 @@ tags:
   - sight
   - history
 story: "On 13 August 1842, during the General Strike of that summer, soldiers of the 72nd Highlanders opened fire on a crowd of striking power-loom weavers and other workers gathered outside the corn exchange on Lune Street. Four men were shot dead. The Riot Act had been read; the order to fire came from a magistrate. The memorial was finally erected, after a long campaign, only in 1992."
+score: 7.8
 ---
 
 The Preston Martyrs Memorial stands outside the old Corn Exchange on Lune Street — a striking modern sculpture by Gordon Young of four life-sized bronze figures, one of them sprawled in the act of falling. It commemorates the four Preston weavers shot dead by troops during the 1842 strike, a watershed moment in the history of British labour relations.

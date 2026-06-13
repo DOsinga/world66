@@ -8,6 +8,7 @@ tags:
   - sight
   - monument
 story: "Cabral was born in Bafatá in 1924 to Cape Verdean parents and trained as an agronomist in Lisbon before founding the PAIGC (African Party for the Independence of Guinea and Cape Verde) in 1956. He led the guerrilla war against Portuguese rule for over a decade and was assassinated in Conakry in January 1973, eight months before Guinea-Bissau declared independence."
+score: 6.0
 ---
 
 A small house and adjacent monument near the centre of town marking the birthplace of Amílcar Cabral, the agronomist, theoretician, and revolutionary who led the independence movement that drove the Portuguese out of Guinea-Bissau in 1974. Cabral is the country's central national hero — his face is on the currency, the international airport in Bissau bears his name, and the day of his assassination is a public holiday.

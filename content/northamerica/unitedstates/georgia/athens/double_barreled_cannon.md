@@ -10,6 +10,7 @@ longitude: -83.37639
 story: "Designed in 1863 by John Gilleland, the cannon was meant to fire two balls simultaneously, connected by a chain that would mow down soldiers like a scythe. The test firing was a disaster — the balls separated mid-flight, ploughing up a field, tearing through a stand of trees, and demolishing a chimney, while the chain whipped unpredictably through the air. Confederate officials declined the invention."
 sources:
   - https://en.wikipedia.org/wiki/Double-barreled_cannon
+score: 5.8
 ---
 
 The double-barreled cannon stands on the front lawn of Athens City Hall, a monument that is also one of the more spectacular engineering failures of the American Civil War. It was designed locally in 1863 as an experimental weapon intended to fire two cannonballs simultaneously connected by a chain, with the idea that the spinning projectile would cut down enemy troops in a wide sweep.

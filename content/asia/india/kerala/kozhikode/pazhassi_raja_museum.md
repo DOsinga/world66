@@ -8,6 +8,7 @@ longitude: 75.7836
 tags:
 - things_to_do
 - museum
+score: 7.0
 ---
 
 The Pazhassi Raja Museum, in a pleasantly green compound on East Hill above the city, holds the best collection of Malabar-region antiquities open to the general public: dolmens and stone-age tools, bronze figures from the Chera and Zamorin periods, and a small gallery of mural copies from Kerala's painted temples.

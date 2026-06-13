@@ -8,6 +8,7 @@ story: "The Sint-Janskerk has been the focus of the annual Sint-Jansprocessie on
 tags:
 - things_to_do
 - sight
+score: 7.5
 ---
 
 The neo-Gothic basilica on the Brink was built in the 1920s on the site of an earlier church, with twin towers that dominate the village skyline. Pope Pius XI elevated it to the status of minor basilica in 1937 in recognition of the village's strong Catholic tradition and the importance of the St John pilgrimage.

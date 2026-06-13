@@ -4,6 +4,7 @@ type: poi
 latitude: 43.2433
 longitude: 17.0750
 tags: [things_to_do, beach]
+score: 6.2
 ---
 
 The main town beach runs the length of the promenade and is a typical Makarska Riviera affair: white pebbles, pine shade behind the shingle, and water that turns from turquoise close in to deep blue once you wade past your waist. It is rarely as crowded as Makarska's central beach a few kilometres north, partly because Podgora is a quieter town and partly because the pebbles here are slightly larger and less kind to bare feet.

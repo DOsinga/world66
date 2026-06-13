@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 - history
+score: 7.2
 ---
 
 The ancient theatre at Aigai is the modest, partially excavated remnant of the structure where Philip II of Macedon was assassinated in 336 BC, struck down by his bodyguard Pausanias during a wedding procession. The killing made his twenty-year-old son Alexander king of Macedon.

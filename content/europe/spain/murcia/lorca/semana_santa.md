@@ -11,6 +11,7 @@ tags:
 - sight
 title: Semana Santa
 type: poi
+score: 8.8
 ---
 
 Lorca's Semana Santa, declared of International Tourist Interest, is unlike any

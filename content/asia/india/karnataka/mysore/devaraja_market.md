@@ -13,6 +13,7 @@ story: >
   jasmine, marigold, and rose garlands are assembled by hand from early morning — supplies
   the daily offerings for the Mysore Palace temple and the Chamundeshwari temple at the
   summit of Chamundi Hill.
+score: 8.9
 ---
 
 Devaraja Market is the most vivid hour you can spend in Mysore. The covered market off Sayyaji Rao Road is a labyrinth of low-ceilinged passages lined with stalls selling flowers, incense, dried fruits, jaggery, spices, silk thread, brassware, and everything required for domestic religious life. The flower section at the entrance is the most spectacular: towers of jasmine and marigold garlands, their smell hitting you at the doorway, assembled by vendors sitting cross-legged amid mountains of petals from before dawn.

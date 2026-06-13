@@ -7,6 +7,7 @@ tags:
 - sight
 title: Centrepoint Theatre
 type: poi
+score: 6.1
 ---
 
 Centrepoint is the city's professional theatre — a 130-seat venue tucked into a converted hall on Church Street, run on a year-round repertory model. Founded in 1974, it is the longest-running fully professional theatre outside the four main centres of New Zealand, and the small company that operates it has launched the careers of a string of well-known Kiwi actors and writers.

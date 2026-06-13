@@ -8,6 +8,7 @@ tags:
   - sport
   - skiing
   - winter
+score: 7.8
 ---
 
 A small community-owned ski hill about thirty-five kilometres west of Terrace, with one double chair, a couple of T-bars, and a reputation for some of the deepest snow on the continent — averages around twelve metres a season. The lifts only access a fraction of the terrain; the real draw is the backcountry skiing off the ridge above.

@@ -12,6 +12,7 @@ story: >
   sandstone of most of the Sahara — comes from iron oxide in the rock. When
   the light hits at dawn or sunset, the entire plateau turns what travellers
   describe as impossibly, almost painfully red.
+score: 9.4
 ---
 
 A sandstone plateau southeast of Djanet known for some of the most photogenic desert scenery in the Sahara. The Tadrart Rouge (Red Tadrart) is distinct from the better-known Tassili n'Ajjer — it is higher, redder, and in many ways even more dramatic, with pinnacles and natural arches rising from a sea of golden sand dunes.

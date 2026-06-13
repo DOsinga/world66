@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Anchorage's busiest pizzeria — house-brewed beer and inventive toppings
+score: 7.4
 ---
 
 The most popular restaurant in the city by a clear margin. The pizza is good, the house beers from the attached Moose's Tooth Brewing are very good, and the place is constantly packed. The "Spicy Thai" with peanut sauce and the "Goldzilla" with smoked salmon are local favourites. Take-out is faster than dining in.

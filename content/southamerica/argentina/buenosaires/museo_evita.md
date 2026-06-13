@@ -10,6 +10,7 @@ longitude: -58.4137
 address: Lafinur 2988, Palermo
 url: museoevita.org
 opening_hours: "Tue–Sun 12:00–19:00; closed Mon"
+score: 6.8
 ---
 
 Housed in a mansion in Palermo that was briefly a women's shelter run by the Eva Perón Foundation in the early 1950s, this museum tells the story of María Eva Duarte de Perón through her possessions, her political legacy, and her extraordinary grip on Argentine popular memory. The displays cover her childhood in the provinces, her rise through radio and film, her marriage to Juan Perón, her political activities on behalf of the working class (the *descamisados*), and her death from cancer in 1952 at age 33.

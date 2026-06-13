@@ -7,6 +7,7 @@ tags:
   - sight
 title: Bhadrakali Temple
 type: poi
+score: 6.6
 ---
 
 One of Gokarna's secondary temples, the Bhadrakali Temple is dedicated to the fierce form of the goddess and sits close to the town centre. It is less prominent than the Mahabaleshwara Temple but draws its own steady stream of devotees, particularly women seeking the goddess's blessing. The deity here is depicted with multiple arms carrying weapons, the typical iconography of Bhadrakali.

@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Sioni cathedral
 type: poi
+score: 8.0
 ---
 
 Sioni Cathedral has been the spiritual heart of Tbilisi since the 6th century. Officially the Cathedral of the Dormition of the Virgin, most locals just call it Sioni after its hilltop namesake. The current building dates mostly from the 13th century, rebuilt after the city was sacked by the Khwarezmians, though it has been repaired and reworked many times since.

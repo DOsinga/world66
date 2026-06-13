@@ -10,6 +10,7 @@ tags:
 title: Harvey Milk Plaza
 neighbourhood: Castro District
 type: poi
+score: 7.2
 ---
 
 Harvey Milk Plaza sits above the Castro Muni station at the intersection of Castro and Market streets, marking the gateway to the neighbourhood. A giant rainbow flag -- one of the largest in the city -- flies overhead, and the plaza serves as a gathering point for marches, vigils, and celebrations. It is named for Harvey Milk, one of the first openly gay elected officials in the United States, who was assassinated in 1978.

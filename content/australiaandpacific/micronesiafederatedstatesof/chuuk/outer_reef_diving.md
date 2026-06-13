@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - diving
 snippet: Pristine wall dives along Chuuk's outer barrier reef
+score: 8.4
 ---
 
 Beyond the shipwrecks, the outer barrier reef encircling Chuuk Lagoon offers some of the best coral wall diving in Micronesia. The reef drops away in vertical walls from 3 metres to depths well beyond recreational limits, with hard coral gardens giving way to massive barrel sponges, sea fans, and black coral forests in the deeper sections.

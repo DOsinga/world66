@@ -13,6 +13,7 @@ story: >
   itself, a near-vertical canyon dropping over 70 metres to the river,
   was considered impassable and served as a natural continuation of the
   wall's barrier function.
+score: 9.5
 ---
 
 The First Pier of the Great Wall (天下第一墩) is a large earthen beacon tower standing on the north rim of the Taolai River gorge, about 7 kilometres south of the Jiayu Pass fortress. It marks the southern terminus of the Ming Dynasty Great Wall's western section — the point where the wall's builders decided the gorge was an adequate natural barrier and the constructed wall could stop. The tower itself is a rammed-earth beacon platform about 14 metres tall, original Ming construction, with the remaining stump of the connecting wall running north from it.

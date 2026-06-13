@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.9799
 longitude: 11.326
+score: 7.1
 ---
 
 The double statue in front of the Deutsches Nationaltheater is the most photographed thing in Weimar, and with good reason. Ernst Rietschel's 1857 bronze shows the two poets standing side by side, both gripping a laurel wreath, their heights equalized in a diplomatic piece of artistic license — in reality, Schiller was significantly taller. The monument has become shorthand for Weimar Classicism itself.

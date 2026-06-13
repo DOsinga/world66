@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 33.8990
 longitude: 35.5060
+score: 7.7
 ---
 
 Souk el Tayeb is Beirut's farmers' market — Lebanon's first, founded in 2004 by Kamal Mouzawak. It runs every Saturday morning in the Beirut Souks area downtown, with around 80 producers selling vegetables, cheese, olive oil, bread, honey, preserves and traditional sweets.

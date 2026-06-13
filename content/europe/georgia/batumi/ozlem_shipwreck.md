@@ -8,6 +8,7 @@ tags:
 story: "The Özlem-1 was a Turkish cargo ship that broke its moorings in a winter storm in 2015 and ran aground on the beach near Batumi. Salvage proved impossible and the hull was left where it lay — and so an accidental art installation now sits on the pebbles, slowly being eaten by the Black Sea air."
 title: Özlem Shipwreck
 type: poi
+score: 6.0
 ---
 
 A short walk along the beach north of the central boulevard brings you to a corroded, rust-orange shipwreck half-pulled up onto the pebbles. The Özlem-1 was a small Turkish cargo vessel that broke loose in a storm in 2015 and grounded itself on the Batumi shore. Removal turned out to be more expensive than abandonment.

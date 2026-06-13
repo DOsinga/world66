@@ -9,6 +9,7 @@ story: >
   the construction of the sanctuary on the site of the apparition. For centuries, pilgrims from Genoa walked
   up the valley road — the same route used by Roman merchants — to venerate the image. A Roman bridge a short
   walk from the sanctuary was the passage point for those pilgrims, worn smooth by centuries of feet.
+score: 7.4
 ---
 
 The Sanctuary of Nostra Signora di Montebruno stands in the village of Montebruno, one of the main settlements in the upper Trebbia Valley. The church was built in the late 15th century on the site of a Marian apparition and has been a pilgrimage destination ever since, drawing visitors from Genoa and the surrounding Ligurian coast. The interior is sober and dignified, with ex-votos accumulated over centuries lining the walls — small painted panels recording miracles attributed to the Madonna.

@@ -11,6 +11,7 @@ tags:
 - altstadt
 title: Valentin Musäum
 type: poi
+score: 7.0
 ---
 
 Tucked inside one of the towers of the medieval Isartor gate, this small museum celebrates Munich's most beloved comedian, Karl Valentin — a darkly absurdist figure sometimes called the German Chaplin. His partner Liesl Karlstadt features alongside him in the permanent exhibition of costumes, props, and photographs.

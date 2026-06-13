@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 40.1459
 longitude: 18.4904
+score: 7.8
 ---
 
 A small cross-in-square Byzantine church tucked into the lanes of the historic centre, San Pietro is one of the oldest buildings in Otranto — its core probably dates to the 9th or 10th century, when the city was still under Byzantine rule. The interior preserves several layers of fresco from the 10th to the 15th centuries, including a striking Last Supper.

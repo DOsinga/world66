@@ -10,6 +10,7 @@ tags:
 - sight
 title: Lake Kivu
 type: poi
+score: 7.3
 ---
 
 Lake Kivu fills a corner of the Albertine Rift between DRC and Rwanda, and Goma sits on its northern shore. The water is unusually clear and largely free of the bilharzia and crocodiles that make swimming risky in many Central African lakes, so a lakeside beach bar at sunset, with a cold Primus and a plate of grilled tilapia, is one of the simpler pleasures of a visit to Goma.

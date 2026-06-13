@@ -15,6 +15,7 @@ story: >
   alpine summit to ice-age abyss — visitors start at the top floor (with glaciers and
   high-altitude life) and walk down through climate zones to the dinosaurs and tropical
   greenhouse in the basement.
+score: 7.9
 ---
 
 The MUSE is the contemporary face of Trento — Renzo Piano's 2013 building set in the new Le Albere district on the south edge of the old town, a former Michelin factory site redeveloped as a mixed-use neighbourhood. The stepped white roofs of the museum echo the surrounding mountains, and the long water basin in front reflects them.

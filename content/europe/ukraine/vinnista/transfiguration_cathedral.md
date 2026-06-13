@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 49.23305
 longitude: 28.47528
+score: 7.1
 ---
 
 The Transfiguration Cathedral (*Spaso-Preobrazhenskyi Sobor*) is one of the most prominent landmarks in Vinnytsia, a large Orthodox cathedral on the riverbank a short walk from the city centre. The current building dates from the early 19th century and was built in a late-Baroque and neoclassical style, with a tall bell tower visible from much of the surrounding area.

@@ -6,6 +6,7 @@ longitude: -8.5266
 tags:
   - things_to_do
   - sight
+score: 5.6
 ---
 
 The Marina de Portimão sits across the river-mouth from Praia da Rocha, at the foot of the cliffs below the Fort of Santa Catarina. It is one of the largest marinas in the Algarve, with 620 berths, and the main hub for boat trips: dolphin-watching tours, cave-and-coastline excursions to the Benagil grotto, sunset cruises, and full-day catamaran sails.

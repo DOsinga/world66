@@ -8,6 +8,7 @@ latitude: 33.6921
 longitude: -117.8824
 story: >
   The acoustics in Renée and Henry Segerstrom Concert Hall were designed by Minoru Nagata and are considered among the finest of any concert hall built in the 20th century. When the Los Angeles Philharmonic gives concerts here, the sound is routinely described as better than at their home venue in LA.
+score: 8.5
 ---
 
 The Segerstrom Center for the Arts is Orange County's premier performing arts complex, hosting ballet, opera, touring Broadway musicals, and classical music. The main hall seats over 3,000. The Pacific Symphony and the Pacific Chorale are resident companies; touring productions of major Broadway shows pass through regularly.

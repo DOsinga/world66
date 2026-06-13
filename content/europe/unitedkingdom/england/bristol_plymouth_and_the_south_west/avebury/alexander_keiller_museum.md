@@ -9,6 +9,7 @@ latitude: 51.4289
 longitude: -1.8591
 story: >
   Alexander Keiller was a marmalade millionaire who bought Avebury in the 1930s when it was in danger of further destruction. He excavated and re-erected many of the fallen stones, personally funding the work that saved the monument. The house he built for himself on the estate — Avebury Manor — still stands next to the museum.
+score: 7.2
 ---
 
 The Alexander Keiller Museum, housed in a 17th-century stable block adjoining Avebury Manor, tells the story of the site's discovery, excavation, and gradual recovery. Keiller's 1930s digs unearthed dozens of buried stones and the remains of several skeletons, including one man who had been pinned beneath a fallen stone in the 14th century — apparently a travelling barber-surgeon, judging by the scissors and probe found near him.

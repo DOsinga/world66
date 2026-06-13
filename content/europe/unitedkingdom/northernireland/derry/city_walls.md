@@ -9,6 +9,7 @@ latitude: 54.9953
 longitude: -7.3210
 story: >
   The walls have never been breached — not during the famous Siege of Derry in 1689, when a Protestant garrison held out for 105 days against the Jacobite army before a relieving fleet broke through a boom across the Foyle. This record gave Derry one of its nicknames: the Maiden City.
+score: 9.0
 ---
 
 Derry's city walls are the best-preserved town fortifications in Ireland or Britain, and one of the finest examples in Europe. Built between 1613 and 1619 by the London guilds as part of the Plantation of Ulster, the walls form a complete circuit of about 1.5 kilometres that you can walk in their entirety, free of charge, at any time.

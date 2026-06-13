@@ -12,6 +12,7 @@ story: >
   he had ever breathed and the walks around the peninsula gave him his best
   thinking. The idea of the eternal return came to him beside the pyramidal
   rock at Surlej. He called the region "six thousand feet above man and time."
+score: 8.3
 ---
 
 Sils Maria (Segl Maria in Romansh) is a village at the southern end of the Engadine lake chain, where Lake Silvaplana narrows into a peninsula separating it from Lake Sils. It is quieter and less commercial than St. Moritz, attracting writers, artists, and those who want the mountains without the celebrity. The Nietzsche House — where the philosopher stayed for seven summers from 1881 to 1888 — is open as a small museum.

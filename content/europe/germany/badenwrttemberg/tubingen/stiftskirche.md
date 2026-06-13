@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 48.5200
 longitude: 9.0561
 snippet: "Late Gothic collegiate church with ducal tombs and stained glass"
+score: 8.2
 ---
 
 The Stiftskirche, on a small square just above the Marktplatz, is the main church of the old town and the most important late-Gothic building in Tübingen. Built in the 15th century, the interior is light and unusually airy for the period, with a fine rood screen and a series of stained-glass windows above the choir.

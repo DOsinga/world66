@@ -11,6 +11,7 @@ story: >
   The Sierra de las Mitras — the mountain range visible to the west from central Monterrey — is one of the most dramatic urban backdrops of any Mexican city. The canyon cutting through it, the Cañón de la Huasteca, was known to Mexican rockclimbers for decades before it was opened to tourism. The vertical walls, up to 300 metres high, have some of the most challenging traditional climbing routes in North America.
 sources:
   - https://en.wikipedia.org/wiki/Sierra_de_las_Mitras
+score: 8.6
 ---
 
 The Cañón de la Huasteca, in the municipality of Santa Catarina just west of Monterrey, is one of the most dramatic natural features near any major Mexican city. The canyon cuts through the Sierra de las Mitras with walls rising up to 300 metres of vertical limestone, and the road through the canyon passes through scenery that feels improbably remote given how close it is to the urban sprawl.

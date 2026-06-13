@@ -6,6 +6,7 @@ longitude: -99.8326
 tags:
   - things_to_do
   - sight
+score: 6.7
 ---
 
 The area immediately around Buffalo Gap contains some of the oldest live oak trees in Texas — several large specimens are credibly estimated at more than eight hundred years old, predating any European arrival in the region. The trees are scattered in private yards, ranch land, and small public spaces; the historic village preserves several within its grounds.

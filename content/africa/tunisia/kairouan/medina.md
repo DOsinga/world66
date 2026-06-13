@@ -6,6 +6,7 @@ longitude: 10.1008
 tags:
   - things_to_do
   - neighbourhood
+score: 9.1
 ---
 
 Kairouan's medina is a UNESCO World Heritage Site and one of the best-preserved historic Islamic city centres in North Africa. Unlike the medina in [Tunis](/africa/tunisia/tunis), it has not been heavily touristed, which gives it a working, lived-in quality that more famous medinas sometimes lack. The streets are narrow, the buildings old, and the craft workshops still operating as they have for centuries.

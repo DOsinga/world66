@@ -13,6 +13,7 @@ story: >
   The cemetery occupies the hill where the Cayuga people had a fortified village for centuries before European contact.
   When Auburn was developing as a city in the 1850s, the cemetery was laid out in the Romantic landscape style then fashionable — curving paths, specimen trees, and scenic overlooks — as much for the pleasure of the living as for the dead.
   Logan, the famous Mingo orator who famously said "Who is there to mourn for Logan?" is commemorated here; his actual grave is elsewhere.
+score: 7.8
 ---
 
 Fort Hill Cemetery occupies a prominent hilltop in Auburn on the site of a former Cayuga Indian fortification. Established in 1851, it was designed in the Romantic landscape tradition then popular in American cemetery design — rolling terrain, winding paths, mature trees, and views across the city — and contains the graves of many of Auburn's most notable historical figures.

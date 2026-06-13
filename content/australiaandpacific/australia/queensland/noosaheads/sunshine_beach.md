@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
   - beach
+score: 8.2
 ---
 
 Sunshine Beach is the long, open ocean beach immediately south of Noosa headland, and one of the best reasons to leave the protected calm of Main Beach for a day. The sand runs uninterrupted for nearly fifteen kilometres south to Coolum, the swell is consistent, and the small suburb behind the dunes has a more laid-back, residential, less-polished feel than Noosa Heads.

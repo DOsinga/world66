@@ -20,6 +20,7 @@ story: >
   ceremony. Overnight, the cemetery became fashionable, and Parisians began
   clamouring to be buried near literary greatness. The gambit worked so well
   that the cemetery had to be expanded five times.
+score: 9.0
 ---
 
 The largest cemetery in Paris is one of the city's strangest and most rewarding destinations. Its 44 hectares of cobbled lanes and overgrown tombs feel like a village frozen in the 19th century, and the guest list is extraordinary: Molière, Balzac, Proust, Chopin, Edith Piaf, Oscar Wilde, Isadora Duncan, and Jim Morrison are all here, along with thousands of less famous Parisians in graves ranging from crumbling 18th-century monuments to polished modern stones.

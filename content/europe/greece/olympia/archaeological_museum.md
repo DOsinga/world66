@@ -12,6 +12,7 @@ story: >
   anticipation — while the west pediment captures the savage chaos of the
   Centauromachy at its peak. The sculptors achieved this by making every
   figure a psychologically precise portrait rather than a type.
+score: 9.4
 ---
 
 One of the most important archaeological museums in Greece, holding the finest collection of material from the sanctuary. The centrepiece is the set of sculptures from the Temple of Zeus: the two pediment groups and the twelve metopes showing the Labours of Hercules. These are among the earliest masterpieces of Classical Greek sculpture, carved around 460 BC, and seeing them in person rather than in reproduction is a different experience entirely.

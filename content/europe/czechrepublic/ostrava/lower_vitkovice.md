@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Vítkovice ironworks were founded in 1828 by Archduke Rudolf of Austria and ran continuously for 170 years. When the last blast furnace was shut down in 1998 the site became Europe's most ambitious post-industrial reuse project: nothing has been demolished, the machinery is still in place, and visitors walk through the gas-pipework as if the workers had just stepped out for lunch."
+score: 9.1
 ---
 
 Lower Vítkovice (Dolní oblast Vítkovice) is Ostrava's main attraction and one of the most spectacular industrial heritage sites in Europe. Where Prague has its baroque churches, Ostrava has a whole ironworks — coking plant, blast furnaces, gas storage tanks and miles of conveyors — preserved as a vast open-air museum and cultural venue.

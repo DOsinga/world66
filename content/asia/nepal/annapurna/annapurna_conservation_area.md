@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Annapurna_Conservation_Area
 story: >
   The Annapurna Conservation Area, established in 1986, was the first conservation area in Nepal — meaning it is managed for conservation alongside human habitation, unlike national parks where settlement is excluded. Over 100,000 people live within its boundaries, including Gurung, Thakali, Magar, Manangba, and Mustangi communities. The revenue from trekking permits funds local development projects, a model that has become a template for community-based conservation globally.
+score: 7.4
 ---
 
 The Annapurna Conservation Area (ACAP) covers 7,629 square kilometres of the Himalayan foothills and mountains north of Pokhara, making it the largest protected area in Nepal. The zone encompasses an extraordinary range of ecosystems: subtropical forest at 800m, temperate rhododendron forest, subalpine meadows, alpine scrub, and the high-altitude desert of the Mustang plateau. More than 1,200 species of flowering plants, 478 bird species, and 101 mammal species have been recorded within its boundaries.

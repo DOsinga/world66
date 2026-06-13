@@ -8,6 +8,7 @@ latitude: 52.1083
 longitude: 23.6833
 story: >
   Brest has been a major railway junction since the mid-19th century, when the Russian Empire built the Moscow–Warsaw line through the city. The station was a key transit point for millions of soldiers, emigrants, and prisoners moving between East and West — including, in 1917, the delegates who arrived here to sign the Treaty of Brest-Litovsk, ending Russia's participation in the First World War.
+score: 6.9
 ---
 
 The Brest Railway Museum occupies a large open-air site adjacent to the main railway workshops, displaying dozens of Soviet-era locomotives, carriages, and rolling stock that have been preserved in varying states of restoration. The collection includes steam engines that worked the Warsaw-Moscow line from the 1940s through the 1970s, military trains used in the Second World War, and specialised maintenance vehicles.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - shopping
+score: 7.7
 ---
 
 The old Mercado Municipal building, a handsome Portuguese-era hall, has been restored as the Dili Convention Centre, but the daily market that gave it its name still spreads through the surrounding streets and an adjacent open hall. Vegetables, fish, betel nut, and coffee at one end; tais (the handwoven cloth that is Timor's national craft) at the other.

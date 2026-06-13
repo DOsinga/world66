@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: The deepest and most powerful drop of Iguazu, a U-shaped chasm of falling water
 story: "When Eleanor Roosevelt visited in 1944 and stood at the rim of the Devil's Throat for the first time, she is supposed to have said: 'Poor Niagara.' The Argentinian park ranger who escorted her quoted the line in his report, and it has been repeated to every guide on the catwalk ever since."
+score: 10.0
 ---
 
 The Garganta del Diablo is the climax of Iguazu. A 700-metre catwalk runs out across the upper river from the Brazilian-side rim of the canyon to a small platform set directly above the throat — a horseshoe-shaped chasm where fourteen separate cataracts pour eighty metres straight down into a wall of spray. The volume of water and the constant roar from below make it nearly impossible to hold a conversation on the platform.

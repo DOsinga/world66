@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.0950
 longitude: 24.3690
+score: 6.0
 ---
 
 Râmnicu Vâlcea, the county capital, is a practical rather than picturesque city, but it has a pleasant old quarter around the central square and a good museum in the former princely court. The Antim Monastery in the centre of town has a fine Brâncovenesc church from the early 18th century. The city is the natural base for exploring the Olt Valley monasteries — hotels are plentiful, restaurants are decent, and the road south along the Olt passes Cozia and Călimănești within 20km.

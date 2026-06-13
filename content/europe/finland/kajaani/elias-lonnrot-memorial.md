@@ -6,6 +6,7 @@ longitude: 27.7339
 snippet: "The town where Finland's national epic was assembled — Lönnrot worked here as district doctor in the 1830s"
 tags: [things_to_do, sight, historic]
 story: "Elias Lönnrot arrived in Kajaani in 1833 to take up his post as district doctor, a practical job that took him on long journeys by boat and on foot through the lakes and forests of Kainuu. On those journeys he collected the runo-songs — oral poetry passed down through generations of singers — that he eventually compiled into the Kalevala, published in 1835. The epic became the foundation of Finnish national identity at a moment when Finland was under Russian rule and a distinct Finnish culture was actively being defined."
+score: 6.8
 ---
 
 Elias Lönnrot spent eleven years in Kajaani, from 1833 to 1853, during which time he produced the Kalevala — Finland's national epic, assembled from oral folk poetry he collected across Kainuu, Karelia, and the surrounding regions. He came as a district doctor, a position that gave him the freedom to travel extensively through terrain few outsiders bothered to explore, and he used that access to track down the last singers who carried the old runo tradition. The town takes quiet pride in this connection, and there are a number of markers and memorials around the centre acknowledging his time here.

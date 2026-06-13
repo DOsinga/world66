@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 37.1102
 longitude: 25.3723
 story: "The temple was begun around 530 BC by the tyrant Lygdamis, intended as the grandest sanctuary to Apollo in the Cyclades. Construction stopped — possibly when Lygdamis was overthrown — and the massive doorway has stood unfinished ever since. But the myths layered onto it are older and stranger: Naxos was the island where Theseus abandoned Ariadne after she had helped him escape the labyrinth, and where the god Dionysus found her weeping on the shore and made her his wife. Some ancient sources placed Apollo's temple here precisely because this was sacred ground — the meeting point of Dionysus, Ariadne, and the sea."
+score: 9.3
 ---
 
 The Portara is a single monumental marble doorway standing on a low peninsula jutting into the sea at the edge of Hora. It is all that remains of a 6th-century BC temple to Apollo that was begun but never completed. The gateway — two enormous upright marble blocks topped by a lintel, each piece weighing several tonnes — has stood here for 2,500 years, and it frames every sunset over the Aegean so perfectly that it is hard to believe the effect was not intentional.

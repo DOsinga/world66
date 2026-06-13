@@ -11,6 +11,7 @@ longitude: -64.4454
 snippet: A surreal beach of house-sized granite boulders, swimming grottoes and natural pools at the southern tip of Virgin Gorda
 story: >
   The granite boulders at The Baths are between 50 and 70 million years old — fragments of a much larger granitic intrusion that cooled deep beneath what was then a volcanic island arc. The rock was exposed by tens of millions of years of erosion, and the spherical shapes are the result of "onion-skin" weathering: thin layers peel off the surface of each boulder in concentric shells, eventually leaving the rounded forms you see today. They are the only beach of this kind in the eastern Caribbean — most other islands are limestone or volcanic basalt.
+score: 9.7
 ---
 
 The Baths are the most distinctive landscape in the British Virgin Islands and one of the great natural sights of the Caribbean. The beach itself is short and gentle, but its character comes from the granite boulders — some as big as houses — strewn along the shore and tumbling into the shallows. Where the boulders meet they form a complex of grottoes, sea-filled passages and natural pools, with names like Cathedral Hall, where the light shafts down through gaps in the rocks onto pools of glass-clear water.

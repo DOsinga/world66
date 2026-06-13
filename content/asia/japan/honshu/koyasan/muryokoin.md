@@ -8,6 +8,7 @@ tags:
   - garden
 title: Muryokoin Temple
 type: poi
+score: 6.9
 ---
 
 Muryokoin is one of the quieter temples on Koyasan, often bypassed by visitors rushing between the two main complexes. Its garden is modelled on the famous Phoenix Hall garden at Uji's Byodoin, and is designed to frame a view of the Garan's Konpon Daito pagoda in the distance — a piece of landscape choreography that rewards a slow walk around the pond in the late afternoon light.

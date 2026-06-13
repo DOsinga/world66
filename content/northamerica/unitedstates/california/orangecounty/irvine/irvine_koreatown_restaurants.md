@@ -5,6 +5,7 @@ latitude: 33.684
 longitude: -117.828
 snippet: "The best concentration of Korean and Vietnamese restaurants in Irvine, strung along Culver Drive"
 tags: [eating_out]
+score: 6.8
 ---
 
 The stretch of Culver Drive and its surrounding blocks in northern Irvine contains one of the denser concentrations of Korean and Vietnamese restaurants in Orange County — a less-heralded rival to Garden Grove and Westminster, but worth knowing about if you're based in Irvine. Korean barbecue restaurants, tofu soup houses, Vietnamese pho shops, and bánh mì bakeries are all represented here, along with bubble tea shops, Korean fried chicken spots, and Taiwanese dessert cafes.

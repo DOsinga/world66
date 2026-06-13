@@ -9,6 +9,7 @@ latitude: 44.848
 longitude: -0.5733
 neighbourhood: Chartrons
 snippet: Small museum in a 17th-century Chartrons chai covering the history of the Bordeaux wine trade
+score: 6.8
 ---
 
 Housed in the cellars and chai of a 17th-century négociant property in the Chartrons, this small museum covers the history of the Bordeaux wine trade from its origins to the present. The focus is on the merchant families who made the trade what it is — many of them Dutch, Irish, and German rather than French — and the commercial networks that spread Bordeaux wines across Europe and the Americas.

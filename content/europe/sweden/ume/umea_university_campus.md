@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 63.8207
 longitude: 20.3069
+score: 7.0
 ---
 
 Umeå University is one of the larger Swedish universities, with about 35,000 students, and its campus a few kilometres from the city centre has an energy and infrastructure that explains much of the city's youthful character. The campus includes the Umeå Arts Campus, where several art and design schools are housed in converted industrial buildings, and the Academy of Fine Arts, which has produced a number of internationally known Swedish artists.

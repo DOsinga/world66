@@ -7,6 +7,7 @@ done:
   location_cleanup: '2026-04-09'
 latitude: 40.169757
 longitude: 44.327218
+score: 8.4
 ---
 
 Built in the seventh century by Catholicos Nerses III, Zvartnots was one of the grandest cathedrals in the Armenian world. It stood for only about three hundred years before a tenth-century earthquake brought it down, and it was never rebuilt. Today the site is a UNESCO World Heritage property.

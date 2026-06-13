@@ -5,6 +5,7 @@ tags: [things_to_do, sight, stare_mesto]
 latitude: 48.1400
 longitude: 17.1200
 story: Before the SNP bridge was built in the 1970s, the medieval Jewish quarter sat between the castle hill and the Danube. The demolition cleared around 600 families, a historic neighbourhood, and the Great Synagogue — one of the largest in Europe. The embankment that replaced it is pleasant enough, but the absence of what was there is worth knowing about.
+score: 7.4
 ---
 
 The Danube embankment along the Staré Mesto waterfront is a broad riverside promenade that stretches from the SNP bridge east past the National Theatre. It is Bratislava's outdoor living room on summer evenings — families with children, cyclists, and groups of students sharing wine on the stone steps that lead down to the water.

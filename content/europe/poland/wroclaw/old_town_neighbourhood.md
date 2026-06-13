@@ -7,6 +7,7 @@ tags:
 latitude: 51.11
 longitude: 17.032
 address: "Stare Miasto, Wrocław"
+score: 7.8
 ---
 
 The historic core of Wrocław — the few square blocks around the Rynek that contain almost all the main sights, restaurants, hotels, and shopping streets. The boundaries are roughly the Odra to the north, the moat (a long curved park) to the south and east, and Plac Solny to the west.

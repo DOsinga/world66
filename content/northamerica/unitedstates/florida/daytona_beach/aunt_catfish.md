@@ -9,6 +9,7 @@ tags:
 - seafood
 title: Aunt Catfish's on the River
 type: poi
+score: 5.8
 ---
 
 A Daytona institution since 1981, Aunt Catfish's sits on the west bank of the Halifax River just south of the Dunlawton Bridge, with broad windows looking out at boats and dolphins. The menu is Southern seafood comfort food: fried catfish, hush puppies, baked stuffed flounder, crab cakes, an enormous Sunday brunch. Portions are generous and prices are reasonable by Florida standards.

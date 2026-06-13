@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -13.513
 longitude: -71.974
+score: 8.5
 ---
 
 The artisan neighbourhood on the hillside northeast of the Plaza de Armas, reached by steep cobbled streets and stairways. San Blas is the best place in Cusco to watch craftspeople at work: workshops line the alleys selling and producing woodcarvings, ceramics, textiles, and religious art in the **Escuela Cuzqueña** (Cuzco School) tradition that flourished here during the colonial period.

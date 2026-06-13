@@ -14,6 +14,7 @@ story: >
   messenger arrived with orders to report immediately to the War Department; he
   left and went to meet the crisis that would lead to his fateful decision to
   resign his US Army commission.
+score: 8.1
 ---
 
 One of the best-preserved historic apothecaries in the United States, operating in Old Town Alexandria from 1792 to 1933. When the last owner died and the shop finally closed, the contents were left largely intact: hundreds of hand-blown glass bottles, medical instruments, old prescription books, and drug preparation equipment.

@@ -7,6 +7,7 @@ tags:
 - sport
 title: Marina & Sportfishing
 type: poi
+score: 6.3
 ---
 
 The marina is the reason Puerto Aventuras exists. It was dug out of the coast in the 1980s to create a sheltered anchorage for private yachts and fishing boats, and it remains the functional and social centre of the resort. The quayside is lined with restaurants and shops, and in the evenings the wooden docks fill with people watching the boats.

@@ -10,6 +10,7 @@ story: >
   The museum claims to be the world's first dedicated solely to electric vehicles — which is ironic given its location in a Route 66 town built on the gasoline-powered road trip. The collection includes pre-1900 electric carriages, 1920s electric milk floats, and a 1912 Detroit Electric — a vehicle whose range on a single charge was comparable to many modern EVs.
 sources:
   - https://en.wikipedia.org/wiki/Kingman,_Arizona
+score: 6.3
 ---
 
 The Route 66 Electric Vehicle Museum occupies the Powerhouse building alongside the Route 66 Museum, and makes for a natural companion visit. The collection runs from the earliest electric vehicles of the late nineteenth century through to more recent models, making the case that the electric car is not a new idea at all — it was actually the dominant technology before the internal combustion engine took over after 1910.

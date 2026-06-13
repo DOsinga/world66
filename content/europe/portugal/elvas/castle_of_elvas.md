@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.1
 ---
 
 The castle is the oldest defensive structure in Elvas, built on Moorish foundations after the town was retaken in 1230 and substantially rebuilt by King Dinis at the end of the thirteenth century. It sits at the highest point of the old town, behind the bishop's palace, and the keep gives the single best view over the rooftops to the Spanish border.

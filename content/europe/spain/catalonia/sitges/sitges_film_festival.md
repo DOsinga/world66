@@ -15,6 +15,7 @@ story: >
   every October the town's small cinemas screen back-to-back midnight movies
   and the old quarter fills with critics, directors, and an unusually
   enthusiastic genre-film audience.
+score: 8.2
 ---
 
 The Sitges Film Festival, running for ten days every October, has been the major international event on the genre-cinema calendar since 1968. It draws thousands of fans and industry professionals, sells out hotels for months in advance, and gives the otherwise summer-oriented town its most concentrated cultural week of the year.

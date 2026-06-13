@@ -13,6 +13,7 @@ story: >
   is large enough to support trees and has been documented since Roman times;
   Pliny the Elder mentioned a similar floating island in the area in his
   *Naturalis Historia*, written in the 1st century AD.
+score: 8.1
 ---
 
 Lago di Posta Fibreno is a small natural lake in the municipality of Posta Fibreno, about 4 kilometres east of Broccostella. It is protected as a nature reserve and is notable for its exceptionally clear spring-fed water and the diversity of its aquatic ecosystem — the lake holds one of the last remaining populations of the endangered Fibreno trout (*Salmo fibreni*), a species found nowhere else in the world.

@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: 35.9686
 longitude: 14.3551
+score: 6.9
 ---
 
 Just inland from the beach, the Ghadira Nature Reserve is a brackish lagoon and reedbed managed by BirdLife Malta. It is one of the very few protected wetland habitats left in the country, and on the bird migration route between Europe and Africa — so spring and autumn are the seasons to come, when herons, egrets, marsh harriers, and small migrating waders work their way through.

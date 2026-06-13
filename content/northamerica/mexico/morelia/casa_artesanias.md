@@ -14,6 +14,7 @@ story: >
   convent signalled Christian authority over the newly conquered territory. Today
   the same building houses the crafts of the indigenous communities the
   Franciscans once tried to convert.
+score: 7.4
 ---
 
 The Casa de las Artesanías, housed in a restored 16th-century convent, is the best place in Morelia to buy quality Michoacan crafts at fair prices. The building has been converted into a market-museum hybrid: the cloister rooms contain permanent displays of traditional crafts alongside stalls where artisans sell their work directly. The range is excellent — lacquerware from Uruapan, hand-hammered copper from Santa Clara del Cobre, embroidered textiles from Purepecha communities, painted ceramics, and the carved wooden masks used in traditional dances.

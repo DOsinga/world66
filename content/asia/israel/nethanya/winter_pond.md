@@ -6,6 +6,7 @@ longitude: 34.8800
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 A short way inland from Poleg Beach, the small Winter Pond (Brekhat HaKhoref) nature reserve protects a seasonal pond that fills with the winter rains and dries out by early summer. The pond is one of the last fragments of a wetland ecosystem that once stretched along this part of the coast.

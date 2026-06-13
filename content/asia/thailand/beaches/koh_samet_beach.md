@@ -7,6 +7,7 @@ tags:
 - beach
 latitude: 12.5639
 longitude: 101.4575
+score: 7.8
 ---
 
 Koh Samet is a small island off the coast of Rayong province, about three and a half hours southeast of Bangkok by bus and ferry. That proximity makes it the nearest proper beach escape from the capital, and it gets busy on weekends.

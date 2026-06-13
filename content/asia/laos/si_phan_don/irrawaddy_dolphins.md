@@ -13,6 +13,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Irrawaddy_dolphin
   - https://en.wikipedia.org/wiki/Si_Phan_Don
+score: 8.1
 ---
 
 Irrawaddy dolphins in the Mekong near Don Khone are one of the rarest wildlife sightings in Southeast Asia — a small population of a critically endangered species, distinguished from other dolphins by their rounded foreheads and short beaks, adapted to life in freshwater. Sightings are not guaranteed but remain possible; the dolphins are most active in the early morning and early evening.

@@ -6,6 +6,7 @@ longitude: 73.6848
 tags:
   - things_to_do
   - sight
+score: 6.1
 ---
 
 A small pond at the foot of Machhla Magra hill, **Doodh Talai** (literally "milk pond") is ringed by a landscaped park with musical fountains, a small Japanese rock garden, and benches looking out across the water to the City Palace. It is connected to Lake Pichola by a short channel, so technically the boats can pass between them.

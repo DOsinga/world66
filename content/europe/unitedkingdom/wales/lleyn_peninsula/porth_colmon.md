@@ -9,6 +9,7 @@ tags:
   - swimming
 title: Porth Colmon
 type: poi
+score: 5.9
 ---
 
 Porth Colmon is a quiet cove on the northern side of the peninsula between Nefyn and Porth Oer. A small stream runs down to the beach through a wooded valley, and the bay itself is sheltered and suitable for swimming in calm conditions. The lane to reach it is narrow and parking is limited. A good option for those who want a beach without the summer crowds.

@@ -11,6 +11,7 @@ story: "Apollonia's old harbour is partly underwater because the coast has shift
 sources:
   - https://en.wikipedia.org/wiki/Apollonia_(Cyrenaica)
   - https://archeologie.culture.gouv.fr/proche-orient/en/apollonia-susa
+score: 8.1
 ---
 
 Part of ancient Apollonia now lies below the surface. Blocks, harbour works and traces of buildings can be seen or studied offshore, especially in calm, clear conditions, though this is not a casual snorkelling attraction.

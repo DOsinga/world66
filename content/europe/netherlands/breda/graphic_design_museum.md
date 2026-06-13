@@ -7,6 +7,7 @@ tags:
 - museum
 title: Graphic Design Museum
 type: poi
+score: 6.5
 ---
 
 A contemporary museum dedicated to graphic design in all its forms -- posters, digital printing, typography, colour theory. It hosts workshops and seminars alongside its permanent and rotating exhibitions. One of the few museums in the world devoted entirely to the discipline.

@@ -7,6 +7,7 @@ tags:
 latitude: 48.7444
 longitude: 8.2611
 story: "Brahms spent the summers from 1865 to 1874 in this modest two-room attic flat, writing his Second Symphony, several lieder, and parts of *Ein deutsches Requiem*. He paid for the rooms from his earnings as a piano teacher in Vienna and walked the Lichtentaler Allee daily."
+score: 6.4
 ---
 
 This small museum is set in the attic flat where Johannes Brahms spent his summers for nearly a decade. The two rooms have been preserved with the composer's furniture, his piano, original manuscripts, photographs, and personal letters — a remarkably intact portrait of a working composer at the height of his career.

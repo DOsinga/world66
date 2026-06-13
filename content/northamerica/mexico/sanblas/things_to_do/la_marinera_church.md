@@ -15,6 +15,7 @@ story: >
   colonial grandeur. It was the last poem he completed before his death weeks later.
   The church he imagined is this one — its bells long gone, its walls returning to
   the hillside.
+score: 6.9
 ---
 
 The small Iglesia de la Marinera stands within the ruins of Fort Basilio (La Contaduría) on the hill above the river mouth. The church dates from the 18th century, when San Blas was a major Pacific naval base and departure point for Spanish expeditions to California. Its bells inspired Henry Wadsworth Longfellow's final poem, "The Bells of San Blas" (1882), a meditation on faith and the passing of colonial glory.

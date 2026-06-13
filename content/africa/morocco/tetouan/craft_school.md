@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5702
 longitude: -5.3645
+score: 7.8
 ---
 
 Directly opposite Bab el-Okla, the craft school trains young Tetouanis in the traditional Andalusian-Moroccan crafts — tile mosaic (zellij), woodcarving, plaster sculpture (gebs), brass inlay, and silk embroidery. Visitors can walk through the workshops on most weekdays and watch students at work. The building, a sprawling pink-and-white colonial-era structure, is itself worth seeing.

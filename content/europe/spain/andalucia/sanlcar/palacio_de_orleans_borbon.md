@@ -9,6 +9,7 @@ latitude: 36.7759
 longitude: -6.3542
 sources:
   - https://en.wikipedia.org/wiki/Palacio_de_Orleans-Borb%C3%B3n
+score: 6.8
 ---
 
 The Palacio de Orleans-Borbón is Sanlúcar's grandest building — a romantic Moorish Revival palace built between 1853 and 1870 as the summer residence of Antoine, Duke of Montpensier, and his wife the Infanta Luisa Fernanda of Spain. The exterior blends neo-Mudéjar arches, ornate tiling, and a garden of tropical plants that spills over the terrace walls above the lower town.

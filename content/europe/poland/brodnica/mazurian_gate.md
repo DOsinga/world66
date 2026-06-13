@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 The Mazurian Gate (Brama Mazurska) is the only one of Brodnica's medieval town gates to survive in something close to its original form. A square brick tower of three storeys, built in the late 14th century, it once controlled the eastern entrance to the walled town on the road towards Masuria — hence the name.

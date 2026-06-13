@@ -8,6 +8,7 @@ latitude: 51.5082
 longitude: -0.5954
 story: >
   It was here, on 13 March 1781, that William Herschel first saw Uranus — the first planet discovered since antiquity. He initially thought it was a comet. The discovery made him famous overnight and earned him the patronage of King George III, who funded the enormous 40-foot telescope he subsequently built in this garden.
+score: 5.6
 ---
 
 Observatory House on Windsor Road was the home and working observatory of William and Caroline Herschel from 1786 until William's death in 1822. This is where William built his famous 40-foot reflecting telescope — at the time the largest in the world — and where Caroline independently discovered several comets, becoming one of the first women to receive official scientific recognition.

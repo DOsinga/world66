@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.7093
 longitude: 44.5168
+score: 6.2
 ---
 
 The ceremonial boulevard connecting the central square to the Volga Embankment, lined with busts of the Heroes of the Soviet Union who distinguished themselves in the Battle of Stalingrad. The wide, tree-lined avenue was designed as part of the post-war reconstruction of the city centre in the late 1940s and 1950s in the Stalinist neoclassical style.

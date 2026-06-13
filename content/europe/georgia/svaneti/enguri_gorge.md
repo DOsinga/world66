@@ -13,6 +13,7 @@ story: >
   required relocating several villages and flooding parts of the lower
   gorge. The reservoir is visible from the road into Svaneti; the dam wall
   itself can be viewed from a bridge just above it.
+score: 7.3
 ---
 
 The Enguri Gorge is the route into Upper Svaneti from the lowlands — a deeply cut river canyon running north from the Enguri Dam toward Mestia. The road from [Zugdidi](/europe/georgia/zugdidi) follows the river, climbing steeply through increasingly dramatic scenery: the gorge walls close in, waterfalls appear on the cliffs above, and the vegetation changes from oak forest to alpine meadows. The drive from Zugdidi to Mestia takes approximately 2.5-3 hours on paved road (mostly, with some rough sections).

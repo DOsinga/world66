@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.1083
 longitude: -88.2246
+score: 8.3
 ---
 
 The Krannert Art Museum is the second-largest public art museum in Illinois — a quiet fact that surprises most visitors who expect a campus art gallery rather than a serious institution. The permanent collection spans 5,000 years and includes ancient Egyptian artefacts, European paintings from the Renaissance through the 19th century, and a strong collection of 20th-century American work. The decorative arts galleries, covering European and Asian ceramics and furniture, are unusually comprehensive.

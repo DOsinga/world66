@@ -12,6 +12,7 @@ story: >
   and narwhal bones beneath the foundations — evidence that the bishop's household traded
   in ivory, possibly the most valuable export of the Norse Greenland colony. The church
   held both spiritual authority and commercial power at the edge of the known world.
+score: 8.4
 ---
 
 The ruins of Garðar Cathedral — formally the Cathedral of Saint Nicholas — stand at the edge of Igaliku village, a tumbled outline in the green grass that would be easy to walk past without understanding what you are seeing. This was the seat of the first bishop of Greenland, founded in 1126 by Bishop Arnaldur, and for three centuries it was the ecclesiastical capital of Norse Greenland.

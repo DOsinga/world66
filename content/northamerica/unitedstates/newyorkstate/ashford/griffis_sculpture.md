@@ -12,6 +12,7 @@ tags:
 - park
 title: Griffis Sculpture Park
 type: poi
+score: 8.1
 ---
 
 Over 250 large-scale sculptures scattered across 425 acres of rolling Allegheny foothill country, most of them interactive — meant to be climbed on, walked through, sat inside. The vision of Buffalo sculptor Larry Griffis Jr., the park feels less like a gallery and more like an art-filled hike. Kids love it. Adults do too, once they stop worrying about looking dignified.

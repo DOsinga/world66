@@ -10,6 +10,7 @@ tags:
 - bar
 title: Mad Dogs
 type: poi
+score: 5.5
 ---
 
 An American-style cocktail bar on George Street with live music at weekends. Long list of classic cocktails, decent burgers, and the New Town crowd you would expect. Reliable rather than thrilling.

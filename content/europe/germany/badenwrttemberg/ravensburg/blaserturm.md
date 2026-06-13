@@ -8,6 +8,7 @@ tags:
 latitude: 47.7826
 longitude: 9.6113
 snippet: Medieval clock tower with a distinctive pointed spire, standing at the south end of Marienplatz
+score: 7.1
 ---
 
 The Blaserturm (Trumpeter's Tower) stands at the south end of Marienplatz, its pointed spire marking one of the oldest surviving elements of Ravensburg's medieval fortifications. The tower takes its name from the town musicians (Bläser — wind players) who were stationed there to watch for fires and sound the alarm. The clock face was added in later centuries.

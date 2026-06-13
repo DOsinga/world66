@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 35.946
 longitude: 14.339
+score: 7.8
 ---
 
 Majjistral Park covers the wild cliff coastline between Anchor Bay and Golden Bay, a swathe of garrigue, abandoned terraced fields, and dramatic cliff edges that is the closest Malta has to a true national park. It is small by international standards — just under three square kilometres — but for an island as built-up as Malta it is precious.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 4.3613
 longitude: 18.5547
+score: 6.4
 ---
 
 The Cathedral of Our Lady of the Immaculate Conception is the seat of the Archdiocese of Bangui and one of the city's most prominent landmarks, visible from the riverside and from Avenue Boganda. Built in a confident mid-20th century style, it is large, solid, and well-maintained. The interior is cooler than the street and the stained glass gives it a genuine dignity.

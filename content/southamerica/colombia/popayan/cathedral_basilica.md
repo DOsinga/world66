@@ -11,6 +11,7 @@ tags:
 snippet: "Neoclassical cathedral on Parque Caldas, rebuilt after the 1983 earthquake"
 story: >
   The cathedral collapsed almost completely during the 6.0 earthquake of 31 March 1983 — Maundy Thursday. The dome fell during a packed Holy Week service, killing dozens of worshippers. The rebuilding took more than two decades and is widely considered one of the most faithful colonial-church restorations in Latin America.
+score: 7.1
 ---
 
 The cathedral faces Parque Caldas, the heart of the colonial centre. The first chapel on this site was built of straw in the 16th century; the current neoclassical structure dates from the late 19th century, with the dome and main façade rebuilt after the 1983 earthquake.

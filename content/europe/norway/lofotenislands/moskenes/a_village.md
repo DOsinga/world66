@@ -8,6 +8,7 @@ latitude: 67.8796
 longitude: 12.984
 sources:
   - https://en.wikipedia.org/wiki/%C3%85,_Moskenes
+score: 7.9
 ---
 
 Å (pronounced like the English "Aw") sits at the very end of the E10 highway — the southernmost village in Lofoten, and the point at which the road simply stops. There is a car park, a small quay, and a cluster of historic buildings, and that is everything. The name means "stream" in Norwegian; it is one of the shortest place names in the world.

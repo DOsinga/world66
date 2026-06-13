@@ -9,6 +9,7 @@ tags:
 - nature
 title: Ulgi and Daewangam Park
 type: poi
+score: 8.3
 ---
 
 A short walk from Ilsan Beach, Ulgi and Daewangam Park cluster together along the coast and are among Ulsan's most visited sights. Cherry trees line the paths -- visit in spring for the blossoms -- and the pine forest contains trees over a hundred years old.

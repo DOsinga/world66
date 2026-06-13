@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.3700
 longitude: 56.7200
+score: 6.2
 ---
 
 Sallan Beach stretches north from the town centre along the Batinah coast — a broad, flat expanse of pale sand backed by a narrow belt of date palms, with the Al Hajar mountains visible on the inland horizon. The beach is clean and uncrowded on weekdays, and the water is warm enough to swim in from March through November. This is where Sohar's residents come to walk in the evenings and picnic on Fridays.

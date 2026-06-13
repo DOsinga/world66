@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, church]
 latitude: 58.1597
 longitude: 8.0134
+score: 8.0
 ---
 
 A small white-painted stone church on a hill above the Otra river, three kilometres east of the city centre. The current building dates from the early twelfth century, making it one of the oldest standing churches in Norway, although much of what is visible today is the result of nineteenth-century restoration.

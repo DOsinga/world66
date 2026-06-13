@@ -8,6 +8,7 @@ snippet: Historic instruments, librettos and manuscripts in a frescoed Renaissan
 tags:
 - things_to_do
 - museum
+score: 7.5
 ---
 
 The Museo Internazionale e Biblioteca della Musica fills the Palazzo Sanguinetti, a noble palazzo whose painted rooms — frescoed in the early nineteenth century by artists including Pelagio Palagi — are part of the attraction. The display ranges from early printed scores and original manuscripts of Rossini to one of the most important collections of historic instruments in Italy.

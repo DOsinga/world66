@@ -8,6 +8,7 @@ tags:
 - history
 title: National Museum Szczecin
 type: poi
+score: 7.9
 ---
 
 The National Museum of Szczecin is spread across several locations, with the main building occupying the grand Historicist structure on the Wały Chrobrego embankment. The collections cover the region's history from prehistoric times through the Pomeranian Duchy, the Prussian period, and the post-war resettlement of the city by Poles.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Shapuri Bridge (Broken Bridge)
 type: poi
+score: 7.2
 ---
 
 A Sassanid-era bridge south of Khorramabad, known locally as the Broken Bridge (Pol Shekasteh). Originally built in the 3rd or 4th century AD, it crossed the Khorramabad River at a point where the gorge narrows. Several arches remain standing, giving a vivid sense of how accomplished Sassanid engineers were with river infrastructure.

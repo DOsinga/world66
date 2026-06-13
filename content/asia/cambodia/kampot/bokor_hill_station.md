@@ -15,6 +15,7 @@ story: >
   closed in. The retreat in 1972 was so hasty that furniture, equipment, and personal
   belongings were left behind. When archaeologists and journalists eventually reached
   the summit, the ruins were essentially untouched.
+score: 9.8
 ---
 
 Bokor National Park rises to over 1,000 metres in the Cardamom Mountains behind Kampot, and near the summit sits the ghost of a French colonial resort town. The Bokor Palace Hotel, the Church of St Michel, the old casino, and various colonial bungalows stand in various states of ruin in the cloud forest, mist rolling through them on most days. The church is remarkably intact — Catholic stone construction, 1920s design, crumbling plaster, mossy floor — and the views from the old hotel over the Gulf of Thailand are wide on clear days.

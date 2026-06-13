@@ -14,6 +14,7 @@ story: >
   small mountain shrine.
 sources:
   - https://en.wikipedia.org/wiki/Madonna_del_Sasso,_Switzerland
+score: 8.4
 ---
 
 The pilgrimage sanctuary of Madonna del Sasso sits on a wooded crag 350 metres above [Locarno](/europe/switzerland/locarno), reached by a short funicular or a fifteen-minute walk up a Via Crucis path lined with chapels. The church is the brown-and-cream Baroque building you see in every photograph of Lake Maggiore, perched dramatically above the town with the lake glittering below.

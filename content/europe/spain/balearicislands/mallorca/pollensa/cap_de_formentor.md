@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The road to Cap de Formentor was carved out of the cliffs by the Italian engineer Antonio Parietti in the 1920s — the same engineer who built the better-known Sa Calobra road. Mallorquíns at the time said it could not be done."
+score: 9.3
 ---
 
 The Cap de Formentor is the dramatic 20-kilometre headland that runs east from Port de Pollença into the Mediterranean, ending in a final lighthouse on a 200-metre cliff. The drive out is one of the great coastal roads of the Mediterranean, climbing through pine forest, switchbacking past the Mirador del Colomer viewpoint, and finally crossing a knife-edge ridge before the final descent.

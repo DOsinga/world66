@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.1884
 longitude: 12.7334
+score: 6.9
 ---
 
 The lighthouse stands at the very tip of Capo San Vito, the westernmost point of the promontory that shelters the bay. Built in the 19th century, the white tower marks the division between the Gulf of Castellammare to the east and the Gulf of Macari to the west. The walk out to the cape from town takes about 40 minutes along a coastal path and offers good views back over the beach and the mountains.

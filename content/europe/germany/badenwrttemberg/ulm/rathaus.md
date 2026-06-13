@@ -9,6 +9,7 @@ latitude: 48.3978
 longitude: 9.9925
 sources:
   - https://en.wikipedia.org/wiki/Ulm
+score: 8.3
 ---
 
 Ulm's Rathaus is one of the most elaborately decorated civic buildings in southern Germany. Built in 1370 as a trading house and converted to town hall use in 1419, the building's most striking feature is its painted facade: an elaborate programme of murals depicting the virtues, vices, and commandments, plus an astronomical clock installed on the east gable in 1520. The clock still works and shows the phases of the moon, the position of the sun, and other celestial data alongside the time.

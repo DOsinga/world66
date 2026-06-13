@@ -9,6 +9,7 @@ latitude: 32.2471
 longitude: 76.3107
 story: >
   Lord Elgin, the 8th Earl of Elgin and Viceroy of India, died in Dharamsala in November 1863 after a brief illness and was buried here in the church grounds rather than being returned to Britain. He is remembered less fondly in China, where he ordered the burning of the Old Summer Palace in Beijing in 1860 as a reprisal during the Second Opium War. The peaceful churchyard in the Himalayan pine forest is an unlikely resting place for a man responsible for one of the most notorious acts of cultural destruction in the 19th century.
+score: 7.8
 ---
 
 The Church of St John in the Wilderness is a neo-Gothic Anglican chapel built in 1852, set in a deodar cedar forest on the road between Lower Dharamsala and McLeod Ganj at Forsyth Gunj. It is one of the strangest and most atmospheric colonial buildings in the region: a small, perfectly-proportioned Gothic church — Belgian stained-glass windows, pointed arches, a bell tower — in a forest of Himalayan conifers, with the snow peaks of the Dhauladhar visible above the trees.

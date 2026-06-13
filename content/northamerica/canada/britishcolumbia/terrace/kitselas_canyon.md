@@ -15,6 +15,7 @@ story: >
   thousands of years and grew wealthy by levying tolls on Tsimshian traders
   carrying eulachon grease inland. The villages were depopulated in the
   smallpox epidemics of the 1860s.
+score: 8.4
 ---
 
 A National Historic Site twenty minutes east of Terrace, where the Skeena River squeezes through a basalt gorge before opening into the lower valley. Two ancient Tsimshian villages — Gitlaxdzawk and Gitsaex — sat on opposite banks here and controlled river traffic for centuries.

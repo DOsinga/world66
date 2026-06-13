@@ -12,6 +12,7 @@ snippet: "A large eco-archaeology park built around an ancient Maya harbour, wit
 story: >
   The site was once the Maya port of Polé, a major embarkation point for pilgrims travelling by canoe to the sacred island of Cozumel to worship at the temple of Ixchel, the moon goddess. 
   The underground rivers that now draw snorkellers were known to the Maya — they are represented in Maya cosmology as the entrance to Xibalba, the underworld.
+score: 7.8
 ---
 
 Xcaret, about 10 km south of Playa del Carmen, is built around a coastal inlet and ancient Maya harbour. The park is expensive by Mexican standards but genuinely impressive — snorkelling through underground rivers, coral reef viewing platforms, turtle conservation pools, a butterfly pavilion, a jaguar island, and evening performances of Mexican folklore and music. It occupies a full day and is particularly well suited to families.

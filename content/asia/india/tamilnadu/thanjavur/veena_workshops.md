@@ -5,6 +5,7 @@ tags:
   - shopping
 latitude: 10.7878
 longitude: 79.1388
+score: 7.5
 ---
 
 Thanjavur is one of the few places in India where the Saraswathi veena — the classical long-necked plucked instrument that is the emblematic instrument of Carnatic music — is still made by hand in traditional workshops. The instrument has been associated with the city since at least the 17th century when the Maratha court made Thanjavur a centre of Carnatic composition and performance. The composer Tyagaraja, born in nearby Tiruvarur and associated with the Thanjavur region, played the veena throughout his life.

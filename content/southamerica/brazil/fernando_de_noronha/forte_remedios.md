@@ -11,6 +11,7 @@ story: >
   Fernando de Noronha has been Portuguese, Dutch, French, British, and American territory at various points in its history — a reflection of its strategic position midway between Europe and South America. The Dutch built the first fort here in 1629. The Portuguese drove them out and built Forte dos Remédios in the 18th century to ensure no-one else did the same. During World War II, it served as a US air base — the first American military installation in South America.
 sources:
   - https://en.wikipedia.org/wiki/Fernando_de_Noronha
+score: 7.4
 ---
 
 Forte dos Remédios is the main historic monument on Fernando de Noronha — a stone fort built by the Portuguese in the early 18th century on a headland commanding views over the main bay and the shipping lanes beyond. The fort's cannons, pointed seaward, represent the Portuguese determination to hold their mid-Atlantic outpost against all comers.

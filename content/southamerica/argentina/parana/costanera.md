@@ -6,6 +6,7 @@ longitude: -60.5258
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The riverfront promenade, almost ten kilometres of paved walk and cycleway along the Paraná. The central section, below Parque Urquiza, is the busiest — bars and cafés on the bluff above, a small marina, paragliders launching off the slope above the river when the wind is right. Further west the Costanera becomes quieter, with sandy bathing beaches (Playa Thompson, Playa de los Italianos) that are popular with locals in summer.

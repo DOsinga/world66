@@ -15,6 +15,7 @@ title: Avanhard Ski Resort
 type: poi
 sources:
 - https://en.wikipedia.org/wiki/Avanhard_(Vorokhta)
+score: 6.6
 ---
 
 Avanhard is the main ski area above Vorokhta and one of the most significant winter sports complexes in western Ukraine. Originally developed as an Olympic training base during the Soviet period, it has multiple downhill runs of varying difficulty, a ski jump facility, and an extensive network of groomed cross-country trails. The lifts and slopes are open to the public in winter, making it accessible to recreational skiers as well as serious athletes.

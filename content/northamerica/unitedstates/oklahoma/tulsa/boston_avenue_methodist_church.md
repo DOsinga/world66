@@ -12,6 +12,7 @@ story: >
   The design is attributed to Adah Robinson, an art teacher at the University of Tulsa, and her student Bruce Goff — though the architectural firm Rush, Endacott and Rush holds the official credit. The church congregation was so proud of the building they opened it on Palm Sunday 1929, just months before the stock market crash ended the oil boom that made it possible.
 sources:
   - https://en.wikipedia.org/wiki/Boston_Avenue_Methodist_Church
+score: 8.7
 ---
 
 The Boston Avenue United Methodist Church, completed in 1929, is regarded by many as one of the finest examples of Art Deco religious architecture in the world. The 255-foot tower dominates the Tulsa skyline from the south, its terra-cotta facade decorated with stylised wheat sheaves, praying hands, and frontier imagery that marry Christian iconography with Oklahoma's agricultural and oil heritage.

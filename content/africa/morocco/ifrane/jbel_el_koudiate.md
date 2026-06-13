@@ -9,6 +9,7 @@ tags:
 snippet: "Extinct volcanic shield 5km west of Ifrane, good short hike"
 sources:
   - https://en.wikipedia.org/wiki/Jbel_El_Koudiate
+score: 6.8
 ---
 
 About five kilometres west of Ifrane, Jbel El Koudiate is an extinct shield volcano with a characteristic flat, dome-shaped profile. The summit hike is straightforward — a couple of hours round trip on foot from the edge of town, through cedar and oak forest. The views from the top extend across the Ifrane plateau and back toward the town's distinctive red-roofed chalets.

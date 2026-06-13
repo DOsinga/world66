@@ -9,6 +9,7 @@ latitude: 10.8042
 longitude: 79.135
 sources:
   - https://en.wikipedia.org/wiki/Adisvaraswamy_Jain_Temple,_Thanjavur
+score: 6.5
 ---
 
 The Adisvaraswamy Jain Temple is a small but finely worked Jain shrine in the northern part of Thanjavur, dedicated to Adisvaraswamy, the first tirthankara. It stands as a reminder that the Cauvery delta was once home to a significant Jain community alongside its dominant Shaivite and Vaishnavite populations — the Jains were influential traders and merchants in the Chola courts, and several of Thanjavur's older commercial families trace Jain heritage.

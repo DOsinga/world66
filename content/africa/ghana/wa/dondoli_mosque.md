@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 10.06874
 longitude: -2.49574
+score: 7.3
 ---
 
 The Dondoli Mosque is another fine example of Sudanese-style mud-brick construction in the villages surrounding Wa. Like Nakore, it has the characteristic earthen towers and projecting wooden poles of the West African Sahelian mosque tradition, though each local version has its own proportions and detailing that reflect the particular hand of its builders and the preferences of its community.

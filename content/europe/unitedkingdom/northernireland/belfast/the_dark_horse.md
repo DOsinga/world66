@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 54.6015
 longitude: -5.9215
+score: 6.6
 ---
 
 The Dark Horse on Hill Street in the Cathedral Quarter is one of the best bars in Belfast, a narrow Victorian pub with good whisky, craft beer, and a terrace that fills up on warm evenings. It's the kind of place that serves Guinness properly (cold glass, slow pour, rest, top-up) and has a selection of Irish and Scotch whiskies that would satisfy a serious drinker.

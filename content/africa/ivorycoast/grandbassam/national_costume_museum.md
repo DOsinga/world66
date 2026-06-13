@@ -10,6 +10,7 @@ story: >
   The building that houses the National Costume Museum was once the home of a colonial-era merchant. It was built to impress — high ceilings, wraparound verandas, a facade meant to project prosperity across the lagoon. The merchant is long forgotten; the building now houses one of the most distinctive museum collections in West Africa.
 sources:
   - https://en.wikipedia.org/wiki/Mus%C3%A9e_national_du_costume_de_Grand-Bassam
+score: 7.9
 ---
 
 The National Costume Museum — Musée national du costume de Grand-Bassam — occupies a large restored colonial house in the historic quarter. Its collection focuses on traditional dress and textiles from across Côte d'Ivoire, with costumes representing the country's dozens of ethnic groups, from the Akan of the south to the Senoufo of the north.

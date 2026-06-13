@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 58.6180
 longitude: 8.9100
+score: 8.6
 ---
 
 The coastline around Tvedestrand is a maze of islands, skerries and hidden coves that rewards exploration by kayak or small boat. The outer islands are low-lying and wind-smoothed, with flat rock shelves perfect for swimming and sun-drying, and the channels between them are sheltered enough for paddlers of modest experience on calm days. Several of the islands are uninhabited and you can pull ashore for a picnic without seeing another person.

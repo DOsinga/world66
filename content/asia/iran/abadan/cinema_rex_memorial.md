@@ -14,6 +14,7 @@ story: >
   identified as radical Islamists, but at the time the Shah's government was
   blamed by protesters, and the fire accelerated the course of the Islamic
   Revolution. It remains one of the deadliest acts of arson in history.
+score: 7.3
 ---
 
 The Cinema Rex fire of August 1978 was one of the worst atrocities of Iran's revolutionary period and one of the pivotal events that brought down the Shah. The cinema stood in the heart of Abadan, and the fire killed at least 377 people — accounts vary up to 470 — who were attending an evening screening. The Revolutionary government later convicted and executed Islamist militants for the crime, but the episode had already done its political work.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Aspen Highlands
 type: poi
+score: 8.8
 ---
 
 The third of the four Aspen mountains, Highlands is the locals' favourite for the simple reason that the top of the mountain — the famous Highland Bowl — is reached by a 45-minute bootpack from the upper lift, which keeps the crowds away. The bowl drops 800 metres of treeless 38–45 degree powder, one of the most consistently good expert runs in North America when the snow is fresh.

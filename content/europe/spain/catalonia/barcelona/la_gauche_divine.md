@@ -13,6 +13,7 @@ title: La Gauche Divine
 type: poi
 url: www.lagauchedivine.com
 zipcode: 08002
+score: 4.8
 ---
 
 In the 1960s, a group of young artists in Barcelona used their work to challenge the establishment and push for social change. The movement became known as La Gauche Divine, and its spirit inspired this concept store in the Gothic Quarter.

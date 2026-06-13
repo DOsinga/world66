@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.8
 ---
 
 Anton Scudier Central Park is the largest of the central parks, a long green strip running south from Victory Square along the eastern bank of the Bega Canal. The park was laid out in the late 19th century as the Habsburg administration converted the old fortress glacis into public space.

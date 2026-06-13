@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 20.8279
 longitude: -156.9200
+score: 7.4
 ---
 
 Lanai City is the island's only town, home to around 3,000 people, and it has the feel of a place that time has treated gently. The original layout was built by the Dole Company in the 1920s to house plantation workers — a simple grid of wooden cottages, shade trees, and small businesses arranged around Dole Park, a grassy square at the centre of town.

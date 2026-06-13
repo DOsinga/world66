@@ -7,6 +7,7 @@ address: Street 55, F-8/4
 tags:
   - eating_out
   - restaurant
+score: 6.1
 ---
 
 China Town is Islamabad's most established Chinese restaurant — it has had a loyal following since the 1980s and outlasted dozens of imitators. The current incarnation is a large purpose-built building in F-8/4 with a basement kitchen, a fine-dining hall on the first floor and a roof terrace with views over the Margalla Hills.

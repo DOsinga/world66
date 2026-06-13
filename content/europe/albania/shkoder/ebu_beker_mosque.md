@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 The Great Mosque of Shkodër, finished in 1995 on the site of the original Fushë Çela mosque destroyed by the Communist regime in 1967. It is the largest mosque in Albania, with two slender minarets framing a vast white-rendered prayer hall and a courtyard wide enough for several hundred worshippers at Friday prayers.

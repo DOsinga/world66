@@ -2,6 +2,7 @@
 title: "History Museum on the Square"
 type: poi
 tags: [things_to_do]
+score: 6.6
 ---
 
 The History Museum on the Square sits at the heart of downtown Springfield, occupying a handsome building on the public square that has long been the civic center of the city. The museum focuses on the history of Springfield and the greater Ozarks region, with permanent collections covering Native American history, the Civil War in the Ozarks, Route 66, and the development of the city from frontier outpost to regional hub.

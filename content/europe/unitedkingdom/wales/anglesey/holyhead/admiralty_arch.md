@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 A triumphal arch built in 1824 to mark the completion of Thomas Telford's Holyhead Road, the great London-to-Dublin mail route that ran across Anglesey and over the Menai Strait via the suspension bridge. The road and the arch were central to keeping Ireland connected to Westminster after the 1800 Act of Union.

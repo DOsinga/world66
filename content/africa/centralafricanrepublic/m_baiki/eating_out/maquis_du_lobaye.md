@@ -6,6 +6,7 @@ tags:
   - eating_out
 title: Maquis du Lobaye
 type: poi
+score: 4.9
 ---
 
 A basic eating house near the central market, Maquis du Lobaye serves straightforward Centralafricaine food to market traders, local workers, and occasional travellers. The daily menu is whatever has been prepared — usually gozo with a sauce, grilled fish or smoked meat, and rice when available.

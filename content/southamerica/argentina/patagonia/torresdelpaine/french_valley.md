@@ -8,6 +8,7 @@ latitude: -50.9776
 longitude: -73.1167
 story: >
   The valley's Faroese name, Valle del Francés, commemorates nothing particularly French — it was named after a landowner. But its amphitheatre of hanging glaciers is entirely its own. On windy days, enormous chunks of ice detach from the glaciers above and fall hundreds of metres, sending clouds of ice crystals drifting across the valley and a thunderclap rolling through the mountains minutes after each impact.
+score: 9.3
 ---
 
 The French Valley is the middle arm of the W Trek, and many walkers consider it the most dramatic section. The trail climbs through lenga beech forest, then above the treeline into a natural amphitheatre of rock and ice. Hanging glaciers cling to the cliffs above — some of them visibly cracked and active — and on windy days you can watch ice break away and fall. The sound arrives well after the event.

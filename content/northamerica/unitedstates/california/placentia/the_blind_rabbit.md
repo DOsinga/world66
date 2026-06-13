@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 33.8689
 longitude: -117.8730
+score: 7.3
 ---
 
 A speakeasy-style cocktail bar tucked behind a Mexican restaurant in the SOCO district on the Placentia–Anaheim border. Reservations are essentially required, the entrance is unmarked, and the cocktails are taken seriously — house-made syrups, careful stirring, and a list that rotates with the seasons.

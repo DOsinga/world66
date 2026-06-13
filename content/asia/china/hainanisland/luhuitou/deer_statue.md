@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The 12-metre granite sculpture at the top of Luhuitou Park
+score: 6.3
 ---
 
 The Deer Turning Head statue is the centrepiece of Luhuitou Park — a 12-metre granite carving of the moment from the Li legend in which a hunter's quarry turns to face him and transforms into a young woman. The statue was carved in 1987 in a deliberate gesture of monumental nation-branding for the new resort area of Sanya, and has since become the symbol of the city.

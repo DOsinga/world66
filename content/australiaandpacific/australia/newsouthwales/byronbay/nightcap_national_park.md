@@ -10,6 +10,7 @@ latitude: -28.5439
 longitude: 153.2931
 sources:
   - https://en.wikipedia.org/wiki/Nightcap_National_Park
+score: 8.1
 ---
 
 Nightcap National Park covers a large section of the ancient volcanic rim west of Byron Bay, protecting one of the most significant stands of subtropical rainforest in New South Wales. The park forms part of the Gondwana Rainforests World Heritage Area, and the trees here — Antarctic beech, coachwood, rosewood — give the forest an old-world quality that is quite different from the dry coastal scrub down at the beach.

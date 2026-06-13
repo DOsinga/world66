@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.6700
 longitude: 73.7000
+score: 8.5
 ---
 
 At about 3,090 metres, Toli Pir is one of the highest accessible points in the Poonch region and offers some of the most panoramic views in Azad Kashmir. On a clear day the snowcapped peaks of the Pir Panjal range dominate the northern horizon and the valleys below fan out in a patchwork of forest and cultivation.

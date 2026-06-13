@@ -9,6 +9,7 @@ latitude: 47.0412
 longitude: 8.3281
 story: >
   Wagner moved to Lucerne in 1866 after fleeing his creditors in Vienna, and lived at the Villa Tribschen on the lake peninsula for six years. He completed Die Meistersinger and Siegfried there, wrote the Siegfried Idyll — performed on the villa's staircase for Cosima's birthday in December 1870 — and received Nietzsche, Liszt, and King Ludwig II as visitors. The villa has been the Richard Wagner Museum since 1933.
+score: 6.4
 ---
 
 The Richard Wagner Museum occupies the Villa Tribschen, where the composer lived from 1866 to 1872 — the most productive period of his life. The villa stands on a lake peninsula about two kilometres south of the old town, surrounded by a park that gives views across the water to Mount Pilatus.

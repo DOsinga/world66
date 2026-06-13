@@ -13,6 +13,7 @@ story: >
   with all Jesuits from New Spain in 1767. His monumental history of Mexico,
   written in Italian exile, was one of the first serious defences of indigenous
   Mexican civilisation and earned him the nickname "the first Mexican historian."
+score: 8.2
 ---
 
 The Palacio Clavijero, a former Jesuit college from the 17th century, is one of the finest examples of colonial architecture in Mexico. Its massive arcaded courtyard, surrounded by two levels of stone arches and columns, is one of the most photographed spaces in Morelia — serene, proportioned, and built to a scale that makes you feel the ambition of the Jesuits in New Spain. Today it houses government offices and a public library, and you can walk freely through the courtyard.

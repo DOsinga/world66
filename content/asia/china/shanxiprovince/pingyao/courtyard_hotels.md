@@ -7,6 +7,7 @@ tags:
 latitude: 37.1997
 longitude: 112.176
 snippet: Stay inside the old city in a restored courtyard house with a traditional kang heated bed
+score: 6.8
 ---
 
 One of the most distinctive things you can do in Pingyao is stay inside the old city in a restored courtyard house (siheyuan) with traditional heated brick beds (kang). The kang is a platform bed heated from below by a small fire or, in modern versions, by electric elements — practical in the cold Shanxi winters, and an entirely different sleeping experience from any hotel bed. In autumn and winter, sleeping on a properly heated kang, under a thick duvet, in a 200-year-old courtyard with the old city outside the door, is one of those genuinely atmospheric travel experiences.

@@ -10,6 +10,7 @@ tags:
 - nightclub
 title: Zaperoco
 type: poi
+score: 6.6
 ---
 
 Long-running salsa bar in the Granada district, with live bands several nights a week and a crowd that mixes locals, expats and travellers. The space is small and the dance floor fills up fast — arrive before midnight or expect to dance shoulder-to-shoulder. Cover charge is modest and includes a drink.

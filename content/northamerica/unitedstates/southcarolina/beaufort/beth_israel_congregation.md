@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Beth Israel Synagogue
 type: poi
+score: 6.5
 ---
 
 Beaufort has had a continuous Jewish presence since the 1700s, and Beth Israel — founded in 1905 — is the only synagogue on Scott Street and the only one for many miles. The current building, with its modest brick front and arched windows, dates to 1908. Inside, the sanctuary is small and quiet, lit through stained-glass windows that are unusual for being clearly handmade by a local artisan rather than ordered from a studio catalogue.

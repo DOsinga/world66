@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 27.5456
 longitude: 90.7250
+score: 7.4
 ---
 
 Lamay Gonpa, sometimes spelled Lamai Goempa, is a small monastery and former palace just south-west of Jakar, on the slopes above the Chamkhar river. It served as the summer palace of Bhutan's first king, Ugyen Wangchuck, in the early 20th century and later became a monastic centre.

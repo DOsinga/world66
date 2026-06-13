@@ -14,6 +14,7 @@ story: >
   the 13th and 14th centuries, and this part of Huelva province changed hands more
   than once. The castle's hilltop position made it visible for miles in every direction —
   exactly the point.
+score: 8.2
 ---
 
 Castillo de Cortegana is the defining feature of the village skyline, a compact medieval fortress on a rocky outcrop above the rooftops. Originally constructed in 1253 and significantly enlarged in 1293 under Sancho IV, the castle has been substantially restored and its interior fitted with suits of armour, period furniture, and a small exhibit on the sierra's history.

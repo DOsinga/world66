@@ -8,6 +8,7 @@ tags:
 - sight
 - river
 - oasis
+score: 8.0
 ---
 
 The Curoca River marks the northern side of the Iona landscape, intermittent for much of the year but capable of leaving lagoons and green pockets in an otherwise dry region. Lagoa dos Arcos, on the Curoca system north of the park, is the best-known expression of that desert-oasis contrast.

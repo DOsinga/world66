@@ -6,6 +6,7 @@ longitude: -114.3669
 tags:
   - things_to_do
   - museum
+score: 7.3
 ---
 
 The Sun Valley Museum of Art, in a converted bank building on Main Street in Ketchum, runs a rotating exhibition programme and a respectable summer lecture series. It is the oldest arts organisation in the Wood River Valley, founded in 1971, and has steadily collected work by Idaho artists alongside touring shows.

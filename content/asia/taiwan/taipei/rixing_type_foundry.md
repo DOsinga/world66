@@ -10,6 +10,7 @@ tags:
 title: Rixing Type Foundry
 type: poi
 story: "Rixing has been casting Chinese character lead type since 1969 and is the last working foundry of its kind in Taiwan. Each character is cast from a hand-engraved brass matrix; the foundry holds around 120,000 separate matrices, sufficient for traditional Chinese typesetting at three sizes. The owner has continued operating largely as a preservation project after the printing industry moved on, and the foundry now produces decorative type and educational materials for letterpress printers."
+score: 7.9
 ---
 
 In a small alley in Datong, the Rixing Type Foundry is the last surviving Chinese-character lead-type foundry in Taiwan and one of the few in the world still casting traditional Chinese characters. The workshop occupies a single shophouse: walls floor-to-ceiling with wooden cases of lead sorts, a row of casting machines clattering in the back, and the owner working steadily at a bench.

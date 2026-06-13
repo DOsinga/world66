@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Alexan family were Coptic Christians who rose to prominence in late 19th-century Egypt as lawyers and politicians. Their European-style mansion, with its painted ceilings and gilded salons, is now one of the few preserved bourgeois houses in Upper Egypt outside of Cairo."
+score: 6.7
 ---
 
 The Alexan Pasha Palace is the most striking building in central Asyut, a late 19th-century mansion built by a wealthy Coptic family and restored by the Ministry of Antiquities. The exterior is grand but slightly dishevelled; the interior is the reason to visit, with ornate plasterwork, frescoed ceilings, and rooms furnished in a mix of European and Ottoman styles.

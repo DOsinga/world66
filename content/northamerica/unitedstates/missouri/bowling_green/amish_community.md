@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.355
 longitude: -91.23
+score: 7.4
 ---
 
 On rural highways Y and M just outside Bowling Green, a community of around 63 Amish families farms the rolling Pike County countryside in the traditional way — no electricity, no indoor plumbing, horse-drawn equipment, and handmade clothing. The community is welcoming to visitors who approach respectfully, and the cabinet store is well regarded for fine handmade furniture at reasonable prices.

@@ -9,6 +9,7 @@ latitude: 6.3000
 longitude: 0.0500
 sources:
   - https://en.wikipedia.org/wiki/Lake_Volta
+score: 7.4
 ---
 
 The simplest way to feel the scale of [Lake Volta](/africa/ghana/lakevolta) is to get out on it. The **Dodi Princess**, an old riverboat moored at Akosombo Port, runs day cruises out to Dodi Island most weekends — usually Sundays, with extra sailings on holidays. The trip lasts about five hours, with a live highlife band, a buffet lunch, and a couple of hours on the island.

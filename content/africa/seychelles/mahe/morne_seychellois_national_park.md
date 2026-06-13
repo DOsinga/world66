@@ -13,6 +13,7 @@ story: >
   from the top. Afternoons are usually clouded in.
 sources:
   - https://en.wikipedia.org/wiki/Mah%C3%A9
+score: 9.0
 ---
 
 Morne Seychellois National Park covers about 3,045 hectares — roughly a fifth of Mahe's total area — and protects the granite peaks and cloud forest of the island's mountainous interior. The highest point is Morne Seychellois at 905 metres, which can be reached by trail from Sans Souci Road. The park contains Mahe's best hiking, with trails ranging from short walks through lowland forest to the full summit climb.

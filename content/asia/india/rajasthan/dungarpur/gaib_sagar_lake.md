@@ -6,6 +6,7 @@ longitude: 73.719
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 Gaib Sagar — sometimes spelled Gap Sagar — is the artificial lake at the heart of Dungarpur, built in the 13th century and surrounded ever since by temples and ghats. The Udai Bilas Palace looks across it from the east; the small white Vijay Rajeshwar and Shrinathji temples sit at its edge.

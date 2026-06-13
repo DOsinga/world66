@@ -12,6 +12,7 @@ story: Preah Khan was built on the site of Jayavarman VII's victory over the inv
   Khmer fleet, is depicted on the walls of the Bayon. The temple's name means "Sacred
   Sword," and it was also used as a temporary residence for the king while Angkor Thom
   was being built after the Cham sack of the old capital.
+score: 8.6
 ---
 
 **Preah Khan** ("Sacred Sword") is one of the largest temples in the Angkor complex, built by Jayavarman VII in 1191 as both a Buddhist monastery and a city in its own right. Its inscriptions record that it housed over 1,000 teachers, nearly 100,000 officials, and untold numbers of temple dancers. The temple is dedicated to the king's father and represents the masculine counterpart to Ta Prohm (dedicated to his mother).

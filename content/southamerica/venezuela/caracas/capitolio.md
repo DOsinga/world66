@@ -8,6 +8,7 @@ tags:
   - el_silencio
   - architecture
 story: "The Salón Elíptico is dominated by Martín Tovar y Tovar's huge canvas *Battle of Carabobo* — a 1887 panorama of the 1821 battle that secured Venezuelan independence. The painting was so large the artist worked on it in Paris and shipped it in segments; one of them was lost overboard mid-Atlantic and had to be repainted from memory."
+score: 7.6
 ---
 
 The Federal Legislative Palace — known to caraqueños as the Capitolio — occupies a full city block south-west of Plaza Bolívar. Built between 1872 and 1877 under the strongman president Antonio Guzmán Blanco, the building was meant to project the optimism of a young federal republic: neoclassical façade, French-inspired plan, a domed Salón Elíptico (oval hall) at the centre painted with murals of independence-era battles.

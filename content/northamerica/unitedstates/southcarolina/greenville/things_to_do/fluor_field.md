@@ -10,6 +10,7 @@ latitude: 34.8422
 longitude: -82.4082
 sources:
   - https://en.wikipedia.org/wiki/Fluor_Field_at_the_West_End
+score: 7.0
 ---
 
 A 6,700-seat minor-league baseball park in the West End, home to the Greenville Drive — a Single-A affiliate of the Boston Red Sox. The stadium opened in 2006 and was deliberately modelled on Fenway Park: the left-field wall is a replica of the Green Monster, painted the same colour and standing at the same height, with a manually operated scoreboard. The game-day atmosphere is relaxed and family-friendly, tickets are inexpensive, and the West End restaurants are a short walk for dinner before or after the match.

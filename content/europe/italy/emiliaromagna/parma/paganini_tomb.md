@@ -6,6 +6,7 @@ longitude: 10.3122
 tags:
   - things_to_do
   - sight
+score: 6.2
 ---
 
 Niccolò Paganini, the violinist whose technical genius and demonic stage presence made him the most famous performer of the early 19th century, died in Nice in 1840. The Catholic Church refused him burial on the grounds that he had not received the last rites, and his body spent decades being moved between cellars, hospital chapels, and family vaults before the Duchess of Parma finally arranged a proper tomb in the city's Villetta Cemetery in 1876.

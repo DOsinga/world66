@@ -10,6 +10,7 @@ story: >
   In 1997 a painting in the museum's collection was discovered to be missing: "Portrait of a Young Lady" by Klimt, which had vanished from its frame. In 2019, during maintenance work, a cleaner found the painting hidden in a plastic bag inside a void in the museum's external wall. It had apparently been stashed there by the thief, who then could not retrieve it. The painting was authenticated and returned to the gallery in 2020.
 sources:
   - https://en.wikipedia.org/wiki/Galleria_d%27arte_moderna_Ricci_Oddi
+score: 7.6
 ---
 
 The Galleria d'Arte Moderna Ricci Oddi houses a substantial collection of Italian art from the 19th and early 20th centuries, assembled by Giuseppe Ricci Oddi and donated to the city in 1931 along with the purpose-built gallery building. The collection is strong in the Symbolist, Divisionist, and post-Impressionist tendencies that characterized Italian painting of the Belle Époque, with works by Segantini, Pellizza da Volpedo, Boldini, and others.

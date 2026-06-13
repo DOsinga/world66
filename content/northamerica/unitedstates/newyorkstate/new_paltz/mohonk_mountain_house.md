@@ -9,6 +9,7 @@ latitude: 41.768611
 longitude: -74.155556
 sources:
   - https://en.wikipedia.org/wiki/Mohonk_Mountain_House
+score: 8.8
 ---
 
 Mohonk Mountain House is one of the most dramatic Victorian resort hotels in the United States, a turreted castle-like structure built in stages between 1869 and the early 20th century by the Smiley family of Quakers. It sits on the shore of Lake Mohonk, a sky lake nestled in a cleft of the Shawangunk Ridge, with cliffs rising on both sides and the Hudson Valley spread out below.

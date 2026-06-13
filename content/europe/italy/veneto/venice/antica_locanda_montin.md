@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Antica Locanda Montin
 type: poi
+score: 7.0
 ---
 
 A venerable restaurant and inn in Dorsoduro with a vine-covered garden — one of the most pleasant dinner settings in Venice in summer. The menu focuses on simple, honest Venetian cooking with seafood as the perennial speciality: spaghetti alle vongole, grilled sole, baccalà in various preparations. The clientele tends to be older locals and visitors who have been coming for years.

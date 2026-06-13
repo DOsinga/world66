@@ -7,6 +7,7 @@ tags:
 - sight
 title: Massey University
 type: poi
+score: 5.9
 ---
 
 Massey University's Turitea campus is the city's largest single institution and one of the largest university campuses in New Zealand. It occupies a 70-hectare site south of the Manawatū River, on land originally set aside as the Department of Agriculture's experimental farm — Massey's strengths in veterinary science, agriculture, and food science still trace back to those origins.

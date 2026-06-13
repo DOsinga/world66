@@ -7,6 +7,7 @@ tags:
 - market
 title: Semnan Bazaar
 type: poi
+score: 6.6
 ---
 
 Semnan Bazaar is the old commercial spine of the city, smaller and calmer than the famous bazaars of Isfahan or Tabriz but still useful for understanding how the historic centre fits together. Its lanes connect everyday shops, older caravanserai spaces, and the mosque quarter.

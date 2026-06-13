@@ -7,6 +7,7 @@ tags:
 - sight
 title: Coney Island
 type: poi
+score: 7.2
 ---
 
 Coney Island is the small wooded island a short boat ride from downtown Kenora — not to be confused with the Brooklyn one. The island has been used as a public picnic, swimming, and camping area for over a century. Sandy beaches, walking paths through the trees, and a campground occupy most of the island. The water taxi runs from the Harbourfront in summer.

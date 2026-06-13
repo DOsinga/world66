@@ -11,6 +11,7 @@ story: >
   The face was painted in 1981 by local artist Flemming Berg and was meant
   to be temporary, but the town liked it so much it stayed. It has been
   repainted several times since and is officially named Saxine.
+score: 5.8
 ---
 
 The tower is a thirty-three-metre concrete cylinder topped with a yellow sphere bearing an enormous grinning face — eyes shut, cheeks rosy, mouth wide open in laughter. It is the unmistakable landmark of Lolland and the reason Sakskøbing markets itself as "the smiling town."

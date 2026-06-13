@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.3
 ---
 
 Playa Blanca is the longest beach on Cayo Largo — a sweep of pale sand running for several kilometres along the central southern coast, with the line of all-inclusive hotels set back behind a fringe of vegetation. The swimming is easy, the sand is shallow underfoot, and the views east and west are uninterrupted.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - history
+score: 6.8
 ---
 
 The regimental museum of the Loyal North Lancashire and successor regiments occupies a wing of Fulwood Barracks, a few minutes' drive north of the city centre. The collection covers Lancashire infantry service from the seventeenth century to the present — uniforms, weapons, medals, and a particularly good display on the Boer War and the two world wars.

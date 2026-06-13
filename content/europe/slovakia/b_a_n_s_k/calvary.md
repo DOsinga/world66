@@ -14,6 +14,7 @@ story: >
   considered the finest example of a baroque calvary in Slovakia.
 sources:
   - https://en.wikipedia.org/wiki/Kalv%C3%A1ria_Bansk%C3%A1_%C5%A0tiavnica
+score: 8.9
 ---
 
 The Calvary of Banská Štiavnica is one of the finest baroque religious complexes in central Europe and, after the two castles, the most compelling reason to visit the town. It was built in the mid-eighteenth century on the hillside east of the historic center, financed by the wealthy mining community at the height of the town's prosperity. Altogether it consists of 22 chapels distributed across a forested hillside, linked by a processional path that leads from the lower station to the crucifixion scene at the summit.

@@ -7,6 +7,7 @@ tags:
   - museum
 title: Anuradhapura Archaeological Museum
 type: poi
+score: 7.8
 ---
 
 The on-site museum, housed in a colonial-era building near the Mahavihara complex, holds a fine collection of carvings, inscriptions, and small finds excavated from the surrounding ruins. The highlights are the moonstones — semicircular threshold slabs carved with concentric bands of animals and lotus motifs that ancient Sinhalese sculptors developed into one of their most refined art forms.

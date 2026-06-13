@@ -14,6 +14,7 @@ story: >
   have existed here for centuries gave the valley its name. The five-coloured
   lakes owe their colour to the interaction of mineral deposits, algae, and
   sunlight refracting through water of exceptional clarity.
+score: 9.6
 ---
 
 Jiuzhaigou is the most celebrated natural sight in western Sichuan — a deep valley in the Min Mountains whose lakes, waterfalls, and forests have made it one of China's most photographed places. The water is exceptional: mineral-rich and almost unnaturally clear, the lakes shift from deep blue to turquoise to green as you move through the valley. The Five-Colour Pool, Pearl Shoal Waterfall, and Mirror Lake are the set pieces; there are dozens more at every turn.

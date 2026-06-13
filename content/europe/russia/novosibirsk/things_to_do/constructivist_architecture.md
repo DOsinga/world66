@@ -8,6 +8,7 @@ tags:
 latitude: 55.0304
 longitude: 82.9188
 snippet: A city-centre cluster of 1920s–30s Soviet Constructivist buildings
+score: 8.2
 ---
 
 Novosibirsk was built fast during the 1920s and 1930s and the centre preserves an unusually coherent set of Soviet Constructivist buildings — the functional, austere architectural style that dominated early Soviet urban design before Stalin pushed it aside in favour of the monumental classical style. The cluster around Krasniy Prospekt and Lenin Square includes the Gosbank building by Andrey Kryachkov, the Business House, the Aeroflot House, and several other institutional buildings from the same period.

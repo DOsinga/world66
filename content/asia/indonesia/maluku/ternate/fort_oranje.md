@@ -14,6 +14,7 @@ story: >
   centre for the Spice Islands — cloves from Ternate and Tidore were processed
   and shipped to Europe from here for nearly two centuries, generating profits
   that funded the Dutch Golden Age. A peppercorn, quite literally, changed the world.
+score: 7.7
 ---
 
 Fort Oranje is the most visible remnant of the Dutch colonial period in Ternate, a four-bastioned fort built in the early seventeenth century on the waterfront near the town centre. The Dutch East India Company (VOC) used it as their administrative headquarters for the Moluccas — the control point for the most profitable trade in the world at the time.

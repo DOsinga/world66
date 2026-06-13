@@ -6,6 +6,7 @@ tags:
   - sight
 title: Janaki Setu (Janaki Jhula)
 type: poi
+score: 5.8
 ---
 
 Janaki Setu, also known as Janaki Jhula, is the newest of Rishikesh's suspension bridges over the Ganges, completed in 2022 and now carrying most of the foot traffic that previously crossed on the older Laxman Jhula bridge (which was closed for repairs in 2019). The new bridge is wider and more stable than its famous neighbours, and its greater load capacity means it can handle the volume of pilgrims and tourists without the bounce and sway of the older iron bridges.

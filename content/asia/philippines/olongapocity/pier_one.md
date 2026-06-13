@@ -8,6 +8,7 @@ tags:
   - eating_out
   - bar
   - restaurant
+score: 5.7
 ---
 
 Pier One is the long-established waterfront restaurant and live-music bar on the Subic Bay boardwalk — an open-sided pavilion on stilts over the water, with a full menu of Filipino seafood and grilled meat, and a stage that hosts a rotating roster of cover bands most evenings.

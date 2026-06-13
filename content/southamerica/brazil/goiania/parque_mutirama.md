@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -16.6668
 longitude: -49.2686
+score: 5.4
 ---
 
 Parque Mutirama is one of the oldest amusement parks in Brazil, opened in 1952 as a public leisure facility for the young city of Goiânia. It occupies a large plot in the northern part of the central area, with a lake, a small zoo, gardens, and a collection of rides that range from genuinely old-fashioned to recently upgraded. Admission is free, which has always been the point — the park was designed as popular infrastructure, not a commercial attraction.

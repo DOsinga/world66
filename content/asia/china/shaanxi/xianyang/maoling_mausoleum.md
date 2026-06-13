@@ -6,6 +6,7 @@ latitude: 34.3335
 longitude: 108.5555
 story: >
   Emperor Wu spent fifty-three years building his tomb — the longest construction period of any Han imperial mausoleum. He began in the first year of his reign and did not stop until his death. By the time he died, the burial goods accumulated were so extensive that there was reportedly not enough room to fit them all inside. Contemporary sources describe treasures being stacked in corridors and antechambers because the main burial chamber was full.
+score: 8.2
 ---
 
 The Maoling Mausoleum, burial place of the Han Emperor Wu (r. 141–87 BC), is the largest imperial tomb mound in China — a grass-covered earthen pyramid ninety metres tall that rises from the flat Guanzhong Plain near Xingping City. Emperor Wu opened the Silk Road, expanded Han territory to its greatest extent, and built this tomb continuously for fifty-three years. It has never been excavated.

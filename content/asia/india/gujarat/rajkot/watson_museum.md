@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 snippet: Colonial-era museum on Jubilee Garden with archaeology and tribal art from Saurashtra
+score: 7.5
 ---
 
 Founded in 1888 and named after Colonel John Watson, the British Political Agent of the Kathiawar Agency, this is the older of Rajkot's central museums. It sits on the edge of Jubilee Garden in a yellow Indo-Saracenic building, the upper floor reached by a wide stone staircase. The collection covers the archaeology, natural history, coins, manuscripts and tribal craftwork of the Saurashtra region — including objects from the nearby Harappan site at Rojdi.

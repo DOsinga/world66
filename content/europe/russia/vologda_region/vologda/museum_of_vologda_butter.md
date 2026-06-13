@@ -8,6 +8,7 @@ latitude: 59.2197
 longitude: 39.8960
 story: >
   Vologda butter — produced by heating fresh cream before churning, which creates a distinctive nutty flavour from diacetyl compounds — was first developed in the 1870s by the Vologda landowner Nikolai Vereshchagin (brother of the painter Vasily Vereshchagin), who had studied dairy production methods in Normandy. It was exported to Paris and St Petersburg under the name "Paris butter" before eventually being renamed for its actual place of origin.
+score: 6.6
 ---
 
 A small museum dedicated to one of Russia's most distinctive dairy products — Vologda butter, known throughout the country for its high fat content and the characteristic nutty taste that results from the production method. The museum covers the history of the regional dairy industry from the 1870s, when it was developed by Nikolai Vereshchagin, through the Soviet collective farming period to the present.

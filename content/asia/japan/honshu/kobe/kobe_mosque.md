@@ -14,6 +14,7 @@ story: >
   Kobe's Muslim merchant community, and its reinforced concrete construction — unusual
   for its era — may have saved it. Local people took shelter in the building in the
   days after the earthquake.
+score: 7.1
 ---
 
 The Kobe Mosque, also known as the Kobe Muslim Mosque, is the oldest mosque in Japan, built in 1935 by the city's Indian and Arab Muslim merchant community. It stands near Kitano-chō, a short walk from the ijinkan mansions, its two minarets rising above the surrounding rooftops. The building is a dignified Ottoman-influenced design in reinforced concrete, architecturally distinct from its Japanese neighbours.

@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Independence Square
 type: poi
+score: 6.6
 ---
 
 Also known as Black Star Square, this vast ceremonial plaza on the seafront is the second-largest of its kind in the world, after Tiananmen. The Independence Arch and the Black Star Gate frame the space, with the eternal flame burning at the centre. Empty most days, it comes alive on national holidays with parades, drumming, and the full kit of Ghanaian state ceremony. Worth a wander any time for the scale and the sea views.

@@ -9,6 +9,7 @@ longitude: 110.2671
 snippet: Vast illuminated limestone cavern sealed for a thousand years and rediscovered in the 1940s
 story: >
   Reed Flute Cave gets its name from the reeds that grow at its entrance — the kind historically used to make flutes. The cave was used as a shelter by Guilin residents during Japanese air raids in World War II; graffiti on the walls from that period is still visible. But it was sealed for centuries before that: the most recent Tang dynasty inscription inside dates from 792 CE, and no record exists of anyone entering between then and the 1940s.
+score: 7.6
 ---
 
 Reed Flute Cave (Ludi Yan) is a 240-metre-long cavern about five kilometres north-west of Guilin city, cut through a limestone hill and filled with stalactites, stalagmites, and stone columns in extravagant formations. The Chinese government lit the interior with coloured LEDs in the 1980s — the effect is theatrical rather than natural, bathing the formations in pinks, purples, and greens. It's unashamedly kitschy, but the scale of the cavern and the quality of the formations are genuinely impressive.

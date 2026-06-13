@@ -6,6 +6,7 @@ longitude: -118.4600
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 A small family-run organic dairy on Almond Gardens Road East, west of town. The herd is Jersey cows, the milk is unhomogenised, and the on-site shop sells cheese, yogurt, and bottled milk that ends up in restaurants across the Kootenays.

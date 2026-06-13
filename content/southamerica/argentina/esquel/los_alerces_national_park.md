@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: UNESCO-listed park of glacial lakes and 3,000-year-old alerce trees
 story: "The alerce — Patagonian cypress — is one of the longest-lived organisms on earth. The park's signature tree, the **Alerce Abuelo** (Grandfather Alerce), is 2,620 years old, 57 metres tall and 2.2 metres in diameter at the base. It was already a thousand years old when the Roman Empire fell."
+score: 9.4
 ---
 
 Argentina's most spectacular non-Andean national park: a chain of glacial lakes (Futalaufquen, Verde, Menendez, Rivadavia) connected by rivers, ringed by Andean foothills, and protecting one of the last great stands of **alerce** — the Patagonian cypress (*Fitzroya cupressoides*) — second only to bristlecone pines for longevity. The park was inscribed on the UNESCO World Heritage list in 2017.

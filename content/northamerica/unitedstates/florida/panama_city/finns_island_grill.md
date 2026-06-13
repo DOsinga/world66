@@ -6,6 +6,7 @@ longitude: -85.6630
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 Finn's is a small, perpetually busy Caribbean-influenced spot a few blocks south of the courthouse, with a short menu of fish tacos, grilled mahi, jerk chicken, and a rotating list of cocktails based around dark rum. The space is funky — corrugated tin, surf-shop posters, picnic-table seating — and it works.

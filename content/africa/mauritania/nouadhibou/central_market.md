@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - market
   - sight
+score: 5.8
 ---
 
 The covered central market on Avenue Médian is the place to find Mauritanian textiles, silver Tuareg-style jewellery, dates from the Adrar, salt slabs from the desert mines, and the inevitable Chinese imports. It is also where the city's expat West African traders gather — Senegalese tailors, Ghanaian shoemakers, Malian fabric merchants.

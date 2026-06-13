@@ -7,6 +7,7 @@ tags:
 latitude: 51.108
 longitude: 17.029
 address: "Kazimierza Wielkiego 35, 50-077 Wrocław"
+score: 7.6
 ---
 
 The City Museum of Wrocław is split across several buildings; the main historical exhibition is in the former Royal Palace, a Baroque-classical building built for the Prussian kings in the 18th century. The displays move chronologically from medieval Wrocław through the Habsburg and Prussian centuries to the German Breslau of the 1930s and the difficult Polish reconstruction after 1945.

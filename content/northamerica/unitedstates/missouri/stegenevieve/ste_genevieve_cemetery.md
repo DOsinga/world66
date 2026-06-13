@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.9802
 longitude: -90.0489
+score: 7.3
 ---
 
 The Memorial Cemetery of Ste. Genevieve is the oldest cemetery in Missouri, with burials dating to the early 18th century. The oldest surviving inscriptions are in French, a reminder that this was once a thoroughly French-speaking community on the western frontier. Walking among the headstones gives a quick lesson in the town's social history — French names give way to American ones over the decades following the Louisiana Purchase.

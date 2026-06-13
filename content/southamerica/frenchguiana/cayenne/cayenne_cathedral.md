@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 4.9397
 longitude: -52.3317
+score: 6.4
 ---
 
 The Cathédrale Saint-Sauveur is Cayenne's principal church, a modest 19th-century building of stuccoed brick and timber in the colonial Caribbean tradition. The interior is bright and airy, with simple wooden pews and a painted timber ceiling that holds the heat at bay through the equatorial afternoons.

@@ -8,6 +8,7 @@ tags:
 - sight
 - church
 snippet: A small wooden chapel built as a war memorial above the town
+score: 6.3
 ---
 
 Built in 1949 on a wooded hillside above Narvik, **Fredskapellet** — the Peace Chapel — is a simple, single-room wooden church that doubles as a memorial to those who died in the 1940 battles. The interior is austere: white-painted walls, a small altar with a carved Christ figure, and a wall of plaques recording the names of fallen Norwegian, British, French and Polish soldiers.

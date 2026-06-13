@@ -8,6 +8,7 @@ tags:
   - shopping
   - market
 snippet: One of Abeokuta's biggest general markets
+score: 6.8
 ---
 
 The Sokori Market in central Abeokuta is the city's largest general food and household market, busy from before dawn into the evening. The aisles run for several blocks of stalls selling produce from the surrounding farms — palm oil, yams, plantains, snails the size of a fist, fresh fish from the Ogun river and the Lagos lagoon — alongside the kitchen pots, used clothes, and electronics that fill any large Yoruba market.

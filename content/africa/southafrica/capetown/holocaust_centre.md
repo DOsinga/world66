@@ -15,6 +15,7 @@ tags:
 - city_bowl
 title: Cape Town Holocaust and Genocide Centre
 type: poi
+score: 7.2
 ---
 
 Opened in 1999, the Cape Town Holocaust Centre was the first dedicated Holocaust museum in Africa. The permanent exhibition uses photographs, documents and survivor testimony to trace the Holocaust in Europe and to draw explicit parallels with the racism, antisemitism and apartheid-era policies of twentieth-century South Africa.

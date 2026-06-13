@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 6.9166
 longitude: 122.0420
+score: 7.8
 ---
 
 A small community of Yakan weavers — refugees from Basilan island who settled in the western outskirts of Zamboanga in the 1970s — keep the highly geometric, intensely coloured weaving tradition alive on small backstrap looms. The Yakan textiles are some of the most distinctive woven fabrics in the Philippines: dense diamond and chevron patterns in red, black, yellow, and electric pink, used traditionally for ceremonial dress.

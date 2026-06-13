@@ -8,6 +8,7 @@ story: >
   The Tuesday market on the Grote Markt has run without interruption since 1321 — one
   of the longest continuously operating markets in the Netherlands. The original charter
   granted by the Count of Holland is preserved in the Breda Museum.
+score: 7.5
 ---
 
 The Grote Markt is the paved central square around which Breda organises itself, framed on three sides by cafe terraces and on the fourth by the soaring tower of the Grote Kerk. It is the main gathering point for the city: market stalls on Tuesday mornings, outdoor concerts and festivals in summer, and the daily rhythm of students and locals cutting across on their bikes.

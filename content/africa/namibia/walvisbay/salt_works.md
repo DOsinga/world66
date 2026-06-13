@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Vast salt evaporation pans that turn pink with halophilic algae
+score: 7.2
 ---
 
 The Walvis Bay Salt Refiners' evaporation pans, immediately south of the lagoon, are the largest sea-salt works in southern Africa, producing around a million tonnes of salt a year. From the air the pans form a vast geometric pattern of shallow rectangles in every shade of pink, orange and red, the colour coming from the halophilic algae that thrive in the increasingly salty water as it evaporates.

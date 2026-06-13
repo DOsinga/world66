@@ -6,6 +6,7 @@ tags:
 - getting_around
 title: Rail Travel
 type: poi
+score: 7.2
 ---
 
 More than a century ago, construction of the Canadian Pacific Railway opened access to the Rocky Mountains and the West. Train travel in Canada remains more about the journey than efficiency — the country is vast and sparsely populated, and passenger rail reflects that reality.

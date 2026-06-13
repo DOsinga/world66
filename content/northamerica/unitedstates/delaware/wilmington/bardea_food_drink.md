@@ -6,6 +6,7 @@ longitude: -75.5489
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 Bardea is the downtown Italian-leaning kitchen that has earned the city most of its serious restaurant attention over the past few years, with James Beard nominations for chef Antimo DiMeo. The pasta is the headliner — handmade strozzapreti, cavatelli, agnolotti — alongside an impressive wood-fired pizza programme and a list of antipasti that draws on whatever the farms are sending in.

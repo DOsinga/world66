@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 9.4940
 longitude: 123.9240
+score: 6.8
 ---
 
 A 200-year-old Spanish colonial watchtower stands on the northeastern tip of Pamilacan Island, one of dozens of similar structures built across the Philippine archipelago to warn against Moro raider fleets from the south. This particular tower is small and roughly built compared to the larger watchtowers elsewhere in Bohol, but its position — at the very edge of the island's rocky point, looking out over open sea — gives it a dramatic isolation.

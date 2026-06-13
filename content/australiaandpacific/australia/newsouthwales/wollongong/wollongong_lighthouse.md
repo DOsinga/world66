@@ -13,6 +13,7 @@ story: >
   on Flagstaff Point (1936) were both needed because of the tricky navigation through
   the shifting sandbanks at the harbour entrance. Having two gives mariners a range
   bearing to steer by.
+score: 7.8
 ---
 
 Flagstaff Point, at the northern end of Wollongong Harbour, is home to two lighthouses — a rarity on any coastline. The older one, built in 1871 on the southern breakwater, is a modest structure that guided ships through the harbour entrance. The second, the main Wollongong Lighthouse, was completed in 1936 on the headland and is an elegant Art Deco tower still active today.

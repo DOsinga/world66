@@ -14,6 +14,7 @@ story: >
   Ravi River gorge for centuries. During the colonial period it served as a
   strategic outpost; today the views from its crumbling ramparts over the Ravi
   gorge and the Ranjit Sagar backwaters below are the main reward for the climb.
+score: 7.7
 ---
 
 Perched on a rocky spur above the Ravi River where it cuts through the Shivalik Hills, Shahpur Kandi Fort is the most dramatic historic site in the Pathankot district. The fort dates to the era of the Pathania Rajput chiefs and occupies a commanding position overlooking the deep river gorge, with views stretching across the green hills toward Himachal Pradesh.

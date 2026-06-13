@@ -11,6 +11,7 @@ story: >
   The murals tradition began in 1978, when the Moussem Cultural International invited artists to paint the walls of the medina as a statement of cultural renewal.
   The town was then in considerable decline; the festival — organised by the local politician Mohamed Benaissa — was partly an act of civic reclamation.
   Within a decade, Asilah had become internationally known as an artists' town, drawing painters and musicians from across the Arab world and Europe.
+score: 8.1
 ---
 
 Asilah's whitewashed medina walls have served as an outdoor gallery since the first Moussem Cultural International in 1978. Each year the festival invites artists to paint new murals on the walls of the town, and the accumulation over nearly fifty years means that walking through the medina is a route through layered artistic history: some murals are recent and vivid, others have faded and been painted over, with traces of earlier work visible at the edges.

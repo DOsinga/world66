@@ -11,6 +11,7 @@ story: >
   Cranach the Elder and completed by his son in 1555. Cranach the Elder is buried
   in the Jacobsfriedhof nearby — he died in Weimar in 1553, having followed his
   patron here after the fall of Wittenberg.
+score: 8.0
 ---
 
 Officially the Stadtkirche St Peter und Paul, everyone in Weimar calls it the Herderkirche after Johann Gottfried Herder, who served as its superintendent from 1776 until his death in 1803. The late-Gothic hall church dominates the Herderplatz, and its triple-winged Cranach Altarpiece is reason enough to step inside. The central panel shows the Crucifixion with Martin Luther standing at the foot of the cross — a bold statement of Reformation allegiance when it was painted.

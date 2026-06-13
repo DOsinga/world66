@@ -6,6 +6,7 @@ longitude: 11.3490
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Aspeberget rises in a low ridge close to Litsleby and is the fourth main site of the Tanum World Heritage. The carvings here are scattered across a series of smooth granite outcrops — sun-wheels, boats, a famous panel of ploughmen with oxen, and one of the few clear depictions of a Bronze Age fishing scene.

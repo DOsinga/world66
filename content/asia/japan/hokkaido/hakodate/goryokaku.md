@@ -11,6 +11,7 @@ story: >
   Goryōkaku was the final battleground of Japan's civil war. From December 1868 to May 1869, pro-Tokugawa forces led by Vice Admiral Enomoto Takeaki held the fortress against the armies of the new Meiji government. The siege is dramatised in countless samurai films and novels; Enomoto survived, was eventually pardoned, and went on to serve the Meiji government he had fought against.
 sources:
   - https://en.wikipedia.org/wiki/Gory%C5%8Dkaku
+score: 8.3
 ---
 
 Goryōkaku is a Western-style star fort built in 1866 — one of the only Japanese fortifications designed on European principles, with five angular bastions intended to eliminate blind spots in the defensive perimeter. The design, influenced by French military engineering, was advanced but came too late: it was completed only two years before the Boshin War battles that would make it famous as the last holdout of the old shogunate.

@@ -10,6 +10,7 @@ tags:
 sources:
   - https://en.wikipedia.org/wiki/Point_Danger_(Tweed_Heads)
   - https://en.wikipedia.org/wiki/Point_Danger_Light
+score: 7.4
 ---
 
 The rocky headland at the border of New South Wales and Queensland is one of the more interesting state lines in Australia — you can literally straddle two time zones here (Queensland does not observe daylight saving, so the border doubles as a time boundary for part of the year). James Cook named the point during his 1770 voyage after nearly running his ship aground on its reefs, and the lighthouse erected in his memory uses a laser beam rather than a conventional lens — a world first when installed in 1971. The views north over Coolangatta and south down the Tweed beaches are excellent, and the twin towns of Tweed Heads and Coolangatta spread below you as a single urban fabric that ignores the state boundary almost entirely.

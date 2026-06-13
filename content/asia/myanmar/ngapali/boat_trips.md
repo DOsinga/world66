@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.4200
 longitude: 94.3000
+score: 7.5
 ---
 
 The coast around Ngapali is scattered with small islands and fishing villages that make excellent half-day excursions by long-tail boat. Local boatmen can be hired directly from the beach — trips typically include a visit to a working fishing village, snorkelling at one or more of the offshore islands, and time on a quiet sandbar. The islands closest to Ngapali are uninhabited and ringed by shallow coral gardens.

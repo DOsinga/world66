@@ -8,6 +8,7 @@ latitude: 32.7675
 longitude: 22.6440
 sources:
   - https://en.wikipedia.org/wiki/Derna,_Libya
+score: 6.2
 ---
 
 Derna's harbour and seafront show the city's working Mediterranean side. Fishing boats, port activity and the open coast give a different feel from the tight wadi streets inland.

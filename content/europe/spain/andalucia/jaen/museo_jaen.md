@@ -8,6 +8,7 @@ tags:
   - museum
 story: "The museum's standout collection is the Iberian sculpture from the sanctuary of Cerrillo Blanco at Porcuna — life-sized warriors and animals carved in the 6th century BC, the most important corpus of Iberian Iron Age sculpture ever found."
 snippet: "Provincial museum holding the finest Iberian sculpture in Spain."
+score: 8.2
 ---
 
 The Museo de Jaén sits on the north side of the old town near the Plaza de las Batallas. Its archaeology department is one of the most important in Andalusia, with the entire ground floor given to the Iberian sculpture from Porcuna — a pre-Roman necropolis whose carved warriors and griffins are among the finest things of their kind anywhere.

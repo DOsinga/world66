@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Geothermal spa on the southern shore of Reykjavik, opened 2021, with a long infinity edge over the Atlantic
+score: 7.7
 ---
 
 A newer alternative to the Blue Lagoon, the Sky Lagoon sits on the rocky south coast of greater Reykjavik (technically just over the line in Kópavogur) and is a fifteen-minute drive from the centre. Its signature feature is a 70-metre infinity edge of warm geothermal water looking straight out over the Atlantic toward Snæfellsjökull on a clear day.

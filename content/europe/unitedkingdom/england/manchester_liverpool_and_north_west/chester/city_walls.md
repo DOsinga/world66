@@ -14,6 +14,7 @@ story: >
   Chester one of the few places in Britain where you can walk the route the Roman
   legionaries patrolled. The red sandstone from which most of the walls are built
   comes from local quarries and gives Chester its distinctive warm colour.
+score: 9.1
 ---
 
 The city walls of Chester form a near-complete circuit of roughly two miles, making them the most intact Roman and medieval walls in Britain. The walk takes about an hour at a comfortable pace, passing through a complete cross-section of Chester's history: Roman towers, medieval gates, Victorian renovations, and — on the north and east sections — sweeping views over the racecourse and the River Dee.

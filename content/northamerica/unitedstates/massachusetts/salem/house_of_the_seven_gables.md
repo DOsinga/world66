@@ -13,6 +13,7 @@ sources:
   - https://en.wikipedia.org/wiki/House_of_the_Seven_Gables
 story: >
   Nathaniel Hawthorne was born a short walk from here on Union Street, and used the Turner-Ingersoll mansion as the brooding setting for his 1851 novel. The family connection mattered: Hawthorne's cousin Susanna Ingersoll owned the house and inspired some of the book's characters. His actual birthplace has been moved to the grounds and can be visited as part of the tour.
+score: 8.8
 ---
 
 The Turner-Ingersoll Mansion — known universally as the House of the Seven Gables — is one of the best-preserved 17th-century houses in New England, built in 1668 and still standing on the Turner Street waterfront with its profile of steeply pitched rooflines essentially unchanged. Nathaniel Hawthorne was a regular visitor in the 1840s and used it as the inspiration and setting for his Gothic novel of guilt and inheritance; the mansion's fame in American literature has kept it immaculately preserved.

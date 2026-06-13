@@ -7,6 +7,7 @@ snippet: "Cliff-cut path beach south of Forio — quiet even in August"
 tags:
 - beaches
 - nature
+score: 7.9
 ---
 
 Spiaggia di Chiaia sits below the southern edge of Forio, cut off from the road above by a cliff face. The only way down is via a narrow path with steps cut into the rock — an approach that effectively limits the crowds. The beach is a mix of sand and smooth volcanic pebble, with clear water and good snorkelling along the rock faces on either side.

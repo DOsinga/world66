@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.0715
 longitude: 70.1302
+score: 5.8
 ---
 
 The Swaminarayan Temple is one of the most visited religious sites in Gandhidham, built by the BAPS Swaminarayan Sanstha for the Gujarati community that settled here after Partition. The temple follows the ornate carved stone style typical of BAPS buildings, with elaborate facades, white marble interiors, and a serene inner courtyard that offers respite from the noise of the surrounding streets.

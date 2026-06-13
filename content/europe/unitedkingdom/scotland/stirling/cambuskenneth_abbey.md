@@ -10,6 +10,7 @@ longitude: -3.9177
 snippet: The ruins of an Augustinian abbey in a meadow across the Forth, burial place of James III
 story: >
   James III was killed in 1488 at the nearby Battle of Sauchieburn, fighting against rebel nobles led by his own teenage son, the future James IV. The new king is supposed to have spent the rest of his life in mortified guilt, wearing an iron belt that he tightened by one link each year as penance. He buried his father at Cambuskenneth, which had been the king's favoured monastery, and built a tomb beside the high altar. The original tomb was destroyed at the Reformation; the present monument was put up by Queen Victoria in 1865 when the medieval graves were rediscovered during excavation.
+score: 7.3
 ---
 
 Cambuskenneth Abbey was founded in 1140 by David I as an Augustinian house, and grew into one of the wealthiest religious foundations in Scotland thanks to a string of royal grants and the agricultural land in the loop of the River Forth on which it sits. Robert the Bruce held a parliament here in 1326, and the abbey was a regular halt for the medieval Scottish court travelling between Edinburgh and Perth.

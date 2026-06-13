@@ -16,6 +16,7 @@ tags:
 - sight
 title: Glanum
 type: poi
+score: 8.8
 ---
 
 One of the most complete Hellenistic and Roman town sites in France, Glanum was founded by a Ligurian people around the 6th century BC and later developed into a prosperous Roman city. The excavated remains include temples, a forum, thermal baths, and private houses — all laid out in a clearly legible grid just outside the modern town. Allow a couple of hours; the audio guide adds considerably to the visit.

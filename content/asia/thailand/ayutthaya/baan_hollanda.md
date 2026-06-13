@@ -14,6 +14,7 @@ tags:
 - museum
 title: Baan Hollanda
 type: poi
+score: 6.6
 ---
 
 A small museum on the south bank of the Chao Phraya River marking the site of the Dutch East India Company's trading post, which operated from 1634 until 1765. Ayutthaya was a central node in the VOC's Asian trade network, and the Dutch presence here was one of the longest-running European establishments in Southeast Asia.

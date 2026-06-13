@@ -6,6 +6,7 @@ tags:
   - cycling
 latitude: 43.5870
 longitude: -79.7100
+score: 7.6
 ---
 
 The Culham Trail and the connected Credit River Heritage Trail run for around 25 km along the wooded valley of the Credit River, from Port Credit on Lake Ontario up to Streetsville and beyond. The route is mostly gravel and dirt, threading under maples and through a couple of small floodplain meadows.

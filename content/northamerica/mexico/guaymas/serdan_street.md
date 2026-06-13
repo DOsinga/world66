@@ -12,6 +12,7 @@ story: >
   with dome towers at each corner and thick fortress walls. 
   Built in the nineteenth century, it is one of the stranger pieces of architecture in northwestern Mexico, 
   a colonial fantasy dropped into a working port city.
+score: 7.2
 ---
 
 Serdan Street is the historic core of Guaymas, a stretch of nineteenth-century architecture that survived the city's industrial development largely intact. The old Municipal Palace, the Banco de México building, and the Church of San Fernando line the street with a mix of colonial and Porfirian-era styles that make for a surprisingly engaging architectural walk in what is otherwise a working port city.

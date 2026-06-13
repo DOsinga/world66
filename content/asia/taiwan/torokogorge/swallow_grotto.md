@@ -14,6 +14,7 @@ story: >
   gorge floor was at a higher level — remain, and are the most clearly visible
   example of how dramatically the Liwu River has cut down through the marble
   over millennia.
+score: 8.9
 ---
 
 Swallow Grotto (Yanzikou) is one of the most dramatic sections of the main Taroko Gorge highway — a stretch where the road is cut through the base of marble cliffs so narrow that the canyon walls nearly touch overhead. The potholed caves in the cliff face above the road were carved by the ancient river when it ran at a higher level; the river has cut down steadily as the land has risen, leaving these smooth-worn cavities far above the current water level.

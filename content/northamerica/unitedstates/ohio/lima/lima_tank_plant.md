@@ -8,6 +8,7 @@ latitude: 40.7699
 longitude: -84.0818
 story: >
   The Lima Army Tank Plant, officially the Joint Systems Manufacturing Center, is the sole facility in the United States that produces the M1 Abrams main battle tank. Built in 1941, it has operated continuously and supplied the US Army, Marine Corps, and numerous allied nations. Every Abrams tank in service today was built here.
+score: 4.8
 ---
 
 The Lima Army Tank Plant, officially designated the Joint Systems Manufacturing Center, is an active military production facility on the north side of Lima. Built in 1941 as part of the wartime industrial expansion, it is today the only plant in the United States that manufactures the M1 Abrams main battle tank.

@@ -8,6 +8,7 @@ title: Rajaji National Park
 type: poi
 story: >
   Rajaji National Park was named after the Indian independence leader C. Rajagopalachari (known as "Rajaji"), who was India's first native Governor-General. The park was created in 1983 by merging three older wildlife reserves — Rajaji, Motichur, and Chilla — and has a significant wild Asian elephant population that moves seasonally between the Shivalik foothills and the Gangetic plain.
+score: 7.3
 ---
 
 Rajaji National Park begins virtually at Rishikesh's southern doorstep, making it one of the most accessible wildlife sanctuaries in India from a major pilgrimage and tourist town. The park covers 820 sq km of the Shivalik hills between Haridwar and Dehradun, protecting mixed deciduous forest, grassland, and riverine habitat along the Ganges and its tributaries.

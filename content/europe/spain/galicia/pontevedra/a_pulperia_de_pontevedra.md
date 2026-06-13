@@ -7,6 +7,7 @@ tags:
 snippet: Classic Galician pulpería serving octopus the traditional way since the 1970s
 latitude: 42.4320
 longitude: -8.6440
+score: 6.4
 ---
 
 Galician octopus — pulpo á feira — is one of the great dishes of Spanish cuisine, and this small restaurant in the old town is among the most reliable places to eat it. The dish is simple: boiled octopus sliced onto a wooden board, dressed with olive oil, coarse salt, and smoked paprika, served with boiled potatoes and a glass of cold Albariño or local red.

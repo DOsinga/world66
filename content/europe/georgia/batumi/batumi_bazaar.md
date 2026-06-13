@@ -8,6 +8,7 @@ tags:
 - food
 title: Batumi Boulevard Bazaar
 type: poi
+score: 7.3
 ---
 
 The main Batumi bazaar (Boulevard Market) is a sprawl of covered halls and outdoor stalls inland from the south end of the boulevard. It is the city's working food market: smoked Adjaran cheese in big rounds, churchkhela strings (walnuts dipped in grape must, hanging like candles), fresh herbs, walnuts, dried fruit, honey, spices, and butchered meat.

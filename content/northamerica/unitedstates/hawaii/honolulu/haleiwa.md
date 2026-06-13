@@ -7,6 +7,7 @@ tags:
 - north_shore
 title: Haleiwa Town
 type: poi
+score: 7.0
 ---
 
 Haleiwa is the only actual town on Oahu's North Shore — a strip of old plantation-era storefronts now occupied by surf shops, coffee roasters, açaí bowl spots, art galleries, and the famous Matsumoto Shave Ice. It has managed to maintain something of its original character despite its popularity, partly because zoning protects the low-rise historic streetscape.

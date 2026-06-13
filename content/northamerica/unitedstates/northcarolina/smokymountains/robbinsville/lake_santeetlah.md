@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 35.3634
 longitude: -83.8892
+score: 7.5
 ---
 
 Lake Santeetlah is a 3,000-acre reservoir in the mountains north of Robbinsville, formed by Santeetlah Dam on the Cheoah River. It is one of the more beautiful of the many mountain lakes in this part of North Carolina — deep blue, ringed by forested ridges, and surprisingly uncrowded even in summer. Boating, fishing, kayaking, and swimming are the main activities.

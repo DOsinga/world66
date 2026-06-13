@@ -13,6 +13,7 @@ story: >
   Indiana that treats the state with affection and accuracy. Local residents still stop cyclists on
   Kirkwood Avenue who look like they might be training, convinced they are movie fans reenacting
   scenes from the film.
+score: 7.5
 ---
 
 The Little 500 is an annual 200-lap bicycle race held at IU's Bill Armstrong Stadium each April, modelled loosely on the Indianapolis 500. Teams of four riders take turns on their bikes — a single-gear bike with no brakes, racing on a quarter-mile cinder track — over the course of several hours. The race was made famous nationally by the 1979 film *Breaking Away*, which used the actual race footage and Bloomington locations.

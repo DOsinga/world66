@@ -8,6 +8,7 @@ longitude: 3.9751
 tags:
 - things_to_do
 - sight
+score: 7.2
 ---
 
 Nicolas Feuillatte is the public face of the Centre Vinicole de Chouilly, a cooperative of more than 4,500 grower families across Champagne. It is the third-largest brand in the region and the most-sold champagne in France itself, even if it is less famous abroad than Moet or Veuve Clicquot.

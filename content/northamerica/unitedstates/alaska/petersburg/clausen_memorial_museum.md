@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 56.8125
 longitude: -132.9553
+score: 7.8
 ---
 
 Petersburg's town museum sits in a modest building downtown but punches well above its weight for a community of 3,000 people. The collection covers Tlingit heritage, Norwegian immigration, and the commercial fishing industry that has sustained the town since its founding by Peter Buschmann in 1897. There are excellent artefacts from the early cannery era — gear, photographs, and company records from the days when Petersburg processed more salmon per cannery than anywhere else in Alaska.

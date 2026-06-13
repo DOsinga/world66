@@ -4,6 +4,7 @@ type: poi
 latitude: 32.8192
 longitude: 34.9947
 tags: [sight, religious]
+score: 5.9
 ---
 
 The Melkite Greek Catholic cathedral of Haifa, on the edge of Wadi Nisnas. The building dates from the late 1930s, with an interior of restrained Byzantine-style mosaics and icons.

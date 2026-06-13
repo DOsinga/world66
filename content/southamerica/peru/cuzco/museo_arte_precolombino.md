@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: -13.515
 longitude: -71.9775
+score: 8.4
 ---
 
 Cusco's best museum for pre-Columbian art, housed in a beautifully restored 15th-century Inca ceremonial courtyard near the Plaza de Armas. The collection — drawn from the Larco Museum in Lima — presents some 450 objects: gold and silver jewellery, ceramics, woodwork, and textiles spanning 3,000 years of Andean cultures from the Chavin through the Wari, Chimu, and Inca.

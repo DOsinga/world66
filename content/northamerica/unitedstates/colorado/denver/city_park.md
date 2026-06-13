@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, park]
 latitude: 39.7488
 longitude: -104.948
+score: 7.3
 ---
 
 Denver's largest urban park, 330 acres of lawns, two lakes, formal flowerbeds, and a Victorian bandshell. Ferril Lake, on the west side, is where most people come for the postcard view — the Capitol dome perfectly framed against the snowy Front Range, especially at sunset. Pedal boats are available in summer.

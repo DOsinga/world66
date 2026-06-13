@@ -8,6 +8,7 @@ tags:
   - shopping
   - market
 story: "Rissani's date market handles much of the eastern Moroccan trade in *medjool* and *bouhetema* dates, the latter sweeter and dearer. In a good year a single farmer from the Tafilalt can bring in fifty or sixty crates of dates by donkey on a Sunday morning, set up under a sheet, and sell out by lunchtime."
+score: 8.9
 ---
 
 The Rissani Souk runs three days a week — Sunday, Tuesday, and Thursday — and is one of the most genuine market experiences left in southern Morocco. It is not a tourist souk. The bulk of the trade is in dates, grain, livestock, and the second-hand goods that pass through the Tafilalt before they head out to other markets across the region. The animal market in the early morning — donkeys, sheep, the occasional camel — is the part of the souk most worth getting up early for.

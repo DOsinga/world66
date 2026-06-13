@@ -13,6 +13,7 @@ story: >
   270 before his death at around 99. His later masterpiece, the Selimiye Mosque in Edirne,
   surpasses it technically, but Süleymaniye has the better setting — perched above the Golden
   Horn on Istanbul's third hill, it dominates the skyline from almost everywhere in the old city.
+score: 9.3
 ---
 
 The Süleymaniye Mosque is Istanbul's largest mosque and, many would argue, its finest — superior to the Blue Mosque in every architectural respect except the number of minarets. Sinan built it in seven years for Suleiman the Magnificent, and the interior achieves what the Blue Mosque attempts: a vast, luminous space made coherent by a single great dome. The calligraphy and stained glass are exceptional; the air inside has a quality of stillness that the tourist-heavy Sultanahmet mosques have lost.

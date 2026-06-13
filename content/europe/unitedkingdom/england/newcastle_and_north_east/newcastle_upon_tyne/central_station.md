@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: John Dobson's curving 1850 train shed, one of Britain's finest stations
 story: Newcastle Central was opened by Queen Victoria in 1850 and was the first British railway station to use a curving cast-iron and glass train shed — a 200-metre arc that became the template for every great Victorian terminus that followed.
+score: 9.0
 ---
 
 Architecturally one of the great British railway stations. John Dobson's curving 200-metre train shed of 1850 was the first to use a curved roof structure of any size, and Thomas Prosser's portico and porte-cochère at the front provided the prototype for similar treatments at York and Manchester.

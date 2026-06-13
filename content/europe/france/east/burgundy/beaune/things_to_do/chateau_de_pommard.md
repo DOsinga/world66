@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.008
 longitude: 4.798
+score: 6.9
 ---
 
 Château de Pommard is the most visited wine estate in Burgundy, and its setting explains why: a handsome 18th-century château surrounded by the largest walled vineyard in the region — 20 hectares of Pinot Noir enclosed by a continuous stone wall, all within a single appellation. The *clos* system, where a wall defines the boundaries of a named vineyard, is a Burgundian tradition dating to the Cistercian monks, and Pommard is one of the clearest illustrations of it.

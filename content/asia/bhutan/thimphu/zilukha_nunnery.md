@@ -12,6 +12,7 @@ tags:
 - sight
 title: Zilukha Nunnery
 type: poi
+score: 7.0
 ---
 
 A working nunnery on the forested hillside above central Thimphu, reached by a steep trail from the Kawajangsa area. The complex is quieter than the more visited monasteries and offers a genuine sense of a community living by religious routine. The main chorten in the courtyard is an active focus of devotion. The views from the upper terraces take in the valley and the hills beyond the city. The walk up takes 20–30 minutes and passes through mature oak and pine forest.

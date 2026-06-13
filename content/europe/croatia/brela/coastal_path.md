@@ -7,6 +7,7 @@ tags:
   - walk
 latitude: 43.3635
 longitude: 16.9358
+score: 8.0
 ---
 
 A 45-minute paved promenade walk along the shore from Brela south to [Baška Voda](/europe/croatia/baka_voda). The path hugs the rocky coast for about three kilometres, dipping into small coves, passing under the pines, and giving views back along the line of Biokovo cliffs falling into the sea.

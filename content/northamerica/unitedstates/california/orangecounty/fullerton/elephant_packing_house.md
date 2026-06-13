@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.1
 ---
 
 The Elephant Packing House is a 1920s brick warehouse just south of downtown Fullerton, named for the Pacific Elephant Brand citrus label whose oranges were once sorted and packed here. After decades as a derelict industrial building, it was restored in 2011 and reopened as a small food and dining complex, with a brewery, a coffee shop, and several restaurants sharing the space.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.8358
 longitude: 11.6199
+score: 7.1
 ---
 
 The main square of Ferrara is one of the liveliest in Emilia-Romagna — not because of anything remarkable in its design, but because the Ferrarese actually use it. The cathedral's Romanesque facade closes the eastern end; the Palazzo Municipale, with its bronze Este statues, faces it from the west; and the cafés that line the square fill with cyclists and pedestrians throughout the day.

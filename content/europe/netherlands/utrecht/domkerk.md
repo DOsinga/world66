@@ -10,6 +10,7 @@ tags:
 - sight
 title: Domkerk
 type: poi
+score: 8.2
 ---
 
 The Gothic cathedral beside the Dom Tower. After the storm of 1674 destroyed the nave, only the choir and transepts remained — they are what you visit today. Free to enter, with occasional lunchtime concerts.

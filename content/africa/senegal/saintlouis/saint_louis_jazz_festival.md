@@ -13,6 +13,7 @@ story: >
   deserved an international jazz festival. They were right. Within a decade it had become
   one of the most important music events on the continent, attracting artists from across
   Africa, Europe, and North America to play on stages set up in the island streets.
+score: 9.4
 ---
 
 The Saint-Louis International Jazz Festival has been held every May since 1993, and it has transformed the city into one of West Africa's great musical destinations for a week each year. The festival takes over the island of N'Dar — stages appear in squares, on hotel terraces, and in the streets themselves, and the normally quiet colonial grid fills with musicians, audiences, and an atmosphere that is genuinely unlike anything else in the region.

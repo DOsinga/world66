@@ -8,6 +8,7 @@ tags:
   - temple
 latitude: 5.8600
 longitude: -55.1700
+score: 6.8
 ---
 
 The Shri Vishnu Mandir is one of the principal Hindu temples in Paramaribo, serving the large Hindustani community that makes up around a quarter of Suriname's population. The Hindustani arrived as indentured labourers from India after the abolition of slavery, and they brought their religious traditions intact. The temple is active and holds regular puja services.

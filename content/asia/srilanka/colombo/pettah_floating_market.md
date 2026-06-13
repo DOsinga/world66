@@ -9,6 +9,7 @@ tags:
 title: Pettah Floating Market
 type: poi
 neighbourhood: Pettah
+score: 5.8
 ---
 
 The Pettah Floating Market occupies 92 stalls along Bastian Mawatha on the northern edge of Beira Lake, with some stalls literally on boats and the rest overhanging the water. It was developed in 2015 on a former industrial canal area and is liveliest in the evenings and on weekends. The stalls sell a mix of street food, handicrafts, and souvenirs — not exclusively floating, and not exclusively Pettah produce, but an enjoyable place to eat street food with water views.

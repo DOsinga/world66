@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 0.5546
 longitude: 97.8222
+score: 5.2
 ---
 
 Teluk Dalam is a small port town on the south coast — the administrative centre of South Nias regency and the practical base for visiting the traditional villages and the surf at Lagundri. The town itself is not picturesque: a single main street with shops, a market, a bank with an ATM, and a row of cheap warungs.

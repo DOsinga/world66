@@ -11,6 +11,7 @@ story: >
   Eastbourne Pier has burned down twice — in 1917 and again in 2014, when fire destroyed the Victorian domed pavilion at its head. The second fire was watched by hundreds of people from the promenade. The pier was rebuilt and reopened within two years, which says something about the English relationship to seaside piers: they are understood to be irreplaceable parts of the townscape, whatever their aesthetic merits.
 sources:
   - https://en.wikipedia.org/wiki/Eastbourne_Pier
+score: 7.1
 ---
 
 Eastbourne Pier stretches 300 metres into the English Channel from the town's seafront, a structure of iron and wood built in 1870 and rebuilt several times since. It has the full complement of Victorian pier attractions: amusement arcades, a bar, fish and chips, ice cream, and a camera obscura in the dome at the end. The pier is more pleasantly intact than many English seaside piers — neither too shabby nor too commercialised.

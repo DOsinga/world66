@@ -7,6 +7,7 @@ tags:
 latitude: 37.636
 longitude: -122.418
 snippet: A regional shopping mall on the site of the historic Tanforan Racetrack and Japanese-American assembly centre
+score: 5.2
 ---
 
 The Shops at Tanforan is a mid-sized regional mall whose interest is almost entirely historical. The site was Tanforan Racetrack from 1899 to 1964, a major thoroughbred venue where Seabiscuit, the small underdog horse that became a national symbol during the Depression, raced and trained. Photographs from the racing era hang in the mall corridors.

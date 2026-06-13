@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.4120
 longitude: -99.4051
+score: 7.0
 ---
 
 The Anadarko Basin Museum of Natural History covers the geology and paleontology of the Anadarko Basin, one of the deepest sedimentary basins in North America and the source of most of the oil and natural gas that has driven western Oklahoma's economy for a century. The basin reaches depths of over 40,000 feet, and the fossil record preserved in its layers spans hundreds of millions of years.

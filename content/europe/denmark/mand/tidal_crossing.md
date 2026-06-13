@@ -11,6 +11,7 @@ story: >
   and has been maintained — and regularly overwashed — ever since. The tidal
   schedule that governs access to Mandø is published on the island's website and
   by the tourist board. Miss the window and you are spending the night.
+score: 8.9
 ---
 
 The causeway crossing to Mandø is the defining experience of a visit. The Låningsvejen is a 4-kilometre unpaved track across the Wadden Sea tidal flats that is passable by car only at low tide — roughly two windows of a few hours each day. At high tide it disappears entirely beneath 1–2 metres of seawater.

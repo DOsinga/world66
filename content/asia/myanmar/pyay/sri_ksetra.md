@@ -9,6 +9,7 @@ tags:
 title: Sri Ksetra
 type: poi
 story: "Sri Ksetra was the southernmost of three Pyu city-states that dominated central Myanmar from the first to the ninth century. Their cities were ringed by enormous circular brick walls — Sri Ksetra's enclose nearly 14 square kilometres, larger than any walled city in Southeast Asia — and the Pyu wrote their language in a script that is still only partly deciphered."
+score: 9.2
 ---
 
 Sri Ksetra, eight kilometres east of Pyay near the modern village of Hmawza, was the capital of the Pyu civilisation between the fifth and ninth centuries. Inscribed by UNESCO in 2014 along with two other Pyu cities, it is one of Southeast Asia's most important and least visited archaeological sites — vast, scattered, and remarkable for the early date of its brick monuments.

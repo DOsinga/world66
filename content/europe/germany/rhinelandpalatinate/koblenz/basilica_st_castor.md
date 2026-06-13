@@ -8,6 +8,7 @@ tags:
 latitude: 50.3622
 longitude: 7.6044
 story: "The Treaty of Verdun in 843, which divided the Carolingian empire among the three grandsons of Charlemagne and effectively created France and Germany, was negotiated in the building that stood on this site. A plaque inside the basilica notes the fact."
+score: 8.3
 ---
 
 The oldest church in Koblenz, founded in 836 by Archbishop Hetti of Trier on the bank of the Moselle close to the Deutsches Eck. The current building is a powerful piece of late Romanesque architecture — four-towered, with a single rose window above the main door and a single-nave interior that has been almost wholly preserved.

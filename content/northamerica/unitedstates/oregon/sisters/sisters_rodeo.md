@@ -12,6 +12,7 @@ tags:
 - event
 title: Sisters Rodeo Grounds
 type: poi
+score: 5.9
 ---
 
 The Sisters Rodeo Grounds, southeast of town off Highway 20, host the annual Sisters Rodeo — a four-day PRCA professional rodeo in early June with all the standard events: bull riding, bareback bronc, saddle bronc, team roping, barrel racing, steer wrestling. It has been running since 1940 and is one of the longer-established rodeos in the Pacific Northwest. Tickets sell out and accommodation books up months in advance.

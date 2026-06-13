@@ -9,6 +9,7 @@ latitude: 27.0406
 longitude: -80.1136
 sources:
   - https://en.wikipedia.org/wiki/Hobe_Sound_National_Wildlife_Refuge
+score: 7.2
 ---
 
 Hobe Sound National Wildlife Refuge protects two distinct parcels on Jupiter Island: a stretch of Atlantic beach that is one of the most important sea turtle nesting sites on the east coast of Florida, and a tract of sand pine scrub on the mainland. The beach unit — about 3.5 miles of undeveloped Atlantic shoreline — is managed primarily for loggerhead, leatherhead, and green sea turtle nesting between May and October. The scrub unit protects a habitat type that has become rare in Florida, home to the threatened Florida scrub-jay, gopher tortoises, and Florida pine snakes.

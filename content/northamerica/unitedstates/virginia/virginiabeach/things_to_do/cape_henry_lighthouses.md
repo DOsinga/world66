@@ -1,6 +1,7 @@
 ---
 title: "Cape Henry Lighthouses"
 type: poi
+score: 8.0
 ---
 
 The Cape Henry Lighthouse, completed in 1792, was the first federal construction project authorized by the United States Congress under the new Constitution — a fact that gives this octagonal sandstone tower a significance out of proportion to its modest size. It marks the entrance to the Chesapeake Bay at the point where the Atlantic converges with the bay, one of the most strategically important navigational positions on the East Coast. The lighthouse was decommissioned in 1881 when the adjacent Cape Henry II lighthouse, a taller cast-iron structure, took over active duty. Both lighthouses stand today, and on clear days the view from the top of the old lighthouse encompasses the bay entrance, the resort strip, and the Atlantic horizon.

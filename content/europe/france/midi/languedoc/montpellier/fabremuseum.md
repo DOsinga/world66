@@ -8,6 +8,7 @@ tags:
 - museum
 title: Fabre Museum
 type: poi
+score: 8.8
 ---
 
 One of France's most important art museums outside Paris, founded in 1825 by the Montpellier-born painter François-Xavier Fabre. The collection spans European painting from the 16th century to the present, with notable works by Zurbaran, Reynolds, Veronese, Greuze, Ingres, Delacroix, and Courbet. A highlight is the extensive collection of paintings by Frédéric Bazille, the Impressionist born in Montpellier who died young in the Franco-Prussian War.

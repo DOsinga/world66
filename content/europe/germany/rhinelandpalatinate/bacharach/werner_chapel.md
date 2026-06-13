@@ -15,6 +15,7 @@ story: >
   the structure, leaving the Gothic tracery open to the sky.
 sources:
   - https://en.wikipedia.org/wiki/Bacharach
+score: 8.4
 ---
 
 The Werner Chapel stands on the hillside between the town and Stahleck Castle — a roofless Gothic shell with delicate tracery windows still intact after 700 years of exposure. The red sandstone has weathered to a deep rust, and the arches frame views of vineyard slopes and the Rhine below. It is not a major monument by any European standard, but in context — tucked into the terraced hillside, half-hidden by vines — it is one of the most evocative ruins on the river. The path up from the town takes about ten minutes.

@@ -8,6 +8,7 @@ tags:
 latitude: 51.3398
 longitude: 12.3757
 snippet: Free museum on postwar German history, covering the GDR and the 1989 revolution
+score: 8.8
 ---
 
 The Zeitgeschichtliches Forum (Forum of Contemporary History) is a free museum on Augustusplatz covering German history from 1945 to the present, with a particular focus on life in the GDR and the events of 1989. It is run by the federal German government and is genuinely excellent — not a dry archive but a thoughtfully designed exhibition with strong original objects, film footage, and personal testimonies.

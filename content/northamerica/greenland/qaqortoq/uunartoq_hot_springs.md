@@ -7,6 +7,7 @@ tags:
 latitude: 60.47222
 longitude: -45.42500
 story: "The name Uunartoq means 'the warm one' in Greenlandic — a name given by Inuit people who used these springs long before European contact. The pools maintain a temperature of around 35–38°C year-round regardless of outside conditions. In winter, when the air temperature can drop to minus twenty and icebergs crowd the surrounding fjord, the hot spring is not merely pleasant — it is a small miracle."
+score: 8.7
 ---
 
 Uunartoq is a small island about 70km southwest of Qaqortoq with a remarkable natural gift: hot springs that maintain a temperature warm enough for bathing throughout the year. Several pools have been developed with simple wooden boardwalks and changing facilities, and the experience of soaking in 38°C water while icebergs drift past in the surrounding fjord is genuinely one of the most otherworldly things you can do in Greenland.

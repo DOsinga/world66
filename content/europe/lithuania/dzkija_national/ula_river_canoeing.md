@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 54.0600
 longitude: 24.3200
 snippet: "Classic multi-day canoe route through old-growth forest with riverside camping"
+score: 8.7
 ---
 
 The Ūla River is the most popular canoe route in Dzūkija National Park, flowing south through deep pine forest with occasional sandy beaches where the current widens. The standard route runs from Zervynos downstream to Marcinkonys, a two-to-three day journey depending on pace, with riverside camping spots designated along the way.

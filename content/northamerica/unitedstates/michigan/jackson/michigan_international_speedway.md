@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "Two-mile NASCAR superspeedway in the Irish Hills south of Jackson"
 story: "MIS is one of the fastest tracks on the NASCAR calendar — cars regularly run qualifying laps above 200 mph. The track was designed by Charles Moneypenny, the same engineer who laid out Daytona, and the two have similar high-banked geometry."
+score: 5.8
 ---
 
 The Michigan International Speedway sits in the rolling Irish Hills country about 25 miles south of Jackson, at the village of Brooklyn. The track is a two-mile D-shaped oval with 18-degree banked turns and a wide racing surface that produces consistently high speeds.

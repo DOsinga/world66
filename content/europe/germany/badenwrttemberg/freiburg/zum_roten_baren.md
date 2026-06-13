@@ -8,6 +8,7 @@ snippet: "Reputedly Germany's oldest inn, serving classic Badisch food"
 latitude: 47.99312
 longitude: 7.85741
 story: "The Roter Bären has documented continuous service as an inn since 1387, which the owners — and the Guinness Book of Records — say makes it the oldest in Germany. The cellars beneath are older still, dating to the original Zähringen city wall of around 1120."
+score: 7.3
 ---
 
 The Zum Roten Bären sits at the foot of the Schwabentor and claims to be the oldest inn in Germany, with documented service going back to 1387. Whether or not the record is exactly right, the building has been receiving guests for over six centuries, and the cellars are older.

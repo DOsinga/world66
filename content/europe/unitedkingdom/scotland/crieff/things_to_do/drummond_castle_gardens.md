@@ -1,6 +1,7 @@
 ---
 title: "Drummond Castle Gardens"
 type: poi
+score: 8.5
 ---
 
 Drummond Castle stands on a rocky outcrop about three miles south of Crieff, and while the castle itself is private and not open to visitors, the terraced gardens below are among the most impressive in Scotland. The formal gardens were originally laid out in the seventeenth century and redesigned in the nineteenth in an Italian style, cascading down the hillside on a series of terraces with long parterres and clipped topiary.

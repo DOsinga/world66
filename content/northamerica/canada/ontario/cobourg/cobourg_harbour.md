@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.9560
 longitude: -78.1639
+score: 6.8
 ---
 
 The harbour east of the beach is Cobourg's other waterfront face. Two breakwaters enclose a sheltered basin holding the town marina, the yacht club, and a small fleet of charter and pleasure boats. A paved promenade circles the basin and continues out along the east breakwater — a fifteen-minute walk one way, with a long view of the town from the lake side and pelicans, gulls, and the occasional cormorant on the rocks.

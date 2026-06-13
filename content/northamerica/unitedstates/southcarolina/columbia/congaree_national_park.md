@@ -12,6 +12,7 @@ story: >
   The park protects the largest intact old-growth bottomland hardwood forest remaining in North America. The trees here escaped logging because the land was too wet and flood-prone to harvest profitably — periodic flooding from the Congaree River is what shaped the forest, and the same floods that defeated loggers continue to reset the ecosystem today. After a major flood, the forest floor is carpeted with aquatic life stranded as the water recedes.
 sources:
   - https://en.wikipedia.org/wiki/Congaree_National_Park
+score: 9.2
 ---
 
 Congaree National Park, about 20 miles southeast of downtown Columbia, protects an extraordinary expanse of old-growth floodplain forest. The champion trees here — bald cypresses, tupelo gums, loblolly pines — are among the tallest in the eastern United States, towering over a swampy forest floor that floods several times a year. The effect, especially in morning mist, is prehistoric.

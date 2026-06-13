@@ -10,6 +10,7 @@ tags:
 - sight
 - architecture
 story: "Bourges Cathedral was begun in 1195 and largely complete by 1230 — a remarkably short span for a building this size. It has no transepts: instead the architects pushed the nave directly outwards through five aisles, creating a pyramid-shaped interior that funnels the light from the upper windows down to floor level."
+score: 9.8
 ---
 
 A UNESCO World Heritage Site and one of the great Gothic cathedrals of France. The west facade is unique — five portals instead of the usual three — and the 13th-century stained glass windows are among the finest in the country, rivaling those of [Chartres](/europe/france/centre/chartres). The unusual interior, with double aisles and no transept, gives the cathedral a sense of vertiginous height and light that few other medieval buildings match.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.25527777777778
 longitude: -81.18833333333333
+score: 6.8
 ---
 
 The York-Chester neighbourhood is one of Gastonia's best-preserved early residential areas, developed in the early decades of the 20th century when the mill economy was bringing prosperity to the city's professional and managerial classes. The streets are lined with substantial Craftsman bungalows, Colonial Revival houses, and a handful of larger Classical Revival homes from the 1910s and 1920s, many in excellent condition.

@@ -1,6 +1,7 @@
 ---
 title: "Shaw Ocean Discovery Centre"
 type: poi
+score: 7.1
 ---
 
 The Shaw Ocean Discovery Centre is a public aquarium on the Sidney waterfront focused entirely on the marine environment of the local Salish Sea — the inland sea that includes the Strait of Georgia, Puget Sound, and the Strait of Juan de Fuca. Rather than importing exotic tropical species, the centre displays the animals and ecosystems that exist immediately offshore: giant Pacific octopus, wolf eels, lingcod, moon jellies, sea stars, and the various invertebrates of the rocky intertidal zone.

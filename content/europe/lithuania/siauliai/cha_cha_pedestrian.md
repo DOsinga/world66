@@ -6,6 +6,7 @@ longitude: 23.3157
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 Vilniaus gatvė is Šiauliai's main pedestrian thoroughfare, one of the first such streets created in the Soviet Union when it was closed to traffic in 1975. It runs roughly east to west through the centre, lined with cafes, bookshops, the bicycle and photography museums, and a series of small public sculptures.

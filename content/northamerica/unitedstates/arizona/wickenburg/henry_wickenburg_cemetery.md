@@ -12,6 +12,7 @@ story: >
   Grove Dam burst and destroyed his ranch. He had already given most of his
   remaining land to the town he founded. The grave is simple, with a small
   marker.
+score: 6.5
 ---
 
 The small pioneer cemetery off Tegner Street holds the graves of Wickenburg's founders and earliest settlers, including Henry Wickenburg himself. It's a tucked-away spot that most visitors miss, and more affecting than you'd expect — the graves tell the compressed story of a gold rush town, with clustered deaths in hard years and epitaphs that are often plain and specific.

@@ -7,6 +7,7 @@ tags:
 title: Val de Bagnes
 type: poi
 snippet: 30 km alpine valley running up to the Mauvoisin dam
+score: 8.0
 ---
 
 The valley below Verbier reaches 30 km up to the giant Mauvoisin dam at the head of the Mauvoisin basin — at 250 metres one of the tallest arch dams in the world. The road up the valley passes through the village of Fionnay and ends at a small mountain hotel just below the dam wall.

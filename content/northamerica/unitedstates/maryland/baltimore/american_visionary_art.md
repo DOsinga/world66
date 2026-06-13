@@ -14,6 +14,7 @@ story: >
   attention. The building itself is partly decorated by the late "Whirligig Man," a
   local visionary artist named Vollis Simpson, whose enormous wind-powered kinetic
   sculptures still spin outside.
+score: 8.8
 ---
 
 The American Visionary Art Museum is unlike any other museum in the United States. It collects, preserves, and celebrates the work of self-taught artists — people who made art outside any tradition, training, or institutional framework. The results are extraordinary, disturbing, funny, and occasionally transcendent.

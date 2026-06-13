@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 45.3164
 longitude: 13.5948
+score: 7.2
 ---
 
 The Mirna river — the largest in Istria — meets the sea immediately south of Novigrad, its estuary widening into shallow lagoons before reaching the Adriatic. The valley inland is the heart of Istria's truffle and wine country, and the road that follows it east takes you straight to [Motovun](/europe/croatia/motovun) and the truffle forests.

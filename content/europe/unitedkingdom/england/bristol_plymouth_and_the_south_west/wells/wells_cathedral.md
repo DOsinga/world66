@@ -9,6 +9,7 @@ latitude: 51.2101
 longitude: -2.6471
 story: >
   The famous scissor arches inside Wells Cathedral were an engineering emergency. When the central tower began sinking under its own weight in the 1330s, master mason William Joy inserted two pairs of inverted arches at the crossing — creating an X shape that looks deliberate but was pure structural improvisation. They worked. The tower has stood without incident ever since.
+score: 9.4
 ---
 
 Wells Cathedral is one of the great buildings of medieval England. Construction began in 1175 and the west facade — completed around 1240 — remains the most spectacular part: a vast stone screen carrying nearly 300 carved figures, kings, saints, angels, and biblical scenes arranged in rows from ground to gable. Many statues still carry traces of original paint.

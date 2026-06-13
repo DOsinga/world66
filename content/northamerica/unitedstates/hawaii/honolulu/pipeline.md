@@ -9,6 +9,7 @@ tags:
 title: Banzai Pipeline
 type: poi
 story: "The Pipeline break forms because a shallow, flat coral reef sits just 3 to 5 metres below the surface. As a swell hits the reef, it throws forward into a hollow tube wave so perfect and so dangerous that for many years professionals refused to surf it. The wave was first ridden in 1961 by Phil Edwards, but its reputation was built by the Hawaii surfers who developed the technique of riding inside the tube — the defining image of modern surfing."
+score: 8.7
 ---
 
 The Banzai Pipeline, at Ehukai Beach Park on Oahu's North Shore, is the most celebrated surf break in the world. In winter (November through February), northwest Pacific swells produce hollow, barrelling waves of 3 to 7 metres, and the world's best surfers compete here for the Pipeline Masters, the most prestigious event on the professional circuit.

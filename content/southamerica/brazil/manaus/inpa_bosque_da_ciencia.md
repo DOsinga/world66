@@ -9,6 +9,7 @@ latitude: -3.09577
 longitude: -59.98975
 story: >
   The Instituto Nacional de Pesquisas da Amazônia (INPA), founded in 1952, is the country's main scientific institution for Amazon research. Its Bosque da Ciência opens 13 hectares of campus to the public so that visitors can see manatees, otters, electric eels and giant Amazonian fish without leaving the city.
+score: 8.3
 ---
 
 The Bosque da Ciência is the easiest way to see Amazonian wildlife in Manaus. A network of shaded trails winds through a remnant of urban rainforest at the INPA campus in the north of the city, past pools holding rescued manatees, an enclosure of giant otters, a Victoria water-lily tank, monkeys and sloths in the trees overhead, and tanks of pirarucu and electric eels.

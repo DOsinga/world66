@@ -7,6 +7,7 @@ tags:
 latitude: 11.9341
 longitude: 79.8313
 story: "The French colonial administration painted all government buildings in mustard yellow, which still defines the White Town streetscape today. Streets here carry both French names — Rue Dumas, Rue Suffren — and Tamil names that only locals use, creating a kind of double geography."
+score: 9.0
 ---
 
 The French Quarter — locally called White Town — occupies the eastern edge of Pondicherry between the canal and the seafront. The urban grid here is unmistakably French: wide streets planted with rain trees, shuttered colonial villas painted in shades of ochre and cream, and a conspicuous absence of the chaos that characterises most Indian cities of this size.

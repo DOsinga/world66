@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.1845
 longitude: 29.0573
+score: 8.1
 ---
 
 Bursa has some of the finest thermal baths in Turkey. The city sits above hot springs that have been in use since antiquity — the Romans, Byzantines, and Ottomans all built bath complexes here, and several of the original Ottoman hamamlar are still in operation. The most famous is the **Eski Kaplıca** (Old Hot Spring) in the Çekirge district, which dates to the 14th century and uses a Byzantine structure as its foundation.

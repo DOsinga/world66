@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - monument
+score: 8.2
 ---
 
 The bronze equestrian statue south of St. Michael's Church shows Matthias Corvinus — Renaissance king of Hungary, born in Cluj in 1443 — receiving captured banners from his enemies. Sculptor János Fadrusz finished the monument in 1902, and it is considered one of the finest equestrian statues in Europe.

@@ -11,6 +11,7 @@ tags:
 - restaurant
 - bar
 - victoria_island
+score: 6.3
 ---
 
 Bottles is a Victoria Island institution — a cavernous open-air courtyard with plastic tables, cold beer, suya, grilled snapper, and a menu that wanders inexplicably between Mexican (fajitas, quesadillas) and Nigerian. None of it matters much. People come for the atmosphere, the steady supply of cold Star and Goldberg, and the live band on weekends. The car park outside is its own scene.

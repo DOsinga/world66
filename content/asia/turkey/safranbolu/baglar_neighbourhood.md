@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 41.2450
 longitude: 32.6920
+score: 7.5
 ---
 
 Bağlar ("Vineyards") is the upper residential district of Safranbolu, where the wealthier Ottoman families built their summer mansions on a plateau above the valley floor. The houses here are larger and more spread out than in the crowded old bazaar neighbourhood, set among gardens and orchards, with many still inhabited as private homes rather than converted into hotels or museums.

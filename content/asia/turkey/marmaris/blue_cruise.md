@@ -8,6 +8,7 @@ tags:
   - activity
   - sailing
 story: "The Blue Cruise tradition started with the writer Cevat Şakir Kabaağaçlı — known by his pen-name 'The Fisherman of Halicarnassus' — who was exiled to Bodrum in the 1920s and spent his time sailing the empty coast in a small wooden boat. His writings turned a once-poor sponge-fishing trade into a national pastime, and the wooden gulets you now charter are descendants of his boats."
+score: 9.3
 ---
 
 The defining experience of this stretch of Turkish coast: a multi-day cruise on a traditional wooden gulet, sleeping on deck under the stars, swimming off the back of the boat in coves you cannot reach by road, and eating fresh fish at lunch in unspoiled bays. Standard routes from Marmaris run west along the Datça peninsula and into the Hisarönü gulf, or east towards Fethiye and the Twelve Islands.

@@ -6,6 +6,7 @@ tags:
   - museum
 title: Peral Submarine
 type: poi
+score: 7.7
 ---
 
 The Peral Submarine is Cartagena's great engineering curiosity. Designed by Isaac Peral in the 1880s, it was one of the earliest practical electric-powered submarines and is now displayed as part of the naval museum complex.

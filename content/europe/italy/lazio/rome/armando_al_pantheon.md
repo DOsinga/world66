@@ -13,6 +13,7 @@ tags:
 - restaurant
 title: Armando al Pantheon
 type: poi
+score: 8.0
 ---
 
 A family-run Roman trattoria thirty steps from the Pantheon, open since 1961. One of the most respected lunch spots in the centro storico — the cacio e pepe, artichokes alla giudia, and coda alla vaccinara are done with the kind of care that only comes from decades of repetition. The dining room is small and the tables are close; the atmosphere is unhurried.

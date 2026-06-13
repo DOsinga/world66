@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - religious
+score: 6.8
 ---
 
 The Abdullah Bin Abbas Mosque sits on the supposed site of the grave of Abdullah ibn Abbas, the cousin of the Prophet Muhammad and one of the most important early Islamic scholars. The original building was small; the present mosque is a recent reconstruction with a large white facade, a single minaret, and capacity for thousands of worshippers.

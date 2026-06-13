@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 51.1762
 longitude: -115.5698
+score: 6.9
 ---
 
 One of Banff's most consistently acclaimed restaurants, occupying a two-storey room on Banff Avenue with exposed timber and a long bar stocked with Canadian whisky. The menu is built around Canadian and Albertan produce: Alberta beef tenderloin, Rocky Mountain game including elk and bison, local trout and char, and seasonal ingredients foraged or sourced regionally. The wine list leans toward BC and Ontario bottles with some international options.

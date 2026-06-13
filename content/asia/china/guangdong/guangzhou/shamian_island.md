@@ -10,6 +10,7 @@ longitude: 113.2456
 snippet: "19th-century European concession island with shaded colonial architecture"
 story: >
   After the Second Opium War (1856–1860), the British and French were granted a sandbank in the Pearl River for their own use. They walled it off from the surrounding Chinese city with two bridges (one for each nation), dredged the banks, and built a compact European town. The walls are gone but the island's character has barely changed in 160 years.
+score: 8.9
 ---
 
 Shamian Island is a narrow sandbank in the Pearl River in the western part of the old city, connected to the mainland by two small bridges. In the 19th century it was the British and French concession — a walled foreign enclave in what was then one of the world's busiest trading ports. The original colonial buildings are almost entirely intact: wide-verandahed banks, a French Catholic church, consular buildings with arched colonnades, and tree-lined avenues whose shade makes them pleasant even in summer.

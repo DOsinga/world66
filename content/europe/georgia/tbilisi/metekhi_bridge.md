@@ -7,6 +7,7 @@ tags:
 - sight
 title: Metekhi Bridge
 type: poi
+score: 6.7
 ---
 
 The Metekhi Bridge crosses the Mtkvari River between the old town and the Avlabari district and offers one of the best stationary views in Tbilisi: looking back west from the bridge, you see Metekhi Church on its cliff to the right, Narikala Fortress on the ridge above it, and the densely packed houses of old Kala in between. It is the classic postcard view of the old city.

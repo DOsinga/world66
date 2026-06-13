@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.2252
 longitude: -80.8437
+score: 8.1
 ---
 
 The Mint Museum Uptown occupies a striking building at 500 South Tryon Street, designed by Gwathmey Siegel and opened in 2010. It is the larger of the two Mint Museum locations in Charlotte, focusing on American and contemporary art, craft and design, and fashion. The permanent collection includes significant holdings in American studio ceramics, art glass, and textile works, making it one of the better craft and design museums in the Southeast.

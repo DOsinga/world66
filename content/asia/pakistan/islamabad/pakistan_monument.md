@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 story: "The four large petals each represent one of the four provinces — Punjab, Khyber Pakhtunkhwa, Sindh and Balochistan. The three small petals stand for Azad Kashmir, Gilgit-Baltistan and the federal territories. The interior of every petal is engraved with scenes from Pakistan's freedom movement and Mughal-era architecture."
+score: 8.2
 ---
 
 The Pakistan Monument crowns the Shakarparian hills in central Islamabad — a blossoming concrete flower with four large and three small petals, each engraved on the inside with scenes from the country's history. It was designed by Arif Masood, the winner of a national competition, and completed in 2007.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Kitano Tenmangū
 type: poi
+score: 7.5
 ---
 
 Kitano Tenmangū was founded in 947 to placate the angry spirit of the ninth-century court scholar Sugawara no Michizane, who had died in exile a few decades earlier; a series of natural disasters and outbreaks of plague had been attributed to his vengeance from beyond the grave. Once enshrined, the same Michizane gradually became *Tenjin*, the deity of scholarship and learning, and the shrine became a national pilgrimage destination for students and academics — most modern visitors are still here for some examination-related prayer.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.3556
 longitude: 7.6020
+score: 7.8
 ---
 
 The last Archbishop and Elector of Trier, Clemens Wenceslaus, commissioned this riverside palace in 1777 as a more comfortable residence than Ehrenbreitstein across the water. He had barely moved in when Napoleon's troops arrived in 1794 and turned it into a barracks; it has been an administrative building, a Prussian royal residence, and a Wehrmacht headquarters since.

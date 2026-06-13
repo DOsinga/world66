@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 46.2031
 longitude: -123.3832
+score: 6.4
 ---
 
 Cathlamet sits on a bluff above the Columbia River, and the views from the upper streets look south across the water to Oregon. This stretch of the Columbia — wide, slow, and flanked by forested hills — is one of the quieter sections of the river, well upstream from the industrial port traffic around Astoria and the Interstate 5 bridge.

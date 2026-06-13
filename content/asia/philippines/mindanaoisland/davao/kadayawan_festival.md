@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 7.0648
 longitude: 125.6090
+score: 8.9
 ---
 
 Kadayawan is Davao's biggest annual festival, held every August to celebrate the city's harvests and the cultural heritage of its indigenous communities. The Bagobo, Manobo, Mandaya, B'laan, and other Lumad groups participate with traditional dances, costumes, and ceremonies, alongside the elaborate floral floats that fill Davao's streets in the main parade.

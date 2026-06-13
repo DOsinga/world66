@@ -1,6 +1,7 @@
 ---
 title: "Hitotsubashi University campus"
 type: poi
+score: 7.7
 ---
 
 Hitotsubashi University occupies the southern end of Daigaku-dori and is one of Japan's most prestigious national universities, specialising in social sciences, economics, and law. The campus is compact and pleasant to walk through — several of the older buildings date from the Meiji and Taisho eras, in a restrained Western institutional style, and are set among mature woodland that feels genuinely quiet even close to Tokyo.

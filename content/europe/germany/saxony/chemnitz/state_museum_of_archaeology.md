@@ -9,6 +9,7 @@ longitude: 12.925186
 snippet: One of the best archaeology collections in Saxony, housed in a converted Art Nouveau department store
 story: >
   The building itself is as remarkable as what's inside it. The Schocken department store was designed by Erich Mendelsohn in 1930 — a streamlined Modernist masterpiece of curved glass and horizontal banding. It was a Jewish-owned business, seized by the Nazis and repurposed. After decades as a workers' department store and then near-dereliction, the building was gutted and rebuilt to house the state's archaeology collection, which opened here in 2014.
+score: 8.5
 ---
 
 The permanent collection covers 300,000 years of human presence in Saxony, from Palaeolithic tools through the Bronze Age, the Slavic medieval period, and into early modern times. The prehistoric material is especially strong, with well-labelled displays that don't talk down to visitors. The Saxon bog finds — preserved organic materials that rarely survive in dry sites — are among the highlights.

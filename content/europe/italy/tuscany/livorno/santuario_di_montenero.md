@@ -7,6 +7,7 @@ tags:
 latitude: 43.5131
 longitude: 10.3373
 story: "The ex-voto gallery inside the Santuario di Montenero contains over 700 painted images of near-death experiences — ships in storms, carriages overturned, falls from buildings — left by sailors, merchants, and travelers who believed they had been saved by the Madonna of Montenero. The collection spans five centuries and reads like an illustrated encyclopedia of disaster."
+score: 8.1
 ---
 
 The Santuario di Montenero sits on a hilltop about 9 km south of central Livorno, overlooking the city and the Tyrrhenian Sea. The basilica was founded in 1345 around an image of the Madonna that, according to tradition, was carried to the hill by a lamb. It became the main Marian shrine of Tuscany and is still a significant pilgrimage destination.

@@ -8,6 +8,7 @@ story: "Built in 1986 by 80 employees of the local Coca-Cola bottler to mark the
 tags:
 - things_to_do
 - sight
+score: 5.3
 ---
 
 A hillside near the airport, twelve kilometres south of Arica, holds the world's largest Coca-Cola logo — a 122-metre advertising geoglyph spelt out in 70,000 empty glass bottles laid on the desert pavement. It was built in 1986 to mark the centenary of the company and has since outlasted several waves of corporate marketing.

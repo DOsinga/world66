@@ -9,6 +9,7 @@ latitude: 45.5191
 longitude: -122.7048
 story: >
   Portland's nickname "City of Roses" comes from the mild, wet winters and warm summers that make the Willamette Valley ideal for growing roses. The test garden was established in 1917 — during World War I — specifically to safeguard European rose varieties that might be destroyed in the conflict. Hybridisers still submit new varieties here to be trialled and judged; if a rose wins the All-America Rose Selections award from this garden, it tends to sell worldwide.
+score: 8.0
 ---
 
 Washington Park's International Rose Test Garden holds over 10,000 rose plants in more than 650 varieties, in bloom from May through October. The setting is spectacular: tiered gardens on a hillside with views across Portland to Mount Hood and three other volcanic peaks on clear days. Entry is free year-round.

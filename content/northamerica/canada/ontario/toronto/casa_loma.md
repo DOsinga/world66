@@ -10,6 +10,7 @@ tags:
 title: Casa Loma
 type: poi
 url: https://casaloma.ca
+score: 7.0
 ---
 
 Casa Loma is the most extravagant private residence ever built in Canada — a genuine early 20th-century castle on a hilltop overlooking midtown Toronto. Sir Henry Pellatt, the electricity magnate who built it, employed 300 people just to maintain the estate. He lived there for less than a decade before tax obligations and maintenance costs bankrupted him.

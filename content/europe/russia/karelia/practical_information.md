@@ -5,6 +5,7 @@ phone: '(814-2) 76-48-35, 78-61-91, fax: +7 (814-2) 76-48-35'
 title: Practical Information in Karelia
 type: poi
 url: www.ticrk.ru
+score: 2.0
 ---
 
 **Contributors**

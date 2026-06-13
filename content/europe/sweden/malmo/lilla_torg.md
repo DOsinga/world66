@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Lilla Torg means "Little Square," an ironic name for what has become the social heart of Malmö. The half-timbered merchants' houses around the square date from the 16th and 17th centuries, built by German traders who dominated Malmö's commerce. Today those old warehouses are full of restaurants and bars — the trading has changed its form but the square remains the busiest place in the city.
+score: 7.4
 ---
 
 Malmö's most charming square is lined with beautifully restored half-timbered merchants' houses from the 16th and 17th centuries, their ground floors now occupied by restaurants, bars, and cafes. In summer the square fills with outdoor tables and the sound of conversation; in winter it hosts a Christmas market that is one of the best in the region.

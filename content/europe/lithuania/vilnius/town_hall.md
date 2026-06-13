@@ -10,6 +10,7 @@ tags:
   - landmark
   - old_town
 neighbourhood: Old Town
+score: 6.6
 ---
 
 Town Hall Square (Rotušės aikštė) is the historic commercial and civic centre of old Vilnius — the square where markets were held, edicts were proclaimed, and public executions took place in less enlightened times. It is smaller and quieter than Cathedral Square and has a more intimate, neighbourhood feel despite being in the heart of the old town.

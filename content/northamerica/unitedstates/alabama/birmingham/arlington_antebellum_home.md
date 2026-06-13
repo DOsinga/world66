@@ -7,6 +7,7 @@ tags:
 - museum
 title: Arlington Antebellum Home and Gardens
 type: poi
+score: 6.5
 ---
 
 Birmingham's only surviving antebellum plantation house, built around 1850, before the city itself was founded in 1871. The Greek Revival structure contains a collection of 19th-century decorative arts and period furniture. The surrounding gardens are carefully maintained and pleasant to walk through.

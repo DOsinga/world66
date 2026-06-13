@@ -13,6 +13,7 @@ story: >
   in which the deity's statue is carried through the streets on a palanquin — draws crowds
   from across the region every few years and brings Pasar Lama to a standstill. The temple
   statuary has survived fires, floods, and three centuries of Tangerang's constant transformation.
+score: 7.6
 ---
 
 Boen Tek Bio is the spiritual heart of Tangerang's Peranakan (Chinese-Indonesian) community, founded in 1684 at the corner of Jalan Bhakti and Jalan Cilame in the Pasar Lama district. It is the oldest Chinese temple in the city and one of the most important temples in the Banten region.

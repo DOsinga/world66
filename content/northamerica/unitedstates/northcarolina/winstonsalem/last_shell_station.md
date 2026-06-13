@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.7
 ---
 
 This bright-yellow concrete clamshell on Sprague Street is the last surviving example of a short-lived 1930s Shell Oil branding experiment — a chain of eight shell-shaped service stations built around the country to make the company's logo literal. It is the only one left and is on the National Register of Historic Places.

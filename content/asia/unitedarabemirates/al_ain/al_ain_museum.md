@@ -5,6 +5,7 @@ latitude: 24.21611
 longitude: 55.773889
 snippet: "The UAE's oldest museum, covering 5,000 years of Al Ain's archaeological and ethnographic history."
 tags: [things_to_do, museum]
+score: 7.8
 ---
 
 The Al Ain Museum is the oldest museum in the UAE, established in 1969 — two years before the country itself existed. That longevity shows in the collection, which was built with scholarly rigour rather than the showy ambitions of some of the region's newer cultural institutions. The focus is on the archaeology and traditional life of the Al Ain region, drawing on excavations at Hili and the other Bronze Age and Iron Age sites scattered around the city's outskirts.

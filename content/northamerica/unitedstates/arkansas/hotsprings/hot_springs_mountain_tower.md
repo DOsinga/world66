@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "216-foot observation tower with a 140-mile view across the Ouachitas"
+score: 6.7
 ---
 
 A steel observation tower on the summit of Hot Springs Mountain, reached by a short drive or a steep

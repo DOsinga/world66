@@ -12,6 +12,7 @@ story: >
   to Gällivare above the Arctic Circle. In Arvidsjaur, a steam-engine museum
   group operates restored locomotives during the summer for tourist services —
   the only regular steam-hauled railway in northern Sweden.
+score: 6.7
 ---
 
 The Inlandsbanan crosses Arvidsjaur on its long run through the interior of Lapland. Modern diesel services in summer follow the line in segments; in addition, a local association runs the **Arvidsjaurs Ångloks Förening** steam train on summer weekends out of Arvidsjaur station.

@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Iceland's first Michelin-starred restaurant, the original of New Nordic in Reykjavik
+score: 8.3
 ---
 
 Dill was the first restaurant in Iceland to win a Michelin star (in 2017) and remains the touchstone of the country's New Nordic cooking. Chef Gunnar Karl Gíslason builds tasting menus of seven to twelve courses around foraged Icelandic ingredients: angelica, dulse, charred onion, langoustine, smoked lamb, skyr.

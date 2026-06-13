@@ -1,6 +1,7 @@
 ---
 title: "Cathedral of Saints Peter and Francis"
 type: poi
+score: 7.0
 ---
 
 Massa's cathedral stands in the lower town, a short walk from Piazza Aranci. The current building dates mostly from the seventeenth century, when the Cybo-Malaspina dukes rebuilt an older church in a Baroque idiom, though the foundations are considerably earlier. The facade is relatively restrained by the standards of the period; the interior opens into a spacious single nave with side chapels containing paintings and sculptures commissioned by the ducal family over several generations.

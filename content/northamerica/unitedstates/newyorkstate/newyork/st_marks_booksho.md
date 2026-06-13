@@ -12,6 +12,7 @@ tags:
 title: St. Mark's Bookshop
 type: poi
 url: www.stmarksbookshop.com
+score: 6.6
 ---
 
 An East Village institution for readers who care about what they're reading. St. Mark's stocks cultural theory, literary fiction, poetry, and an excellent selection of literary journals and zines. The kind of bookshop where browsing the shelves teaches you something, and the staff recommendations can be trusted.

@@ -14,6 +14,7 @@ tags:
   - things_to_do
   - sight
   - landmark
+score: 6.1
 ---
 
 A bronze bust of Frank Zappa stands on a street in the Žirmūnai district, north of the city centre, looking slightly bemused by the whole situation. Vilnius's Zappa fan club erected it in 1995 as a post-Soviet statement: the decision to commemorate an irreverent American rock musician in place of a Lenin statue was a deliberate act of cultural self-determination.

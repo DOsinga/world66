@@ -13,6 +13,7 @@ story: >
   It was converted to a tourism destination in the 1990s, and the combination of working station
   atmosphere, remote location, and genuine natural quality — Zebedee Springs, Chamberlain Gorge,
   Emma Gorge — has made it one of the most celebrated private properties in northern Australia.
+score: 8.8
 ---
 
 El Questro Wilderness Park is a 700,000-acre private property on the eastern edge of the Kimberley, about 110 km from Kununurra along the Gibb River Road. It contains several of the region's most celebrated destinations: Zebedee Springs, a series of thermal rock pools fed by natural hot springs, set in a palm canyon that feels prehistoric; Chamberlain Gorge, which can be explored by boat as the walls close in overhead; and Emma Gorge, a longer walk to a waterfall and swimming hole with walls streaked in red and ochre.

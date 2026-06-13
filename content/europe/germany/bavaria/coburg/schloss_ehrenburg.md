@@ -10,6 +10,7 @@ latitude: 50.2583
 longitude: 10.9650
 story: >
   Queen Victoria visited Schloss Ehrenburg repeatedly to see her beloved Albert, who was born nearby at Schloss Rosenau. The palace's English flush toilet — installed for Victoria's visit — was reportedly one of the first in Germany. Albert's connection to Coburg made this modest Franconian duchy the seedbed of a dynasty that spread across the thrones of Europe.
+score: 8.5
 ---
 
 Schloss Ehrenburg stands on the market edge of Coburg's old town, a grand ducal palace that served as the residence of the Dukes of Saxe-Coburg-Saalfeld from the seventeenth century onwards. The name translates roughly as "honour fortress," though by the time it reached its present form in the nineteenth century it was firmly a palace rather than a fortress, remodelled in English Gothic style at the behest of Duke Ernst I.

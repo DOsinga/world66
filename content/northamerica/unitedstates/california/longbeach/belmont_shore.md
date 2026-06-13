@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 33.7620
 longitude: -118.1320
+score: 7.4
 ---
 
 Belmont Shore is the most walkable and neighbourhood-feeling part of Long Beach, organised around Second Street — fifteen blocks of independent restaurants, boutiques, coffee shops, and bars that feel genuinely lived-in rather than designed for tourists. The beach at the end of every street is wide and calm, backed by the bay rather than the open ocean, which makes it gentler for swimming.

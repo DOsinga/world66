@@ -15,6 +15,7 @@ story: >
   rebuilding in 2020, with completion expected sometime in the 2030s. The cathedral
   has been a building site for longer than it took to build the original, which was
   consecrated in 1881.
+score: 7.6
 ---
 
 The Gothic Revival cathedral at the centre of Cathedral Square was the most recognisable building in Christchurch for 130 years, and it remains so today — partly because it is impossible to miss the scaffolding and the missing spire. The 2011 earthquake left the tower a stump and the interior in ruins, and the subsequent decade of arguments about what to do with it became a proxy battle over the city's identity: should Christchurch mourn, preserve, or move on? The answer, eventually, was to restore.

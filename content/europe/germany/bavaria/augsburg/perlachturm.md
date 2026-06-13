@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Perlachturm
 type: poi
+score: 7.4
 ---
 
 A 70-metre medieval bell tower standing in the Rathausplatz directly beside the Rathaus, from which it is architecturally inseparable. The tower is climbable — a winding staircase leads to the viewing platform with a panoramic view over the compact Altstadt and beyond to the Bavarian countryside. On the festival of St Michael (September 29), a mechanical figure called the Turamichele emerges from the tower to perform its annual dragon-slaying routine — a tradition the city takes seriously. The tower and the Rathaus together form the defining image of Augsburg's centre.

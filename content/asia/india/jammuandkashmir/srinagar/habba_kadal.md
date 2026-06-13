@@ -7,6 +7,7 @@ tags:
   - old_city
 latitude: 34.0820
 longitude: 74.8060
+score: 7.6
 ---
 
 Habba Kadal is one of seven historic bridges spanning the Jhelum River through the old city, and the one most worth pausing at. The current bridge is a concrete replacement but the area around it retains some of the most intact traditional wooden architecture in Srinagar. The ghats (riverside steps) below the bridge are where laundry is still done, boats are moored, and older residents sit and watch the river in the way people have done here for centuries.

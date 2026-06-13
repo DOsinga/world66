@@ -10,6 +10,7 @@ story: >
   weather, when the summit seems to float above a sea of forest and cloud. It is one of
   the few peaks in Azad Kashmir above 3,000 metres that can be reached without technical
   climbing equipment.
+score: 8.3
 ---
 
 Sudhan Gali is a small town about 40 km north of Pallandri, situated at around 2,134 metres (7,000 feet) in dense forests of pine and cedar. It serves as the starting point for the hike to Ganga Choti, the highest peak in the district at 3,044 metres (9,990 feet). The hike takes most people 3 to 5 hours one way, passing through forest and open alpine pasture before reaching the rocky summit.

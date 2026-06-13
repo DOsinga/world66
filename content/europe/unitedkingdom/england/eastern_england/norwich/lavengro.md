@@ -7,6 +7,7 @@ tags:
   - books
 latitude: 52.6285
 longitude: 1.2929
+score: 4.8
 ---
 
 George Borrow was born in Norfolk in 1803 and grew up in the Norwich area. His semi-autobiographical novel "Lavengro" (1851) opens with scenes of early 19th-century Norwich — the market, the streets, the river — that capture the city before industrialisation changed it. Borrow was an eccentric polyglot and adventurer, and the book moves from Norfolk to London to the open road, making it unusual among English novels of the period for its interest in Romani culture and language.

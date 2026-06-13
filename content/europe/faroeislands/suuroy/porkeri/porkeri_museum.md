@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 61.4807
 longitude: -6.7462
+score: 6.1
 ---
 
 Next to the church, the small local museum covers the history of Porkeri as a fishing and farming village. It is the kind of museum that works precisely because of its scale — a few rooms, some old tools and photographs, and a sense of how hard life was in an isolated Faroese coastal village before the road tunnels arrived.

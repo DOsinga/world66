@@ -6,6 +6,7 @@ tags:
 - eating_out
 title: Bottega Restaurant
 type: poi
+score: 6.3
 ---
 
 Frank Stitt's Italian-influenced restaurant on Highland Avenue, more casual than Highlands Bar and Grill but equally focused on quality ingredients. The wood-fired oven produces excellent pizza and roasted dishes, and the pasta is made in-house. The adjoining Bottega Cafe is an excellent option for a lighter meal or just a coffee.

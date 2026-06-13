@@ -14,6 +14,7 @@ tags:
   - sight
 title: Valerian Bridge
 type: poi
+score: 7.8
 ---
 
 The stone bridge that gives Leighlinbridge its name spans the River Barrow in nine low arches, with cutwaters between them and the patched-together masonry of a structure that has been repaired and re-repaired for centuries. It is one of the oldest bridges still in use in Ireland, and arguably the most picturesque.

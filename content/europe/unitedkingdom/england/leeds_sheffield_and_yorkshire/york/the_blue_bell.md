@@ -16,6 +16,7 @@ story: >
   etched-glass screen with a serving hatch — have kept their fixed seating,
   their tiled floor, and their original bar. The Campaign for Real Ale considers
   it one of the finest surviving pub interiors in England.
+score: 7.7
 ---
 
 The Blue Bell on Fossgate is a pub that has not been touched since approximately 1903, when the current interior was fitted. Two small rooms divided by an etched glass and mahogany screen, fixed seating along the walls, a tiled floor, a small bar — nothing has been added and nothing removed. There is no music, no fruit machine, no wide-screen television. You order from the hatch or from the bar in the front room, and you sit with your drink in rooms that feel entirely unchanged from the Edwardian era.

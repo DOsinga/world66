@@ -11,6 +11,7 @@ tags:
 - nature
 title: Tres Marias
 type: poi
+score: 5.8
 ---
 
 The Tres Marias are three eroded rock-and-salt formations near the entrance circuit of Valle de la Luna. They are modest in scale compared with the wider valley, but they make a useful introduction to how strangely the Cordillera de la Sal weathers.

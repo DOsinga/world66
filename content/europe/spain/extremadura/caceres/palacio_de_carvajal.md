@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 39.4742
 longitude: -6.3698
+score: 7.2
 ---
 
 The Palacio de Carvajal is one of the few noble palaces in the Ciudad Monumental open to the public at no charge, and it is worth a visit both for the building and for the view from the garden. Built in the fifteenth and sixteenth centuries by the Carvajal family, it mixes Gothic and Renaissance elements — a round tower with Moorish-influenced stonework, an arched portico, and a two-storey interior courtyard with orange trees.

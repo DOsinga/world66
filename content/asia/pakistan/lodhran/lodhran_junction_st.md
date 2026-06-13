@@ -6,6 +6,7 @@ tags:
 - sight
 title: Lodhran Junction Railway Station
 type: poi
+score: 5.6
 ---
 
 Lodhran Junction is a railway station on the main Kotri-Attock line, one of Pakistan's busiest rail corridors. As a junction station, trains from multiple directions pass through, and the station itself — a typical colonial-era brick structure — is an active and interesting place to watch the railway in operation.

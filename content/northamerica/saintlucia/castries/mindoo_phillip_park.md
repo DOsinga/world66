@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - sport
+score: 5.5
 ---
 
 The home of cricket in Castries, Mindoo Phillip Park sits in the Marchand neighbourhood east of the city centre and is named for Errol "Mindoo" Phillip, the Saint Lucian fast bowler who played for the West Indies in the 1950s. The ground hosts regional first-class and one-day matches in the West Indies Championship.

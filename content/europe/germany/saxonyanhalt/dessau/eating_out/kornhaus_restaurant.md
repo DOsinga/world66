@@ -9,6 +9,7 @@ latitude: 51.8632
 longitude: 12.2078
 sources:
   - https://en.wikipedia.org/wiki/Kornhaus_(Dessau)
+score: 6.4
 ---
 
 Eating at the Kornhaus is the most memorable meal you can have in Dessau — not because the food is extraordinary, but because the setting is. The 1930 Bauhaus pavilion curves along the Elbe bank with floor-to-ceiling windows looking out over the river; on a clear day you eat with a wide view of the water and the far shore. The terrace is one of the best spots in the city in summer.

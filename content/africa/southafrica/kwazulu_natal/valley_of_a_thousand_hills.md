@@ -11,6 +11,7 @@ story: >
   The Valley of a Thousand Hills takes its name from the Zulu word for the area — uMngeni — and the description is literal. From any high point, ridge after ridge unfolds toward the horizon, each one settled with homesteads and small farms. The valley was historically a stronghold of Zulu culture; traditional healers still practice here, and the Comrades Marathon, the world's oldest and largest ultramarathon, passes through the hills each year.
 sources:
   - https://en.wikipedia.org/wiki/Valley_of_a_Thousand_Hills
+score: 6.9
 ---
 
 The Valley of a Thousand Hills is a deeply folded landscape west of Durban, where the Umgeni River has carved through the Natal Midlands over millions of years, leaving behind an endless series of ridges and valleys covered in grassland and indigenous bush. It is one of KwaZulu-Natal's most scenic areas and feels very different from the coast, quieter and more traditional.

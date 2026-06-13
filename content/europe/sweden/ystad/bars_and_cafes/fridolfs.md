@@ -8,6 +8,7 @@ tags:
 - cafe
 title: Fridolfs Konditori
 type: poi
+score: 6.9
 ---
 
 Fridolfs has been baking on Lilla Norregatan since 1924 and still does the things Swedish bakeries do best: cardamom buns, princess cakes, the chocolate balls called chokladbollar, and a steady supply of cinnamon-laden kanelbullar. The café side serves coffee, sandwiches, and the daily lunch. The room has not been overly modernised.

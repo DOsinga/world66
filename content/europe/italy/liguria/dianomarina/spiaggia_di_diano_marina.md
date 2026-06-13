@@ -9,6 +9,7 @@ latitude: 43.9098
 longitude: 8.0817
 story: >
   Diano Marina's beach almost didn't exist. The original town, Diano Castello, sat safely inland on a hilltop. The flat coastal strip below was marshy and malarial, avoided for centuries. It was the arrival of the railway in the 1870s — and with it the first Italian tourists — that transformed the coastline into a resort, and the beach into the town's reason for being.
+score: 7.4
 ---
 
 The beach at Diano Marina is one of the better stretches of sand on the Riviera di Ponente — about a kilometre long, wide enough to feel uncrowded outside peak August, and gently shelving into calm, clear water. Most of it is divided between paying lidos that rent out sunbeds and umbrellas, but a few stretches of free public beach remain at either end.

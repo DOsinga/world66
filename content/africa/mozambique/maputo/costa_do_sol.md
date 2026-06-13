@@ -10,6 +10,7 @@ tags:
   - costa_do_sol
   - sight
 neighbourhood: Costa do Sol
+score: 6.7
 ---
 
 The **Costa do Sol** is the long stretch of Maputo Bay seafront that runs north-east from the centre toward the salt pans and the airport. The beach itself is wide and sandy but the water is shallow, muddy at low tide and not really for swimming — go to Inhaca or Ponta do Ouro for that. What the Costa do Sol does well is food, sunset and people-watching.

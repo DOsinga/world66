@@ -8,6 +8,7 @@ tags:
   - bar
   - southeast_peninsula
 neighbourhood: Southeast Peninsula
+score: 6.0
 ---
 
 A laid-back wooden bar and lunch shack at the far end of Cockleshell Bay, run by the Treble family since 1995 and arguably the friendliest hangout on the island. Hammocks, sun loungers, an open-air pool table, and a soundtrack that lives up to the name.

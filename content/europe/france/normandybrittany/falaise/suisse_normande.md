@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 snippet: Hilly river gorge country southwest of Falaise, good for walking and kayaking
+score: 6.7
 ---
 
 The Suisse Normande is a stretch of hilly countryside along the Orne and Rouvre rivers, roughly 20 kilometres southwest of Falaise. The name is an exaggeration — there are no Alps here — but the landscape genuinely is Normandy's most dramatic: forested ridges, deep river gorges, and rocky outcrops. The town of Clécy is the main base, with canoe rental on the Orne and walking trails above the cliffs.

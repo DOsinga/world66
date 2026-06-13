@@ -9,6 +9,7 @@ latitude: 29.1082
 longitude: 86.8594
 story: >
   The mausoleum of the tenth Panchen Lama was destroyed during the Cultural Revolution along with most of the monastery. He was imprisoned for years, then later allowed a degree of freedom by China, and died suddenly in 1989 at age 50 — just four days after delivering a speech criticising Chinese policies in Tibet. His reconstructed mausoleum, completed in 1994, was partly funded by the Chinese government in an effort to improve relations with Tibetan Buddhists.
+score: 8.4
 ---
 
 Within Tashilhunpo Monastery, a series of gilded mausoleum halls preserve the remains of successive Panchen Lamas in elaborate silver and gold stupas. The most dramatic is the Great Hall of the Panchen Lamas (Kumbum), completed in 1662 for the fourth Panchen Lama, its stupa rising 35 metres through several storeys of chapel. The walls are lined with religious paintings and the air is thick with burning butter.

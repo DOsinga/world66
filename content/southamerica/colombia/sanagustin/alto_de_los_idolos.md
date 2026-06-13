@@ -8,6 +8,7 @@ latitude: 1.978
 longitude: -76.549
 story: >
   The 7-metre statue at Alto de los Ídolos — the tallest found anywhere in the San Agustín region — was originally painted in bright yellows, reds, blacks, and whites, as were most of the statues. Almost nothing of the original colour survives on any of them, worn away by centuries of rain in the Andean highlands. The vivid painted figures that once stood here, and what ceremonies they presided over, are entirely lost.
+score: 8.3
 ---
 
 Alto de los Ídolos, about 4 kilometres from the village of Isnos (itself a short distance north of San Agustín), contains the tallest statue in the entire San Agustín archaeological zone — a single figure standing 7 metres high, carved from a single stone. The scale is startling in person; photographs don't prepare you for it.

@@ -8,6 +8,7 @@ tags:
 latitude: 29.2103
 longitude: 25.5275
 story: "Most of the tombs were stripped centuries ago, but in 1940 villagers fleeing into the catacombs during an Italian bombing raid stumbled into an undisturbed chamber decorated with vivid 26th-Dynasty paintings — the Tomb of Si-Amun. The figure shown there is a wealthy landowner with what appear to be European features, hinting at the mixed ancestry of Siwa's classical-era population."
+score: 8.1
 ---
 
 Gebel al-Mawta — the Mountain of the Dead — is a small hill on the northern edge of town honeycombed with rock-cut tombs from the 26th Dynasty through to Roman times. Most of the tombs are empty, but a few preserve their painted walls: bright blues, ochres, and reds depicting the deceased before Osiris.

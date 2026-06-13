@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 5.8268
 longitude: -55.1485
+score: 5.2
 ---
 
 The Torarica Hotel has been the grandest address in Paramaribo since the 1960s, and its pool bar remains the best place in the city for a cold drink in an air of colonial-era leisure. Non-guests can use the pool bar area, and on weekday afternoons it is typically quiet and pleasant — a good place to recover from the heat of sightseeing with a cold Parbo beer or a rum and juice.

@@ -13,6 +13,7 @@ story: The Becherovka recipe contains around 20 herbs and spices, but the exact 
   in a separate, access-restricted room within the distillery. The specific ingredients
   have never been published, though analysts have identified some of them; the full
   list remains genuinely proprietary.
+score: 6.9
 ---
 
 The Jan Becher Museum in Karlovy Vary tells the history of Becherovka, the bitter herbal liqueur that has been produced here since 1807. The exhibition traces the brand from its origins as a digestive remedy — Jan Becher and a visiting English physician developed it as a stomach medicine — through the 20th century, the nationalisation under communism, and its restoration to the Becher family after 1989.

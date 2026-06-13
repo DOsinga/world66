@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 5.3
 ---
 
 La Serena's beach strip runs for six kilometres along the bay, a broad avenue of palms, low-rise hotels, and apartment buildings facing the Pacific. The beach itself is grey-gold sand, the water cold (the Humboldt Current is just offshore), and the wind from the south is reliably strong by afternoon.

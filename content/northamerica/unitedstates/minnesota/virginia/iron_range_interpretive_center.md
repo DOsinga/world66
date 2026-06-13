@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 47.5220
 longitude: -92.5431
+score: 8.5
 ---
 
 The Iron Range Interpretive Center is the main museum covering the history of the Mesabi Iron Range — the 110-mile band of iron ore deposits that made Minnesota the centre of American steel production from the 1890s through the mid-20th century. The exhibits cover the geology, the open-pit mining operations, and the immigrant communities — Finnish, Slovenian, Croatian, Italian — who came to work the mines and built the distinctive culture of the Range.

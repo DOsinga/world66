@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Striped flint-and-sandstone parish church of the upper town"
+score: 7.1
 ---
 
 The Église Saint-Martin is the parish church of the upper town, a building unusual enough to be worth seeking out for its facade alone: alternating bands of dark flint and pale Caen sandstone give it a chequerboard pattern that catches the light differently from every angle. The church was rebuilt in the fifteenth and sixteenth centuries on the site of an earlier sanctuary destroyed during the Hundred Years' War.

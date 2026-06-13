@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.7803
 longitude: -86.6714
+score: 7.6
 ---
 
 The beach at Corozal runs directly in front of the village, with coconut palms leaning over the sand and wooden fishing boats pulled up at the water's edge. It is uncrowded even on weekends — this is not a destination tourists tend to discover, and the community remains genuinely local. The sea is calm and suitable for swimming.

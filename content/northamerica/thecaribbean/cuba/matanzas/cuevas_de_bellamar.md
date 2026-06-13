@@ -8,6 +8,7 @@ latitude: 23.0216
 longitude: -81.5350
 story: >
   The caves were discovered in 1861 when a Chinese worker employed on a sugar estate nearby broke through the surface limestone while clearing land. The estate owner, Don Manuel Santos Parga, organised one of the first scientific explorations within months of the discovery, and the caves were open to paying visitors before the decade was out.
+score: 8.3
 ---
 
 A substantial limestone cave system about 5 km southeast of the city, the oldest tourist site in Cuba. The accessible galleries extend for several kilometres, though guided tours cover about 1.5 km of decorated passages — stalactites, stalagmites, crystal formations, and several underground pools. The caves maintain a constant temperature of around 24°C, a relief in summer.

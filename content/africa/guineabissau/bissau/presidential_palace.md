@@ -7,6 +7,7 @@ tags:
 latitude: 11.8639
 longitude: -15.5848
 story: The Presidential Palace was shelled and heavily damaged during the 1998–99 civil war and has never been fully repaired. Its ruined state became almost emblematic of the country's political instability — Guinea-Bissau has experienced more successful military coups per capita than almost any other country in the world.
+score: 6.4
 ---
 
 The most photographed building in Bissau, though not for its beauty. The Presidential Palace (Palácio do Governo) stands on the main square in Bissau Velho, the old colonial quarter, and its ruined and battered exterior tells the story of the country's turbulent post-independence history more vividly than any museum could. Bullet holes, missing sections of facade, and an air of impermanence characterise the building even when it is officially functioning.

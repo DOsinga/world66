@@ -9,6 +9,7 @@ tags:
 latitude: 47.7350
 longitude: 18.1235
 story: "The collection inside the fort includes Roman tombstones lifted from the local fields, several of them dedicated by legionaries' wives — a reminder that even at the edge of the empire, a fortified base was also a settled community with mothers, children, and quiet retirement plans."
+score: 7.5
 ---
 
 The southernmost of the three Komarom forts, built in the 1870s on the road south to Igmánd. Smaller than Monostor but more compact and easier to take in at a single visit; the casemates now house the Klapka György Museum's collection of Roman artefacts from Brigetio.

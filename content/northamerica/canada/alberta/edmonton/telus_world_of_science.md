@@ -16,6 +16,7 @@ story: >
   in North America.
 sources:
   - https://en.wikipedia.org/wiki/TELUS_World_of_Science_Edmonton
+score: 6.8
 ---
 
 TELUS World of Science Edmonton is the city's major science museum and one of the most popular family attractions in the province. The complex sits in the river valley at the north end of Coronation Park and includes an IMAX theatre, a digital planetarium, an observatory, and several exhibition galleries covering space science, chemistry, technology, and health.

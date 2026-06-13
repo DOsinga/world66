@@ -12,6 +12,7 @@ story: >
   Lutheran Saxons — the only Catholic church allowed inside the walls for
   centuries. When Emperor Franz Joseph visited Sibiu in 1852, the Saxons
   reluctantly allowed the church to ring its bells for the first time publicly.
+score: 8.3
 ---
 
 The Grand Square is the centrepiece of Sibiu's old city — a large, handsome, slightly irregular rectangle surrounded by colourful Baroque and Renaissance townhouses, their facades painted in ochre, yellow, and terracotta. The characteristic "eye" dormer windows stare out from the rooftops, giving the square its most photographed view.

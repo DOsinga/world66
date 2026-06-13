@@ -7,6 +7,7 @@ tags:
 latitude: 42.876
 longitude: 74.605
 address: "Razzakov Street, Bishkek"
+score: 5.9
 ---
 
 A small specialty coffee shop in the centre, two minutes from Ala-Too Square. The owner imports green beans and roasts in small batches in a back room; the pour-over menu rotates and the espresso is among the best in the city. Pastries are made in-house, and the room is small enough that staff remember regulars.

@@ -7,6 +7,7 @@ tags:
 snippet: "No-frills burger counter with a devoted local following"
 latitude: 40.8686
 longitude: -124.0828
+score: 5.9
 ---
 
 Stars Hamburgers is a small, no-frills counter on the Plaza that serves some of the best straightforward burgers on the North Coast. The menu is short — burgers, fries, milkshakes, and a few sandwiches — but everything is made to order and the quality is consistently good. Prices are low by California standards, and the place fills up at lunch.

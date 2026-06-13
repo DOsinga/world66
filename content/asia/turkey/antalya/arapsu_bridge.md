@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: 36.88090
 longitude: 30.65934
+score: 4.3
 ---
 
 The Arapsu Bridge is a Roman bridge on the western outskirts of Antalya, spanning the Doyran Stream where it cuts through the limestone plateau. It dates from the 2nd or 3rd century CE and its single arch is still structurally sound, making it one of the better-preserved Roman bridges in the region.

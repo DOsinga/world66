@@ -7,6 +7,7 @@ tags:
 - museum
 title: National Museum of Mongolia
 type: poi
+score: 8.4
 ---
 
 The National Museum of Mongolia traces the country's history from prehistoric times through the Xiongnu empire, the Mongol Empire at its height, the Qing dynasty period, and into the 20th-century communist era. The collection is substantial and well-organised, with English labelling throughout — unusual for UB.

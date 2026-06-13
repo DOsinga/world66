@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.1528
 longitude: 14.9872
+score: 7.2
 ---
 
 The Senckenberg Museum for Natural History in Görlitz is one of the oldest and most significant natural history collections in Saxony, focused on the botany, zoology, and geology of the Upper Lusatia region and Central Europe more broadly. The museum occupies a handsome 18th-century building in the Old Town and has been part of the Frankfurt-based Senckenberg research network since 1993.

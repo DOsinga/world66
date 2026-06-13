@@ -9,6 +9,7 @@ latitude: 38.5796
 longitude: -121.5082
 story: >
   The Tower Bridge was painted gold for the 2002 World Winter Games — a temporary promotional decision that proved so popular the city made it permanent. The bridge had been grey since its 1935 opening; the gold colour has since become one of Sacramento's most recognisable images. The vertical lift span rises to allow tall riverboats through, though this happens infrequently and usually requires advance notice.
+score: 8.0
 ---
 
 Sacramento's most photogenic structure, a vertical-lift drawbridge painted gold that connects downtown Sacramento to West Sacramento across the Sacramento River. Built in 1935 in a stripped Art Deco style, the Tower Bridge is a California Historical Landmark and one of only a handful of vertical-lift bridges remaining in the state.

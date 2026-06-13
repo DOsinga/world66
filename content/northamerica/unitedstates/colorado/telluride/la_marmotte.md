@@ -6,6 +6,7 @@ tags:
 - restaurant
 latitude: 37.9375
 longitude: -107.8125
+score: 6.8
 ---
 
 Telluride's most elegant restaurant occupies a converted Victorian ice house on Colorado Avenue. The cooking is French-inspired — proper bistro dishes, good sauces, well-sourced proteins — elevated enough to justify the prices without tipping into the kind of pretension that makes mountain-town fine dining exhausting.

@@ -16,6 +16,7 @@ story: >
   more unsettling the closer you stand to them.
 sources:
   - https://en.wikipedia.org/wiki/Nierozpoznani
+score: 6.7
 ---
 
 Nierozpoznani — "Unrecognised" — is an installation of 58 headless, armless cast-iron figures standing in Adam Mickiewicz Park, close to the Old Market Square. The work is by Magdalena Abakanowicz, one of Poland's most internationally significant sculptors, and it was installed here permanently in 2002 as a gift to the city.

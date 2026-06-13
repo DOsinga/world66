@@ -9,6 +9,7 @@ tags:
   - swimming
 story: >
   The Gerzensee is one of a string of small lakes on the Swiss Mittelland plateau formed by glacial retreat after the last ice age. A Bronze Age pile-dwelling settlement was found on its shores, placing human habitation here over 3,000 years ago — part of a UNESCO-recognised cluster of prehistoric lake dwellings across the Alps.
+score: 7.8
 ---
 
 The Gerzensee is a small, clean lake right at the edge of the village. In summer it is popular for swimming — the water is calm, clear, and swimmable from late June through August. There is a lakeside bathing area with a simple beach and some grass for picnicking.

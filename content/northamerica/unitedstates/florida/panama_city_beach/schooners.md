@@ -8,6 +8,7 @@ tags:
   - bar
 latitude: 30.1601
 longitude: -85.7768
+score: 6.8
 ---
 
 Schooner's bills itself as "the last local beach club" and has a reasonable claim — it's been on the beach since 1985, which in Panama City Beach terms makes it a genuine institution. The bar sits right on the sand, there is live music most nights, and the whole setup has the worn-in feel of a place that knows what it is.

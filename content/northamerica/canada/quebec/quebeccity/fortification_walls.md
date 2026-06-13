@@ -9,6 +9,7 @@ longitude: -71.2110
 snippet: The only intact city walls in North America, walkable in an hour
 sources:
   - https://en.wikipedia.org/wiki/Fortifications_of_Quebec
+score: 8.9
 ---
 
 Québec City's stone fortification walls are 4.6 kilometres long, built and rebuilt between 1690 and 1871, and remain the only walled city in North America north of Mexico. The walls encircle the Upper Town, passing through four historic gates — Porte Saint-Louis, Porte Saint-Jean, Porte Kent, and Porte Prescott — and can be walked on their full length in about an hour.

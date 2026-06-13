@@ -7,6 +7,7 @@ tags:
   - sight
 title: Walchsee
 type: poi
+score: 7.2
 ---
 
 The Walchsee lies about 4 kilometres south of Kössen on the road toward Kufstein, a clear lake set in a broad valley with good mountain views. The water warms up more than most alpine lakes in summer — temperatures regularly reach 24°C in July — making it genuinely pleasant for swimming rather than a brief cold dip. The lake is also a well-regarded spot for windsurfing and paddleboarding, with reliable afternoon breezes.

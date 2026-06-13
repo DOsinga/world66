@@ -8,6 +8,7 @@ latitude: 47.5228
 longitude: 12.4282
 story: >
   The church's elaborate Baroque interior, painted in brilliant white with gold detailing, was completed in the 1720s — the heyday of the Tyrolean Baroque style that also produced the great pilgrimage churches of the Inn valley. The frescoes in the nave, depicting the life of the Virgin, are by Simon Benedikt Faistenberger, one of the leading Tyrolean painters of the period.
+score: 7.3
 ---
 
 The Pfarrkirche Mariä Himmelfahrt (Parish Church of the Assumption of Mary) is the oldest and most prominent building in St. Johann, its Baroque tower a landmark visible from across the valley. The current church was built in the early 18th century on the foundations of older medieval structures, and its white-and-gold interior is one of the best examples of the Tyrolean Baroque style outside the major cities.

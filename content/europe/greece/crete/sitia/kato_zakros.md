@@ -7,6 +7,7 @@ tags:
 latitude: 35.0972
 longitude: 26.2625
 story: "Kato Zakros is the fourth great Minoan palace — and the only one excavated in modern times that was not disturbed by later builders. When Nikolaos Platon dug here in the 1960s he found the storerooms still full of pithos jars, some with grain inside, and ritual objects laid out as if the priests had just stepped away."
+score: 8.4
 ---
 
 The Minoan palace at Kato Zakros lies on the far eastern coast, a 45-minute drive south of Sitia through a striking gorge. It is one of the four major Minoan palaces alongside Knossos, Phaistos, and Malia — and far less visited, partly because the road in is slow and partly because the layout is harder to read than its better-restored neighbours.

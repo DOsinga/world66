@@ -9,6 +9,7 @@ tags:
   - barranco
 neighbourhood: Barranco
 snippet: Old-fashioned Barranco cevichería, beloved for decades
+score: 7.9
 ---
 
 **Canta Rana** ("Singing Frog") is a long-established Barranco *cevichería* — covered courtyard, plastic chairs, photo-covered walls — beloved by Limeños for the kind of unfussy, perfectly executed ceviche that the touristy places struggle to match. Run by the Cugurra family for over thirty years. The seafood is from the morning's catch at the Villa María del Triunfo market.

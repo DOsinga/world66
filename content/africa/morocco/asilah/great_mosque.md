@@ -7,6 +7,7 @@ tags:
 latitude: 35.46550
 longitude: -6.03650
 snippet: The main mosque of the medina, with a distinctive square minaret visible above the rooflines
+score: 5.8
 ---
 
 The Great Mosque of Asilah is the principal mosque of the medina, its square minaret rising above the roofline of the surrounding whitewashed houses and visible from the ramparts. The mosque is the centrepiece of the historic kasbah quarter at the northern end of the medina.

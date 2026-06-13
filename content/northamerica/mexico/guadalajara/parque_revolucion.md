@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.6750
 longitude: -103.3558
+score: 6.8
 ---
 
 Parque Revolución is the main green space of the Colonia Americana neighbourhood and one of the more pleasant plazas in the city — shaded by large trees, populated by locals at all hours, and far less touristy than the plazas around the Cathedral. A series of bronze statues of Mexican revolutionary leaders stands around the park, including figures of Carranza and Madero.

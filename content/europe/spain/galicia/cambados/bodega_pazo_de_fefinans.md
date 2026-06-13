@@ -7,6 +7,7 @@ tags:
 latitude: 42.5150
 longitude: -8.8140
 snippet: Historic Albariño winery operating from within the 17th-century Pazo de Fefiñáns, open for visits
+score: 7.6
 ---
 
 The Bodegas del Pazo de Fefiñáns occupies part of the pazo complex right on the main square, making it one of the few wineries in Galicia where you can walk from a tasting directly onto one of the finest plazas in the region. The bodega has been producing Albariño here since the early 20th century and is one of the denomination's founding estates. The wines are elegant rather than showy — classic Rías Baixas Albariño with the mineral freshness and stone-fruit character that the Salnés valley does better than anywhere else.

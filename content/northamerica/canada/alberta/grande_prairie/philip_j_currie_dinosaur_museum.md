@@ -12,6 +12,7 @@ story: >
   football fields. Almost all of them belong to a single horned dinosaur, Pachyrhinosaurus lakustai, named in
   honour of a local school principal who first reported the site. A herd of thousands seems to have been
   wiped out crossing a swollen river around 73 million years ago.
+score: 8.2
 ---
 
 The Philip J. Currie Dinosaur Museum sits in Wembley, about 20 kilometres west of Grande Prairie, and is named after the Canadian palaeontologist who oversaw the excavation of the nearby Pipestone Creek bonebed. The building itself is a striking piece of low-slung modernist architecture set against the prairie. Inside, the galleries display articulated skeletons of Pachyrhinosaurus, Albertosaurus and other Late Cretaceous dinosaurs unearthed from the surrounding badlands.

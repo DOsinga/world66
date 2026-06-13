@@ -8,6 +8,7 @@ tags:
   - restaurant
   - medieval_quarter
 neighbourhood: Casco Medieval
+score: 6.7
 ---
 
 A well-loved old-town restaurant doing classic Basque cooking — grilled fish, kokotxas (fish jowls in pil-pil sauce), heritage-breed beef chops on hot stone — at fair prices. The dining room is plain and the service comes from people who have done the job for decades.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.594
 longitude: 125.428
+score: 6.0
 ---
 
 Rawis is a small beach area south of Borongan city centre with a handful of basic beach resorts including Pebbles and Sand and Pirate's Cove. These places offer simple accommodation in native-style cottages with hammocks, open-air dining, and the sort of low-key beach life that the Philippines does well when it hasn't yet been overrun by mass tourism.

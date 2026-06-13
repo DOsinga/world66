@@ -7,6 +7,7 @@ tags:
 latitude: 30.45
 longitude: 78.08
 snippet: Tibetan settlement with monastery, market, and views toward Dehradun
+score: 7.2
 ---
 
 Happy Valley is a Tibetan settlement below and west of the main Mussoorie ridge, established after 1959 when Tibetan refugees began arriving in India. The Tibetan Homes Foundation school is here, as well as a monastery and a small market with Tibetan handicrafts, woolens, and food.

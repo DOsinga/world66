@@ -6,6 +6,7 @@ longitude: -8.2928
 tags:
   - things_to_do
   - sight
+score: 7.9
 ---
 
 The oldest and most photographed street in Guimarães, running between Oliveira Square and Largo do Carmo. Mentioned in 12th-century documents under this same name, it was for centuries the address of the city's wealthier families.

@@ -10,6 +10,7 @@ tags:
 neighbourhood: The Bluff
 latitude: -29.9292
 longitude: 31.0098
+score: 7.2
 ---
 
 Anstey's Beach on the seaward side of the Bluff is the favourite of Durban's serious surfers: a point break that handles a big southerly swell better than anything on the Golden Mile, and a strong locals' crowd. The beach itself is rocky in places but has good sandy stretches at low tide and a tidal pool for non-surfers.

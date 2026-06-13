@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 31.8558
 longitude: -116.6183
+score: 7.2
 ---
 
 The Malecon is Ensenada's seafront promenade, running along Bahía de Todos Santos. The stretch closest to the town centre is the liveliest: fishing boats at anchor, pelicans on the piers, and the fish market where vendors set up tables of fresh tuna, clams, and ceviche tostadas from early morning.

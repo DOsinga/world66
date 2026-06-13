@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: 37.4128
 longitude: 25.3408
+score: 5.8
 ---
 
 The main family beach on the south coast, about 4 km from Mykonos Town. Platis Gialos is sheltered, organised, and accessible by bus from the main station. Sun beds and umbrellas are rented through the beach establishments. The water is calm and shallow, making it the most practical swimming beach for families and those who want a day at the sea without committing to a beach club.

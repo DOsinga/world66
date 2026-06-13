@@ -6,6 +6,7 @@ longitude: -90.5360
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 The seafront promenade runs along the Gulf of Mexico on the western edge of the historic centre, replacing the original sea wall that once formed part of the city's fortifications. In the evenings it fills with families, vendors, and couples — the classic Mexican malecón scene, with the Gulf breeze and a wide sky making it considerably more pleasant than the narrow streets of the interior.

@@ -10,6 +10,7 @@ story: >
   The waterfall takes its name from a Scottish forestry officer who worked in the mountains in the early 20th century and was charmed by the landscape's resemblance to the Scottish Highlands. Cyprus rarely gets snow outside the highest peaks, but the Troodos pine forests in winter — quiet, cold, and wrapped in mist — do have something Highland about them.
 sources:
   - https://en.wikipedia.org/wiki/Troodos_Mountains
+score: 8.4
 ---
 
 The Caledonian Waterfall trail is the most popular walk in the Pano Platres area, and for good reason: it follows a shaded forest gorge down to the tallest waterfall in Cyprus, a 13-metre drop into a pool surrounded by willows and plane trees. The trail is about 3 kilometres return and takes around 90 minutes at a relaxed pace.

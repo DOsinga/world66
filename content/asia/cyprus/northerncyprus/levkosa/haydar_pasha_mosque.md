@@ -5,6 +5,7 @@ snippet: 14th-century Lusignan Gothic church turned mosque
 tags: [things_to_do, sight, architecture]
 latitude: 35.1775
 longitude: 33.3661
+score: 7.8
 ---
 
 The former Latin church of St. Catherine, built in the 14th century by the Lusignans in pure French Gothic, converted to a mosque by the Ottomans. It is the second most important Gothic monument in the city after the Selimiye, and the carved doorway with its dragon corbels is one of the great pieces of medieval sculpture on Cyprus.

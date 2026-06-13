@@ -8,6 +8,7 @@ tags:
 latitude: -29.8585
 longitude: 31.0265
 address: "Durban City Hall, Anton Lembede Street"
+score: 7.6
 ---
 
 The Natural Science Museum occupies the ground floor of the City Hall and is exactly the kind of old-style natural history museum that has otherwise disappeared from most European capitals: glass cases, taxidermy, mineralogy drawers, and a sense that you might learn something specific in an hour. The highlight is a complete dodo skeleton, one of very few in the world.

@@ -14,6 +14,7 @@ story: >
   He specified that he wanted to be buried beside Longmen rather than in his
   home province, drawn by the scenery and the Buddhist associations of the
   gorge. His tomb has been a pilgrimage site for scholars and poets ever since.
+score: 6.8
 ---
 
 The tomb of Bai Juyi, one of the Tang dynasty's most beloved poets, sits on the eastern bank of the Yi River about a kilometre from the main grottoes entrance. Bai Juyi (772–846) spent his final decades in Luoyang and chose to be buried here, beside the gorge he admired. The tomb complex, known as Bai Yuan, is a peaceful garden with steles inscribed with his poems and a modest mound marking the actual burial site.

@@ -6,6 +6,7 @@ tags:
 - museum
 title: Luxton Museum .
 type: poi
+score: 5.9
 ---
 
 Experience a time when Native people of the Northern Plains and Canadian Rockies followed the great bison herds, hauling their tipis and equipment by travois. Displays range from costumes and quillwork to hunting equipment, dances songs and legends. Guided tours can be arranged. 

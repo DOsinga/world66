@@ -10,6 +10,7 @@ story: >
   Bram Stoker first visited Cruden Bay in 1893 and returned almost every summer for the rest of his life. Local tradition holds that the opening chapters of Dracula — Jonathan Harker's terrifying first night at the castle — were written while Stoker stayed in the Kilmarnock Arms in the village, looking up at Slains Castle on its clifftop. Stoker never confirmed the castle as his inspiration, but the novel was started exactly when his visits began, and the description of Dracula's castle matches the site remarkably closely.
 sources:
   - https://en.wikipedia.org/wiki/New_Slains_Castle
+score: 8.6
 ---
 
 Slains Castle stands on a clifftop above the North Sea, its roofless granite walls rising from the very edge of the headland. The castle was built in 1597 for the Earl of Erroll and remained inhabited until 1925, when it was stripped of its roof and fittings and left to the elements. What remains is a spectacular ruin: tall walls of pink granite, empty window frames framing sea views, and a dramatic position that has made it the most photographed ruin in Aberdeenshire.

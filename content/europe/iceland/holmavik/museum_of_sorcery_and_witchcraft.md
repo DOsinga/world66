@@ -13,6 +13,7 @@ story: >
   the museum stands on the spot where several of the condemned were burnt.
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Sorcery_and_Witchcraft
+score: 8.3
 ---
 
 The Museum of Sorcery and Witchcraft (Icelandic: Galdrasýning á Ströndum) is a privately operated museum in central Holmavik and one of the most distinctive small museums in Iceland. It focuses on the 17th-century witch trials that gripped the Westfjords, presenting the grimoires, runic staves, and folk magic objects that formed the texture of rural Icelandic supernatural belief — as well as the judicial machinery that turned that belief lethal.

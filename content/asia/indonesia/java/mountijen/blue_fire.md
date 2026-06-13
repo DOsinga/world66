@@ -9,6 +9,7 @@ latitude: -8.0600
 longitude: 114.2400
 story: >
   Kawah Ijen's blue fire is one of only two places on earth where natural blue volcanic flames burn at significant scale — the other being the Dallol Volcano in Ethiopia, which is almost inaccessible. Ijen's blue flames can reach five metres in height and are caused by sulphuric gases igniting as they emerge from the volcanic vents at temperatures above 600°C. The phenomenon is effectively invisible in daylight, when the flames are overwhelmed by sunlight — which is why every visitor who wants to see it must hike up in the dark and arrive at the crater before dawn.
+score: 9.0
 ---
 
 The blue fire at Kawah Ijen is not an optical illusion or a tourist gimmick — it is a genuine natural phenomenon caused by sulphuric gases emerging from volcanic vents at very high temperatures and igniting as they contact the air. The flames burn electric blue and can reach five metres in height, flowing down the hillside like burning liquid as condensed liquid sulphur catches fire before solidifying.

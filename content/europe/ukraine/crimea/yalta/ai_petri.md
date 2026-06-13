@@ -6,6 +6,7 @@ latitude: 44.445278
 longitude: 34.063333
 story: >
   The cable car from Miskhor to Ai-Petri is one of the longest in Europe — 3 km of cable spanning a vertical rise of over 1,200 meters in two stages. The upper section rises at a vertiginous angle through the clouds, and on clear days the view from the summit looks north across the entire Crimean peninsula and south to the sea horizon. Chekhov, who walked up in the 1890s, wrote that the view made everything else he'd seen in his life seem small.
+score: 9.0
 ---
 
 Ai-Petri (1,234 m) is the jagged limestone ridge that looms above Yalta and dominates the skyline from the coast. The name is Greek — it means "Saint Peter" — and the summit has the characteristic look of a Mediterranean limestone massif: bare grey rock, pine forest on the upper slopes, and enormous views.

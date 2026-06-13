@@ -8,6 +8,7 @@ tags:
 latitude: 9.5617
 longitude: 44.0618
 story: "The museum opened in 2017 in a building that had been damaged during the civil war bombardment. The decision to house it there rather than construct something new was deliberate — the building itself is part of the history being documented."
+score: 7.9
 ---
 
 The Somaliland National Museum opened in 2017 and covers the country's history from early archaeology through the colonial period, the civil war, and the years since independence. The collection includes archaeological artefacts from the Neolithic sites in the region, cultural objects from traditional Somali life, photographs and documents from the civil war, and natural history displays.

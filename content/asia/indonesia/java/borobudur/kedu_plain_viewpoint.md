@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kedu Plain Cycling
 type: poi
+score: 6.8
 ---
 
 The Kedu Plain surrounding Borobudur is some of the most fertile agricultural land in Java — a flat expanse of rice paddies, vegetable fields, and coconut palms with the cones of dormant volcanoes rising from the horizon. Exploring it by bicycle is the best way to see the temple complex in its landscape context and to get away from the concentrated tourist activity around the main entrance.

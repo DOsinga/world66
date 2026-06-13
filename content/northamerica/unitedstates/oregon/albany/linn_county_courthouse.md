@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.6345
 longitude: -123.1069
+score: 6.7
 ---
 
 The Linn County Courthouse, completed in 1940 in a stripped Classical style, stands at the centre of downtown Albany. It replaced an 1887 courthouse and is notable for its clean lines and the quality of its construction — built with PWA funding during the New Deal era, it was designed to last. The building sits on the main plaza and serves as the civic anchor of the downtown historic district.

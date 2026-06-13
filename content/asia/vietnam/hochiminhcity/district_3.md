@@ -7,6 +7,7 @@ tags:
 latitude: 10.7850
 longitude: 106.6840
 snippet: "Quieter, more residential district north of District 1, popular with expats and good for restaurants"
+score: 7.9
 ---
 
 District 3 is the immediate neighbour of District 1 to the north and west, and has a noticeably different character: more residential, tree-lined streets, fewer tourists, and a concentration of good restaurants and cafés popular with the Vietnamese middle class and expats. It is an excellent alternative base to District 1 — quieter at night and more representative of how Saigon actually lives.

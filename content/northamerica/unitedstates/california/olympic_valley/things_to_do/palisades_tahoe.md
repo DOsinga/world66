@@ -9,6 +9,7 @@ latitude: 39.1962
 longitude: -120.2352
 sources:
   - https://en.wikipedia.org/wiki/Palisades_Tahoe
+score: 9.1
 ---
 
 Palisades Tahoe is one of the largest ski resorts in North America, covering over 6,000 acres across two linked mountains — Palisades (the original Squaw Valley side) and Alpine Meadows, connected by a gondola since 2022. The resort hosted the 1960 Winter Olympics and has been a proving ground for elite American ski racers ever since.

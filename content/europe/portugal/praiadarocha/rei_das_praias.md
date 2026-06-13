@@ -6,6 +6,7 @@ longitude: -8.5200
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 Rei das Praias sits on the small cove of Praia dos Caneiros, a 15-minute drive east of Praia da Rocha (or a longer cliff walk from Ferragudo). The restaurant is built into the rocks above the beach, with a wide terrace looking out over the Atlantic — one of the best lunch settings on the central Algarve.

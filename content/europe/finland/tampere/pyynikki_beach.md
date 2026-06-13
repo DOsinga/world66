@@ -8,6 +8,7 @@ tags:
   - nature
 latitude: 61.4940
 longitude: 23.7220
+score: 6.7
 ---
 
 Pyynikki beach on Lake Pyhäjärvi is the most popular city swimming spot in Tampere, a sandy stretch below the Pyynikki ridge with good access to the lake and a traditional wooden changing house. The water quality is monitored and generally clean. At peak summer the beach gets busy; mornings and weekdays are quieter.

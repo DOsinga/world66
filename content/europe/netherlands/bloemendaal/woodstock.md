@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 - beach
+score: 6.5
 ---
 
 Woodstock 69 — usually just Woodstock — is the longest-running of the Bloemendaal aan Zee beach clubs and remains the one with the most distinctive identity. The hippie aesthetic is laid on thick: tie-dye bunting, lava lamps, a fire pit on the sand, a small stage where DJs play through the afternoon and live bands take over later. The food is grilled fish and burgers; the cocktails lean heavily on rum and mojitos.

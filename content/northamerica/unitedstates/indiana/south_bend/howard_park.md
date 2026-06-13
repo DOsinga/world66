@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.6778
 longitude: -86.2488
+score: 6.2
 ---
 
 Howard Park sits on the west bank of the St. Joseph River in the heart of downtown South Bend and has been transformed in recent years into one of the city's most appealing public spaces. In summer, the riverfront lawn hosts concerts and events; in winter, a free outdoor ice skating ribbon winds through the park.

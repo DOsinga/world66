@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, cycling]
 latitude: 54.8731
 longitude: 10.3800
+score: 7.9
 ---
 
 Ærø is roughly 30 km long and 8 km at its widest, gently rolling rather than flat, and laced with quiet country lanes and a handful of signposted cycle routes. Cycling end to end — Søby to Marstal via Ærøskøbing — is a comfortable day's ride with several stops, and the National Cycle Route 8 covers the spine of the island.

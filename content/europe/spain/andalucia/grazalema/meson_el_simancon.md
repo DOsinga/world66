@@ -6,6 +6,7 @@ longitude: -5.3680
 tags:
   - eating_out
   - restaurant
+score: 6.0
 ---
 
 A long-established mesón in the lanes off the Plaza de España, serving Sierra de Grazalema cooking — payoyo cheese plate, gazpacho serrano, slow-cooked lamb, partridge stew in season. Cave-like dining rooms, dark wood, framed photographs of village life.

@@ -8,6 +8,7 @@ tags:
 latitude: 4.6114
 longitude: -74.0636
 snippet: "Colombian regional cuisine from the Amazon and Pacific, in La Macarena"
+score: 7.6
 ---
 
 Mini-Mal has been one of the best restaurants in Bogota for over a decade, built around the idea of Colombian regional cuisine from areas that rarely appear on menus: the Amazon, the Pacific coast, the Llanos. The menu changes frequently based on what's arrived fresh, but expect dishes using ingredients like chontaduro (peach palm), pirarucú (giant Amazonian fish), and a range of tropical fruits.

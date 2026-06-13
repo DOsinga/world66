@@ -15,6 +15,7 @@ story: >
   came from here.
 sources:
   - https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus,_Agrigento
+score: 7.8
 ---
 
 The Temple of Olympian Zeus (Olympeion) was the most ambitious building project of ancient Agrigento, begun to celebrate a famous military victory and never finished. Today it lies in a dramatic field of tumbled column drums and architectural fragments — the deliberate ruin of something that was immense. The reconstructed telamon, a 7.5-metre giant figure that served as a column support, lies flat on the ground in the western section of the Valle dei Templi park, giving a visceral sense of the temple's scale.

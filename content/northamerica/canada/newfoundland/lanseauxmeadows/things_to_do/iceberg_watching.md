@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 51.601
 longitude: -55.532
+score: 8.2
 ---
 
 The waters around the northern tip of Newfoundland are part of Iceberg Alley, the corridor where glacial ice calved from Greenland's ice sheet drifts south on the Labrador Current. In late spring — typically May and early June — massive blue-white bergs pass within sight of shore, sometimes grounding just offshore and sitting there for days. From the headland near the historic site you can watch them drift past at walking pace, some the size of apartment buildings, carved into arches and pinnacles by wave erosion.

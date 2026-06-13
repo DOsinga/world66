@@ -8,6 +8,7 @@ latitude: 43.0805
 longitude: -73.7833
 story: >
   Caffè Lena claims to be the oldest continuously operating folk music venue in the United States, open since 1960. Bob Dylan played here in 1961, before he was famous. Don McLean wrote "American Pie" partly from experiences at Lena's. Arlo Guthrie, Joan Baez, and Ani DiFranco have all performed in the small upstairs room above the cafe.
+score: 7.8
 ---
 
 A genuine institution, Caffè Lena has been hosting folk and acoustic music in an upstairs room on Phila Street since 1960. The room holds fewer than 200 people and the booking policy still leans toward the kinds of singers and songwriters who travel by van — authentic rather than polished. Tickets are cheap and shows often sell out.

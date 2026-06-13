@@ -6,6 +6,7 @@ longitude: 13.7428
 snippet: Dresden's alternative quarter — the best neighbourhood for an evening out
 tags:
 - eating_out
+score: 7.4
 ---
 
 The Äußere Neustadt — the Outer New Town — is the part of Dresden that survived 1945 largely intact, and it has spent the decades since developing into the city's most lively and eclectic neighbourhood. During the GDR years it was the quarter where artists, dissidents, and alternative subcultures clustered; after reunification the bars and restaurants arrived in force.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 49.888
 longitude: -119.497
+score: 7.8
 ---
 
 The Kelowna waterfront — centred on Stuart Park and the City Park beach to its south — is where the city comes to swim, sunbathe, and watch the mountains. Okanagan Lake is remarkably warm in summer (temperatures can exceed 24°C in August), and the beach at City Park is one of the best urban beaches in Canada, with firm sand, clear water, and a view of the William R. Bennett Bridge stretching across the lake to the west bank. The Hot Sands section south of the bridge is the most popular sunbathing spot.

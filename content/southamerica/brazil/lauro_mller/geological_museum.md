@@ -6,6 +6,7 @@ longitude: -49.3975
 tags:
   - things_to_do
   - museum
+score: 5.9
 ---
 
 The Geological Museum of the Serra do Rio do Rastro is a small municipal museum dedicated to the geology and mining history of the Lauro Müller region. The collection includes rock samples from the coal seams, fossils from the Permian period found in the local formations, and exhibits on the history of coal extraction in the area — including information about the British-run mines that operated here from 1842.

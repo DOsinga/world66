@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Fourteenth-century Dominican church with a Lorenzo Lotto fresco"
+score: 6.5
 ---
 
 The church of San Domenico stands on the eastern side of Piazza Leopardi and is worth a quick visit principally for one painting: a fresco of **Saint Vincent Ferrer in Glory** by Lorenzo Lotto, painted in 1513 and one of the earliest works of the Venetian master's long residence in the Marche. The fresco is in a side chapel on the left; the rest of the church interior, redone in the baroque period, is pleasant but unremarkable.

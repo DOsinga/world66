@@ -6,6 +6,7 @@ latitude: 43.9648
 longitude: 11.2950
 story: >
   Cosimo de' Medici commissioned Michelozzo to transform the old Sforza castle here in the 1450s, and the villa became a summer refuge for the Florentine ruling family. Lorenzo the Magnificent spent much of his youth here, and Giovanni delle Bande Nere — father of Cosimo I — was born within its walls in 1498.
+score: 6.9
 ---
 
 One of the oldest Medici villas in the Mugello, Cafaggiolo predates the more celebrated Medici properties around Florence and sits at the root of the family's original territory. Michelozzo transformed a fortified farmhouse into an elegant country residence while keeping the defensive character of the original structure. The moat has long since been drained and the drawbridge replaced, but the crenellated towers survive largely as Michelozzo left them, giving the villa an austere, castle-like silhouette against the surrounding farmland.

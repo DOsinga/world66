@@ -6,6 +6,7 @@ longitude: 25.6240
 tags:
   - things_to_do
   - museum
+score: 8.4
 ---
 
 South End was a mixed-race neighbourhood that had grown up over more than a century at the southern edge of the city centre — Malay, Indian, Coloured, and a few white families living side by side in a dense urban quarter of terraced houses, mosques, temples, a synagogue, churches, and corner shops. Under the Group Areas Act, the apartheid government declared it a whites-only area in the early 1960s. By 1975 it had been almost entirely demolished. Some 6,000 families were forcibly relocated to townships on the city's periphery. A freeway and a conference centre were built in their place.

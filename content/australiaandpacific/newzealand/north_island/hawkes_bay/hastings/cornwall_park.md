@@ -4,6 +4,7 @@ longitude: 176.8471
 tags: [things_to_do, sight]
 title: Cornwall Park
 type: poi
+score: 5.9
 ---
 
 Cornwall Park is Hastings' largest green space, a broad reserve with mature plantings, a duck pond, sports fields, and a small rose garden. It is the city's go-to spot for picnics and afternoon walks, and on weekends the playground is well-used by families. The park was developed in the early twentieth century and retains the feeling of a Victorian-era public park — an unhurried contrast to the city centre a few minutes' walk away.

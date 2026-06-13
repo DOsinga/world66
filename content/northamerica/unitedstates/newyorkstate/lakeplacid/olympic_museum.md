@@ -13,6 +13,7 @@ story: >
   imported ice and straw. The organizers had to import snow from Canada by train.
 sources:
   - https://en.wikipedia.org/wiki/Lake_Placid_Winter_Olympic_Museum
+score: 7.8
 ---
 
 The Lake Placid Olympic Museum, attached to the Herb Brooks Arena on Main Street, documents both the 1932 and 1980 Winter Olympics held here. The permanent collection includes equipment, uniforms, medals, photographs, and film footage from both games, with particular attention to the stories behind the American gold medals and the "Miracle on Ice" hockey victory over the Soviets in 1980.

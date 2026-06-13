@@ -9,6 +9,7 @@ title: Great Synagogue of Tbilisi
 type: poi
 story: >
   Georgia has one of the oldest Jewish communities in the world — Georgian Jews, known as *Kartveli Ebraeli*, are thought to have arrived in the region following the Babylonian Exile in the 6th century BCE. Unlike Jewish communities in much of Europe, they experienced relatively little persecution over the centuries, living under both Christian Georgian kings and Muslim rulers without the systematic discrimination that defined Jewish life elsewhere. Most Georgian Jews emigrated to Israel after 1991, but a community remains.
+score: 6.8
 ---
 
 The Great Synagogue of Tbilisi stands in the Abanotubani district of the old town, close to the sulphur baths. It was built in 1921 and serves the Georgian Jewish community — one of the oldest Jewish communities in the world, with a history stretching back perhaps 2,600 years. The synagogue is an active house of worship.

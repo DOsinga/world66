@@ -9,6 +9,7 @@ tags:
   - architecture
 title: Church of El Salvador, Carabias
 type: poi
+score: 7.0
 ---
 
 The Church of El Salvador in Carabias is a small Romanesque church in the countryside west of Sigüenza. Its open arcaded porch is the feature to look for, a graceful rural version of the stone galleries found across parts of Castile.

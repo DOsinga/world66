@@ -13,6 +13,7 @@ story: >
   a significant number of shells fell within the temple compound but failed to
   explode. The Indian Army attributes this to the goddess Tanot Mata's protection.
   The unexploded shells are now displayed in a museum inside the compound.
+score: 6.4
 ---
 
 Tanot Mata Temple stands in the desert about 120 kilometres from Jaisalmer, close to the Pakistani border. The goddess Tanot Mata is considered the protector of the region, and the temple has been an important pilgrimage site for centuries. Today it is managed by the Border Security Force of India, which maintains a small museum in the temple compound displaying artefacts and photographs from the 1971 war, including shells that reportedly fell in the compound but did not detonate.

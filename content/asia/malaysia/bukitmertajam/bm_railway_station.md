@@ -9,6 +9,7 @@ latitude: 5.3611
 longitude: 100.4608
 story: >
   Bukit Mertajam is one of the most important rail junctions in Malaysia — the main north-south line from Singapore to Thailand splits here, with one branch heading northwest to Butterworth and the Penang ferry, and the other continuing north toward Alor Setar and the Thai border. The junction has been operationally significant since the British-era Federated Malay States Railways built through here in the early 20th century.
+score: 5.5
 ---
 
 The Bukit Mertajam railway station is a functional junction station on the main Malaysian rail network. The current building dates from the mid-20th century and has a compact platform layout reflecting its junction role. While not architecturally grand, the station is genuinely busy — it handles intercity trains between Kuala Lumpur and the north, and the operational switching of trains between the Butterworth branch and the main line gives it more activity than most towns of this size would warrant.

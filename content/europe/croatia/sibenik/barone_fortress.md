@@ -9,6 +9,7 @@ tags:
   - fortress
 story: >
   Šibenik built Barone in a panic in 1646, when the Ottomans were marching up from Bosnia. The townspeople reputedly threw it up in two months — every able-bodied citizen, including the bishop, hauling stones up Vidakuša hill. The Turks arrived, looked at the new walls and the new cannon, and turned around.
+score: 7.7
 ---
 
 Barone is the smartest of the restored fortresses, with a clean modern visitor centre, an augmented-reality history tour and a bar-restaurant that catches the late afternoon sun. The site is smaller than St Michael's but the panorama, slightly higher up the hill, takes in the whole archipelago.

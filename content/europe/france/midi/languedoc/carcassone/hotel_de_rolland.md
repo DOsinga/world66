@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 neighbourhood: Bastide Saint-Louis
+score: 6.0
 ---
 
 The Hôtel de Rolland is an eighteenth-century townhouse on the north side of the Bastide, originally built for one of the city's wealthy cloth merchants and now serving as the Mairie (town hall). The street facade is a restrained classical composition; the courtyard behind, screened from the public, has a more elaborate Renaissance-revival arcade.

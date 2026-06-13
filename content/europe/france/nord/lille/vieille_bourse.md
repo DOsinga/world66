@@ -15,6 +15,7 @@ story: >
   The building survived everything: French conquest, revolution, two world wars, and
   the decline of the textile industry that made Lille rich. The secondhand book market
   in its courtyard has been running since the 1970s and shows no signs of stopping.
+score: 9.1
 ---
 
 The Vieille Bourse is the great set piece of the Grand'Place and one of the most beautiful buildings in northern France. Built in 1653, it is a masterpiece of Flemish baroque: 24 identical houses arranged in a rectangle around a central courtyard, each façade ornamented with caryatids, garlands, and the busts of mathematicians and philosophers, under stepped gables of terracotta and stone. The complex was the commercial heart of Lille under Spanish rule — 24 separate chambers where merchants conducted business — and it remains an arresting piece of civic architecture three and a half centuries later.

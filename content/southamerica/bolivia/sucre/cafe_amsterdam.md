@@ -8,6 +8,7 @@ tags:
   - eating_out
   - cafe
 snippet: Dutch-Bolivian cafe with vegetarian food and good breakfasts
+score: 6.4
 ---
 
 Cafe Amsterdam, on Calle Bolívar a couple of blocks south of the plaza, is another long-running Dutch-Bolivian project in the city. The cafe-restaurant serves big breakfasts (Dutch pancakes a speciality), wraps, salads, a long vegetarian list, and a couple of decent Indonesian-leaning dishes — gado-gado, nasi goreng — that are otherwise hard to find in Bolivia. Profits support a children's NGO in the city.

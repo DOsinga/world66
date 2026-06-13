@@ -7,6 +7,7 @@ tags:
 title: AHHAA Science Centre
 type: poi
 story: "AHHAA holds the world's largest Hoberman sphere — a 8.5-meter diameter kinetic structure made from 6,500 aluminum components that expands and contracts like a mechanical flower. The science centre also houses Estonia's only 4D cinema and a planetarium. The building's location on the old town harbour was itself a statement: science in Tartu is public, central, and visible."
+score: 8.0
 ---
 
 AHHAA (pronounced like 'aha') is the largest science centre in the Baltic states and genuinely excellent — the kind of hands-on science museum that makes adults feel as engaged as children. The permanent exhibitions cover physics, chemistry, biology, and technology through interactive installations. The centrepiece is the world's largest Hoberman sphere, which expands and contracts on schedule above the main floor.

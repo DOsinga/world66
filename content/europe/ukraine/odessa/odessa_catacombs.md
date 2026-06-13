@@ -15,6 +15,7 @@ story: >
   Nerubayske, outside the city, where their underground shelter has been preserved
   exactly as they left it, including food, weapons, and the graffiti they scratched
   into the walls.
+score: 8.8
 ---
 
 Beneath Odessa lies one of the world's most extensive catacomb networks, stretching an estimated 2,500 kilometres under the city and the surrounding countryside. The tunnels began as limestone quarries in the 18th century — Odessa was largely built from the stone cut out of them — and grew into a vast, unmapped labyrinth. Only a small fraction has ever been properly explored or charted.

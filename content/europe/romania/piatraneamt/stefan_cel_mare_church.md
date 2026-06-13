@@ -10,6 +10,7 @@ title: Church of Saint John the Baptist
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/Nativity_of_St._John_the_Baptist_Church,_Piatra_Neam%C8%9B
+score: 8.1
 ---
 
 The Church of Saint John the Baptist, part of the Princely Court complex, is the most important medieval building in Piatra Neamț. Built by Ștefan cel Mare between 1497 and 1498, it exemplifies the Moldavian ecclesiastical style at its mature peak: a triconch plan (three-apsed) with Gothic decorative detailing on the portal and windows, sitting under a distinctive profile of drum and roof that would influence church construction in the region for a century.

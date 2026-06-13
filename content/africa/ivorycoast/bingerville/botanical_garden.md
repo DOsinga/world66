@@ -8,6 +8,7 @@ tags:
   - sight
   - garden
 story: "The garden was laid out in 1904 by colonial agronomists testing which tropical species could be commercialised in French West Africa. The original plant catalogue ran to over 600 species; many of the avenue trees today are direct descendants of those first plantings."
+score: 7.6
 ---
 
 The Jardin Botanique de Bingerville is one of the oldest scientific gardens in West Africa, founded in the early colonial period when Bingerville was still the capital of Côte d'Ivoire. Once a serious research station for tropical agriculture, it has slipped into a more romantic, half-wild state, with enormous fig trees, towering palms, and broad alleys shaded by mature mahogany.

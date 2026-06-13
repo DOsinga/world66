@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 45.9551
 longitude: 12.6607
+score: 7.0
 ---
 
 The Teatro Verdi is Pordenone's opera house, built in the nineteenth century in the neoclassical style typical of Italian civic theatres of the period. The interior has been restored and the theatre is now a lively venue for opera, drama, and concerts throughout the season, as well as serving as one of the main screening venues for the October silent film festival.

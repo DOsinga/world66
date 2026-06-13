@@ -8,6 +8,7 @@ tags:
   - sight
   - historic_site
 snippet: The old fortified town built from red Saharan clay
+score: 7.7
 ---
 
 The old ksar of In Salah is built in the red mud-brick architecture that characterizes the Tidikelt region — sun-baked walls, narrow shaded lanes, and small interior courtyards designed to keep the worst of the desert heat outside. Many of the buildings have crumbled or been replaced, but enough remains to give a real sense of what an oasis settlement looked like before concrete arrived.

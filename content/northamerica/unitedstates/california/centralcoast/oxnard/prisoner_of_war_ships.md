@@ -6,6 +6,7 @@ latitude: 34.1983
 longitude: -119.1800
 story: >
   The bone model ships at the Carnegie Art Museum were carved by French prisoners of war held in England during the Napoleonic Wars. With no wood available, prisoners used the bones left over from their food rations — scraping, polishing, and articulating them into intricate, fully-rigged ship models. The practice became so widespread that a small industry developed in the prison camps.
+score: 6.1
 ---
 
 Among the unexpected holdings of the Carnegie Art Museum in downtown Oxnard is a collection of miniature ship models carved from bone — the work of French prisoners of war held in England during the Napoleonic Wars in the early 19th century. The models are works of remarkable technical precision: fully rigged with thread made from hair, blocks and pulleys made from bone, hulls built plank by plank.

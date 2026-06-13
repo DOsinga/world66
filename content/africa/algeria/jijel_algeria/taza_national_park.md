@@ -13,6 +13,7 @@ story: >
   oak and oak forests shelter the rare Algerian nuthatch. That tiny bird has
   made this small coastal park far more important to conservationists than its
   size would suggest.
+score: 8.4
 ---
 
 Taza National Park protects a compact but wonderfully varied stretch of the Jijel coast and mountains: cork oak forest, cliffs, caves, hidden beaches, and the wooded Guerrouch massif. It is one of Algeria's smaller national parks, but it packs a lot into a short distance.

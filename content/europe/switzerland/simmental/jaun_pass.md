@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Jaun_Pass
 story: >
   The Jaun Pass is one of the few roads that connect the German-speaking Bernese Oberland with French-speaking Fribourg canton. The linguistic boundary runs roughly along the ridge, and within a few kilometres of the summit the signage switches language and the architecture shifts from dark wooden chalets to lighter stone farmhouses.
+score: 6.8
 ---
 
 The Jaunpass (1,509 m) is a mountain pass connecting the Simmental to the Gruyère region of Fribourg. The road over it is the western exit from the valley, open from roughly May to November — winter closure dates vary with snowfall. It is not a major transit route, which keeps it quiet.

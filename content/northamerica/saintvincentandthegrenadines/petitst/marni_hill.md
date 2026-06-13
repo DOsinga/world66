@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The 275-foot summit of the island, an easy walk with panoramic views of the southern Grenadines.
+score: 7.1
 ---
 
 Marni Hill is the high point of Petit St. Vincent at 275 feet — not high in any objective sense, but high enough to give a complete view of the southern Grenadines in good weather. A graded path winds up through tropical scrub and ends at a small clearing with stone benches. Walk early, before the heat, with water; the round trip takes about an hour.

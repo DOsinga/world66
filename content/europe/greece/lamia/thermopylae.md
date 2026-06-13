@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Thermopylae
 story: >
   The pass at Thermopylae was once genuinely narrow — a bottleneck between the cliffs and the sea wide enough for only a few men to fight abreast. Since antiquity the coastline has silted up and the pass is now a broad plain. Xerxes' fleet would have anchored where olive groves now grow.
+score: 8.4
 ---
 
 Twenty kilometres south of Lamia on the E75, the pass of Thermopylae is one of the most resonant sites in European history. In 480 BC, Leonidas of Sparta led a force of around 7,000 Greeks — including his 300 Spartans — in holding a Persian army of perhaps 100,000 to 200,000 men for three days. When a local shepherd named Ephialtes showed the Persians a mountain track that outflanked the position, Leonidas sent most of the Greek forces away and held the pass with 300 Spartans, 700 Thespians, and 400 Thebans until they were overwhelmed.

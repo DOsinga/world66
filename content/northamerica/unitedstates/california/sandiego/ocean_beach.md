@@ -8,6 +8,7 @@ tags:
 latitude: 32.7480
 longitude: -117.2526
 snippet: San Diego's hippie-holdout beach neighbourhood — laid-back, dog-friendly, pleasantly scruffy
+score: 7.8
 ---
 
 Ocean Beach is the part of San Diego that refused to gentrify entirely. The main street, Newport Avenue, runs from the pier down through a neighbourhood of antique stores, surf shops, vintage clothing, and bars that have been in the same location since the 1970s. The beach is wide, the vibe is slow, and dogs are allowed in the southern section near the pier — meaning Ocean Beach Dog Beach is legitimately one of the best off-leash urban beaches in the country.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Kali Mata Temple
 type: poi
+score: 5.9
 ---
 
 An actively worshipped Kali temple in the old city, well removed from the main tourist circuit. The lane leading to it narrows until motorcycles can barely pass, and the temple itself is modest — a painted facade, bells hung at the entrance, the smell of incense and marigold offerings. It is not on most itineraries, which is precisely its appeal.

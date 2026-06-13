@@ -9,6 +9,7 @@ tags:
   - park
   - nature
 snippet: Cloud-forest conservation area wrapping around the city
+score: 8.6
 ---
 
 The **Área de Conservación Regional Cordillera Escalera**, established in 2005, is a 149,000-hectare cloud-forest reserve that climbs from the Mayo valley to over 2,000 metres altitude immediately east and northeast of Tarapoto. It is the catchment for most of the rivers and waterfalls in the area, including Ahuashiyacu, and it protects spectacled bears, woolly monkeys, and several endemic birds.

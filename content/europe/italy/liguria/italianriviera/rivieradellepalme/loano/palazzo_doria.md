@@ -9,6 +9,7 @@ latitude: 44.1282
 longitude: 8.2591
 story: >
   The Doria family acquired Loano in 1263 with an unusual condition: they had to offer generous tax exemptions to anyone willing to resettle the town, which had been abandoned during Saracen raids. The strategy worked. The Dorias built their palace overlooking the sea as a statement of permanence, and the dynasty ruled here for more than three centuries.
+score: 7.5
 ---
 
 The Palazzo Doria is the centrepiece of Loano's old town, its 16th-century loggia looking directly out over the sea. The Doria family — one of Genoa's most powerful dynasties — ruled the town from here for over three hundred years, and the palace still communicates their confidence in stone.

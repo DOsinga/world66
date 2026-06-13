@@ -7,6 +7,7 @@ tags:
 - sight
 title: Qavam House
 type: poi
+score: 8.5
 ---
 
 The Naranjestan-e Qavam — "Place of Oranges" — was built in the 1880s by the Qavam-ol-Molk family, one of the most powerful merchant clans in Qajar Shiraz. The compound is a textbook example of late-19th-century Persian domestic architecture: a long pool flanked by orange trees, a richly tiled façade with a deep iwan, and reception rooms whose walls are covered in painted plasterwork mixing Persian and European motifs.

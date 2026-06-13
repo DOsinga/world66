@@ -8,6 +8,7 @@ tags:
   - sight
   - hankou
 neighbourhood: Hankou
+score: 6.8
 ---
 
 Jiqing Street, in the heart of Hankou, is the Wuhan night-food strip — a single long block of restaurants, bars, and food stalls that turns into a packed open-air dining hall every evening. The street has been a Wuhan night-life institution since the early 20th century, when the surrounding concession area boomed.

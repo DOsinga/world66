@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 7.2
 ---
 
 St. Katharinen, on the edge of the old town facing the Zollkanal and Speicherstadt, is the medieval mariners' church of Hamburg and one of the five great Hauptkirchen of the city. The 14th- and 15th-century brick-Gothic structure was gutted by Allied bombing in 1944; the post-war restoration kept the original tower (rebuilt with its copper-domed Baroque top) and rebuilt the nave in a quieter, almost austere mid-century style.

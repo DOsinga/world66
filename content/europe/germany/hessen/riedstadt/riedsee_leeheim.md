@@ -10,6 +10,7 @@ latitude: 49.86
 longitude: 8.4239
 sources:
   - https://en.wikipedia.org/wiki/Riedsee_bei_Leeheim
+score: 6.6
 ---
 
 The Riedsee is a gravel-pit lake near the village of Leeheim, in the northwest of the Riedstadt municipal area. Like many such lakes in the Rhine plain, it was formed through gravel extraction and has since been colonised by aquatic vegetation and wildlife. The lake and its surrounds are a designated nature area, and the combination of open water, reedy margins, and adjacent grassland makes it a reliable birdwatching spot, particularly for waders and waterfowl during migration.

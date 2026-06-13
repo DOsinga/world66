@@ -14,6 +14,7 @@ story: >
   factory gate in Monplaisir. The audience reportedly fled the room when a train
   appeared to rush toward them on screen. The Lyon factory where the films were shot
   is now the Institut Lumière.
+score: 8.1
 ---
 
 Lyon's Monplaisir neighbourhood is the birthplace of cinema. It was here that Auguste and Louis Lumière developed and patented the Cinématographe, the camera-projector that made moving pictures a practical possibility, and it was their factory's exit on the Rue Saint-Victor that featured in one of the world's first motion pictures in 1895.

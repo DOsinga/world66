@@ -15,6 +15,7 @@ story: >
   partially collapsed and the parish needed a new home. The barrel-vaulted upper
   hall, with its open loggias at both ends framing views of the valley, was a throne
   room where the king received visitors.
+score: 9.5
 ---
 
 The finest surviving example of Asturian pre-Romanesque architecture, perched on the slopes of Monte Naranco about two kilometres uphill from central Oviedo. The building is remarkably sophisticated for 9th-century Europe — a two-storey structure with a barrel-vaulted upper hall, open arcaded loggias at each end, and carved medallions showing animals and human figures that draw on late Roman, Visigothic, and even Eastern influences. Nothing else in Western Europe from this period comes close.

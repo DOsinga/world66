@@ -7,6 +7,7 @@ tags:
   - sight
 title: Maha Ganapati Temple
 type: poi
+score: 7.2
 ---
 
 In Hindu pilgrimage tradition, Ganesha — the remover of obstacles — is always propitiated before the main deity of any sacred site. At Gokarna, the Maha Ganapati Temple near the Kotiteertha tank is the first stop on a pilgrim's itinerary before visiting the Mahabaleshwara Temple. The temple houses a large stone Ganesha image and sees a constant stream of devotees throughout the day.

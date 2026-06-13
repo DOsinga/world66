@@ -6,6 +6,7 @@ latitude: 44.467777
 longitude: 34.143333
 story: >
   The Yalta Conference of February 1945 was held in the White Palace's state ballroom. Roosevelt, too ill to climb stairs, was given the Tsar's private apartments on the ground floor. Churchill, put up in the former harem building down the road, complained bitterly about the accommodation. The famous photograph of the Big Three — Churchill, Roosevelt, and Stalin — was taken in the palace courtyard on February 9, 1945, eight weeks before Roosevelt's death.
+score: 9.2
 ---
 
 Livadia Palace was the summer retreat of Tsar Nicholas II and his family, a gleaming white Italian Renaissance structure set in parkland above the sea just 3 km west of Yalta. Built between 1910 and 1911 by the architect Nikolai Krasnov, it replaced an earlier palace on the same site and was intended as the family's most important private residence outside of St. Petersburg.

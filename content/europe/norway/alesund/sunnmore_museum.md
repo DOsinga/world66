@@ -8,6 +8,7 @@ latitude: 62.4687
 longitude: 6.2360
 sources:
   - https://en.wikipedia.org/wiki/Sunn%C3%B8re_Museum
+score: 7.9
 ---
 
 The Sunnmøre Museum is an open-air collection of about 55 traditional buildings from the Sunnmøre region, reassembled around a small fjord arm on the eastern edge of Ålesund. Farms, boathouses, fishing huts, and a medieval trading post cluster around the water's edge in a setting that somehow manages not to feel artificial.

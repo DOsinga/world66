@@ -9,6 +9,7 @@ latitude: 52.4059
 longitude: 13.0118
 sources:
   - https://en.wikipedia.org/wiki/Lindstedt_Palace
+score: 6.6
 ---
 
 Schloss Lindstedt is the westernmost and least-visited of the Sanssouci-area palaces — a modest neoclassical villa at the edge of the park, originally a summer residence for Frederick William IV. It sits outside the main tourist circuit and offers a pleasantly quiet alternative to the crowded palaces further east. The building was extensively modified in the 1850s and the gardens replanted; it is now used partly as an events venue but the exterior and grounds are freely accessible.

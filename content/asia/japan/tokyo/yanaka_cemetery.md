@@ -9,6 +9,7 @@ latitude: 35.7260
 longitude: 139.7693
 snippet: Atmospheric cemetery in old Tokyo where cherry blossoms bloom over the graves of shoguns
 story: "Yanaka Cemetery is the final resting place of Tokugawa Yoshinobu, the last shogun of Japan, who died in 1913. His grave is here, in a city his family once ruled, surrounded by the ordinary dead of a neighborhood that survived the earthquakes and bombs that destroyed most of Edo-era Tokyo."
+score: 8.2
 ---
 
 Yanaka Cemetery sits at the heart of one of Tokyo's most intact pre-war neighborhoods, a place where the city's usual relentless modernity has not yet arrived. The cemetery covers 26 acres and holds over 7,000 graves — ordinary citizens, Buddhist priests, and historical figures including the last Tokugawa shogun — in a mix of styles from simple stones to elaborate mausoleums.

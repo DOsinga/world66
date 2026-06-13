@@ -8,6 +8,7 @@ tags:
 latitude: 55.633
 longitude: 12.083
 story: Roskilde Festival began in 1971 as a small open-air concert and grew into one of Europe's largest music festivals — consistently ranked among the world's top ten. All profits go to charitable and humanitarian causes through the Roskilde Foundation, making it one of the few major festivals with an explicit social mission baked into its founding structure.
+score: 7.7
 ---
 
 Roskilde Festival takes place each summer (typically late June to early July) on the fields south of Roskilde, and for that week the population of the town effectively doubles. It draws around 130,000 visitors across eight days and attracts major international headliners alongside a programme of world music, electronic, and emerging artists that has historically given it more curatorial ambition than most festivals of its size.

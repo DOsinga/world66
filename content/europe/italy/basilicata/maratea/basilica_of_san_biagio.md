@@ -12,6 +12,7 @@ story: >
   according to local tradition, are still kept in a silver bust in the basilica. Each year on the
   second Sunday in May, the saint's bust is carried in procession from the basilica down to the old
   town and back — one of the oldest continuously celebrated religious festivals in southern Italy.
+score: 7.9
 ---
 
 The Basilica of San Biagio occupies the summit ridge of Monte San Biagio just below the Cristo Redentore statue. It is the oldest church in the area and the holiest place in Maratea — built over what is believed to be an earlier temple of Minerva, with the present church largely 17th and 18th century in form but containing significantly older elements.

@@ -7,6 +7,7 @@ tags:
 latitude: 59.1961
 longitude: 17.6133
 snippet: Three Viking Age memorial rune stones in situ on an ancient road
+score: 7.1
 ---
 
 On the old road to Turinge, three Viking Age rune stones stand roughly where they were raised in the 11th century — a rare instance of runestones in their original positions, rather than moved to a museum or a churchyard. They are known as the Holmfast Inscriptions and are catalogued as Sö 311, Sö 312, and Sö 313. The inscriptions commemorate members of a local family, the last of whom seems to have died on a Viking expedition.

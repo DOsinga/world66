@@ -11,6 +11,7 @@ snippet: Extravagant Edwardian folly crowning Williamson Park, visible for miles
 sources:
   - https://en.wikipedia.org/wiki/Ashton_Memorial
   - https://en.wikipedia.org/wiki/Williamson_Park,_Lancaster
+score: 8.3
 ---
 
 The Ashton Memorial is one of the most eccentric buildings in England: a vast baroque dome rising from the wooded hilltop of Williamson Park, visible from the motorway and from as far as the Lake District. Built between 1906 and 1909 by local industrialist Lord Ashton (James Williamson, who made a fortune in linoleum), it was commissioned as a monument to his late wife. The architect was John Belcher, who gave it an exuberance that the setting deserves.

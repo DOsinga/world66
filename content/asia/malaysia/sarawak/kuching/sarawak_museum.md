@@ -6,6 +6,7 @@ latitude: 1.5547
 longitude: 110.3436
 story: >
   The Sarawak Museum was founded in 1891 by Charles Brooke with considerable help from Alfred Russel Wallace, the naturalist who independently developed the theory of evolution by natural selection at the same time as Darwin. Wallace collected extensively in Borneo — some of his original specimens are in the collection — and the museum was partly established as a repository for the natural history of the region he had documented. The connection between the museum and Wallace's intellectual legacy is one of the more unlikely threads in the history of science.
+score: 8.5
 ---
 
 The Sarawak State Museum occupies a Victorian building in the style of a Normandy town hall — an architectural oddity in a Bornean city that somehow works. It is the oldest museum in Borneo and houses one of the finest ethnographic collections in Southeast Asia, covering the material culture, tools, weapons, carvings, and costumes of the Dayak, Malay, and Chinese communities of Sarawak. The natural history section includes Bornean wildlife, with particular depth on the insects and birds of the state.

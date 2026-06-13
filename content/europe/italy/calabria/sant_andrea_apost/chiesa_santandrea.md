@@ -7,6 +7,7 @@ tags:
 - sight
 title: "Church of Sant'Andrea Apostolo"
 type: poi
+score: 6.9
 ---
 
 The parish church of Sant'Andrea Apostolo stands at the heart of the hilltop borgo and gives the town its full, slightly improbable name. The façade is Baroque in character — not on the scale of the great southern Italian churches, but handsome for a village of this size, with carved stone detailing around the portal. Inside, the proportions are intimate, the light falls softly through narrow windows, and a handful of 18th-century paintings line the walls alongside a carved wooden choir that has survived without restoration. It is a working church, not a monument, and that makes it more interesting to visit than many a grander but emptier building.

@@ -7,6 +7,7 @@ snippet: The essential Memphis craft brewery, in an industrial neighborhood near
 tags:
   - bars_and_cafes
   - bar
+score: 7.2
 ---
 
 Wiseacre Brewing, founded in 2013 by two brothers who grew up in Memphis and studied brewing in Germany, is the brewery that Memphis beer drinkers talk about first. The flagship Ananda IPA has the kind of balanced, drinkable quality that makes it a session beer for people who normally avoid IPAs. The Tiny Bomb Pilsner is equally accomplished — clean, crisp, and better than most American craft pilsners. The taproom is in an industrial warehouse on the edge of downtown that has been thoughtfully fitted out without losing its character.

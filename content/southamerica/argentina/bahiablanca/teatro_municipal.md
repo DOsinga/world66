@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -38.7175
 longitude: -62.2647
+score: 7.5
 ---
 
 Bahía Blanca's Municipal Theatre is one of the most impressive civic buildings in the city — a handsome Italian-influenced structure from the early 20th century that reflects the prosperity the city enjoyed during the wheat and wool export boom. The interior is particularly fine, with a traditional horseshoe-shaped auditorium, ornate plasterwork, and good acoustics.

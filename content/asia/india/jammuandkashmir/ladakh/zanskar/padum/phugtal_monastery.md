@@ -12,6 +12,7 @@ story: >
   Geography that some scholars identify with Phugtal, suggesting the monastery cave was
   known to the ancient world via the Silk Road trading network. The cave itself is still
   used for meditation by resident monks.
+score: 9.5
 ---
 
 Phugtal Monastery is one of the most spectacular sights in all of Ladakh — a gompa built directly into and around a large natural cave, clinging to the side of a sheer gorge far in the southern part of the Zanskar valley. Approaching it from a distance, the monastery looks almost impossible: a cluster of white-painted buildings emerging from the cliff face, with the dark mouth of the cave visible at the centre. Around 70 monks of the Gelugpa school live here.

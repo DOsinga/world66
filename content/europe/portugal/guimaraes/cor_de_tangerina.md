@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - vegetarian
+score: 5.8
 ---
 
 A welcome vegetarian restaurant in a city otherwise devoted to roast meat. Cor de Tangerina sits in a narrow lane just off Rua de Santa Maria, with tables in a small courtyard garden under an old fig tree.

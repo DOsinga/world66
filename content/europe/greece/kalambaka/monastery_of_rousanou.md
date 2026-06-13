@@ -8,6 +8,7 @@ tags:
   - monastery
 title: Monastery of Rousanou
 type: poi
+score: 8.1
 ---
 
 The Monastery of Rousanou, now a convent, sits on one of the lower Meteora rocks and is connected to the main plateau by a narrow bridge, making it slightly more accessible than the other monasteries. It was founded around 1545, though the rock had been inhabited by hermits long before. The nuns who live here today maintain the gardens and the church with care.

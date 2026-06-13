@@ -6,6 +6,7 @@ longitude: 6.0705
 tags:
   - bars_and_cafes
   - bar
+score: 5.5
 ---
 
 The Alpe d'Huez branch of the Alps-wide après-ski chain delivers exactly what the brand promises: live DJs, costumed dancers on the bar, sparkling wine by the magnum, all on a sun terrace at altitude with the mountains as a backdrop. Sessions run roughly from 2pm to 5pm and the crowd is mostly young and very loud.

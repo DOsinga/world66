@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature]
 latitude: 50.1916
 longitude: -5.5992
 story: The Gurnard's Head promontory takes its name from the resemblance of the headland's profile — seen from the sea — to a gurnard fish, and the similarity is close enough that fishermen used it as a navigational landmark for centuries.
+score: 7.7
 ---
 
 Gurnard's Head is a dramatic promontory on the B3306 about 2 miles west of Zennor, one of the finest headlands on the Penwith coast. The path from the small car park at the road leads to the point in about 15 minutes, crossing clifftop heath carpeted with gorse and heather. The head drops in near-vertical granite cliffs to the Atlantic on three sides, with views across to the Isles of Scilly on a clear day.

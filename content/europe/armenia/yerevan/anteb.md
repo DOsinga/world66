@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: 4 Sayat-Nova Avenue
+score: 6.7
 ---
 
 A small western Armenian restaurant — the cooking comes from the Cilician city of Antep (Gaziantep, in modern Turkey) — that has built a loyal following among diasporans returning to Yerevan. The menu runs to lahmajun, manti, kebabs with cherry sauce, raw kibbeh, and the kind of vegetable mezze that the eastern Mediterranean does best.

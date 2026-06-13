@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.1447
 longitude: 37.8955
+score: 4.8
 ---
 
 Debark is the small highland town at the foot of the Simien Mountains that serves as the gateway to the national park. Most trekkers arrive here from Gondar — a three-hour drive on a good road — and spend a night before beginning the trek the following morning. Debark has a handful of guesthouses, basic restaurants, and the national park headquarters where permits, guides, and scouts are organised.

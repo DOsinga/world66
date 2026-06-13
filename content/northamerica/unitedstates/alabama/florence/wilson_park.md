@@ -8,6 +8,7 @@ tags:
 address: 350 N Wood Ave, Florence, AL 35630
 latitude: 34.8003
 longitude: -87.6786
+score: 5.9
 ---
 
 A small green square on Wood Avenue at the centre of downtown Florence, Wilson Park is the social heart of the city in fair weather. It hosts the Shoals Farmers' Market on Saturday mornings, the Tuesday First Fridays art walk in summer, and the W.C. Handy Festival's free concerts in late July.

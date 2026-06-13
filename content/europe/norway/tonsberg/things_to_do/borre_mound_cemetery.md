@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Borre_mound_cemetery
 story: >
   The Borre burial mounds were used as a source of fill when a new road was built in the 1850s. A local antiquarian raised the alarm when workmen uncovered a ship burial — the Borre ship — along with gilded bronze bridle fittings of extraordinary quality. The finds defined an entire artistic style now known worldwide as the Borre style. The road-builders had no idea what they were pulling out of the ground.
+score: 8.5
 ---
 
 The Borre mound cemetery, about 25 kilometres north of Tønsberg near the town of Horten, is the largest surviving group of Viking-age royal burial mounds in Scandinavia. Nine large mounds and a number of smaller ones occupy a headland above the Oslofjord, set among old trees in a quiet park that most people pass through without pausing. They should pause.

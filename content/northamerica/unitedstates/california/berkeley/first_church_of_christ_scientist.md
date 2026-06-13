@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.8658
 longitude: -122.2560
+score: 8.2
 ---
 
 Bernard Maybeck's 1910 church on Dwight Way is one of the great pieces of Bay Area architecture — a National Historic Landmark that most visitors to Berkeley walk past without noticing. Maybeck combined American Craftsman style with Byzantine Revival, Romanesque, and Gothic elements in a way that should not work but emphatically does, the whole thing unified by the quality of the materials and the seriousness of the craftsmanship.

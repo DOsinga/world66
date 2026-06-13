@@ -8,6 +8,7 @@ latitude: 43.8860
 longitude: 125.3250
 story: >
   The square was originally designed by Japanese urban planners as the central hub of Hsinking — the planned Manchukuo capital — with major boulevards radiating out in different directions in a pattern modelled loosely on Washington DC and other planned capitals. The original Japanese name was Datong Square, and the radiating street pattern is still visible from above, a ghost of the colonial city plan embedded in the modern urban fabric.
+score: 6.5
 ---
 
 People's Square is the formal civic centre of Changchun, a large open plaza surrounded by government buildings and flanked by major thoroughfares. The square itself is unremarkable as a space, but its history is layered: it was designed by Japanese urban planners in the 1930s as the central hub of Hsinking, the Manchukuo capital, and the street plan radiating from it is still the underlying structure of the city centre.

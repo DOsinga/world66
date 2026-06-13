@@ -9,6 +9,7 @@ longitude: -79.5572
 snippet: Imposing 1914 government building with famous staircase murals of Canal construction
 sources:
   - https://en.wikipedia.org/wiki/Panama_Canal_Administration_Building
+score: 7.6
 ---
 
 The Administration Building sits on a low hill above Balboa, a cream-coloured neoclassical pile built in 1914 to house the headquarters of the Canal Zone government. It remained the nerve centre of Canal operations until the handover to Panama in 1999 and is still used by the Panama Canal Authority today.

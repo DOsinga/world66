@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.345
 longitude: -8.752
+score: 7.5
 ---
 
 Vila do Conde's beach is a long, broad Atlantic strand with clean sand and reliable surf. The beachfront esplanade (Avenida do Brasil) runs parallel to the beach for most of its length, backed by cafes and restaurants that open in summer. The beach is popular with families in July and August and is well-served with lifeguards and facilities during the season.

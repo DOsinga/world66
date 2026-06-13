@@ -7,6 +7,7 @@ latitude: 42.8761
 longitude: -109.9458
 story: >
   The pronghorn antelope migrations through Trappers Point have been happening for thousands of years — archaeological evidence shows that Native Americans drove pronghorn herds through this natural funnel to hunt them in large numbers. The same migrations continue today, and the site is one of the few places in North America where you can witness a large animal migration on the same terrain used by hunters thousands of years ago.
+score: 8.1
 ---
 
 Trappers Point, a few miles west of Pinedale, is both an archaeological site and an active wildlife corridor. The mesa and surrounding terrain form a natural bottleneck that has funnelled pronghorn antelope migrations for thousands of years. Archaeological digs have uncovered evidence of systematic pronghorn hunting here going back at least 5,000 years.

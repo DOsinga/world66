@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: "15th-century tower house on the highest point of the island"
 story: "The O'Briens held the castle until 1582, when the rival Clan Flaherty captured it. The English crown then granted it to the Earl of Thomond, who promptly dismantled most of the upper floors so it could never again be defended against him."
+score: 8.2
 ---
 
 A small but elegant 15th-century tower house, built by the O'Briens of Thomond on the highest point of Inis Oirr — about 60 metres above the sea, with views in every direction over the patchwork of stone walls below. The castle sits inside the much older earthen ringfort of Dún Formna, so the strategic value of the site goes back centuries before the tower was built.

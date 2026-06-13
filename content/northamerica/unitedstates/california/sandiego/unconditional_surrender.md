@@ -7,6 +7,7 @@ tags:
 latitude: 32.7168
 longitude: -117.1736
 snippet: A 25-foot sculpture of the famous WWII kissing photo on the Embarcadero — San Diego's most photographed landmark
+score: 3.8
 ---
 
 The Unconditional Surrender statue on San Diego's Embarcadero is a 25-foot cast of the 1945 Alfred Eisenstaedt photograph of a sailor kissing a nurse in Times Square at the end of World War II. The sculpture by J. Seward Johnson has been installed permanently since 2007, and has become the city's most reliably photographed landmark despite being relatively recent.

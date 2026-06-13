@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.9494
 longitude: 15.2668
+score: 5.8
 ---
 
 The baroque Plague Column stands on Palacký Square in the town centre, erected in 1715 to give thanks for the end of a plague epidemic. The column is decorated with groups of saints and topped by the Virgin Mary — a standard form for Central European plague monuments of the period, but well executed and in good condition. It serves as the visual anchor of the main square.

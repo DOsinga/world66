@@ -9,6 +9,7 @@ tags:
 - beach
 title: La Tortuga
 type: poi
+score: 5.8
 ---
 
 This is a very poor village, living mostly from artisanal fishing. That's about all they eat too. A good place to volunteer, I'd say.

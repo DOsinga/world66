@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 5.8
 ---
 
 The parish church of Sant'Eugenio was built in 1660 in the simple Baroque style of the rural Ligurian hinterland. It stands in the centre of the village and contains a small collection of period altarpieces, processional crosses, and a fresco cycle of moderate quality from the 18th century.

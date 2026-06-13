@@ -7,6 +7,7 @@ tags:
 latitude: 51.6594
 longitude: -0.4031
 snippet: Local history museum in a converted Georgian brewery house
+score: 6.7
 ---
 
 Housed in Benskins House — the elegant 18th-century home of the local brewing family, who once owned half of Watford. The museum tells the story of the town from Roman Watling Street through the printing and brewing industries to the post-war commuter boom, with rooms set up to show how the brewing family lived.

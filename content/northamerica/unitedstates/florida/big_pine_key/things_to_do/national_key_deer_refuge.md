@@ -9,6 +9,7 @@ tags:
   - wildlife
 sources:
   - https://en.wikipedia.org/wiki/National_Key_Deer_Refuge
+score: 8.6
 ---
 
 The National Key Deer Refuge protects 8,542 acres of pine rocklands, mangrove forests, and freshwater wetlands across Big Pine Key and No Name Key — habitat for the Key deer, one of the smallest subspecies of white-tailed deer in North America. At maturity, bucks stand barely 26 to 32 inches at the shoulder and weigh around 55 to 75 pounds. The population was critically endangered in the late 1940s when hunting and habitat loss had reduced their numbers to fewer than 50 animals. The refuge was established in 1957, hunting was banned, and the population has since recovered to roughly 700 to 1,000 individuals.

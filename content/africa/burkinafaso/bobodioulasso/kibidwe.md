@@ -13,6 +13,7 @@ story: >
   organises its own festivals, blacksmith forges and ritual masks
   separately from the city around it. Many residents still speak Bobo,
   one of the older Mande languages of the region.
+score: 8.7
 ---
 
 Kibidwé is the oldest neighbourhood in Bobo-Dioulasso, a maze of dirt lanes and traditional Sudanese-style mud houses immediately around the Grande Mosquée. The Bobo people who founded the city still live here in compounds clustered around small courtyards, and the quarter feels more like a village than a downtown district even though the rest of the city presses up against it.

@@ -6,6 +6,7 @@ longitude: -4.6756
 tags:
   - things_to_do
   - sight
+score: 7.8
 ---
 
 The Iron Age hillfort of Caer y Twr crowns the summit of Holyhead Mountain. A drystone rampart, in places still two metres high, encloses an area of about seventeen acres on the eastern side of the peak. The structure dates from the first millennium BC, and the Romans later added a watchtower of their own to keep an eye on the Irish Sea raiders who terrorised the coast in the late Empire.

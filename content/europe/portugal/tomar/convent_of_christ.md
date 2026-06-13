@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Convent_of_Christ_(Tomar)
 story: >
   The Knights Templar built their first chapel here as a sixteen-sided rotunda, the Charola, modelled on the Church of the Holy Sepulchre in Jerusalem. Mounted knights could ride directly into the building and hear Mass without dismounting — a practical solution for a military order that prided itself on never removing armour. When the Templars were dissolved in 1312 and refounded as the Order of Christ, the building passed to their successors, who kept building for another three centuries.
+score: 9.7
 ---
 
 The Convent of Christ is one of Portugal's great architectural achievements and a UNESCO World Heritage Site since 1983. What began as a twelfth-century Templar fortification became an immense layered complex covering centuries of European architectural styles — Romanesque, Gothic, Manueline, Renaissance, and Mannerist elements accumulated as successive Grand Masters and Portuguese monarchs added their contributions. The hill above Tomar is now barely visible beneath its walls.

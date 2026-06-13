@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
   - historic_building
+score: 6.2
 ---
 
 The Edwinola opened in 1912 as a luxury railway hotel — three storeys of brick, with a wide veranda and rocking chairs, advertised to wealthy northerners coming south on the Atlantic Coast Line. It is the most prominent piece of historic architecture in Dade City after the courthouse.

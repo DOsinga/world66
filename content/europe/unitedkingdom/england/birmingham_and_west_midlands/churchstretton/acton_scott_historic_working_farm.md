@@ -9,6 +9,7 @@ latitude: 52.5017
 longitude: -2.8042
 sources:
   - https://en.wikipedia.org/wiki/Acton_Scott
+score: 6.8
 ---
 
 Acton Scott Historic Working Farm, run by Shropshire Council, demonstrates what farming looked like in the 1870s — before mechanisation transformed the countryside. The farm uses heavy horses instead of tractors, keeps rare breed livestock, and runs the buildings and equipment as they would have appeared in the Victorian era. Demonstrations of ploughing, milling, butter-making, and blacksmithing run through the season.

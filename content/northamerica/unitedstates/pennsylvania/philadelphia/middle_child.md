@@ -7,6 +7,7 @@ tags:
 latitude: 39.9451
 longitude: -75.1613
 snippet: "Lunch and brunch destination known for generous, creative sandwiches — expect a queue on weekends"
+score: 6.4
 ---
 
 Middle Child is a lunch and brunch spot on 11th Street that has built a devoted following on the strength of its sandwiches — substantial, creative combinations built on good bread with fillings that go well beyond the standard deli repertoire. The Reuben Intervention (corned beef, Russian dressing, Swiss, sauerkraut, but improved) and the Tuna Melt are regular fixtures; the specials rotate and are worth whatever they happen to be.

@@ -7,6 +7,7 @@ snippet: A pleasant western residential district, close to the botanical garden 
 tags:
 - things_to_do
 - neighbourhood
+score: 5.8
 ---
 
 Grigorescu, on the western edge of Cluj, is a relatively green residential district with leafy streets, mid-rise 1960s blocks, and rising property prices. The area sits at the foot of the hills that lead up to Hoia-Baciu Forest, and the open-air section of the Ethnographic Museum is here.

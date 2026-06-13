@@ -9,6 +9,7 @@ tags:
 latitude: 32.5289
 longitude: -117.0183
 snippet: "Tijuana's craft food and beer hub, with food trucks and local breweries."
+score: 6.4
 ---
 
 Telefónica Gastro Park is a permanent food truck and brewery park in Zona Río that helped define what Tijuana's new food scene looks like. The concept is simple: a dozen or so food trucks and taco stands cluster around an outdoor seating area, alongside taps from several of Tijuana's craft breweries.

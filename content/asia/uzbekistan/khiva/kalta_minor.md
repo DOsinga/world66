@@ -14,6 +14,7 @@ story: >
   top. He died in battle in 1855, the work stopped, and the minaret was left at
   29 metres — a colossal turquoise stump that has come to define Khiva more
   thoroughly than any of the city's finished monuments.
+score: 8.5
 ---
 
 The Kalta Minor, the "Short Minaret", is the first thing you see as you step through the Ata Gate. The shaft is sheathed entirely in glazed turquoise and majolica tiles arranged in bands of geometric and floral pattern — even unfinished, it is the most fully tiled minaret in Central Asia. The colour, particularly in late afternoon light, is extraordinary.

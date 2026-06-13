@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - neighbourhood
 - bars_and_cafes
+score: 7.2
 ---
 
 Via del Pratello runs west from the city centre into a slightly grittier, slightly more left-wing district that was once the working-class edge of Bologna. The street is now a long ribbon of osterie, jazz clubs, vintage shops, and political bookstores — the kind of nightlife area where Bolognese go and tourists rarely venture.

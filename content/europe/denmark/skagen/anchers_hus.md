@@ -8,6 +8,7 @@ latitude: 57.7262
 longitude: 10.5969
 sources:
   - https://en.wikipedia.org/wiki/Anchers_Hus
+score: 8.3
 ---
 
 The former home of Michael and Anna Ancher, two of the most important Skagen Painters, has been preserved as a museum. Anna Ancher in particular was unusual for her time — a professional painter who studied in Paris and Copenhagen, working from her own home rather than the male-dominated studios and plein-air camps. Her studio is still set up as she left it.

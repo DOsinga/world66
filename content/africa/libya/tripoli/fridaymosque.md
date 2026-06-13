@@ -13,6 +13,7 @@ story: >
   become a powerful figure in Ottoman Tripoli. His sea raids on European shipping made him
   wealthy enough to fund one of the city's grandest religious buildings — a common path to
   prestige in the 17th-century Mediterranean.
+score: 7.7
 ---
 
 The Friday Mosque — also known as the Jami' Mosque or Great Mosque of Tripoli — was founded by Othman Ra'is in 1670 during the Ottoman period. It stands in the heart of the old medina and remains one of the most significant Islamic monuments in Libya. The mosque's courtyard, colonnaded arcades, and minaret follow the North African Ottoman style, with local craftwork visible in the tile-work and carved stonework.

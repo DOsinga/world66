@@ -7,6 +7,7 @@ tags:
 - religious_site
 title: Karmelitenkloster
 type: poi
+score: 8.0
 ---
 
 The Carmelite monastery on the Kaulberg, founded in the thirteenth century and still home to a small Carmelite community. The cloister — a square of Romanesque arcades around a green garth — has capitals carved with extraordinary variety, every column different, from Old Testament scenes to medieval grotesques. Quiet, free to enter on weekday afternoons, often empty.

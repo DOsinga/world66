@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/St_Andrews_Sarcophagus
 story: >
   The sarcophagus was likely made for a Pictish king — possibly Óengus mac Fergusa, who died in 761 and was one of the most powerful rulers in early medieval Scotland. The hunting scene on the front panel includes a man wrestling a lion, which would have been a royal symbol of power and perhaps an allusion to the biblical story of David. The sarcophagus was discovered in the cathedral ruins in 1833, having been buried for centuries.
+score: 7.9
 ---
 
 The St Andrews Sarcophagus is one of the most important pieces of Pictish sculpture in existence and the finest thing in the Cathedral Museum. Dating from the second half of the 8th century, it is a large carved shrine — not a sarcophagus in the standard sense, but a box-like structure that would have held the bones of a saint or king — decorated on all four sides with intricate relief carving.

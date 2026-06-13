@@ -15,6 +15,7 @@ story: >
   Thames School of Mines, which trained engineers for mines across the Pacific.
 sources:
   - https://en.wikipedia.org/wiki/Thames,_New_Zealand
+score: 6.3
 ---
 
 Thames is the largest town on the Coromandel Peninsula and its main service centre, sitting at the southwestern end of the peninsula at the mouth of the Waihou River. It has the unpretentious, slightly faded character of a former gold-rush town that has settled into a quieter life, and is a useful base for exploring the southern peninsula or accessing the Coromandel Forest Park walks.

@@ -7,6 +7,7 @@ tags:
 - bar
 title: Hotel Bars on the Hoheweg
 type: poi
+score: 4.8
 ---
 
 For a drink that doesn't involve a basement full of twenty-year-olds comparing bungee jump footage, the hotel bars along the Hoheweg offer the alternative. The bar at the Victoria-Jungfrau Grand Hotel is the most formal and expensive option, but it is also genuinely beautiful: high ceilings, leather armchairs, and the full Belle Époque treatment. Drinks prices reflect the setting.

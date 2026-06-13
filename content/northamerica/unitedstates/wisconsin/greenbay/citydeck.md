@@ -9,6 +9,7 @@ longitude: -88.0160
 snippet: Riverfront boardwalk along the Fox River with outdoor events and restaurants
 sources:
   - https://en.wikipedia.org/wiki/CityDeck
+score: 6.4
 ---
 
 CityDeck is a half-mile boardwalk along the Fox River in downtown Green Bay, completed in 2010 as part of a waterfront revitalization effort. It is the city's main outdoor gathering space — used for summer concerts, the weekly farmer's market, winter skating, and simply walking along the river. The surrounding blocks have several restaurants and bars, making it the most animated part of the downtown area.

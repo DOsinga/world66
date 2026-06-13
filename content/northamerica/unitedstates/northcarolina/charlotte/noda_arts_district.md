@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 35.2439
 longitude: -80.8268
+score: 7.8
 ---
 
 NoDa — short for North Davidson — is Charlotte's established arts district, about three kilometres northeast of Uptown. The neighbourhood grew up around a nineteenth-century textile mill, and when the mill closed in the 1990s, artists and musicians moved into the cheap storefronts and warehouses. The result is a genuine creative district rather than a manufactured one: galleries, live music venues, tattoo shops, vegetarian restaurants, and dive bars occupy a walkable stretch of North Davidson Street.

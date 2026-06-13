@@ -8,6 +8,7 @@ tags:
 - church
 title: Basilica of Our Lady of Lourdes
 type: poi
+score: 6.8
 ---
 
 The Basilica of Our Lady of Lourdes is one of the most prominent Catholic churches in Belo Horizonte, designed in a high Neo-Gothic style and consecrated in 1957. The exterior — pinnacles, pointed arches, a tall central spire — is unusually European for a Brazilian church and recalls the great Belgian and French churches of the late nineteenth century.

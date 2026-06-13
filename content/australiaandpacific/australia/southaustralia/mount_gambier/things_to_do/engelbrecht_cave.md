@@ -9,6 +9,7 @@ tags:
   - historic_house
 sources:
   - https://en.wikipedia.org/wiki/Engelbrecht_Cave
+score: 7.1
 ---
 
 Engelbrecht Cave is a flooded limestone cave system beneath a residential suburb north of the city centre. It is one of the few places in the world where cave divers can begin a dive directly from dry land — the cave entrance sits at the surface, and the passages extend downward into the aquifer below. Experienced cave divers come from across Australia and internationally to explore the system.

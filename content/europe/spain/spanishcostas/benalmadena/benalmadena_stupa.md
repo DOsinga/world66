@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The stupa was inaugurated in 2003 by Lopon Tsechu Rinpoche, a Bhutanese-born lama who chose the site personally. He died only weeks after the opening, and many followers see the stupa as his final completed work."
+score: 7.9
 ---
 
 On a ridge above Arroyo de la Miel stands the largest Buddhist stupa in the Western world — a 33-metre-high white spire set against an unlikely backdrop of palm trees and apartment blocks. The Enlightenment Stupa was built by the Karma Kagyu lineage of Tibetan Buddhism and inaugurated in 2003.

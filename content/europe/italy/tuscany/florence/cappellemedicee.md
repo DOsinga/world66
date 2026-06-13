@@ -11,6 +11,7 @@ tags:
 - church
 title: Cappelle Medicee
 type: poi
+score: 8.6
 ---
 
 The Medici Chapels consist of the dazzling marble-lined Chapel of the Princes and Michelangelo's austere New Sacristy (1520-34), which contains the sculptor's famous tomb figures: Day and Night on the tomb of Giuliano de' Medici, Dawn and Dusk on the tomb of Lorenzo de' Medici. The contrast between the baroque excesses of the main chapel and the stripped classicism of Michelangelo's space is striking.

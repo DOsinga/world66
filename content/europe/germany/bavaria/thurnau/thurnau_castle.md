@@ -9,6 +9,7 @@ latitude: 50.0256
 longitude: 11.3942
 story: >
   The castle passed through numerous noble families over the centuries before becoming the property of the University of Bayreuth in 1975. One of its more unusual chapters came in the 18th century under the Giech family, who turned Thurnau into a minor centre of Enlightenment culture, supporting craftsmen, traders, and religious minorities at a time when such openness was rare in rural Franconia. The castle's east wing still contains frescoed rooms from this period.
+score: 8.1
 ---
 
 Thurnau Castle (Schloss Thurnau) is a sprawling complex of buildings from the 13th to the 18th centuries, making it one of the largest castle ensembles in Upper Franconia. Its scale reflects centuries of expansion by successive noble families — the castle grew over time rather than being built to a single plan, which gives it a rambling, organic character quite different from the more formal Baroque palaces of the region.

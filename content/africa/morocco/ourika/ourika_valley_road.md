@@ -8,6 +8,7 @@ latitude: 31.3100
 longitude: -7.7500
 sources:
   - https://en.wikipedia.org/wiki/Ourika_Valley
+score: 7.5
 ---
 
 The road through the Ourika Valley is itself one of the best things about visiting. Starting from the flat plains south of Marrakesh, it climbs into the High Atlas along the course of the Ourika River, and the transformation happens quickly. Within 30 kilometres the road is threading between red clay cliffs, the river running fast below, terraced plots of vegetables and fruit trees clinging to every flat shelf above the waterline.

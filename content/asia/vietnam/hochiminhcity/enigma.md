@@ -9,6 +9,7 @@ tags:
 - bar
 title: Enigma
 type: poi
+score: 5.1
 ---
 
 Enigma is a downtown wine bar in Ho Chi Minh City. It charges Western prices for wine — expect to pay considerably more than you would at a local bia hoi — but in return you get a calm atmosphere, decent decor, and none of the usual street-side hassle. A reasonable option if you want a quiet glass of wine after a long day.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.9500
 longitude: 81.4500
+score: 5.9
 ---
 
 The Ili River flows west through Yining and across the border into Kazakhstan, one of the few major rivers in Xinjiang that actually exits China rather than disappearing into the desert. It runs through a broad valley between the Tian Shan ranges to the north and south, fed by snowmelt from peaks that stay white well into summer, and the combination of water and fertile soil gives the valley its lush character.

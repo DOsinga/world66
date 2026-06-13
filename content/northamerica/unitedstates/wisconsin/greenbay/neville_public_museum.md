@@ -9,6 +9,7 @@ longitude: -88.0186
 snippet: Regional museum covering the history, science and art of northeast Wisconsin
 sources:
   - https://en.wikipedia.org/wiki/Neville_Public_Museum_of_Brown_County
+score: 8.0
 ---
 
 The Neville Public Museum is the main cultural institution in Green Bay, covering the natural and human history of northeast Wisconsin from the last ice age to the present. The permanent collection includes significant Native American material, particularly relating to the Oneida, Menominee, and other peoples of the region, and the Wisconsin-focused natural history exhibits are strong.

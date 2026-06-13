@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 44.4416
 longitude: -92.1284
+score: 7.0
 ---
 
 Harbor View Cafe has an outsized reputation for a restaurant in a village this small. It is a seasonal, cash-only, no-reservations operation that fills up fast on summer weekends — people drive from the Twin Cities specifically for it. The menu changes with the season and leans on local farms and the river: walleye, duck, pork from nearby producers, vegetables that reflect what is actually growing in Wisconsin right now.

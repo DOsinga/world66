@@ -9,6 +9,7 @@ latitude: 49.5700
 longitude: -117.0600
 sources:
   - https://en.wikipedia.org/wiki/Kootenay_Lake
+score: 8.2
 ---
 
 Kootenay Lake stretches more than 100 kilometres northeast of Nelson into the heart of the Selkirks. The west arm — the section Nelson sits on — is calmer and more sheltered than the main lake, making it ideal for kayaking and stand-up paddleboarding. Lakeside Park on the western edge of town has a sandy beach, picnic shelters, and a boat launch; it is the main swimming spot for locals.

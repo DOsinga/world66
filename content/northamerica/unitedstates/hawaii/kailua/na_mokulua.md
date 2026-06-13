@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 21.3889
 longitude: -157.6989
 story: "Both islets are state seabird sanctuaries — closed entirely above the high-tide line on the smaller one, restricted to a single small beach on the larger. Landing in any other spot is illegal and disturbs nesting wedge-tailed shearwaters, which dig burrows in the soft volcanic soil."
+score: 7.8
 ---
 
 Nā Mokulua — universally known as 'the Mokes' — are the two near-identical, conical islets that sit a mile offshore from Lanikai Beach. They are by far the most photographed feature of the windward coast. On a calm morning a confident kayaker can paddle out to the larger of the two (Moku Nui), where a small protected sandy beach faces back toward Oahu.

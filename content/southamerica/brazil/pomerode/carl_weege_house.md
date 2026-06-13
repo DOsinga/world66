@@ -9,6 +9,7 @@ latitude: -26.7370
 longitude: -49.1750
 story: >
   Carl Weege was among the first settlers of what would become Pomerode, arriving in the 1860s. His house has been preserved largely as he left it, making it one of the most intact examples of early German immigrant domestic life in Brazil.
+score: 7.8
 ---
 
 The Carl Weege Immigrant House Museum preserves the original home of one of Pomerode's founding settlers, built in the characteristic enxaimel style — the half-timbered construction technique the German immigrants brought from Pomerania and adapted to the tropical forest timber they found in the Itajaí Valley.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 11.4076
 longitude: -69.6779
+score: 6.8
 ---
 
 Goat in coconut milk is the signature dish of Falcón state and turns up on most Coro menus, but the version worth seeking out is at the small restaurants around the Plaza Bolívar and along Calle Zamora. The goat is slow-stewed for hours with onion, sweet pepper, garlic, and coconut milk until the meat falls off the bone; it comes with white rice, fried plantain, and a wedge of casabe.

@@ -14,6 +14,7 @@ story: >
   sanctuary in the world. Today the sanctuary holds over 70 koalas and is
   one of the most visited wildlife attractions in Australia, though it still
   occupies the same patch of river bend it has always stood on.
+score: 6.7
 ---
 
 About 12 km southwest of the city centre in Fig Tree Pocket, Lone Pine Koala Sanctuary is the world's oldest and largest dedicated koala sanctuary. It holds over 70 koalas and you can hold one for a photograph — one of the few places in Australia where this is permitted. There are also kangaroos, wombats, Tasmanian devils, echidnas, and a large selection of Australian birds.

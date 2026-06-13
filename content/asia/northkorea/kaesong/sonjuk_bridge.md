@@ -16,6 +16,7 @@ tags:
 - sight
 title: Sonjuk Bridge
 type: poi
+score: 6.2
 ---
 
 A small stone bridge just east of the Koryo Museum, dating from 1216. The bridge itself is modest — it crosses a narrow stream and would attract no attention at all if not for what happened here in 1392. Koreans treat the spot with genuine reverence, and the story of Chong Mong-ju is still taught in schools on both sides of the border.

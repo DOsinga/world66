@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 74.697
 longitude: -94.841
+score: 8.4
 ---
 
 Resolute's latitude of nearly 75 degrees north means extreme light conditions at both ends of the year. From May to August, the sun does not set — the midnight sun circles overhead throughout the night, and the light takes on an extraordinary golden quality in the early and late hours. This continuous daylight makes the brief Arctic summer unusually vibrant and disorienting to visitors not accustomed to sleeping in full sun.

@@ -10,6 +10,7 @@ tags:
   - old_portsmouth
 neighbourhood: Old Portsmouth
 story: "Henry V is said to have ordered the Round Tower in 1418 after a Genoese raid burned half the town. A chain used to be slung across the harbour mouth between this tower and Fort Blockhouse on the Gosport side — pulled tight at night to keep out unwanted ships."
+score: 7.9
 ---
 
 The two towers guarding the entrance to Portsmouth Harbour are the oldest surviving defensive structures in the city. The Round Tower (1418) and Square Tower (1494) form a pair of stone artillery platforms on the Hot Walls — the seaward face of the medieval defences.

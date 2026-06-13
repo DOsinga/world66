@@ -7,6 +7,7 @@ tags:
   - lake
 latitude: 61.4790
 longitude: 6.0650
+score: 6.8
 ---
 
 A long narrow lake stretching east from Førde into the mountain landscape of inner Sunnfjord. The road along its southern shore follows a valley flanked by steep wooded hillsides, giving an easy drive through classic western Norwegian scenery without needing to venture far from town.

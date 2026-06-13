@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Votive_Church,_Szeged
 story: >
   The church was built as a collective act of gratitude after the catastrophic Tisza flood of 1879 destroyed most of Szeged. The city council vowed to erect a great church if the city survived and was rebuilt — and survive it did, with significant support from Emperor Franz Joseph, who famously promised that "Szeged will be more beautiful than before." Construction on the votive church began in 1913 and took until 1930 to complete, meaning the finished building outlasted both the empire and the monarch who inspired it.
+score: 8.4
 ---
 
 The Votive Church — officially the Cathedral of Our Lady of Hungary — dominates Dóm Square with twin neo-Romanesque towers rising 91 metres above the city. It is the fourth-largest church in Hungary and by far the most visible landmark in Szeged, visible from the ring boulevards and from the Tisza bridges on a clear day. The interior is richly decorated with mosaics, frescoes, and a large organ that remains one of the finest in Central Europe.

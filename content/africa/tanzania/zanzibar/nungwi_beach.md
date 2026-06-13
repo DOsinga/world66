@@ -9,6 +9,7 @@ tags:
   - sight
 snippet: Zanzibar's best swimming beach, with dhow-builders at work on the shore
 story: "The beach at Nungwi is where Zanzibar's last traditional dhow-builders still work, fashioning wooden sailing vessels by hand using methods unchanged for centuries. You can watch the hulls being shaped with adzes while snorkelling just offshore over coral gardens."
+score: 8.3
 ---
 
 Nungwi sits at the northern tip of Unguja, and is arguably Zanzibar's finest beach — not just for the colour of the water (a deep turquoise that bleaches white closer to shore) but because the northern tip largely avoids the tidal extremes that plague the east coast. You can swim comfortably at any time of day, which the more famous east coast beaches cannot always offer.

@@ -13,6 +13,7 @@ story: >
   survived in the Canaries because the islands were never glaciated. Walking
   through the Anaga in mist feels genuinely ancient: the trees are draped with
   lichen and moss, and the forest floor is a tangle of roots and ferns.
+score: 9.1
 ---
 
 The Anaga Rural Park covers the jagged northeast peninsula of Tenerife, a series of sharp ridges and deep ravines carpeted in ancient laurel forest. This is the wildest and least-visited part of the island — a complete contrast to the resort coasts — with narrow roads twisting along knife-edge ridges and trails dropping steeply into hidden valleys where small farming communities persist with no road access.

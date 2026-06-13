@@ -14,6 +14,7 @@ tags:
   - architecture
 title: Cathedral of Sigüenza
 type: poi
+score: 9.2
 ---
 
 The Cathedral of Sigüenza is part church, part fortress, and it sets the tone for the whole town. Begun in the 12th century after the Christian reconquest, it keeps the heavy Romanesque massing of its earliest phase, then opens inside into Gothic chapels, Renaissance additions, and a treasury of carved stone.

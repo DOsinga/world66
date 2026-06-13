@@ -11,6 +11,7 @@ tags:
 - restaurant
 title: Salvadores
 type: poi
+score: 6.4
 ---
 
 Four white plastic tables under a faded blue awning. A small bar with four stools. A shelf of paperback books for tourists to borrow. And a man named Salvador with a smile that won't quit. That's Salvadores.

@@ -8,6 +8,7 @@ tags:
 - nature
 title: Sanya River
 type: poi
+score: 6.4
 ---
 
 The Sanya River cuts through the centre of the city and empties into Sanya Bay just west of the downtown. It is short and tidal, and the bridges across it — particularly the Sanya River Bridge with its sweeping arch — give some of the best vantage points over the city skyline and Phoenix Island beyond. The promenade along the eastern bank has been landscaped into a park strip with palms, exercise equipment, and food stalls in the evenings.

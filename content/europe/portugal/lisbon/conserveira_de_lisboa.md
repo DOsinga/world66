@@ -15,6 +15,7 @@ story: >
   sold today in specialist shops like Conserveira de Lisboa are produced by
   the handful of surviving companies, some of which still use vintage designs
   from the 1930s.
+score: 7.4
 ---
 
 The finest place in Lisbon — possibly in the world — to buy tinned sardines, tuna, mackerel, and other preserved fish. The shop has been at Rua dos Bacalhoeiros 34 since 1930, and the stacked shelves of tins from Portuguese canneries, many with vintage or collector-edition packaging, make it look more like a museum than a shop.

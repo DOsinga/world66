@@ -12,6 +12,7 @@ story: >
   tallest building in Africa. The project cost more than $1 billion and was funded by the
   Algerian state during a period of high oil revenues. Construction paused several times
   when oil prices fell.
+score: 6.8
 ---
 
 The Great Mosque of Algiers (Djamaâ el Djazaïr) is one of the most ambitious building projects in recent Algerian history. Located in the Mohammadia district west of the centre, the mosque can hold up to 120,000 worshippers and its minaret is visible from much of the city.

@@ -16,6 +16,7 @@ story: >
   public tenderness toward her during seizures — covering her face with his
   handkerchief to shield her from view, then quietly resuming conversation
   — was widely noted and admired by contemporaries.
+score: 7.6
 ---
 
 The First Ladies National Historic Site is the only institution in the United States dedicated to the history of America's First Ladies. Managed by the National Park Service, it occupies the restored Saxton McKinley House in downtown Canton — the Victorian mansion where Ida Saxton grew up before becoming the wife of the 25th president.

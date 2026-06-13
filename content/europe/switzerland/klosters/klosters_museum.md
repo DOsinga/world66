@@ -7,6 +7,7 @@ tags:
 latitude: 46.883
 longitude: 9.883
 story: The Nutli-Hüschi is a typical Walser farmhouse from the 17th century, preserved in the centre of Klosters as a small local museum. "Hüschi" is the Walser diminutive for house — these communities were named for the Walser settlers who migrated from Valais across the high Alpine passes in the medieval period, and their architecture and dialect survived in the Prättigau long after they disappeared elsewhere.
+score: 6.8
 ---
 
 The Nutli-Hüschi is a small ethnographic museum occupying a well-preserved 17th-century farmhouse in the centre of Klosters. It documents the history of Walser settlement in the Prättigau valley and preserves an interior that shows how these mountain farming families lived before the alpine resort era. Rooms are furnished with original pieces including hand-carved furniture, agricultural tools, and traditional textiles.

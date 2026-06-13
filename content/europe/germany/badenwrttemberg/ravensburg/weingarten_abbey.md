@@ -13,6 +13,7 @@ story: >
   to be the largest mounted pilgrimage in the world — carry a relic of the Holy
   Blood of Christ through the surrounding countryside. The Blutritt has taken
   place every year since 1529, with only brief interruptions during the World Wars.
+score: 9.2
 ---
 
 Weingarten Abbey is one of the grandest Baroque churches in Germany, and standing in front of it you understand why. The basilica, built between 1715 and 1724 on a hilltop above the town, is enormous — longer than St Peter's in Rome when measured differently. The interior is lavishly frescoed by Cosmas Damian Asam and Franz Joseph Spiegler, and the Gabler Organ, built between 1735 and 1750 with over 6,600 pipes, is one of the finest surviving Baroque organs in the world.

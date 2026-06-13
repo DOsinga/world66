@@ -7,6 +7,7 @@ tags:
   - waterfall
 latitude: -4.8500
 longitude: 38.3667
+score: 7.1
 ---
 
 About 12 km south of Lushoto, on the road in from Mombo, the small town of Soni sits at a curve in the Bangala River that drops over a sequence of waterfalls into a forested gorge. The falls are not large but the setting is lovely — black rock walls, hanging ferns, the noise of the cataract muting everything else.

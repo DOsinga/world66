@@ -8,6 +8,7 @@ story: The Forum opened in 2019 after years of construction delays, including a 
 tags:
 - things_to_do
 - museum
+score: 8.9
 ---
 
 The Forum is Groningen's most striking modern building — an angular ten-storey cube of stacked galleries, clad in grey stone, anchoring the east side of the Grote Markt. Inside is a public library, the new Storyworld comic museum, a cinema with five screens, an extension of the Groninger Museum, and a series of cafes that wind up to the roof.

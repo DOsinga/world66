@@ -10,6 +10,7 @@ tags:
   - bar
   - restaurant
 snippet: Sucre's classic traveller cafe, bar, and breakfast spot
+score: 6.3
 ---
 
 Joy Ride Cafe on Calle Nicolás Ortiz has been the central traveller meeting point in Sucre for two decades. By day it is a breakfast and lunch cafe — vast pancakes, eggs benedict, salads, smoothies, very good coffee — with strong Wi-Fi and an upstairs room of long tables that always seems half-full of digital nomads and backpackers. By night it becomes a bar with live music on weekends, cocktails, and a noisy crowd.

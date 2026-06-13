@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 7.8
 ---
 
 At kilometre 38 of the road between Mazagón and Matalascañas, a small car park marks the start of a wooden boardwalk that runs over the dunes to the sea. The walk takes about ten minutes through low scrub and umbrella pines and leads to one of the wildest and quietest stretches of beach on the Costa de la Luz.

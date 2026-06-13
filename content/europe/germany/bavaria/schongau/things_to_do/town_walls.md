@@ -13,6 +13,7 @@ story: >
   from the salt trade — Schongau was one of the towns through which Bavarian salt passed on
   its way south over the Alps. Unlike many Bavarian towns, Schongau never grew large enough
   to demolish its medieval fortifications, which is why they survive nearly complete.
+score: 8.4
 ---
 
 The medieval town walls encircling the Altstadt of Schongau are among the best-preserved in Bavaria, with most of the original towers and wall sections still standing. The walls date largely from the 14th and 15th centuries, when Schongau was a prosperous town on the salt and textile trade routes. Walking the full circuit of the walls — possible in under an hour — gives a clear sense of the town's original extent and the quality of its fortifications.

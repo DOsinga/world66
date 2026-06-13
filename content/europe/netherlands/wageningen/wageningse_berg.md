@@ -13,6 +13,7 @@ story: >
   During the Battle of the Grebbeberg in May 1940, Dutch forces held positions on the ridge lines south and west of Wageningen for four days against the German advance. The Grebbeberg itself, a few kilometres west near Rhenen, saw the bloodiest fighting of the Dutch defence of the Netherlands. The wooded hills around Wageningen still contain wartime earthworks and memorials visible to those who look.
 sources:
   - https://en.wikipedia.org/wiki/Wageningse_Berg
+score: 7.3
 ---
 
 The **Wageningse Berg** is the southernmost finger of the Veluwe, the large forested moraine ridge that runs across the centre of Gelderland. From the crest of the hill, there are clear views south over the Rhine flood plain and west toward Rhenen. The slope is forested with oak, beech, and mixed woodland, crossed by walking and cycling paths that connect to the broader Veluwe network.

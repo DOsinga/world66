@@ -12,6 +12,7 @@ story: >
   its powerful resonance — to the city of Genoa on the condition that it never be sold.
   It is brought out once a year for a concert by a prize-winning violinist and has
   been played by Joshua Bell, Hilary Hahn, and Maxim Vengerov, among others.
+score: 7.8
 ---
 
 The largest palace on Via Garibaldi now serves as Genoa's city hall, but part of it is open to visitors as a museum. The main draw is the Paganini collection: Niccolò Paganini's personal violin (a 1743 Guarneri del Gesù), letters, portraits, and memorabilia from the greatest violinist of the 19th century, who was born in Genoa in 1782.

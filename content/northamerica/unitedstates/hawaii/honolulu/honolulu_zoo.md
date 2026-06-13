@@ -8,6 +8,7 @@ tags:
 - waikiki
 title: Honolulu Zoo
 type: poi
+score: 6.7
 ---
 
 The Honolulu Zoo occupies 42 acres at the Diamond Head end of Kapiolani Park, making it one of the few zoos in the world within walking distance of a famous beach. The zoo is best known for its African Savanna section — one of the most naturalistic African exhibits in the United States, with giraffes, elephants, rhinoceroses, and zebras roaming a large open habitat.

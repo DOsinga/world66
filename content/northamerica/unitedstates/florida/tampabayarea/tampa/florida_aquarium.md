@@ -9,6 +9,7 @@ longitude: -82.4489
 snippet: One of the best aquariums in the Southeast, with a massive coral reef tank and shark dive programmes
 story: >
   The Florida Aquarium was built on the site of Tampa's old working docks and opened in 1995. Its "Coral Reef" gallery contains one of the largest living coral reef displays in the country — a 500,000-gallon tank where Caribbean reef sharks, loggerhead sea turtles, and thousands of tropical fish coexist in a recreation of a Florida Keys reef ecosystem.
+score: 6.9
 ---
 
 The Florida Aquarium is one of Tampa's best family attractions and genuinely worthwhile for adults. It sits on the downtown waterfront, a short walk from the convention centre, and covers Florida's aquatic environments from freshwater springs and mangroves through to open ocean reefs. The centrepiece is the massive coral reef gallery, where a two-storey viewing window looks into a 500,000-gallon tank populated with sharks, rays, sea turtles, and a dense cloud of reef fish.

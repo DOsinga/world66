@@ -7,6 +7,7 @@ tags:
 - landmark
 latitude: 36.2247
 longitude: 117.1055
+score: 7.6
 ---
 
 The Red Gate (Hongmen) is the formal entrance to the Mount Tai climb proper, a low brick-and-stone gateway with red walls and the inscriptions of countless pilgrims carved into the rock around it. From here the staircase begins its long ascent through pine forest, and the procession of climbers — old and young, in trainers and pilgrim red — sets off in earnest.

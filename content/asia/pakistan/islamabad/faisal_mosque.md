@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The mosque was designed by the Turkish architect Vedat Dalokay after he won an international competition in 1969 — controversially, because his entry had no dome and looked more like a desert tent than a traditional mosque. Construction was funded by King Faisal of Saudi Arabia, who was assassinated in 1975 before the building was finished."
+score: 9.2
 ---
 
 The Faisal Mosque is Islamabad's most distinctive monument: a great sweeping white concrete tent at the foot of the Margalla Hills, framed by four 90-metre minarets at the corners. When it opened in 1986 it was the largest mosque in the world by area; it remains one of the largest, with capacity for around a hundred thousand worshippers across the prayer hall and the surrounding courtyard.

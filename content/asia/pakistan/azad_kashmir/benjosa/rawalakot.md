@@ -5,6 +5,7 @@ tags:
   - day_trips
 latitude: 33.8581
 longitude: 73.7614
+score: 5.3
 ---
 
 The administrative centre of Poonch district and the nearest town to Banjosa, Rawalakot sits at about 1,675 metres in an open valley about 18 km to the northwest. It is a busy, functional town with the full range of services Banjosa lacks: banks, ATMs, pharmacies, restaurants, and a range of guesthouses.

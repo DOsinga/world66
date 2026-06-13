@@ -9,6 +9,7 @@ tags:
   - park
   - nature
 story: "The Nagyerdő was Hungary's first protected nature reserve, designated in 1939 — almost a decade before any other Hungarian park got formal protection. The oaks here are descendants of the great oak forest that once covered most of the Northern Great Plain before it was cleared for grazing and farming."
+score: 8.0
 ---
 
 The Nagyerdő is Debrecen's green backyard — a 2,000-hectare oak forest on the northern edge of the city that functions as park, spa complex, university campus, and zoo all at once. Tram line 1 runs in a loop from the city centre out to the forest and back, and locals treat the ride as a Sunday outing. Once there, the choice is yours: thermal baths, paddleboats on the artificial lake, the small zoo, the amusement park, or just a walk under the oaks.

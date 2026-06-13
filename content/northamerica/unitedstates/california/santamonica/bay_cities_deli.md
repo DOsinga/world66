@@ -7,6 +7,7 @@ tags:
 latitude: 34.0208
 longitude: -118.4756
 snippet: "A legendary Italian deli on Lincoln Boulevard serving the best sandwiches in the city"
+score: 7.7
 ---
 
 Bay Cities on Lincoln Boulevard has been a Santa Monica institution since 1925 and is famous specifically for its Godmother sandwich — salami, ham, capicola, mortadella, provolone, on fresh-baked Italian bread with a condiment called The Works (pepperoncini, pickled vegetables, olive oil). Lines form before opening on weekends and the deli sells out of popular items early. This is the sort of place that has genuinely earned its reputation.

@@ -10,6 +10,7 @@ longitude: -98.1983
 snippet: "Tallest bell towers in Mexico, a vast gilded interior, and 74 years in the making"
 story: >
   Construction of the cathedral began in 1575 and was not completed until 1649 — a span of 74 years that accounts for the mixture of Renaissance, Herreran, and Baroque styles visible in the facade. The twin bell towers, at 69 metres, remain the tallest in Mexico.
+score: 8.5
 ---
 
 One of the most important cathedrals in Mexico, dominating the south side of the Zócalo. The exterior is imposing rather than ornate — grey stone towers, a sober Herreran facade — but the interior is another world: vast, gilded, with an onyx altar, intricate choir stalls carved from dark wood, and a powerful Baroque organ that fills the nave during mass.

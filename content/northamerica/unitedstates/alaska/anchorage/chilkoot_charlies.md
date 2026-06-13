@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Sprawling sawdust-floor bar — Anchorage's most famous nightlife venue
+score: 7.1
 ---
 
 Chilkoot Charlie's — universally known as Koot's — is the city's most famous bar and has been since 1970. Twelve themed rooms with sawdust floors, three dance floors, several stages for live music, and a notoriously rowdy crowd. The bus and limo from downtown is the safe way to get there and back; the cab line out front is a sign of how hard it is to leave on a weekend night.

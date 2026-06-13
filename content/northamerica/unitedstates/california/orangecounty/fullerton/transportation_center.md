@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 The Fullerton Transportation Center, on the southern edge of downtown, is one of the oldest active train stations in Southern California — the original Spanish Mission Revival depot was built in 1930 by the Santa Fe Railway, and a smaller 1923 Union Pacific depot stands next to it. Today the station handles around twenty Amtrak Pacific Surfliner trains a day plus Metrolink commuter services to Los Angeles and San Bernardino.

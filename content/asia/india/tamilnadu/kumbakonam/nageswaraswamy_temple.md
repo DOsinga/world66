@@ -9,6 +9,7 @@ tags:
 - temple
 snippet: "Early Chola temple of the 9th century, with some of the finest sculpture in Tamil Nadu"
 story: "On the days around the Tamil month of Chithirai, the rising sun is said to fall directly on the lingam inside the inner sanctum, an effect built into the temple's original ninth-century alignment."
+score: 8.8
 ---
 
 The Nageswaraswamy Temple is older and smaller than the more famous temples in Kumbakonam, but for many visitors it is the most rewarding. Built in the ninth century during the early Chola period — when the dynasty was rising and its temple architecture was at its most refined — it is dedicated to Shiva in the form of Nagaraja, lord of serpents.

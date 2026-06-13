@@ -13,6 +13,7 @@ story: >
   in three during the winter months, you are watching the same phenomenon that
   puzzled Han dynasty astronomers — but from a place they could never have
   imagined reaching.
+score: 8.7
 ---
 
 Beiji Village sits at 53 degrees north latitude, close enough to the magnetic influence of the arctic that the aurora borealis is visible on clear nights from roughly November through March. On a good night above the frozen Amur River — with Russia silent on the far bank and no competing light — the experience is among the most memorable that northeastern China offers. The combination of extreme cold, absolute quiet, and the Siberian taiga stretching away in all directions gives the viewing conditions a quality that purpose-built aurora tourism destinations cannot replicate.

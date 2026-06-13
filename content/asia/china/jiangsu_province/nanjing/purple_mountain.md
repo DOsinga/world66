@@ -9,6 +9,7 @@ tags:
 - mountain
 - sight
 story: The mountain is called Purple (Zi) Mountain because the summit rocks have a purplish hue at dawn and dusk when the sun hits them at low angles. The Hongwu Emperor chose this mountain for his tomb partly for its colour, which was associated with the Star of the Purple Forbidden Enclosure — the astronomical term for the North Pole Star and its surrounding stars, which represented the Emperor himself in Chinese cosmology.
+score: 8.7
 ---
 
 Purple Mountain (紫金山, Zijin Shan) is the forested hill east of the city centre that contains most of Nanjing's major historical sights: the Ming Xiaoling Tombs, the Sun Yat-sen Mausoleum, the Linggu Temple, and the Nanjing Museum are all within or at the foot of the mountain. A cable car connects several of the main sites.

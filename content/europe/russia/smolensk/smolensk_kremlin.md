@@ -10,6 +10,7 @@ story: >
   The wall was built between 1596 and 1602 on the orders of Tsar Boris Godunov, who feared a Polish attack — justified, as it turned out: the Poles besieged and took Smolensk in 1611 after a 20-month siege. The architect, Fyodor Kon, built it to be genuinely formidable: up to 6 metres thick and 13-17 metres high in places. It worked well enough that Smolensk changed hands repeatedly in the 17th century, each assault involving enormous losses.
 sources:
   - https://en.wikipedia.org/wiki/Smolensk_Kremlin
+score: 8.8
 ---
 
 The Smolensk Kremlin is not a kremlin in the usual sense of a fortified inner citadel — it is the defensive outer wall of the entire old city, a massive red-brick fortification running for nearly seven kilometres in a loop around the city centre. Of the original 38 towers, 17 survive. Walking sections of the wall and climbing the surviving towers gives the most visceral sense of the city's military character.

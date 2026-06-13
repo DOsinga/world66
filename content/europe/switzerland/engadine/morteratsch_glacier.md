@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4350
 longitude: 9.9340
+score: 8.4
 ---
 
 The Morteratsch Glacier is the largest glacier in the Bernina group and one of the most visited in Switzerland — not primarily because it is beautiful (though it is), but because the retreat of its terminus is so visibly, starkly documented. Wooden signs placed along the moraine path mark where the glacier's snout stood in 1870, 1900, 1930, 1960, 1990, 2000, 2010, and thereafter at every few years. The gap between the last sign and the present ice grows noticeably from year to year.

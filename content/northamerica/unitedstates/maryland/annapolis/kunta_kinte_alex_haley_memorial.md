@@ -13,6 +13,7 @@ story: >
   named Kunta Kinte, who arrived in Annapolis aboard the slave ship Lord
   Ligonier on 29 September 1767. The memorial sits at the exact spot at the
   head of the city dock where that ship is believed to have docked.
+score: 6.8
 ---
 
 A bronze statue group at the head of the City Dock showing Alex Haley reading to three children, with a plaque marking the arrival point of his ancestor Kunta Kinte from West Africa in 1767. A second element, the Compass Rose engraved in granite at Haley's feet, points across the Atlantic to The Gambia, where Kinte's village of Juffure stood. A third element is a set of "Story Wall" plaques tracing the journey of the slave ship.

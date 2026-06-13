@@ -9,6 +9,7 @@ tags:
 - shopping
 title: Lottie Bogotti
 type: poi
+score: 3.7
 ---
 
 A very groovy and Bohemian shop selling antiques and vintage treasure including Murano art glass, old English silver, antique bags, dresses made out of vintage silk saris, jewellery made out of antique beads, chandeliers, renovated furniture, antique ornaments and brass, copper and silver candlesticks and bits and bobs.

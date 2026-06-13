@@ -9,6 +9,7 @@ tags:
   - museum
 title: Criccieth Castle
 type: poi
+score: 8.2
 ---
 
 Criccieth Castle stands on a rocky headland above Cardigan Bay, commanding views in every direction — across the water to the Cambrian Mountains and back along the coast toward Snowdonia. It was built by the Welsh prince Llywelyn the Great in the early 13th century, later extended by his grandson Llywelyn ap Gruffudd, and then captured and modified by Edward I after his conquest of Wales. In 1404, it was taken and burned by Owain Glyndŵr during the Welsh uprising and never rebuilt.

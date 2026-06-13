@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Dreefzicht
 type: poi
+score: 4.5
 ---
 
 A neighbourhood restaurant on the western edge of the old centre, serving Asian wok dishes. Popular with locals for its straightforward cooking and reasonable prices. Good value for a quick dinner before or after visiting the Draaiorgel Museum nearby.

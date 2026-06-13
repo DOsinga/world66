@@ -13,6 +13,7 @@ story: >
   coloured lights, and Frank Lloyd Wright-inspired towers. The entire effect was designed so that Long
   Beach residents would not notice that their harbour was being drilled for oil. The ruse worked, largely.
   Each island was named after an Apollo-era astronaut: Grissom, White, Chaffee, and Freeman.
+score: 5.8
 ---
 
 Just offshore from Long Beach are four artificial islands that look, from a distance, like Polynesian resort developments — complete with palm trees, waterfall features, and distinctive towers. In reality they are active oil drilling platforms, built in the 1960s and disguised at the insistence of Long Beach residents who objected to industrial structures visible from shore. The islands collectively sit above one of the most productive oil fields in the continental United States and have produced hundreds of millions of barrels since they were built.

@@ -15,6 +15,7 @@ tags:
 - sight
 title: Begijnhof
 type: poi
+score: 8.3
 ---
 
 One of Belgium's finest béguinages, and far quieter than its more famous counterpart in Bruges. The walled enclosure contains a cluster of whitewashed houses around a central church, shaded by lime trees. It is still inhabited today — by Benedictine nuns rather than béguines — and the atmosphere of calm is genuine. Step through the gate and the city disappears.

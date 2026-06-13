@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Collection of pre-Columbian ceramics and skulls in the Charcas museum complex
+score: 7.8
 ---
 
 The Museo de Antropología is one wing of the Museo Universitario Charcas and can be visited as part of the combined ticket. The collection focuses on the indigenous cultures of southern Bolivia from the pre-Columbian period through the colonial encounter: Tiwanaku-influenced ceramics, textiles from the Andes and lowlands, mummies preserved in the dry mountain air, and a substantial display of trepanated skulls that show Andean surgeons had been doing successful brain surgery for centuries before the Spanish arrived.

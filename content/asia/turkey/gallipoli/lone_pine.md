@@ -14,6 +14,7 @@ story: >
   tree were eventually planted back at the site where the tree had stood. The
   pine growing here today is a descendant of those cuttings — a tree that had
   to travel to Australia and back before it could take root again.
+score: 8.6
 ---
 
 Lone Pine is one of the most emotionally powerful sites on the Gallipoli peninsula. The Australian National Memorial here bears the names of over 4,900 Australian and New Zealand soldiers who died on Gallipoli and have no known grave. The cemetery itself contains 1,167 graves, many of them simply inscribed "Known unto God."

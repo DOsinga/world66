@@ -15,6 +15,7 @@ story: >
   Bersbuch was reopened as a heritage railway — making it one of the few working
   examples of the once-widespread Bosnian-gauge (760mm) narrow-gauge railways
   that crossed the Alps.
+score: 7.6
 ---
 
 The Wälderbahn (Forest Railway) is a heritage narrow-gauge steam and diesel railway operating on a preserved section of the original Bregenzerwaldbahn between Bezau and Bersbuch. The original line ran from Bregenz into the valley, opening in 1902 and closing in 1980; this preserved section opened for heritage operations in 1983.

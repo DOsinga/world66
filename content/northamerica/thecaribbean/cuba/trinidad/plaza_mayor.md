@@ -7,6 +7,7 @@ tags:
 latitude: 21.8052
 longitude: -79.9846
 story: "The Plaza Mayor was the social and commercial hub of one of the wealthiest towns in the Caribbean during the sugar boom of the late 18th and early 19th centuries. The mansions that ring it were built by families whose fortunes depended entirely on enslaved labour — the same people whose descendants still live in the neighbourhoods below. Cuba's colonial-era wealth is most visible and most uncomfortable to sit with in this particular square."
+score: 9.4
 ---
 
 The Plaza Mayor is the physical and symbolic heart of Trinidad, the square around which the UNESCO heritage town is organised. It is one of the best-preserved colonial squares in the Caribbean: the surrounding buildings — now turned into museums, a gallery, and a cultural centre — retain their original architecture and the paved square itself has been left largely as it was, with ornamental iron railings, ceramic urns, and tropical plantings.

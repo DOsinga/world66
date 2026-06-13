@@ -8,6 +8,7 @@ latitude: 48.1789
 longitude: 12.8364
 sources:
   - https://en.wikipedia.org/wiki/Wacker-Arena
+score: 3.8
 ---
 
 The Wacker-Arena is Burghausen's football stadium and the home ground of SV Wacker Burghausen. It sits in the newer part of town rather than the historic centre, so it is not a sightseeing priority unless there is a match on.

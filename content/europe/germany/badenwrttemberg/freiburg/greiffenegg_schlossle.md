@@ -7,6 +7,7 @@ tags:
 snippet: "Beer garden perched on the Schlossberg with a view over the old town"
 latitude: 47.99570
 longitude: 7.85910
+score: 7.4
 ---
 
 The Greiffenegg-Schlössle is a small Italianate villa on the lower slope of the Schlossberg, built in 1822 for an Austrian provincial governor. Its terrace and beer garden, set among chestnut trees, look directly across the rooftops of the old town to the Münster spire.

@@ -5,6 +5,7 @@ latitude: 54.3680
 longitude: -2.9220
 snippet: "Regular boat services connecting Bowness with Ambleside to the north and Lakeside to the south — the most useful way to move around the lake."
 tags: [things_to_do, nature]
+score: 8.1
 ---
 
 Windermere Lake Cruises operates scheduled services from the main pier in Bowness throughout the year, with greater frequency in summer. The northern route runs to Waterhead at Ambleside, taking about 35 minutes and stopping at Brockhole (the national park visitor centre) on some services. The southern route runs to Lakeside in about 45 minutes, where you can connect with the Lakeside and Haverthwaite Steam Railway for a trip inland through the Leven valley. There is also a small ferry crossing to the western shore at Ferry House, from which a path leads to Near Sawrey and Hill Top, Beatrix Potter's farmhouse.

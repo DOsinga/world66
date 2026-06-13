@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: 39.087278
 longitude: 63.572502
+score: 6.2
 ---
 
 The Amu Darya — the ancient Oxus River of classical geography, the river that Alexander the Great crossed on his way east — forms the border between Turkmenistan and Uzbekistan at Chardzhou, and the Turkmenistan bank has a promenade where locals walk in the cooler hours of early morning and evening. The river itself is wide, brown, and fast-moving, carrying the meltwater of the Pamir and Hindu Kush mountains on its long journey toward what remains of the Aral Sea.

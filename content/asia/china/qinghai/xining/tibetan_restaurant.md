@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 36.6250
 longitude: 101.7780
+score: 6.2
 ---
 
 Several Tibetan restaurants operate along and around Zhongshan Street in central Xining, catering to the city's Tibetan population and to travellers curious about plateau food. The menu staples are momo (steamed or fried dumplings filled with yak meat or vegetables), thukpa (noodle soup), tsampa (roasted barley flour eaten with butter tea), and yak meat in various preparations — grilled, braised, or sliced cold with chilli sauce.

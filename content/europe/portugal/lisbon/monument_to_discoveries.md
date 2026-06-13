@@ -15,6 +15,7 @@ story: >
   dates of their discoveries. Standing at its centre, you can see the lines
   radiating out to the coasts of Africa, India, Brazil, and East Asia — the
   geography of an empire built in 80 years of relentless navigation.
+score: 6.3
 ---
 
 A modernist concrete prow jutting into the Tagus at Belém, built in 1960 to mark the 500th anniversary of the death of Prince Henry the Navigator. Thirty-three figures stand on the prow's flanks: Henry at the front, Vasco da Gama, Fernão Magalhães (Magellan), Luís de Camões, Bartolomeu Dias, and others who made the Age of Discovery. The design is unapologetically heroic in the mid-century Portuguese style.

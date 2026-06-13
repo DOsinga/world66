@@ -11,6 +11,7 @@ tags:
   - castle
 story: >
   Derawar's forty colossal bastions can be seen from twenty kilometres away across the empty desert. The fort was rebuilt in 1733 by the Nawab of Bahawalpur on the foundations of an older 9th-century citadel; it remained the dynastic seat of the Bahawalpur princely state until the 1950s, and a Bahawalpur royal cemetery still sits at its base.
+score: 8.9
 ---
 
 Derawar Fort, about a hundred kilometres east of Khanpur in the heart of the Cholistan Desert, is the largest and most impressive of the Cholistan forts. The square mud-brick fortress with its forty massive bastions stands forty metres high above the desert floor and is visible across the open plain from a remarkable distance. The walls are about 1.5 kilometres in circumference.

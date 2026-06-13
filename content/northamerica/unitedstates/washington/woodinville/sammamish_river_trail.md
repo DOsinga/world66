@@ -9,6 +9,7 @@ latitude: 47.7527
 longitude: -122.2097
 sources:
   - https://en.wikipedia.org/wiki/Sammamish_River_Trail
+score: 6.4
 ---
 
 The Sammamish River Trail is a 16-km paved multi-use trail running along the Sammamish River from Blyth Park in Bothell to Marymoor Park in Redmond, passing through Woodinville. It connects at its northern end to the Burke-Gilman Trail, which continues all the way into Seattle, creating one of the longest car-free corridors in the greater Seattle area.

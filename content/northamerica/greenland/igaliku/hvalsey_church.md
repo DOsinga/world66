@@ -11,6 +11,7 @@ story: >
   Hvalsey Church. After that date, the settlement vanishes from all historical records.
   The cause — whether plague, climate shift, conflict with the Inuit, or simple abandonment
   — remains one of the great puzzles of medieval history.
+score: 9.3
 ---
 
 Hvalsey Church is the best-preserved Norse ruin in Greenland, reachable by boat from Igaliku in about 45 minutes. The roofless stone walls stand to their full height on a grassy headland above the fjord, remarkably intact given that they have been standing since the 13th or 14th century.

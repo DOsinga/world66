@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Tatopani,_Myagdi
 story: >
   "Tatopani" literally means "hot water" in Nepali, and the village's hot springs on the bank of the Kali Gandaki river are justifiably famous among trekkers who have just descended from altitude. The springs are natural geothermal pools — very hot at the source, cooled to bathing temperature as they fill the stone tubs — and soaking sore legs here is considered one of the essential pleasures of the Annapurna Circuit.
+score: 6.4
 ---
 
 Tatopani (1,189m) is a warm, subtropical village on the Kali Gandaki river where Annapurna Circuit trekkers traditionally stop after the high sections. The descent from Muktinath (3,760m) to Tatopani takes two days, dropping through increasingly lush vegetation as the valley narrows and the altitude drops. By the time you arrive in Tatopani, the temperature is comfortable, oranges hang on trees outside guesthouses, and the famous hot springs await.

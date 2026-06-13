@@ -17,6 +17,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Sedan_Castle
   - https://en.wikipedia.org/wiki/Battle_of_Sedan_(1870)
+score: 9.1
 ---
 
 The Château Fort de Sedan is the centrepiece of the town and one of the most impressive medieval fortresses in France. At 35,000 square metres spread across seven levels, it makes a credible claim to being the largest fortified medieval castle in Europe. Construction began in 1424, and the builders kept going for the better part of two centuries, adding towers, ramparts, gun platforms, and the handsome Renaissance-era Princes' Palace — which tells you something about how continuously this place was threatened.

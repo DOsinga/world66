@@ -11,6 +11,7 @@ story: >
   The San people painted on these cliff faces for thousands of years, leaving more than 35,000 individual images across the uKhahlamba-Drakensberg. The oldest images are believed to be around 3,000 years old. The Drakensberg range holds the largest concentration of San rock art in the world.
 sources:
   - https://en.wikipedia.org/wiki/Drakensberg
+score: 9.5
 ---
 
 The Drakensberg — "Dragon's Mountains" in Afrikaans — forms the western spine of KwaZulu-Natal, rising steeply along the border with Lesotho to peaks above 3,400 metres. The range has been designated a UNESCO World Heritage Site, recognised for both its dramatic landscape and the extraordinary concentration of San rock art sheltered in its caves and overhangs.

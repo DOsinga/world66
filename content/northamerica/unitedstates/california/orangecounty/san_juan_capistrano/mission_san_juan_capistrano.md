@@ -13,6 +13,7 @@ story: >
   brought the tower crashing into the nave during morning Mass, killing 40 worshippers.
   The church was never rebuilt. Its ruined walls still stand, draped in bougainvillea,
   open to the sky — a more affecting monument than most intact churches.
+score: 9.2
 ---
 
 Mission San Juan Capistrano, founded in 1776 by Padre Junípero Serra, is the most evocative of the California missions. Unlike the heavily restored missions elsewhere on the chain, San Juan preserves genuine ruins — the Great Stone Church that collapsed in the 1812 earthquake still stands as roofless walls draped in bougainvillea, more beautiful for being broken than it ever was when intact.

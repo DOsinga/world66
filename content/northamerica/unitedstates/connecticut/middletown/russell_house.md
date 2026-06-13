@@ -12,6 +12,7 @@ story: >
   Samuel Wadsworth Russell made his fortune in the China trade — specifically in the tea and opium business between Canton and the United States.
   He was wealthy enough to commission architect Ithiel Town to design him the grandest house in Middletown.
   The house has been owned by Wesleyan University since 1937, which may explain why its history of drug profits has been less prominently discussed than its architectural merit.
+score: 7.4
 ---
 
 The Russell House at 350 High Street is one of the most impressive Greek Revival houses in New England, built in 1828 to a design by architect Ithiel Town for the China trade merchant Samuel Wadsworth Russell. The house has a long colonnade facade of Ionic columns, a central octagonal cupola, and interior rooms that were designed to display the owner's wealth and taste. It is now owned by Wesleyan University and used for university functions.

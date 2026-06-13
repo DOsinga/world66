@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, pub]
 latitude: 33.8723
 longitude: -117.8584
+score: 7.0
 ---
 
 A surprisingly authentic British-style pub in the middle of suburban Orange County, complete with proper bitter on hand-pull, fish and chips wrapped in newsprint, and Sunday roasts that draw an expatriate crowd. The owners are British, the menu is straight from a Midlands pub, and Premier League matches are shown live in the early Saturday mornings.

@@ -8,6 +8,7 @@ latitude: 36.0200
 longitude: 111.4900
 story: >
   Emperor Yao is one of the Three Sovereigns and Five Emperors of Chinese legend — semi-mythical sage-kings credited with civilising humanity and establishing the basic institutions of Chinese society. The Linfen area's claim to be his capital is based partly on the fact that it was the political centre of the early Zhou and pre-dynastic periods and partly on the simple geographical logic that the Fen River valley is one of the oldest continuously farmed regions in China. Whether or not Yao existed as a historical figure, the traditions associated with him here are genuinely old.
+score: 6.1
 ---
 
 The Yao Temple south of Linfen is an enormous complex of Ming halls spreading across five hectares on a raised terrace above the Fen River plain. The temple commemorates the legendary sage-emperor Yao, who Chinese tradition locates in this region — the Linfen district name Yaodu, meaning "Yao's Capital," preserves the association. The complex has been a place of pilgrimage for at least a thousand years, though the current buildings mostly date to the Ming restoration.

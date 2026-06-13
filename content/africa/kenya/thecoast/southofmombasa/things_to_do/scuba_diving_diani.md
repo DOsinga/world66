@@ -7,6 +7,7 @@ tags:
   - activity
 title: Scuba Diving at Diani
 type: poi
+score: 7.5
 ---
 
 Diani Beach has several PADI-certified dive centres offering reef dives on the fringing coral reef, which runs parallel to the beach a short boat ride offshore. The reef is in reasonable health and holds a wide range of marine life: reef fish in abundance, sea turtles, moray eels, lionfish, and rays. Deeper sites further offshore offer better coral structure and the possibility of whale sharks during the right season.

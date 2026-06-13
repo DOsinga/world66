@@ -8,6 +8,7 @@ latitude: 41.2143
 longitude: 13.5695
 sources:
   - https://en.wikipedia.org/wiki/Santissima_Annunziata,_Gaeta
+score: 7.9
 ---
 
 This elaborate Baroque church and sanctuary in the upper town is one of the most significant religious sites in southern Lazio. Construction began in the 15th century on the site of an earlier chapel; the ornate interior, with its gilded altars, frescoed vaults, and rich marble inlays, reflects the successive waves of patronage and embellishment that continued into the 18th century.

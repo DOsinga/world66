@@ -9,6 +9,7 @@ tags:
 - georgian_quarter
 title: Peter Kavanagh's
 type: poi
+score: 8.2
 ---
 
 A famously characterful Victorian pub on a Georgian terrace south of the Anglican Cathedral. The interior is a warren of small snug rooms, each with carved wood panelling, etched glass, oil paintings, and elaborately painted murals — much of it painted by a former landlord who refused to pay his decorators in cash and gave them free drinks for life instead.

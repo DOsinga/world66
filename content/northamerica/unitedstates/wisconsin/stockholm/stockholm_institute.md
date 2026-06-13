@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 44.4813
 longitude: -92.2597
+score: 6.8
 ---
 
 The Stockholm Institute is the cultural anchor of the village — a gallery and event space that mounts rotating exhibitions of work by regional and national artists. It occupies a restored 19th-century building on Main Street and operates on weekends through the summer season.

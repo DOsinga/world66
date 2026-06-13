@@ -8,6 +8,7 @@ tags:
 latitude: 56.155
 longitude: -3.942
 snippet: A Victorian spa village just north of Stirling, popular for its sandstone terraces and riverside walks
+score: 6.3
 ---
 
 Bridge of Allan grew up in the 1820s around a chalybeate spring discovered in the hills above the village. It became a fashionable spa resort for the Victorian Scottish middle class — and the wide tree-lined streets, ornate sandstone villas and well-kept botanic gardens still give it that polished, residential atmosphere. Robert Louis Stevenson spent summers here as a boy and the village makes a brief appearance in *Kidnapped*.

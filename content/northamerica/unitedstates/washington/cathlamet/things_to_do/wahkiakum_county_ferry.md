@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Wahkiakum_County_ferry
 story: >
   The Wahkiakum County ferry has been crossing the Columbia since June 25, 1925 — making it one of the longest-running ferry services on the river. The current vessel, the Oscar B, was named after ferryman Oscar Bergseng, who worked the crossing for 26 years before retiring in 1966. It's the last regularly scheduled car ferry to cross the lower Columbia between Washington and Oregon.
+score: 7.5
 ---
 
 The Wahkiakum County ferry is the only way to cross the Columbia River by car between Longview (where I-5 bridges the river) and Astoria, Oregon — a gap of about 45 miles. It runs from Puget Island's south end to Westport, Oregon, a 1.4-mile crossing that takes about 10 minutes.

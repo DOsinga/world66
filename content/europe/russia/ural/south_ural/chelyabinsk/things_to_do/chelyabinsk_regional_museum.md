@@ -8,6 +8,7 @@ latitude: 55.1599
 longitude: 61.4026
 sources:
   - https://en.wikipedia.org/wiki/Chelyabinsk_meteor
+score: 8.4
 ---
 
 The Regional Museum is the unmissable stop in Chelyabinsk, primarily for the centrepiece of its collection: the largest fragment of the 2013 Chelyabinsk meteor recovered from the bottom of Lake Chebarkul. The 654 kg stone — dark, irregular, and oddly beautiful — sits under spotlights in a specially designed display case, and seeing it in person makes the scale of the event register in a way that dashcam footage cannot.

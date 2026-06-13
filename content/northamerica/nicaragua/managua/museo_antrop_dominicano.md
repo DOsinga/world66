@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 12.1555
 longitude: -86.2722
+score: 6.8
 ---
 
 Nicaragua's pre-Columbian cultures left fewer monumental remains than the Maya or Aztec civilisations further north, but the archaeological record is rich in ceramics, figurines, and jade work — particularly from the Pacific coast peoples like the Chorotega and Nicarao. The anthropological collection within the National Palace of Culture assembles a good selection of this material in a coherent way.

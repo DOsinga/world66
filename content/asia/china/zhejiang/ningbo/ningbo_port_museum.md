@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 29.8800
 longitude: 121.5600
+score: 7.9
 ---
 
 The Ningbo Port Museum documents the city's extraordinary maritime history, covering the full arc from the prehistoric canoe culture evidenced at the Hemudu site through the Arab and Persian trading networks of the Tang and Song dynasties, the Ningbo Gang merchant community that dominated Shanghai's twentieth-century business world, and the modern container port that is now one of the busiest in the world. The museum is located in the Jiangbei district near the old customs building on the Yong River.

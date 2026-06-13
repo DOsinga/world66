@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - outdoor
 - park
+score: 6.9
 ---
 
 Skyline Wilderness Park is an 850-acre regional park on the eastern edge of Napa, opened in the 1980s on land that had previously been part of the Napa State Hospital. The park offers more than 25 miles of hiking, mountain-biking and equestrian trails through oak woodland and chaparral, with steeper climbs up to ridge-line viewpoints over the valley.

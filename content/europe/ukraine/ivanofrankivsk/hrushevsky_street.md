@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.9214
 longitude: 24.7139
+score: 6.2
 ---
 
 The long pedestrian street running south from the Market Square, lined with cafés, ice-cream booths, small shops and benches. Locals call it "Stometrivka" (the hundred-metre stretch), though it is rather longer than that.

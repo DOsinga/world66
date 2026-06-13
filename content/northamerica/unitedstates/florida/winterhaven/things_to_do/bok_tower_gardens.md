@@ -14,6 +14,7 @@ story: >
   a bit more beautiful and better because you have lived in it." The tower was dedicated by 
   President Calvin Coolidge three days before the stock market crash of 1929, and the 
   carillon has played daily ever since.
+score: 9.1
 ---
 
 Bok Tower Gardens, a National Historic Landmark near Lake Wales about 30 minutes south of Winter Haven, is one of the most quietly beautiful places in Florida. The 60-metre neo-Gothic and Art Deco tower rises from the highest point on the Florida peninsula — the dramatic Iron Mountain, a full 98 metres above sea level — and is surrounded by 50 acres of gardens designed by Frederick Law Olmsted Jr., son of the man who designed Central Park.

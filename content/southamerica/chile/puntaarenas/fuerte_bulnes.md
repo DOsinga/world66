@@ -6,6 +6,7 @@ longitude: -70.9106
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 About 60 km south of Punta Arenas, **Fuerte Bulnes** is the reconstructed wooden stockade that marks the original Chilean settlement of Patagonia. In 1843, fearing the British would claim the strait, the Chilean government dispatched the schooner Ancud from Chiloé with a handful of soldiers and settlers; they built this fort on a windswept bluff above the water and held it for six bitter years before relocating to the present site of Punta Arenas.

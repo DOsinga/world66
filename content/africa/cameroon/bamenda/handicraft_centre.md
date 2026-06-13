@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 5.9533
 longitude: 10.1483
+score: 5.8
 ---
 
 A workshop and shop in Bamenda where Cameroonian craftworkers — mostly women, mostly trained through Presbyterian church programmes — produce woodcarvings, beadwork, basketry, textiles, and traditional musical instruments. Prices are higher than in the market but the quality is reliable and the proceeds support the artists directly.

@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 - wine_bar
+score: 5.7
 ---
 
 La Chouette is the kind of small, deliberate natural-wine bar that has spread across French cities — a short wine list with a heavy emphasis on Languedoc, Roussillon, and Rhône natural producers, paired with a daily-changing selection of small plates and charcuterie.

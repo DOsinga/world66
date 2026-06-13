@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 38.5620
 longitude: 68.7780
+score: 7.2
 ---
 
 Atlas silk is the distinctive woven textile of Central Asia — shimmering fabric with blurred, flame-like patterns created by tying and dyeing the threads before weaving, a technique called ikat. The bazaars of Dushanbe sell both genuine hand-woven atlas and cheaper machine-made imitations; the hand-woven fabric has an irregular texture and richer, more varied coloring.

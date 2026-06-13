@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 33.8366
 longitude: -118.3403
+score: 6.2
 ---
 
 The Torrance Historical Society Museum occupies the restored 1936 city library on Post Avenue, in the heart of Old Torrance. The displays cover the city's origins as a planned industrial community in 1912, the Pacific Electric Railway, the World War II aerospace boom, and the development of the Japanese-American community after the war.

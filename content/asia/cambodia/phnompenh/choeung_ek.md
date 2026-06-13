@@ -16,6 +16,7 @@ story: >
   loudspeaker mounted on a sugar palm to drown out screams with revolutionary
   songs. It is one of the most extraordinary first-person testimonies on any
   museum audio tour.
+score: 7.9
 ---
 
 About 15 kilometres south of the city centre, Choeung Ek is the best known of more than 300 killing fields scattered across Cambodia. Between 1975 and 1979 the Khmer Rouge brought roughly 17,000 prisoners here from S-21 and executed them — usually by blows to the head, to save bullets — and buried them in pits across the orchard. Around 9,000 bodies have been exhumed.

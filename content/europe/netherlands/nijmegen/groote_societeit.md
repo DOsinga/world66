@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 51.8455
 longitude: 5.8637
+score: 6.1
 ---
 
 The Groote Sociëteit is one of Nijmegen's oldest and most atmospheric cafés, occupying a grand historic building on the Grote Markt that has served as a gentlemen's club, social hall, and drinking establishment since the 19th century. The interior has the dark wood, high ceilings, and patina of a place that was never really modernised — comfortably worn rather than shabby. It's the kind of Dutch café (properly called a grand café) where you order a beer or a jenever and stay longer than you intended.

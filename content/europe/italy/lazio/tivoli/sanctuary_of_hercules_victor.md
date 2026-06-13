@@ -8,6 +8,7 @@ tags:
 snippet: "Massive Republican-era sanctuary terrace on the edge of the old town"
 latitude: 41.9634
 longitude: 12.7925
+score: 8.6
 ---
 
 The Sanctuary of Hercules Victor was one of the largest religious complexes of Republican Rome — a vast terraced platform built in the second century BC and visible for miles along the Via Tiburtina. The temple at its centre was Tivoli's principal place of worship and a major attraction for Roman pilgrims.

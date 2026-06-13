@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - hiking
+score: 8.4
 ---
 
 Tillamook Head is the forested basalt headland that rises at the south end of Seaside, and the trail that crosses it is the best hike in the immediate area. Six miles one way, it runs from the Seaside trailhead (off South Edgewood Road) through old-growth Sitka spruce and hemlock to the north end of Cannon Beach. The forest here is dense, green, and very quiet — a complete change of scene from the boardwalk a mile away.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Khai Dinh Tomb
 type: poi
+score: 8.6
 ---
 
 The most unusual of the royal tombs, built between 1920 and 1931 in a style that mixes Vietnamese tradition with European concrete and wrought iron. The interior is covered in elaborate glass and porcelain mosaics — gaudy by some standards, but undeniably striking. The hilltop location gives good views over the surrounding countryside.

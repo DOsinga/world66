@@ -10,6 +10,7 @@ latitude: 50.6856
 longitude: 10.9153
 sources:
   - https://en.wikipedia.org/wiki/St.-Jakobus-Kirche,_Ilmenau
+score: 5.8
 ---
 
 St. Jakobus Church is the main Lutheran church in Ilmenau's historic centre. Its tower and simple exterior are part of the town's everyday skyline, and the building gives the small centre a proper focal point.

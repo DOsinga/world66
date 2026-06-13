@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -0.9290
 longitude: 100.3600
+score: 7.1
 ---
 
 Sederhana (which means "simple" in Indonesian) is one of the most famous nasi padang chains in the world — it has branches across Indonesia and has been exported to Malaysia and beyond — but the original Padang restaurant carries a different weight. The quality of the rendang, the thickness of the coconut-based curries, and the freshness of the accompanying dishes is noticeably higher than in the chain's branches elsewhere.

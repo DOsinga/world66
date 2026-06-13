@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - tulum_pueblo
+score: 6.3
 ---
 
 A small café-restaurant on Avenida Tulum, Burrito Amor makes its tortillas with vegetable-based natural dyes — beetroot, turmeric, spinach — and fills them with locally-sourced meat, fish, and vegetables. Breakfast burritos with eggs and beans, lunch burritos with achiote pork or slow-cooked beef, vegetarian options with grilled vegetables and avocado.

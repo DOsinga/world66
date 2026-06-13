@@ -9,6 +9,7 @@ tags:
   - neighbourhood
 sources:
   - https://en.wikipedia.org/wiki/Kleines_Schloss_(Wolfenb%C3%BCttel)
+score: 7.7
 ---
 
 Little Venice (Kleines Venedig) is the network of canal streets west of the castle, built in the seventeenth century to house the officials and courtiers of the ducal court. The channels are branches of the Oker river, and the rows of half-timbered houses reflected in the still water give the neighbourhood its nickname. It is one of the most photogenic corners of the town.

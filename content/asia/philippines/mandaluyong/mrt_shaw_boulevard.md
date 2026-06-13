@@ -7,6 +7,7 @@ tags:
 - transport
 title: Shaw Boulevard MRT Station
 type: poi
+score: 4.5
 ---
 
 Shaw Boulevard station on the MRT-3 (EDSA Light Rail Transit) is effectively the front door of central Mandaluyong. Positioned between Ortigas and Boni stations, it gives you quick access to the SM Megamall complex and the surrounding BPO towers. Trains run frequently during the day and the route covers the entire length of EDSA from Taft Avenue to North Avenue.

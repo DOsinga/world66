@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, wildlife]
 latitude: 33.7019
 longitude: -7.4036
+score: 6.5
 ---
 
 The Oued Mellah is the seasonal river that empties into the Atlantic just west of Mohammedia. In late spring its small estuary becomes a marsh full of migratory waterbirds — flamingos, spoonbills, herons, and the occasional black-winged stilt — making it one of the better-known birding spots within easy reach of Casablanca.

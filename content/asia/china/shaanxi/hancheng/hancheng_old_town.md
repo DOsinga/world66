@@ -9,6 +9,7 @@ latitude: 35.4769
 longitude: 110.4419
 story: >
   Hancheng was designated a national historic and cultural city in 1994, one of the earliest cities in Shaanxi to receive that protection. The designation came just in time: the coal industry had brought rapid development to the surrounding area, but the old town's grid of lanes and its concentration of Ming and Qing courtyard houses were preserved essentially intact. Walking it today you can trace the original city plan from the Ming Dynasty's first decades.
+score: 8.8
 ---
 
 Hancheng's old town occupies the original walled city on a ridge above the modern settlement. The street plan is a Ming Dynasty grid: a central axis running north-south, with the drum tower at the intersection of the main cross streets, and radiating lanes lined with the wooden-fronted courtyard residences that give the city its character. The carved decorative panels on doorways and gateways are often extremely fine — wealthy merchant families competing with each other in the quality of their craftsmanship.

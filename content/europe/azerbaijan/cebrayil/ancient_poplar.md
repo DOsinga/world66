@@ -13,6 +13,7 @@ story: >
   the tree's sheer size and its survival through the destruction of the
   surrounding district has given it an almost totemic significance for
   Azerbaijanis familiar with the Jabrayil region.
+score: 5.5
 ---
 
 A massive poplar tree near Cebrayil town is held by local tradition to be approximately a thousand years old. Whether or not the age estimate is precise, the tree is visibly enormous — far larger than any nearby specimen — and its survival through both the displacement of the region's entire population and the destruction of the surrounding infrastructure during the Nagorno-Karabakh conflicts has made it an emblem of the district's resilience.

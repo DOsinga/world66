@@ -7,6 +7,7 @@ tags:
   - sport
 latitude: 34.0837
 longitude: 74.7973
+score: 7.4
 ---
 
 Srinagar is the primary gateway for trekking in the Kashmir Valley, with routes ranging from easy half-day walks to multi-week crossings of the high passes into Ladakh. The most accessible treks start from Pahalgam (two hours by road), Sonamarg (three hours), and Gulmarg (one hour). For serious mountaineering, the Kolahoi Glacier above Pahalgam and the peaks around Sonamarg are the main objectives.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 51.8415
 longitude: 12.2243
+score: 5.4
 ---
 
 The cafe inside the Bauhaus Building is the obvious place for a coffee after touring the permanent exhibition. The interior keeps the modernist aesthetic intact — clean lines, Bauhaus-designed fittings, light coming in through that famous glass curtain wall. It serves coffee, cake, light lunches, and a short drinks menu.

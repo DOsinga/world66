@@ -13,6 +13,7 @@ story: >
   into Hungary made the defense of towns like Trnava suddenly urgent. The city
   was never actually besieged, which is one reason the walls have survived in
   such good condition.
+score: 8.3
 ---
 
 Trnava retains more of its medieval fortifications than almost any other city in Slovakia — a substantial length of the 14th-century walls survives, along with several towers and a partially restored moat area. The walls form a roughly oval circuit around the old town and are walkable in sections, offering views both inward across the church towers and outward toward the surrounding plain.

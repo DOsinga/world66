@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 16.4912
 longitude: 97.6256
+score: 8.3
 ---
 
 The riverside face of Mawlamyaing — a long strip of colonial-era buildings in brick and stucco, some crumbling handsomely, some recently painted, all at a human scale that puts the grand riverside streets of Yangon to shame. The old covered market occupies the centre of the waterfront; around it, tea shops, Indian restaurants, and small shops spill out onto the pavement in the chaotic, sociable way of Burmese market towns.

@@ -8,6 +8,7 @@ latitude: 39.1500
 longitude: 23.4007
 sources:
   - https://en.wikipedia.org/wiki/Koukounaries
+score: 8.0
 ---
 
 Koukounaries is Skiathos's most famous beach — a 1,100-metre arc of fine golden sand backed by a protected stone pine forest and a freshwater lagoon that is a designated natural reserve. The water is shallow and clear, the sunbeds and umbrellas well organised, and watersports (pedalo, jet ski, parasailing) available in high season. It is also the most crowded beach on the island in July and August, with buses running every few minutes from Skiathos Town.

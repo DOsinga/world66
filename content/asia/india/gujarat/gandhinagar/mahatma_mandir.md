@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, architecture, sight]
 latitude: 23.2306
 longitude: 72.6342
+score: 5.8
 ---
 
 Mahatma Mandir is a large convention and exhibition centre built in the name of Gandhi and inaugurated in 2011. The building itself is distinctive — a broad white structure designed to echo the form of a traditional hut, though at considerable scale — and it has become one of the landmarks of modern Gandhinagar. The complex hosts trade fairs, state events, and international exhibitions throughout the year, most notably the Vibrant Gujarat Summit, which brings business and government delegations from across the world.

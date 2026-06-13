@@ -10,6 +10,7 @@ tags:
 - beverlyhills
 title: Enoteca Drago
 type: poi
+score: 5.8
 ---
 
 An Italian wine bar and restaurant from chef Celestino Drago. Serves pizzas, small plates, and pasta in a spacious, modern room with an extensive wine list. Good for a lighter meal or a long evening of small dishes and wine.

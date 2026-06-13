@@ -16,6 +16,7 @@ story: >
   communities around the world, trace their lineage through Fujian Shaolin. The
   monastery was rebuilt on the outskirts of Putian in the 1990s on a site claimed
   to be the original location.
+score: 6.8
 ---
 
 The Southern Shaolin Monastery on the outskirts of Putian is a reconstruction from the 1990s built on a site claimed as the location of the original Tang dynasty branch temple, though the historical evidence for the exact location is contested. What is genuine is the martial arts tradition: demonstrations take place in the training hall and the monks who perform them have trained seriously in southern kung fu styles with real connections to this region. The temple complex itself, though modern, is built in the correct style and operates as a functioning monastery alongside the tourist programming.

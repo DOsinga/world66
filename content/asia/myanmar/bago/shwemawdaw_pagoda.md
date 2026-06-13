@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Shwemawdaw is believed to enshrine two hairs of the Buddha, donated by two merchant brothers who had met the Buddha personally. The pagoda has been destroyed and rebuilt four times by earthquakes — what stands now is largely a 20th-century reconstruction, but the devotion that has kept rebuilding it stretches back more than a thousand years."
+score: 9.0
 ---
 
 The tallest stupa in Myanmar at 114 metres, the Shwemawdaw Pagoda stands well above even the celebrated Shwedagon in Yangon, and it dominates Bago from every angle. The gilded spire catches the light from kilometres away, and the broad terrace at its base is a constant stream of worshippers carrying flowers, incense, and offerings of food. The scale is staggering — walk around the entire base and the circumference takes longer than you expect.

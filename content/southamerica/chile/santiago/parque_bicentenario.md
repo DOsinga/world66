@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -33.3984
 longitude: -70.5891
+score: 6.5
 ---
 
 Parque Bicentenario in Vitacura is Santiago's most polished urban park — a long, landscaped green corridor running along the Mapocho River with flamingo lagoons, cycling paths, a children's farm, and some of the city's best jogging routes. It was created for Chile's 2010 bicentenary and has been enthusiastically adopted by the fitness-conscious residents of the wealthy northeastern suburbs.

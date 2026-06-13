@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.4
 ---
 
 Sayulita's walls have become a canvas, and wandering the back streets to find the murals has turned into one of the better ways to see the less-visited parts of town. The most striking piece — a large whale covering an entire building side on Calle Niños Héroes — is visible from half a block away and has become something of an unofficial emblem of the town.

@@ -9,6 +9,7 @@ latitude: 32.509
 longitude: -92.118
 address: "Riverside Dr, Monroe, LA"
 snippet: "Riverside trail along the Ouachita — walking, cycling, and river views through the city"
+score: 5.8
 ---
 
 The Ouachita River runs through the heart of Monroe, and the riverside trail along Riverside Drive offers the city's most accessible outdoor experience. The paved path follows the river for several miles through both Monroe and West Monroe, passing the Biedenharn Museum and Gardens, and connecting to the Black Bayou Lake National Wildlife Refuge further north.

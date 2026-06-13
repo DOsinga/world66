@@ -11,6 +11,7 @@ tags:
 - beverlyhills
 title: Rodeo Drive
 type: poi
+score: 6.7
 ---
 
 Rodeo Drive in Beverly Hills is the world's most famous shopping street, three blocks of designer flagships running from Wilshire Boulevard to Santa Monica Boulevard. Versace, Dior, Gucci, Cartier, Prada, Tiffany -- they're all here, along with Via Rodeo, a faux-European cobblestone alley designed purely for high-end retail.

@@ -10,6 +10,7 @@ longitude: 144.9670
 snippet: "The Italian eating strip — the heart of Melbourne's Little Italy"
 story: >
   The first espresso machine in Australia was installed at the Pellegrini's bar on Bourke Street in 1954, but the second was brought by Sisto Malaspina's family to Lygon Street the following year. The post-war wave of Italian migration turned the strip from an Anglo-Irish working-class street into the country's first proper Italian quarter within a decade.
+score: 8.2
 ---
 
 Lygon Street is the spine of Carlton's Little Italy and the most famous eating strip in Australia, running roughly north–south through the suburb with the densest concentration of restaurants, cafés and gelaterias between Grattan Street and Elgin Street. It became the heart of Italian Melbourne after the Second World War, when southern Italian migration transformed the strip, and it has kept the role since — even as some of the long-standing institutions have given way to newer arrivals.

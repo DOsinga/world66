@@ -11,6 +11,7 @@ tags:
 sources:
   - https://en.wikipedia.org/wiki/Hart-Cluett_Mansion
   - https://en.wikipedia.org/wiki/Rensselaer_County_Historical_Society
+score: 7.8
 ---
 
 This Federal-style townhouse at 59 Second Street is among the finest surviving examples of early 19th-century domestic architecture in New York State. Built in 1827 for William Howard, a hardware merchant, it was later owned by the Hart and Cluett families — the Cluetts being the shirt-and-collar manufacturers who helped make Troy the collar-making capital of America. The mansion is now operated by the Rensselaer County Historical Society as a house museum, with period rooms furnished to reflect life in Troy's merchant class during the decades when the city was at the height of its prosperity.

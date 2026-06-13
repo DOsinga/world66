@@ -6,6 +6,7 @@ longitude: 19.6910
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Great Church, also called the Co-Cathedral of the Ascension and locally the Öregtemplom (Old Church), is the dominant building on Kossuth Square. Built between 1774 and 1806 in late Baroque style, with a tall white spire rising over the city, it serves as the Co-Cathedral of the Archdiocese of Kalocsa-Kecskemét.

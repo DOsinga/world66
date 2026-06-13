@@ -8,6 +8,7 @@ latitude: 36.314
 longitude: 74.667
 story: >
   The carvings near Ganish include Buddhist stupas and ibex figures alongside later Islamic calligraphy — the two traditions sometimes carved within centimetres of each other on the same boulder. This palimpsest of religions on stone records a conversion that took centuries, not decades.
+score: 7.9
 ---
 
 Scattered around the edges of Ganish are flat rock surfaces covered with ancient carvings: ibex, hunters, Buddhist stupas, Brahmi and Kharosthi inscriptions, and later Arabic calligraphy. These petroglyphs span roughly 2,000 years of human passage along the Silk Road, left by merchants, pilgrims, soldiers, and local residents.

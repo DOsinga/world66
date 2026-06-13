@@ -8,6 +8,7 @@ tags:
 - sight
 title: Woody Guthrie Statue
 type: poi
+score: 7.2
 ---
 
 A life-size bronze of Woody Guthrie stands on a low plinth on West Broadway, guitar across his back, looking out across the town he wrote about with both love and anger. The statue, dedicated in 2018, is the focal point of the annual folk festival — every year musicians gather at its feet for an opening sing-along.

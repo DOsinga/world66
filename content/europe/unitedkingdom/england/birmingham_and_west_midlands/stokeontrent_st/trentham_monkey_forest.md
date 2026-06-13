@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Sixty acres of Staffordshire woodland populated by 140 free-roaming Barbary macaques"
+score: 7.0
 ---
 
 A genuine oddity: sixty acres of mature Staffordshire woodland populated by a colony of about 140 free-roaming Barbary macaques, the only African macaque species and now critically endangered in the wild. The animals are not caged or fenced from visitors — you walk along a marked path through their territory and they ignore you, forage, groom, and squabble at close range. A keeper gives talks at feeding times.

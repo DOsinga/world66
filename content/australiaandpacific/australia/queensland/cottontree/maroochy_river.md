@@ -7,6 +7,7 @@ tags:
   - park
 latitude: -26.65
 longitude: 153.1
+score: 6.5
 ---
 
 The Maroochy River meets the sea at Cotton Tree, and the estuary is one of the calmer waterways on the Sunshine Coast. The river is broad and tidal here, fringed with mangroves on the inland side and open water where it approaches the mouth. It is popular for kayaking, stand-up paddleboarding, and fishing — flathead, whiting, and bream are common catches near the mouth.

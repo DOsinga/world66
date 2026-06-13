@@ -13,6 +13,7 @@ tags:
 - church
 title: Basílica de San Vicente
 type: poi
+score: 8.7
 ---
 
 The Basílica de San Vicente is a large Romanesque church immediately outside Ávila's north wall, near the Puerta de San Vicente. Built from the 12th century onwards, it is considered the finest example of Romanesque architecture in Castile and one of the most important in Spain. The exterior porch, with its carved reliefs, and the interior — three naves of unadorned Romanesque strength — are equally impressive.

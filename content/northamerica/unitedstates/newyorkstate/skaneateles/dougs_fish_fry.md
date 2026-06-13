@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Doug's Fish Fry
 type: poi
+score: 6.8
 ---
 
 Doug's has been frying haddock, scallops and shrimp on Jordan Street since 1982 and is the most loved restaurant in town. The format is simple: order at the counter, grab a numbered ticket, find a table inside or out, and a basket of fried fish, hand-cut chips and coleslaw appears a few minutes later.

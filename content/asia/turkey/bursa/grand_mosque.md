@@ -12,6 +12,7 @@ story: >
   He managed one — this one, with twenty domes — which his court considered a fair compromise. 
   The mosque's famous ablution fountain sits inside the building rather than outside, fed by a skylight; 
   it was originally open to the sky, and the sound of falling water accompanied prayer for five centuries.
+score: 9.2
 ---
 
 The Grand Mosque (Ulu Cami) is Bursa's largest and oldest mosque, built between 1396 and 1399 under Sultan Bayezid I. Its twenty domes — arranged four across and five deep — cover a vast prayer hall supported by twelve massive pillars, giving the interior an unusual cathedral-like quality. The building established the multi-domed form that would define Ottoman mosque architecture for the next century.

@@ -7,6 +7,7 @@ tags:
 latitude: 20.3572
 longitude: 100.0878
 story: "At the height of the heroin trade in the 1970s, the Golden Triangle produced 70% of the world's opium. The area is now a major tourist site, with an opium museum at Sop Ruak tracing the history of the trade and its devastating effects."
+score: 6.7
 ---
 
 The Golden Triangle is the point near Sop Ruak village, 60km north of Chiang Rai, where the Mekong and Ruak rivers meet at the borders of Thailand, Laos, and Myanmar. For much of the twentieth century, this remote corner of Southeast Asia was the centre of the global opium trade. The hill tribes of the surrounding mountains cultivated poppies for generations, and the trade was controlled by various warlords, armies, and criminal networks. The Thai government's crop substitution programmes largely ended poppy cultivation on the Thai side by the 1990s.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The Monument to the Sun gathers solar energy by day and releases it as a slow, swirling light show after dark. Beside the main 22-metre disc, smaller discs represent each of the planets in the solar system, set into the pavement at distances roughly proportional to their actual orbital distances from the sun."
+score: 7.5
 ---
 
 A 22-metre disc of solar panels set flush into the waterfront pavement just beside the Sea Organ, the Sun Salutation is Nikola Bašić's companion piece — completed in 2008 to mark the city's wider regeneration. Built on the very tip of the peninsula, where the sun sets straight into the sea, it is meant to capture daylight and release it back as patterns of coloured LEDs after dark.

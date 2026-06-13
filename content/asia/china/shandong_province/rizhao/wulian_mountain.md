@@ -8,6 +8,7 @@ latitude: 35.6600
 longitude: 119.2100
 story: >
   Wulian Mountain takes its name from five interconnected peaks that from certain angles appear to touch, forming a linked chain — "wu lian" means five connected. The mountain was a significant Buddhist site during the Tang Dynasty, and several of the old temple foundations survive among the granite outcrops.
+score: 7.5
 ---
 
 Wulian Mountain is the main inland scenic area in Rizhao's territory, rising to around 706 meters in the hills northwest of the city. It is rated as a national 4A scenic area and offers the combination of granite boulder landscapes, forests, and temple ruins that characterizes the better mountain parks in Shandong.

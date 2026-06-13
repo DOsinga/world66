@@ -14,6 +14,7 @@ story: >
   canopy at 160 metres above Barron Gorge. Go up by train, come down by gondola.
   Or the reverse. Either way, you cover the same terrain twice and see entirely
   different things.
+score: 8.3
 ---
 
 The mountain town of Kuranda sits 330 metres above Cairns on the Atherton Tablelands, surrounded by World Heritage rainforest. Getting there is as much of the experience as being there.

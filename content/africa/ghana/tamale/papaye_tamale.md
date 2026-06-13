@@ -7,6 +7,7 @@ snippet: "Ghana's ubiquitous fast food chain — familiar, reliable, and known b
 tags:
   - eating_out
   - restaurant
+score: 3.1
 ---
 
 Papaye is Ghana's most successful homegrown fast food chain and its presence in Tamale is no surprise — it appears in every significant city in the country. The menu covers fried chicken, chips, rice dishes, and grilled meat, all prepared to a consistent standard. It is not exciting, but it is clean, air-conditioned, and reliably open. After a long bus journey or a dusty day in the market, these things matter.

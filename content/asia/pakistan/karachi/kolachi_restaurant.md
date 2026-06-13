@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Kolachi Restaurant
 type: poi
+score: 6.2
 ---
 Kolachi is one of Karachi's most established seafood restaurants, positioned on the coast road with an open terrace over the water and a menu built around the fresh catch. The setting is hard to beat on a clear evening: sea breeze, lights reflected on the water, and the sounds of the city softened by distance. The seafood — grilled hammour, prawn karahi, crab — is well-prepared and the portions are generous, though prices have drifted upward over the years and a meal here is no longer the bargain it once was.
 

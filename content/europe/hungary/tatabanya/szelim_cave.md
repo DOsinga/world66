@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "During the 1944 winter offensive of the Second World War, the cave was used as a shelter by villagers from nearby Bánhida; a memorial plaque inside records their names and the period they spent underground."
+score: 6.9
 ---
 
 Szelim Cave is a large karst rock shelter on the slope of Kőhegy just below the Turul Monument, a wide arched opening that early peoples used as a dwelling from prehistoric times. Archaeological digs have turned up stone tools, bones, and pottery shards spanning thousands of years.

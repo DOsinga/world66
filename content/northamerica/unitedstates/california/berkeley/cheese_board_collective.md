@@ -8,6 +8,7 @@ tags:
 latitude: 37.8800
 longitude: -122.2694
 neighbourhood: Gourmet Ghetto
+score: 8.0
 ---
 
 One of the great worker-owned cooperatives in American food culture, the Cheese Board has been selling cheese and baking bread on Shattuck Avenue since 1967. It helped introduce the sourdough baguette to the United States and trained enough bakers and chefs to have a measurable effect on Bay Area food.

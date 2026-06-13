@@ -9,6 +9,7 @@ tags:
   - hiking
 sources:
   - https://en.wikipedia.org/wiki/Swift_Creek_(Wyoming)
+score: 6.8
 ---
 
 Swift Creek flows out of the Salt River Range just east of Afton, and the canyon it has carved provides the valley's most accessible mountain scenery. The trail from the trailhead to the Periodic Spring is about 2 km each way, gaining little elevation, and runs through a narrow canyon shaded by tall cottonwoods and bordered by willows and wildflowers. The creek itself is a quick, clear stream worth a closer look — and worth fishing if you have a Wyoming licence.

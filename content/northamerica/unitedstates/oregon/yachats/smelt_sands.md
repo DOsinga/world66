@@ -8,6 +8,7 @@ tags:
 title: Smelt Sands State Recreation Site
 type: poi
 snippet: "Short 804 Trail along the wave-swept basalt shore north of Yachats"
+score: 6.8
 ---
 
 Smelt Sands is a small state recreation site on the coast just north of Yachats, the trailhead for the 804 Trail — named for the old highway designation it follows. The trail runs along the top of the basalt bench above the surf for about a mile, giving close access to the wave action on the rocks below. It is an exposed walk and dramatic in almost any weather.

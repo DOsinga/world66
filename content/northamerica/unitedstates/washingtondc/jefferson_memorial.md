@@ -7,6 +7,7 @@ tags:
 latitude: 38.8814
 longitude: -77.0365
 story: "The Jefferson Memorial was not universally welcomed when built. Critics complained that it blocked the view of the Tidal Basin and that its classical style was backward-looking. FDR, who championed the project, reportedly ordered that the cherry trees blocking the construction site be felled by night, knowing that protesters would chain themselves to the trees in daytime."
+score: 7.1
 ---
 
 The Jefferson Memorial stands on the south bank of the Tidal Basin, its white dome visible from across the water. It was completed in 1943, during World War II, and the classical rotunda style was Jefferson's own preference — he loved the Pantheon in Rome and built something similar at the University of Virginia. The memorial houses a 19-foot bronze statue of Jefferson and quotations from the Declaration of Independence and other writings carved into the curved walls.

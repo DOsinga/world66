@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 6.5
 ---
 
 A 28-acre education centre and trail network along the North Branch of the Winooski River, about a mile and a half north of downtown. The grounds include meadows, woods, and a riverside boardwalk; resident animals include a barn owl and a few non-releasable raptors.

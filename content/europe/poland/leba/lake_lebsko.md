@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 54.7200
 longitude: 17.4500
+score: 6.4
 ---
 
 Lake Łebsko is the largest lake in Pomerania and one of the largest in Poland — a shallow coastal lagoon covering about 71 square kilometres, separated from the Baltic by a narrow strip of sand that the Łącka Dune is slowly crossing. The lake is within Słowiński National Park and is an important habitat for migrating birds; white-tailed eagles nest here year-round.

@@ -8,6 +8,7 @@ tags:
 latitude: 28.8118
 longitude: -81.8779
 snippet: Brick-paved Main Street with turn-of-the-century commercial buildings, galleries, and antique shops
+score: 6.7
 ---
 
 Leesburg's downtown core has held onto its bones better than most small Florida cities: brick-paved streets, two- and three-storey commercial blocks from the 1890s through the 1920s, and an old-fashioned Main Street scale that rewards a slow walk. A handful of galleries, antique shops, coffee spots, and local restaurants have settled into the storefronts, giving the district enough activity to feel alive without being overdeveloped.

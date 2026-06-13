@@ -7,6 +7,7 @@ tags:
 latitude: 43.0567
 longitude: 141.3537
 snippet: Susukino craft beer bar with Hokkaido taps
+score: 6.2
 ---
 
 The Hokkaido craft beer scene has expanded considerably in the past decade, and Susukino now has a cluster of good bars pouring local brews from smaller breweries around the island. The bar strip on Minami 5-jo Nishi 2-chome has several standing craft beer bars within a short walk of each other — the kind of strip that rewards wandering rather than committing to one place. Hokkaido breweries making worthwhile beer include Hokkaido Brewing, Baeren from Iwate, and a number of smaller operations that change seasonally. Prices are modest by Japanese craft beer standards.

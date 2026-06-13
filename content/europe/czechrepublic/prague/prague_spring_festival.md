@@ -7,6 +7,7 @@ tags:
 - sight
 title: Prague Spring Music Festival
 type: poi
+score: 8.2
 ---
 
 The Prague Spring International Music Festival, held every year from 12 May to 3 June, is one of Europe's major classical music events. It opens on the anniversary of Smetana's death, traditionally with a performance of his cycle of tone poems Má vlast (My Homeland), played in the Rudolfinum concert hall on the embankment.

@@ -13,6 +13,7 @@ story: >
   would eventually become De Stijl. The museum holds works from this
   pivotal period and traces exactly how one beach town contributed to one
   of the most radical transformations in modern art.
+score: 7.0
 ---
 
 The Marie Tak van Poortvliet Museum occupies the former summer pavilion in the dunes built for the art collector who gave the museum its name. In the early twentieth century, Domburg became a gathering point for progressive artists — Jan Toorop, Jacoba van Heemskerck, and the young Piet Mondrian among them — partly because of Tak van Poortvliet's patronage and hospitality.

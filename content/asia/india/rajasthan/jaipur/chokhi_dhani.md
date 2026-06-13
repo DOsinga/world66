@@ -9,6 +9,7 @@ longitude: 75.8567
 address: 12 Miles Tonk Road, Jaipur
 opening_hours: 17:00-23:00 daily
 snippet: Rajasthani village-themed resort dinner experience with folk performances and traditional thali
+score: 4.8
 ---
 
 Chokhi Dhani ("Fine Village") is a themed village resort about 22 km south of Jaipur on the Tonk Road — a sprawling complex built to look like a traditional Rajasthani village, where visitors eat dinner (a lavish Rajasthani thali) while folk musicians, dancers, puppeteers, and acrobats perform around them.

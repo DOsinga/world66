@@ -7,6 +7,7 @@ snippet: The 23-mile scenic road linking the Historic Triangle
 tags:
 - things_to_do
 - sight
+score: 6.9
 ---
 
 The Colonial Parkway, built by the National Park Service in the 1930s, is the elegant 23-mile road that links Jamestown, [Williamsburg](/northamerica/unitedstates/virginia/williamsburg), and Yorktown — the three points of Virginia's Historic Triangle. The road is deliberately built to evoke the colonial period: red-and-grey aggregate surface, no commercial signage, no billboards, gentle curves that pass through woods and along tidal rivers.

@@ -5,6 +5,7 @@ latitude: 8.480
 longitude: 124.651
 snippet: "One of the city's better spots for sinuglaw and other Northern Mindanao dishes done properly"
 tags: [eating_out, restaurant]
+score: 7.2
 ---
 
 Sinuglaw is CDO's signature dish: a combination of sinugba (grilled pork, usually belly) and kinilaw (raw fish cured in vinegar, ginger, and chili). The name is a portmanteau of the two cooking methods, and the result is a plate that contrasts the smoky, fatty pork with the sharp acid and freshness of the cured fish. It sounds like an unlikely combination but works well, and it's the dish most associated with the city's food culture. Kagay Cuisine is among the local spots where the dish is executed consistently — the kinilaw uses fresh fish from the bay, and the sinugba is properly charred rather than oven-cooked.

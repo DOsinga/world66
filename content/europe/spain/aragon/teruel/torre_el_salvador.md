@@ -11,6 +11,7 @@ story: >
   El Salvador Tower has a unique double-shell construction: an outer decorative shell of geometric brick and ceramic tile, and an inner structural tower, with a staircase running between the two. The gap between the walls allowed the bell-ringers to access the belfry without disturbing the structural integrity of either layer — an engineering solution as elegant as the decoration.
 sources:
   - https://en.wikipedia.org/wiki/Teruel
+score: 8.9
 ---
 
 El Salvador is generally considered the finest of Teruel's four UNESCO Mudéjar towers. Its proportions are exceptional, and the coverage of geometric brick patterning and glazed ceramic tile inlays is the most complete of any tower in the city. The tower spans the main street at its base, and looking up at it from below in the narrow lane gives a sense of the scale that is missing from photographs.

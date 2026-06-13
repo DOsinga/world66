@@ -7,6 +7,7 @@ tags:
 latitude: 42.8744
 longitude: 74.609
 address: "Tynystanov Street, Bishkek"
+score: 6.8
 ---
 
 A long-running Uzbek restaurant in central Bishkek with a strong reputation for plov done the Tashkent way — large grains of rice, soft slow-cooked lamb, sweet carrot, raisins and chickpeas. The samsa (clay-oven-baked savoury pastries) are also worth trying. Service is brisk and busy at lunch.

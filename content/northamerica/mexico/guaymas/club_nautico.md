@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 27.9182
 longitude: -110.8960
+score: 6.4
 ---
 
 Club Náutico is the most atmospheric of Guaymas's bar-restaurants, located at the marina with views across the harbour. It functions as both a seafood restaurant and a gathering point for the sailing and fishing crowd who use the marina; on weekend evenings there is often live music, usually norteño or mariachi, that carries across the water. The shrimp dishes are reliable and the cold beer arrives fast.

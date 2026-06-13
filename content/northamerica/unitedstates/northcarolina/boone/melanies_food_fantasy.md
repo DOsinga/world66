@@ -9,6 +9,7 @@ tags:
 neighbourhood: King Street
 title: Melanie's Food Fantasy
 type: poi
+score: 5.8
 ---
 
 Melanie's has been doing all-day breakfast on King Street since 1991 and has earned the kind of local loyalty that smaller chains can only envy. The room is small and the menu is leafy: pancakes in many varieties (gluten-free options that actually work), vegetarian Benedicts, omelettes built from local eggs.

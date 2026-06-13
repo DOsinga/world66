@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 story: >
   Neristan's wooden houses were built by merchants and sea captains at the height of Kokkola's maritime trade — the city was one of the most important tar-exporting ports in the world in the 18th century, and the neat houses with their painted facades and fenced kitchen gardens reflect the prosperity that trade brought. When the mainland shore receded as the land rose (the Gulf of Bothnia coast is still rising, a legacy of the ice age), Kokkola's harbour business declined, but the houses remained.
+score: 8.8
 ---
 
 Neristan is the old wooden quarter of Kokkola, a neighbourhood of colourful painted houses from the 18th and 19th centuries that covers the area south of the market square. It is one of the best-preserved wooden town centres in Finland and, unlike similar districts in other Finnish cities, it is still entirely residential — people live in these houses, which gives it an authentic, lived-in quality.

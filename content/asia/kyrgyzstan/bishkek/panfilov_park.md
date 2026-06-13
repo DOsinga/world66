@@ -8,6 +8,7 @@ tags:
 latitude: 42.8796
 longitude: 74.6002
 address: "Frunze Street, Bishkek"
+score: 5.8
 ---
 
 A leafy Soviet-era park between Frunze Street and the Old Square, named for Ivan Panfilov, the Almaty-born general who died defending Moscow in 1941. The park functions today as a low-key amusement ground — a small Ferris wheel, bumper cars, a sad-eyed handful of carousel ponies — alongside long shaded paths that are pleasant in the heat of a Bishkek summer afternoon.

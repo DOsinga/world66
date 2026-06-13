@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 11.3350
 longitude: -73.8800
+score: 7.8
 ---
 
 The main trail through Tayrona runs approximately 13 km from El Zaíno through Canaveral, Arrecifes, La Piscina, and Cabo San Juan. It passes through forest that ranges from relatively dry scrub near the entrance to dense humid jungle as you approach the coast. The path is well-marked and maintained, with rope sections on steeper slopes. Comfortable shoes are adequate — hiking boots aren't required but are better in wet season.

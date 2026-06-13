@@ -10,6 +10,7 @@ story: >
   The Mineral Belt Trail was built on the route of the old Colorado & Southern narrow-gauge railway that once hauled silver ore down from the mines. The grade is so gentle that you barely notice you are circling a mountain at 10,000 feet — until you try to run it fast and the altitude reminds you where you are. The Leadville 100 ultramarathon uses a section of the trail as part of its famously gruelling course.
 sources:
   - https://en.wikipedia.org/wiki/Mineral_Belt_National_Recreation_Trail
+score: 8.3
 ---
 
 The Mineral Belt National Recreation Trail is a paved 11.6-mile loop that circles Leadville through the historic mining district, offering some of the best mountain views easily accessible from town. The trail passes old mine structures, tailings piles, and abandoned equipment alongside open meadows with views of Mount Elbert and Mount Massive — Colorado's two highest peaks — and the Mosquito Range to the east.

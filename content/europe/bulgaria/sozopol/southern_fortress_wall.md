@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - history
+score: 7.5
 ---
 
 A section of the medieval fortress wall and a stone tower have been reconstructed at the southern edge of the Old Town and opened as a small open-air museum. The walls follow the natural cliffs that drop down to the sea; the tower contains a small display on the town's military and trading history, and the rooftop platform gives the best harbourside view in Sozopol.

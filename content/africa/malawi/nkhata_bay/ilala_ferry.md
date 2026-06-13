@@ -7,6 +7,7 @@ tags:
 latitude: -11.6071
 longitude: 34.2992
 story: "The Ilala was built in Scotland in 1949, shipped to Mozambique in pieces, and reassembled on the lakeshore. She has been running essentially the same route up and down Lake Malawi ever since — over seventy years of weekly schedules through revolutions, droughts, and structural adjustments."
+score: 8.4
 ---
 
 The MV Ilala is a 1949 lake steamer that runs a weekly circuit up and down Lake Malawi, calling at ports on both the Malawian and Mozambican shores. Nkhata Bay is one of her main stops, and the arrival of the ferry — usually in the small hours of the morning — is the busiest moment of the week. Traders unload sacks of rice and bicycles, passengers stagger off after twelve hours on deck, and the whole port comes briefly to life.

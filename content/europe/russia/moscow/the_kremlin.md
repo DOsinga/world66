@@ -9,6 +9,7 @@ tags:
 title: The Kremlin
 type: poi
 url: www.kreml.ru
+score: 10.0
 ---
 
 Moscow Kremlin is the most famous landmark of Russia.

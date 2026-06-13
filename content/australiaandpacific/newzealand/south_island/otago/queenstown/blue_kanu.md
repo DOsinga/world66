@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Polynesian-Pacific Rim fusion in a relaxed dining room
+score: 6.9
 ---
 
 A long-standing favourite among locals serving "Polysian" cuisine — a self-styled fusion of Polynesian, Pacific Rim, and Maori cooking. Sharing-plate menu, generous portions, strong coconut and chilli notes, the kind of room where two bottles of wine somehow become four.

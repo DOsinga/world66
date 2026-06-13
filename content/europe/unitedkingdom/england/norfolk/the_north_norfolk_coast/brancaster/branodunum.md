@@ -7,6 +7,7 @@ tags:
 title: Branodunum Roman Fort
 type: poi
 story: "Branodunum was one of a chain of forts built along the east and south coasts of Roman Britain in the late third and early fourth centuries, collectively known as the Saxon Shore forts. The network was a response to increasing seaborne raids from across the North Sea — the same pressure that would eventually contribute to the end of Roman Britain. Each fort was positioned to control a harbour or estuary, and Branodunum guarded the shallow tidal waters of what is now Brancaster Staithe."
+score: 7.2
 ---
 
 Branodunum is the least dramatic of Norfolk's Roman sites to look at — a roughly rectangular earthwork in a field on the edge of Brancaster village, the walls long since robbed for building stone and the interior ploughed flat. But its history is genuinely interesting, and knowing what you are standing on changes the experience considerably.

@@ -6,6 +6,7 @@ latitude: 57.1580
 longitude: 65.5270
 story: >
   The Tura was the river that determined Tyumen's existence: Cossack explorers under Vasily Sukin and Ivan Myasnoj chose this bend in the river for the first Siberian Russian settlement in 1586, establishing a stockade fort on the high bank. The city grew outward from here over four centuries. The embankment now covers much of the original fortification site.
+score: 6.8
 ---
 
 The embankment along the Tura River has been Tyumen's main leisure promenade since a major renovation project improved the waterfront. The paved walkway extends for several kilometres, with benches, cafes, and public artworks installed along its length. In summer it fills with families, cyclists, and ice cream vendors; in winter the frozen river becomes an informal skating rink.

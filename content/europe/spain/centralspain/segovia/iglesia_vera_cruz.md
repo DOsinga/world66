@@ -13,6 +13,7 @@ story: >
   in Castile — mimics the Dome of the Rock, which the Templars had used as
   their headquarters in Jerusalem after the First Crusade. A fragment of the
   True Cross, brought from Jerusalem, was once kept in the inner chamber.
+score: 8.1
 ---
 
 The Iglesia de la Vera Cruz sits just outside the city walls, a squat twelve-sided Romanesque church built by the Knights Templar in 1208. It is the finest Templar church in Castile and one of the most unusual medieval buildings in Spain — its unusual plan copies the Church of the Holy Sepulchre in Jerusalem, with a small inner rotunda where the Order held its secret ceremonies. The church was abandoned for centuries after the Templars were dissolved and is now maintained by the Order of Malta.

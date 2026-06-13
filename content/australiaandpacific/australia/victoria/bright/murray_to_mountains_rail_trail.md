@@ -9,6 +9,7 @@ latitude: -36.7302
 longitude: 146.9566
 story: >
   The trail follows the bed of the Bright railway line, which closed to passengers in 1953 after the line was badly damaged by floods and the authorities chose not to repair it. Decades later, the sealed path that replaced it became one of Victoria's most popular recreational cycling routes.
+score: 8.5
 ---
 
 Victoria's best rail trail runs 116 km between Wangaratta and Bright (with a branch to Beechworth), following the old railway line through the Ovens Valley on a sealed, traffic-free path with gentle gradients. The full trail takes two days to ride one-way, but the Bright end — from Porepunkah into town along the river — is an excellent half-day ride accessible from the town centre.

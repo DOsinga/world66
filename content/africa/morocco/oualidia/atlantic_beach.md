@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - beach
+score: 6.9
 ---
 
 Cross the sandbar at the foot of town and you are on the open Atlantic side, which has the opposite character to the sheltered lagoon — cold, windy, and with consistent waves rolling in unbroken from across the ocean. The beach is wide and long; on a winter weekday you may have it almost entirely to yourself.

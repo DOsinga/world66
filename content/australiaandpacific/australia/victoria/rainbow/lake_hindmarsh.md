@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -36.0600
 longitude: 141.8800
+score: 7.3
 ---
 
 Victoria's largest natural freshwater lake lies about 20 km south of Rainbow. Like Wyperfeld's lakes, Lake Hindmarsh is ephemeral — it fills during periods of high rainfall when the Wimmera River system overflows, then gradually evaporates back to a flat, cracked clay pan. In a good year it attracts enormous numbers of waterbirds, including pelicans, cormorants, ibis, and various species of duck and wader. In a dry year it is a wide white pan, surreal in its emptiness.

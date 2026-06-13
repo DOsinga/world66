@@ -9,6 +9,7 @@ tags:
 title: Palacio Consistorial
 type: poi
 snippet: 19th-century neoclassical town hall on the Parque Duarte, now a small city museum
+score: 7.0
 ---
 
 The Palacio Consistorial is the most handsome building on the Parque Duarte — a neoclassical former town hall in pale stone with a pedimented portico, completed in the 1890s. It served as the Santiago ayuntamiento until the city outgrew it; today the interior houses a free city history museum covering the foundation of Santiago, the Restoration War, and Santiago's role in 20th-century Dominican politics.

@@ -14,6 +14,7 @@ story: >
   to vultures after death, which is considered a final act of generosity. The
   site is sacred and visitors should not attempt to attend or photograph sky
   burials; it is a private ritual of mourning for local Tibetan families.
+score: 8.4
 ---
 
 Taktsang Lhamo — known to Han Chinese visitors as Langmusi — sits at the border between Sichuan and Gansu provinces, a beautiful monastery town set in a narrow valley between sandstone canyon walls and fir-covered hills. Two major monasteries — Sertri Gompa (Gansu side) and Kirti Gompa (Sichuan side) — face each other across the small town, and the sound of monks chanting can be heard from the guesthouses in the early mornings.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.8933
 longitude: -5.5633
+score: 6.8
 ---
 
 Place el-Hedim — the Square of Demolition — is the great open space between the medina and Moulay Ismail's Imperial City. The name refers to the materials used to build the Imperial City: Ismail demolished large sections of the Marinid city to quarry stone and timber for his new capital, and piled the rubble here. Today the square is a busy social hub, best in the late afternoon when families gather and food stalls fire up around the edges.

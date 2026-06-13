@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 49.9692
 longitude: 20.4307
+score: 5.9
 ---
 
 The Rynek is the central market square and the focus of life above ground in Bochnia. It is a long rectangular plaza, flanked by 18th- and 19th-century townhouses now repurposed as cafes, a few restaurants and the offices of the local administration.

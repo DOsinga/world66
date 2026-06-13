@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -43.388619
 longitude: 170.182731
+score: 7.8
 ---
 
 The West Coast Wildlife Centre is a small but excellent kiwi-rearing facility on the main street of Franz Josef. It runs a captive-breeding programme for the rarest and most endangered kiwi species — the **rowi**, of which only a few hundred remain in the wild — and the visitor part of the operation lets you see live birds in a darkened nocturnal house.

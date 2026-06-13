@@ -1,6 +1,7 @@
 ---
 title: "Lech Valley and River"
 type: poi
+score: 7.8
 ---
 
 The Lech is one of the last semi-wild rivers in Central Europe. Fed by snowmelt and glacial runoff from the Alps, it runs fast and clear through a braided gravel channel that shifts with every major flood. Peiting sits on its eastern bank, and the stretch of river valley here — known as the Lechtal — is managed as a nature reserve, with riparian woodland, gravel banks and wet meadows that together support an unusually rich fauna. Kingfishers are common along the quieter backwaters; grey herons, cormorants and — in spring and autumn — migrating waders and waterfowl use the gravel banks.

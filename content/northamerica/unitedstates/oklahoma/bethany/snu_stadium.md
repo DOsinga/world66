@@ -6,6 +6,7 @@ longitude: -97.662
 tags:
   - things_to_do
   - sight
+score: 4.7
 ---
 
 SNU Stadium is the home of the Southern Nazarene University Crimson Storm football team, an NCAA Division II programme that plays in the Great American Conference. The 5,000-capacity stadium sits on the western side of campus near the Lake Overholser trail. The football season runs August through November; tickets are inexpensive and the atmosphere on a home Saturday is good.

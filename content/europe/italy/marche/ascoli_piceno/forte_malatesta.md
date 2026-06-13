@@ -8,6 +8,7 @@ tags:
 - sight
 - museum
 snippet: 16th-century fortress with views over the Castellano river
+score: 7.2
 ---
 
 The 16th-century fortress on the eastern bend of the Castellano, originally a Malatesta tower, expanded by Antonio da Sangallo the Younger into a full bastioned fort. The structure was a prison from the 19th century until the 1980s and has since been restored as an exhibition space and viewpoint.

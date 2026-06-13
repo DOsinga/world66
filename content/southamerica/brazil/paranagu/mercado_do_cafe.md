@@ -7,6 +7,7 @@ tags:
   - market
 latitude: -25.5202
 longitude: -48.5104
+score: 7.3
 ---
 
 The Mercado do Café, also known as the Mercado Municipal do Café, sits on the waterfront beside the old customs house. The 19th-century iron-and-tile building was once Paranaguá's coffee-export warehouse — coffee shipped from the Paraná plateau came down by the Serra do Mar railway and was loaded here for the world.

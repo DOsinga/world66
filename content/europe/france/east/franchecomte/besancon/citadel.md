@@ -9,6 +9,7 @@ latitude: 47.2301
 longitude: 6.0337
 story: >
   When Louis XIV's engineer Vauban was tasked with fortifying Besançon after France seized Franche-Comté from Spain in 1674, he was working on a site that had been fortified since Roman times. He designed the citadel with such precision that it was never taken by force — it surrendered only in 1814 when its garrison ran out of food after the Napoleonic wars turned against France.
+score: 9.1
 ---
 
 The Citadel of Besançon is one of the twelve Vauban fortifications designated as a UNESCO World Heritage Site, and it is among the most impressive of them. Built between 1668 and 1711 on a rocky promontory 118 metres above the Doubs, it commands a complete view over the horseshoe bend of the river that encloses the old city below.

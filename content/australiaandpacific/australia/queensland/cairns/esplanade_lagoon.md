@@ -12,6 +12,7 @@ story: >
   So in 2003 the city built a massive free public saltwater pool right on the waterfront.
   The lagoon holds four million litres of water, is maintained at a stable temperature,
   and is open to everyone. On hot days it is packed with locals and backpackers alike.
+score: 6.7
 ---
 
 The Esplanade Lagoon is the social heart of Cairns — a 4,800-square-metre free public saltwater pool opened in 2003 on the waterfront. It was designed to solve a real problem: the city is tropical, the sea is warm, but the tidal estuary means no sandy beach and the waters close to shore harbour box jellyfish and saltwater crocodiles. The lagoon gives everyone a safe, free, and gloriously large place to swim.

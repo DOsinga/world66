@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Sukarno Monument
 type: poi
+score: 5.8
 ---
 
 A modest monument marks the spot where, on 17 July 1957, President Sukarno drove the first pole into the ground to found Palangka Raya as a planned city. He intended it as the future capital of Indonesia — geographically central, far from colonial Jakarta.

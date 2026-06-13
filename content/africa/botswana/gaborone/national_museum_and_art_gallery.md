@@ -8,6 +8,7 @@ latitude: -24.6530
 longitude: 25.9150
 story: >
   The museum holds one of the more complete collections of San (Bushmen) artefacts in southern Africa, including tools, musical instruments, and ritual objects assembled during a period when the San of the Kalahari were still living much as they had for thousands of years. The art gallery section tends to punch above its weight — Botswana has produced a number of internationally recognised painters, and the permanent collection reflects this.
+score: 7.2
 ---
 
 The National Museum and Art Gallery on Independence Road, just northwest of the Main Mall, is Gaborone's most worthwhile indoor destination. The permanent collections cover traditional Tswana crafts, material culture from Botswana's various peoples, and a fine art gallery focusing on southern African artists.

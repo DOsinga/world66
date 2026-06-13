@@ -13,6 +13,7 @@ story: >
   name on the bottle — Barbayiannis means "Uncle Yannis" — reflects the
   informal, family-rooted origin of the business, which started as a home
   still and grew into a commercial operation over several generations.
+score: 8.3
 ---
 
 The Barbayiannis distillery is the most famous producer of Plomari ouzo and the best place in town to understand the spirit. The distillery has been in continuous operation since the 1860s, using copper pot stills to produce ouzo from neutral grape spirit redistilled with aniseed and other botanicals. The original still room can be visited; the equipment, while maintained, retains an artisanal character that distinguishes the place from a modern industrial facility.

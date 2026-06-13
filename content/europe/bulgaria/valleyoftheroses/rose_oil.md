@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.6167
 longitude: 25.4
+score: 8.1
 ---
 
 Bulgaria produces between 40 and 50 per cent of the world's rose oil, and almost all of it comes from this valley. The plant is *Rosa damascena* — the Damask rose — introduced from the Ottoman empire in the 17th century. The combination of mild winters, cool spring mornings, and well-drained soil at 350–400 metres turned out to be very nearly ideal.

@@ -7,6 +7,7 @@ tags:
   - historic_house
 latitude: 40.5642
 longitude: 44.9387
+score: 8.1
 ---
 
 The smaller companion to Sourb Arakelots, Sourb Astvatsatsin (Church of Holy Mother of God) stands just a few metres away. Together the two churches form the complete monastery — Sevanavank at its founding had more buildings, but these are what survived the centuries and the Soviet era.

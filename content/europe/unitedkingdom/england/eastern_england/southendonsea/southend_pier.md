@@ -10,6 +10,7 @@ tags:
 snippet: At 1.34 miles, the longest pleasure pier in the world — walk it or take the small electric railway.
 story: >
   The pier has burned down four times: 1959, 1976, 1995 and 2005. It is rebuilt each time. Sir John Betjeman, who lived in Southend for some years, said the pier "is Southend, Southend is the pier" — a phrase the town has repeated ever since.
+score: 8.7
 ---
 
 Southend Pier stretches 1.34 miles out into the Thames Estuary from the centre of the seafront — the longest pleasure pier in the world. The original wooden pier opened in 1830; the current iron one in 1889. It was built so long because the Thames mud here exposes vast intertidal flats at low water, and the pier had to reach the deep channel where steamboats from London could moor.

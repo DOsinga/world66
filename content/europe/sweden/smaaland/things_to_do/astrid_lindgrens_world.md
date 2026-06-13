@@ -3,6 +3,7 @@ title: "Astrid Lindgrens Värld, Vimmerby"
 type: poi
 tags:
   - things_to_do
+score: 6.8
 ---
 
 Vimmerby, a small town in the northern part of Småland, was the birthplace of Astrid Lindgren, the author of Pippi Longstocking, Emil of Lönneberga, Ronja Rövardotter, and dozens of other beloved children's books. The town has leaned fully into this heritage: Astrid Lindgrens Värld is a large theme park where the settings from her books have been faithfully recreated as you can walk through. Villa Villekulla — Pippi's house — stands there along with Emil's farm at Katthult, the village of Bullerbyn, and the island of Saltkråkan.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 8.9
 ---
 
 The main beach is a kilometre of fine pale sand backed by the eroded orange-red sandstone cliffs that give the place its name (rocha — rock). Sea stacks rise from the sand in the western half, the most photographed being the formations near Praia do Alemão. The water is Atlantic — bracing — but the bay is sheltered enough to swim through most of the summer.

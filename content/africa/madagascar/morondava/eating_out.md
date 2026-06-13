@@ -8,6 +8,7 @@ price: $ 15.00
 title: Eating Out
 type: poi
 url: www.chezmaggie.com
+score: 5.4
 ---
 
 ### Le Masoandro Restaurant / Chez Maggie Hotel

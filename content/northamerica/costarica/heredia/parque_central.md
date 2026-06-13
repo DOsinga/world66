@@ -15,6 +15,7 @@ story: >
   the same block, creating the civic geometry still visible today.
 sources:
   - https://en.wikipedia.org/wiki/Heredia,_Costa_Rica
+score: 6.4
 ---
 
 The Parque Central is the heart of Heredia — a shaded square of mature trees, benches, and slow-moving pedestrian life. On a weekday morning it is full of students from the nearby university, food vendors, and older residents who have been using the same benches for decades. On weekends families from the surrounding residential streets come to sit and watch the city pass by.

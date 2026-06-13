@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, american]
 latitude: 42.108
 longitude: -72.082
+score: 6.9
 ---
 
 The Publick House has been operating on the Sturbridge Common since 1771, which makes it one of the older continuously operating inns in New England. The dining room serves traditional New England food — Indian pudding (a molasses-sweetened cornmeal porridge baked for hours), Yankee pot roast, chicken pot pie, clam chowder, and roasted meats. The menu doesn't chase trends, which is either a virtue or a limitation depending on what you're after. The portions are large and the execution is consistent.

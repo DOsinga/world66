@@ -12,6 +12,7 @@ story: >
   unknown peninsula north of Monterey. The tree was already several hundred years old then. The
   name "El Palo Alto" (the tall tree) eventually transferred from the redwood itself to the
   surrounding town and university.
+score: 6.9
 ---
 
 A single, lopsided coast redwood standing on the banks of San Francisquito Creek behind the Palo

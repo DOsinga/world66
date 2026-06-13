@@ -8,6 +8,7 @@ latitude: 25.5200
 longitude: 78.7500
 story: >
   Parichha Dam on the Betwa River was built in the 1920s and created a substantial reservoir. The reservoir and surrounding scrub are home to a population of vultures — including long-billed and white-rumped species — that are increasingly rare in the Gangetic plain. Jhansi is one of the few places in north India where you can still reliably see large vulture gatherings.
+score: 6.1
 ---
 
 The area around Parichha Dam, about 20 kilometres from Jhansi on the Betwa River, offers a break from the city's monuments. The reservoir and its fringes attract waterbirds, and the rocky scrubland upstream of the dam holds raptors and dry-country species typical of the Bundelkhand plateau. It is not a formal wildlife reserve in the national-park sense, but birders treat it as one of the better sites in the region.

@@ -8,6 +8,7 @@ tags:
 - day_trips
 title: Santa Rosa de Kilo Kilo
 type: poi
+score: 6.7
 ---
 
 At the end of the Suapi road, an hour further from Coroico, this remote village sees perhaps two groups of tourists a year. The ride there is spectacular as the forest changes with altitude, and just before the village you pass the odd Kilo Kilo Alto hacienda house.

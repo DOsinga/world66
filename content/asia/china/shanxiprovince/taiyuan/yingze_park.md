@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.855
 longitude: 112.5622
+score: 6.0
 ---
 
 Yingze Park is the main public green space in central Taiyuan, a large formal park on the east bank of the Fen River with lakes, pavilions, and tree-lined paths that fill with locals on weekend mornings for tai chi, dancing, kite-flying, and the general sociability of Chinese urban park life. The park has no particular historical significance but gives a useful window into Taiyuan's daily rhythms — the early morning session, when the lake terraces are at their most animated, is the most interesting time to visit.

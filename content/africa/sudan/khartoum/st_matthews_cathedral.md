@@ -8,6 +8,7 @@ tags:
 - architecture
 title: St Matthew's Cathedral
 type: poi
+score: 6.3
 ---
 
 St Matthew's Cathedral is the seat of the Catholic Archdiocese of Khartoum, a buff-coloured neo-Romanesque church completed in 1908. Italian missionaries — Comboni Fathers, after the order founded by Daniele Comboni in the 19th century — designed and built it, and its bell tower and rose window are among the few landmarks of Sharia Al-Qasr in central Khartoum.

@@ -6,6 +6,7 @@ longitude: -85.6641
 tags:
   - things_to_do
   - museum
+score: 6.8
 ---
 
 The Science and Discovery Center sits on a small wooded plot at the northern edge of town and is a hands-on children's museum with a particular focus on the natural history of Bay County. The standout exhibit is the Suzy Hagen Wildlife Refuge, a fenced outdoor area with rescued raptors, alligators, an enormous tortoise, and small native mammals that cannot be returned to the wild.

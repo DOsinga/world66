@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
   - mountain
+score: 8.0
 ---
 
 The Kofel is the rocky 1,342-metre horn that rises directly above Oberammergau and serves as the village's natural emblem. It appears on the cover of half the local guidebooks and you can see it from almost any street. The summit holds a large wooden cross visible from below on a clear day.

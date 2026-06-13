@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.7
 ---
 
 The Old Synagogue, a striking 1864 Moorish Revival building with twin onion-domed towers in pink and cream, has stood deconsecrated since the 1940s when Kecskemét's Jewish community was almost entirely murdered in the Holocaust. After decades as a warehouse, it was restored in 1974 and now serves as the city's House of Science and Technology, with an exhibition hall that hosts touring shows.

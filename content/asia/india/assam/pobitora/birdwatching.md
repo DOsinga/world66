@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.2594
 longitude: 91.9848
+score: 7.7
 ---
 
 Pobitora's wetlands and grasslands make it a very good birdwatching destination, particularly from October to March when migratory species are present. The seasonal waterbodies attract bar-headed geese, which winter here after their extraordinary trans-Himalayan migration, along with several duck species, herons, storks, and waders. The grassland edges support raptors including pied harrier and various eagles.

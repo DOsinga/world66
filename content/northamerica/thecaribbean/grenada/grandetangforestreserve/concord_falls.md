@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 12.1281
 longitude: -61.7411
+score: 7.9
 ---
 
 Concord Falls is a three-stage waterfall system in the western flank of the Grand Etang reserve. The lowest fall, accessible by road from the village of Concord, is a 10-metre cascade with a swimming pool at its base — the easy stop, with a small visitor centre, restaurant and crowds in season.

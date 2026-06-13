@@ -8,6 +8,7 @@ tags:
 latitude: 33.6962
 longitude: 35.5799
 snippet: "Summer arts festival in the palace courtyard"
+score: 8.3
 ---
 
 The Beiteddine Festival was founded in 1985, at the height of the civil war, by a group determined to keep the cultural life of Lebanon going through the violence. It has run nearly every year since (excluding pandemic and worst-conflict years) and is now one of the two great Lebanese summer arts events, alongside Baalbek.

@@ -12,6 +12,7 @@ story: >
   The fountain at the Pile Gate end of the Stradun was the public face of the system: sixteen carved stone masks
   around the dome spouted water continuously, allowing travellers and traders entering the city to drink, wash,
   and water their animals before entering. Many of the masks were damaged in the 1667 earthquake.
+score: 6.3
 ---
 
 Onofrio's Great Fountain stands just inside the Pile Gate at the western end of the Stradun, a large domed polygon decorated with carved stone masks. It was built in 1444 as part of the water supply system that brought fresh water to Dubrovnik from the Šumet spring near Rijeka Dubrovačka, and it functioned as the main public water source for the old town for centuries.

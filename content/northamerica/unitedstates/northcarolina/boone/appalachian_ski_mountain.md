@@ -7,6 +7,7 @@ tags:
 - sight
 title: Appalachian Ski Mountain
 type: poi
+score: 6.8
 ---
 
 Appalachian Ski Mountain — known locally as App Ski — is one of three ski areas in Watauga County and the closest to Boone. The mountain is modest by Rocky-Mountain standards (12 trails, 365 feet of vertical, terrain park), but it has the friendliest pricing and the gentlest learning slopes in the High Country.

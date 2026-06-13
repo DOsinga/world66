@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 snippet: Pan-Asian hawker-style cooking, family-run chain
+score: 6.5
 ---
 
 A Pan-Asian hawker-style restaurant on The Mall — Malaysian rotis, Vietnamese bao, Thai curries — owned by the family that runs several of Queenstown's better food rooms. Loud, energetic, and decent value for the location. The pork belly bao and the satay are the things to order.

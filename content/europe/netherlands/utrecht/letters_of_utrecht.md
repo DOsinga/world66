@@ -6,6 +6,7 @@ longitude: 5.1168
 tags:
 - things_to_do
 - sight
+score: 7.8
 ---
 
 A poem embedded in the cobblestones of the Oude Gracht, growing by one letter every Saturday. The project began in 2012 and will, in theory, never end — each week a new stainless steel letter is set into the pavement, continuing a poem that has no planned final verse. The letters run along the lower wharf level of the canal, and following them is a quiet, meditative walk.

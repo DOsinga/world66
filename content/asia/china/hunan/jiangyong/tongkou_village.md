@@ -9,6 +9,7 @@ latitude: 25.3089
 longitude: 111.3912
 story: >
   Tongkou was once a lively commercial settlement with teahouses, restaurants, and reportedly gambling establishments serving the valley trade. Most of it is now empty. The depopulation happened gradually over the 20th century, and the effect is not one of abandonment so much as one of time suspended — the buildings stand, the streets still make sense, the persimmon trees still bear fruit.
+score: 7.7
 ---
 
 Tongkou Village, north of the Jiangyong county seat in a valley of cultivated terraces and forested hills, is one of the county's most atmospheric and least-visited rewards. A Ming dynasty settlement that once had a substantial commercial life, it is now largely depopulated and largely undiscovered, its old buildings — courtyard houses, carved wooden screens, stone-paved lanes — subsiding gently into the hillside.

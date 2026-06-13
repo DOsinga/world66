@@ -10,6 +10,7 @@ story: >
   in the 1860s, and the story goes that the star motif on the café's gable stone
   inspired the trademark that would become one of the most recognised beer logos
   in the world.
+score: 6.7
 ---
 
 One of Leiden's oldest pubs, on Breestraat in the heart of the city. The building dates from the 15th century and the interior is a proper Dutch brown café — dark wood, low ceilings, and the comfortable patina of centuries of drinking. The name means "The Gilded Jar."

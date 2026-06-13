@@ -6,6 +6,7 @@ longitude: 31.1703
 tags:
   - things_to_do
   - sight
+score: 5.2
 ---
 
 Founded in 1957, Assiut University is the largest university in Upper Egypt and the third-oldest in the country. Its sprawling campus on the west side of town is what gives Asyut its student population — visible in the cafes around the main gates — and the medical school is one of the best regarded in Egypt.

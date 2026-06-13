@@ -8,6 +8,7 @@ tags:
   - seafood
 latitude: 55.3034
 longitude: 20.9988
+score: 7.2
 ---
 
 The wooden smokehouses along Nida's lagoon-front road are the village's most famous food. Each stall has a small smoking kiln out the back, fired with alder or juniper, and a glass case at the front displaying the morning's catch — perch, pike, bream, eel, and the prized flounder. Pick a fish, the stallholder weighs it, and you pay by the kilo.

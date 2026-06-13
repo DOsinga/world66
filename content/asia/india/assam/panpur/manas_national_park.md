@@ -11,6 +11,7 @@ story: >
   flagship mammals in a single visit: the tiger, elephant, one-horned rhinoceros, and
   wild buffalo. The pygmy hog — the world's smallest pig, thought extinct until rediscovered
   here in 1971 — also survives in these grasslands and nowhere else on the planet.
+score: 9.5
 ---
 
 Manas National Park straddles the border between India and Bhutan, covering 950 square kilometres of grassland, riverine forest, and sal woodland in a UNESCO World Heritage Site and Project Tiger reserve. The park protects several species found nowhere else in the world, including the pygmy hog and the golden langur, as well as more visible populations of elephant, tiger, one-horned rhino, wild buffalo, and swamp deer.

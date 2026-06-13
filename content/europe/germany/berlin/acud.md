@@ -8,6 +8,7 @@ tags:
 - berlinmitte
 title: Acud
 type: poi
+score: 7.0
 ---
 
 A lively socio-cultural centre in Mitte with a club, café, theatre, cinema, and gallery all under one roof. The crowd is young and local; the prices are genuinely low. Check what's on before you go — the event programme is the main reason to come.

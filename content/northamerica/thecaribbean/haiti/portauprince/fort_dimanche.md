@@ -12,6 +12,7 @@ story: >
   cells so small they could not lie down, fed almost nothing, and left to die of thirst
   and disease. Survivors called it "Fort La Mort" — Death Fort. Of the thousands
   imprisoned there, only a handful survived long enough to tell what happened inside.
+score: 6.8
 ---
 
 Fort Dimanche is Haiti's most notorious political prison, used primarily under François "Papa Doc" Duvalier and his son Jean-Claude "Baby Doc" Duvalier between 1957 and 1986. The fort — originally a colonial military installation near the La Saline neighbourhood — became the principal site where political opponents, suspected dissidents, and ordinary people accused of disloyalty were taken, tortured, and killed.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: City Dock
 type: poi
+score: 8.0
 ---
 
 Annapolis's working harbour, locally known as Ego Alley because boat owners cruise slowly up and down to be admired. The dock is at the foot of Main Street and is the lowest point in the historic district — every street in the old town funnels down to it. Sailboats, water taxis, and tour boats jostle for space year-round, and the Annapolis Boat Shows in October fill the entire basin with hundreds of vessels.

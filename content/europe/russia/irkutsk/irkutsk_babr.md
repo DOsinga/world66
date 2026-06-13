@@ -14,6 +14,7 @@ story: >
   word for beaver — and the artist drew a tiger's body with a beaver's flat tail and
   webbed feet. The error was spotted and officially corrected only in 1878, but by
   then Irkutsk had taken the hybrid to its heart. The babr is now everywhere in the city.
+score: 5.4
 ---
 
 The Irkutsk Babr is the city's heraldic animal — a black, beaver-tailed tiger holding a sable in its jaws. It appears on the official city coat of arms, on signage, on souvenirs, and in a bronze statue near the Regional Museum. The creature's origins lie in a 17th-century cartographic error that transformed a Siberian tiger into a taxonomically impossible hybrid.

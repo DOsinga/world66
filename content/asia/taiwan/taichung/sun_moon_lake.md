@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, day_trips]
 latitude: 23.8530
 longitude: 120.9150
+score: 8.3
 ---
 
 Sun Moon Lake is the largest natural lake in Taiwan, an hour and a half by bus from Taichung. The two halves of the lake — Sun in the east, Moon in the west — meet at the Lalu Island sacred to the Thao indigenous people. The shoreline is encircled by cable car, cycle path, and a popular boat circuit.

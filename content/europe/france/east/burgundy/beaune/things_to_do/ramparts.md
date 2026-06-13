@@ -8,6 +8,7 @@ latitude: 47.0241
 longitude: 4.8381
 story: >
   The bastion towers along the southern rampart were converted in the 19th century into a unique storage facility: the négociant Patriarche Père et Fils dug out the earthen fill and created the longest wine cellar in Burgundy — five kilometres of tunnels running directly beneath the medieval walls, holding around three million bottles.
+score: 7.1
 ---
 
 Beaune is still encircled by its 15th-century defensive walls — a complete ring of towers, bastions, and earthen ramparts that gives the town its distinctively tidy, self-contained feel. You can walk the full circuit in about half an hour along the chemin de ronde that runs behind the walls, looking inward over rooftops and church spires or outward toward the vineyards that begin directly outside the gates.

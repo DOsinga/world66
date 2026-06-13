@@ -10,6 +10,7 @@ tags:
 - eating_out
 title: Atahualpa
 type: poi
+score: 4.7
 ---
 
 Great service, with an owner who creates a familiar atmosphere. Like in most places in Liege the staff only speaks French, but you get by with pointing at the English menu.

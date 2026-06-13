@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - art
+score: 5.9
 ---
 
 The Left Bank, housed in the former Bank of New Zealand building on Tainui Street, is a small public gallery devoted mostly to West Coast pounamu (greenstone) carving and contemporary New Zealand jewellery. The permanent collection of carved pounamu pieces is one of the best in the country and is more focused than the larger pounamu displays in Hokitika.

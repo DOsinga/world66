@@ -11,6 +11,7 @@ story: >
   Roberto Clemente Walker was born in Carolina in 1934 and became one of the greatest baseball players in history. He died on New Year's Eve 1972, when the plane he had chartered to deliver relief supplies to earthquake victims in Nicaragua crashed into the ocean shortly after takeoff from San Juan. He was 38. Puerto Rico mourned him as a national hero, and Carolina — his hometown — carries his name on this stadium and throughout the city.
 sources:
   - https://en.wikipedia.org/wiki/Roberto_Clemente_Stadium
+score: 5.2
 ---
 
 Roberto Clemente Stadium is the main sporting venue in Carolina, named for the city's most famous son. It hosts baseball and other sports events and serves as a reminder that Carolina's most significant contribution to world culture is arguably the legacy of one man: Roberto Clemente, the Pittsburgh Pirates right fielder who is considered among the finest baseball players of the 20th century and one of the most admired humanitarians in Latin American sports history.

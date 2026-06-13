@@ -8,6 +8,7 @@ sources:
   - https://en.wikipedia.org/wiki/Aiguille_du_Midi
 story: >
   The cable car was inaugurated in 1955 and remains one of the highest in the world. When Lionel Terray and Lachenal made the first ascent of Annapurna in 1950 — the first 8,000-metre peak ever climbed — they trained on these same slopes above Chamonix. The panorama from the top terrace on a clear day takes in not just Mont Blanc but 400 kilometres of Alpine chain.
+score: 9.8
 ---
 
 The Aiguille du Midi cable car is the single most spectacular thing you can do in Chamonix. In two stages it carries you from the town centre at 1,035 metres to the needle-shaped summit station at 3,842 metres, rising nearly 2,800 metres in roughly 20 minutes. The views from the top terrace are staggering: Mont Blanc fills the sky to the south, the Matterhorn is visible in Switzerland on a clear day, and the glacier far below makes the scale of the Alps suddenly tangible.

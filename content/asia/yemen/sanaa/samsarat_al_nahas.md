@@ -9,6 +9,7 @@ tags:
   - architecture
   - old_city
 snippet: A restored 18th-century caravanserai now used for cultural exhibitions
+score: 7.8
 ---
 
 The Samsara was the lodging-house-and-warehouse of the medieval Islamic city — a two- or three-storey courtyard building where caravan merchants stabled their animals on the ground floor, stored their goods on the middle floor, and slept on the top. Several survive within Sana'a's old quarter; Samsarat al-Nahas (the Copper Caravanserai) is the most easily visited, restored by the Yemeni-German cultural cooperation in the 1990s.

@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Berni's Cafe
 type: poi
+score: 3.4
 ---
 
 A long-standing seafront cafe on Aberdeen's Esplanade, serving tea, fry-ups and ice creams to walkers on the city beach.

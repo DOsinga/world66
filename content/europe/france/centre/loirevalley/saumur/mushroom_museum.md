@@ -8,6 +8,7 @@ tags:
 story: "Most of the white champignons de Paris eaten in France grow not in Paris but in these caves around Saumur. The Loire tuffeau quarries — extracted to build the region's white-stone châteaux — became, after the stone ran out, the perfect dark, cool, humid environment for cultivating mushrooms commercially."
 title: Musée du Champignon
 type: poi
+score: 6.6
 ---
 
 The Mushroom Museum, just west of Saumur, occupies a long stretch of disused tuffeau quarry tunnels still used to grow mushrooms commercially. The visit walks you past beds of champignons de Paris, oyster mushrooms, shiitake, and stranger varieties — pied bleu, pleurote du panicaut — at every stage of cultivation. Underground galleries open up into surprising chambers carved from the soft white limestone.

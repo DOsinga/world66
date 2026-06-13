@@ -8,6 +8,7 @@ tags:
 - bar
 title: Pontoon
 type: poi
+score: 5.2
 ---
 
 A bar and restaurant overlooking Darling Harbour with a relaxed atmosphere. Known as a social spot with a good food menu and harbour views. Tends to attract a younger crowd in the 25 to 30 range.

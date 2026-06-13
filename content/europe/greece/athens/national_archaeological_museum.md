@@ -15,6 +15,7 @@ story: >
   upon the face of Agamemnon." He was wrong about the identity — the mask dates
   to the 16th century BC, predating the Trojan War by several hundred years —
   but it remains one of the most striking objects in Greek archaeology.
+score: 9.5
 ---
 
 The National Archaeological Museum is one of the great museums of the world, and it is significantly underestimated by visitors in a hurry to reach the islands. The collection spans Greek prehistory from the Neolithic through the Roman period, with exceptional depth at every point.

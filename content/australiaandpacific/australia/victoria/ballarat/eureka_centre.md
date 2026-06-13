@@ -9,6 +9,7 @@ address: "102 Stawell Street South, Eureka"
 latitude: -37.5594
 longitude: 143.8741
 story: "The Eureka Flag — five white stars of the Southern Cross on a blue ground — was raised on Bakery Hill on 1 December 1854. Three days later government troops attacked the stockade in the pre-dawn dark. Of the original flag, only sections survive; they were torn into pieces as souvenirs by the troops and have been reassembled here."
+score: 8.7
 ---
 
 The Eureka Centre, a modern museum on the site of the 1854 stockade, houses the original tattered Eureka Flag — the most politically loaded textile in Australian history. The permanent exhibition tells the story of the rebellion: the licence hunts, the murder of James Scobie, the oath on Bakery Hill, the dawn attack on the stockade, the trials in Melbourne that all ended in acquittal, and the lasting effect on Australian democracy.

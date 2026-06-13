@@ -10,6 +10,7 @@ tags:
 - dunes
 - day_trip
 snippet: A small isolated dune field 25km south of Zagora — the easy taste of the Sahara
+score: 6.4
 ---
 
 These are the closest dunes to Zagora — a small, isolated patch of sand rising abruptly out of the hammada plain about 25 kilometres south of town, just past Tamegroute. They cannot compete with Erg Chigaga or Erg Chebbi for sheer scale, but you can be there in forty minutes by grand taxi rather than a punishing 4×4 day trip. Climb the highest dune at sunset and the silence is the same as in the deep desert.

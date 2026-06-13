@@ -15,6 +15,7 @@ story: >
   transition to steam — which effectively ended Dalmatian maritime dominance —
   is documented with a frankness about economic decline that is unusual in a
   national museum.
+score: 6.5
 ---
 
 The Croatian Maritime Museum is located in the Gripe fortress above the eastern end of the Riva, a solid 17th-century stronghold with a view over the harbour and the islands beyond. The collection covers Croatian maritime history from the early medieval period to the 20th century, with particular emphasis on the 18th and 19th centuries when Dalmatian sailing ships were a significant force in Mediterranean trade.

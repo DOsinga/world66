@@ -9,6 +9,7 @@ latitude: 38.6258
 longitude: 34.7130
 story: >
   Damat İbrahim Paşa was born in Nevşehir when it was a dusty Anatolian backwater and rose to become grand vizier of the Ottoman Empire under Ahmed III. He transformed the city with this complex and a massive programme of construction — then was strangled on the Sultan's orders in 1730 during the Patrona Halil revolt. His buildings outlasted him by three centuries.
+score: 8.2
 ---
 
 The Külliye of Damat İbrahim Paşa is the architectural centrepiece of old Nevşehir, built in the 1720s by the city's most famous son, the Ottoman grand vizier Ibrahim Paşa. The complex consists of a mosque, a medrese (religious school), a library, and a hammam, all built in the Ottoman classical style.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Desert Cultural Centre
 type: poi
+score: 5.9
 ---
 
 The Desert Cultural Centre and Museum, just outside the fort walls near the Gadi Sagar road, is a compact museum dedicated to the folk culture of the Thar Desert region. It covers folk music, traditional costumes, the puppet-making craft (Jaisalmer is one of the centres of Rajasthani kathputli puppetry), agricultural tools, and the social customs of the desert communities. The collection is modest but well curated, and the staff are generally knowledgeable and willing to explain pieces in detail.

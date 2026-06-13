@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Monday Market
 type: poi
+score: 7.1
 ---
 
 Guernika's market has been running every Monday since the 14th century and is still the central economic event of the week in this part of Biscay. Farmers from the surrounding valleys bring sheep cheeses (the local Idiazabal is unmissable), green Gernika peppers in season, txakoli wine, cider, vegetables, and live poultry.

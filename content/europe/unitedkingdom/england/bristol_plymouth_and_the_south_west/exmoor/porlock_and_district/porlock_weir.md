@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 51.2196
 longitude: -3.6292
 snippet: "Tiny tidal harbour with pebble beach and seaside cottages, 2 km west of Porlock village"
+score: 7.9
 ---
 
 A short distance west of Porlock village, the road meets the sea at a tiny tidal harbour known as Porlock Weir. A handful of fishermen's cottages, two pubs, a small chandler's, and an art gallery line the harbour wall. At low tide the boats sit on the mud and gravel; at high tide the basin floods and the small craft refloat.

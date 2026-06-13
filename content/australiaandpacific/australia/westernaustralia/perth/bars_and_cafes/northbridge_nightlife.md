@@ -5,6 +5,7 @@ tags:
   - bars_and_cafes
 latitude: -31.9466
 longitude: 115.8603
+score: 6.9
 ---
 
 Northbridge is where Perth goes out at night, and the concentration of bars, clubs, and live music venues along and around James Street and Aberdeen Street constitutes the city's main nightlife district. The quality and character varies considerably: some of the bars are relaxed and interesting, with good craft beer selections and occasional live music; others are the kind of loud, crowded venues that exist in every city and require no further description. The neighbourhood's saving grace is its density — if one place is not working for you, there are a dozen others within two minutes' walk.

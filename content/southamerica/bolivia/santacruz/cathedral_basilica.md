@@ -8,6 +8,7 @@ tags:
 latitude: -17.7842
 longitude: -63.1817
 snippet: The brick cathedral on the south side of the central plaza
+score: 7.3
 ---
 
 The Cathedral Basilica of St. Lawrence dominates the south side of the Plaza 24 de Septiembre, a robust 19th-century brick church built on the site of earlier wooden and adobe versions. The current building was begun in 1845 and consecrated decades later, with a heavy facade and two flanking bell towers that you can climb for a panorama over the old city and the rings of the anillos stretching away into the haze.

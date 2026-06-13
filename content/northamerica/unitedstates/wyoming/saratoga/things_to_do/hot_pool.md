@@ -3,6 +3,7 @@ title: The Hot Pool
 type: poi
 latitude: 41.4553
 longitude: -106.8079
+score: 8.6
 ---
 
 A rustic concrete soaking pool on the bank of the North Platte River, fed by natural springs that push up through coarse sand at temperatures regularly reaching 43°C. It is open 24 hours a day and free to use — there is no ticket booth, no attendant, no charge. You can see the sand bubbling on the pool floor where the water rises.

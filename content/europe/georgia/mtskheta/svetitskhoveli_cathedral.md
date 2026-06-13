@@ -15,6 +15,7 @@ story: >
   cedar tree grew from her burial spot. When the first church was being built over
   the grave, the miraculous pillar hewn from that cedar floated in the air for
   three days before Saint Nino's prayers brought it down into place.
+score: 9.2
 ---
 
 The largest medieval church in Georgia, Svetitskhoveli Cathedral was built between 1010 and 1029 by the architect Arsukisdze and remains the centrepiece of Mtskheta. The name means "life-giving pillar" — a reference to the cedar column said to have grown from the grave of a Jewish woman who died clutching Christ's robe, brought here from Jerusalem. A small shrine inside the cathedral marks the spot.

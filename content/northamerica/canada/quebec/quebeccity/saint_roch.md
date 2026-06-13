@@ -7,6 +7,7 @@ tags:
 latitude: 46.8136
 longitude: -71.2058
 snippet: Revived working-class neighbourhood with independent restaurants, galleries, and coffee shops
+score: 8.0
 ---
 
 The neighbourhood immediately north of the Old City walls was Québec City's working-class commercial district, declined through the 1980s, and has been regenerating steadily since the 1990s into one of the more interesting places to spend an afternoon. Saint-Roch has a concentration of independent restaurants, cafés, art galleries, vintage shops, and design studios that gives it a genuinely urban feel distinct from the tourist orbit of the Old City.

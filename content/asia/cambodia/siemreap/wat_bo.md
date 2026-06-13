@@ -9,6 +9,7 @@ tags:
 title: Wat Bo
 type: poi
 neighbourhood: Wat Bo
+score: 8.1
 ---
 
 **Wat Bo** is one of Siem Reap's oldest and most important active Buddhist temples, sitting at the centre of the neighbourhood that takes its name from it. The temple compound is large by local standards and almost always has resident monks visible going about their daily routines — it functions as a genuine monastery rather than a visitor attraction. The wats interior murals, painted during the 19th century, depict scenes from the Ramayana in a style that blends Khmer and Thai Buddhist painting traditions; they are among the best-preserved temple murals in the city.

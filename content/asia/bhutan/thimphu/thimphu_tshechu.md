@@ -13,6 +13,7 @@ tags:
 - sight
 title: Thimphu Tshechu
 type: poi
+score: 7.4
 ---
 
 The major annual festival of Thimphu, held at Tashicho Dzong over three days in autumn (exact dates vary with the lunar calendar, typically September or October). Sacred cham dances — performed by monks in elaborate costumes and masks representing Buddhist deities and demons — fill the dzong courtyard from morning to evening. The atmosphere is extraordinary: locals come in traditional dress from across the district, vendors line the streets, and the entire city operates at a different rhythm. Book accommodation months in advance; the festival draws large crowds.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.4657
 longitude: 1.7464
+score: 6.7
 ---
 
 Claremont Pier is a traditional Victorian seaside pier on Lowestoft's South Beach, stretching about 200 metres into the North Sea. Built in 1903, it served as an entertainment venue and landing stage for paddle steamers for much of the 20th century. Today it has been restored and functions as a fishing pier.

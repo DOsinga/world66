@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -27.3390
 longitude: -55.8689
+score: 6.5
 ---
 
 The Cathedral of the Incarnation stands at the centre of the city, a large early 20th-century church on the main plaza. The building is an imposing presence in the urban landscape, with twin towers and a broad facade facing the square. The interior is relatively simple but well maintained, and the plaza in front is the social heart of the city — shaded by old trees, with benches always occupied in the cooler hours of the day.

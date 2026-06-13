@@ -7,6 +7,7 @@ tags:
   - architecture
 title: Casa del Doncel
 type: poi
+score: 7.8
 ---
 
 The Casa del Doncel is a handsome late-medieval house associated with the Vázquez de Arce family, whose young knight Martín became the famous Doncel buried in the cathedral. Its facade is restrained rather than flashy, but the stonework and interior courtyards make it one of the most evocative domestic buildings in town.

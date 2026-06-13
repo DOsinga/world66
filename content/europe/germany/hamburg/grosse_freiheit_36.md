@@ -12,6 +12,7 @@ tags:
 title: Grosse Freiheit 36
 type: poi
 url: www.grossefreiheit36.de
+score: 6.9
 ---
 
 The Reeperbahn's main venue for live music — mid-size touring acts upstairs in the main hall, club nights and the legendary **Kaiserkeller** in the basement, where the Beatles played in 1960. Big-name bands at weekends; cover varies.

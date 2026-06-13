@@ -11,6 +11,7 @@ story: >
   Revolt of 1916–1918, dynamiting tracks, bridges, and rolling stock to disrupt Ottoman supply
   lines. He estimated he destroyed 79 bridges. The sections of track south of Medina were never
   repaired. You can still find rusting locomotive wreckage in the desert if you know where to look.
+score: 7.8
 ---
 
 Housed in the old Medina terminus of the Hejaz Railway, this museum tells the story of one of the most ambitious infrastructure projects in Middle Eastern history. The line, completed in 1908, connected Damascus to Medina — a distance of 1,800 km through harsh desert terrain. Sultan Abdülhamid II funded it partly through donations from across the Muslim world, framing it as a project to serve pilgrims and strengthen Ottoman prestige.

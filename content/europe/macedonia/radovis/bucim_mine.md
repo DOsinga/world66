@@ -8,6 +8,7 @@ latitude: 41.6200
 longitude: 22.4400
 sources:
   - https://en.wikipedia.org/wiki/Radovi%C5%A1
+score: 4.6
 ---
 
 The Bučim mine, a few kilometres south of Radoviš, is the only active copper and gold mine in North Macedonia and one of the defining facts about the local economy. It employs around 500 people — a significant number for a town of 14,000 — and its presence shapes the town's character: Radoviš has the self-sufficiency of a place that produces something tangible and knows it.

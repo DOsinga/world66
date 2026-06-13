@@ -8,6 +8,7 @@ latitude: 36.1654
 longitude: -82.3894
 sources:
   - https://en.wikipedia.org/wiki/Erwin,_Tennessee
+score: 6.5
 ---
 
 The Unicoi County Heritage Museum on Federal Hatchery Road is the best place in Erwin to make sense of the town's layered history — the railroad era, the elephant hanging, the Southern Potteries operation, and the broader story of Appalachian settlement in the Nolichucky valley.

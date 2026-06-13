@@ -15,6 +15,7 @@ story: >
   immediately. The church was built to house her shrine, and for centuries the
   golden reliquary containing her skull was the most visited pilgrimage
   destination in German lands north of the Alps.
+score: 9.3
 ---
 
 The Elisabethkirche is the oldest purely Gothic church in German-speaking lands, begun in 1235 in the year of St Elisabeth's canonisation and completed around 1290. It is remarkable inside: slim columns, pale stone, and unusually large windows for its era that flood the nave with light. The building was revolutionary for its time and influenced church construction across central Europe.

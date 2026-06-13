@@ -8,6 +8,7 @@ tags:
 latitude: 35.5709
 longitude: -5.3681
 story: "The palace served as the seat of Spanish protectorate authority from 1913 to 1956 — General Franco himself stayed here in the late 1930s while marshalling Moroccan troops for the Spanish Civil War. After independence the building reverted to the Moroccan king's use."
+score: 6.8
 ---
 
 The Royal Palace occupies the eastern side of Place Hassan II. The interior is closed to visitors — the king still uses it when in Tetouan — but the long facade with its green-tiled bands, white walls, and crenellated parapet is the city's most photographed building. The doors of carved cedarwood are particularly fine.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 23.8625
 longitude: 72.0972
+score: 7.1
 ---
 
 A few hundred metres east of Rani ki Vav, the Sahasralinga Talav — the "Lake of a Thousand Lingas" — was a medieval reservoir built around the same time as the stepwell, fed by a canal from the Saraswati river. In its heyday it had a thousand small Shiva shrines lining the embankments, hence the name. Today most of those are gone, but enough of the stone tank walls, sluice gates, and a few of the linga shrines survive to give a sense of the engineering.

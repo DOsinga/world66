@@ -8,6 +8,7 @@ latitude: 32.3967
 longitude: 119.4486
 story: >
   Puhaddin arrived in Yangzhou in 1265 as a 16th-generation descendant of the Prophet Muhammad, on a mission to spread Islam in China at the invitation of the Mongol court. He lived and preached here for nine years before dying in 1275. His tomb became a pilgrimage site, and the surrounding cemetery on the Grand Canal's bank gradually accumulated the graves of Arab merchants and missionaries who settled in Yangzhou over the following centuries.
+score: 7.2
 ---
 
 The Puhaddin Mausoleum sits on a terrace above the Grand Canal, within a walled cemetery that has served as the burial ground for Yangzhou's Muslim community for seven centuries. The tomb of Puhaddin — the most significant of the city's foreign religious figures — is a simple whitewashed structure with Arabic inscriptions, surrounded by the graves of Chinese Muslims and their Arab predecessors.

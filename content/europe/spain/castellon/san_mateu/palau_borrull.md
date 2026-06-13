@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 40.4641
 longitude: 0.1801
+score: 5.8
 ---
 
 The Palau Borrull is one of several Gothic and Renaissance palaces that survive in Sant Mateu's old centre — a reminder that this small town once housed the noble families who served the Order of Montesa. The façade has a fine pointed-arch doorway flanked by stone benches, and a row of trefoil windows on the upper floor that mark out the noble main room above.

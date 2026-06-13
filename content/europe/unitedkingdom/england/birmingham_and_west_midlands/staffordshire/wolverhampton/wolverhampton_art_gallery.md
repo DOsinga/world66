@@ -9,6 +9,7 @@ longitude: -2.1269
 story: "The gallery's Pop Art collection is one of the finest outside London. It came about partly through a major acquisition push in the 1960s, when the gallery bought works by Andy Warhol, Roy Lichtenstein, and Peter Blake before they became impossibly expensive. The collection now includes Warhol's 'Marilyn Monroe' screenprints — works that institutions in far wealthier cities have never managed to acquire."
 sources:
   - https://en.wikipedia.org/wiki/Wolverhampton_Art_Gallery
+score: 8.6
 ---
 
 The Wolverhampton Art Gallery is the city's greatest cultural asset and, by some distance, the most rewarding free attraction in the West Midlands outside Birmingham. The building itself — a confident Victorian Italianate design on Lichfield Street — sets the right tone: a city taking its cultural life seriously.

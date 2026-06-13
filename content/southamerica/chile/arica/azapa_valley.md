@@ -7,6 +7,7 @@ snippet: Green oasis of olive groves and pre-Columbian sites east of the city
 tags:
 - things_to_do
 - sight
+score: 8.1
 ---
 
 The Azapa river valley runs east from Arica into the desert, a thin green slice of irrigated farmland a few kilometres wide between sterile hills. It has been farmed continuously since pre-Hispanic times, and the soils and the year-round sun make it Chile's best ground for early-season olives, mangoes and guayabas.

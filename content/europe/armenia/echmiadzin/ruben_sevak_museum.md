@@ -5,6 +5,7 @@ snippet: Small museum dedicated to the Armenian poet killed during the 1915 geno
 tags: [things_to_do, museum]
 latitude: 40.161389
 longitude: 44.290556
+score: 5.8
 ---
 
 A modest museum within the Mother See complex devoted to Ruben Sevak, the Armenian poet and physician who was among the intellectuals arrested in Constantinople on 24 April 1915 and killed soon after — a date now commemorated as Armenian Genocide Remembrance Day. The collection includes manuscripts, photographs, and personal belongings rescued by his French widow, who eventually donated them to Etchmiadzin.

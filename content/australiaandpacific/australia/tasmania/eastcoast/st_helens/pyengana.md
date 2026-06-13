@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - eating_out
+score: 6.7
 ---
 
 Pyengana is a dairying valley 30 km west of St Helens with two well-known stops. The **Pyengana Dairy** has been making farmhouse cheddar since the 1890s and runs a milking-time café where you can watch the cows being brought in. The cheese-tasting flight at the counter is the easiest way to compare its different ages.

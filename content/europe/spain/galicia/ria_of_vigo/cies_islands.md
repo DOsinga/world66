@@ -6,6 +6,7 @@ latitude: 42.2164
 longitude: -8.8994
 story: >
   The Cíes Islands appear in ancient maps as the Insulae Deorum — the Islands of the Gods. Their white-sand beaches are officially protected as part of the Atlantic Islands of Galicia National Park. In summer, a daily access quota limits the number of visitors to prevent environmental damage; book your ferry ticket in advance or you may not get on.
+score: 9.3
 ---
 
 The Cíes Islands stand at the mouth of the Ría de Vigo, their dramatic quartzite cliffs and white-sand beaches forming the most spectacular natural sight in Galicia. The three main islands — Monteagudo, Faro, and San Martiño — are protected as part of the Atlantic Islands of Galicia National Park, with access only by ferry from Vigo (from May to September).

@@ -5,6 +5,7 @@ latitude: 52.2512
 longitude: 6.1592
 tags: [things_to_do, shopping, food]
 story: The original Deventer koek recipe — flour, honey, rye, spices and a long slow bake — is unchanged since at least the 1500s, but Bussink's medieval bakers reputedly cheated by adding aniseed. Most modern versions still use it, but the shop sells a 'pure honey' variant that follows the older recipe.
+score: 6.9
 ---
 
 Bussink, on the western edge of the Brink, has been baking and selling Deventer koek at the same address since 1593, making it one of the oldest continuously operating businesses in the Netherlands. The koek itself — a dense, dark, sweet-spicy honey-and-rye cake — has been a Deventer speciality since the medieval cloth trade; it travelled well, kept for months, and was widely exported from the IJssel ports.

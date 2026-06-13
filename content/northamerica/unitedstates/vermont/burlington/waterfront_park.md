@@ -5,6 +5,7 @@ tags: [things_to_do, sight, neighbourhood]
 latitude: 44.4770
 longitude: -73.2251
 snippet: Lakeside park and paved trail with views of the Adirondacks across Lake Champlain
+score: 8.6
 ---
 
 The Burlington Waterfront stretches along Lake Champlain from the ECHO museum south past the community boathouse and the ferry terminal. In summer it functions as an urban beach and park — kayak and canoe rentals are available at the Community Sailing Center, and the lake is warm enough to swim in July and August. The Adirondack Mountains across the water in New York State make for a spectacular backdrop at any time of year, particularly at sunset.

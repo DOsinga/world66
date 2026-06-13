@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 13.6900
 longitude: -89.2250
+score: 5.6
 ---
 
 Zona Rosa is the upmarket commercial and entertainment district of San Salvador, covering the area around Boulevard del Hipódromo and the streets south of Boulevard Los Héroes. It has the densest concentration of restaurants, bars, and shopping in the city, along with a number of international hotels. The streets are reasonably safe for walking in the day and early evening.

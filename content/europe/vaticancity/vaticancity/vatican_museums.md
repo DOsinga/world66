@@ -14,6 +14,7 @@ tags:
 title: Vatican Museums
 type: poi
 url: www.museivaticani.va
+score: 9.6
 ---
 
 One of the world's great museum complexes, accumulated over five centuries of papal patronage. The collection spans ancient Greek and Roman sculpture, Egyptian antiquities, Renaissance paintings, tapestries, maps, and modern religious art. Highlights include the Gallery of Maps (a 120-metre corridor of Renaissance cartography), the Raphael Rooms, the Pio-Clementine Museum with the Laocoön and the Apollo Belvedere, the Pinacoteca picture gallery, and the Etruscan and Egyptian collections. The route ends at the Sistine Chapel. Book tickets online — the walk-in queue can stretch two hours or more.

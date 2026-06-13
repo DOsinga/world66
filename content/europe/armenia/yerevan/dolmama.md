@@ -9,6 +9,7 @@ tags:
   - kentron
 neighbourhood: Kentron
 address: 10 Pushkin Street
+score: 6.8
 ---
 
 The high-end Armenian restaurant in Yerevan, in a converted 19th-century townhouse on Pushkin Street. The menu is built around the regional repertoire — dolma in vine and cabbage leaves, fall-off-the-bone lamb, the wheat-and-meat soup khash, ghapama (pumpkin baked with rice and dried fruit) — done with care, good ingredients, and a slight elevation of presentation that does not get in the way of the food.

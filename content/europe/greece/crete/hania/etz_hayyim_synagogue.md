@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Etz_Hayyim_Synagogue
 story: >
   The Jewish community of Hania was one of the oldest in the Mediterranean — descending from Jews expelled from Spain in 1492. In June 1944, the entire Jewish community of Crete, around 270 people, were arrested by the Germans and loaded onto a boat called the Tanais for deportation to Auschwitz. The boat was torpedoed and sunk in the Aegean — by an Allied submarine that did not know it was carrying prisoners. There were no survivors.
+score: 8.4
 ---
 
 The Etz Hayyim Synagogue stands in the old Jewish quarter (Evraiki) of the Venetian city, a few streets back from the harbour. The building dates from the 15th century, built over the remains of a Byzantine church, and was used continuously as a synagogue until the extermination of Hania's Jewish community in 1944. It was restored in the 1990s through international fundraising and is now an active synagogue and memorial.

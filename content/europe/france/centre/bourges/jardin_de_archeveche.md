@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 47.0809
 longitude: 2.4000
+score: 7.1
 ---
 
 The Archbishop's garden lies on the south side of the cathedral and was laid out in formal French style in the 18th century, attributed to a follower of Le Nôtre. Lozenge-shaped beds of clipped box, gravel paths, a central fountain and, towering above it all, the apse of Saint-Étienne.

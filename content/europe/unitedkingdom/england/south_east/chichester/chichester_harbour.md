@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - aonb
+score: 8.0
 ---
 
 Chichester Harbour is the large tidal inlet immediately south of the city — 28 square miles of creeks, mudflats, salt marsh and sheltered water designated as an Area of Outstanding Natural Beauty. It is one of the most important wintering grounds in the country for brent geese and waders, and at low tide the mudflats fill with feeding birds.

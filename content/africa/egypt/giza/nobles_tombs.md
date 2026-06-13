@@ -17,6 +17,7 @@ story: >
   carefully conserved; it is one of the most atmospheric spaces on the entire plateau.
 sources:
   - https://en.wikipedia.org/wiki/Giza_East_Field
+score: 8.5
 ---
 
 The Giza Plateau is not only pyramids: scores of mastabas (flat-topped mud brick and stone tombs) of the high officials, priests, and family members who served the pyramid builders surround the three monuments. The Eastern Cemetery, beside the Great Pyramid, and the Western Cemetery, behind it, contain dozens of these tombs, some of which are open to visitors on rotating permits.

@@ -6,6 +6,7 @@ longitude: 107.0676
 tags:
   - things_to_do
   - park
+score: 5.6
 ---
 
 Hồ Mây is a hilltop park on Big Mountain, reached by cable car from the foot of the hill near Front Beach. The cable car ride itself is the best part — five minutes over the city with views down to both beaches.

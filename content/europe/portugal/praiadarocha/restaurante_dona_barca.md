@@ -6,6 +6,7 @@ longitude: -8.5360
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 A short walk from the Museu de Portimão, Dona Barca is the local seafood institution — a no-frills tiled dining room and a daily-changing chalkboard of whatever the boats brought in that morning. The grilled sardines, the cataplana, the açorda de marisco, and the wood-roasted fish are all reliable.

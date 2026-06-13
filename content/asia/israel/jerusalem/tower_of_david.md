@@ -15,6 +15,7 @@ story: >
   associate everything old in Jerusalem with scripture. The tower was subsequently
   occupied by Roman soldiers, Muslim rulers, Crusaders, Mamluks, Ottomans, and British
   forces before becoming a museum in 1989.
+score: 8.8
 ---
 
 The citadel and tower at the Jaffa Gate entrance to the Old City have guarded Jerusalem's western approach for over 2,000 years. The present structure is largely Mamluk and Ottoman — built on Herodian foundations — and contains within its courtyard the remnants of every period of Jerusalem's long occupation. The museum inside charts 4,000 years of the city's history through maps, models, and artefacts arranged chronologically as you walk through the rooms and towers.

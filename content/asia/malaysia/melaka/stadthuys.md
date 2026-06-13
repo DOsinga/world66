@@ -6,6 +6,7 @@ tags:
 title: Stadthuys
 type: poi
 snippet: "Oldest Dutch building in Asia, now a history museum"
+score: 7.4
 ---
 
 Built in 1650 as the official residence of the Dutch Governors, the Stadthuys is the oldest surviving Dutch colonial building in Asia. The striking red facade sits right in the heart of Melaka town, making it an unavoidable landmark.

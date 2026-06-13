@@ -6,6 +6,7 @@ tags:
 - neighbourhood
 title: Sint-Anna Quarter
 type: poi
+score: 8.6
 ---
 
 To the north of the city centre lies the Sint-Anna quarter, the most atmospheric and least touristed neighbourhood in Bruges. The Lace Centre on Balstraat offers demonstrations of traditional Bruges bobbin lace-making — an industry that once employed thousands of women in the city. The adjacent Jerusalem Church, built by a wealthy merchant family in the 15th century as a replica of the Holy Sepulchre in Jerusalem, is one of the strangest and most compelling buildings in Belgium.

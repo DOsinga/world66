@@ -8,6 +8,7 @@ tags:
 - shopping
 title: Mercado Rodríguez
 type: poi
+score: 8.5
 ---
 
 Mercado Rodríguez runs along Calle Rodríguez near the San Pedro neighbourhood, a few blocks uphill from the city centre. Unlike the Witches' Market in the tourist zone, Rodríguez is a genuine neighbourhood market: most of its customers are local residents, and most of what's sold is food. The produce section is dense with things you won't recognise — dozens of potato varieties in sizes from marble to fist, purple corn, chuno (freeze-dried black potatoes that have been through a traditional Andean preservation process), packets of dried herbs for both cooking and ritual use, and fruits from the lower valleys that don't travel well and appear nowhere outside Bolivia.

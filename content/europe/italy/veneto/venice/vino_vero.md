@@ -13,6 +13,7 @@ tags:
 - bar
 title: Vino Vero
 type: poi
+score: 7.3
 ---
 
 A natural-wine bar on the Cannaregio canal that Adventurous Kate calls her favourite spot in Venice. Small, serious about its producers, and very good about cicchetti — creative small plates that change daily depending on what's in season. One of the best places in the city for the early-evening *ombra* ritual (a small glass of wine with something to eat before dinner).

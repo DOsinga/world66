@@ -9,6 +9,7 @@ tags:
 - sight
 title: Shūgakuin Imperial Villa
 type: poi
+score: 8.6
 ---
 
 Shūgakuin Imperial Villa was built in the 1650s for the retired emperor Go-Mizunoo on a wooded hillside in the north-eastern foothills, at the bottom of Mount Hiei. Unlike Katsura, which is essentially a small architectural set piece, Shūgakuin is a vast landscape garden — three separate enclosures (Lower, Middle, and Upper) connected by long walks through fields and pine groves that the imperial estate still maintains in something close to their seventeenth-century state.

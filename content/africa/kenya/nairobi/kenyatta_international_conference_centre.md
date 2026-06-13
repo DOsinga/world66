@@ -10,6 +10,7 @@ longitude: 36.8216
 snippet: Nairobi's most recognisable building, with a helipad on top and views across the city
 story: >
   The KICC was one of Africa's tallest buildings when it opened in 1973 and remained Nairobi's skyline landmark for decades. The circular helipad at the top is now a viewing platform — walk around it and you can see the Ngong Hills to the west, Nairobi National Park to the south, and the CBD sprawling in every direction.
+score: 7.7
 ---
 
 The Kenyatta International Conference Centre is the dominant building on the Nairobi skyline — a 28-storey cylindrical tower topped with a distinctive round helipad, designed by Norwegian architect Karl Henrik Nøstvik and opened in 1973. It was built as Kenya's first major international conference venue and remains the most recognisable building in the city.

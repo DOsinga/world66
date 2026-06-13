@@ -14,6 +14,7 @@ story: >
   the most powerful works of mourning in Western art, and seeing them here, among
   the flat oak grave markers and dark basalt crosses, in the place they were made
   for, is unforgettable.
+score: 7.8
 ---
 
 The Vladslo German War Cemetery, about 10 km northeast of Diksmuide, is the resting place of over 25,000 German soldiers who died in Flanders between 1914 and 1918. The landscape of flat basalt crosses and low oak grave markers is deliberately sombre, in contrast to the tidier rows of white headstones in Allied cemeteries. Each dark cross carries two names; many graves hold multiple soldiers buried together.

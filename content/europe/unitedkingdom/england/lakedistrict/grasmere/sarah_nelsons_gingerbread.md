@@ -11,6 +11,7 @@ story: >
   churchyard, which had previously been the village schoolhouse. She died in 1904 having
   never revealed the recipe to anyone outside the business, and it remains a closely guarded
   secret to this day — locked in a bank vault in Cumbria, known only to a handful of people.
+score: 7.2
 ---
 
 This tiny stone shop beside St Oswald's churchyard has been selling Grasmere gingerbread since 1854, and the recipe has not changed since Sarah Nelson first devised it. The gingerbread is not what most people expect from the name — it is firmer, darker and spicier than the soft cake version, somewhere between shortbread and a hard biscuit, with a warm bite of ginger and a slightly grainy texture. People travel specifically for it.

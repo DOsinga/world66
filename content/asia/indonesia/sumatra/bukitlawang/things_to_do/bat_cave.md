@@ -6,6 +6,7 @@ longitude: 98.1320
 tags:
   - things_to_do
   - sight
+score: 5.5
 ---
 
 A short walk from the village, this limestone cave is home to a large colony of fruit bats. The dusk exodus — thousands of bats streaming out of the cave entrance — is worth the walk. The cave itself is accessible with a torch; the interior is small but the formations are decent.

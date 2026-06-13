@@ -6,6 +6,7 @@ longitude: 104.7558
 tags:
   - things_to_do
   - shopping
+score: 7.6
 ---
 
 Palembang produces the finest songket — Malay-style hand-woven silk fabric brocaded with gold or silver threads — anywhere in the archipelago. A single ceremonial cloth can take three or four months of work and sell for several hundred dollars. The main concentration of working family-run workshops is in the Tangga Buntung neighbourhood on the south bank.

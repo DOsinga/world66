@@ -8,6 +8,7 @@ tags:
 title: Yaque del Norte River
 type: poi
 snippet: The longest river in the Caribbean, running through the western edge of Santiago
+score: 5.6
 ---
 
 The Río Yaque del Norte rises in the Cordillera Central — the same mountain massif that holds Pico Duarte — and runs 296 km to the Atlantic, making it the longest river in the Caribbean. It curves around the western edge of Santiago below the Fortaleza San Luis, with the Puente Hermanos Patiño carrying the main road across.

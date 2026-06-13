@@ -8,6 +8,7 @@ phone: "(520) 791-3276"
 tags:
   - things_to_do
   - sight
+score: 4.9
 ---
 
 Himmel Park is a leafy neighbourhood park just east of the university, with mature mesquite and pecan trees that cast genuine shade — a real virtue in Tucson. A free public swimming pool, a small library branch, tennis courts, and three playgrounds make it a useful family-friendly stop near downtown.

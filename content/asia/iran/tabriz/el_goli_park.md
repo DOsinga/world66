@@ -11,6 +11,7 @@ tags:
 - sight
 title: El Goli (Shah Goli) Park
 type: poi
+score: 6.6
 ---
 
 El Goli, known under the Pahlavis as Shah Goli, is Tabriz's best-loved park — an

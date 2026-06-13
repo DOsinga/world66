@@ -13,6 +13,7 @@ story: >
   response while galleries full of artwork sat behind temporary partition walls.
   Staff spent weeks moving and protecting the collection. The gallery reopened
   to the public in 2015 after extensive seismic strengthening work.
+score: 8.5
 ---
 
 The Art Gallery's wave-form glass façade on Montreal Street is one of the most distinctive pieces of architecture in a city that now has many contenders for that title. Inside, the collection covers New Zealand and international art from the 19th century to the present, with particular strength in Canterbury artists and in Māori and Pacific work. The building's design by the Buchan Group creates a luminous interior that works well for both sculpture and paintings.

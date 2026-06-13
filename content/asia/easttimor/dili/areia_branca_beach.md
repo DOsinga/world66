@@ -6,6 +6,7 @@ longitude: 125.6150
 tags:
   - things_to_do
   - sight
+score: 7.1
 ---
 
 Areia Branca — "white sand" in Portuguese — is the strip of city beach east of the centre, on the road that leads out to Cristo Rei. The sand really is fine and pale, the water is calm and clear most of the year, and the strip of palm-shaded grass behind the beach is where Dili comes to eat fried fish and drink beer at sunset.

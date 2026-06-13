@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 35.6717
 longitude: -105.9214
+score: 7.2
 ---
 
 A 14-acre botanic garden on Museum Hill, designed entirely around plants native to the high desert and the Southwest's mountain ecosystems. Sections include an orchard, a meadow of native grasses, a piñon-juniper area, and a courtyard garden inspired by traditional New Mexican placita layouts.

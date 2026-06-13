@@ -14,6 +14,7 @@ story: >
   2,600 years old. Another says the synagogue fell from heaven fully formed. What
   is certain is that a stone — said to have come from the destroyed Temple — is
   kept inside, and that pilgrims have been coming to touch it for centuries.
+score: 9.0
 ---
 
 El Ghriba, in the village of Er Riadh (Hara Sghira) a few kilometres south of Houmt Souk, is one of the oldest synagogues in the world and the spiritual centre of North African Jewish life. The present building dates from the early twentieth century — a beautiful, blue-tiled interior with ornate carved woodwork, brass lamps, and inscribed stone tablets — but the site itself has been sacred to Jewish pilgrims for at least two millennia.

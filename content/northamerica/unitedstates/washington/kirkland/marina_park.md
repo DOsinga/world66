@@ -12,6 +12,7 @@ story: >
   never materialised — the 1893 depression killed the project — but the town was
   platted and named for him. The Peter Kirk Building downtown still stands, one of
   the last remnants of that era.
+score: 7.6
 ---
 
 Marina Park is the centrepiece of Kirkland's waterfront — a small urban park on the Lake Washington shore where the downtown meets the water. There is a public boat launch, a swimming beach open in summer, and a grassy area that fills with families on warm afternoons. The float plane activity on the lake adds a pleasant dose of local character; planes buzz in and out with some regularity, banking over the water.

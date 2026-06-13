@@ -7,6 +7,7 @@ tags:
 - sight
 title: Myra
 type: poi
+score: 2.8
 ---
 
 Sinbad is a theme park located in the cantonment area of Sialkot, offering rides and recreational activities.

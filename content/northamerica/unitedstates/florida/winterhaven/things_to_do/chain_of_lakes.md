@@ -14,6 +14,7 @@ story: >
   travel by boat between their homes, shops, and clubs. The dream faded with the bust, but 
   the canals survived and still allow a boat to pass through the middle of the city from 
   lake to lake. The chain covers about 2,500 acres of water in total.
+score: 7.8
 ---
 
 The Winter Haven Chain of Lakes is a network of 24 lakes connected by canals, giving the city its distinctive character — water appears at the end of nearly every street, and the lakefronts have parks, boat ramps, and fishing piers. Boating, kayaking, paddleboarding, and fishing are the main activities; bass fishing in particular is popular year-round, and the chain has produced some notable catches.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Brick gate tower from 1450, the only surviving piece of Stege's medieval wall"
+score: 6.8
 ---
 
 The Møllerporten is the surviving gate of the medieval wall that once ringed Stege. Built in red brick around 1450, it is one of only three such town gates left in Denmark and the most complete. The mill that gave it its name once stood directly above; the tower's upper rooms now house a small local museum.

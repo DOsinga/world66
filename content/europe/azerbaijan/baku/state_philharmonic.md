@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.3
 ---
 
 The Philharmonic Hall, in cream stucco with a deep Italianate portico, was built in 1912 by the architect Gavriil Termikelov and modelled on the Monte Carlo Casino. Inside, the auditorium is decorated in red and gold; performances range from Azerbaijani national mughams to European symphonic concerts.

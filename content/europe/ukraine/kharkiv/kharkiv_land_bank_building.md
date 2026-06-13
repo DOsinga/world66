@@ -6,6 +6,7 @@ tags:
   - architecture
 latitude: 49.9929
 longitude: 36.2324
+score: 7.3
 ---
 
 The Kharkiv Land Bank Building is one of the finest examples of pre-revolutionary commercial architecture surviving in the city centre — a handsome Art Nouveau structure completed in the early 20th century when Kharkiv was a prosperous industrial and commercial city in the Russian Empire. The facade features the sinuous decorative elements and asymmetric massing characteristic of the style.

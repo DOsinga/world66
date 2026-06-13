@@ -5,6 +5,7 @@ tags:
 - things_to_do
 title: Garífuna Culture and Music
 type: poi
+score: 8.5
 ---
 
 Livingston is the largest Garífuna community in Guatemala and one of the most accessible entry points to Garífuna culture anywhere in Central America. The Garífuna — descendants of Afro-Caribbean and Arawak/Carib indigenous people — have their own language, music, dance, food, and spiritual practices that are distinct from both the Guatemalan mainstream and the Anglophone Caribbean.

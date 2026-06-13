@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6200
 longitude: 101.7800
+score: 6.4
 ---
 
 The central Chengzhong district around Zhongshan Street and the pedestrian shopping area is Xining's commercial and civic core. The streets between the Nanchuan River and the main railway station contain the mix of Islamic teahouses, Tibetan jewellery stalls, and Han Chinese shops that defines Xining's unique cultural character. The nightlife district along Liyuan Road is the most lively part of the city after dark.

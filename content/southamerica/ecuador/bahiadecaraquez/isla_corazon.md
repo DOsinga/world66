@@ -6,6 +6,7 @@ longitude: -80.4075
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 Isla Corazón — Heart Island — is a mangrove island in the Chone estuary, accessible by small boat from Bahia de Caraquez or from San Vicente across the bay. The island is home to one of Ecuador's largest colonies of magnificent frigatebirds, and is also important for brown pelicans, herons, egrets, and other seabirds that nest in the mangroves.

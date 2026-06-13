@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - cable_car
+score: 7.2
 ---
 
 The Kolbensesselbahn is the gentler of Oberammergau's two lifts, a chairlift on the western side of the village climbing to the 1,270-metre Kolbensattel. At the top there is a large family-oriented mountain hut, a long summer toboggan run, and a network of easy walks across the upland meadows.

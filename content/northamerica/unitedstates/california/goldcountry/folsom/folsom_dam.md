@@ -9,6 +9,7 @@ tags:
 - sight
 title: Folsom Dam
 type: poi
+score: 7.4
 ---
 
 Folsom Dam spans the American River about five kilometres north of the city centre and holds back Folsom Lake, a 115-square-kilometre reservoir that serves as the main water supply for the Sacramento region. The dam itself is a large concrete gravity structure completed in 1955 by the US Army Corps of Engineers. Tours of the interior — through the tunnels and inspection galleries inside the dam's massive body — run on selected days and are worth booking ahead.

@@ -6,6 +6,7 @@ longitude: -6.9495
 tags:
   - things_to_do
   - sight
+score: 5.7
 ---
 
 The white wooden church in the centre of the village dates from 1862 and replaces an older church on the same site. Like most Faroese village churches it is plain on the outside and simply furnished within — wooden pews, a painted altarpiece, a model ship hanging from the ceiling.

@@ -8,6 +8,7 @@ latitude: 42.8806
 longitude: -8.5458
 sources:
   - https://en.wikipedia.org/wiki/Plaza_del_Obradoiro
+score: 8.8
 ---
 
 The Praza do Obradoiro is the great set-piece of Santiago — a wide granite square framed by four historic buildings of entirely different styles that somehow form one of the most harmonious urban spaces in Spain. The Cathedral's Baroque towers dominate the east side; the Hostal dos Reis Católicos occupies the north; the neoclassical Pazo de Raxoi (now the seat of the Galician regional government) closes the west; and the Colexio de San Xerome completes the south.

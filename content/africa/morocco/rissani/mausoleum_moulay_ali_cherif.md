@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Moulay Ali Cherif died in 1659 and was buried at Sijilmassa, where his grave was the rallying point for the rise of his family. The original mausoleum was destroyed by a flood in the 1950s and rebuilt by King Mohammed V — the present structure dates from a 1960s reconstruction, but the site has been a place of Alaouite pilgrimage for more than three hundred years."
+score: 7.5
 ---
 
 The Mausoleum of Moulay Ali Cherif is the spiritual heart of Rissani and the founding monument of the Alaouite dynasty that has ruled Morocco since the 17th century — and which still rules it today. Moulay Ali Cherif was the patriarch of the family from whom every subsequent Moroccan sultan and king has descended, and his tomb in the Tafilalt remains a major pilgrimage site for Moroccan Muslims.

@@ -13,6 +13,7 @@ story: >
   L. Frank Baum wrote part of the Wizard of Oz series while staying here in 1904. Marilyn Monroe filmed
   Some Like It Hot on the beach in 1958. And it has been claimed, without confirmation, that the
   hotel's design influenced the color scheme of the White House Christmas decorations.
+score: 8.6
 ---
 
 Coronado is technically a peninsula, connected to the mainland by a narrow spit, but it feels like an island — reached most pleasingly by the San Diego-Coronado ferry from the downtown waterfront. The Hotel del Coronado, a sprawling Victorian beach resort opened in 1888, dominates the oceanfront and is worth visiting even if you are not staying.

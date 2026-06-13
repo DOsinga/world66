@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 44.6380
 longitude: -123.1080
+score: 6.2
 ---
 
 Monteith Riverpark stretches along the Willamette River at the edge of Albany's historic downtown, providing a pleasant green strip for walking, picnicking, and watching the river. It's the main venue for the city's outdoor events, including the summer Timber Linn Park concerts and the Albany World Beat Festival, which brings international music and food to the riverfront each August.

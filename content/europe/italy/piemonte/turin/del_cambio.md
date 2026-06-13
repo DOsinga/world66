@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 45.0691
 longitude: 7.6852
+score: 7.9
 ---
 
 The grandest dining room in Turin, opposite the Palazzo Carignano, with original 1757 mirrored walls and gilded plasterwork. Cavour, the architect of Italian unification, had his usual table in the corner. The restaurant survives in two parts: the formal Michelin-starred dining room and a more relaxed brasserie called Farmacia.

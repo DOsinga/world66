@@ -16,6 +16,7 @@ story: >
   Yorkshire Dales.
 sources:
   - https://en.wikipedia.org/wiki/Ingleton_Waterfalls_Trail
+score: 9.0
 ---
 
 The Ingleton Waterfalls Trail is a circular walk of about eight kilometres that follows the River Twiss upstream through a series of cascades to the open moorland above, then descends through the River Doe gorge. The trail has been here since 1885 and the path infrastructure — wooden bridges, stone steps cut into the gorge walls — is well-maintained and capable of handling most weathers.

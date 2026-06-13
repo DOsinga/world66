@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.2266
 longitude: -113.8019
+score: 5.2
 ---
 
 The fairgrounds that host Red Deer's biggest annual celebration, Westerner Days, a four-day rodeo and agricultural fair held in early July. The event has been running since 1906 and draws visitors from across central Alberta with professional rodeo competition, livestock shows, carnival rides, live music, and the usual deep-fried fare that makes an appearance at fairs everywhere.

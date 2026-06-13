@@ -7,6 +7,7 @@ snippet: A solid provincial fine-arts collection in a 19th-century building
 tags:
 - things_to_do
 - museum
+score: 6.7
 ---
 
 The Musée des Beaux-Arts, in a neoclassical building south of the Arena, holds a representative collection of European painting from the 16th to the 19th century — French, Italian, Flemish — including works by Rubens, Mignard, and Delaroche. The centrepiece is a large Roman mosaic from a domestic floor, embedded in the entrance hall.

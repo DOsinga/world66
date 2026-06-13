@@ -12,6 +12,7 @@ story: >
   and expansion of the national park reversed the decline; the population has
   recovered to several hundred. The animals are named after the Walia people who
   historically lived in these mountains. They are found nowhere else on earth.
+score: 8.9
 ---
 
 The Walia ibex is one of three endemic species in the Simien Mountains and the rarest of them. These large, surefooted wild goats live on the steep escarpment edges and cliff faces of the highest sections of the park, particularly around Chennek camp at 3,620 metres. The males carry spectacular curved horns that can reach 110 centimetres in length.

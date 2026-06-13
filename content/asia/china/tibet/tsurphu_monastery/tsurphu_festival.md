@@ -7,6 +7,7 @@ tags:
   - festival
 latitude: 29.7267
 longitude: 90.5750
+score: 8.6
 ---
 
 The Tsurphu Festival takes place in the fourth month of the Tibetan calendar, usually falling in May or June. The centrepiece is the unfurling of an enormous thangka — a painted silk scroll several storeys high depicting the Karmapa — on the hillside above the monastery. The display lasts for only a few hours before dawn, visible from the valley below and drawing pilgrims from across the region.

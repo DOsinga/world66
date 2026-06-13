@@ -14,6 +14,7 @@ tags:
 - bars_and_cafes
 - bar
 - uphill
+score: 6.8
 ---
 
 The Strugglers is one of Lincoln's smallest and oldest pubs — a low-ceilinged single-bar inn directly under the western wall of Lincoln Castle, originally built in the 18th century for the crowds that gathered to watch public executions across the road. It has been continuously a pub ever since.

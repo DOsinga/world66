@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 34.0545
 longitude: -117.0481
+score: 6.0
 ---
 
 Yucaipa Regional Park is the easiest day out in the city — a 200-acre county park on the northern edge of town, against the foothills, built around three small lakes stocked with rainbow trout and catfish. Swimming is allowed in a roped-off section of the largest lake during summer, and there is a separate water-play area with slides for younger children.

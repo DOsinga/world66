@@ -12,6 +12,7 @@ story: >
   steepest faces. A single terrace can be as narrow as a metre, yet each one holds
   enough water and soil to grow a full crop of rice. The engineering is entirely
   oral, passed from parent to child, and has no written record.
+score: 9.3
 ---
 
 The terraced rice paddies of the Muong Hoa Valley, the valley that drops away below Sapa toward Lao Chai and Ta Van, are among the most spectacular agricultural landscapes in Southeast Asia. The terraces cascade down steep hillsides in great curves and steps, following the contours of the mountain with a precision that looks almost designed. In September and October, when the rice is ripe and golden, the valley turns a hundred shades of yellow and amber.

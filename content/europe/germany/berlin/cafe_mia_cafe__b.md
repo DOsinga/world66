@@ -13,6 +13,7 @@ tags:
 title: Cafe MIA
 type: poi
 url: www.cafe-mia.de
+score: 5.6
 ---
 
 A cafe-bar on Pappelallee in Prenzlauer Berg known for its color-changing interior lighting, which shifts throughout the day and cycles every half hour on weekends. Serves coffee, cocktails, and snacks. The warm cocktails are a draw in winter.

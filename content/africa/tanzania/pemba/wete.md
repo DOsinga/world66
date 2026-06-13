@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: -5.0556
 longitude: 39.7269
+score: 6.2
 ---
 
 Wete is the second town of Pemba, a quiet port on the northwest coast where most of the island's clove harvest is loaded onto small coasters bound for Zanzibar and Dar es Salaam. The town runs along a single long street parallel to the harbour, with the old colonial-era warehouses still in use and a daily produce market that draws in growers from across northern Pemba.

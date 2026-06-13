@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.0608
 longitude: -112.1073
+score: 8.1
 ---
 
 The first overlook most visitors see when entering the park from the south entrance, and for good reason — the view is vast and the access is easy. From the paved walkway above the rim, the canyon spreads in both directions, with the Colorado River visible as a silver thread thousands of metres below. Named after Stephen Mather, the first director of the National Park Service.

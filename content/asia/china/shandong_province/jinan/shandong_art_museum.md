@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 36.6683
 longitude: 117.0636
+score: 7.3
 ---
 
 The Shandong Art Museum is the province's main institution for contemporary Chinese art, with a large permanent collection and a programme of changing exhibitions covering painting, sculpture, installation, and applied arts. The building itself is a striking piece of contemporary architecture. The collection has particular strengths in ink painting and the work of artists with Shandong roots.

@@ -8,6 +8,7 @@ tags:
   - la_latina
   - sight
   - architecture
+score: 8.5
 ---
 
 The largest dome in Spain after Santa Maria del Fiore in Florence, and the third-largest brick dome in any Christian church anywhere — 33 metres across, 56 metres high. The basilica was built between 1761 and 1784 on the site of a Franciscan monastery supposedly founded by St. Francis of Assisi himself.

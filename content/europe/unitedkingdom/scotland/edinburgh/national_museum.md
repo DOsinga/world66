@@ -10,6 +10,7 @@ latitude: 55.9469
 longitude: -3.1903
 story: >
   Among the museum's most famous residents is Dolly the sheep — the first mammal cloned from an adult somatic cell, created at the Roslin Institute near Edinburgh in 1996 and now preserved here. Less expected is the collection of Scottish inventions: a working McCaig's Folly of contraptions, and evidence of a disproportionate Scottish contribution to the modern world — the telephone, the television, penicillin, the steam engine's condenser, tarmac, the pneumatic tyre.
+score: 9.7
 ---
 
 The National Museum of Scotland is Scotland's most visited museum and one of the best free museums in Britain. The collection runs from the geological prehistory of Scotland through the Pictish and Viking periods, the medieval kingdom, the industrial revolution and the modern nation, with particularly strong holdings in natural history, science and technology, and Scottish design.

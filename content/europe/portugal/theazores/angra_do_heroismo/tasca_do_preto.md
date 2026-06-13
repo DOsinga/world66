@@ -2,6 +2,7 @@
 title: "Tasca do Preto"
 type: poi
 tags: [eating_out, restaurant]
+score: 6.5
 ---
 
 A small, reliably good restaurant near the main square that does the classic Azorean dishes without fuss or inflation. The alcatra here is consistently recommended by locals — braised in the traditional style with good local beef, served with sweet bread (bolo lêvedo) for soaking up the sauce. Grilled limpets (lapas) appear as a starter, dressed with butter and garlic and cooked on the half-shell over a hot plate; they're one of the best things to eat in the Azores and this is a decent place to try them.

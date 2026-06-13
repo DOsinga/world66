@@ -11,6 +11,7 @@ tags:
 title: BAO
 type: poi
 url: www.baolondon.com
+score: 6.9
 ---
 
 BAO started as a market stall and became one of London's most copied concepts: Taiwanese steamed bao buns with inventive fillings — classic pork, braised beef, fried chicken — alongside small plates of soy milk pudding, pickled vegetables, and fried taro. The quality is exceptional and the aesthetic (influenced by Taiwan's beef noodle shops and milk bars) is distinctive.

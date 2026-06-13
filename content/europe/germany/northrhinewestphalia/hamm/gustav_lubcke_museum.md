@@ -6,6 +6,7 @@ longitude: 7.8217
 tags:
   - things_to_do
   - museum
+score: 6.6
 ---
 
 The Gustav Lübcke Museum is Hamm's main civic museum, covering regional archaeology, natural history, and art. The archaeology collection includes finds from the prehistoric and Roman periods of the Westphalian region, and there is a respectable collection of Egyptian antiquities. The art section focuses on 19th and 20th century Westphalian painting.

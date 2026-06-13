@@ -8,6 +8,7 @@ tags:
 latitude: 50.4262
 longitude: 16.1525
 story: "The blockhouses of the Czechoslovak border line were never fired in anger. After the Munich Agreement in October 1938, the country surrendered them to Germany without a shot — Hitler later visited Březinka in person to inspect the fortifications he had taken by diplomacy."
+score: 7.4
 ---
 
 N-S 82 "Březinka" is a restored infantry blockhouse from the chain of bunkers that Czechoslovakia built in the 1930s to defend against a German attack. Volunteers have brought it back to wartime condition: armoured doors, periscopes, machine-gun and anti-tank mountings, the kitchen, the dormitory, the generator room, and the deep concrete corridors that connect them.

@@ -17,6 +17,7 @@ story: >
   threat to British maritime power in western India.
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_Vijaydurg
+score: 8.8
 ---
 
 Vijaydurga Fort juts into the Arabian Sea on a rocky promontory where the Waghotan Creek meets the ocean, making it one of the most dramatically positioned sea forts on the Konkan coast. Originally built by the Shilaharas dynasty in the 9th century and expanded significantly by Shivaji Maharaj in the 17th century, the fort is triple-walled and was considered virtually impregnable for generations. At its height it was home to the Angre family, the great admirals of the Maratha navy.

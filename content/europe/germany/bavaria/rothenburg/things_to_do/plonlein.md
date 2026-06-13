@@ -1,6 +1,7 @@
 ---
 title: "Plönlein"
 type: poi
+score: 7.8
 ---
 
 The Plönlein is the most photographed view in Rothenburg and one of the most reproduced images in all of medieval Germany: a narrow cobbled street forks around a half-timbered house, with the Siebersturm (a Gothic gate tower) rising on the upper fork and the Kobolzeller Tower framing the lower one. Every surface is weathered timber and old plaster; the street curves enough that you cannot see around it. It looks, to a degree that is almost disorienting, exactly like the Germany of fairy tales and Disney concept art — because those things were modelled on places like this.

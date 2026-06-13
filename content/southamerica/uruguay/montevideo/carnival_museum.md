@@ -12,6 +12,7 @@ story: >
   slaves in the colonial period, is central to the carnival tradition. Candombe drums were used 
   by enslaved people to maintain African musical traditions; today the drumming groups (comparsas) 
   are the heart of the city's identity.
+score: 8.1
 ---
 
 The Museo del Carnaval near the port documents Montevideo's extraordinary carnival tradition, which runs for 40 days each year and is the longest carnival anywhere in the world. The collection includes costumes, masks, murga instruments, drums, and film footage of past performances.

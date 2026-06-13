@@ -9,6 +9,7 @@ tags:
 - bar
 title: Hu'u Bar
 type: poi
+score: 5.4
 ---
 
 Hu'u Bar occupies the ground floor of the New Majestic Hotel on Bukit Pasoh Road in Chinatown. The interior mixes dark wood, low seating, and Southeast Asian design touches that give it a loungey, Bali-resort feel without being kitschy. Cocktails are well-made and lean tropical — expect fresh fruit, herbs, and a few Southeast Asian twists on classic recipes.

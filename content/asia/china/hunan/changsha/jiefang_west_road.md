@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 28.2000
 longitude: 112.9620
+score: 6.7
 ---
 
 Jiefang West Road is Changsha's main entertainment strip, concentrated in the blocks between the Xiang River and the old city centre. The street and its surrounding lanes fill with bars, clubs, live music venues, and late-night food stalls from around nine in the evening until four or five in the morning on weekends. The atmosphere is younger and louder than most provincial Chinese cities manage; the local music scene includes hip-hop, Mando-pop, and occasional jazz venues.

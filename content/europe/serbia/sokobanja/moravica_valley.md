@@ -7,6 +7,7 @@ tags:
 - sight
 type: poi
 snippet: Pleasant wooded hills and river walking through the valley around Sokobanja
+score: 7.2
 ---
 
 The hills surrounding Sokobanja are forested and crossed by marked walking paths. The Moravica river threads through the valley and several easy trails follow its banks. The most popular walk circles the valley floor — a few hours of easy going through mixed forest with views up to the ridge and across to the crag where the Sokograd fortress sits.

@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 24.3600
 longitude: 93.7100
+score: 7.4
 ---
 
 The villages scattered across the hills around Churachandpur are home to various Kuki clans, each with distinct weaving traditions, oral histories, and community practices. A visit to one of the closer villages — reachable by shared jeep or on foot from town — offers a direct encounter with a way of life shaped by the hills, the forest, and decades of Baptist Christianity sitting alongside older customs. Traditional handlooms are still used in many households, and community gatherings often include music and song.

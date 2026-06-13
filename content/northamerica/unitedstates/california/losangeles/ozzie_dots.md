@@ -9,6 +9,7 @@ tags:
 title: Ozzie Dots
 type: poi
 url: www.ozziedots.com
+score: 5.0
 ---
 
 A vintage and costume shop on Hollywood Boulevard specializing in retro accessories, costumes, wacky eyewear, and unusual cufflinks. Located right next door to Wacko, another offbeat shop worth browsing.

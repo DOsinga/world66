@@ -8,6 +8,7 @@ latitude: 49.3012
 longitude: 10.5698
 sources:
   - https://en.wikipedia.org/wiki/Gymnasium_Carolinum_(Ansbach)
+score: 6.2
 ---
 
 The Gymnasium Carolinum is one of Germany's oldest secondary schools, founded in 1528 by Margrave George the Pious of Brandenburg-Ansbach as part of the Protestant Reformation's programme of education. It occupies a Renaissance building in the old town with a handsome arcaded courtyard that can be visited during school hours.

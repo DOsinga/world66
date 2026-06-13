@@ -10,6 +10,7 @@ longitude: -61.5106
 story: "Fort San Andres is the last surviving fortification from the Spanish colonial period in Trinidad, which ended abruptly in 1797 when British Admiral Ralph Abercromby captured the island. The Spanish governor, Chacon, surrendered without a fight after Abercromby burned much of the Spanish fleet in the Gulf of Paria — a capitulation that shaped Trinidad's unusually complex cultural mix of Spanish settlement, French planter immigration, and British colonial rule."
 sources:
   - https://en.wikipedia.org/wiki/Fort_San_Andres
+score: 6.6
 ---
 
 Fort San Andres is a small but historically significant fort on the southern waterfront of Port of Spain, near the ferry terminal. Built by the Spanish in the late eighteenth century, it is the only remaining structure from Trinidad's Spanish colonial period — all other Spanish-era buildings were demolished, burned, or replaced during British rule.

@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -15.7681
 longitude: 168.1639
+score: 6.8
 ---
 
 Vanuu, known to outsiders as Waterfall Village, sits on the southwestern coast of Pentecost beneath a small but striking waterfall that drops down the bluff behind the village. The name in the Sowa language means "under the noise" — a reference to the constant sound of the falls. A short walk uphill from the village brings you to the base of the falls, where there is a deep, cold pool you can swim in.

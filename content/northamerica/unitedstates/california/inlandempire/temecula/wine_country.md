@@ -8,6 +8,7 @@ tags:
   - sight
   - neighbourhood
 story: "Wine grapes were planted here as early as the 1820s by the Spanish padres, but the modern industry began in 1968 when Vincenzo Cilurzo, a Hollywood TV cinematographer, planted petite sirah on a hilltop east of town. He was told the climate would not work. He was wrong."
+score: 8.5
 ---
 
 Temecula Valley wine country runs along Rancho California and De Portola Roads, beginning a few miles east of Old Town. Around forty wineries occupy a band of rolling hills at 1,400 feet, where afternoon breezes off the Pacific funnel through the Rainbow Gap and drop the temperature ten degrees below the surrounding valley.

@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 8.2933
 longitude: -13.2228
+score: 6.8
 ---
 
 Sussex sits roughly halfway down the peninsula and is the easy compromise between bustling Lakka in the north and remote Bureh in the south. The water is calm, the sand is soft, and a couple of well-run lodges keep the standard of food and drink reliably high.

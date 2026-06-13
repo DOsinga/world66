@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 33.8901
 longitude: 35.5080
+score: 8.4
 ---
 
 MIM is a private mineral museum on the Saint Joseph University campus and one of the most unexpected pleasures in Beirut. About 2,000 specimens from 70 countries are arranged in elegantly lit cases, ranging from giant amethysts to delicate fluorite crystals to mineralogical curiosities you would never have thought to want to see.

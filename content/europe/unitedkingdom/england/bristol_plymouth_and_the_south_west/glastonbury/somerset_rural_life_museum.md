@@ -7,6 +7,7 @@ tags:
 - museum
 title: Somerset Rural Life Museum
 type: poi
+score: 7.8
 ---
 
 A few hundred metres east of the Abbey, the Somerset Rural Life Museum lives in the magnificent 14th-century Abbey Barn — once part of the monastery and one of the finest tithe barns in England. The collection covers Somerset farming and country life: cheesemaking, cider-making, peat cutting on the Levels, willow weaving, the local woollen industry.

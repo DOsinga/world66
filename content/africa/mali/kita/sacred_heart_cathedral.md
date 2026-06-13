@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 story: "The first Mass was held at the foot of Kita-Kourou in 1888 by White Father missionaries. Every November tens of thousands of pilgrims walk from across Mali, Senegal, Guinea, and Côte d'Ivoire to the cathedral for the feast of Our Lady of Kita — one of the largest gatherings of Christians in West Africa."
+score: 6.6
 ---
 
 The Sacred Heart Cathedral sits at the base of Kita-Kourou and is the seat of the Diocese of Kita. The building itself is a modest brick church with twin towers, more striking for its setting than its architecture: framed by the bare rock of the inselberg behind it, it looks like a small chapel pressed against a mountain.

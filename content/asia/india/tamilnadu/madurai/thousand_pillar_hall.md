@@ -8,6 +8,7 @@ longitude: 78.1192
 tags:
 - things_to_do
 - museum
+score: 7.3
 ---
 
 The Aayiram Kaal Mandapam ("Hall of a Thousand Pillars") is a separate hall in the north-east corner of the Meenakshi Temple complex, built around 1569 under the Nayak ruler Ariyanatha Mudaliar. The hall actually has 985 pillars; the missing pillars are an architectural illusion that lets each row look perfectly straight from the entrance.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.7
 ---
 
 The Cathedral of Our Lady of the Assumption is the seat of the Diocese of Port-de-Paix, erected in 1861 as a suffragan of Cap-Haïtien. The building anchors the central square and the market spreads out around it on most days, which gives the cathedral steps the best people-watching in town.

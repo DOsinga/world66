@@ -6,6 +6,7 @@ longitude: 101.6515
 tags:
   - things_to_do
   - sight
+score: 6.9
 ---
 
 The main Hindu temple of PJ Old Town, dating from the 1960s and dedicated to Lord Vishnu. The gopuram tower over the entrance is freshly repainted every twelve years for the rededication ceremony, and the carving and colour are striking against the surrounding low-rise shophouses.

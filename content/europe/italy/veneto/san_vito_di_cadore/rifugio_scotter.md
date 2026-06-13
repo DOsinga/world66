@@ -9,6 +9,7 @@ latitude: 46.4712
 longitude: 12.1950
 sources:
   - https://en.wikipedia.org/wiki/San_Vito_di_Cadore
+score: 6.8
 ---
 
 Rifugio Scotter is an accessible mountain hut above San Vito di Cadore, reached in around an hour of easy hiking from the village on a broad forest path. It sits in a clearing at the edge of the tree line with views back down the Boite valley and across to the Antelao massif, making it a popular destination for families and for those wanting a short walk with a reward at the end.

@@ -6,6 +6,7 @@ longitude: -110.0672
 tags:
   - eating_out
   - restaurant
+score: 5.3
 ---
 
 Named after Nellie Cashman, the Irish-born entrepreneur who ran a boarding house and restaurant on this block in the 1880s, this is the most historically grounded dining option in Tombstone. The food is straightforward American — burgers, steaks, pie — prepared competently and served in a room that leans into the period decor without overdoing it. Portions are generous.

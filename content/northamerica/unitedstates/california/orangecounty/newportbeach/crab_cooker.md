@@ -8,6 +8,7 @@ tags:
   - restaurant
   - balboa_peninsula
 neighbourhood: Balboa Peninsula
+score: 6.8
 ---
 
 A Newport Beach institution since 1951. The Crab Cooker is housed in a wooden red building at 22nd Street and Newport Boulevard, no reservations, paper plates, plastic forks. The food — and the line out the door — is unironic seafood: skewered swordfish, halibut, scallops or shrimp, broiled over a wood-fired grill, with clam chowder, slaw and a chunk of rye bread.

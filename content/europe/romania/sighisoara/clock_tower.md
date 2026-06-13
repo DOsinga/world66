@@ -14,6 +14,7 @@ story: >
   Tuesday carries a sword; the one for Saturday, associated with Saturn, looks
   notably grim.
 type: poi
+score: 8.8
 ---
 
 The Clock Tower is the dominant structure of the citadel, a 60-metre-high fortified gate that has served as the main entrance to the upper city since the 14th century. It was built by the medieval guilds who defended different sections of the walls, and the tower was assigned to the council — hence its civic prominence. Inside, four floors of museum display weapons, tools, furniture, and a working scale model of the medieval town.

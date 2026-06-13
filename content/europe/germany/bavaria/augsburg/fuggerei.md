@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Fuggerei
 type: poi
+score: 8.9
 ---
 
 The Fuggerei is the world's oldest social housing complex still in use. Established in 1516 by Jakob Fugger, it was built to house Augsburg's deserving poor — Catholic residents who had fallen on hard times through no fault of their own. The walled settlement contains 67 buildings with 142 apartments arranged along six streets, complete with its own church. A small museum includes one apartment furnished as it would have been in the 16th century, and a World War II bunker in the basement shows the damage the complex suffered in 1944.

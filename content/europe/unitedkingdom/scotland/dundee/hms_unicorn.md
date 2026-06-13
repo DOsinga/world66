@@ -11,6 +11,7 @@ story: >
   hulk and stores depot. The accidental preservation is precisely what
   makes her unique: she is the only intact wooden warship in the world
   that has never been altered by sea service or restoration.
+score: 8.1
 ---
 
 HMS Unicorn is a 46-gun frigate launched at Chatham in 1824 and now permanently moored in Victoria Dock, a short walk east of the city centre. She is the third-oldest ship still afloat anywhere in the world and the only one to retain her original below-deck timbers and fittings. Walking through her four decks gives an almost eerie sense of an early-nineteenth-century warship preserved in mid-build.

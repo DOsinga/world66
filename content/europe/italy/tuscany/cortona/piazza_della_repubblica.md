@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.2750
 longitude: 11.9844
+score: 6.9
 ---
 
 Piazza della Repubblica is the social centre of Cortona — an irregular medieval square with the imposing 13th-century Palazzo Comunale on one side and a broad flight of stairs that doubles as the town's primary public seat. By day the cafes set out tables; by evening the steps fill with locals.

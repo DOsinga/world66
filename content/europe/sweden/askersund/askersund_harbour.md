@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Askersund grew wealthy on iron exports: nails and scythes made in the surrounding forests were loaded here for transport down Vättern to the southern Swedish plains. The old warehouse by the quay is one of the few timber commercial buildings from that era still standing.
+score: 6.3
 ---
 
 The harbour sits at the very tip of the fjord where Askersund meets Lake Vättern. In summer the quay fills with pleasure boats, and the waterfront cafes put out tables under the trees. The view down the lake is impressive — Vättern stretches over 130 kilometres to the south, and on clear days the far shore is invisible.

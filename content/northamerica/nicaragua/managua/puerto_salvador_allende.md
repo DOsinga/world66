@@ -9,6 +9,7 @@ latitude: 12.1581
 longitude: -86.2764
 story: >
   The port is named after Chilean president Salvador Allende, a personal hero of Daniel Ortega. The choice of name raised eyebrows — Managua's lakefront is not, strictly speaking, a port — but the development has become genuinely popular with working-class Managuans regardless of its political branding, which is more than can be said for many government projects.
+score: 6.2
 ---
 
 Puerto Salvador Allende is a lakefront entertainment complex on the shore of Lake Managua, developed in the 2010s as part of a broader effort to reclaim the waterfront after decades of neglect. The development has restaurants, a small market, a playground, boat rides on the lake, and a pleasant promenade that catches the evening breeze off the water.

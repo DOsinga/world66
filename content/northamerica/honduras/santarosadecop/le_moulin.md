@@ -7,6 +7,7 @@ tags:
 latitude: 14.7661
 longitude: -88.7756
 snippet: 'French-inspired cafe-restaurant with good coffee and pastries on Calle Real Centenario'
+score: 5.7
 ---
 
 A small French-inspired spot on Calle Real Centenario that feels like it belongs in a much bigger city. Le Moulin does proper coffee, fresh pastries, and light meals with a European sensibility that sets it apart from the typical comedor fare elsewhere in town.

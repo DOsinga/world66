@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: Soaring Federal-era church with a 165-foot wooden steeple
+score: 6.8
 ---
 
 The most striking building in downtown Newburyport — a brick Federal church of 1801 with a tall, four-stage wooden steeple that is visible from the river a mile away. The clock in the tower has been keeping the town's time since 1810.

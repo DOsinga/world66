@@ -15,6 +15,7 @@ story: >
   from Persia — weapons previously unknown in China — whose range finally
   allowed them to pound the walls from beyond the river. The fall of Xiangyang
   in 1273 opened the road to the Song dynasty's southern heartland.
+score: 8.6
 ---
 
 The walls of Xiangyang are among the best-preserved city walls in China, and one of the few major fortifications that you can walk freely without paying an entry fee. The circuit runs 7.3 kilometres around the historic Xiangyang district, with the northern face following the Han River and the remaining three sides enclosed by a moat up to 180 metres wide — the widest city moat in the country. The walls reach six metres in height and average eight metres in width at the top, wide enough to walk comfortably on the parapet.

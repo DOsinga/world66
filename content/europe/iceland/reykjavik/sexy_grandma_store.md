@@ -11,6 +11,7 @@ tags:
 - shopping
 title: Sexy Grandma Store
 type: poi
+score: 5.9
 ---
 
 A small Icelandic design store on Frakkastígur, just downhill from Laugavegur. It carries clothing, jewellery, and knitted accessories from young local designers, plus a curated rack of second-hand. Coffee is free.

@@ -12,6 +12,7 @@ story: >
   tragic monarchs, imprisoned by his brother and likely poisoned with arsenic-laced pea soup
   in 1577. A modern forensic study confirmed elevated arsenic in his remains, finally settling
   a four-century-old murder mystery.
+score: 8.6
 ---
 
 Västerås Domkyrka is a red-brick Gothic cathedral that has dominated the city skyline since the 13th century. The current building dates mostly from the 14th and 15th centuries, with a tower added in the 19th century that makes it visible from the lake. Inside, the vaulted nave is lined with centuries of monuments, royal tombs, and carved details accumulated over seven hundred years of continuous use.

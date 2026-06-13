@@ -9,6 +9,7 @@ tags:
 - sight
 - mosque
 - architecture
+score: 6.2
 ---
 
 The Penang State Mosque (Masjid Negeri) on Jalan Masjid Negeri (Green Lane) was completed in 1980 to serve as the official mosque of Penang state. It is a striking late-modernist building — a low complex of buff-coloured walls, slender pillars, and a vast central prayer hall topped by a soft-edged octagonal dome the colour of bronze. A separate 60-metre minaret stands beside it.

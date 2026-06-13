@@ -9,6 +9,7 @@ latitude: 49.4513
 longitude: -2.5377
 story: >
   Victor Hugo decorated Hauteville House entirely himself over the course of his exile, covering walls, ceilings, and floors with tiles, tapestries, carved wood, mirrors, and embroideries in a style that defied every convention of 19th-century interior design. He worked on the top-floor glass lookout he called the "crystal chamber" — a glazed room with views over the town and sea — where he wrote *Les Misérables* standing at a high desk, every morning, before the rest of the household woke.
+score: 9.3
 ---
 
 Hauteville House was Victor Hugo's home during the fourteen years he spent in exile in Guernsey, from 1856 to 1870. The French novelist bought and decorated the house entirely according to his own eccentric vision — the result is one of the most extraordinary domestic interiors in the British Isles. Every room is different, every surface covered, every detail significant. It is less a house than a self-portrait in stone and timber and fabric.

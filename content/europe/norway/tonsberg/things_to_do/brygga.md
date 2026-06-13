@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 59.2664
 longitude: 10.4003
+score: 6.6
 ---
 
 Brygga — the old quayside along the Tønsberg canal — is where the town concentrates its summer energy. Restaurants, bars, and small shops line the water on both sides, and in good weather the outdoor terraces fill from midday until late. Pleasure boats and visiting yachts moor alongside, and the whole area has a relaxed, festive atmosphere that is distinctly Norwegian in flavour: unhurried, outdoors-oriented, and dependent on the sun.

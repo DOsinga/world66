@@ -8,6 +8,7 @@ tags:
 latitude: 41.3125
 longitude: -105.60889
 story: "Butch Cassidy, born Robert LeRoy Parker, was imprisoned here from 1894 to 1896 for horse theft. He was released early for good behaviour and subsequently led the Hole-in-the-Wall Gang across Wyoming and the wider West — so in a sense, the prison's lenient management policy had significant downstream consequences for the region's outlaw history."
+score: 7.8
 ---
 
 The Wyoming Territorial Prison operated from 1872 to 1903, and the restored complex gives a convincing account of what incarceration looked like in the frontier West. The cell blocks, warden's house, and various outbuildings are preserved or reconstructed, and the interpretive exhibits mix the obligatory Butch Cassidy story with broader coverage of the territorial justice system and the prison's role in the region.

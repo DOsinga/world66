@@ -7,6 +7,7 @@ tags:
   - sport
 title: Munsu Football Stadium
 type: poi
+score: 6.7
 ---
 
 Munsu Football Stadium is the home ground of Ulsan Hyundai FC, one of South Korea's most successful K League clubs with multiple championship titles. Built for the 2002 FIFA World Cup, it seats around 44,000 and feels genuine on match days — Korean football fans are loud, organised, and enthusiastic in a way that makes even a regular league match entertaining.

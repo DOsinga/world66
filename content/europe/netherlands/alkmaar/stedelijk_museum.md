@@ -5,6 +5,7 @@ tags: [things_to_do, museum]
 snippet: "City museum with Dutch Golden Age paintings and the story of the siege of 1573"
 latitude: 52.6334
 longitude: 4.7436
+score: 8.1
 ---
 
 The Stedelijk Museum Alkmaar tells the story of the city and the surrounding North Holland region through paintings, objects, and well-designed permanent displays. The strongest section deals with the **Siege of Alkmaar in 1573**, the first Spanish defeat in the Eighty Years' War: the Dutch deliberately flooded the surrounding polders by opening the dikes, the Spanish withdrew, and *"Van Alkmaar de Victorie begint"* — "Victory begins at Alkmaar" — became the national motto of resistance.

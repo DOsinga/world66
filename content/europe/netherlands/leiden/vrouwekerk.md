@@ -12,6 +12,7 @@ story: >
   they boarded the Speedwell for the first leg of their journey to the New World.
   Only the church's walls survived — the rest was demolished in 1572 during the
   Dutch revolt against Spain.
+score: 6.8
 ---
 
 The ruined walls of a medieval church in the centre of Leiden, notable as the last church the Pilgrim Fathers used before their departure for America in 1620. Only fragments of the outer walls remain, standing in a small park-like space surrounded by houses. The ruins are atmospheric rather than grand — a quiet reminder of Leiden's connection to one of the most consequential emigrations in history.

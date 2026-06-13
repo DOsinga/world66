@@ -7,6 +7,7 @@ tags:
   - sight
 title: Earlham College
 type: poi
+score: 7.2
 ---
 
 Earlham College was founded by Quakers in 1847 and remains one of the few colleges in the United States with an active Quaker ethos: consensus decision-making, a peace studies programme, and a commitment to non-violence that shapes the campus culture. The grounds are handsome — mature trees, red-brick buildings, and a genuine sense of calm — and visitors are welcome to walk the campus.

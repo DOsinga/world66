@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Shallow protected lagoon between Marsala and Trapani"
+score: 7.9
 ---
 
 The Stagnone is a long, shallow lagoon enclosed by the **Isola Lunga**, a low sandbar parallel to the coast. At its widest it is barely two metres deep, and the warm calm water has made it one of the best kite-surfing spots in Europe — there are several schools along the shore.

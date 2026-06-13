@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature, walk]
 latitude: 42.489
 longitude: -8.85
+score: 6.8
 ---
 
 A Toxa Island is small enough to walk around its perimeter in under two hours, and the pine-shaded paths are the best way to experience it. The forest — planted when the island was developed in the early 20th century — gives the island a cooler, darker quality than the open O Grove peninsula across the bridge, and the paths emerge at intervals onto rocky shoreline with views across the Ría de Arousa toward the Galician hills.

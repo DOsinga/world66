@@ -8,6 +8,7 @@ tags:
 story: The Usina do Gasômetro was built in 1928 to power the city's trams; its 108-metre chimney was the tallest structure in Porto Alegre for decades. When the plant was decommissioned in 1974, the city debated demolishing it for years before deciding to convert it into a cultural centre. The chimney still stands as a civic landmark, lit up at night and visible from all over the southern waterfront.
 title: Usina do Gasômetro
 type: poi
+score: 7.9
 ---
 
 The Usina do Gasômetro is Porto Alegre's most photographed building and, in the late afternoon, its most popular gathering place. The former thermoelectric power station — a large brick industrial building with an enormous chimney on the southern end of the waterfront — was converted into a cultural centre in 1991 and has housed performance spaces, exhibition galleries, a cinema, and cafés ever since. But what makes it essential is the terrace facing the Rio Guaíba: this is where the whole city comes to watch the sunset.

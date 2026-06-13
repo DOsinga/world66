@@ -7,6 +7,7 @@ tags:
 - museum
 title: Roman Theatre of Caesaraugusta
 type: poi
+score: 8.0
 ---
 
 Caesaraugusta — the Roman name for Zaragoza — was founded by Augustus in 14 BC as a major colonial city on the Ebro. The city's Roman remains are scattered across the old town, but the Roman Theatre museum (Museo del Teatro de Caesaraugusta) is the most impressive: the foundations and lower seating tiers of a theatre that could hold around 6,000 spectators, preserved beneath the street level and viewable from elevated walkways through a modern museum building.

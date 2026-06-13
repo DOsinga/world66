@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sport, fishing]
 latitude: 9.4188
 longitude: -84.1700
+score: 8.0
 ---
 
 Quepos is one of the great Pacific sport-fishing ports. The continental shelf drops off sharply just offshore, and the FAD (fish-aggregating-device) lines that local captains run produce some of the most consistent billfish action in the world. Sailfish are the headline catch, with peak season from December through April; blue and black marlin run hardest from November to April; dorado, tuna, wahoo, snapper and roosterfish are reliable year-round.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 3.870
 longitude: 11.517
+score: 5.5
 ---
 
 La Fourchette is one of Yaoundé's long-established French-Cameroonian restaurants, popular with the city's business and diplomatic community. The menu combines French bistro cooking with Cameroonian ingredients and influences — grilled fish and meat, ndolé, plantain — in a setting more comfortable than most of what the city offers at this price point.

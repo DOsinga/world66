@@ -10,6 +10,7 @@ tags:
   - unesco
 snippet: One of the oldest surviving Roman triumphal arches
 story: "The carved panels celebrate Roman victories over the Gauls and Greeks — including a naval scene with rostra (ramming beaks) and chained captives — making it one of the earliest examples of historical triumphal-arch propaganda in stone."
+score: 8.7
 ---
 
 The **Arc de Triomphe d'Orange** stands at the northern edge of town on the old **Via Agrippa** road from Arles to Lyon. Built around 27 BC under the Emperor Augustus, it is one of the oldest surviving Roman triumphal arches in the world and the model for many later examples. The triple arch — a tall central opening flanked by two smaller ones — became the standard form across the Empire.

@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Nobska_Light
 story: >
   Nobska Light stands at the point where Buzzards Bay, Nantucket Sound, and Vineyard Sound converge — three distinct bodies of water meeting at a single lighthouse. Mariners navigating in from the open Atlantic use it to distinguish which passage they are entering. The lighthouse's characteristic flash pattern was established in 1888 and is unchanged today.
+score: 7.6
 ---
 
 Nobska Light stands on a headland at the southern tip of the Cape Cod peninsula, where the waters of Buzzards Bay meet Vineyard Sound. Built in 1876, the lighthouse is one of the most photographed in New England: a classic white tower rising from a green lawn, with the Elizabeth Islands visible across the water.

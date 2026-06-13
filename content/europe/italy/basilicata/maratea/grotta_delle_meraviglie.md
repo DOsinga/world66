@@ -11,6 +11,7 @@ story: >
   opened a hidden chamber barely the size of a small room — visitors today see a single 200-square-metre
   hall with active limestone formations — but the proportions of stalactites and stalagmites are
   startling for so small a space. The cave is sometimes called Italy's smallest show cave.
+score: 7.4
 ---
 
 The Grotta delle Meraviglie — Cave of Wonders — is a small but spectacular karst cave on the SS 18 coastal road south of Maratea. Discovered accidentally by road builders in 1929, it is one of the smallest publicly accessible caves in Italy, but the density and clarity of its limestone formations make it more memorable than many bigger sites. Guided tours run from spring through autumn and take about 20 minutes.

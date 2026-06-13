@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 address: 3 Zarobyan Street
+score: 6.9
 ---
 
 The house-museum of the composer Aram Khachaturian (1903–1978), best known internationally for his "Sabre Dance" and the ballets *Spartacus* and *Gayane*. The museum displays his manuscripts, personal papers, the Steinway piano he composed on, his Stalin Prizes and Lenin Prizes, photographs, and his recreated study. Occasional concerts in the small hall feature his works.

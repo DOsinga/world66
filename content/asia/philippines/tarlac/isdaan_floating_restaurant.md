@@ -9,6 +9,7 @@ latitude: 15.5983
 longitude: 120.5862
 sources:
   - https://www.tripzilla.ph/tarlac-tourist-spots/8527
+score: 6.5
 ---
 
 Isdaan is the most theatrical restaurant in Central Luzon: a rambling complex of nipa huts built on platforms over a large fish farm in Gerona, north of Tarlac City on McArthur Highway. You choose your fish from the ponds — tilapia, catfish, bangus — and it arrives grilled or fried minutes later alongside heaped rice and local vegetables. The setting at dusk, with the ponds reflecting the lights of the huts, is genuinely impressive.

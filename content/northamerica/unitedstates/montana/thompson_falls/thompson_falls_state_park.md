@@ -10,6 +10,7 @@ tags:
   - fishing
 sources:
   - https://en.wikipedia.org/wiki/Thompson_Falls_State_Park
+score: 6.8
 ---
 
 Thompson Falls State Park sits on 36 acres along the Clark Fork River about two miles northwest of town, on the reservoir created by the dam. It is a genuinely pleasant spot: cottonwoods and pines shade the riverbank, there are picnic tables and a boat launch, and the water is calm enough for canoes and kayaks. The park sees relatively little traffic compared to better-known Montana state parks, which makes it all the more relaxing.

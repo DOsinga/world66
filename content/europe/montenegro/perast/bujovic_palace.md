@@ -7,6 +7,7 @@ tags:
   - museum
 title: Bujović Palace & Town Museum
 type: poi
+score: 8.2
 ---
 
 The finest of Perast's surviving baroque palaces, built in 1694 for a family of wealthy sea captains, now serves as the town museum. The collection covers the maritime history of Perast, including navigational instruments, ship models, weapons, coins, and portraits of the families who made the town prosperous. It also documents the naval school that Peter the Great of Russia sent young nobles to study at in the early 18th century — a reminder that this tiny town once had an outsized reputation across the Adriatic and beyond.

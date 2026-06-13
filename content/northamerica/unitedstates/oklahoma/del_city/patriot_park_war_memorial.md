@@ -13,6 +13,7 @@ story: >
   of boots with a helmet resting on the stock, was dedicated in November 2010. It is a
   striking image, and a reminder that this military suburb has paid real costs across
   multiple wars.
+score: 4.6
 ---
 
 Patriot Park sits opposite the Del City Community Center and pays tribute to the local residents who served in the armed forces. The centrepiece is a tall reddish granite obelisk inscribed with the names of the 21 Del City veterans who died in service — from World War II through Iraq.

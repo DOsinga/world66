@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.8709
 longitude: 34.8537
+score: 6.6
 ---
 
 The Kizilirmak — the Red River — is Turkey's longest river lying entirely within the country, and it flows directly through the centre of Avanos. The colour is real: iron oxide in the clay carried down from the volcanic highlands turns the water a distinctive rust-red, particularly after rainfall. The bridge over it, and the riverside promenade, are the social centre of the town in the evenings.

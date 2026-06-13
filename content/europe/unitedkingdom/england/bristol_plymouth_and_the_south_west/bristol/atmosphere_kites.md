@@ -9,6 +9,7 @@ tags:
 - shopping
 title: Atmosphere Kites
 type: poi
+score: 4.3
 ---
 
 A kite shop at the cutting edge of power kiting, also selling extreme sports equipment including off-road unicycles, freebords and dirtsurfers. They specialise in circus equipment, juggling gear and unusual toys.

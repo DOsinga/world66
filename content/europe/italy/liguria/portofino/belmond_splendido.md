@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 44.3033
 longitude: 9.2092
+score: 5.7
 ---
 
 The dining terrace of the Belmond Hotel Splendido sits on the hill above Portofino with a panoramic view down over the harbour and the bay. Dinner here is an event — Mediterranean tasting menus, a serious wine list, and a setting that has been used in dozens of films. The food is genuinely good, not just a prop for the view.

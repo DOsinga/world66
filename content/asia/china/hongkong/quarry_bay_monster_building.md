@@ -14,6 +14,7 @@ story: >
   The result, when viewed from the courtyard looking up, is one of the most dramatic urban vistas in
   Asia. The building appeared in Transformers: Age of Extinction and several other films, which
   increased foot traffic but also annoyed residents.
+score: 7.2
 ---
 
 Five interconnected residential towers in Quarry Bay, known collectively as the "Monster Building" or Yick Cheong Building, create one of the most photographed urban canyons in Asia. When viewed from the internal courtyard, the receding tiers of residential blocks, hung with air conditioning units and laundry, stretch up to a rectangle of sky in a composition that has become iconic.

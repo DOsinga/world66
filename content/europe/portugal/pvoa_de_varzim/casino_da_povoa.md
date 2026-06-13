@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.3787
 longitude: -8.7662
+score: 6.2
 ---
 
 Casino da Póvoa, opened in 1934 and rebuilt in 1968, is the northern Portugal counterpart to the better-known casino at Estoril near Lisbon. It sits at the south end of the Passeio Alegre seafront and combines gambling rooms with a sizable restaurant, a theatre, and a nightclub that runs through the summer.

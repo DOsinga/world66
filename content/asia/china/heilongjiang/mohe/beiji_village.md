@@ -10,6 +10,7 @@ story: >
   Beiji Village holds the distinction of being the northernmost permanently inhabited settlement in China. 
   In winter, with the Heilong River frozen solid between the Chinese and Russian banks, the village sits 
   at the edge of two countries and seems to belong fully to neither.
+score: 8.5
 ---
 
 Beiji Village — known in Chinese as Beiji Cun, or simply Arctic Village — sits 30 kilometres north of Mohe town on the south bank of the Heilong River (Amur), with Russia directly opposite. It is the furthest north any visitor can legally travel in China, and that geographical extremity is the entire point of the trip. The village itself is small — a few dozen wooden houses, guesthouses, and a monument marking the northernmost point — but the setting is genuinely remote and beautiful.

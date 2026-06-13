@@ -6,6 +6,7 @@ longitude: 75.1244
 tags:
   - things_to_do
   - sight
+score: 6.6
 ---
 
 About 25 km southeast of Bathinda, the **Maiser Khana** temple complex is dedicated to the goddess Jwala Ji and considered a regional substitute for the great Jwala Ji shrine in Himachal Pradesh. Pilgrims come here in the months of Chaitra (March–April) and Asauj (September–October) for two large fairs that fill the village with stalls, tents and processions.

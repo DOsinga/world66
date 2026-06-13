@@ -10,6 +10,7 @@ tags:
   - park
 sources:
   - https://en.wikipedia.org/wiki/Valley_Lake_/_Ketla_Malpi
+score: 6.6
 ---
 
 Valley Lake sits inside one of the volcanic craters on the rim of the Mount Gambier maar complex, just south-west of the Blue Lake. The lake and the surrounding wetlands form a wildlife sanctuary that attracts large numbers of waterbirds — pelicans, herons, cormorants, and black swans are regulars. The area has been managed as a sanctuary since the 1880s and is one of the most accessible urban wildlife reserves in South Australia.

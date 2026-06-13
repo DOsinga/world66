@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 41.3072
 longitude: 69.2719
+score: 5.0
 ---
 
 A small park dedicated to the unlikely Cold War friendship between Tashkent and Seattle — the two cities became sisters in 1973, the first such pairing between a Soviet and an American city. Locals call it "Seattle Park" and the centrepiece is a bronze "tree of peace" hung with plaques bearing wishes for peace from American and Soviet schoolchildren.

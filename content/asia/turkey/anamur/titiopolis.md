@@ -8,6 +8,7 @@ tags:
   - sight
   - historic
 story: "Titiopolis was a town in ancient Cilicia, later absorbed into the Roman province of Isauria. It was sufficiently important to have its own bishop in the early Christian era, appearing in ecclesiastical records from the 4th century onward. The site has never been properly excavated, and most of the visible remains are surface finds — column drums, wall fragments, and scattered inscribed blocks — rather than excavated structures."
+score: 4.6
 ---
 
 Titiopolis is an ancient Cilician town site a few kilometres north of Anamur, identifiable on the ground but not formally developed for visitors. The location places it in the foothills above the coastal plain, which fits the pattern of Cilician settlements that used elevated positions for security before the Roman pacification of the region made coastal sites more viable.

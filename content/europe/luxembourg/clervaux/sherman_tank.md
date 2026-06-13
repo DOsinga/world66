@@ -8,6 +8,7 @@ tags:
 - monument
 title: M4 Sherman Tank Memorial
 type: poi
+score: 5.8
 ---
 
 In the small square just below the castle stands a US Army M4 Sherman tank, hulk-still on its tracks — a permanent memorial to the men of the 110th Infantry Regiment who held Clervaux against the German offensive in December 1944. The tank itself was not knocked out at Clervaux (the original armor losses on the spot were brought back to the United States as scrap after the war) but is an authentic Sherman from the period, donated by the US Army and emplaced here in 1947.

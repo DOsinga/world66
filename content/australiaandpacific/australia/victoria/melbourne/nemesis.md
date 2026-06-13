@@ -10,6 +10,7 @@ tags:
   - bar
 title: Nemesis
 type: poi
+score: 6.2
 ---
 
 Nemesis occupies a corner site on Russell Street, across from the Magistrates Court, with a dark, moody interior that suits its name. The fitout leans toward exposed brick, dark timber, and low lighting — a contrast to the brighter bar styles that have spread through the CBD. It opens late and draws a mixed crowd of after-work drinkers, people starting their night, and regulars who have been coming for years.

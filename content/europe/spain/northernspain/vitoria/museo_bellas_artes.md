@@ -7,6 +7,7 @@ tags:
 - museum
 title: Museo de Bellas Artes de Álava
 type: poi
+score: 7.0
 ---
 
 The Álava Museum of Fine Arts occupies the Augustín Zulueta Palace, a Neo-Renaissance mansion on the Paseo de Fray Francisco, and holds a varied collection spanning medieval art through to the 20th century. The highlights are a group of Flemish and Spanish baroque paintings, 15th- and 16th-century Castilian wood sculpture, and a strong collection of Basque and Spanish art from the 19th and early 20th centuries.

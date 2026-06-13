@@ -6,6 +6,7 @@ longitude: -4.4608
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 The Cors is a small, seriously run restaurant in a Victorian gothic house in Laugharne — the kind of place that would attract attention anywhere but feels particularly surprising in a small Welsh town of barely a thousand people. The cooking is ambitious without being showy: local fish, Welsh lamb, and seasonal vegetables from the garden, prepared with care and served in a dining room decorated with antiques and oil paintings. The wine list is well-considered.

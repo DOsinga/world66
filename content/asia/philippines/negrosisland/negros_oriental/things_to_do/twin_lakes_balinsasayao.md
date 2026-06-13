@@ -8,6 +8,7 @@ tags:
   - park
 latitude: 9.2667
 longitude: 123.2333
+score: 8.1
 ---
 
 Two volcanic crater lakes sit side by side in the mountains south of Dumaguete, hidden inside one of the last stretches of intact lowland rainforest in the Visayas. Balinsasayao is the larger, the one most visitors see first; Danao is quieter, reached by a short trail through the trees. Both are protected as part of a natural park, and the forest around them is genuine — thick canopy, birdsong, the hum of insects.

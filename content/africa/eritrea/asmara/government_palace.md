@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 The Governor's Palace, used today as Asmara City Hall, sits on Bahti Meskerem Square in the heart of the colonial-era administrative district. Built between 1897 and 1900 by the first Italian governor, Ferdinando Martini, it is the oldest substantial public building in the city.

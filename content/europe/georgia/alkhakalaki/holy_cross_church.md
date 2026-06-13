@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: 19th-century Armenian Apostolic cathedral on the main square
+score: 6.0
 ---
 
 The Holy Cross church (Surb Khach in Armenian) is the main place of worship for the town's overwhelmingly Armenian population. It is a plain, dark-stone basilica with a simple cross over the door — built in the 1850s in the period after Russian conquest, when Armenian refugees fleeing Ottoman territory resettled the Javakheti plateau in large numbers.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Scenic Tower
 type: poi
+score: 5.5
 ---
 
 The Torre Escénica — an 80-metre observation tower at La Isla Shopping Village — gives a 360-degree view across the Hotel Zone, the open Caribbean, and the inland Nichupté Lagoon. A glass-walled pod climbs slowly up the tower and rotates as it goes, taking roughly 12-15 minutes for a full circuit. On clear days you can see Isla Mujeres to the north and the curve of the entire Hotel Zone in one frame.

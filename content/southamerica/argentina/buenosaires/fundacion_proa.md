@@ -10,6 +10,7 @@ longitude: -58.3616
 address: Avenida Pedro de Mendoza 1929, La Boca
 url: proa.org
 opening_hours: "Tue–Sun 11:00–19:00; closed Mon"
+score: 8.1
 ---
 
 The best contemporary art space in La Boca, and one of the better private foundations in the city. Fundación Proa occupies a restored colonial building on the Vuelta de Rocha — the bend of the Riachuelo canal — with views across the water toward the old docklands. The programme focuses on major international exhibitions (Warhol, Koons, Yoko Ono have all been shown here) alongside significant Argentine contemporary artists.

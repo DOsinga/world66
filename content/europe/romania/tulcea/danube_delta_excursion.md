@@ -8,6 +8,7 @@ tags:
 - nature
 title: Danube Delta Excursion
 type: poi
+score: 9.6
 ---
 
 A day trip into the Danube Delta is the reason most travellers come to Tulcea. Boats leave the passenger station in the morning; the typical full-day itinerary winds through the narrow side-channels off the main Sulina arm, passing through reed forests, water-lily lakes and willow swamps. Birdlife is the headliner — pelicans, herons, cormorants, kingfishers, ibis — and a competent guide will pull the boat up alongside a feeding raft of Dalmatian pelicans within an hour of leaving the dock.

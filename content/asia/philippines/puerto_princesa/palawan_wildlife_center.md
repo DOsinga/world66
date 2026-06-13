@@ -9,6 +9,7 @@ tags:
 - wildlife
 title: Palawan Wildlife Rescue and Conservation Center
 type: poi
+score: 7.1
 ---
 
 The Palawan Wildlife Rescue and Conservation Center — locally known as the Crocodile Farm, though that undersells it — is a government-run conservation facility on the edge of Puerto Princesa city. Its primary work is the captive breeding and rehabilitation of the critically endangered Philippine crocodile and the saltwater crocodile, with a view to eventual reintroduction.

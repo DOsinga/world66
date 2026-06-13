@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.9820
 longitude: 31.2240
+score: 6.8
 ---
 
 Dahab Island is a Nile island in the southern reaches of the Greater Cairo region, lying in the river between Maadi and the opposite Giza bank. Unlike the more famous Zamalek or Roda islands further north, Dahab is largely undeveloped and offers a genuinely green, quiet strip of land in the middle of the river. Local fishermen work the surrounding water, and the banks attract picnicking families on weekends.

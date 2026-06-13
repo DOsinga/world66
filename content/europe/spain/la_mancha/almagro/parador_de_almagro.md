@@ -14,6 +14,7 @@ story: >
   the building was confiscated. It sat largely unused until the Parador chain
   converted it in the 1970s — one of the more successful reinventions of
   ecclesiastical property in Castile-La Mancha.
+score: 7.8
 ---
 
 The Parador de Almagro is one of the most atmospheric places to stay in southern Castile, and it's worth visiting even if you're not a guest. The former Franciscan convent has 16 small courtyards, Renaissance arcades, and a church interior now converted to the hotel's public rooms. The building has been beautifully restored without losing its monastic character: stone flags, cool corridors, terracotta pots in the cloisters.

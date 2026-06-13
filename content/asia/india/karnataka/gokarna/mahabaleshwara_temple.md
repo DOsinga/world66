@@ -13,6 +13,7 @@ story: >
   obtained the linga from Shiva himself, but was forbidden to set it down before
   reaching Lanka. Ganesha offered to hold it while Ravana performed evening prayers,
   then placed it in the ground at Gokarna, where it remains immovable to this day.
+score: 8.8
 ---
 
 Gokarna's most sacred site, the Mahabaleshwara Temple dates to the 4th century CE and is considered one of the most important Shiva temples in southern India. The complex is built in the Dravidian style with a multi-tiered gopuram (entrance tower) and a central tank. Pilgrims come from across Karnataka and beyond to perform rituals here, particularly during Shivaratri when the town fills to capacity.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.8280
 longitude: 20.8315
+score: 8.2
 ---
 
 The old trading quarter of Abeche preserves some of the city's pre-colonial character better than anywhere else in town. The lanes here are narrow and cobblestoned, worn smooth by centuries of foot traffic, and the buildings mix Saharan mud-brick construction with early colonial-era facades. This is where the caravan trade made Abeche wealthy: merchants from Sudan and Egypt brought cloth, metalware, and manufactured goods; Chadian traders sent out slaves, ivory, and ostrich feathers. The slave trade is long gone, but the physical fabric of the quarter that it built remains.

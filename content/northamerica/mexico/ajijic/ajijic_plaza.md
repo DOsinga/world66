@@ -8,6 +8,7 @@ tags:
 latitude: 20.3003
 longitude: -103.2619
 snippet: The colonial town square with the 17th-century San Andrés Parish Church
+score: 8.0
 ---
 
 The central plaza is the heart of Ajijic, a shaded square surrounded by the colonial-era San Andrés Parish Church, the local government building, and the small restaurants and cafes that have always been here. The church, originally built in the 17th century, has a simple whitewashed facade and a peaceful interior with local devotional art.

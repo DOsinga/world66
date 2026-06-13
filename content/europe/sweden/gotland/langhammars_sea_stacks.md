@@ -14,6 +14,7 @@ story: >
   a role in Norse folklore as trolls turned to stone, and the name of Fårö's
   most famous stack, Jungfrun (The Maiden), speaks to the habit of seeing human
   forms in the rock.
+score: 8.4
 ---
 
 The limestone sea stacks on the western coast of Fårö island, just north of Gotland, are among the most striking natural features in the Baltic. Known as raukar, these eroded limestone pillars rise from the beach and shallow water along a kilometre-long stretch of shoreline at Langhammars Nature Reserve. The light on them in the evening turns orange and the reflections in the flat water between stacks make for particularly good photographs.

@@ -8,6 +8,7 @@ tags:
   - sight
   - market
   - kasba_peth
+score: 7.8
 ---
 
 The most atmospheric of Pune's old bazaars, a tightly packed labyrinth of stalls and small shops in the heart of the old city. The lanes specialise in pooja and wedding goods -- brassware, incense, kumkum, silver jewellery, copperware from neighbouring Tambat Ali -- and the colours and smells make the place unmistakable.

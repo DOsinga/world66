@@ -8,6 +8,7 @@ latitude: 51.4359
 longitude: 6.7972
 sources:
   - https://en.wikipedia.org/wiki/Botanischer_Garten_Kaiserberg
+score: 5.7
 ---
 
 The Botanischer Garten Kaiserberg is a small but well-tended botanical garden on the Kaiserberg hill in the eastern part of Duisburg. It covers about 2 hectares and contains a collection of Central European and exotic plants, with themed sections including a rock garden and a medicinal plant collection. The garden sits at the edge of the Kaiserberg forest, which extends further up the hill and offers walking paths with views over the city.

@@ -13,6 +13,7 @@ story: >
   traditionally installed and where they hold state audience. Unlike the museums around Padang
   Merdeka, this palace is still a working royal residence — visitors can view the exterior and
   grounds but the interior is not open to the public.
+score: 6.6
 ---
 
 The Istana Balai Besar is the official royal palace of the Kelantan royal family and one of the finest examples of traditional Kelantanese architecture in the city. The building is characterised by its soaring roof, elaborately carved wooden panels, and elevated structure — a design adapted to the heat and humidity of the east coast.

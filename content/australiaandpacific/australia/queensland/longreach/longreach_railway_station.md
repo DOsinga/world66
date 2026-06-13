@@ -15,6 +15,7 @@ story: >
   in Queensland. When the line reached Longreach in 1892, the site was chosen because a
   large waterhole on the Thomson River made it liveable. The railway made Longreach; the
   town grew from nothing around this terminus.
+score: 6.4
 ---
 
 Longreach Railway Station is a Queensland Heritage-listed building that opened as a terminus in 1892 when the Central Western line was extended from Barcaldine. The current timber station was built in 1916 to a design by Henrik Hansen, the same architect behind the stations at Emerald and Archer Park. The platform canopy — a cantilevered shade rather than the curved carriage shades at other stations — is a distinctive detail that distinguishes Longreach's design.

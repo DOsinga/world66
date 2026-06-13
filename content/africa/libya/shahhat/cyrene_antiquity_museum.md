@@ -7,6 +7,7 @@ tags:
   - archaeology
 latitude: 32.8139
 longitude: 21.8560
+score: 6.7
 ---
 
 The Cyrene Antiquity Museum is a small archaeological museum connected to the ancient site. When open, it helps make sense of the ruins by gathering sculpture, inscriptions, and finds from the surrounding area.

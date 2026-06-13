@@ -8,6 +8,7 @@ tags:
 latitude: 43.5467
 longitude: -96.7321
 snippet: "Gothic cathedral anchoring the downtown skyline since 1919"
+score: 7.5
 ---
 
 The Cathedral of Saint Joseph rises above downtown Sioux Falls in Romanesque Revival style, its pale quartzite towers visible from much of the city centre. Construction began in 1915 using locally quarried Sioux Falls granite, the same pinkish stone used throughout the city's older buildings. The interior is richly decorated with stained glass and marble.

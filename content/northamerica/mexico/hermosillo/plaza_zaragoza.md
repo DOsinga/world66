@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.0738
 longitude: -110.9554
+score: 6.9
 ---
 
 Plaza Zaragoza is the historic heart of Hermosillo, flanked by the Cathedral of the Assumption, the Government Palace, and the old Town Hall. It is a properly working public square — shaded by large trees, busy during the day, and a gathering point for concerts and events on weekend evenings. The plaza has been refurbished over the years but retains its 19th-century layout and proportions.

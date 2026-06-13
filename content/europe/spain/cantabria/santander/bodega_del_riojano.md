@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 43.4617
 longitude: -3.8085
+score: 6.7
 ---
 
 The Bodega del Riojano is one of Santander's most characterful wine bars, tucked into the old streets near the cathedral. The walls are lined with painted wine barrels, the ceiling is low, and the selection of wines — principally from Rioja, as the name suggests, but also from Galicia and the Basque country — is serious without being intimidating. It has been operating since 1949 and the interior has the unhurried, slightly worn quality of a place that has nothing to prove.

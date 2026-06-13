@@ -6,6 +6,7 @@ tags:
   - budget
 latitude: 33.8561
 longitude: 72.3941
+score: 5.0
 ---
 
 The string of dhabas along the Grand Trunk Road through Kamra is the town's primary dining infrastructure. These open-fronted restaurants with plastic chairs and communal tables serve the same basic menu: daal, roti, karahi, and chai. Prices are low — a full meal with bread and tea rarely costs more than a few hundred rupees.

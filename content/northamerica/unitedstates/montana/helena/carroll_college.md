@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 46.6009
 longitude: -112.0392
+score: 4.9
 ---
 
 Carroll College sits on a hill above the north end of downtown Helena, a small private Catholic liberal arts college with about 1,400 students. The campus is compact and tidy, with a mix of older brick buildings and more recent additions, and the hilltop position gives good views back over the city toward the mountains. It's not a destination in itself, but if you're walking north from downtown or looking for a quiet place to get oriented, the campus is pleasant to pass through.

@@ -13,6 +13,7 @@ story: >
   before finally opening. It is a remarkable piece of Château-style architecture — the 
   style the CPR and CNR used to brand Canada's national hotel chain — planted improbably 
   on the South Saskatchewan River bank.
+score: 7.6
 ---
 
 The Delta Bessborough, a château-style railway hotel completed in 1935, is Saskatoon's most distinctive building and the anchor of the downtown riverfront. Its copper-capped towers and green copper roof are visible from most of the river trail, and the building has defined the city's skyline for nearly a century. Even if you are not staying here, walk into the lobby to see the original woodwork and period details.

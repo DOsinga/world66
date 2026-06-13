@@ -8,6 +8,7 @@ tags:
 latitude: -27.4850
 longitude: 152.9592
 snippet: "The best panoramic view of Brisbane from 287m above the city"
+score: 7.6
 ---
 
 Mount Coot-tha, about 7 km west of the city centre, is Brisbane's best viewpoint. From the summit lookout at 287 metres you get a sweeping panorama over the entire metropolitan area from Moreton Bay to the ranges, with the CBD laid out at your feet and the Brisbane River threading through the suburbs. The view is good during the day but excellent after dark, when the city lights fill the bowl of the valley.

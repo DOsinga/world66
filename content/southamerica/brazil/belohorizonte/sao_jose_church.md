@@ -8,6 +8,7 @@ tags:
 - church
 title: São José Church
 type: poi
+score: 7.4
 ---
 
 The Igreja São José stands a few blocks from Praça Sete and is the most imposing church in the downtown. Built in an eclectic style with strong neo-Gothic influences and consecrated in 1907, it has a single tall central tower flanked by lower side aisles, and a strikingly tall interior with painted ceilings.

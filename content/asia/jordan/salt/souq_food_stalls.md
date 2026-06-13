@@ -5,6 +5,7 @@ tags:
   - eating_out
 latitude: 32.0362
 longitude: 35.7288
+score: 6.2
 ---
 
 The souq in Salt has a handful of stalls and small eateries selling quick food for market-goers: falafel and hummus in the morning, grilled chicken and sandwiches through the afternoon. These are not sit-down places but standing counters with a few stools. The quality is consistently good and the cost is minimal.

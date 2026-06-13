@@ -7,6 +7,7 @@ tags:
 - museum
 title: Measure Museum
 type: poi
+score: 7.2
 ---
 
 The Measure Museum occupies the historic Salmasi House, a beautiful Qajar-era

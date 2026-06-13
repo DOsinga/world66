@@ -10,6 +10,7 @@ tags:
 - story
 title: Les Boves
 type: poi
+score: 7.3
 ---
 
 A network of chalk tunnels running beneath the old city, first dug in the 10th century as quarries and expanded over the centuries into storage cellars, refuges, and ultimately military infrastructure. During the First World War the British Army extended the tunnels dramatically — the system sheltered up to 24,000 soldiers on the eve of the Battle of Arras in April 1917. Troops lived underground for days before emerging directly into no man's land in a coordinated surprise attack.

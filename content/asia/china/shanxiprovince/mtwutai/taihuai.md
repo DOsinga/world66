@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The monastic village in the centre of the Wutaishan valley
+score: 7.9
 ---
 
 Taihuai is the village at the floor of the Wutaishan valley, around which the central cluster of monasteries is built. It is small — a couple of pedestrianised streets, a handful of restaurants, a few hotels and guesthouses for pilgrims, and the bus park where the daily arrivals from Shanxi and Beijing pull in. Most of the major Wutaishan temples are within a fifteen-minute walk of each other here, and once you have a base in the village you can plan your visits according to weather and time of day.

@@ -8,6 +8,7 @@ tags:
 latitude: 38.66
 longitude: -122.91
 snippet: Healdsburg's premier Zinfandel appellation, best explored by bike or car
+score: 8.4
 ---
 
 The narrow valley running northwest from Healdsburg is Sonoma County's best Zinfandel country, and one of the most enjoyable wine drives in California. Dry Creek Road follows the valley floor through small family wineries, olive groves, and hillside vineyards. The creek itself runs beside the road much of the way, making it shaded and cool even in summer.

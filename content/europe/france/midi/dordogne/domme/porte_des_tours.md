@@ -12,6 +12,7 @@ story: >
   in the towers of the Porte des Tours. They were held here until 1318, and in their boredom and 
   despair they carved graffiti into the limestone walls — crosses, geometric figures, symbols of 
   their order. The carvings are still there, still legible, still strange.
+score: 7.8
 ---
 
 The Porte des Tours is the main medieval gate into Domme, a 13th-century structure of two cylindrical towers linked by a pointed arch that still controls the only road into the upper village. It was built in the 1280s as part of Domme's bastide fortifications, reinforced in the following century, and used as a prison for captured Knights Templar after 1307.

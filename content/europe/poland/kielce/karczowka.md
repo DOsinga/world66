@@ -10,6 +10,7 @@ tags:
 - church
 - hiking
 snippet: Wooded hill above the city with a 1620s monastery and a famous lead-ore Madonna
+score: 7.2
 ---
 
 Two kilometres west of the centre, the wooded ridge of Karczówka rises steeply above Kielce. At the top stands a small Baroque Bernardine monastery, founded in 1624 by the Kraków bishop Marcin Szyszkowski as a thanksgiving for the city's deliverance from a particularly bad outbreak of plague. The church is plain on the outside but holds two surprises inside: a Madonna and Child carved entirely from a single chunk of galena (lead ore), said to be the largest such piece anywhere; and the spare, white walls that make for a calm escape from the sometimes overdone Baroque elsewhere in town.

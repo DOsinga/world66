@@ -11,6 +11,7 @@ title: Din Tai Fung (Xinyi flagship)
 type: poi
 url: https://www.dintaifung.com.tw
 story: "Din Tai Fung began as a small cooking-oil shop on Xinyi Road in 1958. When the oil business collapsed in 1972 the owners diversified into noodles to keep the rent paid; the **xiaolongbao** soup dumplings the kitchen had been making as a sideline became a hit, and the rest is history. The Xinyi Road shop opened in 1972 and is still open in the same building."
+score: 6.8
 ---
 
 The Xinyi Road flagship of the world-conquering Taiwanese chain — the original branch, in operation continuously since 1972 — is still the place to eat **xiaolongbao** in Taipei. The signature item is the pork soup dumpling, served at scalding heat in steamer baskets of ten, with paper-thin pleated wrappers said to require exactly eighteen folds.

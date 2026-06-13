@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.6405
 longitude: -117.0842
+score: 7.5
 ---
 
 Third Avenue is Chula Vista's historic downtown corridor, a several-block stretch of low-rise commercial buildings from the early twentieth century that has been gradually revitalised into a walkable neighbourhood of independent shops, restaurants, and cafes. It is the best place in the city to get a sense of Chula Vista as a real, working community rather than a collection of suburban shopping centres.

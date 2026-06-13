@@ -7,6 +7,7 @@ tags:
   - archaeology
 latitude: 40.1722
 longitude: 22.4882
+score: 8.1
 ---
 
 The Roman baths at Dion are one of the best-preserved bathing complexes in northern Greece. Built in the 2nd century AD when Dion was a prosperous Roman city, the baths feature elaborate mosaic floors depicting marine creatures, geometric patterns, and mythological scenes. Several rooms are intact enough to read the full sequence from changing room through cold, warm, and hot bathing areas.

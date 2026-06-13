@@ -7,6 +7,7 @@ snippet: 'Victorian church with a striking spire visible from the river'
 tags:
 - things_to_do
 - sight
+score: 7.1
 ---
 
 The tall spire of All Saints dominates Marlow's skyline and is the backdrop to every photograph taken from the bridge. The current church dates from the 1830s, designed by Charles Barry — the same architect who went on to build the Houses of Parliament. It replaced an earlier medieval church on the same site, and Barry's design is a confident example of early Victorian Gothic Revival, with a nave that feels larger than the town might warrant.

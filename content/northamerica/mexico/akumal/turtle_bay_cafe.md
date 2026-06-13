@@ -8,6 +8,7 @@ tags:
 - cafe
 title: Turtle Bay Cafe
 type: poi
+score: 4.9
 ---
 
 Turtle Bay Cafe is the village's reliable all-day spot for breakfast, sandwiches, and good coffee. Pancakes, eggs done any way, fresh-baked pastries, and a strong cappuccino come out of the kitchen from early in the morning, which makes it a favourite of divers and snorkellers heading out at dawn.

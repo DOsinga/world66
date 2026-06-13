@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 52.23420
 longitude: 6.89630
+score: 6.8
 ---
 
 The AKI Academy for Art and Design is one of the Netherlands' better-known art schools, part of Saxion University of Applied Sciences. The school building in Roombeek is part of the post-disaster reconstruction architecture and is open to visits during exhibitions and open days.

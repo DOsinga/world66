@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 33.7917
 longitude: -84.3236
+score: 7.8
 ---
 
 A modestly sized but high-quality museum on the campus of Emory University in northeast Atlanta, with strong permanent collections of ancient Egyptian, Greek, Roman, Near Eastern, and pre-Columbian American art. The Michael Graves-designed building, opened in 1993, is itself a small architectural landmark.

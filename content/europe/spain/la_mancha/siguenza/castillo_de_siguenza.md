@@ -16,6 +16,7 @@ story: >
   reconstruction that followed was completed in the 1970s, turning it into a Parador.
 sources:
   - https://en.wikipedia.org/wiki/Castle_of_the_Bishops_of_Sig%C3%BCenza
+score: 8.4
 ---
 
 The Castle of the Bishops of Sigüenza stands on the highest point of the ridge above the town, commanding views over the surrounding plateau and the Henares valley. It was built by the bishops of Sigüenza in the 12th century as both a residence and a defence, and remained in ecclesiastical hands for most of its history. The walls and towers follow the contour of the rocky outcrop, giving the building an organic relationship with its setting that is more impressive than any formal architectural plan.

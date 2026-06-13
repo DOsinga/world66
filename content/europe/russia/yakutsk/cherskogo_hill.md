@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 62.043
 longitude: 129.6249
+score: 6.7
 ---
 
 Just outside the city, Cherskogo Hill gives the best panoramic view over Yakutsk and the Lena valley. On a clear day you can see the city's grid of low buildings and the wide flat plain of the river stretching to the horizon.

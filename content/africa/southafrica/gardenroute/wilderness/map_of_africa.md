@@ -9,6 +9,7 @@ tags:
 - sight
 - viewpoint
 story: "The shape is real — the loop of the Kaaimans River and the surrounding ridges form a near-perfect outline of the continent when seen from this height. The viewpoint is also the main paragliding launch site for the area; on a good day you can watch tandem flights launching directly off the cliff edge in front of you."
+score: 7.7
 ---
 
 A few kilometres inland from Wilderness, a tar road climbs to a hilltop lookout known as the Map of Africa. The land below curves into a shape uncannily like the African continent — the Kaaimans River and its tributaries trace what looks like a coastline, with Madagascar represented by a small detached hill. It is genuinely striking once you see it, and it is the kind of natural coincidence that local guides never tire of pointing out.

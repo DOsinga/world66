@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 26.7660
 longitude: 83.3807
+score: 4.8
 ---
 
 The Civil Lines neighbourhood, north of the railway station, has a concentration of restaurants and fast-food outlets that cater to a middle-class local clientele. You will find north Indian curries, South Indian breakfasts (idli, dosa, vada), and Chinese-influenced dishes alongside the usual quick-service chains.

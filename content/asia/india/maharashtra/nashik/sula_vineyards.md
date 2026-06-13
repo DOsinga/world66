@@ -13,6 +13,7 @@ story: >
   the diurnal temperature swing between the hot day and cool night, and irrigation
   from the Gangapur reservoir. India now has a substantial wine industry, and Nashik
   supplies the grapes for most of it.
+score: 6.2
 ---
 
 Sula Vineyards is India's largest winery and the most visited, located about 14 km northwest of Nashik city on the shores of the Gangapur reservoir. The estate runs tours and tastings most days, and its outdoor amphitheatre hosts the annual SulaFest in late January — a wine and music festival that draws visitors from across India.

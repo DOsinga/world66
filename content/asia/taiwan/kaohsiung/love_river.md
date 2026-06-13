@@ -7,6 +7,7 @@ tags:
 latitude: 22.6234
 longitude: 120.2940
 snippet: River through the city centre, lined with walking paths, cafes and gondolas
+score: 7.2
 ---
 
 The Love River (Ai-he) runs north-south through downtown Kaohsiung. It was one of Asia's most polluted urban waterways thirty years ago, the city's industrial outflow staining it black and stinking — and the cleanup, paid for over twenty years, is one of Kaohsiung's quiet success stories. Today it is lined with promenades, cycle paths, cafes and small gondola-style boats that you can rent.

@@ -9,6 +9,7 @@ tags:
 title: Brattle Book Shop
 type: poi
 url: www.brattlebookshop.com
+score: 7.8
 ---
 
 Founded in 1825, Brattle Book Shop is one of the oldest antiquarian bookshops in the United States and still owned by the Gloss family that bought it in 1949. Three floors of new, used, and rare books inside a narrow West Street building behind the Common, with rare and signed material on the top floor in a locked back room.

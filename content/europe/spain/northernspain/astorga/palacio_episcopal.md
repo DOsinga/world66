@@ -12,6 +12,7 @@ story: >
   episcopal residence — and Gaudí walked off the project. The palace was
   finished decades later by other architects, and no bishop has ever lived
   in it.
+score: 8.9
 ---
 
 The Episcopal Palace is the only major work that Antoni Gaudí completed outside Catalonia. Begun in 1889 and finished in 1913, it is built from local grey-white granite in a neo-medieval style that nods to the cathedral next door — pointed arches, fortress-like turrets, a deep moat — but the silhouette and the strange interplay of windows and angles are pure Gaudí. The interior is even better than the exterior: a vaulted ground floor with delicate ribs and stained glass that pools coloured light onto the floor.

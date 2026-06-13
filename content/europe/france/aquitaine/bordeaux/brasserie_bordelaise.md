@@ -9,6 +9,7 @@ latitude: 44.8401
 longitude: -0.5733
 neighbourhood: Saint-Pierre
 snippet: Lively wine-bar-brasserie in Saint-Pierre, with local natural wines and updated Gascon dishes
+score: 7.3
 ---
 
 Brasserie Bordelaise is one of the better options in the Saint-Pierre neighbourhood for a complete Bordeaux meal without the formality or expense of the fine-dining restaurants. The menu runs to charcuterie, local cheeses, oysters, and grilled meats alongside more elaborate dishes that draw on Gascon and Basque traditions. The wine list is strong on lesser-known Bordeaux appellations.

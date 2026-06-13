@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 7.6
 ---
 
 About 1.5 kilometres west of Praia da Rocha, Praia do Vau is a quieter sister beach: similar cliffs, similar orange-red sandstone, but with a fraction of the crowds. The cove is broken into small bays by sandstone outcrops, with two main stretches accessed via different staircases from the clifftop road.

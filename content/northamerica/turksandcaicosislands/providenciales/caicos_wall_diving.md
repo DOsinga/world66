@@ -8,6 +8,7 @@ latitude: 21.8000
 longitude: -72.2200
 story: >
   The wall drops to over 2,000 metres within a short boat ride of Providenciales — one of the deepest walls in the Caribbean. Humpback whales use the deep channel between Provo and West Caicos during their January-to-March migration, and divers occasionally encounter them at depth. The visibility on clear days can exceed 30 metres, with the wall face disappearing into blue darkness below.
+score: 9.4
 ---
 
 The Caicos Bank drops off the northwest side of Providenciales in a series of coral walls that are among the finest dive sites in the Caribbean. The wall begins at around 15-20 metres and falls vertically to depths beyond recreational diving limits. The coral cover on the wall face is exceptional — black corals, sea fans, and sponges of enormous size — and the pelagic life attracted to the wall edge includes eagle rays, reef sharks, and occasional whale sharks.

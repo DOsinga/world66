@@ -8,6 +8,7 @@ tags:
 - museum
 title: Philadelphia Museum of Art
 type: poi
+score: 9.2
 ---
 
 The third-largest art museum in the country, holding major European, American, and Asian collections — plus a reconstructed Japanese tea house and a full medieval cloister. Pay what you wish on the first Sunday of every month. The steps out front are where Rocky trained; expect to see people running up them in tracksuits on any given day.

@@ -16,6 +16,7 @@ story: >
   car within a decade.
 sources:
   - https://en.wikipedia.org/wiki/Jericoacoara_National_Park
+score: 8.9
 ---
 
 Jericoacoara National Park covers 8,000 hectares of dunes, lagoons, wetlands, and restinga (coastal scrubland) on the Ceará coast. It was established in 2002 and encompasses the village of Jericoacoara as well as the surrounding dunefield, several freshwater and brackish lagoons, mangroves along the river channels, and the beach for several kilometres in either direction. The park is managed by ICMBIO, the Brazilian federal environmental agency.

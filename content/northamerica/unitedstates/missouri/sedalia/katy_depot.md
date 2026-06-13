@@ -9,6 +9,7 @@ tags:
   - sight
   - architecture
 snippet: Restored Missouri-Kansas-Texas Railroad depot, now visitor centre and trailhead.
+score: 7.7
 ---
 
 The Missouri-Kansas-Texas Railroad — universally known as the Katy — made Sedalia. The town was platted in 1860 as a railhead and at one point three railroads converged here. The 1896 Katy Depot, a long, low brick building in the Romanesque Revival style with a distinctive porte-cochère, was the busiest of the three. It closed when the Katy abandoned the line in 1986 and was restored in the early 2000s.

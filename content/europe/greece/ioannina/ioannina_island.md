@@ -8,6 +8,7 @@ tags:
 - sight
 title: Ioannina Island
 type: poi
+score: 8.7
 ---
 
 Just offshore from the old castle, a small inhabited island in Lake Pamvotis is one of the most picturesque corners of mainland Greece. A handful of monasteries scattered across the island's wooded slopes — Saint Nicholas of Filanthropinon (with extraordinary 16th-century frescoes), Saint Nicholas Stratigopoulos, Eleousa, Pantelimon — span the Byzantine and post-Byzantine eras.

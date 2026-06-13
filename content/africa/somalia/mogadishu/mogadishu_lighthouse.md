@@ -8,6 +8,7 @@ latitude: 2.03231
 longitude: 45.34531
 sources:
   - https://en.wikipedia.org/wiki/Mogadishu_Lighthouse
+score: 6.4
 ---
 
 The Mogadishu Lighthouse stands on a rocky promontory at the southern edge of the old city, marking the northern entrance to the harbour that made Mogadishu one of the most important ports on the East African coast for centuries. The current structure dates from the Italian colonial period, replacing earlier navigational aids. Its white tower is visible from the sea and from much of the southern part of the city.

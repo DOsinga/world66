@@ -8,6 +8,7 @@ tags:
   - bukit_bintang
   - bar
 story: "The bar runs on the helipad of Menara KH from sunset onwards and clears all furniture by midnight, in case a helicopter actually needs to land. The landing-circle markings double as the dance floor."
+score: 6.9
 ---
 
 A working helipad on the 34th-floor roof of Menara KH that doubles as an open-air cocktail bar from late afternoon. There is no railing — the view is straight down to the city — and the panorama of the Petronas Towers, the KL Tower, and the lit-up Bukit Bintang skyline is one of the best in the city. The whole arrangement is faintly mad and entirely typical of KL.

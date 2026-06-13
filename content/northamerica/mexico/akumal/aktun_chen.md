@@ -7,6 +7,7 @@ tags:
 - sight
 title: Aktun Chen
 type: poi
+score: 6.8
 ---
 
 Aktun Chen, about 10 minutes inland from Akumal, is one of the few large dry caves on the Riviera Maya that are open to walking visitors rather than divers. Guided tours lead through illuminated chambers of stalactites and stalagmites, ending at a small cenote where you can swim if you have brought a suit.

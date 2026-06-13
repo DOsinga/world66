@@ -8,6 +8,7 @@ tags:
 latitude: 39.2792
 longitude: -114.9900
 story: "The Liberty Pit at Ruth is approximately 1.5 miles long, 1 mile wide, and 800 feet deep — visible from space, and the second-largest open-pit copper mine in Nevada when it was producing. Kennecott shut it down in 1978 after the price of copper collapsed; it was reopened by Quadra Mining in 2004 and is now operated by KGHM Polska Miedź, the Polish state mining company."
+score: 7.3
 ---
 
 The Robinson Mine is the working successor to the historic Kennecott copper operations that built Ely. Four miles west of town on US-50, the Liberty Pit and adjoining workings are still in active production — a series of vast open-pit terraces stepped into the Egan Range. There is a public overlook on US-50 about 0.5 miles east of the town of Ruth, with interpretive signage explaining the geology and the history.

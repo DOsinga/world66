@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 6.8
 ---
 
 At the southern edge of Netanya, where the Poleg stream meets the sea, Poleg Beach is the city's surf spot. The wave is small but consistent, breaking over a sandy bottom, and the beach attracts a younger crowd of surfers, kitesurfers, and windsurfers depending on the wind.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.87389
 longitude: 8.0175
+score: 5.8
 ---
 
 The Apollo-Theater is Siegen's main theatrical venue, located in the old town near the Lower Castle. It is a mid-sized theatre seating around 600, presenting a year-round programme that includes drama, opera, musicals, and dance. The building dates from the mid-20th century and occupies a prominent position in the pedestrian area. For visitors spending more than a day in Siegen and looking for evening entertainment, it is the main option.

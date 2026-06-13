@@ -11,6 +11,7 @@ story: >
   Hemu Village sits at the confluence of two rivers in a valley that fills with morning mist so thick in autumn that only the tips of the larch trees poke through. Photographers from across China make the journey specifically for the dawn light in September and October, when the village appears to float on a cloud with golden forest behind it.
 sources:
   - https://en.wikipedia.org/wiki/Hemu_Village
+score: 8.8
 ---
 
 Hemu Village is a traditional settlement of the Tuvan people, a small Turkic community numbering only a few thousand who have lived in these mountain valleys for centuries. The village sits in a broad meadow flanked by forest and mountains about 40 km east of Kanas Lake, and feels genuinely remote even at the height of tourist season.

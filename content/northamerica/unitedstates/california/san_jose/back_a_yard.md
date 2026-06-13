@@ -7,6 +7,7 @@ tags:
 latitude: 37.3341
 longitude: -121.8810
 sources: []
+score: 7.6
 ---
 
 Back A Yard, originally a Menlo Park institution and now also at South Second Street downtown, serves the best jerk chicken in the Bay Area. The kitchen is run by Jamaican chef Donald Lewinson, who marinates and slow-grills the chicken over wood; the smoke is the soul of the dish.

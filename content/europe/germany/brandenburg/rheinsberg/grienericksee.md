@@ -9,6 +9,7 @@ latitude: 53.0960
 longitude: 12.8890
 sources:
   - https://en.wikipedia.org/wiki/Grienericksee
+score: 7.4
 ---
 
 The Grienericksee is the lake on which Rheinsberg sits, and the best view of Schloss Rheinsberg is from the water — the palace and its reflection framed by willows and the wooded shoreline. Boat rental is available in town, and canoes and kayaks can be hired to explore the connected waterway system of the Ruppiner Seenland, which links dozens of lakes through a network of canals and rivers. Swimming from the lake's shore is popular in summer.

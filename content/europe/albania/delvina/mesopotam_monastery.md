@@ -8,6 +8,7 @@ tags:
 - architecture
 title: St Nicholas Monastery, Mesopotam
 type: poi
+score: 8.2
 ---
 
 The St Nicholas Monastery at Mesopotam — five kilometres south of Delvina, on the road to Saranda — is one of the more unusual Byzantine buildings in southern Albania. Founded in the 13th century, the monastery is now ruined except for the katholikon, a stone church with a distinctive double apse and an outer wall covered in carved reliefs of animals: griffins, lions, eagles, dragons.

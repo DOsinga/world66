@@ -14,6 +14,7 @@ story: >
   predator control, slowly turning the numbers around. Today the population is recovering, 
   though the species remains critically endangered. The best place to spot iguanas is in 
   the low scrub near the salt ponds at the western end of the island.
+score: 7.3
 ---
 
 At the western end of Anegada, the salt ponds hold a small but photogenic flock of Caribbean flamingos — usually visible from the road or from the edges of the ponds. The flock has been present since the 1990s, when birds were reintroduced after the original population was hunted out. Numbers vary seasonally but a dozen or more birds are usually visible.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 54.0086
 longitude: -7.3564
+score: 7.5
 ---
 
 Cavan County Museum, housed in an old convent building in Ballyjamesduff, is the main repository of the county's history and material culture. The collection ranges from prehistoric artefacts — including the remarkable Cavan Sheela-na-Gig, a Romanesque stone carving of uncertain purpose — to medieval ecclesiastical objects, and from the Famine era through to the twentieth century.

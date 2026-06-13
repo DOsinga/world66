@@ -7,6 +7,7 @@ tags:
   - sight
 title: Statue of Avetik Isahakyan
 type: poi
+score: 5.8
 ---
 
 A large statue of Avetik Isahakyan (1875–1957), the Armenian poet and novelist who was born in Gyumri — then Alexandrapol — and is considered alongside Hovhannes Shiraz as the city's greatest literary figure. Isahakyan's poetry, mostly love lyrics and philosophical meditations, influenced generations of Armenian writers. He spent much of his life in exile in Europe and the Middle East, only returning to Soviet Armenia late in life.

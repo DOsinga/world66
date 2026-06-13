@@ -12,6 +12,7 @@ story: >
   three decades of work that included the 8.5-kilometre Otira Tunnel — at the
   time the longest tunnel in the British Empire and one of the first
   electrically operated railway tunnels in the world.
+score: 9.1
 ---
 
 The TranzAlpine is regularly listed among the world's great rail journeys: four and a half hours from Christchurch across the Canterbury Plains, up the gorge of the Waimakariri, through Arthur's Pass and the Otira Tunnel, and down to Greymouth on the West Coast. The open-air viewing carriage is the obvious place to be for the alpine sections — wind-chilled but unmatched for photography.

@@ -10,6 +10,7 @@ story: >
   Vladikavkaz means "Rule the Caucasus" — the name given by the Russian Empire when it founded the fortress city in 1784 as its main base for the conquest of the North Caucasus. The city was later renamed Ordzhonikidze after the Soviet revolutionary Sergo Ordzhonikidze, a native Ossetian, and then Vladikavkaz again after the Soviet collapse. It is one of the few Russian cities where the original imperial name was restored.
 sources:
   - https://en.wikipedia.org/wiki/Vladikavkaz
+score: 7.8
 ---
 
 Vladikavkaz sits at the foot of the main Caucasus range where the Terek River begins to widen onto the plains, and the mountains are so close that on a clear day the peaks fill the entire southern horizon. The city is the capital of North Ossetia–Alania and has around 300,000 inhabitants — a proper city, with theatres, universities, and a lively street scene centred on the long pedestrian boulevard along the river.

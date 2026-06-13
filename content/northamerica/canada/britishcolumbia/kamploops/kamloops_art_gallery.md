@@ -8,6 +8,7 @@ snippet: The largest public art gallery between the Lower Mainland and Calgary
 tags:
   - things_to_do
   - museum
+score: 7.0
 ---
 
 The **Kamloops Art Gallery** is the largest public art gallery in the BC interior, occupying a purpose-built space on Victoria Street in the centre of downtown. The collection focuses on contemporary Canadian art with a strong emphasis on Indigenous artists from across the province; rotating exhibitions typically run two or three at a time and change every couple of months.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - nature
+score: 6.5
 ---
 
 The Lancang Jiang — the upper Mekong — runs straight through Jinghong, and is the river that gives the city its character. The riverside promenade on the east bank, around the Xishuangbanna Bridge, is the city's main evening hangout: locals come for a stroll, ice creams from the carts, and views of the temple lights reflecting on the water.

@@ -6,6 +6,7 @@ latitude: 59.45
 longitude: 10.6333
 sources:
   - https://en.wikipedia.org/wiki/Jel%C3%B8ya
+score: 7.2
 ---
 
 Jeløya is the elongated island-peninsula jutting into the Oslofjord just west of Moss, connected to the town by a bridge. For a heavily industrialised area, it is surprisingly green — farmland and forest cover most of the interior, and the shoreline has sheltered coves that are popular with swimmers in summer. The coastal road offers good views across the fjord to Vestfold.

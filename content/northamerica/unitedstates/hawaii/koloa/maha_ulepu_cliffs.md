@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.875
 longitude: -159.444
+score: 8.2
 ---
 
 The Māha'ulepu coastline east of Poipū is one of the most geologically unusual landscapes on Kauai. The cliffs here are made of lithified sand dunes — ancient coastal dunes that hardened into stone over thousands of years — and the eroded surfaces contain fossils of Hawaiian birds, many of them species that went extinct after Polynesian settlement. It's a landscape that feels prehistoric even by Hawaiian standards: raw, wind-battered, and largely untouched by development.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.3297
 longitude: -79.2149
+score: 7.3
 ---
 
 Muskoka Heritage Place is an open-air living history museum on the edge of Huntsville that reconstructs life in the Muskoka district from the 1860s to the early 20th century. A cluster of restored and replica buildings — a blacksmith shop, a general store, a schoolhouse, a farmstead — are staffed by interpreters in period dress who demonstrate the trades and daily routines of early settlers.

@@ -8,6 +8,7 @@ latitude: -20.4526
 longitude: 57.3681
 story: >
   The name "varangue" refers to the wide covered veranda that wraps around traditional Mauritian Creole houses — a shaded outdoor space designed for the island's climate. The restaurant leans into this heritage, with its open-sided terrace design directly echoing the colonial plantation architecture of the surrounding region.
+score: 6.9
 ---
 
 Varangue sur Morne is a long-established restaurant on the edge of the Black River Gorges area, with one of the most dramatic views in Mauritius — the terrace looks directly over the forested gorge and out toward the Le Morne peninsula and the lagoon. On a clear day the panorama stretches for many kilometres.

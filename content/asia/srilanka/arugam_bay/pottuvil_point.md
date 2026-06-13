@@ -7,6 +7,7 @@ tags:
   - surfing
 title: Pottuvil Point
 type: poi
+score: 7.9
 ---
 
 Pottuvil Point sits about 10 km north of the main bay, near the town of Pottuvil, and offers a longer ride than Arugam Point with significantly fewer people in the water. The wave is a right-hander that breaks over a shallow reef — it needs a solid swell to work, but when conditions align it delivers rides of 200 metres or more.

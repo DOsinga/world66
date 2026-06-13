@@ -8,6 +8,7 @@ snippet: "Lakeside craft brewery on Lake Flower"
 tags:
 - bars_and_cafes
 - bar
+score: 5.8
 ---
 
 The Blue Line Brewery sits right on Lake Flower at the southern end of the village, with a deck and a proper waterfront in summer. The brewery name is a reference to the boundary of the Adirondack Park, which is marked on official maps by a blue line. The house range covers IPAs, lagers, and seasonal beers; pours of all sizes are available, and many beers are brewed in small enough batches that you cannot find them anywhere else.

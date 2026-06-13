@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 8.7000
 longitude: 0.7833
+score: 4.8
 ---
 
 The village of Fazao, on the western edge of the park, is the practical base for visits. The park headquarters here handles entrance fees, ranger assignments, and the simple camp where most overnight visitors stay. The village itself is small and friendly, with a couple of buvettes serving cold drinks and grilled food.

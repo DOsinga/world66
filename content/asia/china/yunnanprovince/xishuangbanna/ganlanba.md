@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 8.8
 ---
 
 Ganlanba — the "Olive Plains" — is a wide flat valley along the Lancang River about 35 km southeast of Jinghong, and the most concentrated area of traditional Dai villages in the prefecture. The valley floor is patchworked with rice paddies, banana plantations, and wooden stilt houses; over a dozen villages cluster within a 10 km radius, each with its own monastery, white stupa, and main hall.

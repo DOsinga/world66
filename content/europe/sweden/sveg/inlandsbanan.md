@@ -13,6 +13,7 @@ story: >
   as a tourist railway during the summer months, running some 1,300 kilometres
   from Mora in Dalarna to Gällivare above the Arctic Circle — one of the
   longest scenic rail journeys in Scandinavia.
+score: 7.3
 ---
 
 The Inlandsbanan, or Inland Railway, passes through Sveg on its summer journey through the Swedish north, and the station here is one of the natural stopping points on a journey that many rail enthusiasts consider among the finest in Scandinavia. The line runs through boreal forest, across high plateaus, and past rivers and lakes that see almost no other visitors.

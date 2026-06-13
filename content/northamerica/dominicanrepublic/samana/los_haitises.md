@@ -11,6 +11,7 @@ tags:
 - sight
 title: Los Haitises National Park
 type: poi
+score: 8.8
 ---
 
 On the southern side of Samaná Bay, Los Haitises National Park is a wonderland of mangrove-lined inlets, vertical limestone karst islands rising from the water, and dark caves that once sheltered Taíno communities. Boat trips from Samaná cross the bay (about 90 minutes) and then weave through the channels between the karst islands.

@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 37.4278
 longitude: 24.8648
+score: 5.9
 ---
 
 Iliovasilema (the name means "sunset" in Greek) is a fish taverna in Kini village, right on the waterfront where the fishing boats dock. The fish comes straight from the local fleet, and sitting here with grilled sea bream and a glass of Syriot white wine as the sun descends into the Aegean is about as good as simple pleasures get.

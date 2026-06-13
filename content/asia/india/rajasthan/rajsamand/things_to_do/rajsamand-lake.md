@@ -1,6 +1,7 @@
 ---
 title: "Rajsamand Lake"
 type: poi
+score: 7.6
 ---
 
 Rajsamand Lake is one of the largest artificial lakes in India, constructed between 1662 and 1676 by Maharana Raj Singh I of Mewar. The maharana ordered the dam built partly as a famine-relief project, employing tens of thousands of workers during a period of drought; the resulting reservoir stretches for about 10 km and holds an enormous volume of water that has sustained the surrounding countryside for more than three centuries.

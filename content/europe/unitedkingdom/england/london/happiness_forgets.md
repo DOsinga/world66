@@ -11,6 +11,7 @@ tags:
 title: Happiness Forgets
 type: poi
 url: www.happinessforgets.com
+score: 7.6
 ---
 
 Happiness Forgets is a small basement bar under Hoxton Square that has been one of London's most respected cocktail bars since it opened in 2010. The room holds around 30 people, the drinks are carefully made classics without theatrics, and the bar team is knowledgeable without being intimidating. Reservations are available for groups; solo or pairs can walk in and hope for space at the bar.

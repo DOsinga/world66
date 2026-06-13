@@ -9,6 +9,7 @@ tags:
   - jardins
 neighbourhood: Jardins
 snippet: "The grand Italian institution of the Jardins, in the lobby of the Fasano hotel"
+score: 7.4
 ---
 
 The Fasano family has been in the restaurant business in São Paulo since 1902, and the flagship restaurant in the basement lobby of the Hotel Fasano is the institutional heart of the operation. The dining room is dark wood, leather banquettes, white linen, and the menu is precise upper-end northern Italian — handmade pasta, truffles in season, a long list of Italian and Brazilian wines, and the famous suckling pig.

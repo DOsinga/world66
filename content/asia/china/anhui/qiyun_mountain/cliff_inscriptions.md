@@ -8,6 +8,7 @@ latitude: 29.8090
 longitude: 118.0325
 story: >
   Among the hundreds of inscriptions covering the cliff faces, visitors can find the handwriting of Li Bai, the Tang dynasty's most celebrated poet, alongside work by Tang Yin and Yu Dafu. The practice of carving one's name and a few verses into the rock continued for well over a thousand years, turning the mountain's red sandstone into an open-air archive of literary ambition and official achievement.
+score: 5.1
 ---
 
 The sandstone cliffs of Qiyun Mountain are covered in carved inscriptions that span more than a millennium of Chinese literary and official culture. Over four hundred carved texts have been identified, ranging from the brief — a name, a date, a couplet of poetry — to lengthy commemorative texts recording significant visits and religious acts. The effect is cumulative: walking through the cliff paths feels like moving through layers of history rather than simply climbing a mountain.

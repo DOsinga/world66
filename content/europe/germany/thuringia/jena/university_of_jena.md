@@ -9,6 +9,7 @@ latitude: 50.9283
 longitude: 11.5822
 story: >
   In the 1790s, Friedrich Schiller, Goethe, Fichte, Hegel, Schelling, and the Schlegel brothers were all at Jena simultaneously — a concentration of intellectual firepower that has almost no parallel in German history. Hegel wrote the Phenomenology of Spirit here in 1806, reportedly completing the final pages on the night before the Battle of Jena as Napoleon's guns were audible outside the window.
+score: 8.3
 ---
 
 Friedrich Schiller University is one of Germany's oldest universities, founded in 1558, and the intellectual centre of the city. The main building on the Fürstengraben is a handsome Baroque structure, and the surrounding university quarter contains several other notable buildings including the Collegium Jenense, housed in a former Dominican monastery.

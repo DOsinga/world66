@@ -9,6 +9,7 @@ longitude: 113.561
 sources:
   - https://en.wikipedia.org/wiki/Coloane
   - https://en.wikipedia.org/wiki/Alto_de_Coloane
+score: 7.3
 ---
 
 The 8 km Coloane Trail is the island's main hiking route, threading through secondary forest and up to Alto de Coloane — at 172 metres, the highest point in Macau. At the summit stands a large white statue of A-Ma, the patron deity of Macau (and the figure whose name the Portuguese corrupted into "Macau" itself). The statue, opened in 1998, is visible from much of the island and from across the water into China.

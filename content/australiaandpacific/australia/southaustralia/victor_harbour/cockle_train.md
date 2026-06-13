@@ -12,6 +12,7 @@ story: >
   Originally built to move wool from the Murray River ports at Goolwa to the
   whaling ships at Victor Harbor, it predates the Adelaide railway network.
   The line is now heritage-listed and operated by volunteers.
+score: 7.8
 ---
 
 The Cockle Train is a heritage steam railway that runs the 30-km coastal route between Victor Harbor and Goolwa, following the Encounter Bay shoreline through native scrub and beach country. The service operates on weekends and South Australian school holidays, with additional summer services. The return journey takes about three hours including time at Goolwa, which has a good pub and the Murray River estuary.

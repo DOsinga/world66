@@ -8,6 +8,7 @@ tags:
   - museum
 sources:
   - https://en.wikipedia.org/wiki/Stykkish%C3%B3lmur
+score: 7.5
 ---
 
 The Norwegian House — Norska húsið in Icelandic — is the oldest timber-framed building in Iceland, built in 1832 by a Norwegian merchant and restored to serve as a local history museum and cultural centre. The building stands in the harbour area and is recognisable by its distinctive wooden construction, unusual in a country that has historically built in turf and stone.

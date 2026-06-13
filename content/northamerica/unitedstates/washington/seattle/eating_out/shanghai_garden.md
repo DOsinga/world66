@@ -10,6 +10,7 @@ tags:
 neighbourhood: International District
 sources:
   - https://en.wikipedia.org/wiki/Shanghai_Garden_Restaurant
+score: 6.7
 ---
 
 Shanghai Garden is the best known Chinese restaurant in the International District, celebrated specifically for its hand-shaved noodles — thick, irregular ribbons cut to order from a block of dough and dropped straight into the wok. The dish to order is the shaved noodles with seafood, though the pea shoots with garlic and the Peking pork chops have their partisans.

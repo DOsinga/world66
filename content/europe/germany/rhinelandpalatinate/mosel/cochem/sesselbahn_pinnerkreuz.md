@@ -8,6 +8,7 @@ latitude: 50.1487
 longitude: 7.1613
 sources:
   - https://cochemer-sesselbahn.de/en/
+score: 7.9
 ---
 
 The Cochem chairlift — the Sesselbahn — runs from Endertstrasse up to the ridge above the town, covering around 255 metres of altitude in about 20 minutes. It operates from spring through autumn and the ride itself is worth taking: the views of the Mosel river, the castle, and the vine-covered slopes open up quickly as you climb.

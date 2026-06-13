@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.3268
 longitude: -79.2184
+score: 6.4
 ---
 
 Huntsville's Main Street runs a short stretch from the Muskoka River bridge up through the old commercial core, with a decent mix of independent shops, cafes, and restaurants that survive year-round rather than closing when the cottagers leave in September. The street is worth a wander for an hour — there are bookshops, a few galleries selling cottage-country art, and a handful of places to get a proper coffee.

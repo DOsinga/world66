@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sozh River Embankment
 type: poi
+score: 7.0
 ---
 
 The embankment along the Sozh River is where Gomel takes its best form. Below the palace bluff, a promenade runs along the water's edge — shaded, quiet in the mornings, used by joggers and families in the evenings. The river is wide and slow-moving here, and the view back up to the palace and cathedral on the cliff is the city's most attractive angle.

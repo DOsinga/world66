@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - sight
 story: The Napa Valley Wine Train uses Pullman dining cars built in 1915 and 1917, pulled by 1950s-era diesel locomotives. The route — Napa to St. Helena and back — follows the original 1864 railway that hauled out wine and brought in tourists when the valley was just discovering itself.
+score: 6.3
 ---
 
 The Napa Valley Wine Train runs vintage Pullman dining cars on a 36-mile round trip from downtown Napa to St. Helena and back, with multi-course meals served en route. It's a kitschy, pleasantly slow alternative to driving the valley, and the views from the curtained windows — vineyards, oak woodlands, the volcanic ridges to the east — are part of the appeal.

@@ -7,6 +7,7 @@ tags:
 snippet: "The island's capital and ferry port — functional, not a destination"
 latitude: 16.323
 longitude: -86.537
+score: 5.7
 ---
 
 Coxen Hole is the largest town on Roatán, the capital of the Bay Islands department, and where the daily ferry from La Ceiba docks. It is not a tourist destination in itself — a low-rise grid of supermarkets, ATMs, government offices, the central market, and the cruise port at Mahogany Bay — but most visitors pass through at least once, either coming off the ferry or buying supplies the resort shops don't carry.

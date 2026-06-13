@@ -11,6 +11,7 @@ story: Ksamil was a farming and fishing village until the 1990s, when the fall o
   — reachable by swimming or a short kayak — were once entirely uninhabited and used
   only by shepherds. They now have beach bars, but the water between them is still
   extraordinary.
+score: 8.3
 ---
 
 Ksamil is a beach village 14 km south of Saranda with the best beaches in the immediate area: small sandy coves with water that shifts from turquoise to deep blue, and three small islands just offshore that can be reached by swimming or kayak. It is very popular in July and August — package holiday crowds from across the Balkans fill the beach bars and sunbeds — but outside peak season it is much more manageable.

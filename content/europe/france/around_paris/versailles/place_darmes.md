@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.80361
 longitude: 2.125
+score: 6.8
 ---
 
 The Place d'Armes is the great forecourt that opens in front of the Royal Gate, where three avenues from Paris, Sèvres, and Saint-Cloud converge in a trident on the palace entrance. It is the first thing you see arriving from the town, and the approach is designed to impress: the two great stable buildings (Grande and Petite Écurie) flank the square symmetrically, and beyond the gilded gate the palace rises at the end of the Cour d'Honneur.

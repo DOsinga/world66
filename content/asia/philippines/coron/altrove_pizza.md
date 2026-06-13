@@ -8,6 +8,7 @@ address: Don Pedro St, Coron, Palawan
 latitude: 11.9961
 longitude: 120.2032
 snippet: Italian-run wood-fired pizza, often called the best in Palawan
+score: 6.7
 ---
 
 Altrove is a small open-air pizzeria run by an Italian family who imported their wood-fired oven and refuse to compromise on it. The dough is naturally fermented, the toppings minimal, and the resulting pizzas — the Margherita and the Nduja are reliable picks — are routinely cited as the best in the Philippines outside Manila.

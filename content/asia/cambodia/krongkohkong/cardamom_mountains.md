@@ -9,6 +9,7 @@ latitude: 11.7500
 longitude: 103.2000
 story: >
   The Cardamoms were partly off-limits to outsiders for decades — they were one of the last redoubts of the Khmer Rouge through the 1990s. As a result, the forest came through the deforestation boom in better shape than almost anywhere else in mainland Southeast Asia. Elephants, sun bears, gibbons, clouded leopards, and a small population of Indochinese tigers still live in the range.
+score: 7.2
 ---
 
 The Cardamoms rise immediately behind Koh Kong and run north and east for nearly 400 kilometres, covering close to 4.4 million hectares of rainforest, river, and waterfall. They are one of the largest and most biologically intact wildernesses in Southeast Asia, with elephants, sun bears, gibbons, and an estimated population of clouded leopards.

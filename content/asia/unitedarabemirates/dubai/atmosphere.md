@@ -7,6 +7,7 @@ tags:
 - downtown_dubai
 title: At.mosphere
 type: poi
+score: 6.8
 ---
 
 At.mosphere on the 122nd floor of the Burj Khalifa holds the Guinness World Record as the world's highest restaurant and bar. At 422 metres above ground, the views extend over the Gulf, the Palm, and on clear days far into the desert. The lounge section serves drinks and snacks with a minimum spend that is steep but not outrageous for what it is.

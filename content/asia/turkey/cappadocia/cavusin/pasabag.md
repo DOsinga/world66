@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "Pasabag is sometimes called Monks Valley because individual ascetics carved hermits' cells into the tops of the fairy chimneys here. The highest cell, used by a Saint Simeon, was reached only by a long rope ladder pulled up after the monk had entered."
+score: 8.2
 ---
 
 About a kilometre north of Çavuşin, Pasabag is one of the densest concentrations of fairy chimneys in Cappadocia — tall conical pillars of volcanic tuff with darker basalt boulders perched on top. The chimneys here have multiple "heads" stacked one above another, an unusual configuration.

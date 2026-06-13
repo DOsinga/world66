@@ -11,6 +11,7 @@ story: >
   county seat, Nevadaville is almost completely deserted today — except for
   the Masonic Lodge No. 4, which has continued to hold meetings in the same
   building since 1861.
+score: 7.3
 ---
 
 A short drive (or roughly an hour's walk uphill) from Central City brings you to Nevadaville, an abandoned mining camp in a high gulch. Most of the wooden buildings have collapsed back into the meadow, but a handful of brick and stone structures still stand — the Masonic hall, the firehouse, several house ruins — scattered along a single dirt road.

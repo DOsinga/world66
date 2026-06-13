@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.6328
 longitude: 103.4719
+score: 6.6
 ---
 
 Koh Pos is the small island just off the headland of Sihanoukville, joined to the mainland by a long road bridge. The island was earmarked for a major Chinese tourist development that stalled; most of the surface is empty and the headline resorts unfinished.

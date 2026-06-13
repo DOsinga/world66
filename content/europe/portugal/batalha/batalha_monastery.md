@@ -9,6 +9,7 @@ latitude: 39.6592
 longitude: -8.8261
 story: >
   King João I vowed during the Battle of Aljubarrota on 14 August 1385 that if the Virgin granted Portuguese victory over the much larger Castilian army, he would build her a great church. Portugal won — and the king kept his word. Construction began the following year, continued for over 150 years across seven royal reigns, and was abandoned unfinished in the sixteenth century. The work of the chief architect Mateus Fernandes on the Capelas Imperfeitas — the Unfinished Chapels — is some of the most ambitious stone carving ever attempted in Europe.
+score: 9.6
 ---
 
 The Monastery of Batalha — formally Santa Maria da Vitória — is the single most important Gothic building in Portugal and a UNESCO World Heritage Site since 1983. Begun in 1386 by João I as a thank-offering for victory over Castile, it took 150 years to build, employed seven master architects, and was finally left unfinished in the early sixteenth century when royal attention turned to the Jerónimos Monastery in Lisbon. The fact that it is incomplete is part of its drama.

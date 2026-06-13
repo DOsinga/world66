@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Royal hall said to hold relics of the Prophet — closed to non-Muslims
+score: 7.7
 ---
 
 Built by Muhammad Adil Shah in 1646 as a courthouse and later converted into a sacred reliquary said to house hairs from the Prophet's beard. The main hall is fronted by a deep arched porch overlooking a stone tank, where royal women would gather to take the air. The interior is decorated with mural paintings — among the few surviving examples of Adil Shahi figurative work.

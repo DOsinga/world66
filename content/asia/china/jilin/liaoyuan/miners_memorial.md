@@ -9,6 +9,7 @@ latitude: 42.8976
 longitude: 125.1381
 story: >
   During the Japanese occupation of Manchuria from 1931 to 1945, Liaoyuan's coal mines were run under a system of forced labour that killed thousands of Chinese workers through accidents, disease, and deliberate brutality. The mines were essential to the Japanese war economy, producing some three million tonnes of coal annually at peak production. These memorial tombs mark the resting place of workers who did not survive, in a city that grew wealthy on their labour.
+score: 7.4
 ---
 
 The memorial tombs commemorating miners who died under Japanese occupation sit in a sober, landscaped setting that gives weight to a chapter of Liaoyuan's history that is easy to overlook amid the city's post-industrial reinvention. The graves mark the remains of Chinese workers — some forced labourers, some contracted workers who had few real alternatives — who died in the mines during the years Manchuria was administered as a Japanese puppet state.

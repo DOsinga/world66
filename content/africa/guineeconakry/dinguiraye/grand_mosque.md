@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "El Hadj Umar Tall declared his jihad from Dinguiraye in 1852, launching from this mosque a campaign that would eventually conquer most of present-day Mali and parts of Guinea, Senegal, and Mauritania. His son Ahmadu Tall continued the empire from Bandiagara until the French defeated it in 1893. The mosque is the spiritual headquarters of the Tijaniyya Sufi order in the western Sahel."
+score: 8.7
 ---
 
 The Grande Mosquée de Dinguiraye is one of the most important Islamic sites in West Africa — founded by El Hadj Umar Tall (1797–1864) in the 1840s as the religious base for his Tijaniyya Sufi order and the launching pad for the jihad that built the Toucouleur Empire across the Senegambia and the upper Niger.

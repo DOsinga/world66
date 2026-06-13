@@ -10,6 +10,7 @@ story: >
   The cathedral preserves something that most Gothic cathedrals have lost: traces of the original polychrome decoration. The west facade's sculpted figures were once painted in bright colours — reds, blues, golds, greens. At night during the summer months, a light projection called "La Cathédrale en Couleurs" restores these colours digitally onto the stone facade, giving an approximation of how it looked in the thirteenth century when it was new. The effect is startling: what appears as pale, solemn Gothic stone becomes something closer to an illuminated manuscript.
 sources:
   - https://en.wikipedia.org/wiki/Amiens_Cathedral
+score: 9.3
 ---
 
 Amiens Cathedral is the largest Gothic cathedral in France by interior volume and one of the most ambitious of all medieval building projects. Work began in 1220 and the main structure was complete within a remarkably short fifty years — a speed of construction that gives the building an architectural unity rare in great Gothic churches. The result is High Gothic at its purest: soaring nave, the most intricate of flying buttresses, west facade dense with sculpture, and an interior of extraordinary vertical drama.

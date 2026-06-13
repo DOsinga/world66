@@ -6,6 +6,7 @@ longitude: 3.0708
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 Riadh El Feth is a large cultural and commercial complex built in the 1980s on the ridge below the Martyrs' Memorial. It contains an arts centre, exhibition halls, restaurants, craft shops selling Algerian artisanry, and one of the better bookshops in the city. The complex is architecturally ambitious if not entirely successful — a brutalist plateau at the top of a long escalator that rises from the lower city.

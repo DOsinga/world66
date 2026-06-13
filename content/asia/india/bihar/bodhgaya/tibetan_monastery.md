@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 24.6953
 longitude: 84.9892
+score: 7.8
 ---
 
 The Tibetan monasteries cluster around Bodh Gaya in several distinct compounds, and the Tergar Monastery is among the largest and most active. It belongs to the Kagyu school of Tibetan Buddhism and hosts large gatherings of Tibetan monks and laypeople, particularly in December and January when the weather is cool and the pilgrimage season peaks.

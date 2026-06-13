@@ -6,6 +6,7 @@ longitude: 6.1956
 tags:
   - eating_out
   - market
+score: 6.8
 ---
 
 The Saturday morning market on the Groenmarkt is the best place in Zutphen to eat well and cheaply. Local farmers bring Achterhoek cheeses (the region makes some of the best farmhouse Gouda in the Netherlands), smoked meats, bread, and seasonal produce. There are several hot-food stalls — herring, stroopwafels, Indonesian snacks — that make a satisfying market breakfast.

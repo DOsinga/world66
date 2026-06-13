@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -19.9890
 longitude: 23.4210
+score: 6.1
 ---
 
 Riley's Hotel is Maun's oldest establishment and still one of its most atmospheric. The original hotel was founded in the 1930s by Harry Riley, one of the area's earliest settlers, and the current property retains something of that frontier character even after various renovations. The riverside setting, with large trees shading the terrace and the Thamalakane below, is genuinely pleasant.

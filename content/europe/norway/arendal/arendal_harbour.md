@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 58.4617
 longitude: 8.7680
+score: 7.2
 ---
 
 The harbour is the centre of Arendal's social life, particularly in summer. Wooden boats — some classic old motor launches, some sailboats, the occasional restored vintage vessel — fill the berths along the quayside, and the waterfront restaurants and cafes are busy from mid-morning until late in the long Norwegian evenings.

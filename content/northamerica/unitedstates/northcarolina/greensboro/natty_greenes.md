@@ -7,6 +7,7 @@ tags:
   - bars_and_cafes
   - bar
 snippet: Long-running downtown brewpub named for the city's namesake general
+score: 5.9
 ---
 
 Natty Greene's was one of the first downtown brewpubs in Greensboro and has been a fixture since 2004. The taps run to ten or twelve house beers — the Buckshot Amber Ale and the Old Town Brown are reliable defaults — and the kitchen does straightforward American pub food.

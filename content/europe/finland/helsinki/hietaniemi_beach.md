@@ -5,6 +5,7 @@ tags: [things_to_do, beach]
 snippet: The city centre beach, packed on any warm summer afternoon
 latitude: 60.176944
 longitude: 24.913056
+score: 6.1
 ---
 
 Helsinki's main city-centre beach, on the northwest side of the peninsula opposite the Lauttasaari bridge. A long arc of sand backed by a grass park, with volleyball courts, a beach café, and a Hietsu paviljonki bar at the back. On a warm summer weekend the entire grass is taken; on a cooler day you can find a quiet patch.

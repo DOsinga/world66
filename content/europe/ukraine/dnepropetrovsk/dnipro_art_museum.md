@@ -7,6 +7,7 @@ tags:
 snippet: "Fine arts collection from the 16th century to today, including Aivazovsky and Repin"
 latitude: 48.457
 longitude: 35.055
+score: 6.9
 ---
 
 Founded in 1914 to mark the centenary of poet Taras Shevchenko's birth, the Dnipro Art Museum holds around 8,500 works spanning the 16th to 21st centuries — paintings, drawings, sculptures, and decorative objects, with a particular emphasis on Russian and Ukrainian art. Landscape seascapes by Ivan Aivazovsky and genre paintings by Ilya Repin sit alongside works by local symbolist Mikhail Sapozhnikov, who was born in the city when it was still called Katerynoslav.

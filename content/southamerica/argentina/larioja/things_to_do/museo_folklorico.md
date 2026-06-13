@@ -1,6 +1,7 @@
 ---
 title: "Museo Folklórico"
 type: poi
+score: 7.2
 ---
 
 The Museo Folklórico is the best museum in the city and one of the better regional folk museums in the northwest of Argentina. It occupies a colonial house a short walk from the main plaza and contains a well-displayed collection of religious art, pre-Columbian ceramics, weavings, and crafts from across La Rioja province. The building itself — a low, whitewashed structure arranged around an internal courtyard — is worth seeing.

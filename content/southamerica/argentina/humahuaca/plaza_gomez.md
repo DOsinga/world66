@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "At noon each day a life-size mechanical figure of San Francisco Solano emerges from the cabildo's clock tower, raises his hand in blessing, and retreats. Locals and a small crowd of tourists time their lunch around it. The figure was installed in the 1940s and the mechanism has been repaired more often than replaced."
+score: 7.9
 ---
 
 The town's small main square is centred on a statue of Coronel Manuel Álvarez Prado, a local independence-era figure. On the eastern side stands the old cabildo (town hall), a stout whitewashed building whose clock tower is the most photographed spot in Humahuaca after the monument up the hill.

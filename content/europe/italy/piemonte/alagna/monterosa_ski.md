@@ -9,6 +9,7 @@ latitude: 45.8539
 longitude: 7.9372
 story: >
   Alagna's reputation as "Freeride Paradise" dates from the 1990s when a small but influential community of off-piste skiers and snowboarders began spreading word about the quality and quantity of untracked powder on Monte Rosa's southern flanks. The combination of a high cable car (reaching nearly 3,000 metres) and steep, largely ungroomed terrain below creates ideal conditions after a snowfall. The Monterosa Ski area was later developed to formalise the connection between Alagna, Gressoney, and Champoluc — three valleys, one connected lift system.
+score: 8.1
 ---
 
 The Monterosa Ski area links three Italian Alpine valleys — Valsesia (Alagna), Gressoney, and Ayas (Champoluc) — across a network of lifts and pistes that reaches up to the Indren glacier at nearly 3,300 metres. The key lift from Alagna is the cable car to Punta Indren, which opens up both groomed runs and the extensive off-piste terrain that has made the area famous.

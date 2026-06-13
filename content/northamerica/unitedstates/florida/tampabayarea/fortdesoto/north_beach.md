@@ -5,6 +5,7 @@ latitude: 27.6386
 longitude: -82.7325
 tags: [things_to_do, beach]
 story: North Beach has been named the number one beach in the United States more than once by TripAdvisor and the late "Dr. Beach" Stephen Leatherman. The shallow lagoon on its inner curve stays warm and ankle-deep for hundreds of feet, which is why families with small children plant umbrellas here year after year.
+score: 7.8
 ---
 
 The horseshoe of white sand at the north end of Mullet Key is the park's flagship beach and the one that ends up on best-of lists every few years. The shape of the shoreline creates a sheltered inner lagoon where the water is calm and waist-deep a long way out, ideal for small kids and floaters. The outer Gulf side has more surf and is better for walking and shell-hunting at low tide.

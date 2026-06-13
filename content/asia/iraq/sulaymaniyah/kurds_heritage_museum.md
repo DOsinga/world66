@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.5563
 longitude: 45.4402
+score: 7.1
 ---
 
 The Kurd's Heritage Museum occupies a traditional building on Mawlawi Street in the old city centre and documents Kurdish material culture, folk traditions, and daily life from the late Ottoman period through the twentieth century. The collection focuses on objects — clothing, tools, weapons, musical instruments, household items — that represent the Kurdish way of life before the upheavals of the modern era.

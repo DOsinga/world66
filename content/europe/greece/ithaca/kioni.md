@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4475
 longitude: 20.6889
+score: 8.5
 ---
 
 Kioni is one of the prettiest villages in the Ionian — a horseshoe of stone-and-stucco houses around a small harbour on the north-east coast. Three ruined windmills stand on the headland at the entrance to the bay, the most photographed image on Ithaca after Odysseus himself.

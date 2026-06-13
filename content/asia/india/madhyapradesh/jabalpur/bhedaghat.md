@@ -14,6 +14,7 @@ story: The Marble Rocks gorge was described by 19th-century British officers as 
   the most extraordinary grandeur and beauty." The marble here is not the architectural
   variety but dolomite limestone that has been polished by millennia of river action
   into smooth, gleaming white and grey walls.
+score: 9.1
 ---
 
 Bhedaghat, about 25 km south of Jabalpur, is where the Narmada River flows through a narrow gorge of gleaming white marble cliffs rising up to 30 metres on either side. Boat rides through the two-kilometre gorge are available throughout the day, but the experience at full moon or just before sunset, when the marble reflects orange and pink light, is spectacular. The gorge ends at the Dhuandhar Falls ("smoke cascade"), where the river drops about 10 metres in a burst of spray visible and audible from the cliffs above.

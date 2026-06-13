@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 9.1
 ---
 
 The 2,700-seat concert hall at the heart of the Ciudad Universitaria, designed by Carlos Raúl Villanueva and dedicated in 1953. The hall's signature feature is the **ceiling of 31 floating Calder clouds** — multicoloured curved acoustic panels suspended at varying heights, painted by Alexander Calder, that scatter sound and create one of the great visual statements of mid-century modernism.

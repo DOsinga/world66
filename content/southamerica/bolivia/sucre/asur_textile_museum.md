@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: Indigenous weaving traditions of the Jalq'a and Tarabuco peoples
+score: 9.1
 ---
 
 The Museo de Arte Indígena ASUR (Antropólogos del Surandino) is one of the best ethnographic museums in South America. It documents the two indigenous textile traditions of the Sucre region — the Jalq'a, whose dense black-and-red cloths swarm with phantasmagorical animals from the underworld, and the Tarabuco, whose finer, more orderly weavings tell stories of farming, ritual, and conquest. The contrast between the two cultures, who live within 100 km of each other, is striking.

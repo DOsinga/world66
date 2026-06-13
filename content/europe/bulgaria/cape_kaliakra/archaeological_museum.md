@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 43.3608
 longitude: 28.4648
+score: 6.9
 ---
 
 The small museum at Cape Kaliakra is built directly into the cliffside, a cave-like space hung with finds from the medieval fortress and earlier Thracian and Greek settlements: amphorae, jewellery, weapons, fragments of mosaics, and Byzantine coins from the city that stood here.

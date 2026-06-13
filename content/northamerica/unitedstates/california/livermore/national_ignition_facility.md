@@ -8,6 +8,7 @@ tags:
 - landmark
 title: National Ignition Facility
 type: poi
+score: 7.8
 ---
 
 A football-stadium-sized facility inside Lawrence Livermore National Lab housing the world's largest and highest-energy laser — 192 beams focused on a tiny target the size of a peppercorn. The aim is inertial confinement fusion: replicating the conditions inside a star long enough for the hydrogen in the target to fuse and release energy.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Private cedar-lined hot tubs over the Shotover River
+score: 7.8
 ---
 
 Cedar-clad private hot tubs perched on a hillside above the Shotover River, ten minutes from Queenstown by car. Each tub is in its own enclosure, the front wall folds down to open onto the canyon view, and the water is filtered hot spring-style mineral water at body temperature. Booked by the hour, by the tub, with champagne if you want it.

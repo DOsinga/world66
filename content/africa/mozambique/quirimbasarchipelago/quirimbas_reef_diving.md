@@ -13,6 +13,7 @@ story: >
   upwellings along the outer edge of the shelf kept water temperatures slightly lower
   than the surrounding ocean. This resilience is one reason the reef fish biomass here
   remains so high.
+score: 8.8
 ---
 
 The coral reefs running the length of the Quirimbas Archipelago are among the least disturbed in the western Indian Ocean. The outer walls of the reef system drop steeply to 40 metres and beyond, with good hard coral cover, abundant reef fish, and regular visits from green and hawksbill turtles. The visibility is typically 15-30 metres depending on tidal conditions.

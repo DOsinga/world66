@@ -9,6 +9,7 @@ longitude: 36.563
 story: >
   The Mursi people are perhaps the most photographed in the Omo valley, primarily because of the lip plates worn by Mursi women — large ceramic or wooden discs inserted into a slit cut in the lower lip. The practice is a marker of adult female identity and has been the subject of more tourist cameras than most Mursi women are comfortable with. Many visitors arrive on day trips from Jinka specifically to photograph the Mursi, and the dynamic has become exploitative enough that thoughtful travellers should consider carefully how they engage.
 sources: []
+score: 9.1
 ---
 
 The lower Omo valley is home to a remarkable concentration of distinct indigenous peoples — the Mursi, Hamer, Karo, Daasanach, Bodi, Nyangatom, and others — who have maintained traditional ways of life that differ significantly from each other as well as from the outside world. The UNESCO-listed Omo valley cultural landscape is often described as one of the most ethnically diverse areas of comparable size on earth.

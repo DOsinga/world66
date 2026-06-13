@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.9736
 longitude: -93.2575
+score: 6.4
 ---
 
 U.S. Bank Stadium opened in 2016 as the home of the Minnesota Vikings NFL team, replacing the Metrodome that had occupied the same block since 1982. The building — designed by HKS Architects — has a translucent roof of ETFE plastic panels that admits natural light while keeping weather out, and five of its walls are transparent, giving views both into and out of the stadium from the surrounding streets.

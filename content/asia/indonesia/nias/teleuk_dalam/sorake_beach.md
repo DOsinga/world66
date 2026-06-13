@@ -8,6 +8,7 @@ tags:
   - beach
 title: Sorake Beach
 type: poi
+score: 7.2
 ---
 
 Sorake Beach is the western half of Lagundri Bay, and the place from which the famous Nias right-hander breaks. The sand here is shallow and not really for swimming — the reef is too close — but the small wooden surf losmen lined up along the shore form the social heart of the bay. Boards lie stacked on every porch, fish grill on every back yard, and the tide tables on the walls are checked more often than the clock.

@@ -15,6 +15,7 @@ story: >
   American in Portuguese art, painted around 1530.
 sources:
   - https://en.wikipedia.org/wiki/Gr%C3%A3o_Vasco_National_Museum
+score: 8.5
 ---
 
 The Grão Vasco National Museum occupies the former bishop's palace next to the cathedral on the Adro da Sé. It's one of the finest regional museums in Portugal, with a collection that centres on the Flemish-influenced Portuguese Renaissance painting of Vasco Fernandes and his school, who worked in Viseu in the early 16th century.

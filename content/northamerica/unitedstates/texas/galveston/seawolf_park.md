@@ -10,6 +10,7 @@ tags:
 address: Seawolf Park, Pelican Island, Galveston, TX
 sources:
   - https://en.wikipedia.org/wiki/Seawolf_Park
+score: 7.1
 ---
 
 Seawolf Park sits on Pelican Island, accessible by a short causeway from Galveston's north shore, and is home to two preserved World War II vessels: the USS Cavalla, a submarine that sank the Japanese carrier Shokaku in 1944, and the USS Stewart, a destroyer escort. Both are open to visitors who can explore the cramped interiors and understand something of the conditions in which their crews operated.

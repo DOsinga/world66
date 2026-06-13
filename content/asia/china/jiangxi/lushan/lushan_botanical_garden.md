@@ -6,6 +6,7 @@ latitude: 29.5500
 longitude: 115.9819
 story: >
   Lushan Botanical Garden was founded in 1934 and is one of China's oldest mountain botanical research stations. During the Second World War, staff hid the most valuable plant specimens in caves on the mountain to protect them from Japanese forces, and the collection survived the occupation intact. The garden specialises in Sino-Himalayan flora and maintains one of China's most comprehensive collections of rhododendrons — over 400 species and cultivars.
+score: 7.2
 ---
 
 The Lushan Botanical Garden (庐山植物园) sits at around 1,000 metres elevation and houses a substantial collection of alpine and temperate plants adapted to the mountain's climate. The rhododendron collection alone is worth the visit in late April and May, when hundreds of varieties bloom simultaneously across the upper slopes. The garden also maintains collections of conifers, Chinese medicinal plants, and ornamental trees from across the Sino-Himalayan belt.

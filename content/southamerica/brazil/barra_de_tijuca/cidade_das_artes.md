@@ -15,6 +15,7 @@ story: >
   interruption. The main concert hall, with 1,782 seats, has acoustics designed
   by Yasuhisa Toyota, who also worked on the Walt Disney Concert Hall in Los
   Angeles.
+score: 6.8
 ---
 
 Cidade das Artes (City of Arts) is a major performing arts complex in Barra da Tijuca, built on elevated platforms over the Avenida das Américas. Designed by French-Brazilian architect Christian de Portzamparc and opened in 2013, it is the home of the Brazilian Symphony Orchestra and the largest concert hall in South America.

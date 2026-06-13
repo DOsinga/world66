@@ -9,6 +9,7 @@ tags:
 - culture
 title: Sombrería Boliviana (Cholita Hat Shops)
 type: poi
+score: 6.4
 ---
 
 The bowler hats worn by cholita women are not decorations but genuine cultural markers, and buying one is one of the better souvenirs from La Paz. The main hat shops are clustered along Calle Sagarnaga and the Witches' Market area. The hats come in different sizes, colours, and qualities — the better ones are made of felt and hold their shape; cheaper versions are lighter and crush more easily.

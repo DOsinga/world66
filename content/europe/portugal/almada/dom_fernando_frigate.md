@@ -16,6 +16,7 @@ story: >
   in 1990 she was little more than a waterlogged skeleton; the restoration that
   followed took fifteen years. She is now the only surviving wooden-hulled sailing
   frigate in the world.
+score: 8.8
 ---
 
 Moored at the Cacilhas waterfront, the Fragata Dom Fernando II e Glória is a beautifully restored 50-gun wooden frigate from the Portuguese Navy — and one of the most remarkable museum ships in Europe. Built in 1843 at the Portuguese shipyards in Daman, then a Portuguese territory on the west coast of India, the vessel served under sail during the last years of the age of fighting sail. Her restoration took fifteen years after she was recovered from the riverbed where she had sunk decades earlier.

@@ -12,6 +12,7 @@ story: >
   Roman pottery, and traces of a Punic-period settlement — making
   this a continuously inhabited or visited spot for well over two
   thousand years.
+score: 7.5
 ---
 
 The little Romanesque chapel of A Lanzada stands alone on a rocky promontory at the north end of the long beach, dating from the 12th century. It is built from the same granite as everything else in Galicia, weathered to a soft grey by the salt and wind. Inside, the apse retains carved corbels and a small Marian altar. Mass is still said there on a few key dates each year.

@@ -9,6 +9,7 @@ tags:
 - beach
 title: Kovalam Beach
 type: poi
+score: 6.9
 ---
 
 Kovalam is actually three crescent-shaped bays separated by rocky headlands, about 16 km south of Thiruvananthapuram (Trivandrum) in Kerala. Lighthouse Beach, the southernmost and most popular, takes its name from the Vizhinjam Lighthouse perched on the promontory at its southern end. Hawah Beach sits in the middle, and Samudra Beach to the north is the quietest of the three.

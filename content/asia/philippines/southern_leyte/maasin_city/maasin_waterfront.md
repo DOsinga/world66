@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.1310
 longitude: 124.8340
+score: 6.8
 ---
 
 The Maasin waterfront runs along the Bohol Sea shore and has been developed into a pleasant esplanade with benches, a small park, and views across the water toward the islands of Bohol. In the late afternoon, when the light turns golden and fishing boats return to the port, it is one of the nicer places in Southern Leyte to simply sit and watch the sea.

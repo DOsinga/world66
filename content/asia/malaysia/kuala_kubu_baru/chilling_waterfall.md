@@ -7,6 +7,7 @@ tags:
 latitude: 3.4966
 longitude: 101.7166
 story: "The trek to Chilling Waterfall involves six river crossings through the jungle, and the trail itself follows the Sungai Chilling — a tributary of the Selangor. The name comes from the Malay word for the pepper plant (chilli), which once grew wild along the banks, not from the temperature of the water, though the waterfall pool is indeed refreshingly cold."
+score: 8.3
 ---
 
 Chilling Waterfall is one of the most popular jungle destinations accessible from KKB, requiring an hour's drive followed by a 90-minute trek through primary rainforest that involves crossing the river six times. The waterfall drops into a large, clear pool suitable for swimming, surrounded by boulders and jungle canopy. On weekends it can get crowded; weekday visits are quieter.

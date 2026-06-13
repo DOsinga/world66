@@ -6,6 +6,7 @@ longitude: 21.1835
 tags:
   - eating_out
   - restaurant
+score: 6.0
 ---
 
 The most reliable old-school taverna on the main square, **Galaxias** has been run by the same family for decades and serves the dishes you came to Metsovo to eat: grilled Metsovone, kontosouvli, the local pies, lamb with lemon and oregano, and a thick chickpea soup in winter.

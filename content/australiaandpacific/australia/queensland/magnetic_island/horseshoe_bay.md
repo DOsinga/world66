@@ -9,6 +9,7 @@ story: >
   of the island. In the early 20th century the beach was used for horse racing during
   the dry season, when the packed sand near the waterline provided a firm enough surface
   for a makeshift track.
+score: 7.7
 ---
 
 Horseshoe Bay is the largest bay on Magnetic Island and the hub of the island's social life. The long, gently curving beach stretches for about 3 km, backed by a line of Norfolk pines and the low buildings of the settlement. This is where you come for watersports — kayak and paddleboard hire, jet ski rentals, parasailing, and glass-bottomed boat tours. Horseshoe Bay also has stinger nets during the box jellyfish season (November to May), making it one of the safer swimming options at that time of year.

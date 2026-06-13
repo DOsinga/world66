@@ -8,6 +8,7 @@ latitude: 24.7190
 longitude: 46.7240
 story: >
   King Salman Park is being built on the site of Riyadh's old international airport, King Khalid International, which was decommissioned in 1983 when the new airport opened to the north. The abandoned airfield sat largely empty for forty years, an oddly large gap in the urban fabric, before the Vision 2030 programme decided to transform it into one of the largest urban parks in the world — covering 13.4 square kilometres, substantially larger than Central Park in New York.
+score: 5.6
 ---
 
 A large urban park under development in the King Fahd District, being built on the site of the old Riyadh airport. Designed as part of Saudi Arabia's Vision 2030 programme to improve the quality of life in the capital, the park incorporates gardens, sports facilities, a performing arts centre, and cultural venues across an area of over thirteen square kilometres.

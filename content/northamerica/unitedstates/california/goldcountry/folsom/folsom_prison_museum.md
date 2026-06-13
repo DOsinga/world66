@@ -16,6 +16,7 @@ tags:
 - museum
 title: Folsom Prison Museum
 type: poi
+score: 6.7
 ---
 
 Folsom State Prison opened in 1880 and is one of the oldest prisons in California. The small museum inside covers the prison's history through photographs, artefacts, and exhibits on prison life — including the notorious granite-quarrying operation that inmates worked for decades. The gift shop, staffed by inmates, sells handicrafts and is genuinely worth a visit.

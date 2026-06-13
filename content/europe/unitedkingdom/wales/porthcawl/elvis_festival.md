@@ -9,6 +9,7 @@ latitude: 51.4766
 longitude: -3.7059
 snippet: "Europe's largest Elvis tribute festival, every September"
 story: "The festival started in 2004 with about 10 acts and a few hundred visitors. By 2019 it was drawing more than 35,000 Elvis fans and impersonators to a town of about 16,000 residents, with hundreds of acts performing across pubs, hotels, and the Grand Pavilion over a single weekend in late September."
+score: 8.0
 ---
 
 Each September Porthcawl hosts the largest Elvis tribute festival in Europe — three days of impersonators, tribute bands, look-alike contests, and karaoke spread across the Grand Pavilion, the town's pubs, and pop-up stages along the esplanade. Visitors and contestants come from as far as the United States, Australia, and across Europe.

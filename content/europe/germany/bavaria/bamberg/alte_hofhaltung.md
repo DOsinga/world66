@@ -7,6 +7,7 @@ tags:
 - museum
 title: Alte Hofhaltung
 type: poi
+score: 8.3
 ---
 
 The earlier of the two prince-bishop palaces on the cathedral square, facing the Neue Residenz across the broad gravel space. Half-timbered upper storeys over a Renaissance ground floor, built into the foundations of the imperial palace of Henry II. Inside is the Historical Museum of Bamberg, with rooms on the witch trials of the 1620s, the city's craft traditions, and the imperial-era furnishings.

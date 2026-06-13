@@ -10,6 +10,7 @@ tags:
 - beatles
 title: Beatles Childhood Homes
 type: poi
+score: 8.6
 ---
 
 The National Trust runs combined minibus tours to the two surviving Beatles childhood homes: Mendips, the comfortable semi-detached on Menlove Avenue where John Lennon was raised by his aunt Mimi, and 20 Forthlin Road, the council house where Paul McCartney grew up and where many early Beatles songs were written.

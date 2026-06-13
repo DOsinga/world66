@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 34.2440
 longitude: -116.9108
+score: 5.6
 ---
 
 Old Mine Road Brewing is a craft brewery in the Big Bear village that has become a reliable gathering point for both locals and visitors. The beers range from approachable lagers and wheat ales — suited to the wide range of palates in a resort town — to more ambitious IPAs and seasonal releases. The taproom is casual and relaxed, with outdoor seating that works well on warm summer evenings.

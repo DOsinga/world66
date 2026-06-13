@@ -9,6 +9,7 @@ latitude: -4.9111
 longitude: 29.6750
 story: >
   When Henry Morton Stanley, sent by a New York newspaper to find the missing missionary, finally located David Livingstone at Ujiji on 10 November 1871, he is said to have removed his hat and asked, "Dr Livingstone, I presume?" Livingstone, who had not seen another European in years and was desperately ill, simply smiled. Neither man wrote down the famous greeting at the time, and Stanley later tore the relevant pages from his diary.
+score: 8.0
 ---
 
 Ujiji is the small Swahili-Arab port a few kilometres south of Kigoma where one of the most famous meetings in 19th-century African exploration took place. Long before the colonial railway brought Kigoma into existence, Ujiji was the most important trading town on Lake Tanganyika — a terminus of the caravan routes from the East African coast, dealing in ivory and slaves, and a base for the Arab traders who controlled the lake's commerce.

@@ -12,6 +12,7 @@ story: >
   was invented here in the 1880s and was famous enough that Harry Craddock
   included it in the Savoy Cocktail Book of 1930. The club itself is now a
   ruin, but the drink has outlasted the empire that produced it.
+score: 6.8
 ---
 
 The Pegu Club was the most exclusive British gentlemen's club in colonial Rangoon, founded in 1882. Today it stands abandoned and largely in ruins — a vast teak and brick colonial building that the jungle is slowly reclaiming. The gates are usually open and visitors can walk through the overgrown grounds and peer into the crumbling interior.

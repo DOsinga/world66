@@ -9,6 +9,7 @@ longitude: -119.9116
 story: "The museum's most prized exhibit is the Fricot Nugget, a 13.8-pound piece of crystalline gold discovered in 1864 in the El Dorado Mine in Sierra County. It remains one of the largest intact gold specimens in existence, and visitors regularly spend several minutes just staring at it, trying to reconcile its weight with its modest-looking size."
 sources:
   - https://www.parksandpoints.com/make-time-for-mariposa-gold-rush-gateway-to-yosemite
+score: 7.7
 ---
 
 The California State Mining and Mineral Museum, at the Mariposa County Fairgrounds on Highway 49, holds the official state mineral collection and is considerably more interesting than its location at a fairgrounds might suggest. The collection spans gold specimens, crystals, gems, and industrial minerals from across California, with an emphasis on the mother lode country that runs through this part of the Sierra Nevada.

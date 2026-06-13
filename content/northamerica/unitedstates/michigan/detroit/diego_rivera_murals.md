@@ -11,6 +11,7 @@ neighbourhood: Midtown
 title: Diego Rivera Detroit Industry Murals
 type: poi
 story: "Diego Rivera spent a month at the Ford River Rouge plant watching the work before painting. Edsel Ford commissioned and paid for the murals, then defended them when local clergy attacked the nude figures and the inclusion of a holy-family panel as sacrilegious."
+score: 9.3
 ---
 
 The Detroit Industry Murals occupy all four walls of the Rivera Court at the Detroit Institute of Arts, painted in fresco between 1932 and 1933. The north and south walls depict the assembly of an automobile at the Ford River Rouge plant, with the workers' bodies forming a continuous mechanical rhythm. The other walls show pharmaceuticals, aviation, and agriculture. Rivera himself considered the cycle the most successful work of his career.

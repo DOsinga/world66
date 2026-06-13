@@ -6,6 +6,7 @@ longitude: -103.7188
 tags:
   - eating_out
   - restaurant
+score: 6.3
 ---
 
 Del's has been on Route 66 since 1956 and looks it — wood-paneled dining room, vinyl booths, a long counter, and a giant model cow on the roof. The menu runs to American-with-New Mexican accents: chicken-fried steak, prime rib, green-chile cheeseburgers, hand-cut fries.

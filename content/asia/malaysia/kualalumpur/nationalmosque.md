@@ -10,6 +10,7 @@ tags:
 - landmark
 title: National Mosque
 type: poi
+score: 8.3
 ---
 
 The National Mosque sits on Jalan Sultan Hishamuddin, surrounded by landscaped gardens near the old railway station. Completed in 1965, its roof takes the shape of an eighteen-pointed star, resembling a partly opened umbrella. The design is considered one of the finest examples of modern Islamic architecture in Malaysia.

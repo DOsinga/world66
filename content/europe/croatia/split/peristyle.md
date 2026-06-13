@@ -13,6 +13,7 @@ story: >
   city of Salona fell to Avar invaders and refugees moved into the palace, the space became
   an open-air market. It has been the social centre of Split ever since, a function it
   has performed for over 1,700 years.
+score: 9.2
 ---
 
 The Peristyle is the main ceremonial square of Diocletian's Palace and the true heart of Split's old town. Ringed by columns on two sides, with the entrance to the cathedral (Diocletian's former mausoleum) at one end and the stairs down to the Cryptoporticus at the other, it is a compact space of extraordinary quality — pale stone, deep shadow, and a scale that manages to be grand without overwhelming.

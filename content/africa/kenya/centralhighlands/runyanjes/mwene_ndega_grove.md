@@ -6,6 +6,7 @@ tags:
   - sight
 title: Mwene Ndega Grove
 type: poi
+score: 6.4
 ---
 
 A sacred fig and mugumo (wild fig) grove about 3 km from Runyenjes town, traditionally regarded as the ancestral home of the Embu people. The Embu — a Bantu-speaking community closely related to the Kikuyu and Meru — trace their origins to this area of the central highlands, and the grove is a site of cultural memory and occasional ceremonial use. Visits should be made respectfully and, ideally, with a local guide who can explain the oral traditions associated with the site.

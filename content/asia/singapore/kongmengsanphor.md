@@ -10,6 +10,7 @@ tags:
 title: Kong Meng San Phor Kark See Monastery
 type: poi
 url: www.kmspks.org
+score: 7.7
 ---
 
 Kong Meng San Phor Kark See Monastery is the largest Buddhist temple complex in Singapore, sprawling across a hillside in Bishan. The grounds are immaculately maintained, with ornate halls, pagodas, and a columbarium that draws families year-round. The Hall of Great Compassion and the Buddha Tooth Relic are among the highlights.

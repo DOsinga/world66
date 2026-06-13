@@ -13,6 +13,7 @@ story: >
   For several thousand years, until the Pyramid of Djoser rose in Egypt around 2650 BCE,
   it was the tallest construction in the world. The people who built it had no writing,
   no metal tools, and no domesticated animals beyond the dog.
+score: 9.5
 ---
 
 Tell es-Sultan is the ancient mound of Jericho — a UNESCO World Heritage Site (designated 2023) that represents one of the most significant archaeological discoveries in human history. Excavations have revealed continuous habitation going back to approximately 10,000 BCE, making this the oldest known fortified settlement on earth.

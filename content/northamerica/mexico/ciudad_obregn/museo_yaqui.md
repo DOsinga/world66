@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 27.4853
 longitude: -109.9341
+score: 7.3
 ---
 
 A small museum dedicated to the culture and history of the Yaqui people, who have inhabited the Río Yaqui valley for centuries and maintain a distinct identity, language, and territory to this day. The Yaquis fought the longest indigenous resistance against the Mexican government — a series of wars stretching from the 1820s through to 1927 — and their story is told here with more candour than you'll find at most Mexican regional museums.

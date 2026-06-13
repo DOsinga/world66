@@ -8,6 +8,7 @@ story: "The original park, opened in 1954 as Storytown USA by Charles R. Wood, w
 tags:
 - things_to_do
 - sight
+score: 6.6
 ---
 
 Great Escape is the Adirondacks' big seasonal amusement park, opened in 1954 as Storytown USA and reborn as Six Flags Great Escape in 1996. About fifty rides spread across themed sections, the highlights being The Comet (a wooden coaster relocated from the demolished Crystal Beach park in Ontario in 1994), Steamin' Demon, the Sasquatch drop tower, and the Hurricane Harbor water park alongside.

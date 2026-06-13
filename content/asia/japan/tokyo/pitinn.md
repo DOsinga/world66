@@ -10,6 +10,7 @@ tags:
 - shinjuku
 title: Pit Inn
 type: poi
+score: 7.6
 ---
 
 One of Tokyo's most respected jazz venues, running since 1966. The basement space hosts jazz and experimental music most nights, with matinee and evening sets. The afternoon shows are cheaper and a good way to catch up-and-coming musicians.

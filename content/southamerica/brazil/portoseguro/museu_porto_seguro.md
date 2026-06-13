@@ -6,6 +6,7 @@ longitude: -39.0637
 tags:
   - things_to_do
   - museum
+score: 7.1
 ---
 
 A small municipal museum in the former 18th-century *Câmara e Cadeia* (town hall and jail) on the historic bluff. The collection is modest but worth thirty minutes: pre-colonial artefacts from the Pataxó indigenous people, religious objects from the early churches, period photographs of the town in the early 20th century, and exhibits on the 1500 Portuguese landing.

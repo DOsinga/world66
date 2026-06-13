@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 36.6529
 longitude: 116.9936
+score: 5.8
 ---
 
 Furong Street — Hibiscus Street — is a short pedestrianised lane in the southern old city district that has become Jinan's main historic street food area. The street itself is lined with small restaurants, snack stalls, and tea houses in renovated traditional buildings, and the surrounding lanes contain spring-fed canals, stone bridges, and the old architecture of the spring district neighborhood.

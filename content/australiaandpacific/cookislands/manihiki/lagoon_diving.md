@@ -9,6 +9,7 @@ latitude: -10.4300
 longitude: -160.9900
 sources:
   - https://en.wikipedia.org/wiki/Manihiki
+score: 8.4
 ---
 
 Snorkelling in the Manihiki lagoon is excellent without any special effort — wade in from the islet shores and you are immediately among coral, fish, and pearl farm oysters. The visibility regularly exceeds 20 metres and there is no boat traffic to contend with. Black-tip reef sharks patrol the shallower areas; they are generally uninterested in swimmers.

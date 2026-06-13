@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, wildlife, nature]
 latitude: -2.6522
 longitude: 37.2470
+score: 7.9
 ---
 
 Amboseli has recorded over 600 bird species — remarkable for a park of its size and mainly dry habitat. The swamps are the main draw for birders, holding large numbers of pelicans, storks, herons, ibises, cormorants, and waders. The yellow-barked fever trees around Enkongo Narok are a good spot for African fish eagles and a variety of smaller species. The dry lakebed supports coursers, larks, and the striking kori bustard — the world's heaviest flying bird.

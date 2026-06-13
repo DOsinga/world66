@@ -8,6 +8,7 @@ latitude: 55.3406
 longitude: -131.6442
 sources:
   - https://en.wikipedia.org/wiki/Southeast_Alaska_Discovery_Center
+score: 7.0
 ---
 
 The Southeast Alaska Discovery Center is operated by the US Forest Service and serves as one of the best introductions to the Tongass National Forest and the broader Southeast Alaska ecosystem. The exhibits cover the temperate rainforest ecology, the indigenous cultures of the region, the timber and fishing industries, and the landscape of the Inside Passage. Displays are well-funded and genuinely informative rather than perfunctory.

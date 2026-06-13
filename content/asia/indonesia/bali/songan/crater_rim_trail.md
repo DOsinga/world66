@@ -8,6 +8,7 @@ tags:
 - sight
 title: Crater Rim Trail
 type: poi
+score: 7.2
 ---
 
 At the northern end of Songan, past the lake-shore temple, a rough trail climbs steeply up the inner crater wall to the outer caldera rim. The climb is short — 30 to 45 minutes — but steep enough to be strenuous. The reward at the top is a complete reversal of perspective: behind you the caldera stretches back with its lake, volcano, and villages; in front of you the land drops away to the coast and the sea, with the volcanoes of Lombok and sometimes Java visible on a clear day.

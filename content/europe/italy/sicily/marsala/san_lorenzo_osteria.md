@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Seafood-led osteria with a strong list of Sicilian wines"
+score: 5.8
 ---
 
 San Lorenzo is one of the more reliable kitchens in the old town: a converted ground-floor space with stone walls and a small terrace on a quiet side street. The menu is largely seafood — raw plates, lagoon mullet, a couscous on Fridays — and the chef changes the chalkboard daily depending on what came in at the morning market.

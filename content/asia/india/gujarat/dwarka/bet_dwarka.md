@@ -9,6 +9,7 @@ tags:
 - island
 title: Bet Dwarka
 type: poi
+score: 7.4
 ---
 
 Bet Dwarka is an island near Okha, reached by boat and crowded with pilgrims heading to Krishna temples. The trip is part of the experience: seabirds, salt air, port traffic, and a sense of leaving the mainland behind.

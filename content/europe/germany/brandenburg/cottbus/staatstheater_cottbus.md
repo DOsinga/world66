@@ -7,6 +7,7 @@ latitude: 51.7572
 longitude: 14.3256
 story: >
   When the theatre was built in 1908, its exuberant Jugendstil (Art Nouveau) decoration was unusual for a German civic building. The architect Bernhard Sehring covered the facade and interior with flowing organic forms, peacock motifs, and gilded ornament — a theatrical extravagance that makes it unlike any other theatre building in the country.
+score: 7.5
 ---
 
 The Staatstheater Cottbus holds a distinction unique in Germany: it is the only theatre building in the country constructed in the Jugendstil (Art Nouveau) style. Built in 1908 and beautifully maintained, the building on Schillerplatz just west of the Altmarkt is worth seeing even if you are not attending a performance.

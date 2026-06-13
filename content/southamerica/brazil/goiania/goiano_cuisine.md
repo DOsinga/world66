@@ -4,6 +4,7 @@ type: poi
 tags:
   - eating_out
   - local_food
+score: 7.7
 ---
 
 The food of Goiás is among the most distinctive regional cuisines in Brazil, shaped by the cerrado's unusual pantry of wild fruits, roots, and game. Pequi is the defining ingredient: a yellow-fleshed fruit with a pungent, divisive flavour that Goianos tend to love with the intensity of the converted. Arroz com pequi (rice cooked with the fruit) is everywhere, as is frango com pequi (chicken stewed with it). The small but intensely flavoured seed inside is edible; the outer layer of the flesh is not, and biting into it is a mistake tourists make once.

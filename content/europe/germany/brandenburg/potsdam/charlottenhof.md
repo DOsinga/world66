@@ -16,6 +16,7 @@ story: >
   It remains one of the most satisfying small buildings in Germany.
 sources:
   - https://en.wikipedia.org/wiki/Charlottenhof_Palace
+score: 8.0
 ---
 
 Schloss Charlottenhof is the smallest and most refined of the Sanssouci park palaces — a neoclassical villa designed by Karl Friedrich Schinkel in 1826 for Crown Prince Frederick William. Working within tight budget constraints, Schinkel converted an existing farmhouse and added a portico of Doric columns, creating what he described as a "Siam" — a rustic philosophical retreat in the Roman tradition. The result is a remarkably serene building, its white stucco and spare classical lines contrasting with the exuberance of the nearby Rococo palaces.

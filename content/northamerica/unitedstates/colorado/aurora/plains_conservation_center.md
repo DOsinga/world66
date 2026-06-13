@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: 1,100-acre shortgrass prairie preserve with reconstructed homestead and tipi village
+score: 7.7
 ---
 
 The Plains Conservation Center protects 1,100 acres of native shortgrass prairie on Aurora's south-eastern edge — a glimpse of what the Front Range plains looked like before settlement. The visitor centre is built into a sod cabin replicating the 1880s Smoky Hill Trail homesteads, and a reconstructed Cheyenne tipi village stands on the prairie nearby.

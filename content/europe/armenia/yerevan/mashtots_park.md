@@ -8,6 +8,7 @@ tags:
   - sight
   - kentron
 neighbourhood: Kentron
+score: 7.0
 ---
 
 The covered Pak Shuka market on Mashtots Avenue is the city's oldest enclosed produce market, a 1952 building with an ornately carved tufa portal — vines, pomegranates, harvest scenes — that is one of the more delightful Soviet-era facades in town. The market itself was hollowed out and turned into a supermarket in the 2010s, much to local protest, but the portal survives.

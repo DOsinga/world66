@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - eating_out
+score: 7.6
 ---
 
 Fishing Boat Harbour is Fremantle's small working harbour, set west of the city centre between Marine Terrace and the Indian Ocean. Crayfish boats, prawn trawlers, and small charter vessels share the water with pleasure craft, and the wharves along the southern edge are lined with seafood restaurants and a couple of microbreweries.

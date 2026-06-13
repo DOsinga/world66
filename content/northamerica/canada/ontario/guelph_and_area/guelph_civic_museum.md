@@ -8,6 +8,7 @@ latitude: 43.5438
 longitude: -80.2506
 sources:
   - https://en.wikipedia.org/wiki/Guelph_Civic_Museum
+score: 6.8
 ---
 
 The Guelph Civic Museum, housed in a former convent on Dublin Street, covers the city's history from its 1827 founding by the Canada Company through to the 20th century. The collection includes furniture, domestic objects, photographs, and documents from Guelph's Victorian expansion years, with particular strength in the period of rapid growth from the 1850s to the 1890s when the city's limestone character was established.

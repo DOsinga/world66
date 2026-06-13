@@ -16,6 +16,7 @@ story: >
   clock tower again — a provocative gesture that required the entire city to be
   locked down and thousands of security forces deployed to make it happen. The clock
   tower has outlasted both speeches.
+score: 6.1
 ---
 
 Lal Chowk — "Red Square" — is the commercial and symbolic centre of Srinagar. The name was given by leftist political activists in the 1930s who were inspired by Moscow's Red Square, and the area has been a centre of political as well as commercial life ever since. The clock tower that rises from the intersection is the most photographed urban landmark in Kashmir. The surrounding streets contain the densest concentration of shops, banks, photocopy stalls, and street food sellers in the city.

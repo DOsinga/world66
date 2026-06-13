@@ -8,6 +8,7 @@ tags:
 - sight
 snippet: The Roman frontier wall is a 45-minute drive from the city centre
 story: Hadrian's Wall ran 73 Roman miles (about 117 km) from Wallsend to Bowness-on-Solway, marking the northern boundary of the Roman Empire from AD 122 until the early 5th century. Several of the most striking forts — Housesteads, Vindolanda, Chesters — sit within an hour's drive of Newcastle and are walking distance from one another along the wall's central stretch.
+score: 8.8
 ---
 
 The most famous Roman ruin in Britain is a Newcastle day trip rather than an in-city sight. The eastern terminus, Segedunum, is on the Newcastle Metro at Wallsend, but the most spectacular surviving section — the central stretch through the Northumberland National Park — is a 45-minute drive west on the A69. Housesteads, Vindolanda, and the Sycamore Gap make a strong half-day circuit.

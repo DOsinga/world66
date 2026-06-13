@@ -16,6 +16,7 @@ story: >
   movement.
 sources:
   - https://en.wikipedia.org/wiki/Storer_College
+score: 7.9
 ---
 
 Storer College was a school established in 1867 to educate freed Black men and women in the aftermath of the Civil War, operating on the heights above Harpers Ferry until 1955. Its campus occupied the former Union Army camp, and the mix of repurposed military buildings and purpose-built school structures gave it an unusual architectural character. Several of the original buildings survive and are interpreted by the National Park Service.

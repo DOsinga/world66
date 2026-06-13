@@ -11,6 +11,7 @@ story: >
   a deliberate insult to the Hanseatic League — calling the merchants geese. When Danish nobles
   gathered here in 1241 under Valdemar II, the Code of Jutland was ratified, one of the oldest
   still-known codes of law in Europe.
+score: 8.1
 ---
 
 The Goose Tower (Gåsetårnet) is the last standing tower of Vordingborg Castle and the town's most recognisable landmark. It rises 26 metres above the castle ruins and retains its original 14th-century form, topped by a golden weathervane in the shape of a goose — Valdemar Atterdag's mocking riposte to the Hanseatic merchants who traded through his kingdom. When the castle was otherwise demolished in pieces over the centuries to provide stone for other buildings, the tower survived simply because it was too useful as a navigation point for ships in the Storstrøm.

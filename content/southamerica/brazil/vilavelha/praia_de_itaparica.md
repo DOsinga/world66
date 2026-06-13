@@ -7,6 +7,7 @@ tags:
   - beach
 latitude: -20.362
 longitude: -40.288
+score: 6.8
 ---
 
 Itaparica is the southernmost of Vila Velha's main beaches and the most family-oriented. It's quieter than Praia da Costa, with calmer water and a gentler atmosphere. The neighbourhood behind it has a good selection of small restaurants and ice cream parlours popular with local families.

@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Gunnamatta
 type: poi
+score: 7.3
 ---
 
 A long, exposed ocean beach on the Mornington Peninsula with consistent surf and a raw, windswept beauty. Strong rips make it better suited to experienced swimmers and surfers. The clifftop walking track offers spectacular coastal views.

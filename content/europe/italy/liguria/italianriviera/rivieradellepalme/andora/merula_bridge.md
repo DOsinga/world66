@@ -7,6 +7,7 @@ tags:
 latitude: 43.9482
 longitude: 8.1437
 story: "The Merula creek is only 14 kilometres long, but it drains a significant area of the Ligurian Alps. In medieval times it was navigable for small craft as far as the bridge, and the bridge itself was the main river crossing on the old coastal road before the construction of the modern highway. The ten arches were a significant engineering achievement for their period."
+score: 6.8
 ---
 
 A handsome ten-arched Romanesque bridge spans the Merula River at the edge of Andora, one of the more graceful pieces of medieval engineering on this stretch of the Riviera. The bridge once carried the old coastal road between Genoa and Ventimiglia, and it remains in use today as a pedestrian crossing and the starting point for walks up the Merula valley.

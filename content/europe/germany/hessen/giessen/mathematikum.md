@@ -13,6 +13,7 @@ story: >
   museum. Its founder, Albrecht Beutelspacher, had a simple premise: that
   mathematics is not a spectator sport, and that anyone who can tie a shoelace
   or blow a soap bubble can engage with mathematical ideas directly.
+score: 8.7
 ---
 
 The Mathematikum is an unusual place: a museum where you are actively encouraged to touch, manipulate, and experiment with every exhibit. More than 180 hands-on stations invite visitors to explore geometry, infinity, topology, and logic through their hands rather than through text panels. You can walk through a giant soap bubble, build mathematical structures, and construct puzzles that defeat adults while children solve them in minutes.

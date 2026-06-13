@@ -12,6 +12,7 @@ sources:
   - https://en.wikipedia.org/wiki/Melbourne_Zoo
 story: >
   Melbourne Zoo was opened on 6 October 1862, making it the oldest operating zoo in Australia and one of the oldest in the world. Its first animals were donated by private citizens and arrived aboard ships from England, India, and the Pacific Islands. The zoo's founding collection included a lion, a bear, a pair of monkeys, and several Australian native animals. Today it holds over 320 species across 22 hectares of the same Royal Park site it has occupied for 160 years.
+score: 7.9
 ---
 
 Melbourne Zoo is the oldest zoo in Australia, established in 1861 and still occupying its original site inside Royal Park. The zoo covers 22 hectares and houses around 320 species, with some of the best enclosures in the country for gorillas, elephants, and the Trail of the Elephants exhibit. The Australian native section, with wombats, echidnas, and Tasmanian devils alongside the more accessible kangaroos and koalas, is well designed and worth time.

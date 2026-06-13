@@ -11,6 +11,7 @@ story: "Agedabia stood on the line between the coast and the oasis routes, which
 sources:
   - https://en.wikipedia.org/wiki/Ajdabiya
   - https://slsgazetteer.org/irt_geo/recordview/?id=1190
+score: 6.2
 ---
 
 The Fatimid palace ruins sit close to the mosque remains and are the other major trace of medieval Agedabia. The site is fragmentary, but it helps explain why the town appears in old accounts as a place of consequence rather than just a dot on the road.

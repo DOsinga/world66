@@ -10,6 +10,7 @@ story: >
   San Prospero is the patron saint of Reggio Emilia, a fourth-century bishop credited with defending the city against the Huns. The six stone lions guarding the church portico — placed there in the sixteenth century — are among the most photographed objects in Reggio Emilia, and locals regard them with the same affection other Italian cities reserve for fountains or bronze horses.
 sources:
   - https://en.wikipedia.org/wiki/Basilica_di_San_Prospero,_Reggio_Emilia
+score: 7.5
 ---
 
 The Basilica di San Prospero occupies its own small piazza just west of Piazza del Duomo and has an imposing late-Renaissance facade finished in 1546. The six lions flanking the church entrance give the square an unexpectedly bold character — they are thick-maned and alert-looking, more heraldic than naturalistic. The campanile behind the facade is an early medieval tower that was incorporated into the later structure.

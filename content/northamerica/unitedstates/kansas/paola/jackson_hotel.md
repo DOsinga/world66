@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: 1880s commercial hotel preserved on Peoria Street
+score: 6.4
 ---
 
 The Jackson Hotel at 139 West Peoria Street is one of Paola's better-preserved 19th-century commercial buildings. Built in the 1880s as a travellers' hotel during the railroad era, the three-storey brick block has a classic Italianate front — round-headed windows, an ornamental cornice, an arched recessed entry — and was carefully restored in the 1990s after years of neglect.

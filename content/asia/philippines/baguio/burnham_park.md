@@ -9,6 +9,7 @@ tags:
 - sight
 title: Burnham Park
 type: poi
+score: 7.7
 ---
 
 The green lung of Baguio sits squarely in the centre of the city — 32 hectares of pine groves, a man-made lagoon, gardens, jogging paths, and a children's playground. The lagoon at the eastern end has rentable paddle boats in the shape of swans; in the early morning, before the smog from the city's traffic rises, you can rent a bike and follow the perimeter loop in the cool mountain air.

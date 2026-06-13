@@ -12,6 +12,7 @@ tags:
 title: Charlie Hong Kong
 type: poi
 url: www.charliehongkong.com
+score: 5.3
 ---
 
 Fast, affordable Asian street food with a strong local following. Rice bowls, noodle bowls, and soups made with local organic produce. One of the best options in town for vegetarians and vegans. Order at the counter and eat outside.

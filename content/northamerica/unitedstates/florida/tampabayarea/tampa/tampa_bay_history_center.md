@@ -7,6 +7,7 @@ tags:
 latitude: 27.9445
 longitude: -82.4572
 snippet: Engaging regional history museum covering Tampa's Spanish, Native American, cigar-trade, and pirate past
+score: 8.6
 ---
 
 The Tampa Bay History Center tells the story of the Tampa Bay region with more honesty and engagement than you might expect from a civic museum. The permanent collection covers a wide sweep: the indigenous peoples of the bay area (Tocobaga and Calusa), Spanish colonial contact and conflict, the development of the cattle and cigar industries, Prohibition-era bootlegging, and the modern port economy.

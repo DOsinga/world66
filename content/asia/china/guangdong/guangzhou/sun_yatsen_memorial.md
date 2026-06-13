@@ -8,6 +8,7 @@ tags:
 latitude: 23.134978
 longitude: 113.265004
 snippet: "Octagonal blue-tiled memorial hall commemorating the founder of modern China"
+score: 7.8
 ---
 
 The Sun Yat-sen Memorial Hall stands on Dongfeng Road in the heart of Guangzhou, occupying the site of the Presidential Office where Sun Yat-sen served as the first leader of the Republic of China. Completed in 1931, the building is a landmark example of Chinese revivalist architecture: an enormous octagonal structure topped with a blue-tiled dome and traditional upturned eaves, combining Western engineering with classical Chinese aesthetics.

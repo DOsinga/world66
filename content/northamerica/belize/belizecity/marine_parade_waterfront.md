@@ -8,6 +8,7 @@ tags:
 - neighbourhood
 title: Marine Parade Waterfront
 type: poi
+score: 6.8
 ---
 
 The Marine Parade is the seafront boulevard that runs along the northern edge of Belize City through the Fort George neighbourhood. It's a pleasant place for a morning or evening walk, with the sea on one side and colonial-era buildings on the other. Street vendors sell fresh coconut water and snacks; pelicans work the water alongside fishermen's boats.

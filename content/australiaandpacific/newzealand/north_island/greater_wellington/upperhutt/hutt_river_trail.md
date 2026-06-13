@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -41.1240
 longitude: 175.0700
+score: 6.5
 ---
 
 The Hutt River Trail is a flat, paved path that runs the length of the Hutt Valley, connecting Upper Hutt to the Wellington Harbour foreshore — about 40 km in total. The section through Upper Hutt is a gentle ride or walk along the gravel banks of the river, passing through parks and reserves with views up to the bush-covered ranges on either side.

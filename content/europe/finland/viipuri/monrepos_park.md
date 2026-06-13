@@ -8,6 +8,7 @@ latitude: 60.7361
 longitude: 28.7125
 story: >
   Monrepos was designed in the English landscape tradition by Luigi Rusca in the early 19th century for the Baron von Nicolay, a Swiss-German nobleman who served as tutor to Tsar Paul I. The park's inscriptions and monuments were placed by a man who had stood at the centre of Russian imperial power — then retreated to this rocky Baltic island to think about death.
+score: 9.2
 ---
 
 Monrepos is an extraordinary landscape park on the rocky island of Linnasaari, about 2 km northwest of Vyborg's centre. Laid out in the early 19th century in the English romantic tradition, the park winds through granite outcrops, forests, and bays, with pavilions, obelisks, and bridges placed at moments of particular beauty or dramatic prospect. It is one of the finest examples of romantic landscape design in northern Europe.

@@ -9,6 +9,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Hortus_Botanicus_Lovaniensis
+score: 6.8
 ---
 
 The Hortus Botanicus Lovaniensis is one of Belgium's oldest botanical gardens, founded in 1738 by the university for the study of medicinal plants. It sits a short walk west of the Grote Markt and covers a modest but densely planted area that includes a herbarium, greenhouses, and collections of plants organised by family and origin. It's an unusually peaceful place given how close it is to the centre.

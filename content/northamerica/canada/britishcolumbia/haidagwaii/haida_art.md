@@ -14,6 +14,7 @@ story: >
   creating "The Spirit of Haida Gwaii" — a bronze canoe full of Haida figures now at
   the entrance to the Canadian Embassy in Washington — and reviving the art form of
   large-scale totem pole carving that had nearly died with the epidemic.
+score: 8.5
 ---
 
 Haida visual art is one of the most distinctive artistic traditions in the world: a formline-based system of curved black lines and ovoid shapes that represents creatures and beings in a way that is immediately recognisable as Haida but allows infinite individual expression. The tradition was nearly lost after the devastating smallpox epidemics of the 19th century, but its revival since the 1960s — led by artists like Bill Reid, Robert Davidson, and later Jim Hart and others — has been one of the great cultural recoveries of modern times.

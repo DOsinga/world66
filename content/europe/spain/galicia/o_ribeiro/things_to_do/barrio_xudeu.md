@@ -14,6 +14,7 @@ story: >
   quarter's labyrinthine lanes to move unobserved.
 sources:
   - https://en.wikipedia.org/wiki/Ribadavia
+score: 8.2
 ---
 
 Ribadavia's Jewish quarter is one of the most intact in Galicia. The community that lived here was substantial in the medieval period — merchants, physicians, and craftsmen who played a central role in the town's economy and in the wine trade. Their expulsion in 1492 left a neighbourhood whose street pattern and stone buildings survived largely unchanged.

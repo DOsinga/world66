@@ -10,6 +10,7 @@ tags:
 title: Huashan 1914 Creative Park
 type: poi
 url: https://www.huashan1914.com
+score: 7.6
 ---
 
 Huashan was originally a 1914 Japanese sake distillery; for most of the 20th century it produced Taiwan's domestic wines and brandies, before falling derelict in the late 1980s. The old red-brick warehouses, water towers, and steel-trussed bottling halls were rehabilitated in the early 2000s into a creative arts park covering several blocks just east of Taipei Main Station.

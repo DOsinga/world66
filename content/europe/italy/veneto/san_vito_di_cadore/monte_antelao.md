@@ -15,6 +15,7 @@ story: >
   described the view from the summit as the finest in the entire range.
 sources:
   - https://en.wikipedia.org/wiki/Antelao
+score: 8.3
 ---
 
 Monte Antelao, at 3,264 metres the highest peak in the eastern Dolomites, dominates the skyline above San Vito di Cadore from almost every point in the village. The great bulk of pale limestone rises sharply from the Boite valley, its profile unmistakable — a broad pyramidal summit sitting above a chaos of ridges, couloirs, and steep scree slopes. Locals call it the "King of Cadore," a title earned less by diplomacy than by sheer mass.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 42.6633
 longitude: 21.1650
+score: 7.3
 ---
 
 The Kosovo Museum, housed in a building from the early 20th century near the city centre, is the principal history and archaeology museum for the country. The collection ranges from Neolithic artefacts through the Bronze Age, the Roman period, the medieval Serbian kingdom, and the Ottoman era up to the 20th century.

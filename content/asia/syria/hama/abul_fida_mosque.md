@@ -15,6 +15,7 @@ story: >
   Islamic geographical texts used by Western cartographers — including those who mapped
   the Middle East for colonial-era expeditions — long after the dynasty that produced
   him had vanished.
+score: 7.4
 ---
 
 The Abu'l-Fida Mosque is the mosque and mausoleum of Ismail Abu'l-Fida, the Ayyubid prince who ruled Hama as an autonomous vassal under the Mamluk sultans from 1310 until his death in 1331. Abu'l-Fida was one of the most remarkable figures produced by medieval Syria: a soldier who fought alongside the Mamluks against the Mongols, a governor who maintained Hama's independence through careful diplomacy, and a scholar whose geographical and historical writings became standard references in both the Islamic and European traditions. He wrote a universal history and, most influentially, a systematic geography of the known world that remained in use for centuries after his death.

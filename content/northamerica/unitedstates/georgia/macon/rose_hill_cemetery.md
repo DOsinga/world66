@@ -15,6 +15,7 @@ story: >
   and the cemetery that had begun as artistic inspiration and ended as loss.
 sources:
   - https://en.wikipedia.org/wiki/Rose_Hill_Cemetery_(Macon,_Georgia)
+score: 7.8
 ---
 
 Rose Hill is Macon's oldest cemetery, opened in 1840 on a bluff above the Ocmulgee River, and it is one of the finest examples of Victorian-era cemetery design in the American South. The 50 acres of shaded avenues, terraced hillsides, and elaborate monuments — obelisks, draped urns, weeping angels — are worth visiting on their own terms, quite apart from the rock and roll associations.

@@ -14,6 +14,7 @@ tags:
 - sight
 title: Temple of Venus
 type: poi
+score: 6.3
 ---
 
 A small circular stone folly on the shoulder of Doune Hill above Macduff, built in the 18th century as a landscape feature on the Duff estate. From outside it looks modest — a low drum of masonry with a domed roof — but the views from the surrounding hillside are wide and rewarding: Banff Bay stretches below, the Deveron estuary cuts between the two towns, and on clear days the Moray coast extends east and west to the horizon.

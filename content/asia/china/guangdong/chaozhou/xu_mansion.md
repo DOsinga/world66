@@ -15,6 +15,7 @@ story: >
   including carved stone reliefs and painted wooden panels that would have been illegal for
   ordinary merchant houses. The family's social position — on the edge of imperial favour —
   is written into the building's proportions.
+score: 8.6
 ---
 
 The Xu Mansion is one of the best-preserved Song-dynasty residential complexes in Chaozhou, a labyrinthine structure of courtyards, reception halls, and domestic quarters built around a series of interlocking garden spaces. The carved wooden screens and stone reliefs throughout the complex represent the most ornate surviving domestic architecture in the old city — a reminder that Chaozhou's merchant wealth was not simply commercial but also political.

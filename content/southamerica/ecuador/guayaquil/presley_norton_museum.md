@@ -6,6 +6,7 @@ tags:
 - museum
 title: Presley Norton Museum
 type: poi
+score: 7.2
 ---
 
 The Presley Norton Museum is dedicated to the pre-Columbian archaeology of coastal Ecuador, with a particular focus on the Valdivia culture — one of the oldest known pottery-making cultures in the Americas, active along the coast of Ecuador from roughly 3500 BCE. The museum takes its name from the Ecuadorian archaeologist who spent decades excavating Valdivia sites.

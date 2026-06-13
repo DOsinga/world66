@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Basilica_of_Our_Lady_Immaculate
 story: >
   A 1975 Guelph bylaw prohibits the construction of any building within the city that would block the sightlines to the basilica's twin towers. The bylaw is still in force, which is why the basilica dominates the downtown skyline in a way that would be impossible in most modern Canadian cities. The towers are visible from nearly every part of the city and serve as an orientation point even for visitors without a map.
+score: 8.8
 ---
 
 The Basilica of Our Lady Immaculate is Guelph's defining landmark: a massive Gothic Revival church built in grey local limestone that sits high above the city centre on a hill, its twin towers visible from most of the city. Construction began in 1876 and continued for decades; the basilica was completed in stages and is still being embellished. The interior is spacious and detailed, with good stained glass and the solemn atmosphere of a building that was meant to impress.

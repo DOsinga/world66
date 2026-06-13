@@ -9,6 +9,7 @@ latitude: 39.1102
 longitude: -84.5376
 story: >
   Union Terminal's half-dome rotunda is one of the finest Art Deco interiors in America, decorated with murals by Winold Reiss depicting Cincinnati's industrial history. The building opened in 1933 and fell into serious disrepair after train service ended in the 1970s. A $228 million restoration completed in 2018 brought back the original terrazzo floors, the mosaics, and the soaring entrance hall — a restoration that took 2,000 people five years to complete.
+score: 8.8
 ---
 
 The Cincinnati Museum Center is housed inside Union Terminal, a 1933 Art Deco train station widely regarded as one of the most beautiful in the United States. The soaring half-dome facade faces a grand forecourt, and the interior rotunda features dramatic murals and tilework that survived decades of neglect before a major restoration completed in 2018.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - nature
   - wildlife
+score: 7.1
 ---
 
 Local Ocean Conservation (formerly Watamu Turtle Watch) is a conservation project that has been protecting nesting sea turtles on Watamu's beaches since 1997. Green turtles nest along the beach from October to March, and the project's staff and volunteers monitor the nests, protect them from poaching, and release hatchlings at night.

@@ -13,6 +13,7 @@ tags:
 title: Paramount Theatre
 neighbourhood: Uptown
 type: poi
+score: 8.2
 ---
 
 A stunning Art Deco movie palace from 1931, now home to the Oakland Symphony and Oakland Ballet. The restored interior is a jaw-dropper — ornate metalwork, illuminated panels, and a massive Wurlitzer organ. Guided tours run on the first and third Saturdays of each month. Even if nothing is playing, the facade alone is worth a detour down Broadway.

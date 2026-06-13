@@ -11,6 +11,7 @@ longitude: -0.2138
 snippet: National Trust garden near Handcross, one of the finest in the south-east
 sources:
   - https://en.wikipedia.org/wiki/Nymans
+score: 8.5
 ---
 
 Nymans, six kilometres south of Crawley at Handcross, is one of the National Trust's most celebrated gardens in south-east England. Created by the Messel family from the 1890s onwards, the garden is known for its plant collection, its romantic ruins (a neo-Gothic house partly destroyed by fire in 1947), and the quality of its seasonal plantings — rhododendrons and magnolias in spring, roses in summer, good autumn colour through October.

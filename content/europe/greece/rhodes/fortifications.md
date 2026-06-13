@@ -16,6 +16,7 @@ story: >
   exhaustion of their 7,000 defenders against an Ottoman force that historians
   estimate at 100,000 to 200,000. Suleiman allowed the surviving Knights to
   leave with full honours, considering the defence worthy of respect.
+score: 8.8
 ---
 
 The walls enclosing the Old Town of Rhodes are among the best-preserved medieval fortifications in Europe. Running for four kilometres around the entire Old Town, they average ten metres in height and up to twelve metres in thickness — the bulk designed not to withstand scaling but to absorb cannon fire. The outer face is a continuous embankment of cut stone; behind it runs a dry moat fifteen metres wide with a glacis on the far side.

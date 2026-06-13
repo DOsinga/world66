@@ -15,6 +15,7 @@ story: >
   Loyalist town in what became Canada.
 sources:
   - https://en.wikipedia.org/wiki/Saint_Andrews,_New_Brunswick
+score: 8.3
 ---
 
 Saint Andrews is the most attractive town on the New Brunswick shore of the Bay of Fundy — a well-preserved Loyalist grid town on a point of land where the bay opens into Passamaquoddy Bay near the Maine border. The historic district contains some of the finest 18th and 19th century domestic architecture in Atlantic Canada; several buildings are accessible as museums.

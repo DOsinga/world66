@@ -7,6 +7,7 @@ tags:
 latitude: -1.2978
 longitude: 36.7879
 snippet: Long-running Lavington restaurant in a colonial-era house with a garden and eclectic menu
+score: 6.2
 ---
 
 About Thyme is a well-regarded Nairobi restaurant in a converted colonial-era house in Lavington, with an extensive garden for outdoor dining. The menu moves between European and East African influences — grilled fish, pasta, wood-fired pizzas, and Kenyan staples — and changes regularly. Sunday brunch here is a weekly ritual for many Nairobi residents.

@@ -9,6 +9,7 @@ tags:
   - kemeralti
 latitude: 38.4190
 longitude: 27.1350
+score: 7.7
 ---
 
 Within the Kemeraltı bazaar district, the spice and dried-goods section is a world of its own — pyramids of saffron, dried figs, sultanas, mahlep, and the pungent resin of dried mastic from Chios piled in open sacks. İzmir's position as a major Aegean port made it historically one of the most important emporiums for dried goods from the surrounding region: figs from Aydın, sultanas from Manisa, saffron from Safranbolu.

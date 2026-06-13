@@ -17,6 +17,7 @@ story: >
   and crosses of the Order of Christ in the exuberant style that became known as
   Manueline. Vasco da Gama is buried in the church, his tomb supported by
   figures of sailors.
+score: 9.4
 ---
 
 The Jerónimos Monastery in Belém is the greatest achievement of Manueline architecture, Portugal's late Gothic style that incorporated maritime imagery — ropes, coral, anchors, armillary spheres — into an extravagance of carved stone. Work began in 1501 on the proceeds of the spice trade with India, and the building took nearly a century to complete. It is a UNESCO World Heritage Site alongside the Belém Tower.

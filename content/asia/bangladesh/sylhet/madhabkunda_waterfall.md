@@ -11,6 +11,7 @@ story: >
   and it is the highest waterfall in Bangladesh — a tall, narrow ribbon of
   water that swells into a roar after the monsoon and shrinks to a delicate
   thread in the dry months.
+score: 8.1
 ---
 
 Madhabkunda lies about 75 km southeast of Sylhet in Moulvibazar district, set in a small ecological park with a marked path leading to a viewing area at the base of the falls. The pool below is shallow and unsafe for swimming, but the spray is cool and the rock walls amplify the sound.

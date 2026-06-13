@@ -11,6 +11,7 @@ tags:
   - museum
   - battery_point
 snippet: "Georgian merchant's mansion of 1834, opened as Australia's first folk museum in 1957"
+score: 7.5
 ---
 
 A handsome two-storey Georgian sandstone mansion built in 1834 for **Captain Andrew Haig**, a Scottish whaling-ship master who made his fortune in the Southern Ocean. The house remained in private hands until 1957, when it became Australia's first folk museum — twelve rooms furnished as they would have been in the 1830s and 1840s, with the original kitchen, the convict-staff quarters in the basement, and a fine collection of colonial silver and furniture.

@@ -12,6 +12,7 @@ tags:
 - historic
 title: Thomas Hart Benton Home and Studio
 type: poi
+score: 7.6
 ---
 
 Thomas Hart Benton was the most prominent American Regionalist painter of the 20th century — the man who put the Midwest, its farmers, its workers, and its mythology onto large-scale murals and canvases when Abstract Expressionism was pushing American art in the opposite direction. He lived in this Victorian house in the Roanoke neighborhood from 1939 until his death in 1975, using the carriage house behind it as his studio.

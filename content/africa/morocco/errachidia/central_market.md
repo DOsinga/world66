@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 31.9290
 longitude: -4.4280
+score: 6.3
 ---
 
 The covered market in the centre of Errachidia is small but worth a wander: dates from the local oasis (some of the best in Morocco), olives, preserved lemons, spices, and the regional Tafilalet fossils that turn up in souvenir form on every corner. The Tuesday and Sunday souks bring in producers from the surrounding villages and the place is at its most animated.

@@ -4,6 +4,7 @@ type: poi
 latitude: 22.395
 longitude: 113.493
 tags: [things_to_do, sight]
+score: 6.3
 ---
 
 The Zhongshan Hot Springs Resort, on the eastern edge of the prefecture near the Sanxiang district, taps a network of natural thermal springs at around forty degrees. The site has been developed since the 1980s into a sprawling complex of open-air pools, gardens, and bathing pavilions — heavily landscaped in the modern Chinese resort style.

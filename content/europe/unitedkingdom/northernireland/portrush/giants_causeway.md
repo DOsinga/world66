@@ -8,6 +8,7 @@ latitude: 55.2408
 longitude: -6.5117
 story: >
   The legend says the Irish giant Finn MacCool built the causeway to reach Scotland, where a rival giant had been challenging him to a fight. The Scottish end of the road — Fingal's Cave on the Isle of Staffa — is made of the same hexagonal basalt columns, which is how the story got started. The reality is a series of volcanic eruptions 50 to 60 million years ago, but the columns are so geometrically precise that they still look engineered.
+score: 9.8
 ---
 
 The Giant's Causeway is Northern Ireland's only UNESCO World Heritage Site and its most visited attraction — around one million people a year make the trip. The causeway itself is a mass of roughly 40,000 interlocking basalt columns, most hexagonal, forming a kind of giant stepping-stone pavement that descends from the cliffs into the sea. The precision of the geometry is startling even when you know the geological explanation.

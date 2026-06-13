@@ -7,6 +7,7 @@ tags:
 - bar
 title: Alice's Tea Cup
 type: poi
+score: 5.5
 ---
 
 A beloved neighborhood tea room on the Upper West Side decorated floor to ceiling in Alice in Wonderland imagery. The scones are the main attraction — buttery, properly sized, served with clotted cream and jam. Good for a slow weekend brunch or afternoon tea with someone you want to impress.

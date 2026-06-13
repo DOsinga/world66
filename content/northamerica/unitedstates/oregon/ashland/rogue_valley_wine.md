@@ -9,6 +9,7 @@ latitude: 42.3200
 longitude: -122.9500
 sources:
   - https://en.wikipedia.org/wiki/Rogue_Valley_AVA
+score: 7.1
 ---
 
 The Rogue Valley AVA surrounds Ashland, and the Applegate Valley sub-appellation to the west produces some of Oregon's most interesting wines outside the Willamette Valley. The long, hot summers and cool nights suit Bordeaux and Rhône varieties better than the cooler valleys to the north — Cabernet Sauvignon, Merlot, Syrah, and Viognier all show well here.

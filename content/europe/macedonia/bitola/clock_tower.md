@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.0308
 longitude: 21.3339
+score: 6.8
 ---
 
 The Ottoman Clock Tower (Saat Kula) stands at the north end of Magnolia Square, just off Širok Sokak, and is one of the defining landmarks of Bitola's skyline. Built in the late 17th or early 18th century, it is a slender stone tower about 15 metres high, with a clock face added during later Ottoman renovation. The tower still keeps time and chimes on the hour.

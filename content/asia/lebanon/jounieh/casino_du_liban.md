@@ -8,6 +8,7 @@ latitude: 33.9808
 longitude: 35.6372
 story: >
   The Casino du Liban opened in 1959 on a hillside above Jounieh and became one of the most glamorous entertainment venues in the Arab world, drawing performers including Frank Sinatra, Ella Fitzgerald, and Fairuz. It closed during the Civil War in 1989 and reopened in 1996. Bullet holes were found in the walls during renovation.
+score: 7.1
 ---
 
 The Casino du Liban is one of the oldest and grandest casinos in the Middle East, perched on the hillside above Jounieh with panoramic views over the bay. The main building has an extravagant 1950s design — marble floors, chandeliers, terraces — and the complex includes a large auditorium that continues to host concerts and shows.

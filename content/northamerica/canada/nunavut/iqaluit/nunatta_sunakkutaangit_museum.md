@@ -10,6 +10,7 @@ story: >
   The museum's building has an unusual history: it is a former Hudson's Bay Company warehouse that was literally moved on tracks from the settlement of Apex to its current location in Iqaluit. The HBC operated across the Arctic for three centuries, and this building dates from an era when the company controlled much of the trade that shaped Inuit life across the North. The museum now holds a collection that documents a very different world than the fur trade the HBC had in mind.
 sources:
   - https://en.wikipedia.org/wiki/Nunatta_Sunakkutaangit_Museum
+score: 8.4
 ---
 
 Nunatta Sunakkutaangit Museum (the name means "our heritage" in Inuktitut) holds the most accessible collection of Inuit artefacts, sculptures, and prints in Iqaluit. Founded in 1969 in a former Hudson's Bay Company building, it focuses on the history and material culture of the Nunavut region, with a particular emphasis on the pre-contact and early contact period.

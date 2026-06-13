@@ -6,6 +6,7 @@ tags:
   - sight
 title: Limassol Promenade
 type: poi
+score: 6.7
 ---
 
 The Limassol seafront promenade stretches for several kilometres along the coast east of the old town, lined with palm trees, cafés, and the outdoor tables that fill up every evening with locals and visitors. It is one of the most pleasant waterfront walks in Cyprus — wide, well-maintained, and busy with joggers, cyclists, and families at any hour.

@@ -9,6 +9,7 @@ tags:
 title: Eslite Bookstore (Xinyi Flagship)
 type: poi
 url: https://www.eslite.com
+score: 7.2
 ---
 
 The Eslite chain, founded in Taipei in 1989, is the literary heart of the Taiwanese-speaking world — bookshops that double as galleries, music shops, design stores, and meeting places. The **Xinyi flagship**, opened in 2006 in a six-floor cubic glass building behind Taipei City Hall MRT, is the chain's most ambitious branch.

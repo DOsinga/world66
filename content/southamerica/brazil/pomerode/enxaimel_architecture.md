@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: -26.7356
 longitude: -49.1770
+score: 8.9
 ---
 
 The old centre of Pomerode along Rua 15 de Novembro and the surrounding streets contains one of the largest concentrations of enxaimel buildings in Brazil. Enxaimel is the Portuguese name for Fachwerk — the half-timbered construction technique in which a structural wooden frame is filled with brick or clay, leaving the dark wood beams exposed against whitewashed or painted panels. The buildings look as if they were transplanted from rural Germany or the Alsace, which in a sense they were.

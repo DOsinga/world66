@@ -8,6 +8,7 @@ tags:
 latitude: 56.1895
 longitude: -2.8226
 snippet: "Long curving sand beach inside a sheltered bay, often quiet even in summer"
+score: 9.3
 ---
 
 Probably the best beach on the east coast of Scotland and certainly the most surprising — proper white-gold sand, a long gentle curve held by Elie Ness lighthouse at one end and the harbour at the other. The bay is sheltered enough that the water is usable for swimming on warm days and good for paddling on most others.

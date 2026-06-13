@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.9194
 longitude: -6.3452
+score: 7.1
 ---
 
 Augusta Emerita was the capital of the Roman province of Lusitania, and so it had a second forum dedicated to provincial administration as well as the municipal forum. The Foro Provincial is a recent excavation, only properly investigated since the 1990s. What you can see today are the foundations of monumental porticos, statue bases, and inscriptions, all sitting in a small archaeological park between the modern town and the Albarregas river.

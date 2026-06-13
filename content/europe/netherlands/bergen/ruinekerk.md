@@ -15,6 +15,7 @@ story: >
   the community had grown attached to the picturesque wreckage. Today the
   church is prized precisely for its incompleteness: concerts here in summer
   are held under the open sky, and the acoustics are surprisingly fine.
+score: 7.1
 ---
 
 Bergen's central landmark — a medieval church reduced to atmospheric ruins and used as the town's primary cultural venue. The original structure dates from the 15th century; only the lower walls, arches, and tower survive, with the sky above. A simple weathered interior that serves as the main concert hall for the International Holland Music Sessions in August.

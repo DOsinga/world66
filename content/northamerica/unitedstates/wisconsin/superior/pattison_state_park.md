@@ -11,6 +11,7 @@ story: >
   Big Manitou Falls drops 165 feet over a basalt ledge into the Black River gorge, making it the
   tallest waterfall in Wisconsin. The name comes from the Ojibwe word for a great spirit — and
   standing at the overlook with the spray rising and the dark rock dropping away, the name feels apt.
+score: 8.4
 ---
 
 Pattison State Park lies about 10 miles south of Superior on the Black River and is the essential natural excursion from the city. The centerpiece is Big Manitou Falls, a 165-foot cascade that is the highest waterfall in Wisconsin and one of the highest east of the Rockies. A short trail leads to an overlook above the falls and a longer path drops into the gorge for a closer view.

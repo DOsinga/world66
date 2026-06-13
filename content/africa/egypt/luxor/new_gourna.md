@@ -10,6 +10,7 @@ longitude: 32.620833
 snippet: "Pioneering village designed by Egyptian architect Hassan Fathy using traditional mud-brick construction, a landmark of vernacular modernism"
 story: >
   Hassan Fathy designed New Gourna in the 1940s to rehouse the families who lived on top of the Theban necropolis — people who had for generations supplemented their income by looting the tombs beneath their homes. The government wanted them moved; Fathy tried to design a village they would actually want to live in, using the traditional nubian building techniques of the region. Most of the families refused to move, preferring their existing homes and their informal arrangement with the tombs below. The project was considered a failure at the time but is now regarded as a foundational text of sustainable architecture.
+score: 6.5
 ---
 
 New Gourna is a village designed in the late 1940s by Hassan Fathy, one of the most influential figures in 20th-century architecture. Fathy used traditional mud-brick construction, domed roofs, and malqaf windcatchers to create cool, comfortable houses without modern materials or energy — a response to what he saw as the alienating modernism being imposed on Egyptian villages.

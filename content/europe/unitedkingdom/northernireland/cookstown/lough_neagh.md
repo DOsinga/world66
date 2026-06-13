@@ -7,6 +7,7 @@ tags:
 latitude: 54.6000
 longitude: -6.5700
 snippet: "Shore walks and birdwatching on Britain and Ireland's largest lake"
+score: 6.3
 ---
 
 Lough Neagh, whose western shore is about 10 kilometres east of Cookstown, is the largest lake in the British Isles — larger than the Lake District's lakes combined. The shoreline is generally low and reedy, fringed by pasture and willow scrub, and is an important habitat for migratory and wintering birds. In winter, the lough holds some of the largest concentrations of waterbirds in Ireland, including whooper swans, diving ducks, and waders.

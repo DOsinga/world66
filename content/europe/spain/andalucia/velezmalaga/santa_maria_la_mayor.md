@@ -9,6 +9,7 @@ tags:
   - history
 latitude: 36.7832
 longitude: -4.0997
+score: 7.8
 ---
 
 Santa María la Mayor was built in the late 15th century on the site of the main mosque of Moorish Vélez-Málaga, and that layering is still visible in its architecture. The exterior shows the characteristic Axarquían mudéjar style — brick and stone combined with ornamental detail that reflects the craft tradition of the Moorish builders who remained and converted after the Christian conquest. The church was consecrated in 1490, just three years after the city fell.

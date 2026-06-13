@@ -11,6 +11,7 @@ story: >
   The Bat Tombs were constructed around 3000 BC, roughly contemporary with the great pyramids of Egypt, by a Bronze Age culture that remains poorly understood. Unlike Egyptian pyramids, these beehive-shaped towers were built directly into the hillside, using the natural topography as part of the design. The site was unknown to the outside world until the 1970s, when archaeologists first surveyed it.
 sources:
   - https://en.wikipedia.org/wiki/Bat,_Al-Khutm_and_Al-Ayn
+score: 8.6
 ---
 
 The Bat Tombs — formally the Archaeological Sites of Bat, Al-Khutm and Al-Ayn — are a UNESCO World Heritage Site about 25 km east of Ibri, containing one of the most complete collections of Bronze Age funerary monuments in the world. Hundreds of circular stone towers, ranging from one to three meters in height, are scattered across the rocky hillsides in an arrangement that still isn't fully explained. The most photographed are the Al-Ayn tombs, which line a ridge against a backdrop of stark Hajar Mountains.

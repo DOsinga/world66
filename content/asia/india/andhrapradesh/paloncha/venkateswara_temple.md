@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.6080
 longitude: 80.7100
+score: 6.8
 ---
 
 The Venkateswara Temple sits atop Navabharat Hill above the town, accessible by a path that climbs through scrub forest. The hilltop location gives panoramic views over Paloncha, the Godavari plain, and the forested ridges of the Eastern Ghats to the north and east. The temple is dedicated to Venkateswara (a form of Vishnu associated with the major pilgrimage centre at Tirupati) and is visited by workers and families from the surrounding industrial colonies.

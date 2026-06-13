@@ -12,6 +12,7 @@ story: >
   known as the Dutch Barbizon. Artists came seeking authenticity and found locals
   willing to pose in traditional dress — a dynamic that made the town famous but
   also, as the museum shows, began to freeze its image in amber.
+score: 7.7
 ---
 
 The Volendams Museum at Zeestraat 41 traces the history of the town through two defining obsessions: fishing and fashion. The star exhibits are the full sets of traditional Volendam dress — the pointed lace caps, the striped skirts, the elaborate bodices — displayed with enough context to explain when and why they were worn, not merely as a colourful curiosity. For women the costume varied by occasion: daily wear, Sunday dress, and the full ceremonial outfit worn at Easter are all distinct.

@@ -9,6 +9,7 @@ tags:
   - sight
 story: >
   The Green Bazaar takes its name from the Soviet-era practice of calling fresh food markets "green markets" to distinguish them from industrial goods bazaars. What is sold here now — fermented mare's milk (kumiss), dried apricots and figs from Uzbekistan, slabs of smoked horse meat, honey from the mountains in a dozen varieties, and sheep heads staring from the butchers' stalls — is the accumulated food culture of Central Asia in a single building.
+score: 9.0
 ---
 
 The Zelyony Bazaar (Green Bazaar) is Almaty's main covered market and one of the most vivid places in the city. The building occupies an entire block on Zhibek Zholy and operates on two levels: fruit and vegetables downstairs, dried goods, spices, nuts, and honey on the upper floor, with a separate meat hall where the display can surprise the uninitiated.

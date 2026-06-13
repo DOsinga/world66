@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.4008
 longitude: -81.4278
+score: 7.8
 ---
 
 Mayport is a working shrimping village at the mouth of the St. Johns River, about 25 kilometres east of downtown, where the fleet of commercial shrimp boats ties up and the smell of salt and diesel is constant. It is one of the few genuinely functional fishing communities remaining on the northeast Florida coast — most of the old fishing villages have been converted into tourist restaurants and beach-town boutiques.

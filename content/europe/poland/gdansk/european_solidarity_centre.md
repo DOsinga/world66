@@ -13,6 +13,7 @@ tags:
 - museum
 title: European Solidarity Centre
 type: poi
+score: 9.4
 ---
 
 Opened in 2014 on the site of the Lenin Shipyard where Solidarity was born, this museum is one of the finest in Poland. The permanent exhibition walks you through the history of the movement from the 1970 strikes through martial law, the Round Table negotiations, and the fall of communism — all told through original documents, photographs, film, and artefacts. The building itself, clad in rusting Corten steel, is deliberately industrial in reference to its setting.

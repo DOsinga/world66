@@ -5,6 +5,7 @@ tags:
   - beaches
 latitude: -33.0214
 longitude: -71.5495
+score: 6.6
 ---
 
 The main city beach runs along the northern edge of the centre, easily walkable from the casino, the flower clock, and Wulff Castle. It is wide, sandy, and well-maintained, with the city's coastal avenue (Avenida Marina) running behind it. The beach serves a mixed crowd — families, couples, and anyone who wants the beach without the full Reñaca scene — and it is the most convenient option if you are staying in the city centre.

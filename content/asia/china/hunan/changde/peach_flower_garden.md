@@ -16,6 +16,7 @@ story: >
   apart. When he leaves and tries to return, the tunnel is gone. The story has
   resonated with Chinese readers for sixteen centuries, particularly in times
   of turbulence.
+score: 8.1
 ---
 
 Peach Flower Garden (Taohuayuan), 34 kilometres southwest of Changde in Taoyuan County, is the site traditionally identified as the inspiration for Tao Yuanming's celebrated prose-poem "Peach Blossom Spring" — a parable about a hidden valley of perfect peace, sealed off from history. The garden built around this literary memory is a national 5A scenic area covering several hundred hectares, with peach orchards, pavilions, reconstructed ancient buildings, and a tunnel through a cliffside meant to evoke the fisherman's original discovery.

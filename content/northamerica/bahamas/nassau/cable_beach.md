@@ -7,6 +7,7 @@ tags:
   - cable_beach_road
 latitude: 25.0786
 longitude: -77.4061
+score: 7.0
 ---
 
 The main hotel-resort beach of Nassau, four kilometres of white sand running west from the Hilton out to the Sandals and the Baha Mar complex. The water is calm, shallow, and protected — better for families and weak swimmers than the more exposed Cabbage Beach.

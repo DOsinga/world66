@@ -8,6 +8,7 @@ latitude: 13.0597
 longitude: -59.5397
 sources:
   - https://en.wikipedia.org/wiki/Miami_Beach,_Barbados
+score: 7.9
 ---
 
 A long, pale-sand beach on the southern edge of Oistins, Miami Beach (also called Enterprise Beach) is arguably the most beautiful on the south coast — wide, clean, and significantly less crowded than Accra. The water is calm and shallow. There are no major vendors or beach chair operations here, which is either a drawback or a selling point depending on your preference.

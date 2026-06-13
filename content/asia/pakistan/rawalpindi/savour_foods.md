@@ -6,6 +6,7 @@ tags:
 - restaurant
 title: Savour Foods
 type: poi
+score: 6.1
 ---
 Savour Foods is the Rawalpindi restaurant that became a chain, and the chain that became something of a Pakistani institution. It started here, serving Pindi-style pulao — rice cooked in a stock of meat and spices, distinct from biryani in its restraint and from plain rice in its depth — alongside chicken karahi and mutton dishes. The formula worked well enough that the brand expanded across the country.
 

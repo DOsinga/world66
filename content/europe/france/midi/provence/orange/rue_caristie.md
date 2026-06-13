@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Old-town lane with restored 17th and 18th-century facades
+score: 6.4
 ---
 
 A short pedestrian street running from Place de la République towards the theatre, **Rue Caristie** preserves a stretch of restored 17th and 18th-century stone facades — wrought-iron balconies, mullioned windows, and worn limestone door surrounds. The street name refers to the Roman *Carusa* gens, who had a villa here.

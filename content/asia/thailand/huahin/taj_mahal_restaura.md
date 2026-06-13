@@ -8,6 +8,7 @@ tags:
 title: Taj Mahal Restaurant Hua Hin
 type: poi
 zipcode: Hua Hin
+score: 4.6
 ---
 
 The Taj Mahal in Hua Hin has two locations, one on the seafront near the fishing piers along from Naresdamri Road and the other on Chomsin Road just up from the Hua hin Fishing Pier. Good Indian cuisine in a friendly and relaxed surrounding.

@@ -6,6 +6,7 @@ longitude: -76.7315
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 Between 1996 and 2002, York commissioned a remarkable series of large-scale murals painted on the exterior walls of downtown buildings. The project produced dozens of works spanning several blocks, depicting York's history, its people, and its industrial past in vivid photorealist and narrative styles. Walking the mural trail is a free way to spend an hour in the downtown and encounter the city's self-image.

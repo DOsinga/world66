@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beach
+score: 5.1
 ---
 
 Nagaon, about 9 km south of Alibaug, has the widest beach in the area and is the centre of the water-sports scene — parasailing, banana boats, jet skis. It is loud and tacky on weekends, peaceful on weekdays.

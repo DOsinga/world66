@@ -14,6 +14,7 @@ story: >
   dome, which rises from an artificial lake and appears to be tearing apart,
   was intended to express both grief and resilience. Few monuments communicate
   the weight of mass death so directly.
+score: 7.2
 ---
 
 The Al-Shaheed Monument, also called the Martyr's Monument, is one of Baghdad's most striking pieces of public architecture — a 40-metre split turquoise dome that rises from a circular platform in the middle of an artificial lake, with an eternal flame at its centre. It was built to honour Iraqis who died in the Iran-Iraq War (1980–1988) and opened in 1983, though it has since become a broader memorial to Iraqi war dead.

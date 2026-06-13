@@ -12,6 +12,7 @@ story: >
   Monument was designated in 2015, making it one of Colorado's most recently protected 
   landscapes. On any summer weekend, hundreds of rafts drift through what was nearly lost 
   to mining and development.
+score: 9.1
 ---
 
 The Arkansas River flowing through the valley below Buena Vista is consistently rated among the best whitewater rivers in the United States. The stretch through Brown's Canyon, declared a National Monument in 2015, offers Class III and IV rapids accessible to intermediate paddlers, while the Numbers section upstream provides Class IV-V runs that attract serious whitewater enthusiasts.

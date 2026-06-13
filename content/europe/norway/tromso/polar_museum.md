@@ -11,6 +11,7 @@ story: >
   flying in a seaplane to search for survivors of the crashed Italia airship.
   He was never seen again. A monument to Amundsen stands near the museum,
   facing the harbour from which he departed.
+score: 8.5
 ---
 
 The Polar Museum occupies an 1837 blubber warehouse on the Tromsø waterfront — a fitting location for a collection documenting the Arctic hunting and exploration that defined the city's history. Tromsø was the main Norwegian base for the great age of Arctic hunting: seal, walrus, and polar bear were the trade, and the museum tells the story honestly, without sanitising what the hunting meant for the animal populations involved.

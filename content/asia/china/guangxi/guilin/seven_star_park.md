@@ -7,6 +7,7 @@ tags:
 latitude: 25.2745
 longitude: 110.3084
 snippet: Guilin's largest park with karst peaks, caves, and a resident troop of monkeys
+score: 6.5
 ---
 
 Seven Star Park (Qixing Gongyuan) is the largest park in Guilin, spread across the east bank of the Li River and dominated by seven karst peaks arranged in a pattern said to resemble the Big Dipper constellation. The park contains Camel Hill (whose rock formation really does look like a kneeling camel), a series of caves open for visits, a small zoo, and a resident troop of rhesus macaques that have been living in the park for decades.

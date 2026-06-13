@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Vasile_Alecsandri_National_Theatre_(B%C4%83l%C8%9Bi)
 story: >
   The theatre is named for Vasile Alecsandri, the 19th-century Moldavian poet and playwright who was also a diplomat, ethnographer, and early champion of Romanian national identity. His plays, collected folk songs, and political writings shaped what became modern Romanian literature.
+score: 7.4
 ---
 
 The Vasile Alecsandri National Theatre is one of Moldova's three national theatres and the cultural centrepiece of Baltsi. The building occupies a prominent position near the city centre and hosts a regular programme of drama, opera, and dance. Performances are almost entirely in Romanian.

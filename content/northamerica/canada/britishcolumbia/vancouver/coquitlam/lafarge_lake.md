@@ -8,6 +8,7 @@ tags:
 latitude: 49.287
 longitude: -122.7889
 snippet: A five-hectare artificial lake in Town Centre Park, host to the annual Lights at Lafarge winter festival
+score: 7.0
 ---
 
 Lafarge Lake is a five-hectare artificial lake in the centre of [Town Centre Park](/northamerica/canada/britishcolumbia/vancouver/coquitlam/town_centre_park) — the central public space of Coquitlam. The lake was once a gravel pit operated by the Lafarge Cement company; the company gave the site to the city in the 1980s and it was landscaped into the present recreational lake in 1996, with a perimeter walking path, fishing dock and a public art trail along the shore.

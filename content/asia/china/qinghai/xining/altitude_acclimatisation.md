@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.6333
 longitude: 101.7667
+score: 3.2
 ---
 
 Xining sits at 2,270 metres above sea level — high enough to affect some visitors on arrival, particularly those flying directly from sea-level cities. Mild symptoms (headache, fatigue, mild shortness of breath on exertion) are normal and usually pass within 24 to 48 hours. Serious altitude sickness is rare at this elevation but possible, particularly in older travellers or those with heart or respiratory conditions.

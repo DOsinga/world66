@@ -4,6 +4,7 @@ type: poi
 latitude: 32.8261
 longitude: 34.9700
 tags: [things_to_do, sight, religious]
+score: 6.0
 ---
 
 A small grotto on the lower slope of Mount Carmel, traditionally venerated as the place where the prophet Elijah sheltered before his confrontation with the priests of Baal. The site is sacred to Jews, Christians, Muslims, and Druze, and you may see all four communities praying here on different days.

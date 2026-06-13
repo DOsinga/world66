@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.0244
 longitude: 43.0181
+score: 8.2
 ---
 
 The Adishi Glacier is a valley glacier descending from the ridge below Janga peak (5,059 m) into the Adishi River valley. It is one of the more accessible glaciers in Svaneti — a rough trail from [Adishi](/europe/georgia/svaneti/adishi) village leads to the terminal moraine in about two hours — and one of the more visually striking, with the glacier's grey-blue ice descending steeply from the peaks above.

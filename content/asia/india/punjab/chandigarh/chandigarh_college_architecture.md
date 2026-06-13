@@ -6,6 +6,7 @@ longitude: 76.7836
 tags:
   - things_to_do
   - architecture
+score: 7.6
 ---
 
 Le Corbusier and his cousin Pierre Jeanneret designed the Chandigarh College of Architecture as part of the original master plan — a low concrete building of cantilevered slabs and brise-soleil arranged around an internal courtyard. It is still in active use as a school of architecture, and the building is one of the most under-appreciated minor Corbusian works in the city.

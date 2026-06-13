@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Makola Market
 type: poi
+score: 8.1
 ---
 
 The commercial heart of Accra and one of the great markets of West Africa: a dense, sweating, shouting maze of stalls selling fabrics, food, electronics, beads, charms, and just about anything else you can imagine. The "market queens" who run the major trades wield serious economic and political power. Go early, leave valuables behind, accept that you will get lost, and don't try to photograph anyone without asking.

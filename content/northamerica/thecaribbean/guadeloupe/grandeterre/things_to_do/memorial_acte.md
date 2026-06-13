@@ -8,6 +8,7 @@ latitude: 16.2411
 longitude: -61.5331
 story: >
   Mémorial ACTe opened in 2015, built on the site of a former sugar refinery — a deliberate choice. The Darboussier factory processed sugar grown by enslaved workers for more than a century, and its conversion into a memorial to those same workers is part of what makes the museum so layered. The refinery's industrial ruins are preserved as part of the site.
+score: 8.5
 ---
 
 Mémorial ACTe in Pointe-à-Pitre is one of the most significant museums in the French Caribbean — a striking modern building dedicated to the history of slavery and the Atlantic slave trade. The museum traces the origins of the trade in Africa, the Middle Passage, the plantation system of the Caribbean, abolition, and its aftermath, through a combination of artifacts, documents, multimedia installations, and personal histories.

@@ -9,6 +9,7 @@ tags:
 - museums
 title: Museo de Ramón Gaya
 type: poi
+score: 6.8
 ---
 
 The Museo de Ramón Gaya occupies the restored Casa Palarea on the quiet Plaza de Santa Catalina. It holds a permanent collection of works by the Murcia-born painter Ramón Gaya (1910-2005), who spent decades in exile in Mexico before returning to Spain. The paintings, watercolors, and sketches trace a long artistic life shaped by the Spanish Civil War and its aftermath.

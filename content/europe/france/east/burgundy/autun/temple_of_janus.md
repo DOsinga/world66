@@ -7,6 +7,7 @@ tags:
 latitude: 46.9576
 longitude: 4.2884
 snippet: Two surviving walls of a Romano-Celtic temple standing in open fields
+score: 7.4
 ---
 
 The Temple of Janus is a peculiar sight — two tall sections of Roman masonry, about 24 metres high, standing alone in a field on the northern edge of town, slightly apart from the main ancient monuments. The name "Janus" is a medieval misnomer; the building was actually a Romano-Celtic fanum, a type of tower temple common in Gaul, probably dedicated to a local deity.

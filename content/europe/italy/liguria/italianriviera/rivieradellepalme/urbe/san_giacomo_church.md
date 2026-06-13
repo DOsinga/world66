@@ -6,6 +6,7 @@ longitude: 8.6206
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 The seventeenth-century parish church of San Giacomo in the locality of Martino d'Olba is the most notable building in the Urbe valley. The plain stone exterior gives little hint of the late-Baroque interior, with a marble altar and decorative stucco from the eighteenth century.

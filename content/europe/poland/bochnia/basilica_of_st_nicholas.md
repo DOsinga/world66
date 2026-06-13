@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 49.9683
 longitude: 20.4322
+score: 6.5
 ---
 
 The Basilica of St Nicholas (*Bazylika św. Mikołaja*) is the principal church of Bochnia, a 14th-century brick Gothic structure with a tall belfry visible from across the town. It was raised to the rank of minor basilica in the 1990s.

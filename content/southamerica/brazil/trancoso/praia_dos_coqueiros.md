@@ -6,6 +6,7 @@ tags:
 - beach
 title: Praia dos Coqueiros
 type: poi
+score: 7.5
 ---
 
 Praia dos Coqueiros sits just south of Nativos and is another easy walk from the village. Coconut palms back the sand, beach clubs rent chairs, and the water is warm enough that you can lose track of time without noticing.

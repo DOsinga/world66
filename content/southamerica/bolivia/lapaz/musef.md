@@ -7,6 +7,7 @@ tags:
 - museum
 title: MUSEF — Museo Nacional de Etnografía y Folklore
 type: poi
+score: 9.0
 ---
 
 The Museo Nacional de Etnografía y Folklore (MUSEF) occupies a colonial building on Calle Ingavi and holds what is probably the best collection of Andean ethnographic material in Bolivia. The textile collection alone is worth the visit: weavings from across Bolivia's regions, spanning several centuries, with the kind of systematic documentation that lets you understand what you are looking at rather than simply admiring the colours. The masks are equally strong — carnival masks, ritual masks, the elaborate plumed and mirrored constructions used in the Diablada dance at Oruro, each one explained in terms of where it comes from and what cultural work it does.

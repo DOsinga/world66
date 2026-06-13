@@ -7,6 +7,7 @@ snippet: "No-frills Texas BBQ and brisket near the historic stockyards"
 tags:
 - eating_out
 - restaurant
+score: 5.9
 ---
 
 Amarillo processes more beef than almost any other city in the United States, and the best way to engage with that fact is at one of the straightforward BBQ and steak places that serve the people who actually work in the industry. The area near the old stockyards on the south side of town has a handful of lunch counters and barbecue joints where brisket, ribs, and sausage come on butcher paper with white bread and pickles.

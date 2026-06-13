@@ -14,6 +14,7 @@ story: >
   cavern that forms the famous hidden beach (Playa del Amor), accessible only
   through a tunnel at low tide. The same bombardment drove away the human
   population and inadvertently preserved the islands as a wildlife sanctuary.
+score: 8.8
 ---
 
 The Marietas Islands are an uninhabited archipelago about 35 kilometres offshore, now protected as a UNESCO biosphere reserve. They are most famous for the Playa del Amor — a hidden beach inside a sea cave, accessible through a narrow water tunnel that you swim or paddle through at low tide. The sight of a white sand cove open to the sky inside a rock chamber is the kind of thing that justifies the boat trip.

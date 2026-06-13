@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 64.8314
 longitude: -147.8847
+score: 6.9
 ---
 
 The Pump House occupies a converted gold-rush-era water pumping station on the banks of the Chena River, about four miles west of downtown. The building itself is on the National Register of Historic Places, and the interior is packed with mining-era artifacts, antique equipment, and historical photographs that give it the feel of a museum you can eat dinner in.

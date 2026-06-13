@@ -8,6 +8,7 @@ tags:
 title: Punkaharju Ridge
 type: poi
 snippet: A narrow esker ridge running between two lakes, one of Finland's iconic landscapes
+score: 8.1
 ---
 
 The Punkaharju is a 7-km esker — a long sandy ridge left by retreating glaciers — that runs between Lake Pihlajavesi and Lake Puruvesi about 25 km southeast of Savonlinna. The ridge is sometimes only a few metres wide at the top, with pine forest above and water on both sides, and it is one of the classic landscapes of Finland.

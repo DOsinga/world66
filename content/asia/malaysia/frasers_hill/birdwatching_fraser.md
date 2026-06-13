@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Fraser's Hill sits at the right altitude for a set of montane species found nowhere in the Malaysian lowlands — the mountain specialties that serious listers travel specifically to tick. Getting to 260-plus species in a single day during the Bird Race requires birding from before dawn until after dark, which gives you a sense of how dense the list is.
+score: 8.9
 ---
 
 Fraser's Hill has been on the serious birdwatcher's map for decades, and deservedly so. At around 1,500 metres, the plateau sits in the lower montane forest zone — a habitat type that supports a distinct suite of species not found below 1,000 metres. The checklist for the area runs to over 260 species, including a remarkable concentration of flycatchers, laughingthrushes, and babblers, along with several species that are only reliably found at a handful of sites in Peninsular Malaysia. The Malayan whistling thrush, the silver-eared mesia, the chestnut-capped laughingthrush — these are not birds you find by accident in the lowlands, but here they can be heard from the road.

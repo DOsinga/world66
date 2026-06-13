@@ -10,6 +10,7 @@ latitude: 35.3654
 longitude: -97.4426
 snippet: The only US museum devoted entirely to skeletons
 story: "The museum grew out of the personal collection of Jay Villemarette, who began assembling animal skeletons as a child in Oklahoma. The on-site company, Skulls Unlimited, supplies cleaned osteological specimens to universities and museums worldwide — most of the cleaning is done by colonies of dermestid beetles working through bones in a special room visible to visitors."
+score: 8.6
 ---
 
 Just over the city line into south Oklahoma City but right on Moore's northern edge, the Museum of Osteology is the only museum in the United States devoted entirely to skeletons. The collection runs to more than 350 mounted specimens — everything from hummingbirds to humpback whales, alongside a Komodo dragon, a giraffe, a snow leopard, and a 40-foot humpback whale skeleton in the main hall.

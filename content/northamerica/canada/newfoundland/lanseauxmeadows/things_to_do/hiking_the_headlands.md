@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 51.599
 longitude: -55.538
+score: 7.8
 ---
 
 A network of short trails fans out from the historic site along the windswept headlands above the strait. The most rewarding is the Whale Watching Lookout Trail, a 3 km return walk to a point above the Labrador Sea where, in summer, you can watch humpbacks working the capelin schools below. On clear days the hills of Labrador are visible across the Strait of Belle Isle, just 18 km away.

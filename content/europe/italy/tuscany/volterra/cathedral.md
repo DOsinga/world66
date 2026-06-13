@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - religious
+score: 7.9
 ---
 
 The Cattedrale di Santa Maria Assunta sits on the small Piazza San Giovanni just behind the Piazza dei Priori, consecrated in 1120 and reworked across several centuries. The plain Pisan-Romanesque facade gives little away; inside, the dim aisles open onto a coffered 16th-century gilt-and-blue ceiling that surprises every visitor walking in from the bright square.

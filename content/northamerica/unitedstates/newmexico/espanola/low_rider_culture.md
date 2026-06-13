@@ -14,6 +14,7 @@ story: >
   family pride. Some families have been building and exhibiting low riders for
   three generations, and the craft is considered a fine art form, not just car
   modification.
+score: 8.4
 ---
 
 Española is widely recognised as the Low Rider Capital of the World, a title the town takes seriously. The low rider tradition here is not a subculture at the margins but a central expression of the region's Chicano and Hispanic identity, with roots in the 1940s and 1950s when young men began customising their cars as a form of artistic and cultural pride.

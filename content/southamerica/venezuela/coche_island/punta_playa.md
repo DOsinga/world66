@@ -7,6 +7,7 @@ tags:
   - sight
 title: Punta Playa
 type: poi
+score: 6.1
 ---
 
 Punta Playa is a small fishing village on the south-western tip of Coche, with a tiny harbour and a beach that is essentially unvisited by anyone except locals. Fishermen launch dugout boats from the sand at dawn and return in the early afternoon with the day's catch — usually small pelagic fish that are sold the same evening.

@@ -9,6 +9,7 @@ tags:
 - temple
 snippet: "The city's principal shrine, focus of the biennial Thakurani Yatra"
 story: "Every other year the Thakurani Yatra brings the goddess out from the temple, and the city's silk weavers traditionally compete to provide her with the most elaborate ritual saree of the year — a festival as much commercial as religious."
+score: 7.3
 ---
 
 The Maa Budhi Thakurani Temple is the most important religious site in Berhampur and the focus of the biennial **Thakurani Yatra** — one of Odisha's most distinctive city festivals. For roughly a month every two years (usually in March–April), the goddess is processed out of her shrine in a temporary structure built in a different city neighbourhood each time, and the entire urban core becomes one continuous procession, fair, and street market.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -19.0333
 longitude: 29.7833
+score: 4.4
 ---
 
 Redcliff is Kwekwe's satellite town, ten kilometres south, built up around the **ZISCO** steelworks — once the largest integrated steel plant in sub-Saharan Africa, now largely idle. The town was carefully planned in the colonial era with leafy avenues, a golf course, schools, and a hospital; much of that infrastructure survives, though in a more weathered condition than its founders intended.

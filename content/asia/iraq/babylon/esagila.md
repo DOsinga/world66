@@ -6,6 +6,7 @@ longitude: 44.4214
 tags:
   - things_to_do
   - sight
+score: 7.3
 ---
 
 The Esagila was the principal temple of Marduk, the patron god of Babylon, and stood next to the Etemenanki ziggurat. It was here that the New Year (Akitu) festival climaxed each spring: a procession of statues, the recitation of the creation epic, and the symbolic re-coronation of the king.

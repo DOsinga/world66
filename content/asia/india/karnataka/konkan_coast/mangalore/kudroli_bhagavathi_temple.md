@@ -13,6 +13,7 @@ story: >
   open to all castes at a time when low-caste Hindus were barred from most shrines in coastal
   Karnataka. The Kudroli temple was his direct act of defiance against the caste-based
   exclusion of temple worship.
+score: 7.4
 ---
 
 The Kudroli Shri Bhagavathi Kshetra is Mangalore's most popular Hindu temple, dedicated to the goddess Bhagavathi and located in the busy Kodialbail neighbourhood. The temple complex is large, colourfully painted, and perpetually active — morning and evening puja draw substantial crowds, and the premises include several shrines and a large tank. The atmosphere is genuinely devotional rather than touristy.

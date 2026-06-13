@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 story: "The Wellington Rocks — the largest sandstone outcrop on the Common — are some of the highest-quality bouldering in southern England. Climbers come down from London on weekends to work the same problems Victorians scrambled over for fun a century and a half ago."
+score: 8.0
 ---
 
 The Common is two hundred and fifty acres of unfenced woodland and grassland on the western edge of the town centre, threaded with footpaths and dotted with dramatic sandstone outcrops left over from the Cretaceous period. Wellington Rocks, High Rocks and the Toad Rock are the most famous, the last a curious balancing stone that looks unmistakably amphibian from one angle.

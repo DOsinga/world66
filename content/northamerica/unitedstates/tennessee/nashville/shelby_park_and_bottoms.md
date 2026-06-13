@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - east_nashville
+score: 7.0
 ---
 
 Shelby Park, on the east bank of the Cumberland in East Nashville, is the largest green space within walking distance of downtown — a 360-acre Edwardian-era park with a public golf course, a lake, and walking paths shaded by mature oaks and tulip poplars. The **Shelby Bottoms Greenway**, which runs north from the park along the river, extends another five miles through restored wetlands and meadows.

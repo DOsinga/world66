@@ -6,6 +6,7 @@ longitude: -77.7970
 tags:
   - things_to_do
   - sight
+score: 4.3
 ---
 
 World's Finest Chocolate has operated a manufacturing plant in Campbellford since the 1990s, and the smell of cocoa on warm days is part of the town's everyday character. The factory itself does not run public tours, but the company outlet store on Front Street sells direct-from-the-factory chocolate at substantial discounts and is one of the busiest small shops in town.

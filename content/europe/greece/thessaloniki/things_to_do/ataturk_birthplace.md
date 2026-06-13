@@ -16,6 +16,7 @@ story: >
   and turn a 600-year empire into a secular republic. He never publicly spoke of missing 
   Thessaloniki, but he asked that a view of the city be painted on the ceiling of his bedroom 
   in Ankara.
+score: 6.7
 ---
 
 Atatürk's Birthplace is a pink Ottoman house in the Turkish consulate grounds near the waterfront, open to visitors as a small museum. Turkey maintains the property under a long-standing arrangement, and entry is free. The house has been furnished to suggest early-20th-century bourgeois Ottoman life, with period furniture, photographs, and personal effects. It is modest in scale but the story it embodies is enormous.

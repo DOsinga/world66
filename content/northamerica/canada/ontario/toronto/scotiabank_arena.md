@@ -8,6 +8,7 @@ tags:
 title: Scotiabank Arena
 type: poi
 url: https://www.scotiabankarena.com
+score: 6.4
 ---
 
 Scotiabank Arena — called the Air Canada Centre until 2018 — is the home of the Toronto Maple Leafs (NHL) and the Toronto Raptors (NBA). The Maple Leafs are one of the most historically significant franchises in professional hockey; the Raptors won the NBA championship in 2019, a moment that produced one of the largest street celebrations in Canadian history.

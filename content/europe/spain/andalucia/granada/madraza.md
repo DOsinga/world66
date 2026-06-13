@@ -10,6 +10,7 @@ tags:
 - albaicin
 title: Madraza
 type: poi
+score: 8.2
 ---
 
 Standing opposite the Royal Chapel, this was Granada's Arab university, founded by King Yusuf I in the 14th century. The current Baroque facade dates from the 18th century, but the building is older than its late Gothic neighbour. Step inside to find a quiet patio with a colonnade and the ornate Salon de Caballeros XXIV (Hall of the Twenty-Four Knights), with its carved stucco ceiling -- one of the finest surviving Nasrid interiors in the city.

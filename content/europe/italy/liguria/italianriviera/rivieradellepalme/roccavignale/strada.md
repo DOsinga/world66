@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 story: The hamlet of Strada, a small frazione of Roccavignale, is one of the very few places in Liguria where a distinct local Romance dialect — distinct even from the wider Ligurian variants of the surrounding villages — survives in daily use among a handful of remaining speakers. It is the kind of micro-linguistic island that the Italian Apennines specialise in.
+score: 4.8
 ---
 
 Strada is one of the small hamlets that make up the commune of Roccavignale. It sits a short walk from the main village along a quiet country road and is notable mainly as a curiosity of Italian linguistic geography: a separate, almost entirely undocumented local dialect is still spoken by the dwindling resident population.

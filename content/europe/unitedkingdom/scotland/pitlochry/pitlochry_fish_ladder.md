@@ -10,6 +10,7 @@ story: >
   The fish ladder at Pitlochry dam is a series of 34 pools that allow Atlantic salmon to travel upstream past the hydroelectric dam that created Loch Faskally. An observation chamber below water level lets visitors watch salmon moving through the ladder — the fish press upstream in extraordinary numbers during the autumn run, gathering strength in the pools before launching themselves through the current.
 sources:
   - https://en.wikipedia.org/wiki/Pitlochry_fish_ladder
+score: 6.8
 ---
 
 The Pitlochry fish ladder sits beside the hydroelectric dam that backs up the River Tummel into Loch Faskally. The dam was built in the early 1950s as part of a large hydroelectric scheme, and the fish ladder was constructed alongside it to allow the salmon and sea trout that run the Tummel to continue to their spawning grounds upstream. It remains one of the most visited fish ladders in Britain.

@@ -6,6 +6,7 @@ longitude: 67.02327
 tags:
   - things_to_do
   - sight
+score: 6.3
 ---
 
 Gulshan-e-Jinnah — officially named in honour of Muhammad Ali Jinnah but widely known by its older name, the Polo Ground — is a large public park in the heart of Saddar, one of the few substantial green spaces in central Karachi. The park covers several hectares of lawns, trees, and walking paths, and serves as a communal breathing space for the surrounding dense urban area. Families gather here in the late afternoon, cricket is played on any available patch of grass, and the atmosphere on a Friday is close to that of a public festival.

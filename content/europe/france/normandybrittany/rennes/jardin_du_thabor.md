@@ -11,6 +11,7 @@ story: >
   sat on a hill the monks had fancifully renamed Thabor after Mount Tabor in the Holy Land.
   The monks grew medicinal plants here for centuries; when the abbey was dissolved during the
   Revolution, the city converted their gardens into a public park.
+score: 7.8
 ---
 
 The Jardin du Thabor is the finest park in Rennes, a 10-hectare formal garden laid out in the French style with an English landscape garden attached. It sits on a hill northeast of the old town and combines a classical rose garden, tree-lined allées, a small aviary, and an orangerie with the broader romantic landscape of paths through woodland and across open lawns.

@@ -1,6 +1,7 @@
 ---
 title: "Reichsstraße"
 type: poi
+score: 8.3
 ---
 
 The Reichsstraße is the old imperial road that runs through the heart of Donauwörth, lined with tall, closely packed townhouses in shades of ochre, cream, rose and pale blue. The street climbs gently from the Danube end up to the Liebfrauenmünster, and the effect — especially in morning light — is of a Baroque stage set still being used for its original purpose. The Rathaus and the Fuggerhaus (a 16th-century trading house built by the Augsburg banking dynasty) are the architectural anchors, but the pleasure is as much in the ensemble as any single building.

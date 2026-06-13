@@ -7,6 +7,7 @@ tags:
 - market
 title: Mochi Bazaar
 type: poi
+score: 6.5
 ---
 
 The cobbler's quarter of the old city, where leather workers make and sell the Jodhpuri mojri — the embroidered leather shoes with curled toes that are one of Rajasthan's most recognizable crafts. The workmanship varies: the better makers use camel leather, hand-stitch the uppers, and embroider with silk thread; the cheaper ones use synthetic materials and machine stitching. Take time to look, ask questions, and compare before buying.

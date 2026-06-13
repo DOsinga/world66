@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 16.9850
 longitude: 7.9870
+score: 8.4
 ---
 
 The camel market on the northern edge of Agadez is a genuine working trade market where livestock, salt, and goods from across the southern Sahara change hands. Tuareg and Fulani traders bring animals from as far as the Air Mountains and the Tenere, and the transactions are conducted in Hausa, Tamashek, and occasionally French. The market is most active in the early morning; by 11am the heat drives most business to a close.

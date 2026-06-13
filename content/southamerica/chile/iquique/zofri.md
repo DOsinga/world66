@@ -7,6 +7,7 @@ tags:
   - shopping
   - market
   - sight
+score: 4.2
 ---
 
 The Zona Franca de Iquique — Zofri to everyone — is the largest duty-free shopping zone in South America and the reason a lot of Chileans and Bolivians visit Iquique in the first place. It is a sprawling complex of warehouses and a covered mall at the north end of the city, full of electronics, perfumes, clothing, and household goods imported from Asia at tax-free prices.

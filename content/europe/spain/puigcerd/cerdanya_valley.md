@@ -6,6 +6,7 @@ longitude: 1.9528
 tags:
 - things_to_do
 - sight
+score: 8.0
 ---
 
 The Cerdanya is the wide, flat-floored Pyrenean valley that surrounds Puigcerdà — at about 30 kilometres long and 10 wide, it is one of the largest mountain valleys in Europe. The flat bottom is unusual: it sits at 1,200 metres yet is broad and pastoral, with farms, herds of dairy cattle and small stone villages, hemmed by high peaks rising to 2,800 metres.

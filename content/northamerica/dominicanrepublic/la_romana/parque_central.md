@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.4274
 longitude: -68.9728
+score: 4.9
 ---
 
 The main square of La Romana town is the kind of central park you find in every Dominican city — a shaded plaza with benches, a gazebo, and the obligatory white-painted church on one side. It is not a major tourist sight, but spending an hour here gives a clear sense of everyday Dominican life: old men playing dominoes in the shade, motoconchos (motorcycle taxis) weaving past, and vendors selling cold drinks and frituras from carts.

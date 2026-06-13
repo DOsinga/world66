@@ -10,6 +10,7 @@ tags:
 - beach
 title: Praia do Espelho
 type: poi
+score: 8.8
 ---
 
 Praia do Espelho is the famous beach south of Trancoso, often listed among Brazil's most beautiful. The recipe is simple and hard to improve: pale sand, warm green-blue water, cliffs, palms, and reef pools that appear when the tide drops.

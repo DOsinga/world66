@@ -8,6 +8,7 @@ tags:
   - day_trips
 title: Bender Fortress (Day Trip)
 type: poi
+score: 8.4
 ---
 
 Bender (also called Tighina) is a town of some 90,000 people about 15 km west of Tiraspol, and it contains the most spectacular historical monument in Transnistria: a 16th-century Ottoman fortress built by Suleiman the Magnificent on a bluff above the Dniester. The fortress was the site of several major battles and was briefly occupied by Charles XII of Sweden following his defeat at the Battle of Poltava. It later became a Soviet military facility and is still partially used by the Transnistrian military today.

@@ -11,6 +11,7 @@ story: >
   islet. The last seals left decades ago — hunted to local extinction by
   fishermen — but the name remains. A small monument near the lighthouse
   commemorates the colony that no longer exists.
+score: 8.7
 ---
 
 Isla de Lobos is a small, almost entirely uninhabited volcanic islet just two kilometres from Corralejo, accessible by boat in about ten minutes. The entire islet is a nature reserve and visitor numbers are limited by permit — you cannot simply show up — so book your boat from Corralejo harbour in advance. What you get for the effort is a rare thing in the Canary Islands: genuine quiet, striking volcanic landscape, and crystal-clear water for snorkelling.

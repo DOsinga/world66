@@ -10,6 +10,7 @@ latitude: 36.3800
 longitude: 102.3200
 story: >
   Qutan Monastery was built with direct imperial funding from the Yongle Emperor — the same emperor who rebuilt the Forbidden City — which explains why its layout so closely follows the grand ceremonial axis of Beijing's imperial palaces. Local historians sometimes call it the "Forbidden City of the northwest." Unlike many Chinese Buddhist sites, it suffered relatively little during the Cultural Revolution, partly because local villagers reportedly hid the most vulnerable murals and objects in nearby farms during the worst years.
+score: 8.7
 ---
 
 Qutan Monastery (Qutansi) is a Ming-dynasty Buddhist complex of remarkable preservation, built between 1387 and 1427 at the foot of a mountain in Ledu county. The monastery was established by imperial edict and funded directly from the central court's treasury — an unusual arrangement that explains the quality of its construction and the imperial scale of its layout, with a formal ceremonial axis connecting the main gate, ceremonial hall, bell and drum towers, and the main prayer hall in sequence, following the format of official palace architecture.

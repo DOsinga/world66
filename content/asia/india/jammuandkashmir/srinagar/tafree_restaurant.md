@@ -7,6 +7,7 @@ tags:
 latitude: 34.0870
 longitude: 74.8070
 address: "Residency Road, Srinagar"
+score: 6.5
 ---
 
 Tafree is a reliable mid-range Kashmiri restaurant on Residency Road, popular with both local office workers at lunch and tourists in the evening. The kitchen does the standard Kashmiri dishes well: rogan josh, rista, and dum aloo are all worth ordering. The setting is simpler than Ahdoos — a clean, unfussy room with no particular atmosphere — but the food quality is consistent and the service is efficient.

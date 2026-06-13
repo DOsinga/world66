@@ -14,6 +14,7 @@ story: >
   backed down and agreed to build a park instead. The murals began appearing on the bridge
   columns almost immediately — a collective act of community assertion. The park was designated
   a National Historic Landmark in 2016, nearly fifty years after the takeover that created it.
+score: 8.7
 ---
 
 Chicano Park sits in the heart of Barrio Logan, wedged under the sweeping concrete structure of the San Diego–Coronado Bridge. The park's eighty-plus murals cover the bridge's support columns and abutments — the largest collection of Chicano outdoor murals in the United States. The paintings span fifty years of work, from the founding muralists of the 1970s to recent additions, covering history, mythology, labour, immigration, and the Aztec past.

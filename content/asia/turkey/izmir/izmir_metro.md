@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4190
 longitude: 27.1285
+score: 5.4
 ---
 
 İzmir's metro (İZBAN and Metro İzmir) is one of the most useful transport systems in Turkey for visitors, connecting the airport at Gaziemir in the south through the city centre to Bornova in the northeast, with a commuter rail line extending along the coast. The system is clean, frequent, and inexpensive — a single journey costs around 12 Turkish lira with an İzmirim card.

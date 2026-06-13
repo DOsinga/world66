@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Main point of entry to Newfoundland by sea, with sailings to North Sydney, Nova Scotia"
+score: 4.6
 ---
 
 The Marine Atlantic ferry terminal is the reason most people pass through Channel-Port aux Basques. The crossing to North Sydney, Nova Scotia takes about six hours and runs several times a day in peak season, less frequently in winter. It's the primary land connection between Newfoundland and the Canadian mainland.

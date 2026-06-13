@@ -6,6 +6,7 @@ longitude: -24.9931
 tags:
   - things_to_do
   - sight
+score: 7.6
 ---
 
 The Fortim d'El-Rei is a small nineteenth-century Portuguese fortress on a low hill overlooking the western edge of Mindelo bay. The walls and a single round bastion are all that survive — the fort was never really tested in combat — but the position is wonderful: a panoramic view of the whole arc of Porto Grande bay, the city, the ferry port, and the dark mountainous silhouette of Santo Antao across the channel.

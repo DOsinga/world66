@@ -9,6 +9,7 @@ latitude: 17.1200
 longitude: -61.8455
 sources:
   - https://en.wikipedia.org/wiki/Redcliffe_Quay
+score: 7.6
 ---
 
 Redcliffe Quay is the most atmospheric part of St. John's — a cluster of 18th-century sugar warehouses, slave holding pens, and trading buildings that have been carefully restored and converted into shops, restaurants, and cafes. The brick and timber structures date mostly from the 1700s, when this waterfront was the commercial heart of one of Britain's richest sugar colonies.

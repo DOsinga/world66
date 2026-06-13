@@ -8,6 +8,7 @@ tags:
 - sight
 title: Cuevas de Santimamine
 type: poi
+score: 8.1
 ---
 
 About 8 km northeast of Guernika, in the Urdaibai biosphere, the Santimamine cave contains a small but exceptional series of Palaeolithic paintings: bison, horses, deer, and a bear, dated to around 14,000 years ago and stylistically related to the better-known art at Altamira.

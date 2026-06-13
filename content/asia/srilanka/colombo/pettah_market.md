@@ -9,6 +9,7 @@ tags:
 title: Pettah Bazaar
 type: poi
 neighbourhood: Pettah
+score: 8.0
 ---
 
 Pettah's covered bazaar streets are each informally dedicated to a particular trade: Main Street for electronics and hardware, Front Street for fabrics and clothing, Second Cross Street for spices and dried goods. It is chaotic, crowded, and entertaining, and you can find almost anything here at prices well below what you'd pay elsewhere in the city.

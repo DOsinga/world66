@@ -12,6 +12,7 @@ story: >
   jointly presenting their cultures under one roof despite being distinct peoples with different
   languages and territories. The building's design incorporates both the Squamish longhouse and
   the Lil'wat istken (earth house) as architectural references.
+score: 7.8
 ---
 
 The Squamish Lil'wat Cultural Centre tells the histories of two First Nations whose traditional territories encompass the Whistler area. The Squamish people are associated with the coast and the lower Sea to Sky corridor; the Lil'wat people with the higher mountain country to the north. Their cultures, art forms, and languages differ considerably, making the combined presentation genuinely educational.

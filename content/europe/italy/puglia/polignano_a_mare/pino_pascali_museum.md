@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - gallery
+score: 6.8
 ---
 
 The Pino Pascali Museum is Polignano’s contemporary art stop, dedicated to the artist born here in 1935. Pascali became one of the most original figures associated with Arte Povera before his death at only thirty-two.

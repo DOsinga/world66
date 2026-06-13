@@ -8,6 +8,7 @@ story: >
   The sulphur springs at the tip of the Sirmione peninsula — the Terme di Sirmione — have been used since Roman times and are among the largest in Europe. The water emerges from the lake bed at 37°C, rich in salts and sulphur, and feeds a thermal spa complex that treats everything from respiratory conditions to rheumatism. The Romans came for the same reasons.
 sources:
   - https://en.wikipedia.org/wiki/Sirmione
+score: 8.6
 ---
 
 Sirmione occupies a narrow peninsula jutting 4 km into the southern end of Lake Garda — an absurdly dramatic location that has made it one of the most visited spots in northern Italy. The medieval old town at the base of the peninsula is protected by the Scaligero Castle; the tip holds the Roman villa ruins of the Grotte di Catullo and a thermal spa complex.

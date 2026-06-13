@@ -6,6 +6,7 @@ latitude: 35.2132
 longitude: -3.8879
 story: >
   The Peñón de Alhucemas was the staging point for the 1925 Alhucemas landing — the world's first successful amphibious assault using air support, in which Spanish and French forces landed on the Rif coast to outflank Abd el-Krim's Rif Republic from the sea. The landing effectively ended the Rif War and led to Abd el-Krim's surrender the following year. Military historians study the operation as a precursor to the amphibious tactics developed during World War II.
+score: 4.8
 ---
 
 The Peñón de Alhucemas is a tiny island sitting barely 300 metres off the Moroccan coast, plainly visible from Al Hoceima's town beach. Despite its location in Moroccan waters, it is Spanish sovereign territory — one of the several Spanish enclaves and islands that remain along the Moroccan coast, an artifact of Spanish colonial history that Morocco contests but cannot legally recover.

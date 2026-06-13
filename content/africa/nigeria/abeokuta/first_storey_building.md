@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: 1845 mission house, claimed as Nigeria's first two-storey building
+score: 7.8
 ---
 
 The First Storey Building, on Ogbe Road in the Ake neighbourhood, was put up by the Reverend Henry Townsend of the Church Missionary Society in 1845 and is traditionally regarded as the first two-storey building in what is now Nigeria. The structure is plain: a small two-storey rectangle with whitewashed walls, an exterior staircase, a single chimney, and a low timber-roofed verandah running along one side.

@@ -7,6 +7,7 @@ snippet: Museum ship on the Trave, one of the last surviving German lightships
 tags:
 - things_to_do
 - museum
+score: 7.0
 ---
 
 The Feuerschiff Fehmarnbelt is the last surviving lightship of the German Baltic fleet, moored as a floating museum on the Trave between the Holstentor and the Hansemuseum. Built in 1908, it spent more than 75 years anchored at the Fehmarnbelt strait between Germany and Denmark, warning shipping away from the shallows.

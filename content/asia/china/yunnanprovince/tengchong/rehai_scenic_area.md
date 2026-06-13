@@ -13,6 +13,7 @@ story: >
   waters. The eggs are slightly sulphurous and taste demonstrably different from any you've
   eaten before. It is one of the more distinctive things you can eat in Yunnan, and costs
   about two yuan.
+score: 9.0
 ---
 
 The Rehai Scenic Area, 10 kilometres south of Tengchong, is the most concentrated and accessible geothermal field in China. More than 80 hot springs occupy a landscape of mineral-stained vents, bubbling pools, and columns of steam rising from the ground. The centrepiece is the Dagunguo spring, where water boils continuously at the surface and the surrounding area is layered with mineral deposits in sulphurous yellows and silica whites.

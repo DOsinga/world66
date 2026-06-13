@@ -10,6 +10,7 @@ longitude: 27.5547
 snippet: A moving memorial on a river island to Belarusians who died in the Afghan War
 story: >
   Belarus sent tens of thousands of soldiers to the Soviet-Afghan War between 1979 and 1989. More than 700 Belarusians died in the conflict. The chapel on the Isle of Tears was built without official Soviet approval in the last years of the USSR — a rare public acknowledgement of the human cost of a war the government had classified as a successful military intervention.
+score: 6.2
 ---
 
 The Isle of Tears is a small island in the Svislach River in the city centre, connected by a footbridge near the Troitsky Predmestye old town area. It holds a memorial chapel and sculptures dedicated to the Belarusian soldiers who died in the Soviet-Afghan War (1979–1989).

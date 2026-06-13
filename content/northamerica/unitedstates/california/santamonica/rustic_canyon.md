@@ -7,6 +7,7 @@ tags:
 latitude: 34.0251
 longitude: -118.4913
 snippet: "Market-driven California cooking in a relaxed neighbourhood restaurant — one of the city's best"
+score: 7.5
 ---
 
 Rustic Canyon on Wilshire is the kind of restaurant that gives California cuisine its good reputation — serious about ingredients without being precious about it, seasonal without lecturing the diner, and unpretentious despite doing genuinely sophisticated cooking. The menu changes frequently based on what the chefs are getting from farmers and foragers, and the wine list is thoughtfully chosen.

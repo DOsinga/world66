@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: National library in a striking modernist building in San Borja
+score: 7.4
 ---
 
 The **Biblioteca Nacional**, in San Borja east of Miraflores, moved in 2006 from a cramped colonial building in the centre to a brutalist concrete pavilion designed by Peruvian architect Franco Vella Zardín. The building's pleated facade and sunken reading-room courtyards are worth a visit on their own; inside, rotating exhibitions on Peruvian literature and printing history are open to the public.

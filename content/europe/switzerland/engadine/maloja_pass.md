@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 46.4083
 longitude: 9.6951
+score: 7.8
 ---
 
 The Maloja Pass (1,815 m) is the southwestern gateway to the Engadine, where the valley floor ends and the road descends abruptly into the Italian-speaking Val Bregaglia below. The pass is famous for the **Maloja wind** — a thermal phenomenon where cold air rushes up from the lower Italian valleys in the afternoon, creating the reliable sailing and windsurfing winds that make Silvaplana's lake so valued. You can see the cloud streaming over the Maloja saddle on many afternoons.

@@ -7,6 +7,7 @@ tags:
 latitude: 13.087
 longitude: 80.284
 snippet: "The old colonial commercial quarter, full of warehouse lanes and merchant history."
+score: 8.4
 ---
 
 George Town is the oldest part of the colonial city, the dense commercial quarter that grew up outside the walls of Fort St George from the late 17th century onwards. It was once called Black Town — the name given to the Indian settlement that developed alongside the European fort — and renamed George Town in 1911 during the royal visit of King George V.

@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Palm Jumeirah
 type: poi
+score: 6.1
 ---
 
 Palm Jumeirah is a palm-tree-shaped artificial island built on reclaimed land in the Arabian Gulf, extending 5 kilometres into the sea. Construction began in 2001 and required 94 million cubic metres of sand and 7 million tonnes of rock. It is best understood from the air — from the monorail or from the observation deck of the Atlantis resort — since at ground level it is largely a series of identical villa compounds and hotel access roads.

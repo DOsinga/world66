@@ -6,6 +6,7 @@ longitude: 13.0138
 tags:
   - things_to_do
   - neighbourhood
+score: 8.6
 ---
 
 Möllevången is Malmö's most diverse neighbourhood, a working-class district south of the city centre that has become the city's food and counter-culture hub. The Möllevångstorget square is the beating heart of it: a market selling fresh produce from around the world, surrounded by Middle Eastern bakeries, Vietnamese restaurants, falafel shops, and small grocery stores stocked with ingredients you won't find elsewhere in Sweden.

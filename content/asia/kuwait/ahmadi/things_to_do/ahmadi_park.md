@@ -1,6 +1,7 @@
 ---
 title: "Ahmadi Park"
 type: poi
+score: 7.7
 ---
 
 Ahmadi Park is one of the largest parks in Kuwait and one of the most unexpected sights in the country — a genuinely green, shaded expanse of lawn, trees, and walkways that feels almost surreal against the backdrop of the surrounding desert. The Kuwait Oil Company planted and irrigated it from the town's earliest days, understanding that liveable green space was essential for attracting and retaining international staff. The result is a park with mature trees that have had decades to grow, providing real shade that most of Kuwait simply lacks.

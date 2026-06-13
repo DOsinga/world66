@@ -11,6 +11,7 @@ tags:
 - landmark
 title: Pont d'Avignon (Pont Saint-Bénézet)
 type: poi
+score: 7.2
 ---
 
 Four surviving arches of a 12th-century bridge that once stretched 22 arches across the Rhône to Villeneuve-lès-Avignon. Repeated flooding destroyed most of it, leaving this photogenic stub jutting into the river just below the Palais des Papes. A multilingual audio tour explains the engineering and the legend of the shepherd Bénézet who, allegedly inspired by angels, proved his divine mandate by hurling a massive stone into the river as a foundation.

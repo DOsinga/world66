@@ -9,6 +9,7 @@ tags:
   - sport
 story: >
   Alyeska's upper mountain catches storms straight off the Gulf of Alaska, which is why it gets more snow than almost any other commercial ski area in North America — 669 inches in an average season. The maritime air also makes the snow heavier and wetter than the dry powder of the Rockies, which Alaskan skiers will defend at length as the right kind of snow for big-mountain skiing.
+score: 8.8
 ---
 
 Alyeska is the largest ski resort in Alaska, with eight lifts, around 1,600 acres of skiable terrain and a 762-metre vertical drop from the summit of Mount Alyeska down to the daylodge. The runs are mostly intermediate and advanced; what makes the place special is the snow, the views — every lift looks straight down onto Turnagain Arm and across to the Kenai Mountains — and the casual Alaskan vibe of the lift lines.

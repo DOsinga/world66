@@ -9,6 +9,7 @@ longitude: 23.31778
 address: "Cadmea, Thiva, Greece"
 story: >
   In 382 BC, a Spartan garrison occupied the Cadmea in peacetime, a shocking violation of Greek norms. The Theban general Pelopidas and his companions retook it in 379 BC dressed as women, having bribed the garrison commander after a dinner party. The incident became one of the most celebrated acts of resistance in ancient Greek history.
+score: 5.7
 ---
 
 The Cadmea is the ancient citadel of Thebes, now entirely overlaid by the modern town. The ground level has risen metres above the Mycenaean and Classical remains, most of which are only accessible through excavations in cellars, building sites, and the area around the museum. Fragments of Mycenaean fortification walls are visible near the museum entrance.

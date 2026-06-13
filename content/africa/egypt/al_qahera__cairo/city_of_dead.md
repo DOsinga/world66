@@ -9,6 +9,7 @@ latitude: 30.0330
 longitude: 31.2800
 story: >
   The medieval sultans and emirs of Cairo built their mausoleums in the Eastern Cemetery to be close to the Imam al-Shafi'i mosque — the tomb of the founder of one of the four main schools of Islamic jurisprudence, and a powerful site of intercession. The cemetery gradually expanded until it became one of the largest necropolis complexes in the world. When Cairo's housing crisis became acute in the 20th century, the living moved in among the dead.
+score: 8.8
 ---
 
 Cairo's City of the Dead — the Northern and Southern Cemeteries stretching along the base of the Muqattam hills — is one of the strangest urban phenomena in the world. It began as a royal necropolis in the Mamluk period, filled with the elaborate domed mausoleums of sultans and their households. As Cairo's housing pressure intensified in the 20th century, squatter communities grew up among the tombs, and today an estimated half-million people live here, their homes built alongside and sometimes within the funerary monuments.

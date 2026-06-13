@@ -9,6 +9,7 @@ longitude: -122.3465
 snippet: "The walkable main street connecting the Caltrain station to the hills"
 sources:
   - https://en.wikipedia.org/wiki/Burlingame,_California
+score: 7.3
 ---
 
 Burlingame Avenue runs west from the Caltrain station through the heart of town, lined with independent restaurants, cafes, boutiques, and a handful of local bars. It is the most pleasant street in Burlingame for walking, with mature street trees and good sidewalks — unusual for suburban California, where the car tends to dominate.

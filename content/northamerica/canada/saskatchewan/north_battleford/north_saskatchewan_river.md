@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, nature]
 latitude: 52.7575
 longitude: -108.3
+score: 7.0
 ---
 
 The North Saskatchewan separates North Battleford from Battleford and is the natural feature that shaped the area's history. The river flows wide and brown through cottonwood-lined banks, and the trails along both banks — and over the old Battleford Bridge — make for the best walks in the area.

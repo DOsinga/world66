@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: 34.1333
 longitude: 74.9167
+score: 8.3
 ---
 
 Dachigam National Park, 22 km northeast of Srinagar, protects one of the most important wildlife areas in the Himalayas and is the primary habitat of the Hangul — the Kashmir stag, a subspecies of red deer that is critically endangered. The park covers 141 square kilometres of mountain terrain rising from the Zabarwan Hills through mixed forest to alpine meadow, with the Dagwan River running through it. The Hangul population, once in the thousands, had fallen to fewer than 200 by the late 1990s; conservation efforts have stabilised it but not reversed the decline significantly.

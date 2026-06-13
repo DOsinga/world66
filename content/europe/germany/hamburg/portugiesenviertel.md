@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - neighbourhood
+score: 6.7
 ---
 
 A handful of streets between the Michaeliskirche and the docks — Ditmar-Koel-Strasse, Englische Planke, Ditmar-Koel-Strasse — make up Hamburg's Portuguese Quarter, a legacy of Portuguese, Spanish and Galician sailors who settled here from the 1960s onwards while working the container port.

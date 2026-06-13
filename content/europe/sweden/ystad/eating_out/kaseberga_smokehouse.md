@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Kåseberga Rökeri
 type: poi
+score: 7.4
 ---
 
 The Kåseberga smokehouse at the small harbour below Ales Stenar serves smoked herring, mackerel, salmon, and shellfish straight from the smokers. Eat at the outdoor picnic tables looking at the boats, with the cliff and the standing stones above. Pair the fish with potatoes and rye bread; the queues at lunch in summer are part of the experience.

@@ -6,6 +6,7 @@ latitude: 57.1560
 longitude: 65.5380
 story: >
   The carved wooden houses of Tyumen represent a craft tradition specific to Siberia: elaborate window frames, door surrounds, and facade decorations created by local craftsmen using patterns that combined Russian Orthodox motifs with older Siberian folk traditions. Each frame is unique — the carvers competed to produce increasingly ornate designs. Many houses date from the 19th century and are now among the most photographed buildings in Siberia.
+score: 8.4
 ---
 
 Tyumen's old quarter contains some of the finest surviving examples of traditional Siberian wooden domestic architecture in Russia. The carved window frames and decorated facades of the merchant houses along Respubliki Street and the surrounding lanes represent a building tradition that flourished in the 19th century, when local merchants had money and skilled craftsmen had time.

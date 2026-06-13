@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -41.4352
 longitude: 147.1350
+score: 6.6
 ---
 
 Yorktown Square is a short block of 19th-century commercial buildings on Wellington Street that have been converted into a small food and retail precinct. The warehouses and merchant premises date from the 1860s to 1880s, and the conversion was done with unusual care for the streetscape: the colonial-era façades are intact, and the interiors have kept the original timber floors, ironwork columns, and brick walls.

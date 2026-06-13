@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - bar
 - zona_hotelera
+score: 6.5
 ---
 
 Casa Jaguar is a small jungle restaurant and cocktail bar a few steps from Hartwood, with a bar built into the trees and ten or so tables under a palapa roof. The cocktail menu leans heavily on mezcal — most worked into long drinks with tamarind, basil, charred pineapple — and the bartenders take it seriously.

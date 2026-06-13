@@ -12,6 +12,7 @@ story: >
   helicopter), didn't — but the thinking behind them was five centuries ahead of its time.
 sources:
   - https://en.wikipedia.org/wiki/Museo_leonardiano_di_Vinci
+score: 8.6
 ---
 
 Housed in the Castello dei Conti Guidi at the center of Vinci, this is the main Leonardo museum and the right place to start your visit. The collection focuses on his scientific and engineering work — models of machines built from his notebook drawings, from flying contraptions to hydraulic devices to war machines — rather than his paintings. It is hands-on in spirit and genuinely interesting even if you arrive skeptical about yet another Leonardo exhibition.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.72
 longitude: 125.395
+score: 6.4
 ---
 
 The bulk of North Korea's maritime trade enters and leaves through the Nampo port complex, including a large dry-dock shipyard that builds cargo and fishing vessels and undertakes occasional naval work. The harbour stretches for several kilometres along the south bank of the Taedong, and a slow drive past it gives a rare glimpse of what a working North Korean industrial site looks like.

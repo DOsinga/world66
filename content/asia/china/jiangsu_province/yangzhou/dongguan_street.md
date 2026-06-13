@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 32.3960
 longitude: 119.4350
+score: 8.1
 ---
 
 Dongguan Street is the commercial spine of Yangzhou's old town, a pedestrianised lane lined with late Qing and Republican-era shophouses that has been restored without losing its character entirely. The buildings are low, the lane is narrow enough to be shaded for most of the day, and the side alleys running off it lead to the courtyard entrances of private gardens and old residences.

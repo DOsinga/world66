@@ -13,6 +13,7 @@ story: >
   The number 29 appears repeatedly throughout the architecture. It can hold
   5,000 worshippers simultaneously and during Friday prayers the surrounding
   lawns fill with men who cannot fit inside.
+score: 7.8
 ---
 
 The Jame'Asr Hassanil Bolkiah Mosque, also known as the Kiarong Mosque for its location in the Kiarong district, is the largest mosque in Brunei. Completed in 1994, it is a more modern building than the Omar Ali Saifuddien Mosque but equally striking — a complex of 29 golden domes surrounded by manicured gardens, four tall minarets, and decorative fountains.

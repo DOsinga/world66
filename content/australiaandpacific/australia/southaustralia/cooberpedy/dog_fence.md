@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The Dog Fence — formally the Dingo Fence — runs 5,614 km from Surfers Paradise on the Queensland coast to the Great Australian Bight. It is the longest continuous structure in the world, built between 1880 and 1885 to keep dingoes out of the sheep country south of the fence. The Coober Pedy section is one of the easier places to see it."
+score: 6.8
 ---
 
 Forty kilometres north of Coober Pedy, the unsealed road past the Breakaways crosses the Dog Fence. There is a small parking area, an interpretation board, and a section of the fence stretching east and west to the horizon — a wire-mesh barrier maintained continuously since the 19th century. Crossing it is a low-key but striking moment.

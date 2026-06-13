@@ -6,6 +6,7 @@ longitude: -0.6389
 tags:
   - things_to_do
   - sight
+score: 5.2
 ---
 
 The Port of Oran is one of the busiest commercial ports in North Africa — container ships, ferries to Spain and France, naval vessels at the inner basin. The breakwater extends almost 4 kilometres into the bay, sheltering a complex of quays that handle most of western Algeria's foreign trade.

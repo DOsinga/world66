@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sport
   - sight
+score: 4.3
 ---
 
 The Aliu Mahama Sports Stadium is Tamale's main sports venue, named after the late vice-president who was born in the city. It seats around 20,000 people and is used for football, athletics, and large public events. Real Tamale United — known locally as RTU — plays here in the Ghana Premier League, and a match day brings a crowd that is noisy, knowledgeable, and enthusiastic in the particular way that football crowds in West Africa tend to be.

@@ -10,6 +10,7 @@ tags:
 - museum
 title: Zentrum Paul Klee
 type: poi
+score: 8.7
 ---
 
 The Zentrum Paul Klee holds the world's largest collection of works by the Swiss-German painter Paul Klee, comprising around 4,000 works. The museum building was designed by Renzo Piano as three undulating hills of steel and glass set into an orchard landscape on the eastern edge of the city. The permanent collection rotates through temporary exhibitions, and the attached Kindermuseum Creaviva offers hands-on art activities for children.

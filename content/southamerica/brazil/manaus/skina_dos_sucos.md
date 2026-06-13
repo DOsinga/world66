@@ -9,6 +9,7 @@ tags:
 latitude: -3.1310
 longitude: -60.0247
 address: Avenida Eduardo Ribeiro, Centro, Manaus
+score: 6.5
 ---
 
 Skina dos Sucos is the place in central Manaus to try the Amazonian fruits in their most accessible form — as cold juices and sorbets. The counter lists dozens of options: cupuaçu (creamy, sour, the great regional fruit), taperebá, açaí com guaraná, graviola, bacuri, the eye-watering acerola. Order at the cashier and collect from the bar.

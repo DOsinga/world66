@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 9.8133
 longitude: 126.1395
+score: 5.9
 ---
 
 Kermit Surf & Restaurant has been a General Luna institution since before the island became famous. Run by a Filipino-Italian family, it serves excellent thin-crust pizza from a wood-fired oven alongside Filipino and Italian classics. The atmosphere is relaxed and the outdoor seating fills quickly in the evenings. The lasagne and pasta are consistently good, and the seafood pastas make use of the fresh catch.

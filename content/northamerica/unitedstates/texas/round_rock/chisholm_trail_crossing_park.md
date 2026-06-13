@@ -8,6 +8,7 @@ tags:
   - historic
 latitude: 30.5119
 longitude: -97.6894
+score: 6.8
 ---
 
 Chisholm Trail Crossing Park sits along Brushy Creek on the northwest edge of the old downtown and is where you will find the round rock itself — the large limestone boulder in the streambed that gave the city its name. The park is attractively landscaped, with walking trails along the creek bank and interpretive signs explaining the town's role as a major crossing on the Chisholm Trail.

@@ -6,6 +6,7 @@ latitude: 43.7790
 longitude: 11.0060
 story: >
   The abbey was established around the year 1100, when the hills above the Arno were still thick with forest and the road from Florence to Empoli ran through it. The building you see today retains its Romanesque core despite centuries of alteration, and the surrounding fields have barely changed since medieval times.
+score: 6.6
 ---
 
 This Romanesque abbey near Artimino is one of the oldest surviving religious buildings in the area, founded around 1100 at a time when the Montalbano hills were on a trade route linking Florence with the coast. The stone church is compact and austere in the Tuscan Romanesque manner, with little decoration beyond the careful proportions of the facade.

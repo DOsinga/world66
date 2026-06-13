@@ -9,6 +9,7 @@ longitude: 53.3569
 sources:
   - https://www.alaedin.travel/en/attractions/iran/mehdishahr/sangesar-nomadic-museum
   - https://en.icro.ir/Customs/Sangsari-Tribe-of-Iran
+score: 6.5
 ---
 
 The Sangesar Nomadic Museum in central Mahdishar is dedicated to the Sangesari tribal people, whose homeland is this city and the mountain valleys surrounding it. The collection was assembled through the efforts of a local benefactor, Mr Pakzadian, working with donations from nomadic families and community members. It is small but focused, and it tells a story that is harder to find in the big Iranian museums.

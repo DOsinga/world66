@@ -12,6 +12,7 @@ tags:
 - eating_out
 title: The Stinking Rose
 type: poi
+score: 5.4
 ---
 
 A California-Italian restaurant built entirely around garlic. The Bagna Cauda (warm garlic dip) is the essential appetiser; more adventurous diners can try the garlic ice cream. Also serves dishes without garlic for the garlic-averse, and has vegetarian options. A longstanding Beverly Hills curiosity.

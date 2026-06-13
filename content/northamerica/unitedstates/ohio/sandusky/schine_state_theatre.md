@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 41.4569
 longitude: -82.7125
+score: 8.0
 ---
 
 The State Theatre opened in 1928 as a vaudeville and silent-movie house and survives as one of the most intact Egyptian-revival cinemas in the Midwest. The interior — gilded ceilings, lotus-capital columns, a long flight of marble stairs — was the work of John Eberson, the architect behind dozens of "atmospheric" American theatres of the era.

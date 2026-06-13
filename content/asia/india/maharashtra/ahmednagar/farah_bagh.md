@@ -8,6 +8,7 @@ latitude: 19.068279
 longitude: 74.752016
 story: >
   Farah Bagh was built by Murtaza Nizam Shah II in the late 16th century as a pleasure garden and royal retreat, modelled on the garden complexes of Mughal Agra. It was here that Murtaza's ambitious mother, Chand Bibi — the famous regent who defended Ahmednagar against Akbar's Mughal army — is believed to have spent her final years before her assassination in 1599 by her own soldiers, who feared she was about to surrender the city.
+score: 6.5
 ---
 
 Farah Bagh is a surviving garden complex from the Nizam Shahi period, located a few kilometres south of the city centre. Though much of the original garden has been lost or modified over centuries, the central pavilion and some of the garden walls remain, giving a sense of the Deccani garden tradition that blended Persian, Mughal, and local elements.

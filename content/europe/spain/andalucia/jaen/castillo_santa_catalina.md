@@ -11,6 +11,7 @@ tags:
   - historic
 story: "When Fernando III of Castile took Jaén in 1246, he ordered the giant cross on top of the keep — visible from miles across the olive groves. The Moorish governor, holding out in the upper fort, eventually surrendered after a six-month siege; the city's coat of arms still bears Fernando's emblem."
 snippet: "Moorish-Christian hilltop fortress with views of olive groves to every horizon."
+score: 8.5
 ---
 
 The Castillo de Santa Catalina rides the ridge above Jaén at 800 metres, with the city tumbling down its eastern flank. The site was first fortified by the Romans, then by the Visigoths, but most of what stands today is the work of the Moorish Banu Said dynasty in the 12th and 13th centuries, with substantial Christian additions after the Reconquista in 1246.

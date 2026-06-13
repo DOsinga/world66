@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 7.6
 ---
 
 The old town spreads down the ridge from the abbey in a tangle of stepped alleys, vaulted passages and small piazzas. Stone houses are built directly into the soft local tufa, and most of them have a cantina or sottano dug back into the hill — the cool underground vaults where families once stored wine, oil and grain. A handful are open to visitors during the August festivals and the Carnevale.

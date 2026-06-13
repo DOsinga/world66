@@ -6,6 +6,7 @@ longitude: -124.3990
 tags:
   - things_to_do
   - sight
+score: 8.7
 ---
 
 The Mattole Road runs west and south from Ferndale, climbing steeply out of the Eel River valley before dropping down to the rugged coast at Cape Mendocino — the westernmost point in California. This drive is one of the most dramatic in the state: the road is narrow and unpaved in sections, the coastal scenery is entirely undeveloped, and the beaches at the bottom are wild, wave-hammered, and almost never crowded.

@@ -6,6 +6,7 @@ tags:
 - market
 title: Boaz Outlet Shopping
 type: poi
+score: 5.7
 ---
 
 Boaz has built its economy and its reputation around factory outlet shopping, with a large concentration of stores along US Highway 431 that draw bargain hunters from across the Southeast. The outlets include both name-brand manufacturers and discount clothing and homeware stores, with prices that justify the trip from Birmingham (about 60 miles south) or Chattanooga.

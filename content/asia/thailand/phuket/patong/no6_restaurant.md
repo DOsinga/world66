@@ -6,6 +6,7 @@ longitude: 98.3022
 tags:
   - eating_out
   - restaurant
+score: 6.4
 ---
 
 A tiny no-frills Thai eatery on Soi Sansabai with a long-running cult following among return visitors. The dining room holds maybe twelve tables, the menu is laminated and runs to forty-plus dishes, and the prices are at Phuket Town levels rather than Patong tourist-strip levels.

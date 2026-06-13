@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 15.5044
 longitude: -88.0327
+score: 6.1
 ---
 
 The Mercado de Guamalito is the main artisan market in San Pedro Sula, a covered indoor market where vendors sell crafts, clothing, leather goods, and souvenirs from across Honduras and Central America. You will find Lenca pottery from western Honduras, hand-woven textiles, leather bags, wood carvings, and various small objects made from tropical hardwoods and shells.

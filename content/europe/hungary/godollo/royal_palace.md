@@ -20,6 +20,7 @@ story: >
   language and genuinely liked the country, which the Hungarians reciprocated.
 sources:
   - https://en.wikipedia.org/wiki/Royal_Palace_of_G%C3%B6d%C3%B6ll%C5%91
+score: 9.1
 ---
 
 The Royal Palace of Gödöllő is the largest Baroque palace in Hungary, built in the 1740s for Count Antal Grassalkovich, a nobleman who had made his fortune as a royal administrator. After his family's line died out, the palace passed to the Habsburg crown, and from 1867 it became the official summer residence of Emperor Franz Joseph I and Empress Elisabeth. The palace reached its greatest splendour during this period, with elaborate rooms decorated for the empress and a programme of state visits and royal hunts.

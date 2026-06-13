@@ -12,6 +12,7 @@ tags:
 - kreuzberg
 title: Wild at Heart
 type: poi
+score: 6.7
 ---
 
 A Kreuzberg rock and punk bar with live concerts, parties, and a frozen margarita that earns its reputation. High energy, loud, and unapologetically messy — exactly what Wiener Straße nightlife should be.

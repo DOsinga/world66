@@ -6,6 +6,7 @@ tags:
 - books
 title: Jakarta Shadows
 type: poi
+score: 7.2
 ---
 
 A thought-provoking thriller set in Jakarta with a side trip to Bali. When Graham Young, a disillusioned ex-pat, shares a casual drink with a sleazy stranger, he gets caught up in an investigation into a series of killings. Set against a background of corruption and political and religious turmoil, there are shades of Graham Greene in the novel: post-colonial angst, cultural misunderstandings, and the search for moral redemption.

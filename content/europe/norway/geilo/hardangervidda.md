@@ -13,6 +13,7 @@ story: >
   for the 1943 SOE raid on the Norwegian heavy-water plant at Vemork; the
   saboteurs crossed it on skis through a winter storm and the trail they took
   is still marked.
+score: 9.4
 ---
 
 Hardangervidda begins immediately south and west of Geilo, and the village is one of the main trailheads onto the plateau. In summer the landscape is open tundra: lichen-coloured rocks, shallow lakes, wide skies, and very long views. The Norwegian Trekking Association (DNT) runs a network of huts a day's walk apart, so multi-day crossings are well organised and don't require a tent.

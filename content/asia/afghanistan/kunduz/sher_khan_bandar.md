@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.1842
 longitude: 68.6017
+score: 6.6
 ---
 
 Sher Khan Bandar is the river port and border crossing on the Panj River — the upper Amu Darya — about 60 kilometres north of Kunduz city. A bridge built with American aid in 2007 connects Afghanistan to Tajikistan here, replacing an older ferry crossing that for centuries carried trade between Central Asia and the Hindu Kush.

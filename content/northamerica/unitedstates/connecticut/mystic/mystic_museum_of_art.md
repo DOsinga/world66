@@ -7,6 +7,7 @@ tags:
 - museum
 title: Mystic Museum of Art
 type: poi
+score: 5.9
 ---
 
 Mystic Museum of Art is one of the reasons Mystic works as more than a quick highway stop. The village is small, so even the major attractions feel tied to the river, the bridge, and the working-waterfront history around them.

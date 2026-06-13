@@ -8,6 +8,7 @@ tags:
 latitude: 27.7746
 longitude: -82.6320
 snippet: "Walkable downtown boulevard lined with galleries, cafes, and waterfront parks"
+score: 7.0
 ---
 
 Beach Drive runs along the western edge of Tampa Bay through the heart of downtown, and it is the place where St. Petersburg feels most like itself. The boulevard is wide, the sidewalks are generous, and the bay is right there — pelicans on the seawall, sailboats anchored offshore, and a light that turns the water silver-gold in the late afternoon.

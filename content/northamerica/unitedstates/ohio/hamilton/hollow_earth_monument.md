@@ -8,6 +8,7 @@ latitude: 39.3995
 longitude: -84.5613
 story: >
   John Cleves Symmes Jr. was a War of 1812 veteran who became convinced the Earth was hollow and habitable inside. He lobbied Congress to fund an expedition to the polar opening, petitioned the Tsar of Russia, and spent decades promoting his theory. Hamilton, where he died in 1829, erected a small monument with a hollow sphere on top in his memory — one of the stranger memorials in Ohio.
+score: 6.7
 ---
 
 A small but genuinely curious attraction on the grounds of the Hamilton County Courthouse area. The monument commemorates John Cleves Symmes Jr. (1780–1829), an American army officer who devoted much of his life to the theory that the Earth is hollow and contains habitable inner worlds accessible through openings at the poles. The stone monument is topped with a hollow sphere — a literal representation of his beliefs.

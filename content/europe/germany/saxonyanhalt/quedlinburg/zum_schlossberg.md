@@ -7,6 +7,7 @@ tags:
 latitude: 51.7872
 longitude: 11.1388
 snippet: Traditional Harz cooking at the foot of the castle hill
+score: 5.5
 ---
 
 The restaurant at the foot of the Schlossberg is a reliable choice for the kind of food that makes sense in this landscape: game from the Harz forests, local pork dishes, and Harzer Roller cheese served in the traditional way — marinated in caraway and onion with dark bread and butter. The menu does not try to be clever, which is appropriate for a place like this.

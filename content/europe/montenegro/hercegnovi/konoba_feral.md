@@ -7,6 +7,7 @@ tags:
 - eating_out
 - restaurant
 snippet: "Long-running family-run seafood konoba on the seafront promenade"
+score: 5.8
 ---
 
 Feral has been on the Pet Danica below the old town for decades and is the local default for a long lunch of grilled fish. The menu is short — whatever came in that morning, weighed at the table — and the wine is honest house white from the Crmnica region.

@@ -14,6 +14,7 @@ story: >
   and carving the wrong crest was a serious offence requiring compensation.
 sources:
   - https://en.wikipedia.org/wiki/Chief_Johnson_totem_pole
+score: 5.4
 ---
 
 The Chief Johnson totem pole stands in a small park at the corner of Stedman and Dock Streets in the centre of town — a convenient and free introduction to totem culture within walking distance of the ferry dock. The current pole is a 1989 replica of the original carved in the 1890s for Chief Johnson, a Tlingit leader of the Ganaxadi clan. The original is preserved at the Totem Heritage Center.

@@ -15,6 +15,7 @@ story: >
   lived there until his death in 1035. He was canonised shortly afterwards, and
   the gate was converted into a church in his honour — the Romanesque apse built
   into the eastern tower still survives.
+score: 9.4
 ---
 
 The Porta Nigra is Trier's most recognisable landmark: a four-storey Roman city gate dating from the late 2nd century, built from massive sandstone blocks held together by iron clamps rather than mortar. It is the largest and best-preserved Roman gate north of the Alps, and the sight of it looming over the modern city is genuinely arresting.

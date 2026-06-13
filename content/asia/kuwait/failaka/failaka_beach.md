@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Sandy beaches and quiet Gulf waters, best visited October through March"
+score: 6.8
 ---
 
 Failaka's beaches are the island's most immediately pleasant feature — wide stretches of sand on the southern and eastern shores, with clean Gulf water and none of the crowd that packs the mainland's managed beach resorts. The water is warm for swimming from April through October but the summer heat makes beach visits uncomfortable during the day; the cooler months from October through March are ideal.

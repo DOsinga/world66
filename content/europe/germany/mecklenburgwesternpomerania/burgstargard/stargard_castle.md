@@ -14,6 +14,7 @@ story: >
   are held most days in season.
 sources:
   - https://en.wikipedia.org/wiki/Stargard_Castle
+score: 8.8
 ---
 
 The castle that gives Burg Stargard its name rises from a volcanic hill above the town, visible for miles across the flat Mecklenburg plain. The complex is remarkably intact: the keep, surrounding curtain walls, several towers, and a Romanesque chapel have all survived the centuries, making it one of the best-preserved medieval fortresses in northeastern Germany. A small museum inside traces the history of the castle and the surrounding duchy.

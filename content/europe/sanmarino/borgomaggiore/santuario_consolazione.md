@@ -12,6 +12,7 @@ tags:
 - sight
 title: Santuario della Beata Vergine della Consolazione
 type: poi
+score: 6.8
 ---
 
 The main church of Borgo Maggiore, a baroque structure a short walk from the cable car station. The interior is more elaborate than the plain exterior suggests: carved altars, 18th-century frescoes, and a collection of votive offerings — ex-votos — accumulated over centuries of pilgrimage. The church is an active place of worship rather than a museum, and is generally open during the day. It provides a quiet contrast to the crowded souvenir streets in the old city above.

@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic, museum, stare_mesto]
 latitude: 48.1433
 longitude: 17.1097
 story: The Treaty of Pressburg — one of the most consequential peace treaties of the Napoleonic era — was signed in the Primate's Palace in December 1805, just four days after the Battle of Austerlitz. Under its terms, Austria ceded large territories to France, effectively ending the Holy Roman Empire. Napoleon himself occupied the palace during the negotiations.
+score: 8.6
 ---
 
 The Primate's Palace (Primaciálny palác) is the finest Classicist building in Slovakia and one of the most elegant palaces of its era in Central Europe. It was built between 1778 and 1781 as the residence of the Archbishop of Esztergom, who held the title of Primate of Hungary. The pale yellow facade with its clean lines and central tympanum is a textbook example of late 18th-century Classicism.

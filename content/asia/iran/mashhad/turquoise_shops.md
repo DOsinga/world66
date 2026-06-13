@@ -4,6 +4,7 @@ type: poi
 latitude: 36.2900
 longitude: 59.6120
 tags: [shopping, market]
+score: 5.7
 ---
 
 A scattering of jewellery shops in central Mashhad specialise in turquoise mined in nearby [Neyshabur](/asia/iran/mashhad/neyshabur), the world's oldest source of the gemstone. Quality varies dramatically: the best Neyshabur turquoise is a deep sky blue with little or no matrix, and is sold by carat for prices comparable to fine semi-precious stones.

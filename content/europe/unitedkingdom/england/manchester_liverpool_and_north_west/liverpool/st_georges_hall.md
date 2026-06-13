@@ -10,6 +10,7 @@ tags:
 - architecture
 title: St George's Hall
 type: poi
+score: 9.5
 ---
 
 A vast neoclassical building completed in 1854 to combine concert halls and law courts in a single civic monument — a striking idea that produced one of the great public buildings of Victorian Britain. Designed by Harvey Lonsdale Elmes when he was 25, and completed after his early death by C.R. Cockerell.

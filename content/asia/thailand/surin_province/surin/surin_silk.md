@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 15.0618
 longitude: 103.7603
+score: 6.5
 ---
 
 Surin province is a recognised centre for mat-mee silk, an ikat weaving tradition that produces geometric-patterned cloth in rich purples, golds, and reds. The finest pieces are woven in villages outside the city, but you can buy directly from weavers or from shops around the central market in town.

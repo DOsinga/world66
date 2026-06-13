@@ -8,6 +8,7 @@ tags:
   - hiking
 latitude: 38.0594
 longitude: -81.0731
+score: 8.1
 ---
 
 For the postcard photograph of the New River Gorge Bridge from below, Long Point is the place. The trail leaves from a small parking lot on the southwest side of town, runs three flat miles through hardwoods, and ends on an open rocky promontory in the middle of the gorge with the full bridge framed at eye level.

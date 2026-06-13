@@ -15,6 +15,7 @@ story: >
   Army of Virginia into a crushing defeat on these same fields. Lincoln reportedly sat
   in the parlor absorbing news that the Confederacy was moving north toward Maryland —
   the Antietam campaign was days away.
+score: 6.5
 ---
 
 Liberia is a Federal-style plantation house built around 1825, sitting on a modest rise north of Old Town. During the Civil War, the house served as headquarters for several Union generals, and Lincoln himself visited here in 1862 following the second battle. The property is owned by the City of Manassas and managed as a historic site.

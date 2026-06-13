@@ -12,6 +12,7 @@ tags:
 - architecture
 title: Simtokha Dzong
 type: poi
+score: 8.7
 ---
 
 The oldest surviving dzong in Bhutan sits on a ridge about 5 km south of Thimphu on the road to Paro. Built in 1629, Simtokha is smaller and more intimate than Tashicho Dzong, with beautifully carved slate bas-reliefs (called serthas) set into the outer walls — over 300 of them, depicting Buddhist deities and scenes. The dzong now functions as an institute for language study rather than active government, which makes it quieter and easier to explore than the capital's main fortress.

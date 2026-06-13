@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 59.5128
 longitude: 25.9561
+score: 8.3
 ---
 
 The finest manor house in Lahemaa National Park, Palmse sits about 6 kilometres south of Võsu in its own landscaped park. The current neoclassical main building dates to the late 18th century when the von Pahlen family rebuilt the estate in the Baltic-German style — a style that once dotted this coast with dozens of estates, most of which did not survive the 20th century. Palmse has been meticulously restored and now serves as the visitor centre for Lahemaa National Park, with exhibitions on the park's natural and cultural history.

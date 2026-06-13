@@ -10,6 +10,7 @@ address: Corner Queen and Wellesley Streets, Auckland CBD
 url: https://www.the-civic.co.nz
 sources:
   - https://en.wikipedia.org/wiki/Civic_Theatre_(Auckland)
+score: 7.8
 ---
 
 Opened in 1929, the Civic is one of the finest surviving atmospheric theatres in the world. The interior is an extraordinary piece of theatrical excess: the auditorium ceiling is a painted sky with twinkling stars, while the walls are decorated with Moorish arches, Hindu temple motifs, and plaster elephants — an orientalist fantasy that was already slightly anachronistic when it opened. It was designed by Bohringer, Taylor & Johnson and seats 2,378 people.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.2143
 longitude: -122.9051
+score: 6.9
 ---
 
 Queen's Park is New Westminster's main green space — a large Victorian-era park on the hill above the city centre, with old-growth firs, a small petting farm, a children's spray park, and open meadows popular with picnickers and dog walkers. The park was established when New Westminster was British Columbia's capital, and the scale of the grounds reflects the ambitions of a city that expected to grow into the province's largest.

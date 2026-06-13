@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.1
 ---
 
 Hillcrest Park is a steep, oak-shaded hill just north of downtown Fullerton, laid out as a public park in 1922 and still one of the most pleasant green spaces in northern Orange County. Stone steps climb from the base on Brea Boulevard to a viewpoint at the top with a sweeping panorama over the city and, on clear days, out to the San Gabriel Mountains.

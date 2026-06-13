@@ -8,6 +8,7 @@ latitude: 40.70611
 longitude: 19.94028
 sources:
   - https://en.wikipedia.org/wiki/Hysen_Pasha_Mosque
+score: 6.1
 ---
 
 The Hysen Pasha Mosque, also known as the Clock Mosque (Xhamia e Sahatit) after the clock tower that once stood alongside it, sits in the Gorica quarter on the river's western bank. Built in the 18th century, it is a late Ottoman structure with more decorative ambition than the simple lead-domed mosque in Mangalem. The clock tower is gone, but the building itself is intact and in use.

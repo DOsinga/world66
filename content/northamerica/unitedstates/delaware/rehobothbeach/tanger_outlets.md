@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 38.7161
 longitude: -75.1386
+score: 4.7
 ---
 
 The Tanger Outlets on Route 1 north of Rehoboth are one of the primary draws for shoppers from Maryland, Virginia, and Washington DC, who make the trip specifically because Delaware has no sales tax. The saving of 5 to 10 percent on purchases from the usual mix of outlet stores — clothing brands, sportswear, housewares — is enough to make the drive worthwhile for those who shop in quantity.

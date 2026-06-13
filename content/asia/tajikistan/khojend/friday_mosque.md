@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Khujand's oldest mosque with intricate painted interiors beside a newer twin
+score: 8.5
 ---
 
 The Sheikh Muslihiddin Mosque complex in Khujand's central square contains two mosques side by side: an old one and a newer Soviet-era replacement built alongside it, a juxtaposition that neatly summarises the complicated relationship between Islam and the Soviet state in Central Asia. The old mosque dates to the 16th century and is named for a 12th-century Sufi poet revered in the region.

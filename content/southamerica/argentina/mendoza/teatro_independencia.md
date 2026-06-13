@@ -17,6 +17,7 @@ story: >
   the original neoclassical facade but updated the stage technology.
 sources:
   - https://en.wikipedia.org/wiki/Teatro_Independencia
+score: 6.9
 ---
 
 Teatro Independencia is Mendoza's premier performing arts venue, a neoclassical building from 1925 with four Corinthian columns rising from a green marble base on the edge of Plaza Independencia. The interior was modelled on Italian opera houses, with four tiers of balconies and grand marble stairs leading to the 730-seat auditorium. It is the home of the Provincial Philharmonic Orchestra and hosts visiting companies, music festivals, and theatrical performances throughout the year.

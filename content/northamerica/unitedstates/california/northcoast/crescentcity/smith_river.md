@@ -6,6 +6,7 @@ tags:
 - park
 title: Smith River
 type: poi
+score: 7.8
 ---
 
 The Smith River is one of the last major undammed rivers in California, running clear and cold over boulders from the Siskiyou Mountains to the Pacific. The water is famously jade-green in summer — stained by tannins from the redwood forest — and the river is one of the best steelhead and salmon fisheries in the state.

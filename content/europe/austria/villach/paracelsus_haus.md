@@ -17,6 +17,7 @@ story: >
   ancient texts would not have recognised modern pharmacology — but several
   of his core ideas about observation and empirical treatment anticipate it.
   Villach is justifiably proud of the connection, however tenuous.
+score: 5.8
 ---
 
 The Paracelsus House in the old town marks the connection between Villach and the Renaissance polymath Paracelsus (1493–1541), one of the most important and provocative figures in the history of medicine. Paracelsus spent his formative years in Villach where his father practiced medicine, and the city has claimed him as a local figure ever since.

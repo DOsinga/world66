@@ -6,6 +6,7 @@ latitude: 49.6018
 longitude: 11.0036
 sources:
   - https://en.wikipedia.org/wiki/Stadtmuseum_Erlangen
+score: 6.7
 ---
 
 The Stadtmuseum tells the story of Erlangen from the Huguenot settlement in 1686 through the industrial age and the university's development into a major research centre. It occupies a historic building near the city centre and holds collections of local art, craft, and historical documents.

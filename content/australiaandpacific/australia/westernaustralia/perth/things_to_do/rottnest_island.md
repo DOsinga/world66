@@ -10,6 +10,7 @@ tags:
 latitude: -31.9990
 longitude: 115.5210
 story: "The quokka, the small wallaby that has made Rottnest famous worldwide through the selfie phenomenon, was the reason the island got its name. When the Dutch explorer Willem de Vlamingh arrived in 1696 he mistook the quokkas for large rats, and named the island Rottenest — Rats' Nest. Three centuries later, the same animals are among the most photographed wildlife on the planet."
+score: 9.6
 ---
 
 Rottnest Island lies 19 kilometres off the Perth coast, a 30-minute ferry ride from Fremantle or 45 minutes from Barrack Street Jetty in the city centre. It is a car-free island of beaches, bays, and coastal heathland, and it is famous above all for one thing: quokkas. These small, friendly marsupials are found almost exclusively on Rottnest and have no fear of humans, which makes close encounters — and the inevitable selfies — essentially unavoidable. They are, genuinely, one of the more delightful wildlife encounters you can have in Australia without planning a safari.

@@ -6,6 +6,7 @@ tags:
 - art
 latitude: 23.0609
 longitude: -109.6993
+score: 7.5
 ---
 
 Every Thursday evening from November to June, the galleries on and around Calle Álvaro Obregón in the centro histórico open their doors simultaneously and serve drinks to visitors. The art walk — known locally as simply 'the Thursday' — runs from around 6pm to 9pm and is the social event of the week in San José. Twenty or more galleries participate, covering everything from fine art photography to Mexican craft-influenced painting to sculpture.

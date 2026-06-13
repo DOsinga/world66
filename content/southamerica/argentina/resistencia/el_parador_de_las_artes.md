@@ -8,6 +8,7 @@ tags:
 latitude: -27.4513
 longitude: -58.9904
 address: "Mitre 164, Resistencia"
+score: 6.9
 ---
 
 The Museo de Bellas Artes René Brusau is the province's main fine-arts museum, named for the Chaco-born painter René Brusau and housed in a renovated period building near the centre. The permanent collection focuses on 20th-century Argentine painting, with a particularly strong holding of the Chaco school of regional realism.

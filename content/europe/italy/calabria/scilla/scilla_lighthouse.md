@@ -7,6 +7,7 @@ tags:
 - sight
 title: Scilla Lighthouse
 type: poi
+score: 7.2
 ---
 
 The Scilla Lighthouse sits on the rocky promontory just beyond the Castello Ruffo, marking the northern flank of the Strait of Messina alongside its counterpart, the Capo Peloro lighthouse on the Sicilian side. The pair has guided ships into the Strait since the early 20th century; the white tower is still active.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Ohira Bay Basalt Columns
 type: poi
+score: 8.1
 ---
 
 The columnar basalt formations at Ohira Bay on the south coast of Chatham

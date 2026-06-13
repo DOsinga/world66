@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 13.0108
 longitude: -61.2341
+score: 6.4
 ---
 
 Mac's Pizzeria is one of Bequia's institutions — a casual open-air restaurant on the waterfront in Port Elizabeth that has been feeding sailors, locals, and visiting yachties for decades. The lobster pizza is the signature dish and is genuinely excellent, though any pizza here is better than you would expect from a small island kitchen.

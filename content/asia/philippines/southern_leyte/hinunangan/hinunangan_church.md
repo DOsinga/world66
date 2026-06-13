@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.3940
 longitude: 125.1999
+score: 6.9
 ---
 
 The parish church of Saint John the Baptist stands at the centre of Hinunangan town, as it has since the Spanish colonial period. The current structure dates largely from the 19th century, built in the Spanish colonial style typical of provincial Philippine churches: thick stone walls, a prominent bell tower, and a modest baroque facade.

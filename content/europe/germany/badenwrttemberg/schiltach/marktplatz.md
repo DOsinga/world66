@@ -7,6 +7,7 @@ tags:
 latitude: 48.2905
 longitude: 8.3438
 story: "The square's distinctive slope was deliberate: merchants pulled their carts uphill to load goods from the storerooms above, and empty wagons rolled back down under gravity. The town hall at the top was rebuilt after a fire in 1590 and still functions as the municipal office today."
+score: 8.6
 ---
 
 The sloping market square is Schiltach's centrepiece — a tightly arranged ensemble of sixteenth and seventeenth-century half-timbered houses that has survived fire and the centuries in unusually complete form. The buildings are painted in ochre, cream, and terracotta, and most are still in daily residential or commercial use rather than frozen as museum pieces.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.3
 ---
 
 Zadar's Romanesque cathedral, the largest in Dalmatia, was completed in the 13th century on the site of an earlier 4th-century basilica. Its facade — three tiers of blind arcades and small rose windows in white stone — is one of the finest pieces of Romanesque architecture in Croatia, and the interior preserves a fine 13th-century mosaic floor over some sections.

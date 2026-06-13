@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.591775
 longitude: -44.273732
+score: 6.6
 ---
 
 The Bacanga State Park protects a large area of mangrove and Atlantic Forest on the southern part of the island of São Luís, bordering the Bacanga River estuary. The mangroves here are among the most intact in northeastern Brazil, and the park is important habitat for migratory birds as well as caimans, monkeys, and other wildlife that still survives in the urban sprawl.

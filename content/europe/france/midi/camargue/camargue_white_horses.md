@@ -12,6 +12,7 @@ story: >
   Camargue horses are born dark grey or black and turn white only as they age — usually by their fourth or fifth year. The breed has lived semi-wild in the delta for thousands of years; its origins are unclear, but genetic studies suggest it has been isolated long enough to develop as a distinct breed with unusual hardiness and compact conformation.
 sources:
   - https://en.wikipedia.org/wiki/Camargue_horse
+score: 7.0
 ---
 
 The white horses of the Camargue are one of the most iconic sights in southern France — semi-wild herds grazing in the marshes, wading through shallow lagoons, and galloping across open ground with the kind of natural grace that makes you want to stop the car and stare. You can often spot them from the roads through the reserve, particularly around Méjanes and along the Route d'Arles as it crosses the delta.

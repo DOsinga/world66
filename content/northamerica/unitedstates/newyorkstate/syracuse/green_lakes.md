@@ -9,6 +9,7 @@ tags:
 - nature
 title: Green Lakes State Park
 type: poi
+score: 8.6
 ---
 
 Green Lakes State Park in Fayetteville, just east of Syracuse, is named for its two glacial lakes whose water is a striking blue-green. The colour comes from an unusual phenomenon: the lakes are meromictic, meaning their deep and shallow waters never mix, leaving suspended calcium carbonate particles that scatter light. Fewer than 100 such lakes exist worldwide.

@@ -8,6 +8,7 @@ tags:
 - sight
 title: Scheveningen Beach
 type: poi
+score: 7.9
 ---
 
 The beach is the reason Scheveningen exists as a resort: a five-kilometre run of clean broad sand, gently sloping into the North Sea, backed in summer by a string of beach clubs (strandtenten). The sand is fine and grey-blonde, the water cold even in August — swimmable, but expect a North Sea bite.

@@ -14,6 +14,7 @@ story: >
   turning the cemetery into a brilliantly lit gathering place where the
   living and the dead are believed to share a night together. It is deeply
   moving and entirely accessible to respectful visitors.
+score: 6.1
 ---
 
 The Panteón Municipal is Agua Prieta's main historical cemetery, containing graves from the early 20th century when the city grew rapidly around the copper mining industry. The elaborate ironwork and stone monuments in the older sections reflect the modest prosperity of a frontier mining town.

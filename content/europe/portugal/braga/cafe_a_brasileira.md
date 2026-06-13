@@ -9,6 +9,7 @@ tags:
   - cafe
 title: "Café A Brasileira"
 type: poi
+score: 7.2
 ---
 
 One of the great Portuguese coffee-house institutions, A Brasileira in Braga dates from 1907 and has retained its original wood-panelled interior, marble counter, and unhurried atmosphere. It occupies a corner on Largo do Barão de São Martinho, a short walk from the cathedral, and serves coffee, pastries, and light snacks. The galão (milky coffee served in a tall glass) is a Braga staple — this is a good place to try one.

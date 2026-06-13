@@ -8,6 +8,7 @@ latitude: 57.3155
 longitude: 25.2711
 sources:
   - https://en.wikipedia.org/wiki/C%C4%93sis
+score: 7.6
 ---
 
 The large Gothic church beside the castle dates from the thirteenth century and is one of the oldest surviving churches in Latvia. It was the main church of the Livonian Order in Cesis and served the castle garrison as well as the town. The tower can be climbed for views over the old town rooftops and the Gauja Valley forests.

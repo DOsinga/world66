@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - sight
+score: 8.3
 ---
 
 The Old Timers Mine, on Crowders Gully Road, is a self-guided walk through a genuine 1916 opal mine that includes a re-created underground dugout home from the same period. The route runs through narrow tunnels still pocked with the seams the original miners worked — opal traces are visible in the walls.

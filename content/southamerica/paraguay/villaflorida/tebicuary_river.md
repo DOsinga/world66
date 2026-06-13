@@ -10,6 +10,7 @@ latitude: -26.4080
 longitude: -57.1250
 story: >
   The Tebicuary is a slow, tannin-stained river that drains a vast wetland system south of Asunción before joining the Río Paraguay. Its name comes from Guaraní *teby kuaru*, roughly "place of small fish" — a misnomer, since the river is best known for hosting some of the largest freshwater fish in the country, including the spectacular golden dorado.
+score: 7.2
 ---
 
 The Tebicuary River is the reason Villa Florida exists. It runs broad and slow past the town, crossed here by the bridge on Ruta 1, and is one of the most popular sport-fishing rivers in Paraguay. The season runs roughly August to November; outside those months the river is hot, low and quiet.

@@ -12,6 +12,7 @@ story: >
   and a young Franklin D. Roosevelt dined here in 1928 — still years before he entered
   the White House. Former President Jimmy Carter, who grew up nearby in Plains, has long
   supported the hotel's revival.
+score: 8.2
 ---
 
 The Windsor Hotel is the architectural centerpiece of downtown Americus — a five-story Queen Anne pile built in 1892 that looks improbable and magnificent in equal measure for a small Georgia city. Swedish-born architect Gottfried Leonard Norrman designed it with a dramatic three-story atrium, towers, and wraparound verandas, when Americus was a prosperous cotton-trading hub with ambitions to rival Atlanta.

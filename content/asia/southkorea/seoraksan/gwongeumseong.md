@@ -16,6 +16,7 @@ story: >
   established in 1970.
 sources:
   - https://en.wikipedia.org/wiki/Gwongeumseong
+score: 7.6
 ---
 
 Gwongeumseong is a mountain fortress on a ridge above the Oesorak valley, reached most easily via the Seoraksan cable car from the Seorakdong park entrance. The cable car delivers passengers to a station near 700 metres elevation, from where a short walk brings you to the fortress ruins — sections of the Goryeo-era stone walls still standing on the rocky ridge, with panoramic views over the park.

@@ -12,6 +12,7 @@ story: >
   before falling into disuse in the twentieth century. The estate has been reimagined as
   an arts and cultural commune, with painters, sculptors, and makers setting up studios
   in the outbuildings — a decaying nobleman's retreat turned into a living creative experiment.
+score: 7.2
 ---
 
 Kasteel Nieuwenhoven sits a couple of kilometres north of the town centre, in a wooded park that gives no hint of what lies within. The castle itself is an elegant mix of Gothic and Renaissance stonework, with a formal garden, a historic dovecote, and a collection of outbuildings that have found new life as artists' studios.

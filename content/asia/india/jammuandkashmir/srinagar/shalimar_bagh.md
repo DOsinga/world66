@@ -15,6 +15,7 @@ story: >
   diaries, and his descriptions of spending evenings here with Nur Jahan, watching
   the fountains play and the mountains darken, are some of the most personal writing
   to survive from any Mughal emperor.
+score: 8.2
 ---
 
 The largest of Srinagar's Mughal gardens, Shalimar Bagh was laid out in 1619 by Emperor Jahangir on the northeastern shore of Dal Lake. It rises in four terraces, each framed by tall chinar trees whose canopy turns brilliant amber and red in autumn. A central channel runs through all four levels, with marble pavilions straddling the water at each terrace. The innermost terrace, the zenana enclosure built for the women of the court, has particularly fine black marble columns.

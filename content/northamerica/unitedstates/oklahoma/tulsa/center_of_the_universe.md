@@ -11,6 +11,7 @@ story: >
   Stand in the small concrete circle in the centre of the bridge, speak or stamp your foot, and your voice echoes back at an inexplicably amplified volume — audible only to you, not to anyone standing nearby. Engineers and acousticians have studied the phenomenon without reaching a satisfying explanation. It has been there since at least the 1980s.
 sources:
   - https://en.wikipedia.org/wiki/Center_of_the_Universe_(Tulsa)
+score: 6.8
 ---
 
 In the middle of a pedestrian bridge over Boston Avenue, between two parking garages in downtown Tulsa, a small concrete circle is marked as the Center of the Universe. Stand inside it and you will hear your own voice echoed back at an uncanny amplified volume that nobody standing outside the circle can hear. The phenomenon attracts curious visitors year-round, and nobody has definitively explained the acoustics behind it.

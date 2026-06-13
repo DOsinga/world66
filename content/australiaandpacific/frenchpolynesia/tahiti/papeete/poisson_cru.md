@@ -8,6 +8,7 @@ tags:
   - restaurant
   - tahitian
 neighbourhood: Marché
+score: 7.1
 ---
 
 Poisson cru — the Tahitian national dish — is fresh tuna sashimi cubed and marinated quickly in lime juice, then dressed with coconut milk, diced cucumber, tomato and onion. It's served everywhere on the island; the best are the simple ones with tuna that came out of the lagoon that morning.

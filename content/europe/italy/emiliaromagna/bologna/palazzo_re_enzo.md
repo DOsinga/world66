@@ -7,6 +7,7 @@ snippet: Gothic palace where King Enzo of Sardinia spent 23 years as a prisoner
 tags:
 - things_to_do
 - sight
+score: 6.9
 ---
 
 Built in 1245 as an extension to the older Palazzo del Podestà, the Palazzo Re Enzo takes its name from Enzo of Sardinia, illegitimate son of Holy Roman Emperor Frederick II. Captured by Bolognese troops at the Battle of Fossalta in 1249, he was held here in honourable captivity until his death in 1272 — 23 years that he reportedly filled with poetry, music, and fathering at least one daughter with a local woman.

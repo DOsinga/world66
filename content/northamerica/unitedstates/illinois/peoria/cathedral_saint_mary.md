@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 40.6985
 longitude: -89.5850
+score: 6.5
 ---
 
 The Cathedral of Saint Mary is the mother church of the Roman Catholic Diocese of Peoria and one of the more handsome ecclesiastical buildings in central Illinois. The current structure dates to the late nineteenth century and reflects the Gothic Revival style that American Catholic dioceses favored for cathedral construction in that period — pointed arches, a prominent spire, and an interior designed to make the congregation feel appropriately small in relation to the divine.

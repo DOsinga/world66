@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "The original Ishtar Gate was excavated by German archaeologists in the early 20th century and shipped to Berlin in tens of thousands of fragments. It still stands, reconstructed, in the Pergamon Museum. What you see at Babylon today is a smaller replica, built in the 1980s on the original foundations as part of Saddam Hussein's reconstruction programme."
+score: 9.3
 ---
 
 The Ishtar Gate was the eighth and most ornate gate of Nebuchadnezzar II's inner city wall, completed around 575 BC and dedicated to the goddess of love and war. It was finished in deep blue glazed bricks and decorated with rows of dragons (the symbol of Marduk) and bulls (the symbol of Adad), striding in low relief along the gate and the processional way leading up to it.

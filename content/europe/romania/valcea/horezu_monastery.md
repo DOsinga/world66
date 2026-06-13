@@ -11,6 +11,7 @@ story: >
   Constantin Brâncoveanu, the Wallachian prince who commissioned Horezu in 1690, developed the Brâncovenesc style — a synthesis of Byzantine, Ottoman, and Italian Renaissance elements — specifically for this monastery. Brâncoveanu was later captured by the Ottomans, taken to Constantinople, and beheaded along with four of his sons in 1714 after refusing to convert to Islam. He was subsequently canonised by the Romanian Orthodox Church. His portrait appears in the narthex alongside those of his sons.
 sources:
   - https://en.wikipedia.org/wiki/Horezu_Monastery
+score: 9.2
 ---
 
 Horezu Monastery is the finest surviving example of the Brâncovenesc architectural style and a UNESCO World Heritage Site since 1993. The complex was founded in 1690 by the Wallachian prince Constantin Brâncoveanu and includes a large catholicon (main church), several smaller chapels, monks' quarters, and a princely house, all arranged around a series of courtyards. The interior frescoes are of extraordinary quality — vivid, detailed, and still largely intact after three centuries.

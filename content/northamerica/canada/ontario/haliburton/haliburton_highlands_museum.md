@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.0521
 longitude: -78.5279
+score: 6.3
 ---
 
 The Haliburton Highlands Museum sits at the entrance to Glebe Park and tells the story of the area from the Anishinaabe presence and 19th-century settler logging to the rise of the cottage industry in the 20th century. The site includes the main exhibit gallery and a cluster of restored buildings — a log house, a one-room schoolhouse, a blacksmith shop — moved here from elsewhere in the region.

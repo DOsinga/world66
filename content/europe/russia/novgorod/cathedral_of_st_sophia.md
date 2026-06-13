@@ -17,6 +17,7 @@ story: >
   the cathedral.
 sources:
   - https://en.wikipedia.org/wiki/Cathedral_of_Saint_Sophia,_Novgorod
+score: 9.4
 ---
 
 The Cathedral of Saint Sophia in Novgorod is the oldest surviving stone building in Russia, predating most of the country's medieval architecture by centuries. Built between 1045 and 1050 on the orders of Yaroslav the Wise, it served as the spiritual centre of the Novgorod Republic for nearly five centuries. The exterior is massive and austere — white-washed stone, thick walls, small windows, and a lead-covered golden dome that has been the city's landmark for almost a thousand years.

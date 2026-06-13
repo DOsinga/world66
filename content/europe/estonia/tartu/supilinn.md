@@ -7,6 +7,7 @@ tags:
 title: Supilinn (Soup Town)
 type: poi
 story: "Supilinn's streets are named after vegetables — Pea Street, Bean Street, Carrot Street, Cabbage Street — a quirk from the 19th century when this was a low-income neighborhood of market gardeners who grew produce for the city. The vegetable names survived Soviet street renaming, which preferred abstract nouns and revolutionary dates. The neighborhood is now a heritage conservation area."
+score: 8.3
 ---
 
 Supilinn (Soup Town) is Tartu's most charming neighborhood — a district of wooden houses north of the old town along the Emajõgi river, with streets named after vegetables. The neighborhood was originally working-class, inhabited by market gardeners and craftspeople. Many of the 19th-century wooden houses have survived relatively intact, giving Supilinn a distinctive character unlike anywhere else in Estonia.

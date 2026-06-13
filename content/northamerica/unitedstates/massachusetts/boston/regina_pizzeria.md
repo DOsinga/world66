@@ -10,6 +10,7 @@ tags:
 title: Regina Pizzeria
 type: poi
 url: www.reginapizzeria.com
+score: 7.3
 ---
 
 Regina Pizzeria on Thacher Street has been turning out brick-oven pizzas in the North End since 1926, and it is the original location — not one of the dozen suburban offshoots that copied the name later. The dining room is small, cramped, and noisy; the brick oven at the back is the same one that has been running for nearly a century.

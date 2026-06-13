@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/San_Nicolo_dell%27isola_di_Sestri_Levante
 story: >
   The church is sometimes called "dell'isola" (of the island) because the peninsula it sits on was once a true island, connected to the mainland only at low tide. The silting-up of the channel over medieval centuries slowly transformed it into the promontory that exists today.
+score: 8.0
 ---
 
 The 12th-century Chiesa di San Niccolò dell'Isola stands at the tip of Sestri Levante's peninsula, near the ruins of the old castle, in a Romanesque-Gothic style typical of Liguria. Its compact nave, simple stone facade, and position above the two bays make it the most photogenic building in town.

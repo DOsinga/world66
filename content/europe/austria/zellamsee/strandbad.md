@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 47.3160
 longitude: 12.7990
+score: 7.4
 ---
 
 The Strandbad is Zell am See's public lido on the southern edge of the lake, open from June to September. It is a proper alpine beach: clean gravel and grass, diving boards of several heights, a shallow paddling area for children, and a café serving refreshments. Pedal boats and rowing boats can be hired from the jetty.

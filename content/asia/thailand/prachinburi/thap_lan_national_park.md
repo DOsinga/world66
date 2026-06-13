@@ -11,6 +11,7 @@ latitude: 14.3064
 longitude: 101.9167
 sources:
   - https://en.wikipedia.org/wiki/Thap_Lan_National_Park
+score: 7.2
 ---
 
 Thap Lan is the largest of the four parks in the Dong Phayayen–Khao Yai Forest Complex and the least visited. At 3,713 square kilometres, it stretches across the border of Prachinburi and Nakhon Ratchasima provinces. The terrain is dominated by dry dipterocarp and mixed deciduous forest on undulating plateau, quite different in character from the denser tropical forest of Khao Yai.

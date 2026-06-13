@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 story: "The Penha Sanctuary on top of the hill is an Art Deco church finished in 1947 — an unexpectedly modern building in a city otherwise defined by stone and timber."
+score: 7.4
 ---
 
 The highest point of the city, at 613 metres, with a panoramic view back over the rooftops, the historic centre, and the Minho countryside. You can drive up or — much more fun — take the Guimarães Cable Car, a six-minute gondola ride that climbs straight up the wooded slope.

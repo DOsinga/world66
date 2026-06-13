@@ -8,6 +8,7 @@ latitude: 44.618388
 longitude: 33.524263
 story: >
   During the first Siege of Sevastopol in 1854–55, the Russians deliberately sank their own warships across the harbour mouth to block the entry of the British and French fleet. The column marks the spot where this was done — a symbol of sacrifice that became central to Sevastopol's identity as a "hero city."
+score: 6.6
 ---
 
 The Monument to the Sunken Ships is Sevastopol's most iconic landmark — a stone column rising from the sea just off the waterfront promenade, topped by a double-headed eagle. Built in 1905 to commemorate the 50th anniversary of the first Siege of Sevastopol (1854–55), it marks the spot where the Russian navy sank its own fleet to block the harbour entrance against the British and French.

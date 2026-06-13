@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -2.5667
 longitude: 150.8000
+score: 7.3
 ---
 
 The harbour is the obvious anchor of the town, a wide and almost completely sheltered body of water dotted with small islands and reef heads. A working wharf, a small fishing fleet, and the dive boats all share the same waterfront, which catches a good sunset over the channel.

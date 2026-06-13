@@ -9,6 +9,7 @@ latitude: 47.5572
 longitude: 7.5908
 sources:
   - https://en.wikipedia.org/wiki/Museum_of_Cultures_(Basel)
+score: 8.5
 ---
 
 Switzerland's largest ethnographic museum, with particularly strong collections from the South Pacific, Mesoamerica, Tibet, and Bali. The building, a striking Pritzker-listed extension by Herzog & de Meuron, sits just behind the Minster and is impossible to miss — the scalloped roof looks like a large reptile sheltering against the old stone walls.

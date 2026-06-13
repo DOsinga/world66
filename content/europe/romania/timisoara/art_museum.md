@@ -6,6 +6,7 @@ longitude: 21.2291
 tags:
   - things_to_do
   - museum
+score: 7.8
 ---
 
 The Timisoara Art Museum occupies the Baroque Palace of the Banat Regional Government on Union Square — a long pale-yellow Baroque palace built between 1754 and 1774 to house the Habsburg provincial administration. The building itself, with its grand ceremonial staircase and frescoed ceiling, is part of the visit.

@@ -9,6 +9,7 @@ latitude: 53.423924
 longitude: -7.943669
 sources:
   - https://en.wikipedia.org/wiki/Church_of_Saints_Peter_and_Paul,_Athlone
+score: 7.6
 ---
 
 The Church of Saints Peter and Paul dominates the Athlone skyline from almost every angle, its twin copper-domed towers visible from the castle ramparts and from the Shannon itself. Completed in 1937, the building is a confident exercise in Italian Romanesque, faced in Irish limestone and topped with those distinctive green domes that have become the town's most recognisable symbol.

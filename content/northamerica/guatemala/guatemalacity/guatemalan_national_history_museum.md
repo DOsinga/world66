@@ -9,6 +9,7 @@ latitude: 14.6417
 longitude: -90.5099
 sources:
   - https://en.wikipedia.org/wiki/Guatemalan_National_History_Museum
+score: 6.6
 ---
 
 The Museo Nacional de Historia, in a colonial-era building near the Plaza de la Constitución in Zona 1, documents Guatemalan history from the colonial period through independence and into the 20th century. The collections include colonial-era maps, documents, paintings, uniforms, weapons, and photographs that trace the country's political and social development.

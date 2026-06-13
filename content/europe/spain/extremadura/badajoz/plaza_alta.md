@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Plaza Alta
 type: poi
+score: 7.9
 ---
 
 The old main square of Badajoz, tucked below the Alcazaba walls. It was laid out in the 15th century when the city outgrew the fortress walls, and for four centuries it was the commercial and social heart of Badajoz — markets, festivals, executions, bullfights, all happened here. Today it is restored with its distinctive red and white Mudéjar-style arches and arcaded south side, the Casas Coloradas.

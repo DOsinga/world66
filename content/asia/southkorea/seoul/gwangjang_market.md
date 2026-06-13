@@ -13,6 +13,7 @@ story: >
   Korean War, and rapid urbanisation largely intact. The raw grain section in
   the back still operates much as it did a century ago, with merchants in
   traditional dress conducting transactions by hand signal.
+score: 8.5
 ---
 
 Gwangjang Market in Jongno is one of the oldest and largest traditional markets in Seoul, but its reputation rests on food. The main covered food hall is a long corridor of vendors selling bindaetteok (mung bean pancakes), tteokbokki (spicy rice cakes), japchae (glass noodles with vegetables), and mayak gimbap — small sesame-rice rolls flavoured with mustard and soy. The vendors have been selling the same things from the same stalls for decades, and the quality is consistently excellent.

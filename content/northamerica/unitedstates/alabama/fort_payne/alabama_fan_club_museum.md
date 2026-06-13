@@ -13,6 +13,7 @@ story: >
   decade they had sold more than 73 million records, won more CMA awards than any other act in history
   to that point, and proved that a country band from small-town Alabama could sustain a career longer
   than almost anyone else in the genre. They still own a studio in Fort Payne.
+score: 6.2
 ---
 
 The Alabama Fan Club and Museum on Glenn Boulevard chronicles the career of one of country music's most commercially successful acts, who happen to be from Fort Payne. The museum covers the band's origins as local bar musicians, their breakthrough in the early 1980s, and the remarkable run of hits and awards that followed. Displays include stage costumes, gold records, instruments, and memorabilia.

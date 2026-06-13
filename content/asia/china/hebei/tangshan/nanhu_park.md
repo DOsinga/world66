@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.5890
 longitude: 118.1850
+score: 5.8
 ---
 
 Nanhu Ecological Park in the southern part of the city centre is one of the more substantial urban park developments in Hebei, built on land that was previously a subsidence area created by decades of coal mining beneath the city. The landscape of lakes, wetlands, and parkland was created over several decades as part of Tangshan's post-earthquake and post-industrial rehabilitation.

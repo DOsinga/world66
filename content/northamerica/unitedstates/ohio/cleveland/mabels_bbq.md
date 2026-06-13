@@ -8,6 +8,7 @@ snippet: Michael Symon's Cleveland-style barbecue restaurant on East 4th
 tags:
   - eating_out
   - restaurant
+score: 6.7
 ---
 
 Mabel's BBQ is the flagship Cleveland restaurant of celebrity chef Michael Symon, opened in 2016 on the East 4th Street restaurant row. Symon's premise — a "Cleveland style" of barbecue defined by spicy Hungarian paprika rubs, eastern-European pickles, and a heavier rye-and-yellow-mustard sauce — has become genuinely popular and influenced barbecue cooks across the Rust Belt.

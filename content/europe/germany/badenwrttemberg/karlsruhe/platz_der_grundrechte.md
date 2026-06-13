@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 49.0072
 longitude: 8.3862
+score: 7.9
 ---
 
 In the city that houses Germany's constitutional court, artist Jochen Gerz created one of the most quietly powerful public artworks in the country. The Platz der Grundrechte consists of 19 carved stone pillars in front of the Federal Court of Justice, each one engraved with one of the 19 fundamental rights guaranteed by Germany's Basic Law.

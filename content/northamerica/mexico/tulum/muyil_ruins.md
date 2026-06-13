@@ -12,6 +12,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 8.1
 ---
 
 Muyil — sometimes called Chunyaxché — sits at the northern edge of the Sian Ka'an Biosphere Reserve, twenty-five kilometres south of Tulum on Highway 307. The Maya site is modest in scale but atmospheric: the tallest temple, El Castillo, rises seventeen metres above the jungle canopy. A wooden walkway leads through the rainforest to a viewing tower and then down to the Muyil lagoon.

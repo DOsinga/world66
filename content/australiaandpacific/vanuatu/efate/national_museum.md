@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "If you are lucky, a curator will demonstrate sand drawing — an intricate pre-literate writing tradition from northern Vanuatu in which a finger traces a single unbroken line through a geometric pattern in the sand. UNESCO listed it as Intangible Cultural Heritage in 2008."
+score: 8.0
 ---
 
 The National Museum sits inside the Vanuatu Cultural Centre, just south of Independence Park. The collection is small but well-curated: outrigger canoes, the carved tam-tam slit drums from Ambrym, ceremonial masks, and exhibits on John Frum and the cargo cults of Tanna.

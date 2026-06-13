@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 38.34913888888889
 longitude: -81.6383888888889
+score: 6.2
 ---
 
 Haddad Riverfront Park stretches along the Kanawha River at the foot of downtown, with a tiered grass amphitheatre facing a covered stage. The free summer concert series "Live on the Levee" brings thousands of locals down on Friday and Saturday nights — bring a folding chair and a cooler.

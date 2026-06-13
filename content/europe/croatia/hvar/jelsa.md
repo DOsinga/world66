@@ -6,6 +6,7 @@ longitude: 16.6914
 tags:
   - things_to_do
   - sight
+score: 7.0
 ---
 
 Jelsa is the third-largest town on the island, on the north coast about halfway between Stari Grad and the eastern tip. Less glossy than Hvar Town and less self-consciously preserved than Stari Grad, it is the place to come if you want the island feel without the cruise-ship crowds.

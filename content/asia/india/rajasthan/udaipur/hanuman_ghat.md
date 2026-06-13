@@ -6,6 +6,7 @@ longitude: 73.6780
 tags:
   - things_to_do
   - neighbourhood
+score: 7.5
 ---
 
 The quieter, more residential western shore of Lake Pichola — **Hanuman Ghat** is reached by crossing the **Daiji bridge** from the main city. Fewer tourist shops, more daily life: women washing pots at the water's edge, kids playing cricket in the lanes, old men sitting outside doorways.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -9.6400
 longitude: 120.2600
+score: 8.1
 ---
 
 Prailiu, a short ride east of Waingapu, is the heart of East Sumba's ikat tradition. The village functions as both a living community and an open workshop: on most mornings you can watch women at back-strap looms working cloth that can take months to complete. The patterns — horses, deer, skulls, and geometric motifs specific to individual clans and families — are planned before the threads are dyed and cannot be changed once weaving begins.

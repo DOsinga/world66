@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5583
 longitude: -5.4097
+score: 6.3
 ---
 
 A few kilometres west of Tetouan, on the south bank of the Martil river, lie the partly excavated ruins of Tamuda — a Berber town of the third century BCE that was later occupied by Rome as a military camp. The site is modest: rectangular foundations, a stretch of paved road, the outline of a small bath complex.

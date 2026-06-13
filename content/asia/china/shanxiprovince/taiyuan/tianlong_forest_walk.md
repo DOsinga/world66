@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.7420
 longitude: 112.4380
+score: 6.7
 ---
 
 The approach to Tianlongshan Grottoes passes through a wooded gorge that is pleasant to walk for its own sake, independent of the caves. The path follows a stream through oak and pine forest for about a kilometre before climbing to the cave level on the cliff face above. In late October the deciduous canopy turns — the oak forest is particularly good, with deep reds and oranges — and the walk attracts as many autumn-colour visitors as cave-art visitors at that time of year.

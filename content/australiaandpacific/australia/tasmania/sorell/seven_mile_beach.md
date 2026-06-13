@@ -8,6 +8,7 @@ tags:
 - sight
 - beach
 snippet: "Long surf beach 20 minutes west of Sorell, backed by pine reserve"
+score: 7.5
 ---
 
 Seven Mile Beach is the closest proper surf beach to Sorell, about 20 minutes west by road. The name is a small exaggeration — the strand is actually about 11 km from end to end — but it is a fine stretch of pale sand backed by a state recreation area of coastal pines, and a popular spot for Hobart families on summer weekends.

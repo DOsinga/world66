@@ -10,6 +10,7 @@ longitude: 23.5415
 sources:
   - https://en.wikipedia.org/wiki/Eleusinian_Mysteries
   - https://en.wikipedia.org/wiki/Elefsina
+score: 7.2
 ---
 
 The Sacred Way — the Hiera Hodos — was the road that initiates walked from Athens to Eleusis each autumn for the Greater Mysteries. The procession covered roughly 22 kilometres, taking an entire day. Initiates carried torches and ritual objects, sang hymns, and performed rites at shrines along the route. By the time they arrived at Eleusis at nightfall, the combination of fasting, walking, and religious anticipation had prepared them psychologically for whatever came next.

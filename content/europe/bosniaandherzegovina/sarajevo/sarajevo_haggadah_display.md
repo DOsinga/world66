@@ -9,6 +9,7 @@ tags:
   - historic
 story: >
   During the Nazi occupation, the Haggadah was smuggled out of the museum by the chief librarian, Derviš Korkut, who hid it with a Muslim family in a mountain village. Korkut — a Muslim Bosnian who risked his life to protect a Jewish religious document — has been recognized by Yad Vashem as Righteous Among the Nations.
+score: 8.5
 ---
 
 The Sarajevo Haggadah is a 14th-century illuminated Jewish manuscript — a Passover prayer book — produced in Barcelona around 1350 and brought to Sarajevo by Sephardic Jews fleeing the Spanish Inquisition in 1492. It is one of the oldest surviving illustrated Haggadahs in the world and the most valuable single object in Bosnia and Herzegovina.

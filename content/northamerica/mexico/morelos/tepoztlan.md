@@ -9,6 +9,7 @@ latitude: 18.9853
 longitude: -99.0997
 sources:
   - https://en.wikipedia.org/wiki/Tepoztl%C3%A1n
+score: 8.1
 ---
 
 Tepoztlán is a village set at the foot of dramatic volcanic cliffs about 25 km northeast of Cuernavaca. Its Nahuatl name and its setting below the rugged Sierra de Tepoztlán give it a character quite different from the colonial capital: the town square is dominated by the massive 16th-century Dominican monastery of La Natividad, and the surrounding streets fill on weekends with visitors drawn by the market, the food, and the atmosphere.

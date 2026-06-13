@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - architecture
+score: 7.7
 ---
 
 Villa Negrotto Cambiaso, an elegant 19th-century mansion in the centre of Arenzano, now houses the town hall. The real reason to come is the park around it, a six-hectare landscaped garden in the romantic English style with palms, magnolias, a small lake with black swans, and an aviary.

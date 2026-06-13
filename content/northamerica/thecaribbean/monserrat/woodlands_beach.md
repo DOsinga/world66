@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 16.7575
 longitude: -62.2255
+score: 6.8
 ---
 
 Woodlands is the most accessible and consistently calm beach on Montserrat's safe northern coast — a curve of dark grey volcanic sand backed by low cliffs, with a small picnic shelter and a stairway down from the parking area at the top of the cliff. The water is usually flat and excellent for snorkelling; the offshore reef has good fish, including the occasional turtle.

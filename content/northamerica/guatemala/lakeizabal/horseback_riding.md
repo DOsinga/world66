@@ -12,6 +12,7 @@ url: "http://www.dennysbeach.com"
 latitude: 15.5167
 longitude: -89.1167
 snippet: Horseback tours into Sierra de las Minas foothills from Lake Izabal
+score: 5.4
 ---
 
 Denny's Beach, on the south shore of Lake Izabal, offers horseback riding tours into the Sierra de las Minas foothills. The four-hour mountain tour costs around US$13 and takes you through forest trails with views back over the lake. A good way to see the countryside beyond the waterfront from a different angle.

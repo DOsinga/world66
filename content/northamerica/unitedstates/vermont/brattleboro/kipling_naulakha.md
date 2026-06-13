@@ -6,6 +6,7 @@ latitude: 42.8467
 longitude: -72.5900
 story: >
   Kipling moved to Vermont in 1892 after marrying an American woman and built a distinctive ship-shaped house called Naulakha in nearby Dummerston, four miles north of Brattleboro. He wrote The Jungle Book, The Second Jungle Book, and Captains Courageous here, describing Vermont as the most beautiful place he had ever lived. He left in 1896 after a disastrous public dispute with his brother-in-law, and never returned.
+score: 6.7
 ---
 
 Rudyard Kipling lived in Vermont from 1892 to 1896, in a house called Naulakha he built on a hillside in Dummerston, four miles north of Brattleboro. He chose the area because his American wife Caroline Balestier was from there, and the years he spent in Vermont were among his most productive: The Jungle Book, The Second Jungle Book, and Captains Courageous were all written here.

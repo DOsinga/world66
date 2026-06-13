@@ -10,6 +10,7 @@ tags:
 - day_trip
 - geology
 snippet: 240m of stalactite-rich karst cave 10km southwest of Kielce
+score: 8.0
 ---
 
 Jaskinia Raj — Paradise Cave — was discovered by a group of geology students in 1963 and opened to the public in 1972. It is small by international standards, only about 240 metres of accessible passages on a horizontal route, but the density of stalactites and stalagmites is extraordinary: the central Stalactite Chamber alone holds more than two hundred thousand individual formations, including a forest of needle-thin "straws" and a number of joined columns rising from floor to ceiling.

@@ -7,6 +7,7 @@ tags:
 latitude: 32.7330
 longitude: -117.1484
 snippet: A Tony Award-winning regional theatre in Balboa Park modelled on Shakespeare's original Globe
+score: 7.5
 ---
 
 The Old Globe is a three-stage theatre complex in Balboa Park, founded in 1935 as a venue for condensed Shakespeare productions at the California Pacific International Exposition. It burned down in 1978 in an arson fire, was rebuilt with significant expansion, and has since become one of the most respected regional theatres in the United States — a Tony Award for Outstanding Regional Theatre in 1984 confirmed its national standing.

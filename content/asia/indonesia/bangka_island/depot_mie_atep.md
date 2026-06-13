@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: "Famous mie bangka restaurant in Pangkalpinang, a local institution"
+score: 6.4
 ---
 
 Depot Mie Atep is the place Pangkalpinang residents send you when you ask where to eat mie bangka. It has been serving the same thick noodles in rich dark sauce for years and has acquired the kind of reputation that means it's crowded at lunchtime and worth waiting for. The mie bangka here is the real thing: handmade thick noodles, a complex savoury sauce, topped with bean sprouts, sliced pork or fish cake, and a boiled egg.

@@ -8,6 +8,7 @@ latitude: 25.3576
 longitude: 55.3847
 sources:
   - https://en.wikipedia.org/wiki/Sharjah_Heritage_Museum
+score: 7.3
 ---
 
 The Sharjah Heritage Museum covers the traditional social and cultural life of the emirate's inhabitants before the oil era — the customs, crafts, ceremonies, and daily routines that defined Emirati society for centuries. Unlike the grander Islamic Civilisation museum nearby, this one is resolutely local in focus: it documents what life was actually like for the families who lived here.

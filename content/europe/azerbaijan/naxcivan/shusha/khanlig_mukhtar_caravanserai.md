@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.8
 ---
 
 The Khanlig Mukhtar caravanserai sits in the middle of the old commercial quarter and is one of the few surviving examples of nineteenth-century Karabakh commercial architecture. The two-storey stone building is built around a central courtyard, with arched merchant cells lining all four sides — ground-floor stores and stables below, sleeping rooms above.

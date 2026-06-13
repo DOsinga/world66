@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: City history collection housed in a former Presbyterian church on Summit Avenue
+score: 7.2
 ---
 
 The Greensboro History Museum sits in a converted 1892 Presbyterian church and the adjoining Smith Memorial Building. Permanent galleries cover the founding of the city, the textile industry that shaped its 19th and 20th centuries, the role of Greensboro in the civil rights movement, and the lives of locals like O. Henry (William Sydney Porter) and Dolley Madison, both born nearby.

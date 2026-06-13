@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.3167
 longitude: -1.9754
+score: 7.6
 ---
 
 Tabakalera is the most interesting contemporary culture space in San Sebastián, installed in a massive brick tobacco factory built in 1913 and rehabilitated in 2015. The building is just south of the train station, its industrial bones — heavy walls, tall windows, internal courtyards — now housing a cinema, exhibition spaces, residencies for artists and film-makers, the headquarters of the Donostia Kultura cultural body, and an excellent terrace café.

@@ -8,6 +8,7 @@ tags:
   - spa
 latitude: 45.6383
 longitude: 13.0394
+score: 6.1
 ---
 
 Bibione Terme draws on a 400-metre-deep aquifer of sodium-bicarbonate-sulphate water — warm, lightly mineralised, and good for muscle complaints. The complex includes outdoor and indoor pools, a sauna and steam circuit, and a separate medical wing for mud-pack treatments and physiotherapy.

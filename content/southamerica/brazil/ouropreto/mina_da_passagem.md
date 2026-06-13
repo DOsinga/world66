@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Largest open-to-visitors gold mine in the world, descended in a cable car"
+score: 8.2
 ---
 
 Between Ouro Preto and the neighbouring town of Mariana, this is the most ambitious mine visit in the area. A small open cable car descends 120 metres on a steep rail into the mountain, emerging in a flooded chamber where you can swim in the clear underground lake or row out in a small boat.

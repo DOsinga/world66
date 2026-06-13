@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 45.4044
 longitude: 6.6492
+score: 7.5
 ---
 
 Courchevel 1650, officially called **Moriond**, is the middle of the three main resort villages and the best value of the lot. Accommodation is significantly cheaper than 1850, the village has a relaxed family feel, and a network of chairlifts gives direct access to a quieter sector of the Trois Vallées piste system.

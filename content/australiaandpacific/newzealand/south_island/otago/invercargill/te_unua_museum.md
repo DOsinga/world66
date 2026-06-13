@@ -8,6 +8,7 @@ snippet: "Regional museum housing New Zealand's largest tuatara population under
 latitude: -46.4052
 longitude: 168.3532
 story: "The tuatara in Te Unua's vivarium are not just exhibits — they are part of an active conservation programme. Tuatara are the only surviving members of an ancient reptile order that predates the dinosaurs, and Invercargill's captive population has been crucial to protecting the species from extinction."
+score: 6.8
 ---
 
 Te Unua Museum of Southland (previously the Southland Museum and Art Gallery) sits at the entrance to Queens Park inside a distinctive white pyramid that has become one of the city's landmarks. The museum covers the natural and human history of Southland — the geology, the Māori settlement, the Scottish and European colonisation, and the environment of Foveaux Strait and the sub-Antarctic islands.

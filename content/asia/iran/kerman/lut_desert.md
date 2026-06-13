@@ -14,6 +14,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 9.0
 ---
 
 The Dasht-e Lut, the Lut Desert, fills the eastern half of Kerman province and is one of the most extreme natural environments on the planet — the surface temperature regularly tops 65°C in summer, and it holds the record for the hottest land surface temperature ever recorded. The Lut is also a UNESCO World Heritage Site, listed for its astonishing wind-carved landforms.

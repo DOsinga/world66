@@ -8,6 +8,7 @@ tags:
 latitude: 7.9758
 longitude: 98.2791
 snippet: Decent beach break during the monsoon season, with rental boards available on the sand
+score: 6.4
 ---
 
 Surin Beach picks up a reliable swell from May to October when the southwest monsoon kicks in, and a small surfing scene has established itself on the sand in recent years. The break is a shore break over sand — nothing dramatic, but consistent enough for beginners and improvers who don't need a serious point break. Board rental is available directly on the beach from vendors who set up shop as soon as the waves arrive, and informal lessons can be arranged on the spot.

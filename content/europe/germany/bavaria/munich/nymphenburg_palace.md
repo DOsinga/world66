@@ -8,6 +8,7 @@ tags:
 latitude: 48.1582
 longitude: 11.5033
 story: "The Gallery of Beauties in Nymphenburg contains 36 portraits of women that King Ludwig I commissioned between 1827 and 1850 — chosen for their looks alone, regardless of class. The miller's daughter Helene Sedlmayr hangs alongside Princess Marie of Prussia. It's a remarkable, slightly unnerving monument to royal aesthetic obsession."
+score: 8.9
 ---
 
 The summer palace of the Wittelsbach royal family, located about 8 km northwest of the city center, is one of the largest Baroque palaces in Europe — the facade stretches 700 metres. Built from 1664 and expanded over the following century, the main building houses the Gallery of Beauties, the royal coaches (including the extraordinary gilded state coach), and several lavishly decorated apartments.

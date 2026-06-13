@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - sport
+score: 6.5
 ---
 
 Home of Club Atlético San Martín de Tucumán, La Ciudadela is the smaller of the city's two main football grounds, with capacity for about 28,000. It sits in the western district of Ciudadela, a few kilometres from the centre. The stadium has been the focal point of one of Argentina's more passionate provincial rivalries — the clásico tucumano against Atlético Tucumán is among the most intensely contested derbies outside Buenos Aires.

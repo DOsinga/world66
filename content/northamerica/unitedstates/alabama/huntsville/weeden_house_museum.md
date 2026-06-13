@@ -8,6 +8,7 @@ story: >
   Maria Howard Weeden, the artist who lived in this house from the 1890s until her death in 1905, spent much of her career painting portraits of elderly formerly enslaved people she knew in Huntsville. She also wrote poetry about them, and published a book called "Shadows on the Wall" in 1898 that paired her poems with her portraits. The work was quietly radical for its time — a white Southern woman producing empathetic, individualized portraits of Black Alabamians when such subjects were almost never treated with dignity in Southern art.
 sources:
   - https://en.wikipedia.org/wiki/Weeden_House_Museum
+score: 6.6
 ---
 
 The Weeden House Museum is a Federal-style house built around 1819 — the year Alabama achieved statehood — and is one of the oldest surviving structures in Huntsville. It sits at the edge of the Twickenham Historic District, a few blocks east of the courthouse square. The house is most associated with Maria Howard Weeden, a poet and painter who occupied it in the late 19th century and left behind a body of work that has attracted renewed scholarly attention.

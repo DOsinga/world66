@@ -12,6 +12,7 @@ story: >
   as far as Australia and South Africa. They were said to "wear out, not break down"; Wells Fargo
   bought more than 700 of them. Mark Twain wrote that riding in one was like being inside "an
   imposing cradle on wheels."
+score: 7.6
 ---
 
 The Museum of New Hampshire History, run by the New Hampshire Historical Society, occupies a handsome building on Park Street a block from the State House. The permanent collection runs from Abenaki tools through the colonial era and the industrial revolution to the present, with particular strength in decorative arts. The standout exhibit is a fully restored Concord Coach — the stagecoaches built in Concord that carried mail and passengers across the American West and onwards to every continent except Antarctica.

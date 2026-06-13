@@ -8,6 +8,7 @@ latitude: 53.5153
 longitude: -9.7415
 sources:
   - https://en.wikipedia.org/wiki/Lough_Inagh
+score: 8.2
 ---
 
 Lough Inagh sits in the long valley between the Twelve Bens and the Maumturk Mountains, its still water reflecting the quartzite peaks on both sides. The Inagh Valley road running its length is one of the best drives in Connemara: no villages, no commercial development, just the lake, the mountains, and the bog. At the southern end, the Lough Inagh Lodge — a Victorian fishing lodge — is one of the best small hotels in the region.

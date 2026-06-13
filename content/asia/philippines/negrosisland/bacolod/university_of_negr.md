@@ -8,6 +8,7 @@ snippet: "Historic Augustinian university on a leafy 15-hectare campus"
 tags:
 - things_to_do
 - sight
+score: 5.8
 ---
 
 The oldest university in Negros Occidental, founded in 1941 by the Augustinian Recollect friars on a 15-hectare property donated by the prominent Lizares family. The sprawling campus along Lizares Avenue is one of the greenest spots in Bacolod, with mature trees shading the walkways between buildings.

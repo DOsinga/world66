@@ -12,6 +12,7 @@ story: >
   in American history, and the man behind it — a VMI graduate who also served as Army Chief
   of Staff, Secretary of State, and Secretary of Defense — received the Nobel Peace Prize in
   1953. He is one of very few military figures to receive it.
+score: 7.3
 ---
 
 The George C. Marshall Museum on the VMI campus tells the story of one of the most important Americans of the 20th century, a man who played a central role in both winning World War II and rebuilding Europe afterwards. Marshall served as Army Chief of Staff throughout the war, then as Secretary of State under Truman — in which role he conceived and executed the European Recovery Programme (the Marshall Plan).

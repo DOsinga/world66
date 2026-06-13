@@ -9,6 +9,7 @@ latitude: 42.3976
 longitude: 2.1548
 sources:
   - https://en.wikipedia.org/wiki/Virgin_of_Nuria
+score: 8.4
 ---
 
 The sanctuary is the reason Núria exists. The current building is a large, rather severe structure that incorporates successive layers of construction — the oldest fabric dates to the 11th century, though most of what you see today is 20th-century reconstruction after a fire in 1931 destroyed much of the medieval complex. Inside, the focus is the image of the Virgin of Núria, a Romanesque polychrome figure attributed to Saint Giles of Nîmes, who according to legend left the statue, a bell, a cross, and a cauldron in the valley in the 8th century.

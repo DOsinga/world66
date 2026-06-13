@@ -13,6 +13,7 @@ story: >
   gallery where you can look out over the Elliptical Road and the sprawl of Metro
   Manila. Manuel Quezon's ashes were interred here in 1979, thirty-five years after
   his death from tuberculosis in exile in New York.
+score: 7.6
 ---
 
 Quezon Memorial Circle is both a national park and a monument to the man the city is named after. At its centre, a soaring three-pronged obelisk marks the tomb of Manuel Quezon, the second president of the Commonwealth of the Philippines, who led the country until his death in 1944. The monument is flanked by reliefs depicting key moments of his presidency.

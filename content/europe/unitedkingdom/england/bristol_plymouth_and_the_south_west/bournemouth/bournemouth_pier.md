@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The Victorian pier at the centre of the seafront, with an indoor zip line and ten-pin bowling
+score: 6.4
 ---
 
 The current pier dates from 1880, the second iron pier on the site after an earlier wooden structure was wrecked by a storm. It was extended in 1894, partially demolished during the Second World War (to prevent its use as an enemy landing point), rebuilt in the 1950s, and steadily modernised since. The classic ironwork remains, with a wide promenade deck and benches looking back at the cliffs.

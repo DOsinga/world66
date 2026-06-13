@@ -8,6 +8,7 @@ latitude: 21.5514
 longitude: 86.9183
 story: >
   The Khirachora Gopinath temple gets its name — "thief of condensed milk" — from a legend in which the deity Gopinath stole kheer (rice pudding with milk) from the kitchen and hid it in his idol to give to the saint Madhavendra Puri. The image of a god stealing food to feed a devotee is one of the more charming miracle stories in the Vaishnava tradition, and the temple is considered especially sacred by followers of the Gaudiya Vaishnava lineage that traces back through Chaitanya.
+score: 7.6
 ---
 
 Remuna, about 10 kilometres north of Balasore, is an important Vaishnava pilgrimage site centred on the Khirachora Gopinath temple. The main deity here is Krishna as Gopinath, and the temple is particularly significant within the Gaudiya Vaishnava tradition — it is closely associated with Madhavendra Puri, whose disciple was the reformer Chaitanya Mahaprabhu, whose movement later evolved into ISKCON. Pilgrims come from across Odisha and beyond.

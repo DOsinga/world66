@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -34.0233
 longitude: 18.3308
+score: 7.5
 ---
 
 Sandy Bay is a secluded naturist beach on the Atlantic coast, reached by a 30-minute walk over the mountain from Llandudno (itself a short drive from Hout Bay). The beach is wide, white, and backed by granite boulders — genuinely beautiful, and usually quieter than the beaches closer to town because of the walk required to reach it. Swimming is possible but the Atlantic is cold here throughout the year, and the surf can be strong.

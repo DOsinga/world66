@@ -9,6 +9,7 @@ tags:
   - architecture
   - theatre
 snippet: Restored 1927 vaudeville and movie palace, still hosting films and concerts
+score: 7.5
 ---
 
 The Carolina Theatre opened in 1927 as a 2,200-seat vaudeville and movie palace. It is the last of Greensboro's historic theatres still operating, and a recent restoration brought back much of the elaborate Italian Renaissance interior — gold leaf, plaster ornament, the velvet curtains, the original Wurlitzer organ.

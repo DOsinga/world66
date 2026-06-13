@@ -12,6 +12,7 @@ story: >
   The Palazzo Farnese was begun in 1558 by Ottavio Farnese, Duke of Parma and Piacenza, to a design by Jacopo Barozzi da Vignola — the same architect who designed the Gesù church in Rome. Construction halted in 1602 and was never completed. The palace remained a vast building site for centuries, which is why one side is still rough brick while the other three are finished. The museums inside compensate for the unfinished exterior.
 sources:
   - https://en.wikipedia.org/wiki/Palazzo_Farnese
+score: 8.4
 ---
 
 The Palazzo Farnese is Piacenza's largest and most imposing building — a massive Renaissance palace begun in the 16th century but never completed, so that the courtyard still has one unfinished brick facade giving directly onto a formal garden. The building now houses the Musei Civici di Palazzo Farnese, which contains several distinct collections: archaeology, medieval art, Pinacoteca (painting gallery), a carriage museum, and most notably the Bronze Liver of Piacenza.

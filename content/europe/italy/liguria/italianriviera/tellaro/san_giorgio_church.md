@@ -7,6 +7,7 @@ tags:
 latitude: 44.0599
 longitude: 9.9296
 story: "Local legend says that on a stormy night in the sixteenth century, a giant octopus climbed the rocks below the church, wrapped a tentacle around the bell rope, and rang the bells loud enough to wake the village just as Saracen pirates were landing on the rocks below."
+score: 8.7
 ---
 
 The pink-and-cream church of San Giorgio sits at the very tip of Tellaro's promontory, its apse hanging directly over the sea. Built in the thirteenth century and rebuilt in the sixteenth after a pirate raid, it is the postcard image of the village — and the photograph everyone takes from the rocks to the south.

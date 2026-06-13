@@ -9,6 +9,7 @@ tags:
 - sight
 title: Yellow Crane Tower
 type: poi
+score: 9.0
 ---
 
 Huanghelou (Yellow Crane Tower), perched on Snake Hill near the southern end of the Yangtze River Bridge, is one of the Four Great Towers of China and the foremost symbol of Wuhan. The original is said to have stood here since the 3rd century, though it has been destroyed and rebuilt many times over — last destroyed in 1884, with the current five-story reconstruction completed in 1986.

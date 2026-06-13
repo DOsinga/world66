@@ -5,6 +5,7 @@ snippet: Medieval crossroads where the three city ridges meet
 tags: [things_to_do, sight]
 latitude: 43.3194
 longitude: 11.3319
+score: 7.7
 ---
 
 The literal heart of Siena — the point where Banchi di Sopra, Banchi di Sotto, and Via di Città meet, marking the junction of the three ridges on which the city was built. The Loggia della Mercanzia overhangs the meeting point; the Campo opens off to the south down the gentle ramp of Vicolo di San Pietro.

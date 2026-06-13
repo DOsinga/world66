@@ -7,6 +7,7 @@ tags:
 latitude: 37.4255
 longitude: -122.1771
 story: Sand Hill Road is the most densely venture-capital-funded street in the world — a two-mile corridor running from El Camino Real to the Stanford campus boundary that houses Sequoia Capital, Kleiner Perkins, Andreessen Horowitz, and dozens of other firms that have collectively funded much of the modern technology industry. The firms moved here partly because Stanford University won't allow commercial development on its land, pushing capital to the adjacent street instead.
+score: 6.7
 ---
 
 Sand Hill Road runs along the western edge of Menlo Park and into Woodside, connecting El Camino Real to the Junipero Serra Freeway. Its two miles house a higher concentration of venture capital firms than anywhere else on earth — Sequoia Capital, Kleiner Perkins, New Enterprise Associates, and dozens more have offices here. Investment decisions made on this road have shaped the development of Apple, Google, Genentech, Intel, and most of the other companies that define the modern technology industry.

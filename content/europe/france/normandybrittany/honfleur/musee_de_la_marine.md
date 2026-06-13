@@ -6,6 +6,7 @@ latitude: 49.4198
 longitude: 0.2348
 address: "Quai Saint-Étienne"
 snippet: Maritime history museum in a deconsecrated 14th-century church
+score: 6.8
 ---
 
 The Musée de la Marine occupies the former Église Saint-Étienne, a deconsecrated 14th-century stone church on the south side of the Vieux Bassin. Inside, ship models, navigation instruments, charts, and figureheads tell the story of Honfleur as a fishing and trading port — including its long involvement in the cod fishery off Newfoundland and the early voyages of exploration to Canada and Brazil.

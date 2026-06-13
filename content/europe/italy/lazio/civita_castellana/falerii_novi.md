@@ -11,6 +11,7 @@ story: >
   they forced the surviving Faliscans to rebuild their city on flat ground where
   it could not be defended — a deliberate humiliation. The new city's remarkably
   intact walls are better preserved than those of Rome itself.
+score: 8.5
 ---
 
 About 6km west of Civita Castellana, Falerii Novi is the Roman-era successor to the Faliscan city that stood on the plateau now occupied by the old town. After the Romans crushed the final Faliscan revolt in 241 BC, they razed Falerii Veteres and compelled the population to build a new city on the plain — indefensible by design. What survives today is extraordinary: the full circuit of Roman walls, nearly 2km around, with 50 towers and two major gates still standing to considerable height. The walls are made of tufa blocks cut with precision and laid without mortar, and they have barely shifted in two millennia.

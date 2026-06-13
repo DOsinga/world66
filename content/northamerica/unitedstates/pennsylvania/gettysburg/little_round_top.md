@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "When Joshua Lawrence Chamberlain's 20th Maine ran out of ammunition on the slope, they fixed bayonets and charged. The downhill charge broke the Confederate attack and saved the Union left flank — and earned Chamberlain a Medal of Honor that the country mostly forgot until Michael Shaara's 1974 novel The Killer Angels."
+score: 8.9
 ---
 
 The rocky hill at the southern end of the Union line, the scene of some of the most famous fighting on the second day. From the summit, the view across the Valley of Death to Devil's Den and the Wheatfield is unforgettable — and gives an immediate sense of why this hill mattered.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood]
 latitude: -9.4319
 longitude: 159.9530
+score: 6.4
 ---
 
 Honiara's Chinatown, clustered around the main commercial street near the Central Market, is where the Solomon Islands' substantial Chinese community runs much of the city's retail trade. The neighbourhood is dense with hardware stores, general trading companies, restaurants, and mobile phone shops.

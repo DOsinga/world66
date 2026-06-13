@@ -8,6 +8,7 @@ snippet: The bayside boulevard between Polana and Costa do Sol, popular for runs
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The **Avenida Marginal** is the seafront boulevard that runs from the eastern edge of Polana north-east to the Costa do Sol, hugging the curve of Maputo Bay. The Marginal is the city's most-used outdoor recreation space — early in the morning and at sunset it fills with joggers, cyclists, dog-walkers and exercise groups working out in the open-air gyms set up along the promenade.

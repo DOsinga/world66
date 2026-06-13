@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: Cretaceous theropod and sauropod tracks in coastal rock
 story: "The Sacheon footprints, alongside those at nearby Goseong and Haenam, helped establish the southern Korean coast as one of the world's richest dinosaur ichnological sites. More than 1,800 individual tracks have been counted along this stretch of shore — most made roughly 100 million years ago in soft lakebed mud that hardened and was later lifted into the cliffs."
+score: 8.5
 ---
 
 A coastal section of layered Cretaceous mudstone at Sangjokam, on the western edge of Samcheunpo, holds hundreds of dinosaur footprints exposed at low tide. The clearest tracks are the three-toed prints of theropods and the round, heavy depressions of sauropod hindfeet, often arranged in clear trackways across the rock platforms.

@@ -8,6 +8,7 @@ snippet: Working clock built into a hillside garden — the unofficial symbol of
 latitude: -33.0245
 longitude: -71.5499
 story: "The flower clock was built in 1962 for the FIFA World Cup, when Viña hosted some of the matches and wanted a memorable landmark for visiting fans. The mechanism came from Switzerland; the flower face is replanted three or four times a year."
+score: 5.9
 ---
 
 The Reloj de Flores sits at the southern entrance to Viña, just where Avenida España meets the seafront after coming up from Valparaíso. It is a giant working clock set into a hillside lawn, the numerals picked out in bedding plants that get replaced as the seasons change.

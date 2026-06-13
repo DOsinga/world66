@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 17.6669
 longitude: 80.8826
+score: 7.6
 ---
 
 The Godavari at Bhadrachalam is wide, slow, and flanked by forested hills — a far more serene stretch than the busy ghats of Rajahmundry far to the south. Steps lead down from the temple precinct to the river, where pilgrims bathe at dawn before entering the sanctuary. The early morning light on the water, with temple spires reflected behind and the sound of bells and devotional music drifting from above, is quietly extraordinary.

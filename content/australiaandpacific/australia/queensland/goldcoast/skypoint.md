@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Views from 77 floors up at the top of Q1 Tower — tallest residential building in Australia
+score: 6.9
 ---
 
 SkyPoint sits at the 77th floor of Q1 Tower, the 322-metre supertall that dominates the Surfers Paradise skyline and remains the tallest residential building in Australia. The observation deck offers uninterrupted 360-degree views on clear days: the entire Gold Coast beach strip north and south, the hinterland ranges behind, Brisbane visible 80 km up the coast, and Byron Bay lighthouse just visible to the south.

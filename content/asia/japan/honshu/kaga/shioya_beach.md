@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.3439
 longitude: 136.3036
+score: 5.6
 ---
 
 Shioya is the sandy stretch of Sea of Japan coast at the western edge of Kaga, a few kilometres north of Daishoji. It's a working beach rather than a resort — small fishing boats are pulled up on the sand, and a handful of seafood shacks operate in summer. The water is clean and shallow for some way out, and the beach is rarely crowded outside the August Obon week.

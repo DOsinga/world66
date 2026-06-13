@@ -11,6 +11,7 @@ tags:
 title: designbogen
 type: poi
 url: www.designbogen.de
+score: 5.8
 ---
 
 The motto of the designbogen shop in Berlin Charlottenburg is a dialogue between unknown and established design. Located under two S-Bahn railway arches, designbogen stocks everything from stylish fashion to innovative furniture and individual gifts and accessories — everything that makes life a little more exciting.

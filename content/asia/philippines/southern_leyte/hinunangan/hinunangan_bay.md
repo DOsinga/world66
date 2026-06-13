@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.3800
 longitude: 125.2100
+score: 5.9
 ---
 
 Hinunangan Bay is the sheltered body of water that defines the municipality's eastern edge. Enclosed enough to keep seas calm for swimming and small boat travel, but open enough to catch the prevailing Pacific breezes, it is the geographic reason the town exists where it does.

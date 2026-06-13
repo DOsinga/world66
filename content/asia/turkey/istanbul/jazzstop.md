@@ -12,6 +12,7 @@ tags:
 - beyoglu
 title: Jazz Stop
 type: poi
+score: 6.8
 ---
 
 A corner of Istanbul that feels more like a Parisian bistro or Greenwich Village haunt. Engin Yorukoğlu, who spent 23 years in Paris, has run Jazz Stop for over three decades, creating an atmosphere unlike anywhere else in the city. The brick and wood interior is tasteful, the music runs from folk to flamenco to Turkish rock, and the prices are fair.

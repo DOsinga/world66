@@ -9,6 +9,7 @@ title: Electoral Palace and Hofgarten
 type: poi
 story: >
   The Electoral Palace was built as the residence of the Archbishop-Electors of Cologne between 1697 and 1705. After Napoleon secularised the church states, it became the University of Bonn in 1818, and Konrad Adenauer later enrolled here as a student.
+score: 7.3
 ---
 
 The former residence of the Archbishops of Cologne, now the main building of the University of Bonn, is one of the finest baroque palaces in the Rhineland. The building stretches along the Rhine embankment in a graceful 180-metre facade; the courtyard opens onto the Hofgarten, a large park popular with students and families throughout the year.

@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 21.2400
 longitude: -86.7380
+score: 6.4
 ---
 
 The western shore of Isla Mujeres faces directly into the setting sun, and the Sunset Bar is positioned to make the most of it. It is a simple, unpretentious open-air bar on the western side of the island, a short golf-cart ride from the town centre, with unobstructed views across the water to the Cancún skyline silhouetted against the fading light.

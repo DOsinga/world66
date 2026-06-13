@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.0573
 longitude: 12.5740
+score: 6.2
 ---
 
 The remains of a 10,000-seat amphitheatre, built in the second century AD and quarried for stone after antiquity, sit a short walk east of the old town near the sea. Only a section of the outer arcade and a fragment of the ellipse survive, but enough to give a sense of the original scale.

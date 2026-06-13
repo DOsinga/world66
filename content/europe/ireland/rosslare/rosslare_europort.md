@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The port at Rosslare was first developed in 1906 by the Great Western Railway to handle steam-ferry traffic between Britain and Ireland. The site was chosen because it is the closest point in Ireland to the Welsh coast — just 86 kilometres across St George's Channel to Fishguard, the same distance as the English Channel between Calais and Dover. It has been the main sea gateway to Ireland from Britain ever since, and the approach across the channel by ferry remains the only way to arrive in Ireland that gives you a proper sense of the island's geography.
+score: 3.8
 ---
 
 Rosslare Europort is Ireland's second-busiest passenger ferry port, handling services to Wales (Fishguard and Pembroke) and northern France (Cherbourg and Roscoff). Stena Line and Irish Ferries operate the crossings. The crossing to Fishguard takes about three and a half hours; to Pembroke, four hours; to Cherbourg, around eighteen to twenty hours on the direct overnight service.

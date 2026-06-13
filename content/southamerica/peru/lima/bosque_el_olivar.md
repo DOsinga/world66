@@ -11,6 +11,7 @@ tags:
 neighbourhood: San Isidro
 snippet: 16th-century olive grove of 1,600 trees, now a park
 story: "The grove was planted in 1560 from three Spanish saplings smuggled into Peru by the conquistador Antonio de Rivera — making them among the oldest olive trees in the Americas. The descendants of those three trees still produce a small olive harvest each year, processed by a co-operative in the park."
+score: 6.9
 ---
 
 In the middle of the San Isidro business district, **El Bosque El Olivar** is a 23-hectare grove of olive trees descended from Spanish saplings planted in 1560. Once a working estate that produced the olive oil for colonial Lima, it became a public park in 1959 and is now one of the most pleasant open spaces in the city.

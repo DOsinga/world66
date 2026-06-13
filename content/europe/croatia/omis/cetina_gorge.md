@@ -10,6 +10,7 @@ story: >
   The Cetina is a karstic river, meaning it emerges from springs rather than rainfall catchment. The main source is a deep pool at Cetina village, 65 kilometres upstream, where water rises from an underground system that takes in most of the water falling on the Dalmatian hinterland. The gorge below Omis is where it finally reaches the sea after cutting through the limestone plateau for millennia.
 sources:
   - https://en.wikipedia.org/wiki/Cetina
+score: 9.2
 ---
 
 The Cetina gorge begins immediately behind the old town of Omis, where the river cuts through a vertical limestone canyon before reaching the sea. The walls are several hundred metres high in places, draped in vegetation where ledges catch enough soil, and the river runs green and clear below. It is one of the most dramatic natural features on the Dalmatian coast, and its inaccessibility from the sea is exactly what made Omis a pirate stronghold for two centuries.

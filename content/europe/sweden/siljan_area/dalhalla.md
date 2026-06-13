@@ -16,6 +16,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Dalhalla
   - https://www.dalhalla.se/en/
+score: 8.6
 ---
 
 Dalhalla is one of the more improbable concert venues in the world: a former limestone quarry 7 km north of Rättvik that closed in 1990 and was converted into an open-air amphitheatre within five years. The quarry is 60 metres deep, 400 metres long and 175 metres wide, with sheer limestone walls on three sides creating a natural acoustic bowl. The stage sits at the water level at the quarry floor — over the years the pit has partially flooded — and the 4,000 seats rise steeply around it.

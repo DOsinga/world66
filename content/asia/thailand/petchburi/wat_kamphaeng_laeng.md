@@ -9,6 +9,7 @@ latitude: 13.1093
 longitude: 99.9440
 sources:
   - https://en.wikipedia.org/wiki/Wat_Kamphaeng_Laeng
+score: 7.6
 ---
 
 Wat Kamphaeng Laeng is the oldest significant site in Phetchaburi and one of the most southerly surviving examples of Khmer temple architecture in Thailand. Built in the 12th or 13th century during the height of the Khmer Empire's westward expansion, the sanctuary was later converted to Buddhist use as Khmer influence retreated. The original Hindu iconography has largely given way to Buddhist additions, but the laterite towers and enclosure walls remain substantially intact.

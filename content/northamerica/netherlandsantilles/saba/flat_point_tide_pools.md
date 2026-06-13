@@ -5,6 +5,7 @@ tags: [things_to_do, nature, sight]
 latitude: 17.64388888888889
 longitude: -63.218333333333334
 story: The tide pools at Flat Point were formally recognized as a protected natural feature in part because they sit on the only genuinely flat terrain on the island — the same headland where the airport was built. The combination of dramatic wave action from the open Atlantic and the porous volcanic rock creates a remarkably rich intertidal habitat for a small island.
+score: 6.9
 ---
 
 Flat Point on Saba's northeastern coast is the island's only substantial area of level ground, which explains both the airport and these excellent tide pools. The Atlantic swell crashes against the volcanic rock here with real force, and the resulting pools teem with sea urchins, crabs, small fish, and occasional octopus. At low tide the formations are easy to explore on foot; at high tide the wave action is spectacular but requires staying well back from the edge.

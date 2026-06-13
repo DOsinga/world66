@@ -8,6 +8,7 @@ tags:
 latitude: 42.28969
 longitude: -73.31586
 story: "The Blue Steps at Naumkeag — a cascade of white-birch-flanked terraced staircases descending through the garden — were designed by Fletcher Steele in the 1930s as an afterthought to fill an awkward slope. Steele described them as 'functional sculpture,' and they became among the most photographed garden features in New England. The birches, originally planted as temporary screens, are now 90 years old and have become the defining image of the place."
+score: 8.8
 ---
 
 Naumkeag is the former summer estate of New York lawyer Joseph Hodges Choate, set on a hillside overlooking the Stockbridge Bowl and the Berkshire hills beyond. The house — a Queen Anne-style shingle cottage designed by Stanford White in 1886 — is handsome but it is the garden that people come to see.

@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 52.9522
 longitude: -8.3032
+score: 7.6
 ---
 
 The Lough Derg Way is a 114-kilometre waymarked walking and cycling route that circles the lake, passing through Killaloe, Scarriff, Mountshannon, Portumna, Portroe and Dromineer. The full circuit takes three to four days on foot or one long day by bike. Most visitors do individual sections: the Clare shore between Killaloe and Mountshannon offers the best combination of lakeshore views and light traffic.

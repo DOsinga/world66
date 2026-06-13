@@ -7,6 +7,7 @@ tags:
 - monastery
 title: Nechung Monastery
 type: poi
+score: 7.6
 ---
 
 Nechung sits just below Drepung and is often visited as part of the same morning. It was the seat of the Nechung Oracle, the State Oracle of Tibet — a medium who entered trance during ceremonies and was consulted by the Dalai Lamas on matters of state, including, in 1959, on whether to flee Lhasa.

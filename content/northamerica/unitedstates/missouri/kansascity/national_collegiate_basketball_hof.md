@@ -8,6 +8,7 @@ tags:
 - sports
 title: National Collegiate Basketball Hall of Fame
 type: poi
+score: 5.1
 ---
 
 The National Collegiate Basketball Hall of Fame is housed within the College Basketball Experience adjacent to T-Mobile Center downtown. The Hall honors the coaches and players who shaped the college game, with inductees voted in annually. Kansas City's selection as the Hall's home reflects the city's deep connection to college basketball — it has hosted the Big 12 Tournament and multiple NCAA Tournament rounds for decades.

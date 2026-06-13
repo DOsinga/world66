@@ -9,6 +9,7 @@ latitude: -0.5022
 longitude: 117.1447
 sources:
   - https://en.wikipedia.org/wiki/Samarinda
+score: 6.4
 ---
 
 The Masjid Raya Darussalam — the Great Mosque of Samarinda — is the historic congregational mosque at the city's centre, predating the Islamic Centre by several decades. It stands near the Mahakam waterfront in the older part of the city, where its minarets have oriented the neighbourhood's geography for generations.

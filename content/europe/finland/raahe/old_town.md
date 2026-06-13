@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - neighbourhood
+score: 8.8
 ---
 
 Old Raahe — *Vanha Raahe* in Finnish — is one of the most intact 19th-century wooden townscapes in Finland. After fires destroyed much of the original 17th-century town, the streets were rebuilt to a generous grid plan with broad fire lanes between blocks and a uniform style of single-storey timber houses painted in ochre, falu red and pale yellow.

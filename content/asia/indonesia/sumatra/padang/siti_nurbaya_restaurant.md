@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -0.9480
 longitude: 100.3500
+score: 6.2
 ---
 
 The Siti Nurbaya Bridge connects central Padang to the hilly Gunung Padang area across the Batang Arau river, and the eating area around the bridge approach has become one of the city's favourite evening gathering spots. The name comes from a classic Indonesian novel set in Padang, and the area has a mild romantic reputation because of it.

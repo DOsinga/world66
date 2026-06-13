@@ -8,6 +8,7 @@ tags:
   - sight
   - historical_site
 story: "The castle became the property of Archduke Albrecht of Austria-Teschen in 1818 and remained in Habsburg hands until 1945. He turned its grounds into one of central Europe's first agricultural academies — the institution that still occupies the castle today, now part of Széchenyi István University."
+score: 7.1
 ---
 
 The castle sits at the centre of the older half of town and is the place to start a walk through Mosonmagyaróvár. The core is medieval — a small fortress raised in the 13th century on the site of the Roman fort of Ad Flexum — but successive reconstructions have given it the look of a Renaissance manor with thick walls and a quiet inner courtyard.

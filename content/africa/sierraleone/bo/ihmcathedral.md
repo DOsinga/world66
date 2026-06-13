@@ -6,6 +6,7 @@ latitude: 7.9630
 longitude: -11.7374
 sources:
   - https://en.wikipedia.org/wiki/Immaculate_Heart_of_Mary_Cathedral,_Bo
+score: 5.8
 ---
 
 The Immaculate Heart of Mary Cathedral is the seat of the Roman Catholic Diocese of Bo, which was established in January 2011 when it was split off from the Archdiocese of Freetown. The cathedral is a substantial building by Bo's standards, with a simple but dignified interior and an active parish that serves the Catholic community of the Southern Province.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Scythian Neapolis was the capital of a small Scythian kingdom from the 3rd century BC. The city was destroyed and rebuilt several times; archaeologists in the 1820s found royal tombs filled with gold and ceremonial weaponry. Many of the most spectacular finds — including a richly decorated wooden sarcophagus — are now in the Hermitage in St. Petersburg."
+score: 8.0
 ---
 
 The ruins of an ancient Scythian capital that thrived from the 3rd century BC, perched on a rocky plateau just east of the modern city. What survives is fragmentary — foundations of city walls, ceremonial buildings, and a substantial mausoleum — but the setting is striking, with views back over the Salgir River valley to the city.

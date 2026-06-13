@@ -8,6 +8,7 @@ tags:
   - sight
   - koregaon_park
 story: "The controversial guru Bhagwan Shree Rajneesh (later Osho) made Pune his base in the 1970s, attracting tens of thousands of mostly Western seekers. After a turbulent decade in Oregon and a deportation from the United States, he returned here in 1987 and died on the property in 1990. His ashram has since rebranded as a 'meditation resort' but the orange robes and the swimming-pool-with-bamboo aesthetic are unchanged."
+score: 5.8
 ---
 
 A walled compound of black marble, bamboo, and modernist pyramids in the heart of Koregaon Park, set in lush gardens with peacocks. The resort is no longer open to casual sightseers -- access requires a day pass, registration, an HIV test, and the purchase of a maroon robe to wear inside -- but you can walk the perimeter and take in the strange atmosphere from outside.

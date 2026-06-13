@@ -8,6 +8,7 @@ tags:
   - sight
 snippet: 10th-century Georgian cathedral, an architectural milestone of the medieval kingdom
 story: "An inscription inside dates the cathedral's foundation to 964, naming the bishop Iovane as builder and the local ruler Zviad as patron. That makes Kumurdo one of the earliest dated stone churches in Georgia, and the first known example of the hexaconch plan that defines much of later Georgian architecture."
+score: 8.2
 ---
 
 About seven kilometres west of Akhalkalaki, on a windswept rise above a Georgian village, stands one of the most important medieval churches in the country. Kumurdo is built to a hexaconch plan — a central drum surrounded by six apses — and the carved stonework around the doors and windows is exceptional even by the standards of medieval Georgian masonry. The dome collapsed centuries ago, but the apses, walls, and elegant interior remain.

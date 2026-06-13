@@ -14,6 +14,7 @@ tags:
 title: Fondazione Prada
 type: poi
 url: www.fondazioneprada.org
+score: 8.9
 ---
 
 A contemporary art foundation in a converted 1910s distillery south of the city centre, opened in 2015. The complex includes multiple pavilions designed by Rem Koolhaas — including the gold-leafed "Haunted House" and a striking tower — housing a rotating programme of exhibitions and a permanent collection of modern and contemporary art.

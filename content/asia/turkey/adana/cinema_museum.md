@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, museum]
 latitude: 36.9885
 longitude: 35.3298
+score: 6.6
 ---
 
 Adana has a serious connection to Turkish cinema — the family of celebrated director Yılmaz Güney came from here, and the city hosts the country's longest-running film festival, the Altın Koza (Golden Cocoon), since 1969. The Cinema Museum, housed in a restored old house near the bazaar, tells the story of Turkish film through projectors, posters, costumes and reconstructed sets.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.4852
 longitude: 6.4710
+score: 8.6
 ---
 
 The museum on the eastern edge of the archaeological site holds the objects excavated from Timgad over more than a century of work — floor mosaics, sculpture, coins, everyday ceramics, oil lamps, and household tools that turn the ruins into an inhabited city rather than an abstraction. The mosaics are the highlight: large panels preserved in remarkable color, showing geometric patterns, hunting scenes, and mythological subjects from the floors of Timgad's wealthier homes.

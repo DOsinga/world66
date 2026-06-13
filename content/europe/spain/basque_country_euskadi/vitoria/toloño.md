@@ -8,6 +8,7 @@ tags:
   - bar
   - medieval_quarter
 neighbourhood: Casco Medieval
+score: 7.4
 ---
 
 A small, cluttered, perpetually busy pintxo bar on Cuesta de San Francisco that does some of the best classical pintxos in town: gilda (anchovy, olive, pickled pepper on a stick), tortilla, txampi (mushroom on bread with garlic), Iberian ham. Nothing fancy, everything sharp.

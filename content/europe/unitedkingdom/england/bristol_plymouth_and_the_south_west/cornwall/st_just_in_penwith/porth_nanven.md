@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: 50.117
 longitude: -5.701
+score: 7.4
 ---
 
 Porth Nanven, also known as Cot Valley, is a small beach at the end of a steep valley half a mile south of St Just. It is unusual for a Cornish beach in that the shore is made entirely of large rounded boulders rather than sand — the so-called "dinosaur egg" beach, though the name is a 20th-century invention. The boulders are smooth and varied in colour, and the beach is undeniably striking, though not comfortable for lying on.

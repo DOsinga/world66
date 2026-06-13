@@ -11,6 +11,7 @@ longitude: -150.1155
 sources:
   - https://en.wikipedia.org/wiki/Talkeetna_Roadhouse
 snippet: 1917 log roadhouse serving frontier breakfasts and fresh-baked bread
+score: 7.4
 ---
 
 The Talkeetna Roadhouse was built in 1917 to serve fur trappers, miners, and prospectors working the surrounding country. The log construction is original, and the interior -- wood floors, a piano by the fireplace -- has the feel of a place that hasn't tried too hard to preserve itself.

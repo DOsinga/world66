@@ -6,6 +6,7 @@ longitude: 17.2734
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The small working harbour is the centre of Trpanj. Fishing boats tie up beside the ferry terminal that runs the short crossing to Ploče on the mainland; in summer a handful of cafes and restaurants fill the waterfront tables and the small beach at the eastern end fills with families.

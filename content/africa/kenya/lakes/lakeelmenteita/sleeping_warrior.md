@@ -6,6 +6,7 @@ longitude: 36.225
 tags:
   - things_to_do
   - sight
+score: 8.3
 ---
 
 The Sleeping Warrior — known locally as Eburru — is the extinct volcano that gives Elmenteita its dramatic southern backdrop. Seen from the lake, its long ridge does indeed resemble a reclining figure, and the silhouette dominates every view across the water.

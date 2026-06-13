@@ -15,6 +15,7 @@ story: >
   many Alexandrias, the outer limit of his empire, and he personally supervised the
   construction of its walls. The city that grew up here became one of the great
   trading centres of the Silk Road.
+score: 8.0
 ---
 
 The citadel mound at the heart of Khujand marks the site of one of the oldest continuously inhabited places in Central Asia. Alexander the Great founded a garrison city here around 329 BCE — the most distant outpost of his empire — and successive rulers including the Samanids, Timur, and the Shaybanids all left their mark on the fortifications. What stands today is a 20th-century reconstruction on the ancient foundations, built during the Soviet era, but the scale is impressive and the view from the walls over the Syr Darya gives a sense of the city's strategic position.

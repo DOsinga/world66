@@ -9,6 +9,7 @@ latitude: 55.1749
 longitude: 61.2873
 sources:
   - https://en.wikipedia.org/wiki/Traktor_Ice_Arena
+score: 7.8
 ---
 
 The Traktor Ice Arena — formally named after the legendary local coach Valery Belousov — is home to Traktor Chelyabinsk, one of Russia's most passionate hockey clubs. The arena seats over 7,500 spectators and regularly sells out for Kontinental Hockey League home games, with an atmosphere that can rattle the rafters.

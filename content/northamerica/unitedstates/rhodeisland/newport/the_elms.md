@@ -14,6 +14,7 @@ sources:
   - https://en.wikipedia.org/wiki/The_Elms_(Newport,_Rhode_Island)
 story: >
   The Elms was built for coal magnate Edward Julius Berwind in 1901, modeled on the 18th-century Chateau d'Asnieres outside Paris. The Berwinds' fortune came from supplying coal to the US Navy, and Edward's sister Julia ran the household with such formidable efficiency that servants reportedly said working for Mrs. Berwind was harder than working for Mrs. Vanderbilt. The below-stairs tour reveals a hidden infrastructure of coal chutes, dumbwaiters, and servants' passages invisible to the house's guests.
+score: 8.6
 ---
 
 The Elms, designed by architect Horace Trumbauer and completed in 1901, is modeled on a French chateau and set in formal sunken gardens that are among the finest examples of French landscape design in the United States. The exterior is neoclassical and relatively restrained by Newport standards; the interior, fitted out in 18th-century French decorative arts, has the feel of a particularly grand Parisian apartment.

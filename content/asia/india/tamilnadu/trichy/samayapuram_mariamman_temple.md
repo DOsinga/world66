@@ -7,6 +7,7 @@ tags:
   - temple
 latitude: 10.9185
 longitude: 78.7389
+score: 7.8
 ---
 
 Samayapuram Mariamman Temple, north of Trichy, is one of Tamil Nadu's busiest Amman shrines. Devotees come to pray for health, protection, and family welfare, and the temple can feel intensely alive even outside major festival days.

@@ -12,6 +12,7 @@ story: >
   miss between the houses, but you can scramble to the top in a few minutes
   for a free panorama over the green roofs and the cedar-covered hills
   beyond.
+score: 6.9
 ---
 
 The Azrou Rock is a black basalt outcrop in the middle of the town, the natural feature that gave the settlement its name and around which the old quarter grew up. From the central square, a short walk between the houses brings you to a footpath that climbs the side of the rock.

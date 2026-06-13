@@ -10,6 +10,7 @@ tags:
 address: 2011 Church St, Galveston, TX
 sources:
   - https://en.wikipedia.org/wiki/St._Mary_Cathedral_Basilica_(Galveston,_Texas)
+score: 7.3
 ---
 
 St. Mary Cathedral Basilica is the oldest Catholic cathedral in Texas, established in 1847 and rebuilt in its current Gothic Revival form after fire damage in the 1850s and again following the 1900 hurricane. The current structure, with its pointed arches, rose window, and prominent twin towers visible from several blocks away, is one of the most imposing churches in Texas.

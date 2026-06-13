@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 29.869
 longitude: 121.5403
+score: 8.1
 ---
 
 Moon Lake (*Yuehu*) in the old city's western quarter is Ningbo's oldest urban park, a crescent-shaped freshwater lake that has been a gathering place for scholars, poets, and officials since the Tang dynasty. The lake and its surrounding gardens were extensively developed during the Song and have been rebuilt, replanted, and refined through every subsequent dynasty. The surrounding district contains several historic buildings and stone bridges, and the whole area has a settled, literary character quite different from the commercial Laowaitan waterfront.

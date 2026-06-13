@@ -7,6 +7,7 @@ tags:
   - st_anton
 latitude: 47.1303
 longitude: 10.2592
+score: 5.8
 ---
 
 The MooserWirt is the most famous après-ski venue in the Alps, on the ski-back run from Galzig into St. Anton. Officially a mountain restaurant; in practice from about 3pm until 8pm it operates as a vast open-air disco, with a DJ pumping out Europop and a couple of thousand skiers in boots dancing on the tables.

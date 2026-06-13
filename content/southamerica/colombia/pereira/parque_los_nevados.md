@@ -8,6 +8,7 @@ longitude: -75.3439
 story: The Nevado del Ruiz erupted in 1985 and melted enough ice to bury the town
   of Armero — Colombia's worst natural disaster. The volcano is still active and
   visited closures are common; check the current alert level before booking.
+score: 8.8
 ---
 
 A high-altitude national park covering the central cordillera east of Pereira. The park's three named peaks — Nevado del Ruiz, Santa Isabel, and Tolima — once held substantial glaciers, now diminished by climate change but still topping 5,000 metres. Between the peaks stretches Colombia's largest expanse of paramo: the surreal, sponge-like alpine ecosystem found only in the northern Andes.

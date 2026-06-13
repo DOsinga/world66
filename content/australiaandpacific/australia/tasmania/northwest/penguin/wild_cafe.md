@@ -6,6 +6,7 @@ longitude: 146.0719
 tags:
   - eating_out
   - cafe
+score: 5.7
 ---
 
 A small, busy cafe on the main street near the Big Penguin, serving the standard Tasmanian morning lineup — eggs done several ways, sourdough toast, single-origin coffee from local roasters — alongside a cabinet of pies and slices. The "larder" half is a small produce shop with northwest-coast cheeses, preserves, and smoked fish to take away.

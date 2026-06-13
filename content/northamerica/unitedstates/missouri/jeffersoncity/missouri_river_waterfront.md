@@ -7,6 +7,7 @@ tags:
 latitude: 38.5759
 longitude: -92.1715
 snippet: The river bluffs and riverside trail at the foot of the Capitol hill
+score: 6.2
 ---
 
 The Missouri River runs directly below Jefferson City's downtown bluffs, and the waterfront offers some of the best views of the Capitol building from below — the dome rising against the sky above the limestone cliffs is the defining image of the city. A riverside trail connects the downtown area to the Katy Trail trailhead, passing under the highway bridges and along the water.

@@ -5,6 +5,7 @@ snippet: "Concrete gravity dam on the Douro a few kilometres downstream of Régu
 tags: [things_to_do, sight, architecture]
 latitude: 41.1461
 longitude: -7.74
+score: 5.4
 ---
 
 The Régua Dam is one of five hydroelectric dams that turn the lower Douro into a navigable sequence of long calm reaches. Opened in 1973, the dam has a single shipping lock that handles all the cruise traffic moving up and down the river — the lock chamber is a popular point to stop and watch from the bank.

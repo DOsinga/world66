@@ -7,6 +7,7 @@ tags:
 latitude: 51.345
 longitude: 9.503
 story: "Founded by Harry Kramer in 1981, the Necropolis invites internationally known artists to design their own gravestones — and to be buried beneath them. About twenty plots have been used so far. The result is an outdoor sculpture park whose pieces are also tombs and whose visitors include the relatives of the dead."
+score: 7.3
 ---
 
 The **Künstler-Nekropole** (Artists' Necropolis) is a small woodland cemetery in the Habichtswald above the city — a unique conceptual art project where artists design their own graves and are then buried beneath them. The site contains a couple of dozen completed works set among the trees, ranging from minimalist stone slabs to elaborate symbolic structures.

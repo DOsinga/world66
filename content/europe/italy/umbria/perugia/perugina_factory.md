@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.1012
 longitude: 12.3566
+score: 6.4
 ---
 
 The Perugina chocolate factory in the San Sisto neighbourhood, a few kilometres from the centre, offers tours of the Casa del Cioccolato (House of Chocolate), including a museum dedicated to the company's history and the production of its famous Baci pralines. Baci — "kisses" — are the dark chocolate and hazelnut bonbons with a love note wrapped inside that have been produced here since 1922. The factory tour takes about an hour, includes tastings, and ends in a well-stocked shop.

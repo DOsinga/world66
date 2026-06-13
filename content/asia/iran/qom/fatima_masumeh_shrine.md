@@ -14,6 +14,7 @@ story: >
   the road and never recovered. The modest grave she was given became a shrine, and the shrine
   became one of the holiest sites in Shia Islam — drawing, in peak years, over twenty million
   pilgrims annually.
+score: 9.3
 ---
 
 The Shrine of Fatimah al-Masumah is the defining landmark of Qom and one of the most important Shia pilgrimage sites in the world. The golden dome and minarets rising above the city have been rebuilt and expanded over many centuries; the current complex dates primarily from the Qajar and Islamic Republic eras, though the original grave beneath dates to the 9th century.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.0651
 longitude: 7.6685
+score: 8.1
 ---
 
 Turin's Galleria Civica d'Arte Moderna holds Italy's most important municipal collection of nineteenth- and twentieth-century art. The permanent rooms run from the Macchiaioli through Futurism and Arte Povera — Turin was the centre of the Arte Povera movement in the 1960s — to international post-war names: Warhol, Twombly, Picasso, Klee, Modigliani.

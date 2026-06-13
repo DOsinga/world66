@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 18.4129
 longitude: -77.1038
+score: 4.5
 ---
 
 The Ocho Rios Margaritaville is part of the American chain that has colonised several Caribbean cruise ports, and it is exactly what you'd expect: loud, colourful, rum-punch-heavy, and reliably crowded when ships are in port. It has a waterslide into the sea, a swim-up bar, and a terrace over the water. The food is unremarkable.

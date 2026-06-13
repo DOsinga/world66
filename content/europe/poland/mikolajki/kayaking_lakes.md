@@ -7,6 +7,7 @@ tags:
 latitude: 53.7982
 longitude: 21.577
 snippet: Multi-day kayak routes through Poland's interconnected lake system
+score: 8.2
 ---
 
 The Masurian Lakeland is one of the best kayaking destinations in Central Europe, and Mikołajki sits at a natural junction of the main waterway routes. The most popular multi-day route — the Krutynia river trail — starts near Sorkwity and ends at Ruciane-Nida, passing through lakes, rivers, and forest channels over about a week of paddling. Shorter loops of two to four days can be assembled from the network of connected lakes around Mikołajki itself.

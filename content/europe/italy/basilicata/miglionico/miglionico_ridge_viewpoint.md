@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.5665
 longitude: 16.4995
+score: 6.6
 ---
 
 The ridge on which Miglionico sits offers some of the best open views in this part of Basilicata. Looking south and west, the Bradano and Basento river valleys spread out below — wide agricultural plains, scattered farmsteads, and the bare clay hills typical of the Basilicatan interior. On a clear day you can see for thirty kilometres or more.

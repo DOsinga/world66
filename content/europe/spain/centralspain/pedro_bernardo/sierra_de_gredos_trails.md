@@ -6,6 +6,7 @@ tags:
 - sight
 title: Sierra de Gredos Trails
 type: poi
+score: 7.7
 ---
 The southern slopes of the Sierra de Gredos around Pedro Bernardo offer hiking through oak woodland, granite outcrops, and open ridge lines with long views south across the Tiétar valley towards Extremadura. The trails here are much quieter than those on the sierra's northern side, which draws the bulk of visitors heading for the Laguna Grande and the high peaks around Almanzor (2592 m).
 

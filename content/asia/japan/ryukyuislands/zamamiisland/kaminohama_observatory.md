@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.2220
 longitude: 127.2950
+score: 7.2
 ---
 
 The Kaminohama Observatory is a hilltop viewpoint on the southern side of Zamami Island, about 1.5 kilometres from Ama Beach and reachable on foot in around twenty minutes from the port. From the observation platform, you look out over the turquoise shallows and the uninhabited islands of Gahi and Agenashiku, with the deeper Kerama Straits beyond turning a darker shade of blue.

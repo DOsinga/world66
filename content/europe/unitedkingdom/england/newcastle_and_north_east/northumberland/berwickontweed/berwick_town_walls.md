@@ -9,6 +9,7 @@ latitude: 55.7649
 longitude: -2.0048
 story: >
   The walls were built in the 1550s and 1560s on the orders of Queen Mary I, who feared a French invasion through Scotland. Italian military engineers designed them according to the latest thinking in artillery fortifications — the angled bastions allow defenders to cover every section of the curtain wall with flanking fire, with no blind spots. They were almost immediately obsolete, as the political situation resolved before they were tested, but that obsolescence is why they survive intact today.
+score: 9.2
 ---
 
 The Elizabethan town walls are Berwick's defining feature and among the finest surviving example of Italian-style artillery fortifications in Britain. Built between 1558 and 1569 to a design by Sir Richard Lee, they replaced medieval walls that could not withstand cannon fire. The new ramparts were lower and thicker, designed to absorb artillery bombardment, and flanked by angled bastions that gave defenders complete fields of fire.

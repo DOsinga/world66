@@ -9,6 +9,7 @@ tags:
 - nature
 title: Chattahoochee Whitewater Course
 type: poi
+score: 8.5
 ---
 
 A 2.5-mile stretch of the Chattahoochee River downstream of Eagle and Phenix dams, running Class III and IV whitewater right past the downtown buildings of Phenix City and Columbus. It is one of the longest urban whitewater rafting runs in the world and a genuine surprise for a city most travellers have never heard of.

@@ -8,6 +8,7 @@ tags:
   - sight
   - wuchang
 neighbourhood: Wuchang
+score: 6.6
 ---
 
 Hubu Alley is the most famous food street in Wuhan — a narrow lane in Wuchang, between the Yellow Crane Tower and the river, lined end to end with stalls selling the city's traditional breakfast snacks. The fame of Hubu Alley has made it touristy and busy, especially on weekends, but the food is still good and the variety is unbeatable.

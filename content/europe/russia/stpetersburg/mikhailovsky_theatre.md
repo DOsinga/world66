@@ -8,6 +8,7 @@ tags:
   - nevskiyprospekt
 latitude: 59.9378
 longitude: 30.3294
+score: 7.8
 ---
 
 The Mikhailovsky Theatre on Arts Square is St Petersburg's second-tier opera and ballet house — second only by reputation, since the productions are often superb and the gilded 1833 auditorium is arguably more beautiful than the Mariinsky's. The building, designed by Alexander Bryullov, holds about a thousand seats arranged around a steeply raked horseshoe of boxes.

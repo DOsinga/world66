@@ -14,6 +14,7 @@ story: >
   has it that the particles are gemstone fragments, which overstates things, but the 
   geology is genuinely unusual. The colour is most visible in low-angle Arctic light, 
   when the sand takes on an almost coppery glow.
+score: 7.0
 ---
 
 Mjelle is a secluded beach on the western tip of the Bodøhalvøya peninsula, reached by a 30-minute drive from the city centre or a longer hike along the coastal path. The beach is narrow but sheltered, with a reddish tinge to the sand caused by mineral deposits — local guides like to call them gemstone particles, which is an embellishment, but the colour is distinctive and the setting is fine.

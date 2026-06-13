@@ -9,6 +9,7 @@ latitude: 12.1396
 longitude: -86.2705
 story: >
   The silhouette of Sandino — flat steel cut into his trademark wide-brimmed hat and poncho — was erected on the Tiscapa hill after the Sandinista revolution of 1979. The choice of location was deliberate: directly below the monument, inside the hill, are the cells of the old Somoza presidential prison, where political opponents were held and tortured. The liberator now stands literally above the instruments of oppression.
+score: 7.5
 ---
 
 The Sandino Monument on the Loma de Tiscapa is one of the most recognisable images in Nicaragua — a large steel silhouette of Augusto César Sandino, the guerrilla leader who fought the US occupation in the late 1920s and early 1930s and became the patron saint of the Sandinista movement. The figure stands on the highest point of the volcanic rim above the Tiscapa Lagoon, visible from much of the city and particularly dramatic at sunset.

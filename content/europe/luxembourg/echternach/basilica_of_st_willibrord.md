@@ -16,6 +16,7 @@ story: >
   Luxembourg. The present building is a careful 1953 reconstruction of
   the Romanesque-Gothic original — but the crypt below, with Willibrord's
   sarcophagus, survived the war intact.
+score: 8.8
 ---
 
 St Willibrord, an Anglo-Saxon missionary, founded the Benedictine abbey here in 698 AD on land granted by a local Frankish abbess, and the church above his tomb has stood — in successive forms — ever since. The current basilica is a striking pale-stone Romanesque-Gothic structure, with twin western towers, a long aisled nave, and high clerestory windows.

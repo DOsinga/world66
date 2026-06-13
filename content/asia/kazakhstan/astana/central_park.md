@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 51.1644
 longitude: 71.4128
+score: 6.5
 ---
 
 Central Park sits on the right bank of the Ishim, a remnant of the Soviet-era city that pre-dates the post-1997 boom. It is a large, slightly faded park of pine trees, paved walking paths, a boating lake, and a low-rise amusement section with rides for children. The contrast with the polished left-bank monuments is significant — this is where actual residents bring their kids and where wedding parties pose for photographs.

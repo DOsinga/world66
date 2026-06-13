@@ -10,6 +10,7 @@ title: VJ's Drive Inn
 type: poi
 sources:
   - https://en.wikipedia.org/wiki/VJ%27s_Drive_Inn
+score: 5.7
 ---
 
 A Winnipeg institution since 1956. The classic downtown drive-in serves burgers and fries in no-frills surroundings. Cash only, very cheap, very good. The neon sign has been a Main Street landmark for decades.

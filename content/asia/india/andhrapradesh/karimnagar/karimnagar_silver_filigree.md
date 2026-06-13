@@ -8,6 +8,7 @@ latitude: 18.4386
 longitude: 79.1288
 story: >
   In September 2023, Karimnagar filigree artisans created 200 Ashoka Chakra-shaped silver badges that were presented to delegates at the G20 Summit in New Delhi — a reminder that a craft practiced for four centuries in the backstreets of a Telangana market town can reach heads of government.
+score: 7.5
 ---
 
 Karimnagar has been the centre of Indian silver filigree work — locally called Tarkasi — for around 400 years. The craft involves drawing silver into very fine wire, then twisting and coiling it into intricate lace-like patterns. The Elgandal neighbourhood near the old fort is the traditional home of the artisans, and during the Nizam era noblemen commissioned elaborate filigree trays, boxes, and jewellery that ended up in the Salar Jung Museum in Hyderabad.

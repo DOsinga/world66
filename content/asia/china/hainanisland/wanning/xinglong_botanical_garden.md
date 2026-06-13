@@ -9,6 +9,7 @@ latitude: 18.7411
 longitude: 110.2053
 story: >
   Xinglong was created in 1951 as a resettlement community for ethnic Chinese expelled from Indonesia, Vietnam, Malaysia, and other Southeast Asian countries. The Indonesian government's anti-Chinese campaigns of the 1950s sent several thousand people here virtually overnight, and they brought their crops with them: coffee, vanilla, cocoa, and black pepper, none of which had been grown in Hainan before. The botanical garden preserves that inheritance.
+score: 8.4
 ---
 
 The Xinglong Tropical Botanical Garden is one of the most distinctive stops in Hainan — a working research garden within the Xinglong overseas Chinese community that covers over 200 hectares of tropical cultivation. The garden holds specimens of over a thousand tropical plant species, with particular depth in economically important crops: coffee, rubber, pepper, vanilla, and tropical fruits. Guided tours explain both the botany and the unusual human history behind the garden.

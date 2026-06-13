@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - village
+score: 6.6
 ---
 
 Draga Bašćanska is a small village in the Bašćanska Draga valley, about four kilometres inland from Baška on the road to Krk Town. The setting is the appeal: a green oasis of vineyards, olive groves, and dry-stone walls running up the limestone hillsides, with a small parish church (St John the Baptist) at its heart.

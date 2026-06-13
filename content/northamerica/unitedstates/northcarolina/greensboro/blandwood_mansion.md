@@ -9,6 +9,7 @@ tags:
   - museum
   - historic_house
 snippet: Italianate villa built for Governor John Motley Morehead, the oldest of its kind in America
+score: 7.9
 ---
 
 Blandwood is the former home of John Motley Morehead, governor of North Carolina in the 1840s. It was remodelled in 1844 by Alexander Jackson Davis into the earliest known example of Tuscan Villa or Italianate architecture in the United States — predating the popularization of the style by a couple of decades. The house is a National Historic Landmark.

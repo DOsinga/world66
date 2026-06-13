@@ -7,6 +7,7 @@ tags:
 latitude: 37.454607
 longitude: -122.182526
 story: Menlo Park station opened in 1867 and is among the oldest surviving railway stations in California still in active use. The current Craftsman-style building was constructed in 1923 and is on the National Register of Historic Places. The station's continued activity — served by Caltrain's peninsula commute service — makes it more useful as a transport node than as a museum piece, but the building itself is worth pausing at.
+score: 6.3
 ---
 
 Menlo Park station sits at the heart of the downtown on El Camino Real, a few steps from Kepler's Books and Cafe Barrone. Caltrain stops here regularly on its San Francisco–San Jose corridor, making it the most useful transit point for visitors arriving from either city without a car. The 1923 depot building is small and well-preserved, its Craftsman-era timber framing visible in the waiting area.

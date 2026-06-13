@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/S%C3%B6rmland_Museum
 story: >
   Among the museum's prize possessions is a key said to have been thrown into the Nyköpingsån by King Birger after imprisoning his brothers in 1317. It was reportedly retrieved from the riverbed in the 17th century. Whether or not it is actually the key, it has become the symbol of the Nyköping Banquet and of the town itself.
+score: 7.4
 ---
 
 The Sörmland Museum occupies the reconstructed buildings alongside Nyköping Castle, making it the natural companion to a visit to the castle grounds. It is the cultural-historical museum for Södermanland County, covering the region's archaeology, applied arts, and folk traditions from prehistoric times to the present.

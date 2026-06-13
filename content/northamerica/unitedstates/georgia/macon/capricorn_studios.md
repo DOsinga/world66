@@ -16,6 +16,7 @@ story: >
   restored and operates again as a working studio.
 sources:
   - https://visitmacon.org/music/capricorn-studios/
+score: 7.0
 ---
 
 Capricorn Sound Studio at 536 Martin Luther King Jr Boulevard is the building where Southern rock was recorded, mixed, and sent out to the world in the 1970s. The Allman Brothers Band recorded here. So did dozens of other artists who defined the genre. The studio reopened after a restoration and now operates as both a working recording space and a cultural site open to visitors.

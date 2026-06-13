@@ -8,6 +8,7 @@ tags:
   - sight
   - archaeology
 story: "Pottery stamps recovered here record the names of more than five hundred potters. In the first century AD this small town was producing red-slip Samian ware on an industrial scale and shipping it from Britain to North Africa."
+score: 7.7
 ---
 
 A short walk from the centre of Millau, at the confluence of the Tarn and the Dourbie, La Graufesenque is one of the most important Roman archaeological sites in southern France. From the first century AD this was a major centre for the production of terra sigillata — glossy red-slip tableware that turns up in Roman sites across the empire.

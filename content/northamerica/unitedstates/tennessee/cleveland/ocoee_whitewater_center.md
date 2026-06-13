@@ -10,6 +10,7 @@ tags:
 - day_trip
 story: "The Ocoee was the first natural river ever used for Olympic whitewater. Builders re-channelled and shaped the riverbed with rock and concrete to create a course tight enough for slalom gates, then released water from the Ocoee No. 3 dam only when racing required it. Today the same gates open on a published schedule for the rafting industry, which means the river is essentially turned on for tourists like a giant tap."
 snippet: A purpose-built whitewater course on the Ocoee River, site of the 1996 Olympic kayaking and canoeing events
+score: 8.3
 ---
 
 About 50 km east of Cleveland, the **Ocoee Whitewater Center** sits on the banks of the Middle Ocoee River, where a stretch of natural rapids was reshaped to host the **1996 Olympic whitewater slalom**. It is the only Olympic whitewater venue ever built on a natural river, and it is still used regularly by the US team for training.

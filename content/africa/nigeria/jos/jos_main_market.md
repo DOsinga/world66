@@ -11,6 +11,7 @@ story: >
   partially destroyed by fire in 2002 and has since been rebuilt
   in stages; some sections remain unfinished and traders operate
   in the surrounding streets.
+score: 7.0
 ---
 
 The Jos Main Market is the commercial heart of the city — an immense covered complex on the western edge of the old town that, when complete, was one of the largest markets in West Africa. The structure was damaged by a series of fires from the early 2000s onwards and parts have been rebuilt; in practice, traders today spread across the surviving covered halls and the surrounding streets.

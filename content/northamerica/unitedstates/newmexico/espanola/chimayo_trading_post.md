@@ -9,6 +9,7 @@ latitude: 35.9911
 longitude: -106.0678
 sources:
   - https://en.wikipedia.org/wiki/Chimayo_Trading_Post_and_E.D._Trujillo_House
+score: 6.2
 ---
 
 The Chimayo Trading Post and E.D. Trujillo House is a historic commercial building that has been listed on the National Register of Historic Places. The structure dates to the early 20th century and represents the kind of small-scale trading post architecture that once characterised the rural commercial landscape of northern New Mexico, where Native American, Hispanic, and Anglo cultures met in the marketplace.

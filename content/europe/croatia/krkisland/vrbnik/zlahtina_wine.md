@@ -13,6 +13,7 @@ story: >
   the combination of the stony soil, the sea breeze from the Kvarner Gulf, and the
   particular microclimate of the Vrbnik valley creates a wine that cannot be replicated
   elsewhere. Most visitors agree after the second glass.
+score: 8.3
 ---
 
 Žlahtina is a dry white wine grown only in the area around Vrbnik, and the best reason to stop here rather than just pass through. The grape variety is native to Krk Island and produces a light, crisp wine with good acidity and faintly mineral notes that reflect the limestone terroir. It goes well with fish, which is convenient given the location.

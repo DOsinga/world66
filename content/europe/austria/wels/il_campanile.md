@@ -9,6 +9,7 @@ snippet: "Long-running Italian restaurant on the edge of town, popular for busin
 tags:
 - eating_out
 - restaurant
+score: 5.1
 ---
 
 A polished, long-running Italian restaurant on Europastraße that has fed Welsers and visitors from the nearby trade-fair grounds for years. The menu sticks to the classics — fresh pasta, veal, fish — done well rather than reinvented, and the wine list leans Italian with a respectable Austrian section.

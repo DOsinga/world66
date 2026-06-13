@@ -9,6 +9,7 @@ latitude: 52.24250
 longitude: 6.85250
 story: >
   The Torentje van Drienerlo — a slender concrete column 25 metres high with a tiny room on top, created by the Dutch artist Wim T. Schippers in 1979 — stands at the edge of the University of Twente campus. It was built purely as an artwork, with no function. Schippers proposed it as a "useless tower," and its pure purposelessness in the context of a technical university has given it a cult following among architecture and art students.
+score: 6.6
 ---
 
 The University of Twente campus on the western edge of the city is set in a park-like landscape of woods, ponds, and grassy spaces, with the university's technical and science buildings scattered among the trees. It is unusual among Dutch universities in being a residential campus rather than an urban scatter of buildings.

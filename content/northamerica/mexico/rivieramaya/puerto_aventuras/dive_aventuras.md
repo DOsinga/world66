@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 20.4994
 longitude: -87.2261
+score: 7.2
 ---
 
 One of the two main dive operations based in Puerto Aventuras marina. Dive Aventuras runs reef dives on the nearby Caribbean reef, cenote dives in the cave systems inland, and full PADI courses from open-water to divemaster level. The cenote dives — into the flooded cave networks that honeycomb the Yucatan limestone — are the most dramatic option and can be done as a day trip from the marina.

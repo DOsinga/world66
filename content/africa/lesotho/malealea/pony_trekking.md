@@ -13,6 +13,7 @@ story: >
   riding horses, they navigate the steep rocky trails of the Maluti Mountains with a
   sureness that larger breeds cannot match — and they have been the primary transport
   for highland Basotho communities for nearly two centuries.
+score: 8.9
 ---
 
 The Malealea Lodge has been organising pony treks into the surrounding Maluti Mountains since the 1980s and has developed a network of trails linking remote villages that are unreachable by road. Treks range from three hours to four days or more, with overnight stays in traditional Basotho rondavels or under canvas in mountain camps.

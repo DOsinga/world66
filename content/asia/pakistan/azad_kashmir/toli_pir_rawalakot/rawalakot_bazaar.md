@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood]
 latitude: 33.8534
 longitude: 73.7515
+score: 6.4
 ---
 
 Rawalakot is the capital of Poonch District and the main town for the surrounding valley. The central bazaar is a lively mix of small shops, food stalls, and traders dealing in everything from locally grown walnuts and apricots to imported goods from Rawalpindi. The town has a distinctive Kashmiri hill-town character — wooden shopfronts, narrow lanes, and a sense of being slightly cut off from the bustle of the plains below.

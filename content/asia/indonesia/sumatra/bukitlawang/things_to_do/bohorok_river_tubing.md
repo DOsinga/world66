@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - swimming
+score: 6.6
 ---
 
 River tubing on the Bohorok is the other classic Bukit Lawang activity. You sit inside an inflated truck tyre and float downstream for two to three hours, through calm stretches of clear water, past jungle-covered banks, and through a few lively sections where the current picks up and requires some steering with your hands.

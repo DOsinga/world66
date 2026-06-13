@@ -8,6 +8,7 @@ tags:
 latitude: 14.5291
 longitude: 120.9967
 neighbourhood: Baclaran
+score: 6.8
 ---
 
 The Baclaran Market that sprawls around the National Shrine is one of Manila's great bazaars, and at its edges and interior you'll find cheap, fast Filipino food sold at prices that haven't caught up with the rest of the city. Vendors sell pork barbecue skewers, fried fish, rice meals, halo-halo (shaved ice dessert), and kakanin (rice cakes) from open stalls.

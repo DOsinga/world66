@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 13.34804
 longitude: 77.10216
+score: 5.8
 ---
 
 The Kote Anjaneya Temple is a Hanuman temple in the heart of Tumkur, located within the remains of the old fort area (kote). The temple is an active place of worship and draws a steady stream of devotees throughout the day, particularly on Saturdays and Tuesdays, which are considered auspicious for Hanuman worship in the Kannada tradition.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 40.6908
 longitude: -75.2119
+score: 8.0
 ---
 
 The downtown core listed on the National Register of Historic Places, covering roughly twenty blocks around Centre Square. The fabric is mostly Federal and late-Victorian — three-storey brick rowhouses, painted lady gables, cast-iron fronted commercial buildings on Northampton Street. The town was a Delaware Valley boom centre in the early 1800s thanks to the canals and the iron trade, and the architecture reflects that wealth.

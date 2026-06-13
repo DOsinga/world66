@@ -12,6 +12,7 @@ story: >
   first in the world to hold a Formula 1 race under full floodlights. The transformation
   required 1,200 custom floodlights producing a combined output bright enough to be visible
   from space — a fact the circuit's marketing team have never been shy about.
+score: 4.4
 ---
 
 The Bahrain International Circuit at Sakhir, about 10 kilometres south of Riffa, is one of the newer venues on the Formula 1 calendar and one of the most ambitious: built in the middle of the desert on what was previously flat sand, it opened in 2004 and hosted the first Formula 1 race in the Middle East. On race weekends in March or April the entire area around Riffa fills with international visitors, and the atmosphere spills across Manama and the surrounding towns.

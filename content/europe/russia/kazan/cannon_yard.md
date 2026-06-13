@@ -8,6 +8,7 @@ tags:
   - sight
   - kremlin_district
   - historic
+score: 6.7
 ---
 
 The Cannon Yard (Pushechny Dvor) is the long brick building running along the northern side of the Kremlin courtyard, originally a 17th-century gunpowder factory and arsenal. It is the largest surviving non-religious structure inside the citadel.

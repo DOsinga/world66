@@ -10,6 +10,7 @@ tags:
   - historic
 story: >
   Karosta's St. Nicholas Orthodox Cathedral was built on the orders of Tsar Alexander III in the 1890s as a spiritual anchor for the naval base. After Latvian independence in 1991, the Russian military withdrew and the cathedral fell into disrepair. It has since been partially restored, and services resumed in the 2000s — a congregation operating in a building that was technically a Soviet naval chaplaincy for most of the 20th century.
+score: 9.3
 ---
 
 Karosta (Naval Port) is a district north of Liepāja city centre that operates as an entirely separate world. Built in the 1890s as an imperial Russian naval base, it covers several square kilometres of officers' mansions, Orthodox churches, fortifications, a canal, breakwaters, and row upon row of Soviet-era apartment blocks — all of it now slowly decaying, still inhabited by perhaps 7,000 people who never quite got absorbed into the rest of the city.

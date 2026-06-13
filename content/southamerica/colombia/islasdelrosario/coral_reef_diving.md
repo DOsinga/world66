@@ -9,6 +9,7 @@ latitude: 10.1767
 longitude: -75.7721
 story: >
   The Parque Nacional Natural Corales del Rosario y San Bernardo was established in 1988 specifically to protect these reefs, which are among the most biodiverse in the Colombian Caribbean. The park covers 120,000 hectares of sea, including coral gardens, seagrass beds, and mangrove systems — a remarkably varied marine ecosystem within a short boat ride of a major city.
+score: 8.6
 ---
 
 The Rosario Islands have 28 known diving sites, ranging from shallow coral gardens ideal for snorkelling to deeper walls and reef structures for experienced divers. Visibility on the best days exceeds 20 metres. The waters hold grouper, barracuda, moray eels, sea turtles, and a range of reef fish; sightings of eagle rays are not uncommon.

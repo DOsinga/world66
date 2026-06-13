@@ -7,6 +7,7 @@ tags:
 latitude: 34.5960
 longitude: -120.1384
 snippet: Danish pancake balls — the essential Solvang food experience, sold fresh from bakery windows
+score: 7.9
 ---
 
 Aebleskiver are spherical Danish pancakes — cooked in a special pan with hemispherical molds, resulting in round puffs that are crisp outside and light inside. Dusted with powdered sugar and served with raspberry jam, they are the essential Solvang eating experience and available from multiple bakeries along Copenhagen Drive and Mission Drive, often sold through street-facing windows to passing pedestrians.

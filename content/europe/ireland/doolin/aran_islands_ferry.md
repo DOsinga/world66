@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 53.0203
 longitude: -9.4015
+score: 7.6
 ---
 
 Doolin is the most convenient departure point for the Aran Islands from County Clare. Doolin Ferry operates year-round sailings (weather permitting) to Inisheer, the smallest and closest island, as well as to Inishmaan and Inishmore. Inisheer can be visited as a day trip from Doolin — the ferry takes about 30 minutes and there is enough to see in a half day of walking the island.

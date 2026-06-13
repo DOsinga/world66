@@ -8,6 +8,7 @@ latitude: 42.7268
 longitude: 12.7466
 story: >
   The bridge was long believed to be Roman in origin, built by the emperor Augustus or Caligula. Nineteenth-century scholarship revised this to the 13th or 14th century — most likely built under Cardinal Albornoz to supply the fortress above with water from Monteluco. The Romans did build an earlier aqueduct across this gorge, but what you see is medieval.
+score: 9.4
 ---
 
 The Ponte delle Torri is one of the great medieval engineering achievements of Italy: a stone aqueduct 230 metres long and 80 metres high, spanning a deep forested gorge on ten soaring arches. Walking across it — the gorge dropping away below, the Rocca Albornoziana visible on the hill above, the forest of Monteluco ahead — is one of those experiences that makes Spoleto worth the journey.

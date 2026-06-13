@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 35.7868
 longitude: -78.6538
+score: 6.5
 ---
 
 Trophy Brewing is one of Raleigh's best-regarded craft breweries, with a tap room on Maywood Avenue and a pizza restaurant (Trophy Pizza) across the street. The beers lean toward hop-forward IPAs and well-made lagers, and the tap list rotates regularly with seasonal offerings. The Maywood location has a comfortable patio that gets busy on warm evenings.

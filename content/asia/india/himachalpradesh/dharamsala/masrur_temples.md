@@ -9,6 +9,7 @@ latitude: 32.0726
 longitude: 76.1371
 story: >
   The Masrur temples were damaged severely in the 1905 Kangra earthquake, which toppled several of the subsidiary spires and broke open some of the carved panels. What remains — carved from a single sandstone outcrop, facing the Dhauladhar peaks — is enough to make clear what was lost. The site was unknown to scholars outside the region until the early 20th century, and is still far less visited than comparable temple complexes in Rajasthan or Madhya Pradesh.
+score: 8.9
 ---
 
 The Masrur Temples are an early 8th-century complex of 15 rock-cut Hindu temples in the Kangra Valley, about 45 kilometres southwest of Dharamsala. Carved entirely from a single sandstone hill in the Nagara architectural style, the temples were built for Shiva, Vishnu, and related deities and are often compared — by those who have seen both — to the Kailash Temple at Ellora, though on a smaller scale. They are one of the most significant and least-known archaeological sites in Himachal Pradesh.

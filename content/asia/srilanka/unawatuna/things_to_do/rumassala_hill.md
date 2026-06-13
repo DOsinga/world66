@@ -14,6 +14,7 @@ story: >
   which plant to bring, carried back an entire piece of mountain. Rumassala, Sri Lankans say,
   is where that fragment landed — which explains why the hill's plant life is unusually diverse
   compared to the surrounding landscape.
+score: 7.9
 ---
 
 The forested hill at the eastern end of Unawatuna Bay is a protected botanical area notable for its unusually rich plant diversity. A path climbs through the jungle to the summit, where a Japanese Peace Pagoda looks out over the bay and the Indian Ocean. The walk takes about 30 minutes from the beach road and passes through some of the densest vegetation in the Galle district, including plants that are rare on the Sri Lankan coast.

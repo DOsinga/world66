@@ -5,6 +5,7 @@ tags: [things_to_do, day_trips, shopping]
 latitude: 48.3367
 longitude: 17.3036
 story: Modra blue-and-white pottery has been produced in this small town since the 18th century, when Hungarian and Moravian pottery traditions merged along the trade routes through the Small Carpathians. The town's coat of arms features the characteristic blue floral motif. Several workshops still produce the pottery by hand using traditional techniques.
+score: 6.9
 ---
 
 Modra is a small wine town 35 km northeast of Bratislava, famous for two things: its wine and its pottery. The town has been producing a distinctive blue-and-white earthenware since the 18th century — cobalt-glazed floral designs on cream-coloured clay, made using techniques passed down through generations of local potters.

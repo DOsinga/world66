@@ -9,6 +9,7 @@ longitude: 23.4500
 snippet: National park with marble peaks, glacial lakes, and Bulgaria's best skiing at Bansko
 sources:
   - https://en.wikipedia.org/wiki/Pirin_National_Park
+score: 7.8
 ---
 
 The Pirin range rises directly south of Blagoevgrad, its marble and limestone peaks visible from the city centre on clear days. Pirin National Park — a UNESCO World Heritage Site since 1983 — protects 274 square kilometres of alpine terrain, including ancient Balkan pine (Pinus heldreichii) forests, over 100 glacial lakes, and peaks rising to 2,915 metres at Vihren, the third-highest peak in Bulgaria.

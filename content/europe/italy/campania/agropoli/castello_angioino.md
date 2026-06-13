@@ -6,6 +6,7 @@ latitude: 40.3528
 longitude: 14.9946
 story: >
   The castle was built by the Angevins in the 13th century on top of a Byzantine fortification, which itself stood on the site of a Greek settlement where a temple to Artemis once stood. The Aragonese expanded it in the 15th century. The result is a structure that has been continuously fortified and modified for over a thousand years, with foundations that may be pre-Christian. Standing on the walls, you are standing on compressed centuries.
+score: 8.0
 ---
 
 The Castello Angioino-Aragonese sits at the highest point of Agropoli's old promontory, a compact medieval castle with cylindrical towers and walls that have been rebuilt and reinforced by every power that held the town — Byzantine, Lombard, Angevin, and Aragonese in succession. Entry is free, which means the castle is often surprisingly uncrowded despite the quality of the views.

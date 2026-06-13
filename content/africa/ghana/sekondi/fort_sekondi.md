@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: Ruined English fort facing the Dutch one across the bay
+score: 3.2
 ---
 
 Fort Sekondi, also called Fort Witsen on early Dutch maps, was originally a small Dutch trading lodge expanded into a stone fort by the English in 1682. For nearly two centuries it stood almost within musket-shot of Dutch Fort Orange across the bay, the two flags facing each other through war, peace, and a brisk trade in gunpowder and rum.

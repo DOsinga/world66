@@ -10,6 +10,7 @@ tags:
   - cycling
 sources:
   - https://en.wikipedia.org/wiki/No_Name_Key
+score: 7.5
 ---
 
 No Name Key is connected to Big Pine Key by a short bridge and is accessible by car or bicycle. The island is mostly undeveloped — part of it falls within the National Key Deer Refuge — and it's one of the best places in the lower Keys to see Key deer up close, particularly in the early morning and late afternoon when they move through the pine rocklands to forage.

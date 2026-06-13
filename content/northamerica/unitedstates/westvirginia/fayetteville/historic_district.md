@@ -8,6 +8,7 @@ tags:
   - neighbourhood
 latitude: 38.0514
 longitude: -81.1069
+score: 6.8
 ---
 
 The Fayetteville Historic District covers roughly six blocks around the courthouse square — late-Victorian commercial buildings of pressed brick and stone, a couple of early hotels, the Soldiers and Sailors Memorial Building (1922), and several streets of restored Queen Anne and Folk Victorian houses. The whole district was added to the National Register in 2011.

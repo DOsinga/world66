@@ -9,6 +9,7 @@ latitude: 53.9943
 longitude: -1.5443
 sources:
   - https://en.wikipedia.org/wiki/Royal_Baths,_Harrogate
+score: 8.5
 ---
 
 The Royal Baths complex on Parliament Street is one of Harrogate's most imposing Victorian buildings — a vast Edwardian confection of terracotta, faience, and elaborate tiling opened in 1897. At its height it offered everything from steam baths and electric baths to mud treatments and massage, drawing visitors from across the world. The scale of the building, covering an entire block, gives a vivid sense of how seriously the Edwardians took their spa culture.

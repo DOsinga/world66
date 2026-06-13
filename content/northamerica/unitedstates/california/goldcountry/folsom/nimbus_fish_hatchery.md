@@ -10,6 +10,7 @@ longitude: -121.2252
 snippet: State hatchery where you can watch salmon and steelhead during the autumn run
 sources:
   - https://en.wikipedia.org/wiki/Nimbus_Fish_Hatchery
+score: 7.8
 ---
 
 The Nimbus Fish Hatchery sits at the base of Nimbus Dam, where the American River exits Lake Natoma, and is operated by the California Department of Fish and Wildlife. Its primary job is raising chinook salmon and steelhead trout to supplement runs that have been disrupted by the dams blocking the river.

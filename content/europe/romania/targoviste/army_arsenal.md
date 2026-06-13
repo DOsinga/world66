@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.8
 ---
 
 The old military foundry on the southern edge of town, established by Prince Alexandru Ioan Cuza in 1864 and one of the first industrial complexes of the modern Romanian state. The red-brick buildings, now partly preserved, are an interesting industrial archaeology stop — and they share their grounds with the garrison where Ceaușescu was executed.

@@ -5,6 +5,7 @@ longitude: 4.7717
 title: Texel Ferry (TESO)
 type: poi
 snippet: Frequent car and passenger ferry across the Marsdiep strait to Texel island
+score: 6.1
 ---
 
 The TESO ferry is the only connection between the Dutch mainland and Texel, the largest of the Wadden Islands. The crossing takes about twenty minutes and runs roughly every hour throughout the day, with increased frequency in summer. The ferry carries cars, bicycles, and foot passengers and departs from the terminal at the northern end of Den Helder's waterfront, a short walk from the railway station.

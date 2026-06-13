@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Kourion
 type: poi
+score: 9.2
 ---
 
 Kourion is arguably the most dramatic ancient site in Cyprus: a Greco-Roman city perched on clifftops above the sea, with views stretching along the coast toward [Limassol](/asia/cyprus/limassol) to the east. The setting alone is worth the trip.

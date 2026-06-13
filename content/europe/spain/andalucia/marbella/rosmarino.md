@@ -7,6 +7,7 @@ tags:
 title: Rosmarino
 type: poi
 url: www.dolceguide.com
+score: 4.0
 ---
 
 Stylish, sophisticated Italian restaurant

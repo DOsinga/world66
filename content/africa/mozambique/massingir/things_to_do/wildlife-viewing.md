@@ -1,6 +1,7 @@
 ---
 title: "Wildlife Viewing"
 type: poi
+score: 8.5
 ---
 
 Massingir and the surrounding lowveld offer some of the most accessible big-game viewing in Mozambique, built on a conservation comeback that began in the early 2000s. When Limpopo National Park was formally established in 2001 and integrated into the Great Limpopo Transfrontier Park, fences separating it from Kruger National Park were progressively removed. Elephants were among the first to respond, crossing into Mozambique in significant numbers; the population, which had been decimated by the civil war, has since recovered dramatically and now numbers in the thousands.

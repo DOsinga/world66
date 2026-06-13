@@ -6,6 +6,7 @@ longitude: -93.7232
 tags:
   - eating_out
   - restaurant
+score: 6.6
 ---
 
 Open since 1944, Strawn's is the diner that everyone in Shreveport returns to. Breakfast is the main event — eggs, hash browns, country ham, biscuits and gravy — but the icebox pies are what made the place famous. Strawberry, peach, banana, chocolate, all built on a graham crust under a tower of whipped cream.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.3
 ---
 
 The baroque parish church on the Plaza de España, built in the 17th century on the site of an earlier mosque-then-chapel. The interior is more austere than the heavy painted facade suggests — single nave, gilt altarpiece, a small treasury with Renaissance silverwork from the convents of the sierra.

@@ -10,6 +10,7 @@ snippet: Gio Ponti's 1933 steel tower with panoramic city views
 tags:
 - things_to_do
 - sight
+score: 5.9
 ---
 
 A 108.6-metre steel tower designed by Gio Ponti, built in 1933 in Parco Sempione behind Castello Sforzesco. The observation platform at the top, reached by a small lift, gives panoramic views over the park and across Milan's rooftops. One of the lesser-visited viewpoints in the city.

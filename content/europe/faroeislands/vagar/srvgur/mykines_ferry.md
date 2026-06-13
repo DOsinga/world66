@@ -11,6 +11,7 @@ tags:
 snippet: Ferries to puffin island depart from Sørvágur's harbour in summer
 sources:
   - https://en.wikipedia.org/wiki/Mykines,_Faroe_Islands
+score: 9.6
 ---
 
 The harbour at Sørvágur is the embarkation point for ferries to [Mykines](/europe/faroeislands/mykines), the westernmost and most remote of the Faroese islands. Mykines is famous above all for its Atlantic puffins, which nest in their tens of thousands on the grassy cliffs of Mykinesholmur, the small islet connected to the main island by a footbridge. In summer, puffins sit barely an arm's length from the path — a genuinely extraordinary encounter.

@@ -6,6 +6,7 @@ tags:
   - wildlife
 latitude: 9.5333
 longitude: -83.8500
+score: 7.5
 ---
 
 The Savegre River runs east of Quepos through a valley of forest and coffee farms before descending toward the coast. It is one of Costa Rica's better whitewater rivers, with sections ranging from class II (gentle and suitable for families) to class III–IV (proper rapids requiring some experience). Most operators run the easier sections as half-day trips departing from Quepos, about 45 minutes from Manuel Antonio.

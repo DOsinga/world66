@@ -8,6 +8,7 @@ latitude: 49.4447
 longitude: 7.7689
 story: >
   "Elf Freunde" — eleven friends — is the German football fan phrase for the eleven players of a football team. The traffic circle sculpture encodes Kaiserslautern's identity as a football city into the urban infrastructure itself. It was installed in 2006 ahead of the FIFA World Cup, when the Fritz Walter Stadion hosted five tournament matches, and has since become one of the city's most photographed and argued-about public artworks.
+score: 5.7
 ---
 
 The Elf Freunde Kreisel is a traffic roundabout on the road toward the Fritz Walter Stadion, decorated with eleven larger-than-life concrete footballer figures in action poses. The sculpture captures the moment of a football match — players heading, shooting, tackling — and the effect, seen from a moving car, is oddly compelling.

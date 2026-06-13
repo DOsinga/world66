@@ -10,6 +10,7 @@ tags:
   - history
 snippet: The ceremonial gateway at the top of the Inca Trail with the classic view over Machu Picchu
 story: "Inca Trail trekkers who complete the four-day walk from Km 82 arrive at this gate at dawn on the final morning — the traditional moment of first sight of Machu Picchu. The gates were designed so that the rising sun on the winter solstice shines directly through the central portal onto specific features of the city below. When the light is right, the sight of the ruins in early morning mist with mountains behind is one of the most photographed moments in South American travel."
+score: 8.4
 ---
 
 Inti Punku — the Sun Gate — stands at 2,720 metres on the original Inca Trail, about 45 minutes' walk from the main Machu Picchu site. It served as a ceremonial entrance to the citadel, and its doorway is oriented to align with the winter solstice sunrise, so that light falls directly through the portal and onto the Intihuatana and other sacred points of the site below.

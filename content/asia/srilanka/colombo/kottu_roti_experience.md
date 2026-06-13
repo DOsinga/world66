@@ -9,6 +9,7 @@ tags:
 title: Hotel de Pilawoos
 type: poi
 neighbourhood: Cinnamon Gardens
+score: 7.4
 ---
 
 If you eat one thing in Colombo, make it kottu roti — chopped flatbread fried on a hot iron plate with egg, vegetables, and a choice of meat or fish, prepared to the rhythmic clang of metal scrapers that is the soundtrack of Sri Lankan street food. Hotel de Pilawoos on Galle Road in Bambalapitiya is one of the best-known kottu places in the city: open 24 hours, busy all night, and turning out consistent kottu at very low prices.

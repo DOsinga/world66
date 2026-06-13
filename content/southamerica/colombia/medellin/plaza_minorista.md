@@ -9,6 +9,7 @@ tags:
 - el_centro
 title: Plaza Minorista
 type: poi
+score: 8.3
 ---
 
 The city's main fresh market — a multi-storey covered hall north of downtown, walls of fruit and vegetables, fish and meat counters, and a basement food court where you can have a full lunch of soup, juice, and a plate of fish for the price of a coffee elsewhere. Not a tourist site, very much a working market; chaotic, loud, and one of the more interesting hours you can spend in the city. Best in the morning. Mind your wallet, don't carry valuables.

@@ -9,6 +9,7 @@ latitude: 38.4409
 longitude: -96.5575
 sources:
   - https://en.wikipedia.org/wiki/Lower_Fox_Creek_School
+score: 7.2
 ---
 
 Lower Fox Creek School is a one-room limestone schoolhouse on the preserve, a small building that says a lot about settlement in the Flint Hills. Children from scattered ranches and farms once came here for lessons, bringing prairie life into a room barely bigger than a modern classroom.

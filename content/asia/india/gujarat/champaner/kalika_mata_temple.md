@@ -6,6 +6,7 @@ tags:
 - sight
 title: Kalika Mata Temple
 type: poi
+score: 8.2
 ---
 
 Kalika Mata Temple is the living sacred centre of Pavagadh Hill and one of Gujarat's important Shakti shrines. Pilgrims come in large numbers, especially during festival periods, and the atmosphere near the top can be intense.

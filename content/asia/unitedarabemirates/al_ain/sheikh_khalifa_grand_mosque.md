@@ -5,6 +5,7 @@ latitude: 24.226
 longitude: 55.747
 snippet: "Al Ain's largest mosque, open to respectful non-Muslim visitors outside prayer times."
 tags: [things_to_do, sight]
+score: 7.2
 ---
 
 The Sheikh Khalifa Grand Mosque is the largest mosque in Al Ain and one of the more architecturally distinguished religious buildings in the emirate outside Abu Dhabi. Completed in the 2000s, it follows the classical Gulf mosque form — a large central dome flanked by minarets, with an expansive marble-floored courtyard — but executed with the quality of materials and finish that large UAE public projects typically achieve.

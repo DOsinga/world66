@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 40.1094
 longitude: -88.2258
+score: 7.9
 ---
 
 The Natural History Building on the main Quad houses one of the best natural history collections in the American Midwest. The public museum section includes impressive mounted skeletons and taxidermy — the star exhibit is a full-sized mounted mastodon skeleton excavated from Illinois, surrounded by other Pleistocene megafauna. The entomology collection is one of the largest in North America, though most of it is held in research storage rather than on public display.

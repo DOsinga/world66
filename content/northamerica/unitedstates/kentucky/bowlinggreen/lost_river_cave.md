@@ -9,6 +9,7 @@ latitude: 36.9621
 longitude: -86.4658
 story: >
   Jesse James and his gang reportedly hid in the Lost River Cave after a bank robbery in the 1880s, using its underground river as a getaway route. The cave was later turned into a speakeasy during Prohibition and then a nightclub in the 1930s — the Underground Nightclub hosted square dances and big bands in its cave theatre before the venue closed in the 1950s.
+score: 8.1
 ---
 
 A cave right inside Bowling Green city limits, Lost River Cave is an unusual attraction: you board flat-bottomed boats and float through a cave on an underground river, guided by rangers who point out rock formations and the cave's layered history. The cave was used as a speakeasy during Prohibition and still has the remnants of the old nightclub stage.

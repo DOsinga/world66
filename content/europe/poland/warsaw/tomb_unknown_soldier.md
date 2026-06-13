@@ -9,6 +9,7 @@ longitude: 21.0026
 snippet: "Poland's central war memorial — three arches surviving from the bombed Saxon Palace, with an eternal flame"
 sources:
   - https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Warsaw)
+score: 7.0
 ---
 
 The Tomb of the Unknown Soldier occupies three surviving arches of the Saxon Palace, which was blown up by the Germans in 1944. The arches were preserved deliberately as a frame for the memorial. An eternal flame burns under the central arch, above a slab of stone from the soil of various Polish battlefields. The guard of honour is changed every hour on the hour.

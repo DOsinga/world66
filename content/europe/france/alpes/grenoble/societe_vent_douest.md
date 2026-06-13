@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: Société Vent d'Ouest
 type: poi
+score: 5.4
 ---
 
 A laid-back bar on the cours Jean Jaurès with a sociable atmosphere and decent drinks list. A reliable spot for an evening out in the south of the city centre.

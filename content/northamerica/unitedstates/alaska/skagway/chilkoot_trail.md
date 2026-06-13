@@ -11,6 +11,7 @@ story: >
   of April 1898, when roughly 70 stampeders were killed by a snowslide as they climbed
   the steep couloir. The graves of some of those who died are still visible near the
   trail — a reminder that the rush claimed hundreds of lives before it began.
+score: 8.9
 ---
 
 The Chilkoot Trail is a 53-kilometre backcountry route from Dyea (near Skagway) over the Chilkoot Pass into British Columbia and the Yukon. It was the main route used by stampeders in 1897–98, and it remains one of the most historically significant hikes in North America. The trail takes most hikers three to five days and requires a permit from Parks Canada (Canadian territory begins at the summit).

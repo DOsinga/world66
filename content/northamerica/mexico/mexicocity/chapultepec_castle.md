@@ -7,6 +7,7 @@ neighbourhood: Chapultepec
 latitude: 19.4203
 longitude: -99.1819
 story: "Maximilian and his wife Carlota lived here briefly in the 1860s, while the French army held Mexico for him. He commissioned the long, straight avenue down the hill — now the Paseo de la Reforma — so that he could drive from the castle to the city centre without having to cross the slums."
+score: 8.8
 ---
 
 The only castle in North America ever inhabited by European royalty stands on a basalt rise at the eastern end of Chapultepec Park. The Aztecs first built a retreat here, the Spanish built a fortress, and from 1864 to 1867 it served as the residence of the Emperor Maximilian and the Empress Carlota during the French intervention.

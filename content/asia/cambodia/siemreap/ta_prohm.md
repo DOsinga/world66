@@ -14,6 +14,7 @@ story: Ta Prohm was deliberately left in its half-ruined, jungle-consumed state 
   the enormous strangler figs and silk-cotton trees had become so entangled with the
   stonework that removal would have destroyed the walls. The result is one of the few
   temples that genuinely feels like a discovery.
+score: 4.5
 ---
 
 **Ta Prohm** was built by Jayavarman VII in 1186 as a Mahayana Buddhist monastery and university, dedicated to the king's mother. At its height it housed over 12,000 officials and servants and was one of the richest temples in the Angkor complex. Unlike most of Angkor, it has been only partially restored, and the result is visually spectacular: massive silk-cotton and strangler fig trees have split walls apart, their roots draped over carved stone like slow-motion waves, while vines trace every lintel and collapsed galleries create shadowed labyrinths.

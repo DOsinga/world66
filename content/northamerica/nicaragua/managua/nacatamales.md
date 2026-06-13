@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 12.1364
 longitude: -86.2514
+score: 7.0
 ---
 
 The nacatamal is Nicaragua's definitive festive food: a large corn-dough dumpling filled with pork, rice, potatoes, tomatoes, olives, and a mint leaf, wrapped in banana leaves and steamed for several hours. It is heavy, complex, and deeply satisfying — a meal that takes most of a day to prepare properly. In Managua, Sunday morning is nacatamal time.

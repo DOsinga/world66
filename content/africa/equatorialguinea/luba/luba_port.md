@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 3.4598
 longitude: 8.5544
+score: 5.2
 ---
 
 Luba's deepwater port, developed in 1999 to serve the offshore oil industry as an alternative to Malabo's congested harbor, is the most significant piece of infrastructure in the southern part of Bioko Island. The oil and gas industry has made Equatorial Guinea wealthy by West African standards, and the port is where that wealth has its most visible working presence — supply vessels, offshore support ships, and the associated industrial activity that has transformed this quiet fishing town.

@@ -7,6 +7,7 @@ tags:
 latitude: 47.6488
 longitude: -2.7580
 snippet: Boat trips from Vannes port into the island-studded inland sea
+score: 8.4
 ---
 
 The Gulf of Morbihan is one of the great natural curiosities of Brittany — a vast tidal lagoon connected to the Atlantic by a narrow channel, scattered with around forty islands and hundreds of islets. The name means "little sea" in Breton, and it earns it: the gulf has its own microclimate, its own tides (different from the ocean outside), and a quality of light that artists have been painting for a century.

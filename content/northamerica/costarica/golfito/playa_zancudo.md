@@ -6,6 +6,7 @@ longitude: -83.1467
 tags:
   - things_to_do
   - beach
+score: 7.2
 ---
 
 A long, flat black-sand beach on the eastern shore of the Golfo Dulce, reached from Golfito by a 30-minute water taxi or a longer overland drive via Río Claro. Zancudo is a true end-of-the-road place — a strip of small lodges, beach restaurants, and not much else, backed by mangrove and palm.

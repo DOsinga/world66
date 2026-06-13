@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
 snippet: A surviving stretch of pre-Inca road on the rim of the Maragua crater
+score: 8.3
 ---
 
 The Camino de Chataquila is a kilometre-long stretch of original Inca paving on the high ridge above the Maragua crater, about 90 minutes from Sucre by road. It was part of the great Andean road network that linked Cuzco to the southern empire; the stones are large, well-fitted, and run in a graceful curve down the mountain. The trail descends from the small Chapel of Chataquila (with its commanding view across the crater) to the village of Chaunaca in the valley below — about two hours' walk downhill.

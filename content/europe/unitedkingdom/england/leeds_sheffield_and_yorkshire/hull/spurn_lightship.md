@@ -8,6 +8,7 @@ tags:
 title: Spurn Lightship
 type: poi
 snippet: "Retired lightship moored at the Marina, once the floating lighthouse for the treacherous Spurn Point sandbanks"
+score: 7.4
 ---
 
 The Spurn Lightship spent her working life moored off Spurn Point, the long sand spit at the mouth of the Humber, warning ships away from the shifting sandbanks. Built in 1927 and decommissioned in 1985, she was towed up to the Marina and restored as a museum ship.

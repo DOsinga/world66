@@ -10,6 +10,7 @@ longitude: -59.5382
 sources:
   - https://en.wikipedia.org/wiki/Christ_Church_Parish_Church
   - https://en.wikipedia.org/wiki/Chase_Vault
+score: 7.1
 ---
 
 The current church on this prominent hilltop site above Oistins is the fifth building to occupy the spot — its predecessors were destroyed by hurricanes and fire. The present structure dates from 1935 and is a sturdy coral-stone building typical of Barbadian ecclesiastical architecture. The attached churchyard is well-kept and worth a slow walk.

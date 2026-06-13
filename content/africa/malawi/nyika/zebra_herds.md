@@ -7,6 +7,7 @@ tags:
   - wildlife
 latitude: -10.5800
 longitude: 33.8200
+score: 8.1
 ---
 
 Nyika holds the largest concentration of zebra anywhere in Malawi — visible in herds of dozens on most game drives, particularly around the Chelinda dam in the early morning. Roan antelope, eland (the world's largest antelope), and reedbuck share the same grassland and are equally common; bushbuck and duiker keep to the patches of forest at the edge of the plateau.

@@ -21,6 +21,7 @@ story: >
   mansion in 1877 and lived there until his death in 1913. He refused to sell
   or subdivide his estate throughout his lifetime; Salem only acquired the land
   as a park after his heirs donated it in 1953.
+score: 6.9
 ---
 
 Bush's Pasture Park is 90 acres of wooded paths, open meadows, and formal gardens tucked into a residential neighbourhood south of downtown. The rose gardens in the north section bloom from May through October and are free to wander.

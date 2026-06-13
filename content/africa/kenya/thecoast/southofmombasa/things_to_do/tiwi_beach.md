@@ -7,6 +7,7 @@ tags:
   - sight
 title: Tiwi Beach
 type: poi
+score: 7.3
 ---
 
 The least developed and most peaceful of the three main beaches on the south coast, Tiwi sits between Shelly and Diani and attracts a quieter crowd — independent travellers, long-stayers, and anyone who prefers to have a stretch of white sand largely to themselves. The beach is broad and the reef is close enough that snorkelling is good directly from the sand.

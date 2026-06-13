@@ -8,6 +8,7 @@ latitude: 42.2557
 longitude: 18.8970
 sources:
   - https://en.wikipedia.org/wiki/Sveti_Stefan
+score: 9.1
 ---
 
 The view of Sveti Stefan from the hillside road above is one of the most reproduced images of the entire Balkans — the turreted stone village sitting on its rocky islet, tethered to the shore by a thin sandy causeway with water on both sides. Pull over at the roadside viewpoint for the full panorama. At sunrise and late afternoon the light turns the stone walls golden.

@@ -6,6 +6,7 @@ longitude: 116.0685
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The Sabah State Mosque is the older of KK's two major mosques and was the largest in Sabah when it was completed in 1977. Its golden dome and pale minarets dominate the skyline of the Sembulan district, visible from much of the city. The design draws on classical Islamic architecture filtered through a Malaysian sensibility, with ornate tilework and a broad colonnade surrounding the main prayer hall.

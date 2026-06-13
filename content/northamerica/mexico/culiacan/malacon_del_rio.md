@@ -8,6 +8,7 @@ tags:
   - sight
 latitude: 24.7950
 longitude: -107.4000
+score: 7.0
 ---
 
 The malecon stretches along the Culiacan River through the heart of the city, a landscaped promenade of broad walkways, sculptures, and benches where families gather in the cooler evening hours. It is the most pleasant place for a walk in Culiacan, especially in the stretch near the botanical garden where tropical vegetation comes right down to the water's edge.

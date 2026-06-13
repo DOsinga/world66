@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 28.9198
 longitude: 89.6011
+score: 7.8
 ---
 
 Below the dzong, the old Tibetan quarter of Gyantse survives largely intact — a network of narrow lanes, whitewashed houses, and small shops selling hardware, chang (barley beer), and dried yak meat. It is one of the few town centres in Tibet that retains a genuinely Tibetan character rather than having been overbuilt with Chinese-style development.

@@ -10,6 +10,7 @@ snippet: 147-metre tower at the eastern end of Odori Park with city views
 story: The tower was modelled on the Eiffel Tower, which Sapporo civic leaders
   admired. It cost 30% more than planned because Hokkaido soil conditions required
   deeper foundations than the original survey suggested.
+score: 5.8
 ---
 
 Built in 1957, the Sapporo TV Tower stands 147 metres at the eastern end of Odori Park, its red-and-white lattice frame a fixture of the city's skyline since the first decade of the postwar boom. The observation deck sits at 90 metres and gives a clear panoramic view over the city grid, which from above is even more striking than at street level — long straight avenues running to the mountains in every direction, the product of the Meiji-era planners who laid out Sapporo on paper before building it. Entry costs around 900 yen.

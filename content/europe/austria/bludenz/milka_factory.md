@@ -7,6 +7,7 @@ tags:
 latitude: 47.1554
 longitude: 9.8155
 snippet: "Factory outlet shop where you can smell the chocolate from the street"
+score: 4.9
 ---
 
 The Suchard-Milka factory on Fohrenburgstraße has been producing chocolate in Bludenz since 1888, and on warm days you can genuinely smell cocoa drifting over the town centre. The factory itself (now operated by Mondelez) is not open for tours, but the Milka Lädele — a factory outlet and experience shop — sits at the site entrance and sells the full range of Milka products, including varieties not available elsewhere, at factory prices.

@@ -5,6 +5,7 @@ snippet: "UNAM's 1950s modernist campus, a UNESCO World Heritage Site"
 tags: [things_to_do, sight, architecture]
 latitude: 19.3231
 longitude: -99.1827
+score: 8.8
 ---
 
 The central campus of the National Autonomous University of Mexico — UNAM, the largest university in Latin America — was built between 1949 and 1952 by a collective of more than sixty Mexican architects led by Mario Pani and Enrique del Moral. The whole campus was declared a UNESCO World Heritage Site in 2007 as a unique synthesis of mid-century modernism and Mexican muralism.

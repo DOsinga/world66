@@ -6,6 +6,7 @@ longitude: 3.0450
 tags:
   - bars_and_cafes
   - bar
+score: 6.2
 ---
 
 One of the older and better cafes on or near Rue Didouche Mourad, the Café des Artistes has long been a gathering place for Algerian writers, journalists and students. The interior is plain — marble-topped tables, cane chairs, a long bar serving coffee and soft drinks — but the clientele keeps the conversation interesting. It is the sort of place where political arguments are conducted with genuine passion.

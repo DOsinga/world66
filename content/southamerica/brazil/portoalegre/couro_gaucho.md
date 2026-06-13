@@ -5,6 +5,7 @@ tags:
 - sight
 title: Gaúcho Leather Shopping
 type: poi
+score: 5.6
 ---
 
 Rio Grande do Sul has a genuine tradition of quality leather craft rooted in the cattle culture of the pampas, and Porto Alegre is the best place to buy it. The most distinctive gaúcho leather goods are **boots** — tall riding boots and short work boots made to traditional patterns, available in stores along Rua dos Andradas and in the Mercado Público. A good pair of handmade gaúcho boots is one of the best souvenirs from the region: practical, durable, and actually made here rather than imported.

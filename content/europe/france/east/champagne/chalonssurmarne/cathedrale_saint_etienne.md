@@ -16,6 +16,7 @@ story: >
   Marc Chagall in 1974, blazing in blue and red on the north transept.
 sources:
   - https://en.chalons-tourisme.com/your-stay/heritage-tours-culture/
+score: 8.2
 ---
 
 The Cathédrale Saint-Étienne rises above the town centre and rewards a long look inside. Built and rebuilt from the 11th through the 17th centuries, it presents an architectural timeline compressed into a single building: the early Romanesque north wall, the soaring Gothic nave, and a Baroque triumphal arch from the 18th century. The result should be incoherent but isn't — the different elements coexist with surprising harmony.

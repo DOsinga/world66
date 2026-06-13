@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, architecture]
 latitude: 59.7398
 longitude: 10.2028
+score: 7.6
 ---
 
 The Ypsilon pedestrian bridge is the centrepiece of Drammen's riverfront revival and one of the more elegant pieces of urban infrastructure in Norway. Completed in 2008, the cable-stayed bridge takes its name from the Y-shape of its design — the two walkway arms diverge from the main span, allowing pedestrians to loop across the river without retracing their steps. The slender white tower and asymmetric cables make it look lightweight and purposeful from both banks.

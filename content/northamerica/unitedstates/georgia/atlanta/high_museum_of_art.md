@@ -11,6 +11,7 @@ tags:
 - museum
 title: High Museum of Art
 type: poi
+score: 8.9
 ---
 
 Atlanta's premier art museum, in a striking Richard Meier building in Midtown. The white porcelain panels and spiraling atrium ramps are worth a look before you even reach the galleries. The collection spans American folk art, photography, African art, and European masters from medieval to modern, with a particularly strong contemporary wing.

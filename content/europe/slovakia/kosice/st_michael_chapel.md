@@ -16,6 +16,7 @@ story: >
   be visited as part of guided tours of the cathedral complex.
 sources:
   - https://en.wikipedia.org/wiki/St_Michael_Chapel_(Ko%C5%A1ice)
+score: 7.4
 ---
 
 The St. Michael Chapel stands directly beside St. Elisabeth Cathedral on Hlavná ulica, a small Gothic structure that provides a striking foreground view to the larger cathedral behind it. It dates from the 14th century and was built in the late Gothic style, with a decorated exterior and a simple interior that is now used occasionally for small concerts and art exhibitions.

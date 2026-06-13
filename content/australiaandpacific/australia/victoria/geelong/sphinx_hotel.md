@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 story: "The owner, Stan Saraka, started building the sphinx in the 1990s after a Cairo holiday and could not be talked out of it. Subsequent additions include a half-scale temple of Karnak, a row of Easter Island moai out the back and — most recently — a fibreglass Loch Ness Monster in the front pond."
+score: 5.8
 ---
 
 A genuine roadside oddity on the Geelong-Melbourne road, the Sphinx Hotel is a normal suburban pub fronted by a full-scale plaster sphinx, two pyramids and a small forest of obelisks. The whole assemblage is lit at night. The interior is decorated with hieroglyphs of varying authenticity, and the bar pours regular Carlton Draught for very normal prices.

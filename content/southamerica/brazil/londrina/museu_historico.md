@@ -12,6 +12,7 @@ story: >
   making it possible to ship coffee to the port at Santos. As road transport replaced rail,
   the station fell out of use — the last trains ran in the 1990s — and the building was
   repurposed as the city's main historical museum.
+score: 8.0
 ---
 
 The Museu Histórico de Londrina is housed in the city's original train station, a handsome art deco building from 1935 that served the coffee economy for decades. The collection covers the history of northern Paraná from its indigenous inhabitants through the period of European and Japanese immigration, the coffee boom, and the development of the modern city.

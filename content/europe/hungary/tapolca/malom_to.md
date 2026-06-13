@@ -7,6 +7,7 @@ tags:
 snippet: "Spring-fed pond and old water mill at the centre of town"
 latitude: 46.8819
 longitude: 17.4393
+score: 7.4
 ---
 
 The Malom-tó is the picturesque heart of Tapolca — a small, crystal-clear pond fed by karst springs, with the old water-driven flour mill standing on its bank. The pond reflects the pastel façades of the surrounding houses and is ringed by a paved walkway, benches, and several cafés with terraces overlooking the water.

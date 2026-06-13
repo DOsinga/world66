@@ -8,6 +8,7 @@ tags:
 neighbourhood: Nyamirambo
 latitude: -1.9698
 longitude: 30.0428
+score: 8.5
 ---
 
 The Nyamirambo Women's Center is a community organisation that has become one of Kigali's most rewarding visitor experiences. Founded in 2007 to provide income and training to women in the neighbourhood, it runs cooking classes, craft workshops, and neighbourhood walking tours that give you a genuine street-level view of the city that a taxi ride cannot.

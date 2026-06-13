@@ -4,6 +4,7 @@ type: poi
 tags: [day_trips, sight, ruins]
 latitude: 20.6416
 longitude: 86.2692
+score: 8.3
 ---
 
 Udayagiri (not to be confused with the Jain caves of the same name near Bhubaneswar) is the largest Buddhist site in Odisha — two separate monastery complexes a few kilometres apart, both still being actively excavated. The main complex has a brick stupa with four colossal Dhyani Buddha images in its niches, plus carved doorways that compare favourably with anything at Sarnath.

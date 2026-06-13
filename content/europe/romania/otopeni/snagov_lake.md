@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 44.6978
 longitude: 26.1581
+score: 7.7
 ---
 
 Snagov Monastery sits on a small island in Snagov Lake, about 10 kilometres north of Otopeni, and is reputedly the burial place of Vlad Țepeș — Vlad the Impaler, the fifteenth-century Wallachian prince whose brutal methods of execution inspired Bram Stoker's Count Dracula. A tomb slab near the altar is pointed out as his, though Romanian historians have long debated whether his remains are actually here or were moved at some point. The association is enough to make it one of the more atmospherically charged day trips in the region.

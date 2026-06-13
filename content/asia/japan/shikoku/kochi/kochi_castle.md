@@ -17,6 +17,7 @@ tags:
 - architecture
 title: Kōchi Castle
 type: poi
+score: 9.2
 ---
 
 Kōchi Castle is the city's defining landmark and one of the finest original castles in Japan. Built in the early 17th century and completed in its current form in 1753 after a fire, it sits on Kōtaka Hill at the centre of the city — a short walk from the tram stop at Kōchi-jo-mae. The keep is small by the standards of Osaka or Nagoya, but the setting is beautiful: stone walls rising in stages through the trees, white plaster walls gleaming above.

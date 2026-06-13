@@ -6,6 +6,7 @@ longitude: 9.9920
 tags:
 - things_to_do
 - sight
+score: 6.4
 ---
 
 The Binnenalster, or inner Alster lake, is the smaller of the two artificial lakes at the heart of Hamburg, enclosed on three sides by the city's main shopping streets and the Jungfernstieg promenade. The Alsterfontäne, a single jet of water rising sixty metres in the lake's centre, runs from April to October and is illuminated at night.

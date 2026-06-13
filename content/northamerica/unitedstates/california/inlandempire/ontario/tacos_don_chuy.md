@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - mexican
+score: 5.9
 ---
 
 A long-standing taqueria on Holt Boulevard, Tacos Don Chuy does the kind of straight-down-the-middle Mexican food that the Inland Empire excels at — al pastor carved off the trompo, suadero and lengua tacos, decent salsas, no pretensions. Open late, busy on weekend nights.

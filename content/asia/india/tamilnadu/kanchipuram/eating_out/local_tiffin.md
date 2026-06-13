@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 12.9648
 longitude: 79.7835
+score: 6.3
 ---
 
 The best breakfast in Kanchipuram is not in a hotel. It's in one of the small, no-menu tiffin restaurants that open around 6am near the temples and bus stand, fill up fast, and wind down by 10. There's no English signage; you sit down and get what's being made that morning.

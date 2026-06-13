@@ -15,6 +15,7 @@ story: >
   controversial. The town was renamed from Wangcun to Furong Zhen after the
   film's success — one of the few cases of a Chinese location naming itself
   after a film rather than the reverse.
+score: 9.0
 ---
 
 The waterfall at Furong Ancient Town drops more than sixty metres in two tiers into a pool below the ancient commercial street, which has been built on the cliff face above and around the falls on the traditional Tujia stilted wooden structures. The falls are audible and partially visible throughout a walk of the street, creating an unusual relationship between architecture and geology that is not manufactured for tourists: the town was built here because the waterfall provided water and the cliff provided defence.

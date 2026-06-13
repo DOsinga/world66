@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Audio-tour museum on the medieval epic, built into two surviving town-wall towers"
+score: 6.8
 ---
 
 A museum dedicated to the **Nibelungenlied**, the 13th-century Middle High German epic that sets

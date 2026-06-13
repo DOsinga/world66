@@ -14,6 +14,7 @@ story: >
   resembles a Romanesque cathedral more than a typical Norwegian stave church.
   The carved columns are still in place; the 17th-century log walls that
   replaced the original external staves surround an older interior.
+score: 7.4
 ---
 
 Kaupanger Stave Church is the largest stave church in Vestland county and one of the largest in Norway. It stands in the village of Kaupanger on the north shore of the Sognefjorden, about 10 kilometres east of Sogndal. The current structure dates from approximately 1135-1170 CE, though the external walls were replaced in the 17th century; the internal nave with its carved wooden columns is original and unusually large for a stave church.

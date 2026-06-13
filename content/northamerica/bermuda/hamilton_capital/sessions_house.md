@@ -13,6 +13,7 @@ story: >
   tower added in 1887 to mark Queen Victoria's Golden Jubilee sits oddly atop the
   earlier Georgian structure — a mismatch that Bermudians have long since stopped
   noticing.
+score: 7.1
 ---
 
 Sessions House on Parliament Street is Bermuda's Parliament building and Supreme Court, a handsome two-storey structure dating from 1819 with an Italianate clock tower grafted on in 1887. The House of Assembly meets in the upper chamber; the Supreme Court sits in the lower. Bermuda has had a representative assembly since 1620 — the third oldest in the world after Iceland's Althing and England's Parliament.

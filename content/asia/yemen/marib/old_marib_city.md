@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 15.4450
 longitude: 45.3310
+score: 8.4
 ---
 
 The ruins of old Marib — the pre-Islamic Sabaean city — lie a few kilometres west of the modern town. Unlike the temples and dam, which are isolated monuments, the old city represents the dense urban fabric of the ancient capital: mud-brick buildings, narrow lanes, and the remnants of a palace complex. The city walls are still partially traceable.

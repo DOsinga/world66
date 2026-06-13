@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.0363
 longitude: 14.0210
+score: 7.3
 ---
 
 The beach at Cefalù is one of the best on Sicily's north coast — a long arc of coarse golden sand sheltered by the great limestone rock at one end, with clear shallow water and an easy approach from the old town. The medieval streets open directly onto the lungomare, and the cathedral towers frame the view as you walk along the shore. In summer, the beach is lively without being unpleasantly overcrowded, at least outside July and August.

@@ -8,6 +8,7 @@ latitude: 39.1250
 longitude: 127.5100
 story: >
   The Wonsan-Kalma zone was under construction for over a decade and became a recurring subject in North Korea satellite imagery analysis — analysts tracking its progress could watch hundreds of buildings appear, a water park take shape, and a runway extend, all in a country that was simultaneously under heavy international sanctions. Kim Jong Un visited the site repeatedly and called its completion a national priority. It opened on June 24, 2025, with Russian tourists as its first foreign visitors.
+score: 6.8
 ---
 
 The Wonsan-Kalma Coastal Tourist Zone is the most ambitious tourism development in North Korean history — a 2.5-kilometre stretch of beach on the Kalma Peninsula backed by roughly 400 buildings including high-rise hotels, villas, a water park, a concert hall, a department store, and multiple restaurants. The zone was designed to accommodate up to 20,000 guests simultaneously and opened in June 2025.

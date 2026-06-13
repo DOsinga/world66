@@ -12,6 +12,7 @@ tags:
 neighbourhood: Centro Histórico
 snippet: Pink-fronted convent with the tombs of three Peruvian saints
 story: "Three Peruvian saints lie under the basilica: Rosa of Lima (the first canonised saint of the Americas), Martín de Porres (the mixed-race lay brother who became Peru's most popular saint), and Juan Macías. All three lived in 17th-century Lima within a kilometre of each other."
+score: 8.5
 ---
 
 The **Basilica and Convent of Santo Domingo**, a couple of blocks west of the Plaza Mayor, was the first Dominican house in the New World. Founded in 1535, it became the centre of a remarkable concentration of holiness: three Peruvian saints — **Rosa of Lima** (the first saint of the Americas), **Martín de Porres**, and **Juan Macías** — are buried under the basilica, and the convent has been a place of pilgrimage since the 17th century.

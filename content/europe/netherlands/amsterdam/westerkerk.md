@@ -12,6 +12,7 @@ tags:
 - jordaan
 title: Westerkerk
 type: poi
+score: 8.0
 ---
 
 The tall Westerkerk tower — Westertoren — is the most recognisable landmark in the Jordaan and one of the symbols of Amsterdam. Designed by Hendrick de Keyser and consecrated in 1631, it is the church where Rembrandt was buried. Climb the tower for one of the best views in the city.

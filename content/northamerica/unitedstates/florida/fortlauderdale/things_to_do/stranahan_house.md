@@ -9,6 +9,7 @@ tags:
 latitude: 26.118055
 longitude: -80.138055
 story: "Frank Stranahan built this house in 1901 as a trading post, swapping goods with the Seminole people who paddled canoes down the New River to trade egret plumes and otter pelts. He prospered through the land boom, then lost nearly everything in the Great Depression — and in 1929, weighed down by debt and despair, he drowned himself in the same river he had traded on for three decades."
+score: 8.2
 ---
 
 The Stranahan House is the oldest surviving structure in Broward County, a white frame building sitting improbably close to the New River amid the glass towers of downtown Fort Lauderdale. Frank Stranahan arrived in 1892 to operate a ferry crossing and quickly set up a trading post, becoming one of the first white settlers to build a lasting relationship with the Seminole Nation. The house he eventually built for himself and his wife Ivy in 1901 served at various points as a trading post, post office, community hall, and private residence — a record of what Fort Lauderdale was before it became a city of pleasure boats and spring breakers.

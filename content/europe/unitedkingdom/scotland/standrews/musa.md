@@ -6,6 +6,7 @@ tags: [things_to_do, museum]
 address: "7a The Scores"
 latitude: 56.3429
 longitude: -2.7940
+score: 6.9
 ---
 
 The Museum of the University of St Andrews — MUSA — opened in 2008 in a converted seafront building on The Scores, around the corner from the castle. The collection is small but well chosen: medieval mace heads of the colleges, scientific instruments, classical antiquities, and modern Scottish art.

@@ -12,6 +12,7 @@ story: >
   recently succeeded in reintroducing bison to the land for the first time in 150 years. 
   The herd that once sustained the Northern Plains peoples had been wiped out; today a 
   small bison herd again grazes the coulees north of Saskatoon.
+score: 9.0
 ---
 
 Wanuskewin Heritage Park, eight kilometres north of Saskatoon in the Opimihaw Valley, is one of the most significant Indigenous heritage sites in Canada. The site preserves over 6,000 years of continuous Northern Plains Indigenous culture: tipi rings, medicine wheels, and bison kill sites lie scattered across the coulees, and the interpretive centre does a genuinely good job of explaining the lifeways of the peoples who gathered here.

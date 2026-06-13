@@ -9,6 +9,7 @@ tags:
 - holešovice
 title: Letná Park
 type: poi
+score: 7.9
 ---
 
 Letná Park sits on a plateau above Holešovice, looking south over the Old Town and the river — the view from the terrace is one of the best in Prague, and far less crowded than the castle outlook on the other side. The park is where Prague's residents go to run, cycle, skateboard, and drink beer.

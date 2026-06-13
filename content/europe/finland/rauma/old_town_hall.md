@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, museum]
 latitude: 61.1279
 longitude: 21.5113
+score: 7.4
 ---
 
 The Old Town Hall on Kauppatori, the central market square of Old Rauma, dates from 1776 and is one of the few stone buildings in the wooden quarter. It served as the town hall until 1965 and now houses the Rauma Museum's local history collection — silverware, ship models, period furniture, and ethnographic material relating to the town's lace-making and shipping traditions.

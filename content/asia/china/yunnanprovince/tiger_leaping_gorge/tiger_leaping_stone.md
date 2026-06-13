@@ -13,6 +13,7 @@ story: >
   bound, if the animal were willing to use the boulder. The story is probably embellished,
   but the boulder itself is real, and the river's force at this point — compressed into a
   narrow gap between walls of rock — makes the image convincing.
+score: 8.1
 ---
 
 The Tiger Leaping Stone is a large boulder sitting in the middle of the Yangtze River at the narrowest point of the gorge, where the river is compressed to 25 metres wide and the water velocity is extraordinary. Access is via the lower road, where a path descends steeply from the road to a viewing platform near river level. From here the boulder is visible in the churning water, and the noise of the river at this point is loud enough to require raised voices.

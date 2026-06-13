@@ -12,6 +12,7 @@ story: >
   Conservation enforcement has been patchy in recent years, but the park
   remains the easiest place in Cambodia to see large stretches of intact
   coastal forest.
+score: 8.5
 ---
 
 Ream National Park covers about 200 square kilometres of coast, mangroves, and lowland forest 20 kilometres east of Sihanoukville. Ranger-led boat trips up the Prek Toeuk Sap river take you through mangrove forest with kingfishers, monitor lizards, and proboscis monkeys; longer hikes climb into the dry forest behind.

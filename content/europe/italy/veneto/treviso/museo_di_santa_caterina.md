@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 45.6695
 longitude: 12.2474
+score: 8.1
 ---
 
 Inside the deconsecrated 14th-century church and convent of Santa Caterina dei Servi di Maria, this museum holds the city's archaeological collection alongside its most important medieval frescoes. The cycle of the Life of St Ursula by Tommaso da Modena was moved here from a destroyed church and reassembled across an entire wall.

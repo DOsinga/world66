@@ -7,6 +7,7 @@ tags:
   - nature
 title: Dniester Riverfront
 type: poi
+score: 6.7
 ---
 
 The Dniester forms Transnistria's western boundary and gives Tiraspol its natural edge. The riverfront has been developed with promenades, benches, and small cafés, and in summer a city beach operates on the bank beneath the main bridge. The walk along the river in the evening — warm, unhurried, with Ukrainian pop and Russian oldies drifting from riverside bars — is as normal as anything else in Tiraspol, a reminder that beneath the geopolitical peculiarity this is a city where people live ordinary lives.

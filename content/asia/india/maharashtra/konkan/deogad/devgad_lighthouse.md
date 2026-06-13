@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - lighthouse
+score: 6.5
 ---
 
 A working lighthouse on the headland above Devgad fort, painted red and white and visible from far out at sea. The original tower was built by the British in 1915; the current structure is a 1957 replacement.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.5192
 longitude: -65.6983
+score: 4.3
 ---
 
 The Tupiza River is the seasonal stream that has carved the canyons around the town. For much of the year it is little more than a sandy wash, but in the December–March rainy season it can fill quickly and become impassable.

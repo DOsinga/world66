@@ -8,6 +8,7 @@ tags:
 - beach
 title: Lungomare Imperia
 type: poi
+score: 6.5
 ---
 
 The lungomare follows the coast between the two halves of Imperia, offering a walking route of about two kilometres between Porto Maurizio's marina and the Oneglia port. The beach here is pebbly rather than sandy — standard for this stretch of the Riviera — but the water is clear and the promenade itself is pleasant on summer evenings when the heat has left the stone.

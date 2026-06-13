@@ -14,6 +14,7 @@ story: >
   of pakhsa — layered courses of compressed earth and straw — which
   weather quickly but can be patched indefinitely with the same material from
   the surrounding plain.
+score: 8.2
 ---
 
 The walls of Itchan Kala enclose a rectangle 600 by 400 metres and rise up to ten metres in the best-preserved sections. They are pierced by four gates — Ata in the west, Polvon in the east, Bakhcha in the north, and Tash in the south — each with a fortified barbican and a high wooden door. The walkway along the top of the western wall is accessible during opening hours and gives the best appreciation of the wall's scale.

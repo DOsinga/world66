@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.4858
 longitude: -80.1630
+score: 7.4
 ---
 
 The West Virginia Folklife Center at Fairmont State University collects and preserves material culture from Appalachia — quilts, baskets, tools, oral histories, music recordings, and artefacts from the coal mining era that shaped the region. The centre is a serious research institution as well as a public museum, and the collection includes material from the colonial period through to the 20th century.

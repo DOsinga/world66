@@ -8,6 +8,7 @@ latitude: 35.9150
 longitude: 14.4940
 sources:
   - https://en.wikipedia.org/wiki/Balluta_Bay
+score: 7.7
 ---
 
 Balluta Bay is a small sandy beach just north of Spinola Bay, backed by the Art Nouveau facade of the Carmelite Church and the distinctive curved terracotta-and-white Balluta Buildings. The beach itself is narrow and gets crowded on summer weekends, but it is one of the few sandy spots accessible from St Julian's without a boat.

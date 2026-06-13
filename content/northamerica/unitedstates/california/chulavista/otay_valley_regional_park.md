@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 32.615
 longitude: -117.025
+score: 7.2
 ---
 
 The Otay Valley Regional Park is an 11-mile green corridor running from the salt ponds at the mouth of the Otay River near San Diego Bay all the way east to Otay Lakes. It is jointly managed by the cities of Chula Vista and San Diego and San Diego County, and threads together a patchwork of native chaparral, riparian woodland, and open grassland in an otherwise densely developed landscape.

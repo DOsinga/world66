@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Plate Lunch Culture
 type: poi
+score: 7.3
 ---
 
 The plate lunch is Honolulu's most honest food. Two scoops of white rice, a scoop of macaroni salad, and a protein — chicken katsu, kalua pork, beef teriyaki, or fried mahi-mahi — served in a styrofoam container from a lunch wagon, diner, or drive-through. It costs around $10, feeds a large appetite, and has been the working person's meal in Hawaii since the plantation era.

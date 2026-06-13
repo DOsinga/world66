@@ -10,6 +10,7 @@ longitude: -83.0460
 snippet: "Dark-water blackwater river — good fishing and a quintessential south Georgia landscape"
 sources:
   - https://en.wikipedia.org/wiki/Willacoochee
+score: 6.4
 ---
 
 The Alapaha River meets the Willacoochee River just outside town, and together they form a stretch of south Georgia blackwater landscape that has changed little in a century. The water is the colour of strong tea — stained by tannins from the cypress and gum trees that line the banks — and the fishing for largemouth bass, bream, redbreast sunfish, and catfish is consistently good.

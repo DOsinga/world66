@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Giant wooden hut built from fallen native hardwoods, with a small museum of the forest
+score: 4.9
 ---
 
 La Aripuca is a 17-metre wooden hut built from the trunks of 29 native Misiones hardwoods — every one of them salvaged from windfalls or logging waste in a small, deliberately educational project run by the Cebolla family since 1997. The name comes from the Guaraní word for a Guaraní bird trap, which the hut roughly resembles.

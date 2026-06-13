@@ -11,6 +11,7 @@ story: >
   When Pemex discovered oil under the La Venta archaeological site in the 1950s, the choice was stark: extract the oil or preserve the Olmec ruins. Mexico chose the oil. The poet and anthropologist Carlos Pellicer organised a rescue mission, moving the colossal stone heads — each weighing up to 20 tonnes — by barge and truck to Villahermosa. The operation took three years and required engineering improvisation at every step, since nobody had ever moved objects this large and fragile across tropical swampland before.
 sources:
   - https://en.wikipedia.org/wiki/La_Venta_Museum
+score: 8.7
 ---
 
 Parque-Museo La Venta is an outdoor archaeological park displaying the Olmec sculptures rescued from the ancient site of La Venta before oil extraction destroyed it in the 1950s. The park contains four colossal stone heads — portraits of Olmec rulers, each carved from a single basalt boulder and weighing up to 20 tonnes — along with altars, stelae, and a large mosaic jaguar mask buried in the earth. The sculptures are displayed among tropical vegetation, which makes for an atmospheric and slightly surreal experience: enormous stone heads gazing from jungle clearings.

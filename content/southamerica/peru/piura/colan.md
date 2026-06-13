@@ -7,6 +7,7 @@ tags:
 - beach
 title: Colán
 type: poi
+score: 7.4
 ---
 
 Colán is a laid-back beach town just north of [Paita](/southamerica/peru/piura), where the coastal cliffs give way to a flat stretch of sandy coastline backed by palms. The beach is wide and warm, lined with small tropical hotels and rustic seafood restaurants where ceviche comes straight from the morning catch.

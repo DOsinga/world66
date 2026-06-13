@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - village
+score: 7.8
 ---
 
 About ten kilometres north of Kribi, Londji is the largest artisanal fishing port on this part of the Cameroonian coast. Hundreds of brightly painted pirogues are drawn up on the beach, and the morning catch — barracuda, captain fish, prawns, sometimes shark — is auctioned on the sand directly to traders who drive it up to Douala.

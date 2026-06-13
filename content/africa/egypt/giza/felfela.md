@@ -7,6 +7,7 @@ tags:
 - restaurant
 title: Felfela
 type: poi
+score: 5.4
 ---
 
 Felfela is one of Cairo and Giza's most established mid-range Egyptian restaurant chains, reliable for traditional food in a setting that doesn't intimidate foreigners unfamiliar with the local dining culture. The menu covers all the Egyptian standards: foul medames, ta'amiya, hummus, baba ghanoush, stuffed vine leaves, grilled pigeon, kofta, and the various mezze dishes that make up an Egyptian meal.

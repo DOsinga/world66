@@ -17,6 +17,7 @@ story: >
   and a royal pardon in 2013.
 sources:
   - https://en.wikipedia.org/wiki/Alan_Turing_Memorial
+score: 7.4
 ---
 
 The Alan Turing Memorial in Sackville Gardens, a short walk from Canal Street, shows the mathematician seated on a park bench, holding an apple — a reference to the manner of his death. The statue was unveiled in 2001, fifty years after Turing was convicted for the "crime" of being gay by the same government whose codebreaking operation he had effectively won the Second World War for.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 37.2772
 longitude: 9.8745
+score: 7.8
 ---
 
 Bizerte's medina is small, low-key, and largely lived-in rather than touristed. The footprint is the tight wedge of streets between the old port to the south, the Kasbah to the north, and the hillside up to the Spanish Fort behind. Lanes are narrow and white-walled, mostly residential, with a sprinkling of bakeries, vegetable sellers, fishmongers, and the occasional small workshop.

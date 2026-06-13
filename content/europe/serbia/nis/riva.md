@@ -6,6 +6,7 @@ tags:
   - restaurant
 title: Riva
 type: poi
+score: 5.6
 ---
 
 Riva sits right on the Nišava promenade, and its terrace is one of the better places in the city for a long lunch watching the river go by. The menu covers Serbian standards plus some international dishes, the kitchen is reliable, and the location is hard to beat on a warm afternoon.

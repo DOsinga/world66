@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.4590
 longitude: -2.5418
+score: 7.3
 ---
 
 Candie Gardens are the finest public gardens in St Peter Port, occupying a hillside behind the town centre with views across the harbour to the other islands on clear days. The Victorian layout is intact: formal flower beds, a bandstand structure (now the museum), a restored greenhouse, and a sequence of terraces that make the most of the sloping site.

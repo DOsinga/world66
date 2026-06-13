@@ -8,6 +8,7 @@ tags:
   - architecture
 title: Carrington Hotel Bar
 type: poi
+score: 6.8
 ---
 
 The ground-floor bar of the Carrington Hotel is the most atmospheric place for a drink in Katoomba. The room has kept most of its Victorian detailing — pressed tin ceilings, dark timber panelling, a working fireplace in winter — and the ambience of a grand old railway hotel that has been carefully preserved rather than renovated into blandness. The beer selection is standard, but the surroundings are anything but.

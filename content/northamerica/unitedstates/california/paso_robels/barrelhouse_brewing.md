@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 35.6259
 longitude: -120.6872
+score: 6.6
 ---
 
 BarrelHouse is the most prominent of Paso Robles' craft breweries, operating out of a large taproom a short walk from downtown. The beers are solidly made, with a particular strength in IPAs and Belgian-influenced styles — the Buckwheat Session Ale has a loyal following. There is a rotating selection of limited releases on tap.

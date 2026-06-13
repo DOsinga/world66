@@ -13,6 +13,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 8.7
 ---
 
 The Ganjali Khan Complex is the architectural heart of Kerman — a single Safavid-era square laid out in the 1590s by the local governor Ganjali Khan, ringed by a bathhouse, mosque, caravanserai, mint, school, and the modest dome of his own tomb. The square itself is a quiet rectangle of cobbled paving with a small pool at its centre, surrounded on all sides by the original brick arcades.

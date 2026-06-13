@@ -12,6 +12,7 @@ story: >
   did so in 2002 his body was found largely incorrupt and remains on display
   several times a year — one of the most extraordinary religious phenomena in
   modern Russia.
+score: 9.3
 ---
 
 The Ivolginsky Datsan, about 30 kilometres west of Ulan-Ude, is the spiritual centre of Russian Buddhism and the residence of the Pandito Khambo Lama. Founded in 1945 — when Stalin briefly allowed Buddhism to reopen — it has grown into a complex of brightly painted temples, stupas, and monks' quarters in the steppe.

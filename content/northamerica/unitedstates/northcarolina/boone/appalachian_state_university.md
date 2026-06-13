@@ -7,6 +7,7 @@ tags:
 - sight
 title: Appalachian State University
 type: poi
+score: 7.6
 ---
 
 Appalachian State is the reason Boone feels larger and livelier than its census numbers suggest. The campus runs through the south side of town: brick academic buildings, a yoga-pant-and-flannel undergraduate population, and Kidd Brewer Stadium, where the football team plays in front of a vocal mountain crowd.

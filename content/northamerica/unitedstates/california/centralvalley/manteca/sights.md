@@ -5,6 +5,7 @@ phone: 877-998-2739
 title: Sights in Manteca
 type: poi
 url: www.visitmanteca.org
+score: 2.8
 ---
 
 What to see

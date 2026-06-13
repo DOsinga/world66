@@ -13,6 +13,7 @@ tags:
 - historic_house
 title: Bonnie and Clyde Hideout
 type: poi
+score: 6.6
 ---
 
 In April and May of 1933, Bonnie Parker and Clyde Barrow rented a garage apartment at 3347½ Oak Ridge Drive in Joplin while they hid from Missouri and Arkansas law enforcement. They stayed for about a week before a tip-off led to a police raid. The gang shot their way out, killing two officers, and left behind a camera whose developed film gave the world the first clear photographs of the outlaws together — including the famous shot of Bonnie posing with a cigar and a pistol.

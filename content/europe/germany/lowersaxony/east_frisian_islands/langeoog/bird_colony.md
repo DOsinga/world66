@@ -12,6 +12,7 @@ story: >
   birds arrive from their West African wintering grounds in March and depart
   again by September, and during peak breeding season in May and June the
   western end of the island fills with sound that can be heard from the village.
+score: 7.8
 ---
 
 The western dunes of Langeoog host one of the largest seabird colonies on the East Frisian Islands, with lesser black-backed gulls, herring gulls, sandwich terns, and several wader species nesting in the dune heath from spring through early summer. Access to the core breeding areas is restricted during the nesting season to protect the birds, but the colony is visible — and very audible — from the paths along the dune edge.

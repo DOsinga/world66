@@ -14,6 +14,7 @@ story: >
   at 7am with waves up to 14 metres high, killing 159 people. The wave destroyed the Waiakea
   school: 24 children and 4 teachers died. The city rebuilt on the waterfront, and 14 years
   later the 1960 Chilean earthquake sent another tsunami that killed 61 more.
+score: 8.3
 ---
 
 The Pacific Tsunami Museum occupies a 1930 bank building that survived both of Hilo's catastrophic tsunamis — 1946 and 1960 — and tells the story of those events with genuine force. The exhibits include survivor testimonies, photographs of the destruction, scientific explanations of how tsunamis are generated, and material on the global tsunami warning system that was built largely in response to these disasters.

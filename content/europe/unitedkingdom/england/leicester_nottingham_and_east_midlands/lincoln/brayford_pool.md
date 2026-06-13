@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - downhill
+score: 7.0
 ---
 
 Brayford Pool is the natural broadening of the River Witham that became Lincoln's harbour in Roman times — the city was founded specifically because of the river crossing here, and the Foss Dyke canal (which leaves the Pool to the west, heading for the Trent and Stainton) is one of the oldest navigable canals in Britain, dug by Roman engineers in the 1st century AD.

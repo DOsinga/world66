@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 58.5912
 longitude: 16.1928
+score: 7.1
 ---
 
 Östgötateatern is one of Sweden's most respected regional theatres, based in Norrköping with a stage also in Linköping. The company produces drama, dance, and opera at a consistently high level, drawing talent from Stockholm and beyond. The Norrköping stage occupies a handsome 19th-century building in the centre of town, and productions range from Swedish classics to contemporary international work.

@@ -8,6 +8,7 @@ tags:
 - sight
 - temple
 snippet: "Lord Jagannath temple in the city centre, a smaller cousin of the famous Puri shrine"
+score: 6.6
 ---
 
 Like most major Odishan cities, Berhampur has a Jagannath temple — a smaller and quieter version of the great shrine at [Puri](/asia/india/orissa/puri), but built in the same Kalinga style and following the same ritual calendar. The Rath Yatra here in summer is a more manageable, less crowded version of the famous Puri chariot festival.

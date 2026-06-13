@@ -9,6 +9,7 @@ latitude: 40.8106
 longitude: 111.6520
 story: >
   Hohhot is actually two cities that grew together: Guicheng (归化城), the Mongolian city founded by Altan Khan in 1572, and Suiyuan (绥远城), the Qing military garrison built nearby in 1737. They were officially merged in 1954 to form modern Hohhot. The "Battle of West Suiyuan" in 1936 — a Chinese Nationalist Army victory against Japanese-backed Mongolian forces — was one of the few successful Chinese defensive operations in the years before the full outbreak of war and is commemorated in the area.
+score: 7.2
 ---
 
 The old Suiyuan military city (绥远城) area, in the northwestern part of modern Hohhot, is where the Qing dynasty built its garrison to control the region. The original grid layout of the military city is still faintly legible in the street pattern, and a few remnant walls and gate towers survive in modified form. The area is not a polished heritage site — it is a working urban neighbourhood — but it gives a different sense of Hohhot's history from the Buddhist temple quarter further south.

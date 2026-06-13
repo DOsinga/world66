@@ -5,6 +5,7 @@ latitude: 64.2667
 longitude: 27.7500
 snippet: "18th-century wooden church about 5km north of town, with a remarkable cycle of interior paintings"
 tags: [things_to_do, sight, historic]
+score: 8.2
 ---
 
 Paltaniemi Church sits on a headland above Lake Oulujarvi about five kilometres north of Kajaani, in a position that makes it visible from the water on three sides. The church was built in 1726 and is one of the best-preserved wooden churches in the Kainuu region. The exterior is unassuming — a long timber structure painted the traditional Swedish ochre-red — but the interior is the reason to make the trip. The walls and ceiling are covered with a large cycle of paintings completed in 1781 by Emanuel Granberg, depicting biblical scenes in a folk-naive style that is vivid and direct in a way that formal academic religious painting rarely achieves.

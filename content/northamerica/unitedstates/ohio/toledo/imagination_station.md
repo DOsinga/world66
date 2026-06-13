@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - science
+score: 6.0
 ---
 
 Imagination Station is the riverfront science museum housed in the squat post-modern building on the Maumee. It opened in 1997 as COSI Toledo, was rescued from bankruptcy by community fundraising in 2008, and reopened with the current name as a hands-on, three-floor children's science museum.

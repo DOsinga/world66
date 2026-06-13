@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Park and stupa on Frazer Road, opened by the Dalai Lama, holding relics of the Buddha
+score: 6.8
 ---
 
 Buddha Smriti Park is a 22-acre landscaped park on Frazer Road, opposite Patna Junction. It was opened in 2010 by the Dalai Lama on the site of the old Bankipore Jail. The Patliputra Karuna Stupa at its centre contains relics of the Buddha brought from Vaishali, Thailand, Sri Lanka, Burma, Korea, and Japan.

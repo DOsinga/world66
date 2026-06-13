@@ -10,6 +10,7 @@ longitude: -72.2892
 sources:
   - https://en.wikipedia.org/wiki/The_Epic_of_American_Civilization
   - https://en.wikipedia.org/wiki/Baker-Berry_Library
+score: 9.2
 ---
 
 In the basement reserve room of Baker-Berry Library hangs one of the great mural cycles of the twentieth century. José Clemente Orozco, the Mexican muralist, painted twenty-four panels here between 1932 and 1934 at Dartmouth's invitation. The work traces the history of the Americas from pre-Columbian civilizations through the Spanish conquest, industrialization, and modernity — a sweeping and often savage vision that Dartmouth's more conservative trustees tried unsuccessfully to have removed after completion. Free to enter; the library is open to the public.

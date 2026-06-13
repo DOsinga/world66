@@ -7,6 +7,7 @@ tags:
 - viewpoint
 latitude: 45.7085
 longitude: 9.6580
+score: 7.7
 ---
 
 From Colle Aperto in Città Alta, a small funicular climbs the outside of the Venetian city walls to the hilltop village of San Vigilio. The ride takes only a couple of minutes, but the view that opens up at the top -- across the rooftops of the Upper Town, down to the plain of Lombardy -- is one of the best in Bergamo.

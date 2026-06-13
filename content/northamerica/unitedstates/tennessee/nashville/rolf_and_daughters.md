@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - germantown
+score: 7.6
 ---
 
 Rolf and Daughters, in a former Germantown factory building, has been one of the most consistently praised restaurants in Nashville since opening in 2012. Chef Philip Krajeck's cooking is Italian-influenced but firmly seasonal and Southern in ingredient — fresh pasta, wood-roasted vegetables, charcuterie, whole-fish plates. The pasta board changes daily and is the dish to lock in.

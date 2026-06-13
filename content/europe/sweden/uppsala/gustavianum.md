@@ -12,6 +12,7 @@ story: >-
 tags:
   - things_to_do
   - museum
+score: 8.9
 ---
 
 Gustavianum is the oldest standing building of Uppsala University, completed in the 1620s and used as the main university house for over two centuries. Today it is the university museum, holding collections that range from Egyptian mummies and Viking-age finds to scientific instruments owned by Linnaeus and Celsius.

@@ -9,6 +9,7 @@ latitude: 39.9532
 longitude: -74.1975
 sources:
   - https://en.wikipedia.org/wiki/Waterhouse_Museum
+score: 6.7
 ---
 
 The Waterhouse Museum, housed in one of the oldest surviving buildings in Toms River, documents local history from the colonial era through the 20th century. The building itself — a pre-Revolutionary structure — is part of the attraction. The collection covers the town's origins as a colonial settlement on the Toms River, its role as a privateering port during the American Revolution, and its later development as a resort and county seat.

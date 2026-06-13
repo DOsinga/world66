@@ -14,6 +14,7 @@ title: Princess Theatre
 type: poi
 story: >
   On the opening night of Faust in 1888, the baritone Frederick Federici performed the role of Mephistopheles. After descending through a trap door in the dramatic final scene — a hellish sinking into the stage — he was found dead below the stage, having suffered a heart attack mid-descent. That night, his colleagues reportedly saw him in the foyer after the performance, bowing to the audience. Theatre staff have set aside a reserved seat for him on opening nights ever since.
+score: 8.0
 ---
 
 The Princess Theatre on Spring Street is one of the most beautiful buildings in Melbourne. The French Second Empire facade, with its mansard roof, ornate ironwork, and elaborate plasterwork, dominates the top of the CBD's eastern edge. The theatre opened in 1854 and was rebuilt in its current Victorian form in 1886, making it one of the grandest surviving Victorian theatres in the world.

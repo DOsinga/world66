@@ -10,6 +10,7 @@ tags:
 - sight
 title: Yoyogi Park
 type: poi
+score: 7.1
 ---
 
 Yoyogi Park is Tokyo's equivalent of Central Park — a large, flat area of greenery in the heart of the city where Tokyoites come to picnic, cycle, exercise, play music, and simply sit in the sun. It lacks the formal landscaping of European parks but has a relaxed energy that reflects how the city uses shared outdoor space.

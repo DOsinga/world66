@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The cay takes its name from the land crabs that still inhabit the surrounding mangroves — the same species that was once a staple food for the Raizal community. Overharvesting has reduced their numbers on the main island, but the protected status of the McBean Lagoon park has allowed a small population to survive around Crab Cay.
+score: 8.8
 ---
 
 Crab Cay is a small rocky islet within the Old Providence McBean Lagoon National Park, widely regarded as the best snorkelling spot on Providencia. The shallow coral gardens immediately offshore are rich with parrotfish, angelfish, sergeant majors, and the occasional nurse shark resting on the sandy bottom. The reef here is in significantly better condition than most Caribbean reefs, benefiting from the island's low visitor numbers and the protection of the national park.

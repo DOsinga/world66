@@ -6,6 +6,7 @@ tags:
 - museum
 latitude: -40.9486
 longitude: 175.6602
+score: 7.0
 ---
 
 Aratoi (full name: Aratoi Wairarapa Museum of Art and History) is the regional gallery and museum, in a purpose-built building on the main street of Masterton. It combines a small permanent collection on the history of the Wairarapa with rotating contemporary art exhibitions — usually three or four at a time across the two floors.

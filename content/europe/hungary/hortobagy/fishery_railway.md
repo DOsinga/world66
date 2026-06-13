@@ -15,6 +15,7 @@ story: >
   in Central Europe.
 sources:
   - https://en.wikipedia.org/wiki/Fishery_Railway_Hortob%C3%A1gy
+score: 8.0
 ---
 
 A 760mm narrow-gauge railway that runs through the fish pond system west of the village, built to carry supplies and fish across the waterlogged terrain that ordinary vehicles could not navigate. Today it runs tourist services during the summer season, trundling at walking pace through reedbeds, past fishponds, and across open grassland — one of the slower and more charming ways to see the puszta.

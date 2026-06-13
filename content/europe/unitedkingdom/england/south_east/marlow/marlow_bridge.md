@@ -11,6 +11,7 @@ story: >
 tags:
 - things_to_do
 - sight
+score: 8.0
 ---
 
 Marlow's suspension bridge is the town's most recognisable feature — a graceful white span connecting Buckinghamshire to Berkshire across the Thames. Designed by William Tierney Clark and completed in 1832, it replaced a wooden bridge that had been in various states of disrepair. The bridge is Grade I listed and carries a single lane of traffic along with a footpath, though its real purpose today is photographic: the view upstream through the chains, with All Saints Church rising behind the trees, is the postcard shot of Marlow.

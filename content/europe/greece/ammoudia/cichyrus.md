@@ -6,6 +6,7 @@ longitude: 20.5314
 tags:
   - things_to_do
   - sight
+score: 6.5
 ---
 
 Cichyrus, also called Ephyra, is the ancient Thesprotian town that stood near the modern village of Mesopotamo, on the hill above the Necromanteion. The Mycenaean and later Hellenistic remains include sections of cyclopean walls, the foundations of a small temple, and tombs in the surrounding fields.

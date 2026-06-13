@@ -14,6 +14,7 @@ tags:
 title: National Museum of Decorative Arts
 type: poi
 url: www.nkim.museum.no
+score: 6.8
 ---
 
 One of Norway's leading design museums, housed in a handsome building near the cathedral. The permanent collection spans furniture, porcelain, silver, and textiles from the sixteenth century to the present, with particular strength in Norwegian craft traditions. Open daily from 10:00 (closed Sundays in some seasons).

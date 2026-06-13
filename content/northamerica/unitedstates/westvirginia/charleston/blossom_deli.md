@@ -8,6 +8,7 @@ tags:
 latitude: 38.3492
 longitude: -81.6328
 address: 904 Quarrier St, Charleston
+score: 6.0
 ---
 
 Blossom Deli, on Quarrier Street downtown, is the working breakfast and lunch room for much of downtown Charleston — bankers, lawyers, journalists and the legislature when in session. The menu is what you would expect: bagels and lox, omelettes, generous sandwiches on house bread, and a daily soup that tends to sell out by 1 pm.

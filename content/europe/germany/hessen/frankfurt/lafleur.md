@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant, bahnhofsviertel]
 latitude: 50.1118
 longitude: 8.6739
+score: 7.1
 ---
 
 Lafleur, in the Gesellschaftshaus Palmengarten, is Frankfurt's only three-Michelin-star restaurant — chef Andreas Krolik works at the precise, ingredient-driven end of modern German fine dining, with a parallel vegan tasting menu that is itself one of the best in Germany. Two menus run nightly: an animal-protein menu and a vegan menu, both highly conceptual and presented over 6 to 10 courses.

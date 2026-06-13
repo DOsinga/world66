@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - cycling
+score: 8.4
 ---
 
 The Green Belt is the chain of parks, wetlands, and reforested land that wraps Vitoria-Gasteiz. About 30 kilometres of paths link Salburua in the east through Olarizu to Armentia and Zabalgana in the west, with shorter loops through Zadorra woods to the north.

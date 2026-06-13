@@ -5,6 +5,7 @@ latitude: 42.0473
 longitude: 13.9270
 snippet: "The town's main thoroughfare — palazzi, churches, and shop windows full of confetti sculptures"
 tags: [things_to_do, sight]
+score: 7.8
 ---
 
 Corso Ovidio runs the length of the old town, from the Porta Napoli at one end to the Villa Comunale gardens at the other. It is named for Sulmona's most famous son, the Roman poet Ovid, and is the spine along which most of the town's notable buildings sit. Walking it slowly is the best introduction to Sulmona.

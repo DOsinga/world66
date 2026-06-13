@@ -7,6 +7,7 @@ tags:
 - parks_and_gardens
 title: Mughal Gardens
 type: poi
+score: 5.7
 ---
 
 The Mughal Gardens occupy a long terraced section of Rashtrapati Bhavan, the President's official residence. Designed by Edwin Lutyens in collaboration with the Mughal garden tradition, the layout uses formal water channels, rose beds, and fountains arranged along a central axis. The gardens are open to the public for a few weeks each February during "Udyanotsav" — outside that window you can only glimpse the grounds from the gates.

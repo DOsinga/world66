@@ -15,6 +15,7 @@ story: >
   collapsed, and the conservatory was torn down. A $50 million restoration completed in 2019 
   rebuilt the missing structures from Wright's original drawings, including 394 art glass 
   windows that had been scattered across private collections worldwide.
+score: 9.1
 ---
 
 Frank Lloyd Wright's 1905 complex for soap executive Darwin Martin — one of the largest Prairie Style projects Wright ever built, and considered by many his finest. A full 60-minute tour covers the main house, the connected pergola, the conservatory, and the gardener's cottage. The art glass windows, with their geometric Tree of Life design, are the finest example of Wright's glass work anywhere. Book tours ahead.

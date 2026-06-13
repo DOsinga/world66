@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.0975
 longitude: -80.6531
+score: 5.4
 ---
 
 The Youngstown Foundation Amphitheatre is an outdoor performance venue on the banks of the Mahoning River in downtown Youngstown, opened in 2017 as part of an effort to revitalise the city's riverfront. The stage is backed by the river, and the seating lawn slopes up from the water. Summer concerts here have become one of the more positive developments in a city that has had few of them.

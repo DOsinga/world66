@@ -13,6 +13,7 @@ story: >
   — in 1914, 1926, and 1929 — when it was one of the dominant clubs in the country.
   The clover-leaf badge the club still wears dates from that era. The city has never
   quite matched that peak, but the loyalty of the fanbase has not wavered.
+score: 6.6
 ---
 
 SpVgg Greuther Fürth is one of Germany's oldest football clubs, founded in 1903, and the rivalry with Nuremberg across the city boundary is one of the most intense in German football. The Ronhof stadium — officially the Sportpark Ronhof Thomas Sommer — holds around 17,000 and has been the club's home since 1910, making it one of the oldest continuously used football grounds in Germany.

@@ -10,6 +10,7 @@ story: >
   Between June and September 1944, the Germans diverted more than 35,000 forced 
   labourers — mainly Soviet POWs and French deportees — to construct this complex. 
   Fewer than half survived the construction phase.
+score: 8.7
 ---
 
 La Coupole is a Second World War museum built into a vast underground bunker complex dug into the chalk hills south of Saint-Omer between 1943 and 1944. The Germans intended it as the main launch site for V-2 ballistic missiles aimed at London and south-east England — a facility that would have allowed them to fire rockets at a rate of dozens per day. RAF bombing raids caused enough structural damage that it was never completed, but the structure itself is one of the most extraordinary pieces of wartime engineering in France.

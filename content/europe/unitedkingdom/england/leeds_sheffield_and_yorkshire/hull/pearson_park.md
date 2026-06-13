@@ -8,6 +8,7 @@ tags:
 title: Pearson Park
 type: poi
 snippet: "Hull's first public park, opened in 1862 and gifted to the city by Mayor Zachariah Pearson"
+score: 7.1
 ---
 
 Pearson Park sits north-west of the centre in the leafy Avenues district and was Hull's first municipal park, opened in 1862. The park was a gift from Zachariah Pearson, a shipowner and Liberal mayor, who bought the land and presented it to the city. It is a Grade II registered Victorian park with a pond, mature trees, and a Wren-style aviary that still houses birds.

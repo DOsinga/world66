@@ -16,6 +16,7 @@ story: >
   mysterious circumstances, officially "recovered" — though how and by whom was never
   publicly established. The episode remains one of the more peculiar political crises
   in Indian history.
+score: 8.1
 ---
 
 Hazratbal — "Majestic Place" — is Kashmir's most sacred Islamic site, set on the western shore of Dal Lake with a pristine white marble façade reflected in the water. The mosque's sanctity derives from the Moi-e-Muqaddas, a relic claimed to be a hair of the Prophet Muhammad, brought to Kashmir from Medina in the 17th century. The relic is displayed publicly on major Islamic holidays, drawing enormous crowds from across the valley and beyond.

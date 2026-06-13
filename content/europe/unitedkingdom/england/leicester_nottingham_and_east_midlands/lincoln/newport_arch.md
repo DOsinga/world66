@@ -16,6 +16,7 @@ tags:
 - sight
 - architecture
 - uphill
+score: 8.2
 ---
 
 Newport Arch is what remains of the northern gate of the Roman fortress of Lindum Colonia — a 3rd-century stone gateway with a single pedestrian arch and two larger vehicular arches, originally part of a much larger gate complex. The footprint of the arch sits where the modern road has worn down nearly two metres below the Roman ground surface, giving the structure its slightly buried look.

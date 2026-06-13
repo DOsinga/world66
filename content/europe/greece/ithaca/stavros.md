@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4361
 longitude: 20.6536
+score: 6.8
 ---
 
 Stavros is the main village in the north of Ithaca, set on a small saddle of land between Polis Bay and Frikes. It is a working settlement rather than a tourist stop — a square, a couple of cafes, a small archaeological museum, and a bronze bust of Odysseus.

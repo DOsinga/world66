@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - landmark
 snippet: "Preserved 1934 paddle steamer ferry moored at the Historic Quay"
+score: 6.8
 ---
 
 The Wingfield Castle is a 1934 paddle steamer that spent her working life ferrying passengers across the Humber Estuary between Hull and New Holland. After being retired in 1974 she was eventually brought to Hartlepool — where she was built — and restored as a museum exhibit.

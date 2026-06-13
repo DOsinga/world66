@@ -7,6 +7,7 @@ address: Jl. Kayu Jati 8, Seminyak
 tags:
   - shopping
   - things_to_do
+score: 4.9
 ---
 
 Seminyak Village is the air-conditioned shopping mall a short walk from Eat Street — three floors of mostly local Bali-based fashion brands, swimwear, jewellery, and home decor, plus a small clutch of cafés and a basement supermarket.

@@ -9,6 +9,7 @@ tags:
   - architecture
 title: Church of Santa María de Gracia
 type: poi
+score: 6.4
 ---
 
 Santa María de Gracia is a central Cartagena church close to the main pedestrian streets. It is less famous than the old cathedral ruins but more alive as a working church, with processions and local worship giving it a place in the city's calendar.

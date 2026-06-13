@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.2
 ---
 
 The Bishop's Palace Gardens lie inside the old city walls just south of the cathedral. They are one of the loveliest small gardens in southern England — partly walled, with old herbaceous borders, a knot garden, and a lawn opening onto the south side of the cathedral close. Free to enter, open during daylight hours.

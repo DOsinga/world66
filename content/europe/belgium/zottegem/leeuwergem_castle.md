@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.8900
 longitude: 3.8200
+score: 6.8
 ---
 
 The most photogenic castle in the area, in the village of Elene a few kilometres north of Zottegem. The 18th-century stately home is set in formal French gardens with clipped hedges, a long pond, and a green theatre — a circular open-air auditorium cut into the hedge that hosts occasional concerts.

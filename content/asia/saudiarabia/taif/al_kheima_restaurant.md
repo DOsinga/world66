@@ -6,6 +6,7 @@ longitude: 40.4250
 tags:
   - eating_out
   - restaurant
+score: 5.2
 ---
 
 Al Kheima ("the tent") is a long-running Saudi restaurant on the northern side of town, known for slow-roasted lamb kabsa and good mandi. Diners eat on cushions in canvas-covered private bays, the traditional Hejazi style. Portions are huge — a single lamb tray will feed three.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: "Adelaide's Chinese restaurant district, running alongside the Central Market"
+score: 7.6
 ---
 
 Adelaide's Chinatown occupies the streets around Gouger Street, directly behind the Central Market. It is small by Sydney or Melbourne standards but genuine — the restaurants on Gouger have been feeding the city's Chinese community (and everyone else) since the gold rush era. The strip is best on weekend evenings when the restaurants are full and the street is animated.

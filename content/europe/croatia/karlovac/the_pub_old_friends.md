@@ -8,6 +8,7 @@ longitude: 15.5489
 tags:
   - bars_and_cafes
   - bar
+score: 5.4
 ---
 
 A small bar inside the Zvijezda that does a serious job of representing the Croatian craft-beer scene. A rotating tap list and a fridge of bottles you would struggle to find outside Zagreb — useful given that the home-town brewery is essentially industrial lager territory.

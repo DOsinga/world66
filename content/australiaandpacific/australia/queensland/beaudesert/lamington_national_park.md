@@ -12,6 +12,7 @@ tags:
 - unesco
 snippet: Gondwana rainforest covering the rim of an ancient volcano, with walking tracks among ancient Antarctic beeches
 story: "Lamington's tall, gnarled Antarctic beech trees (*Nothofagus moorei*) survive at the very northern edge of their range — relics of the cool, wet forests that covered the southern supercontinent of Gondwana more than 60 million years ago. Some individual trees in the park are estimated to be over 3,000 years old."
+score: 9.0
 ---
 
 The basalt walls of **Lamington National Park** rise immediately south-east of Beaudesert and form the northern half of the McPherson Range, the rim of the long-extinct Tweed shield volcano. The park's 200 km of walking tracks pass through subtropical rainforest, palm groves, and the higher-altitude Antarctic beech forests of the plateau, with dozens of waterfalls dropping into the rainforest below. It is part of the **Gondwana Rainforests of Australia** World Heritage area.

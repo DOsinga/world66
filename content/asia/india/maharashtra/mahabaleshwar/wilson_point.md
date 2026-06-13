@@ -12,6 +12,7 @@ story: >
   four metres higher than the town of Mahabaleshwar itself — and is the only place in 
   the hill station from which you can see both the sunrise (over the ghats) and the sunset 
   (over the Konkan) on a clear day.
+score: 7.3
 ---
 
 Wilson Point is the highest point of the Mahabaleshwar plateau and the best place in the hill station to catch the sunrise. The view east over the Sahyadri ranges — row after row of forested ridges catching the first light — is why people set alarms for 5am. The forest around the viewpoint is dense and cool even in peak season.

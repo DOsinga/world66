@@ -6,6 +6,7 @@ longitude: -70.7375
 tags:
   - things_to_do
   - sport
+score: 5.9
 ---
 
 The Estadio El Teniente, also known as the Estadio Codelco El Teniente, is Rancagua's main football stadium and the home of **O'Higgins FC**. It was rebuilt for the 2015 Copa América, when it hosted group games, and now holds about 14,000 spectators in an entirely roofed bowl.

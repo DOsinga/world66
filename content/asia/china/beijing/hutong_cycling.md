@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.9350
 longitude: 116.3950
+score: 8.6
 ---
 
 The best way to understand the old city is from a bicycle, and the best time is early morning before the streets fill. The network of hutongs — narrow grey-brick alleys lined with courtyard walls and plane trees — is largely flat and navigable, connecting the Drum Tower area south through Nanluoguxiang and down to the northern edge of the Forbidden City in about 30 minutes of cycling. The Bell Tower to Shichahai lakes to Beihai Park route takes in the best of the old city in a few hours.

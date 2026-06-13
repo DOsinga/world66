@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 48.8013
 longitude: 2.1357
+score: 7.5
 ---
 
 The Marché Notre-Dame is Versailles's main market, housed in four covered halls built in the 1840s on the site of the earlier market that served the court. It runs on Tuesdays, Fridays, and Sundays, with outdoor stalls filling the square around the halls on market mornings and the covered halls open daily for permanent stallholders selling cheese, charcuterie, butchery, fish, and wine.

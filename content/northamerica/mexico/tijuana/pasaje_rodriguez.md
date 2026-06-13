@@ -9,6 +9,7 @@ latitude: 32.5302
 longitude: -117.0368
 snippet: "An alley off Revolución that became Tijuana's creative district."
 story: "Pasaje Rodríguez started as a covered commercial passage in the 1930s, one of several such arcades that connected Avenida Revolución to the streets behind. By the 1990s it had declined into vacancy. Then artists moved in for the cheap rents, then coffee shops, then record shops and galleries. By 2010 the alley had become the single most concentrated expression of Tijuana's emerging creative class — living proof that the city's best story isn't the one told on Revolución."
+score: 7.8
 ---
 
 Pasaje Rodríguez is a narrow covered alley running between Avenida Revolución and Avenida Constitución, just north of Calle 3. What was once a declining commercial arcade has been colonised over the past two decades by independent galleries, coffee shops, vinyl record stores, taco stands, and small creative businesses.

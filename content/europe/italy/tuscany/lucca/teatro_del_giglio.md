@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.8406
 longitude: 10.5031
+score: 6.6
 ---
 
 Teatro del Giglio is Lucca's historic opera house, a handsome neoclassical theatre dating from the early 19th century that stands on Piazza del Giglio. The theatre has strong Puccini associations — the composer attended performances here as a young man, and several of his early works received performances in this house. The interior, with its tiered loges and gilded ceiling, is a good example of the Italian operatic theatre tradition.

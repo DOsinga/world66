@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 46.59528
 longitude: -112.03917
+score: 7.8
 ---
 
 Helena's Civic Center is a building that stops you in your tracks. Built in 1920 as the meeting hall for the Algeria Shrine, it arrives in full Moorish Revival style — a style you might expect in Marrakesh or Seville, not a Rocky Mountain state capital. The minaret-like towers, the horseshoe arches, the ornamental tilework: all of it is completely incongruous, and completely wonderful. Helena's gold-rush millionaires built things with an exuberance that had little to do with regional precedent, and this is perhaps the finest example of that spirit.

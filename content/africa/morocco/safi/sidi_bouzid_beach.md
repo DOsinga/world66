@@ -8,6 +8,7 @@ tags:
   - surfing
 latitude: 32.2320
 longitude: -9.2650
+score: 6.6
 ---
 
 Sidi Bouzid is the best beach close to Safi, a clean Atlantic bay 4 km south of the city with consistent surf and a relaxed atmosphere. The seafront has a string of simple fish restaurants and cafes where you can eat grilled sardines and watch the waves. In summer it fills up with Moroccan families; in winter you may have it nearly to yourself.

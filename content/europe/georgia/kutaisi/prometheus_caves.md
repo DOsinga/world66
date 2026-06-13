@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.3722
 longitude: 42.5875
+score: 8.0
 ---
 
 The Prometheus Caves, about 20 km north of Kutaisi near the town of Tskaltubo, are the largest known cave system in Georgia and one of the more spectacular in the Caucasus. The active cave extends for several kilometres; the section open to visitors is about 1.4 km long, illuminated throughout, and takes around 90 minutes to walk.

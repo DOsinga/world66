@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 8.1
 ---
 
 The Hessisches Staatstheater Wiesbaden sits between the Kurhaus and the Warmer Damm park, a vast neo-Baroque opera house commissioned in 1894 by Kaiser Wilhelm II as a counterweight to the spa-resort glamour of the casino next door. The grand colonnaded facade and the rococo interior — gilded boxes, chandeliers, a domed ceiling — make it one of the most lavish theatres in Germany.

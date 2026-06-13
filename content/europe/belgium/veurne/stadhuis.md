@@ -8,6 +8,7 @@ tags:
 latitude: 51.0722
 longitude: 2.6620
 snippet: Renaissance town hall with attached Belfry, a UNESCO heritage site
+score: 8.2
 ---
 
 The Stadhuis (town hall) on the Grote Markt is one of the oldest surviving in Flanders, with a sandstone Renaissance facade from the 1590s grafted onto an earlier medieval core. The attached Belfry — a slender square brick tower with a stone lantern on top — was inscribed on UNESCO's list of Belfries of Belgium and France in 1999, part of a network of 56 belfries that recall the era of independent Flemish communes.

@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Fort_Gaines_(Alabama)
   - https://en.wikipedia.org/wiki/Siege_of_Fort_Gaines
+score: 8.3
 ---
 
 Fort Gaines guards the eastern tip of Dauphin Island at the mouth of Mobile Bay, and it is one of the best-preserved Civil War fortifications on the Gulf Coast. Construction began in 1821 and the fort was completed — in several phases — by the time the Civil War reached Alabama. Its pentagonal bastion design, original brick walls, and period cannon mounts give a vivid sense of mid-nineteenth-century coastal defense.

@@ -8,6 +8,7 @@ latitude: 48.9300
 longitude: 117.3500
 story: >
   Hulun Lake is so large that its water influences the local climate — the lake moderates summer temperatures across a wide area of the surrounding grassland, creating a microclimate that supports plant species unusual this far north. Mongol herdsmen have wintered their livestock near the lake's shores for over a thousand years, using the milder air that the water mass provides.
+score: 8.4
 ---
 
 Hulun Lake, known in Mongolian as Dalai Nuur ("sea lake"), is the fourth-largest freshwater lake in China, covering 2,339 square kilometres. It sits roughly 47 kilometres southeast of Manzhouli and is surrounded by the broad Hulunbuir Grassland — an enormous, thinly populated steppe that stretches from here into Russia and Mongolia.

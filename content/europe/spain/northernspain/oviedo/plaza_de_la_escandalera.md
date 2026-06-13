@@ -8,6 +8,7 @@ tags:
 latitude: 43.3621
 longitude: -5.8479
 snippet: "Oviedo's main square, home to the Teatro Campoamor"
+score: 6.2
 ---
 
 The largest square in central Oviedo, flanked by the Teatro Campoamor — where the Princess of Asturias Awards are presented each October — and the Palacio de la Junta General. The square is a natural meeting point and a good starting place for exploring the old town, which begins just uphill to the east.

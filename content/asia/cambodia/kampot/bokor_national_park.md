@@ -14,6 +14,7 @@ story: >
   than 60 new species in the Cardamoms within a two-year period, including several new
   snakes and frogs. The ecosystem contains Indochinese tigers, Asian elephants, and sun
   bears, though sightings are extremely rare and the populations are under pressure.
+score: 8.2
 ---
 
 Bokor National Park covers over 1,500 square kilometres of the Cardamom mountain range behind Kampot. The park's centrepiece is the Bokor plateau and its ruined French colonial buildings, but the forest around and below the plateau is of genuine ecological importance. The lower slopes contain dipterocarp forest; higher up, the vegetation shifts to cloud forest — dense moss-covered trees in perpetual mist. Gibbons are heard at dawn; hornbills are visible from the road.

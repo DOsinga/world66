@@ -1,6 +1,7 @@
 ---
 title: "Monument Valley Navajo Tribal Park"
 type: poi
+score: 10.0
 ---
 
 Monument Valley is one of the most immediately recognisable landscapes on earth. The Mittens, Merrick Butte, the Three Sisters, the Totem Pole — these sandstone formations rising 300 metres from a flat ochre plain have appeared in John Ford's cavalry Westerns, in countless advertisements, and in the visual vocabulary of anyone who has ever imagined the American Southwest. Being here in person, especially at sunrise or sunset when the rock glows deep red, is something different from all those images.

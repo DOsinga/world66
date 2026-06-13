@@ -8,6 +8,7 @@ tags:
 latitude: 61.4565
 longitude: 5.8631
 story: "The museum stands at the edge of Movatnet lake, and the collection of old timber buildings moved here from across the district creates an impression of a small village that has been suspended in the 18th century. On summer weekends, staff in period dress demonstrate traditional crafts — spinning, blacksmithing, cheese-making — beside the farmhouses."
+score: 7.2
 ---
 
 An open-air museum on the edge of Movatnet lake, just outside the Førde town centre. The collection consists of historic timber buildings brought from farms and settlements across the Sunnfjord district, reassembled on the site to give a picture of how people lived here in the 18th and 19th centuries.

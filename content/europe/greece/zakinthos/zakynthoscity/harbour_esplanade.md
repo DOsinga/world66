@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.7888
 longitude: 20.8998
+score: 6.6
 ---
 
 The harbour esplanade is the most animated part of Zakynthos Town, stretching for about a kilometre along the seafront from the ferry terminal to the marina. The views across the strait to the mountains of the Peloponnese are clear on most days, and at dusk the water turns the colour of the hills behind it. Fishing boats, excursion vessels, and the Killini ferries share the port.

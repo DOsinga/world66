@@ -7,6 +7,7 @@ tags:
 - sight
 title: Khaqani Park
 type: poi
+score: 4.8
 ---
 
 Khaqani Park, also written Boostan-e Khaqani, is a modest urban park named for the

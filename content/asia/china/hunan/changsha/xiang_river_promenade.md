@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.1980
 longitude: 112.9650
+score: 6.8
 ---
 
 The Xiang River promenade runs along the eastern bank of the river through the city centre, connecting the Orange Isle Bridge in the north to the Du Fu River Pavilion in the south. The walkway is wide, tree-lined, and popular throughout the day with joggers, cyclists, and people taking the evening air. The view from the promenade toward Orange Island — with the Mao sculpture visible at the southern end of the island and the Yuelu Mountain forested silhouette behind it — is the classic Changsha vista.

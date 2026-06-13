@@ -1,6 +1,7 @@
 ---
 title: "Summer Terrace Bars"
 type: poi
+score: 5.8
 ---
 
 In summer, several bars and restaurants along Jomas iela operate large outdoor terraces that become the social centre of Jurmala's evenings. The atmosphere is more relaxed than Riga's bar scene — people linger over beers and cocktails until late, the nights are warm (the Baltic summer is long), and the crowd is a comfortable mix of local families, couples, and younger visitors from Riga.

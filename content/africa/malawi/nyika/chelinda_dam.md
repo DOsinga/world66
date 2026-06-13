@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -10.5667
 longitude: 33.8000
+score: 7.0
 ---
 
 A small dam built in the colonial era to provide water for the camp and to stock a trout fishery sits in a sheltered valley just below Chelinda. The water draws zebra and antelope down to drink in the early morning and evening, which makes it one of the most reliable wildlife-viewing spots in the park; a path runs around the perimeter and is one of the few places where unguided walking is allowed.

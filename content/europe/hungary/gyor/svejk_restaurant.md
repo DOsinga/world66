@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.6860
 longitude: 17.6350
+score: 5.8
 ---
 
 Named after the Czech literary antihero, Švejk leans into the Central European theme with Czech and Hungarian food side by side — svíčková (beef in cream sauce) alongside pörkölt (beef stew), and dark Kozel on tap alongside Dreher. The interior is covered in illustrations from Jaroslav Hašek's novel, which makes it cheerful if a little cluttered.

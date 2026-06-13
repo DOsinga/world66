@@ -11,6 +11,7 @@ tags:
 neighbourhood: Midtown
 title: Detroit Public Library Main Branch
 type: poi
+score: 8.5
 ---
 
 The Main Branch of the Detroit Public Library opened in 1921, a Beaux-Arts marble building by Cass Gilbert (architect of the U.S. Supreme Court). The interior is one of the finest civic spaces in the city, with mosaics, murals, marble floors, and a soaring reading room. Pewabic tile is set into floors and fireplaces throughout. Two later wings added more reading rooms in matching style.

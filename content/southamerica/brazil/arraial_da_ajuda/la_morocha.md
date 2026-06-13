@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: -16.4898
 longitude: -39.0685
+score: 5.8
 ---
 
 La Morocha is the loudest, brightest, and most consistently full bar on the Rua do Mucugê. The speciality is the *caipirinha de frutas* in roughly twenty fruit variations, and the flaming cocktail show — bartenders pour spirits across the counter and set the lot alight while the room cheers — comes around every twenty minutes or so.

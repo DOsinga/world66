@@ -11,6 +11,7 @@ story: >
   housing around 1,500 monks and novices at any given time. The monastery operates
   as a full monastic university, with students arriving from across Myanmar and from
   other Theravada Buddhist countries to study scripture, philosophy, and Pali.
+score: 8.3
 ---
 
 Mahagandhayon Monastery is Amarapura's most visited sight after U Bein Bridge. Each morning between 10:00 and 11:00, the monastery's monks file into the dining hall for their midday meal — the only substantial meal they will eat. The procession forms a long saffron line that moves in silence from the dormitories across the courtyard. Visitors are permitted to watch from a respectful distance; photography is allowed but intrusive behaviour is not.

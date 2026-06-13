@@ -7,6 +7,7 @@ tags:
 - sight
 title: Felucca Sailing on the Nile
 type: poi
+score: 7.0
 ---
 
 The felucca — a narrow wooden sailboat with a single triangular sail — has worked the Nile for centuries and remains the most atmospheric way to see Cairo and Giza from the water. Boatmen congregate along the Giza corniche, especially in the late afternoon, and can take you out for an hour or two as the sun goes down and the city lights come on.

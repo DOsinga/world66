@@ -15,6 +15,7 @@ story: >
   lost its purpose, but the buildings survived.
 sources:
   - https://en.wikipedia.org/wiki/Union_Pacific_Railroad_Complex_(Evanston,_Wyoming)
+score: 8.0
 ---
 
 The Union Pacific Railroad Complex in Evanston includes the depot, the roundhouse, and several ancillary buildings from the railroad's 19th-century heyday. This was a major division point on the transcontinental route, and the scale of the surviving structures reflects that importance. The buildings are listed on the National Register of Historic Places.

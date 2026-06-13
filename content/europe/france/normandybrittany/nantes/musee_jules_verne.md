@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.207
 longitude: -1.574
+score: 6.1
 ---
 
 Jules Verne was born in Nantes in 1828 in a house on the Île Feydeau (now demolished), and the city's small museum dedicated to him occupies a 19th-century villa overlooking the Loire estuary. The collection covers his life and work through first editions, illustrated manuscripts, personal objects, and models of the extraordinary machines from his novels — the Nautilus, the Columbiad cannon, the Albatross.

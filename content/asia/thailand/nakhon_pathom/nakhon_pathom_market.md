@@ -7,6 +7,7 @@ tags:
 latitude: 13.8198
 longitude: 100.0638
 story: "Nakhon Pathom is famous throughout Thailand for two things: the world's tallest chedi and its pomelos. The phuang thong variety grown in the surrounding orchards is sweeter and less bitter than most, and you'll find them piled at stalls around the chedi from October through February. The town is also the home of khao lam — sticky rice cooked with coconut milk and beans in green bamboo tubes sealed with banana leaf, roasted over charcoal."
+score: 6.8
 ---
 
 The area around Phra Pathom Chedi is ringed with market stalls and small restaurants selling the two foods that define Nakhon Pathom's culinary reputation: pomelos and khao lam. The pomelo stalls operate year-round but are particularly well-stocked from October through February when the local harvest peaks — look for the large yellow-green fruit labelled Nakhon Pathom variety.

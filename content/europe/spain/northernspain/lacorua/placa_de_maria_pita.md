@@ -7,6 +7,7 @@ tags:
 latitude: 43.3706
 longitude: -8.3961
 story: "María Pita was a 16th-century local woman who became a legend during the English raid on La Coruña in 1589, led by Francis Drake. According to tradition, she killed a British standard-bearer who was planting his flag on the city wall and rallied the defence. Her actual name was María Mayor Fernández de la Cámara y Pita; the city has honoured her ever since as a symbol of Galician civic courage."
+score: 7.5
 ---
 
 Plaza de María Pita is the main square of La Coruña and the social heart of the city. The large rectangular plaza is surrounded by arcaded buildings and centred on a statue of María Pita, the sixteenth-century defender who became a city legend. The town hall, with its distinctive four-tower facade, anchors one side.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Wolfsdreuvik was built in 1938 by Frans Coenen, then-curator of the Willet-Holthuysen Museum in Amsterdam, as a private hideout in the woods. He decorated it with stones, shells, and motifs picked up on his travels."
+score: 6.1
 ---
 
 A miniature folly hidden in the Spanderswoud forest west of the centre — a tiny gnome-like cottage of brick, stone, and shells half-buried in the woods. It is a strange thing to come across mid-walk: handmade, eccentric, with a stained-glass window and a carved owl over the door.

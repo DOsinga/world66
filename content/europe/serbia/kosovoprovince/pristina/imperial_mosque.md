@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.6636
 longitude: 21.1638
+score: 7.5
 ---
 
 The Imperial Mosque — Xhamia e Mbretit in Albanian — stands on Skanderbeg Square in the centre of Pristina and is one of the most visible Ottoman monuments in the city. It was built in the 16th century, probably during the reign of Suleiman the Magnificent, and its single minaret has been a feature of the Pristina skyline for over four hundred years.

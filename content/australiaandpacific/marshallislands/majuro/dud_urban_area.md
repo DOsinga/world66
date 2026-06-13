@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, neighbourhood, sight]
 latitude: 7.1
 longitude: 171.374
+score: 7.1
 ---
 
 Delap, Uliga, and Djarrit — universally known as D-U-D — form the continuous urban strip that houses most of Majuro's population and all of its government and commercial infrastructure. The three islets run together so seamlessly that most visitors don't notice the distinctions. This is where you will find the Alele Museum, the cathedral, the main port, the government buildings, banks, and the central market.

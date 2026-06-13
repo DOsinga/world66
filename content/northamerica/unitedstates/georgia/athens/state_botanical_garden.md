@@ -9,6 +9,7 @@ latitude: 33.9247
 longitude: -83.3669
 sources:
   - https://en.wikipedia.org/wiki/State_Botanical_Garden_of_Georgia
+score: 8.0
 ---
 
 The State Botanical Garden of Georgia, on the south end of the UGA campus, covers more than 300 acres of forests, gardens, and river bottomland along the Middle Oconee River. Admission is free, and it's one of the best things to do in Athens if you want an hour away from the downtown bustle.

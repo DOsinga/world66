@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 5.0
 ---
 
 The compound housing Lesotho's bicameral parliament — the National Assembly and the Senate — sits on a hill above the city, with the royal palace nearby. The buildings themselves are unremarkable modern blocks, but you can walk up to the perimeter and the setting offers a panoramic view back over Maseru toward the Caledon River and South Africa.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: -20.4273
 longitude: 57.3836
+score: 6.6
 ---
 
 Le Chamarel Restaurant is the dining room attached to the Rhumerie de Chamarel, sitting on the hillside with views across the cane fields toward the coast. The menu leans into local Mauritian cooking — fresh fish curries, crab dishes, grilled fish with rougaille sauce, and a selection of Creole specialities made with produce from the surrounding farmland. Meals come with an opportunity to pair dishes with the distillery's own rums, and the staff are well-versed in suggesting combinations.

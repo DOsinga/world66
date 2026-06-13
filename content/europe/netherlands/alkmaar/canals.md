@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 snippet: "Boat tours and walking routes along the moat and inner waterways"
 latitude: 52.6320
 longitude: 4.7470
+score: 7.4
 ---
 
 Alkmaar is ringed by a moat — the *singel* — and laced with smaller inner canals that wrap around the old town. The pattern is the original 17th-century layout, with merchant houses standing right on the water's edge, low stone bridges, and tree-lined banks. The Verdronkenoord canal, just east of the Waagplein, is one of the prettiest stretches.

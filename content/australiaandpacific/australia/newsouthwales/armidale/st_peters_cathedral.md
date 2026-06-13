@@ -9,6 +9,7 @@ latitude: -30.5151
 longitude: 151.6657
 sources:
   - https://en.wikipedia.org/wiki/St_Peter%27s_Cathedral,_Armidale
+score: 6.9
 ---
 
 The Anglican cathedral on Rusden Street is one of the finest Gothic Revival buildings in regional New South Wales. Construction began in the 1870s and proceeded over decades as funds permitted, resulting in a building of surprising scale and craftsmanship for a country city. The sandstone exterior is warm and weathered; the interior has good stained glass and a quiet dignity that rewards a few minutes of looking.

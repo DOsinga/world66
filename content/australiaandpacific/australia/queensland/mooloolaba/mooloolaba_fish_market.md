@@ -9,6 +9,7 @@ tags:
   - restaurant
   - seafood
   - market
+score: 7.5
 ---
 
 The Mooloolaba Fish Market sells whole fish, prawns, mud crab, oysters and Moreton Bay bugs direct from the local trawler fleet. There is a takeaway window doing fish and chips that local opinion tends to rank as the best on the Sunshine Coast — straight-from-the-boat snapper or whiting in light beer batter, served in butcher's paper to eat at the picnic tables on the wharf.

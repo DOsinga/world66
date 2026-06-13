@@ -13,6 +13,7 @@ story: >
   collection of folk objects, architecture, and crafts was a deliberate act of
   cultural preservation — keeping alive a way of life that political powers
   were attempting to erase.
+score: 9.2
 ---
 
 The ASTRA National Museum Complex in the Dumbrava forest south of Sibiu is one of Europe's largest and best open-air ethnographic museums. Over 300 traditional buildings — farmhouses, mills, churches, craftsmen's workshops, and whole farmsteads — have been relocated here from across Romania and reassembled on the shores of a lake in the forest. The effect is a working village from another era.

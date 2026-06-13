@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
   - architecture
+score: 7.6
 ---
 
 A white clapboard building on the Pacific University campus, originally constructed in 1850 and now operating as a small pioneer museum. It is the oldest educational building still standing west of the Mississippi River, and the rooms inside have been laid out with period furniture, books, and personal effects from the founding years of the school.

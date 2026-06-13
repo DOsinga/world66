@@ -13,6 +13,7 @@ story: >
   architectural decoration in Uzbekistan is preserved here, largely
   overlooked by travellers who stop at Samarkand and Bukhara but skip
   the deep south.
+score: 7.8
 ---
 
 The Sultan Saodat complex is a sprawling ensemble of 17 mausoleums, mosques, and khanaqahs (Sufi lodges) built between the 10th and 17th centuries. It served as the family necropolis of the Termez Sayyids, a powerful local dynasty whose claim to descent from Ali gave them enormous influence across the Islamic world.

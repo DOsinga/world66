@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - church
+score: 6.0
 ---
 
 The Catedral de Rancagua stands on the east side of the Plaza de los Héroes. The current building dates from the late 19th century and replaces earlier structures damaged in successive earthquakes. The neoclassical façade is plain, the interior modest — the cathedral is more historically important than visually grand.

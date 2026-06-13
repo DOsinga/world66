@@ -14,6 +14,7 @@ story: >
   defining identity of the town.
 sources:
   - https://en.wikipedia.org/wiki/Cibiana_di_Cadore
+score: 7.5
 ---
 
 Cibiana di Cadore, roughly 12 km south of San Vito, is a small Dolomite village distinguished by a remarkable collection of outdoor murals painted on the walls of its stone houses. The paintings — dozens of them now, covering entire building facades — depict the history, traditions, and working life of the Cadore region: craftsmen, farmers, the seasonal migration of workers to northern Europe, the lumbermen who once floated timber down the Piave. Each mural is signed and dated, making a walk through the village feel like an outdoor gallery spanning four decades.

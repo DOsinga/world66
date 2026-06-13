@@ -4,6 +4,7 @@ type: poi
 latitude: 59.4000
 longitude: 24.2000
 tags: [things_to_do, sight]
+score: 6.1
 ---
 
 Four kilometres west of the village, the small marina at Lohusalu is the main yachting harbour on this stretch of coast. The harbour is sheltered behind a long stone breakwater and houses both a fishing fleet and around 100 berths for sailing boats. The simple harbour café serves smoked fish and beer to skippers and walkers from late spring through September.

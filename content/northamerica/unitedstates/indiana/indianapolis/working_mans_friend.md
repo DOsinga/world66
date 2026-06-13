@@ -6,6 +6,7 @@ longitude: -86.1764
 tags:
   - eating_out
   - restaurant
+score: 7.2
 ---
 
 A 1918 west-side tavern serving what many Indianapolis natives consider the best double cheeseburger in the city. The order is the "double" — two thin smash patties on a hand-shaped bun, with American cheese, lettuce, tomato, and pickle. Cash and local checks only, no cards.

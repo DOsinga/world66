@@ -6,6 +6,7 @@ tags:
   - market
 latitude: -22.7475
 longitude: -41.8825
+score: 4.8
 ---
 
 Brazil is the world's largest producer of aquamarines, and Búzios — with its wealthy weekend visitors from Rio — has attracted a cluster of quality jewellers along Rua das Pedras. The stones come mostly from the mines of Minas Gerais state, and you can find everything from rough crystals to finely cut pieces set in gold and silver.

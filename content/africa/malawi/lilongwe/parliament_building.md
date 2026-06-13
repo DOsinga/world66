@@ -9,6 +9,7 @@ latitude: -13.9522
 longitude: 33.7878
 sources:
   - https://en.wikipedia.org/wiki/Malawi_Parliament_Building
+score: 5.8
 ---
 
 Malawi's National Assembly sits in a large modern complex on the Capital Hill in Lilongwe's New Town. The building itself is an example of the pan-African institutional architecture of the 1970s and 1980s — designed to project modernity and permanence — and it anchors the government district that Banda built when he moved the capital from Zomba in 1975.

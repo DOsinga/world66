@@ -8,6 +8,7 @@ tags:
 latitude: -31.9506
 longitude: 115.8607
 story: "Boola Bardip means 'many stories' in Whadjuk Noongar language, the language of the Aboriginal people on whose country Perth stands. When the museum reopened in 2020 after a $250 million redevelopment, the decision to give it a Noongar name was a deliberate statement about whose stories this institution would tell alongside the traditional natural history and colonial history collections."
+score: 8.8
 ---
 
 The WA Museum Boola Bardip reopened in 2020 after a massive redevelopment that transformed it into one of the finest state museums in Australia. The building is itself worth noting: a dramatic new glass structure wrapped around and through the historic 1899 Jubilee Building, with the old sandstone and the new glass interacting across multiple levels in a way that mostly works very well. The effect is of a modern institution that has genuinely grappled with its history rather than simply bulldozed it.

@@ -8,6 +8,7 @@ tags:
 - nature
 - hiking
 snippet: Cloud forest valley reached by one of Peru's more demanding back roads
+score: 7.2
 ---
 
 The valley of the Río Chirinos is the reason to come this far. After the road crests the highland plateau, it tips downward and the landscape changes completely. The open grassy plains give way within a few kilometers to cloud forest: dense, dripping, green in a way that seems almost excessive after the dry air of the highlands. The road — a dirt track that requires more faith than engineering — winds down through the forest in long switchbacks, occasionally opening onto views of the valley below where small plots of cleared land are tucked between the trees.

@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Buala's distinction as a town with no motor vehicles is less a policy than a result of geography and economics — the tracks that connect villages on the island are impassable for anything but feet and boats. The provincial government operates from this small settlement on Maringe Lagoon, conducting most of its business by outboard motor rather than by road.
+score: 4.7
 ---
 
 The provincial capital of Isabel Province is a small settlement of a few hundred people on the southern coast of the island, accessible from the airstrip at Fera by a 15-minute boat ride across Maringe Lagoon. Buala has the province's government buildings, a health clinic, a few small trade stores, and the Church of Melanesia cathedral — a modest structure that nonetheless serves as the centre of Christian life in the province.

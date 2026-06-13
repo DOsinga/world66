@@ -7,6 +7,7 @@ tags:
 latitude: 18.5272
 longitude: -64.358
 snippet: A 74-acre private island north of Virgin Gorda, owned by Richard Branson and rentable as a single property
+score: 4.4
 ---
 
 Necker Island is a 74-acre island in the British Virgin Islands, lying just north of [North Sound](/northamerica/britishvirginislands/virgingorda/north_sound). It was bought in 1979 by Richard Branson — for, according to his own account, about £180,000 — when he was a young record-label owner with limited resources but a determined offer. He spent the following decades developing it into one of the most expensive resort properties in the world, with a Balinese-style main house and a scattering of cottages and tents.

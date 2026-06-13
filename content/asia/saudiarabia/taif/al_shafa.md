@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 8.0
 ---
 
 Al Shafa is the high plateau south of Ta'if, climbing to over 2,000 metres and home to scattered villages, small farms, and some of the best honey production in the Kingdom. The viewpoints along the escarpment look down over the lowlands and west toward the Hejaz mountains. In summer the air is unmistakably cool, in winter the area is occasionally dusted with snow.

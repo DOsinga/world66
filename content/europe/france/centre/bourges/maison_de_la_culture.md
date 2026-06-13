@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.0796
 longitude: 2.4030
+score: 6.6
 ---
 
 Bourges was the very first French town to receive a Maison de la Culture, the cultural centres set up by André Malraux in the 1960s to bring high culture out of Paris. The building opened in 1964 and was the proving ground for a model later copied across the country.

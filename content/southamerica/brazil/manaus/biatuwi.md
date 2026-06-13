@@ -7,6 +7,7 @@ tags:
 - restaurant
 latitude: -3.1024
 longitude: -60.0289
+score: 7.3
 ---
 
 Biatüwi is unusual even for Manaus: an indigenous-run restaurant that serves food prepared in the Tukano tradition of the upper Rio Negro. The menu changes daily depending on what the cooks have brought back from the market or from their home villages — fish smoked over green wood, manioc cakes, peppery jambu and tucupi sauces, beverages made from forest fruits.

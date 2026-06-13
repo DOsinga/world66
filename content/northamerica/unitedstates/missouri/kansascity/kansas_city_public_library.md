@@ -13,6 +13,7 @@ tags:
 - architecture
 title: Kansas City Public Library
 type: poi
+score: 7.8
 ---
 
 The Central Branch of the Kansas City Public Library is housed in a handsome 1906 bank building downtown, but the reason most people detour here is the parking garage next door. The Community Bookshelf — the south facade of the garage — is faced with 22 giant book spines, each 25 feet tall and 9 feet wide, painted to look like actual books. The titles were chosen by Kansas City readers and include works from Tolkien to Invisible Man to Romeo and Juliet. It is genuinely one of the more joyful pieces of public art in the country.

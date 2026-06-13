@@ -9,6 +9,7 @@ latitude: 33.21948
 longitude: 132.56524
 story: >
   Uwajima Castle is one of only twelve original Japanese castles — meaning it survived the Meiji-era demolition campaigns and the Second World War with its main keep intact. The other eleven draw far larger crowds. Here you can climb to the top on a quiet weekday and have the view over Uwajima Bay essentially to yourself.
+score: 9.0
 ---
 
 Uwajima Castle (*Uwajima-jō*) is one of only four feudal-era castles on Shikoku to survive with their original tenshu (main keep) intact, and one of just twelve remaining original keeps in all of Japan. Built in its current form in 1665 by the Date clan on the site of an earlier fortress, it is a three-storey *hirayama-jiro* (flatland-mountain) style castle set on a low wooded hill above the town.

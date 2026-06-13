@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: The decommissioned banana-line station where García Márquez set the massacre scene
+score: 7.8
 ---
 
 The wooden station building of the old Santa Marta-to-Fundación banana railway, opened in 1908 and closed in the 1980s. It is the station where, in the novel, soldiers of the United Fruit Company fired on striking banana workers in the central scene of *One Hundred Years of Solitude*. The real event — the 1928 banana massacre at nearby Ciénaga — provided the historical kernel.

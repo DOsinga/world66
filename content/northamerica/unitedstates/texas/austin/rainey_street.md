@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.2593
 longitude: -97.7413
+score: 6.5
 ---
 
 Rainey Street is Austin's most photogenic bar district — a single block of craftsman bungalows converted into bars and restaurants, lined with food trucks and strung with lights. It runs south from Caesar Chavez Street near the lake, and on weekend evenings it fills with a somewhat older and more affluent crowd than the 6th Street strip.

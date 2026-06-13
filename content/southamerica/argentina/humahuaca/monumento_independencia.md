@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Sculptor Ernesto Soto Avendaño spent twenty years on the monument, which was finally inaugurated in 1950. The central figure is not a general but a faceless indigenous fighter — a deliberate choice that broke with the equestrian-hero tradition of Argentine public sculpture."
+score: 6.8
 ---
 
 A long flight of stone steps climbs from the plaza to a hilltop platform crowned by a monumental bronze. The figure is an Aymara warrior holding a sword, and the inscription honours the indigenous people who fought in the wars of independence in this remote corner of the country.

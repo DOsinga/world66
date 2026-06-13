@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - architecture
+score: 6.4
 ---
 
 The simple whitewashed parish church on the central plaza has been rebuilt many times since its 16th-century foundation — pirate raids, hurricanes, and earthquakes have all flattened earlier versions — but the current building is mostly 19th-century, with a single bell tower and a modest barrel-vaulted nave. The interior is plain: white walls, dark wooden pews, a small altar.

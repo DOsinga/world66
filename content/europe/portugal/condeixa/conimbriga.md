@@ -11,6 +11,7 @@ story: >
   Conimbriga was conquered by the Romans in 139 BCE and grew into a significant town of perhaps 10,000 people. When the Suebi invaded in 465 CE, the inhabitants of the outer city dismantled their own homes to build a wall protecting the inner core — but the town fell anyway. The wall they built in desperation still stands, cutting through the ruins of houses whose stones were sacrificed to construct it.
 sources:
   - https://en.wikipedia.org/wiki/Con%C3%ADmbriga
+score: 9.3
 ---
 
 Conimbriga is one of the best-preserved Roman settlements in the Iberian Peninsula and the most extensively excavated in Portugal. The site covers around 13 hectares, of which a substantial portion has been uncovered to reveal the layout of a prosperous Roman town: a forum, public baths, temples, aristocratic houses, and an extensive network of streets.

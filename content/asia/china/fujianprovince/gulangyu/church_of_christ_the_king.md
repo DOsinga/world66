@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 24.4465
 longitude: 118.0677
+score: 7.1
 ---
 
 The Church of Christ the King is a Gothic Revival Catholic church on the Xiamen side of the ferry channel, visible from Gulangyu's waterfront. Built in the 1930s, it is one of the more architecturally ambitious Catholic churches in Fujian, with a full cruciform plan and a tower that reads clearly against the Xiamen skyline. The Diocese of Xiamen, which the church serves, has a history stretching back to early Spanish Dominican missionary activity in Fujian.

@@ -14,6 +14,7 @@ story: >
   suggesting the infant was placed on the wing as if being sent on a journey. The original
   finds are in the National Museum in Copenhagen, but the image of the "woman with the
   feathers" has become iconic in Danish prehistory.
+score: 8.2
 ---
 
 The Vedbæk Bøgebakken site is one of the most significant Mesolithic archaeological finds in Scandinavia. Discovered in 1975 during construction work, it revealed a cemetery of 22 graves dating to approximately 5000 BC, providing an extraordinarily complete picture of how Ertebølle culture people — the last hunter-gatherers of northern Europe before agriculture arrived — buried their dead.

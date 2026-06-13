@@ -13,6 +13,7 @@ story: >
   to be impregnable from the land side — facing inland rather than the sea —
   because the Royal Navy was considered capable of defending the harbour. It was
   never attacked, and today the dry moat is planted with tropical gardens.
+score: 7.8
 ---
 
 Fort Hamilton is a Victorian-era military fortification on a hill above Hamilton, offering the best panoramic views of the harbour and the city below. Built between 1868 and 1889 as part of Bermuda's coastal defences, the fort has a substantial dry moat, powder magazines, gun emplacements, and a network of underground tunnels that can be explored.

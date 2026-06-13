@@ -13,6 +13,7 @@ story: >
   architect behind much of the New Khmer Architecture that defined 1960s
   Phnom Penh. Its silhouette deliberately echoes the prasats of Angkor Wat,
   binding the young republic to its medieval imperial past.
+score: 7.5
 ---
 
 A reddish-brown sandstone tower at the intersection of Norodom and Sihanouk Boulevards, ringed by serpent balustrades and rising over a wide traffic circle. Built in 1958 and unveiled in 1962, it commemorates Cambodia's independence from France nine years earlier.

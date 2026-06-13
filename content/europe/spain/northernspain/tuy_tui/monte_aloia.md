@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.07942
 longitude: -8.67032
+score: 6.5
 ---
 
 Monte Aloia is a small natural park a few kilometres north of Tui, the first designated natural park in Galicia (declared in 1978). The summit at around 630 metres offers panoramic views over the Miño valley, Portugal, and the Rías Baixas coast. The park has several walking trails through oak and eucalyptus forest, and is popular with local families at weekends.

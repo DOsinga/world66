@@ -7,6 +7,7 @@ tags:
 latitude: 33.9502
 longitude: -84.5550
 snippet: Original costumes, scripts, and memorabilia from the 1939 film, housed in a 19th-century building
+score: 6.3
 ---
 
 The Gone with the Wind Museum at historic Brumby Hall holds one of the most extensive collections of memorabilia from the 1939 film and the Margaret Mitchell novel that inspired it. The collection includes original movie costumes, signed first editions, conceptual artwork, movie scripts, and hundreds of objects from production and promotion. Brumby Hall itself, a two-storey antebellum home on Powder Springs Street, is worth a look on its own terms.

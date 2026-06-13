@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 39.9350
 longitude: -5.1500
+score: 7.6
 ---
 
 Three kilometres from Oropesa, the village of Lagartera is famous across Spain for a distinctive style of traditional embroidery — geometric patterns of red, blue, and black stitching on white linen, still made by hand in the village. The craft has been practised here for centuries and the designs are unlike those found elsewhere in Castile.

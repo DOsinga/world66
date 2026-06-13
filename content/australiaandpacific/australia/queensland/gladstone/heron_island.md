@@ -12,6 +12,7 @@ story: >
   the island when it was first charted were actually reef egrets, which are white and were mistaken
   for herons. The actual herons arrived later. The island's turtle population is more reliably
   named: green turtles have nested on the beaches here each summer for at least the past century.
+score: 9.2
 ---
 
 Heron Island is one of the best coral reef destinations in Australia, and because it sits directly on the Great Barrier Reef rather than near it, the diving and snorkelling begin at the edge of the beach. You step off the sand and into a living wall of coral, turtles, reef sharks, and fish. No boat is required to reach the reef itself — an extraordinary thing to be able to say.

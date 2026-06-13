@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.5311
 longitude: -97.9586
+score: 7.3
 ---
 
 The Canadian County Historical Museum occupies the old Rock Island Railroad depot on Choctaw Avenue, a one-storey brick building from 1907 that handled El Reno's main passenger trains until the line was abandoned. The exhibits cover the 1889 and 1892 land runs, Cheyenne and Arapaho life on the surrounding reservation, the cattle drives, and the railroad era.

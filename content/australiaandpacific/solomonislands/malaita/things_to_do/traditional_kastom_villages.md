@@ -1,6 +1,7 @@
 ---
 title: "Traditional Kastom Villages"
 type: poi
+score: 8.7
 ---
 
 Malaita's interior was the last part of the Solomon Islands to come under effective colonial administration, and the resistance was not merely passive. The Kwaio people of the mountains killed a British district officer and his party in 1927; the punitive expedition that followed — in which colonial forces killed dozens of villagers and looted sacred valuables — remains a source of deep historical grievance, and some Kwaio communities have refused Christian conversion or government interference to this day. The interior is not a tourist destination in any conventional sense, but it is one of the most culturally intact corners of Melanesia.

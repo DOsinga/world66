@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: A spectacular Beaux-Arts library opened in 1913 and funded by the bequest of an Irish-born Pennsylvania judge.
+score: 8.0
 ---
 
 The Handley Library at 100 W. Piccadilly Street is one of the more architecturally striking buildings in the Shenandoah Valley. The Beaux-Arts building — completed in 1913 to a design by architect James Stewart — features a prominent domed rotunda, arched windows, and rusticated stonework that makes it look more appropriate to a state capital than a small Virginia city. Its grandeur is explained by its origin: the library was funded by a bequest from Judge John Handley, an Irish immigrant who made his fortune in Scranton, Pennsylvania, and left $250,000 to the city of Winchester on his death in 1895 — with instructions that it be used for education.

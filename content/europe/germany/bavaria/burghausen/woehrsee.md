@@ -8,6 +8,7 @@ tags:
   - swimming
 latitude: 48.1607
 longitude: 12.8292
+score: 7.1
 ---
 
 The Woehrsee lies on the quiet side of the castle ridge, a small lake tucked between wooded slopes and the old fortifications. In summer it works as Burghausen's outdoor swimming pool, with lawns, paths and views back to the castle walls above the water.

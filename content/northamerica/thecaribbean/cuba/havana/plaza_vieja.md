@@ -14,6 +14,7 @@ story: >
   multistorey car park built by the Batista government. When the restoration
   authority removed the car park in 1996 and dug down to the original colonial
   paving, they found it in almost perfect condition beneath the concrete.
+score: 8.4
 ---
 
 Plaza Vieja (Old Square) is the southernmost and most intimate of Old Havana's four main squares — a beautifully proportioned baroque space surrounded on all four sides by restored colonial buildings. Unlike the other squares, which are dominated by churches or government buildings, Plaza Vieja is entirely residential and commercial in character, its surrounding palaces once belonging to wealthy Havana merchants and now housing restaurants, bars, a photography gallery, an artisanal brewery, and a camera obscura at the top of one of the towers.

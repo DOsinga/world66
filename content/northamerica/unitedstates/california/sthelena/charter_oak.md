@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - restaurant
   - bar
+score: 7.6
 ---
 
 A modern California restaurant on Charter Oak Avenue that has become one of the better-regarded kitchens in the valley since opening in 2017. The cooking is vegetable-forward but not vegetarian — wood-fired and seasonal, drawing on relationships with Napa and Sonoma farms. The large hearth in the open kitchen anchors a relaxed, informal room that feels less formal than the valley's older fine-dining establishments.

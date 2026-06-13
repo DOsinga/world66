@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 24.8050
 longitude: -107.3930
+score: 7.8
 ---
 
 Mercado Garmendia is Culiacan's main covered market and the best place in the city for a cheap, authentic meal. Breakfast here is an institution: birria de res (beef stew), machaca (dried beef scrambled with eggs), and tamales are all available from the early stalls before most restaurants have opened. The market also has a good selection of fresh produce, dried chilies, and the Sinaloan cheese varieties that rarely make it out of the state.

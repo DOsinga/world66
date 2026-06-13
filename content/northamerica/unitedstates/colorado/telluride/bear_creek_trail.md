@@ -6,6 +6,7 @@ tags:
 - sight
 latitude: 37.9300
 longitude: -107.8100
+score: 8.1
 ---
 
 The Bear Creek Trail heads south from the end of Pine Street and climbs through aspen forest alongside the creek, gaining elevation steadily over about 6km to a waterfall at the head of the canyon. The trail is accessible directly from town, which makes it the easiest mountain hiking option if you are on foot.

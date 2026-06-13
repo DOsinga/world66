@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.1
 ---
 
 The strip of green between Water Street and the river where the working waterfront has always been. Shrimp boats and oyster skiffs still tie up here, and on most mornings you can watch them unload the catch. A small wharf-side pavilion hosts the Saturday morning farmers' market in season.

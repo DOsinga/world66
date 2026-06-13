@@ -8,6 +8,7 @@ tags:
   - park
   - sight
 snippet: Riverside downtown park at the confluence of two rivers, home to the farmers' market
+score: 6.8
 ---
 
 Phoenix Park occupies a former industrial brownfield at the confluence of the Chippewa and Eau Claire rivers, transformed in the early 2000s into Eau Claire's central outdoor gathering space. The park has a covered bandshell, riverside trails, public art, and views of the Pablo Center and the water meeting point. It connects directly to the city's trail network, which runs along both rivers.

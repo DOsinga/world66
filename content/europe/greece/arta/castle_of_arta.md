@@ -6,6 +6,7 @@ longitude: 20.9865
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Castle of Arta crowns a low hill at the northern edge of the old town, where the Arachthos River loops around in an almost-complete arc. The walls are largely thirteenth-century Byzantine, raised by the rulers of the Despotate of Epirus on much earlier foundations, and reworked by the Ottomans after they took the town in 1449.

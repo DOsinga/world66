@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.4893
 longitude: 74.5545
+score: 6.6
 ---
 
 The main bazaar runs through the centre of Pushkar in a long street of small shops and stalls. It is everything you might expect from a Rajasthani market town and a few things you might not: the usual silks, spices, and silver jewellery are all here, but so is a notable concentration of shops catering to the long-stay backpacker market — tie-dye clothing, Israeli food, chai served in clay cups. Pushkar has been on the hippie trail since the 1960s and this layer of the market has become as authentic as everything else.

@@ -14,6 +14,7 @@ story: >
   tower — made from stones contributed by all 48 then-states plus the District
   of Columbia, Cuba, and several US territories — was completed in 1943 as a
   rallying symbol of national unity.
+score: 5.9
 ---
 
 The Monument of States stands in Kissimmee's Lakefront Park as one of Florida's more peculiar roadside attractions — a 50-foot tower of concrete and embedded stones collected from across the United States following the attack on Pearl Harbor. Rocks, fossils, petrified wood, and minerals from all 48 states (as they were in 1943) are pressed into the surface, alongside contributions from Cuba and several US territories.

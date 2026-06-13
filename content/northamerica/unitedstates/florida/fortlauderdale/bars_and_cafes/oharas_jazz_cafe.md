@@ -8,6 +8,7 @@ tags:
   - live_music
 latitude: 26.1194
 longitude: -80.1326
+score: 6.4
 ---
 
 O'Hara's Jazz Café is the most reliable live music venue on Las Olas Boulevard — a long-running club that books live jazz seven nights a week, which in a city of sporadic live music schedules is a meaningful commitment. The room is dark, the bar is well stocked, and the music tends toward the mainstream jazz repertoire: standards, bebop, Latin jazz, with occasional forays into soul and R&B. The musicians are professional and the sets start on time.

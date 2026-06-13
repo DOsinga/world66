@@ -6,6 +6,7 @@ longitude: -3.0086
 tags:
   - things_to_do
   - sight
+score: 6.0
 ---
 
 Tarancón's Plaza Mayor (officially Plaza de la Constitución) is the social heart of the town, recently repaved and surrounded by a mix of nineteenth- and twentieth-century arcaded buildings. The town hall faces it on one side, the parish church anchors the other end, and the cafés on the south side fill up in the early evening.

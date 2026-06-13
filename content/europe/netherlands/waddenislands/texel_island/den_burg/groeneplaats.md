@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 7.0
 ---
 
 The Groeneplaats — literally "Green Square" — is the centre of Den Burg and the meeting point of every road on the island. Surrounded by cafes, restaurants, the town hall, and the Hervormde Kerk a block away, it is where Texelaars gather and visitors orient themselves. The square is shaded by chestnut trees and good for sitting with an ice cream or a beer for an hour.

@@ -10,6 +10,7 @@ tags:
 neighbourhood: Little Five Points
 latitude: 33.7644
 longitude: -84.3499
+score: 6.3
 ---
 
 The Vortex's Little Five Points location is famous for two things: its giant grinning-skull facade, which you enter through the mouth, and its uncompromising hostility to politeness. The menu is burgers, fries, and beer; the rules include 'no idiots' and 'absolutely no children under 18'.

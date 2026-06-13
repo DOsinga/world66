@@ -10,6 +10,7 @@ tags:
 - sight
 title: Catedral de Valencia
 type: poi
+score: 7.7
 ---
 
 The Cathedral of Valencia (officially the Basílica Catedral de Nuestra Señora del Socorro) stands on the south side of Plaza Bolívar. The first chapel on the site dates from 1580; the present building grew through successive rebuilds from the seventeenth century onward and was elevated to a cathedral when the diocese was created in 1922. The bell tower, finished in 1782, is the most distinctive element of the otherwise restrained facade.

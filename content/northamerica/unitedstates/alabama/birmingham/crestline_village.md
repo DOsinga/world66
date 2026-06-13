@@ -5,6 +5,7 @@ tags:
 - eating_out
 title: Crestline Village
 type: poi
+score: 5.6
 ---
 
 A small neighborhood shopping and dining district in Mountain Brook, the affluent suburb over Red Mountain from downtown, with a compact strip of good restaurants and cafes. Less gritty than Avondale or Five Points South, but reliable for a good meal in a pleasant setting. Several of the restaurants here have the best kitchen talent in the metropolitan area.

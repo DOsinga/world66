@@ -14,6 +14,7 @@ tags:
 - sight
 title: Tulum Archaeological Zone
 type: poi
+score: 8.9
 ---
 
 The walled Maya city of Tulum is the most dramatically sited archaeological site on the Yucatán Peninsula. Built on a limestone cliff above a small cove, its temples look out directly over the Caribbean — a view that has barely changed since the city was at its height between the 13th and 15th centuries. El Castillo, the main pyramid, crowns the cliff and served as a lighthouse, guiding canoes through a gap in the reef below.

@@ -13,6 +13,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Fort_Fetterman
   - https://wyoparks.wyo.gov/index.php/places-to-go/fort-fetterman
+score: 8.1
 ---
 
 Fort Fetterman sits on a bluff above the North Platte River about eleven miles northwest of Douglas, and the site still feels remote and exposed to the wind — much as it must have felt to the soldiers posted here in the 1870s. Established in 1867 and named for a captain killed in a Sioux ambush the previous year, the fort became the westernmost Army post in Wyoming and the main launchpad for the campaigns that effectively ended the Indian Wars on the northern plains.

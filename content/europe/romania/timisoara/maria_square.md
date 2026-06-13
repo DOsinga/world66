@@ -8,6 +8,7 @@ tags:
   - sight
   - elisabetin
 story: "It was outside the Reformed Church on St. Mary Square that the demonstrations against the regime began on 15 December 1989. Crowds first gathered to prevent the eviction of the Hungarian pastor László Tőkés; over the following days the protest spread across the city and triggered the wider Romanian Revolution. Tőkés survived and was later a Romanian member of the European Parliament."
+score: 7.2
 ---
 
 St. Mary Square (Piata Sfânta Maria) is a small triangular square in the Elisabetin district where the 1989 revolution began. The Reformed Church on the southern side of the square was the parish of pastor László Tőkés, whose forced eviction by the Communist authorities triggered the demonstrations that quickly grew into the wider Romanian Revolution.

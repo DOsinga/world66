@@ -8,6 +8,7 @@ tags:
   - restaurant
   - southeast_peninsula
 neighbourhood: Southeast Peninsula
+score: 5.8
 ---
 
 The most ambitious of the Cockleshell Bay beach restaurants, built in the style of a Carib longhouse with thatched roof, polished timber, and a wide open front facing the sea. The kitchen takes Caribbean staples — mahi-mahi, lobster, jerk pork — and turns them into something more careful than the surrounding beach bars manage.

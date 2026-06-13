@@ -7,6 +7,7 @@ tags:
   - kabyle
 latitude: 36.7155
 longitude: 4.0510
+score: 6.3
 ---
 
 "Taddart" means "the village" in Kabyle, and this restaurant leans into that identity with décor featuring traditional woven baskets and burnished copper utensils on the walls. The menu is a solid survey of Kabyle specialities: azekkif (a soup of crushed barley with vegetables), mechoui (slow-roasted lamb on weekends), and tafatilt — the dense, flavoursome Kabyle bread baked in a clay pot — which arrives warm with every meal.

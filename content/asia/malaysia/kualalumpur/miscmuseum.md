@@ -7,6 +7,7 @@ longitude: 101.713802
 tags:
   - things_to_do
   - museum
+score: 4.8
 ---
 
 A small private museum at the headquarters of MISC, Malaysia's national shipping line, tracing the country's maritime trade from the Malacca Sultanate through the modern tanker fleet. Ship models, navigation instruments and archive material make up most of the displays.

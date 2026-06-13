@@ -10,6 +10,7 @@ address: "New Buswang, Kalibo, Aklan"
 admission: "₱100 entry fee"
 opening_hours: "Daily 08:00–17:00"
 story: "The 220-hectare mangrove forest was planted from scratch beginning in 1990, on land that had been bare coastal mudflat after decades of unregulated logging. It is now considered one of the most successful mangrove reforestation projects in Southeast Asia, with 17 species of mangrove returning and the coastline measurably more storm-resistant. The fishermen of the surrounding barangays manage the park themselves."
+score: 7.8
 ---
 
 Three kilometres northeast of central Kalibo, on the coast at New Buswang, is one of the most successful community mangrove restoration projects in Southeast Asia. A 1.3 km wooden boardwalk loops out through the swamp, with interpretation signs, viewing platforms, and the chance to see mudskippers, fiddler crabs, and a wide range of estuary birds. Wear repellent.

@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 61.5113
 longitude: 23.7495
+score: 5.8
 ---
 
 Moomin Valley Park is an outdoor theme park at Särkänniemi aimed at children aged 2–10, built around walk-through environments representing the Moomin world. The park opened in 2019 and is the official Moomin outdoor experience endorsed by the Jansson estate. It operates within the larger Särkänniemi complex and requires a separate admission.

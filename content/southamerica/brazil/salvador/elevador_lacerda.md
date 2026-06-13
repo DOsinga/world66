@@ -9,6 +9,7 @@ tags:
 - cidade_baixa
 snippet: 1873 art-deco elevator linking upper and lower cities
 story: "The Lacerda Elevator was inaugurated in 1873 and was the first public urban elevator in the world. The current art deco towers date from a 1930 rebuild; the original mechanism was hydraulic and made in England."
+score: 8.3
 ---
 
 The four concrete towers of the Lacerda Elevator drop 72 metres between the Praça Municipal in the upper city and Praça Cairu in the lower city, and have been Salvador's most photographed piece of infrastructure since 1873. The current art deco housing dates from a 1930 rebuild; the operation is the same — four cabins, thirty seconds end to end, a small flat fare.

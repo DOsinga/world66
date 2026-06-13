@@ -6,6 +6,7 @@ longitude: 40.58264
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The third and most ruined of Ibo's Portuguese forts, Sao Jose sits on the western shore facing the channel. Less restored than Sao Joao or Santo Antonio, it is a square stone enclosure with the outline of its bastions still readable in the grass and a couple of rusting cannons toppled in the dust.

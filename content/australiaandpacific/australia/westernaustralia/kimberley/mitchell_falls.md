@@ -13,6 +13,7 @@ story: >
   with elaborate headdresses — whose age and meaning remain subjects of debate among researchers.
 sources:
   - https://www.geodata.us/australia_names_maps/aumaps.php?fid=310245&f=304&name=Mitchell+Falls
+score: 9.2
 ---
 
 Mitchell Falls is a four-tiered waterfall on the Mitchell River in the far northwest of the Kimberley, arguably the most dramatic in a region full of impressive waterfalls. The falls descend about 80 metres through a sequence of rocky pools, with the main drop cascading into a broad plunge pool. Swimming is not permitted in the main pool, but the trail from the trailhead passes several other swimmable rock pools along the way.

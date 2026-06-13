@@ -6,6 +6,7 @@ longitude: 77.339451
 tags:
   - things_to_do
   - sight
+score: 5.0
 ---
 
 Noida's main cricket ground sits in Sector 21A, with capacity for about 12,000 spectators. The stadium hosts Ranji Trophy matches and other domestic fixtures, and has occasionally been used for IPL warm-up games and tournament matches when Delhi's Arun Jaitley Stadium has been unavailable. The wicket is generally batter-friendly and tends to play flat.

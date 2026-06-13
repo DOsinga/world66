@@ -16,6 +16,7 @@ story: >
   in 1014, and his grave remains marked in the cathedral grounds.
 sources:
   - https://en.wikipedia.org/wiki/St_Patrick%27s_Cathedral,_Armagh_(Church_of_Ireland)
+score: 7.7
 ---
 
 The Church of Ireland St Patrick's Cathedral occupies the hilltop where Saint Patrick established his principal church in the 5th century, making it one of the oldest continuously sacred sites in Ireland. The current building is mostly the result of a major Victorian restoration in the 1830s, though medieval fabric survives and the crypt contains stonework that predates the Norman conquest.

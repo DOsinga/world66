@@ -8,6 +8,7 @@ story: >
   The Spirstock sits on the boundary between Unteriberg and Oberiberg — two villages that have
   historically taken turns administering the shared resort, a co-management arrangement still
   in place today.
+score: 7.1
 ---
 
 The Spirstock (1,826 m) is the high point easily reached on foot from the chairlift system at Hoch-Ybrig. From the top, the view opens out over the lake-studded plateau of central Switzerland to the north, with the jagged silhouette of the Mythen — the two distinctive pre-Alpine peaks above Schwyz — directly in front of you. To the south, the higher Alps stretch away into Glarus and Uri.

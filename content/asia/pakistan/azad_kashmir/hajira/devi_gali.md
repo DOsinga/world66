@@ -15,6 +15,7 @@ story: >
   "devi" (goddess) with the Kashmiri "gali" (mountain pass) — is a small
   linguistic fossil from a time before the Line of Control divided this
   landscape and its people.
+score: 6.8
 ---
 
 Devi Gali is a forested village and viewpoint about four kilometres west of Hajira, set on a ridgeline in the pine-covered hills of Poonch District. Also known locally as Shaheed Gali, it is one of the more accessible beauty spots in the immediate area and sees a steady trickle of domestic visitors, particularly in summer.

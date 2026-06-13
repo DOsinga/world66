@@ -7,6 +7,7 @@ tags:
 latitude: 59.1361
 longitude: -3.3232
 snippet: "Tidal island with Pictish and Norse ruins on the northwest tip of Mainland"
+score: 8.5
 ---
 
 The Brough of Birsay is a small grass-covered tidal island just off the northwest corner of Mainland Orkney. It is reached via a concrete causeway that is uncovered for two or three hours either side of low tide; check tide tables before crossing.

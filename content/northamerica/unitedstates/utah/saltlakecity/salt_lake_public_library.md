@@ -8,6 +8,7 @@ tags:
 title: Salt Lake City Public Library
 type: poi
 story: "The library was designed by Moshe Safdie, the same architect behind Habitat 67 in Montreal and the National Gallery of Canada. The curved glass wall facing the street was designed to evoke a city wall with a central plaza serving as a public town square — the library deliberately blurs the boundary between public street and civic institution."
+score: 7.9
 ---
 
 The Salt Lake City Public Library, completed in 2003, is one of the most architecturally striking public libraries in the United States. Designed by Moshe Safdie, the building features a dramatic curved glass facade, an interior street running the full height of the building, and a rooftop urban garden with city views.

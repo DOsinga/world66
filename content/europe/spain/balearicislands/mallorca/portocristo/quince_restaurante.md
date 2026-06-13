@@ -4,6 +4,7 @@ type: poi
 latitude: 39.5403
 longitude: 3.3368
 tags: [eating_out, restaurant]
+score: 6.0
 ---
 
 Quince sits right at the marina, with terrace tables that look out over the harbour and the fishing boats moored alongside. The cooking draws from Mallorca's larder but isn't constrained by it — there are nods to Latin American and Asian flavour combinations that give the menu a bit more energy than the typical tourist-waterfront formula. The Mallorcan red prawns, when available, are worth ordering regardless of price; the fish stew has earned a loyal following among regulars.

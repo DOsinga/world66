@@ -10,6 +10,7 @@ tags:
 snippet: One of southern Africa's most important wetlands, with tens of thousands of flamingos
 story: >
   In peak season the Walvis Bay lagoon can hold over 100,000 flamingos — both lesser and greater species, feeding on the brine shrimp and algae that bloom in the shallow water. It is one of only three sites in southern Africa where lesser flamingos breed.
+score: 9.0
 ---
 
 The Walvis Bay Lagoon is a shallow, sheltered estuary tucked behind a long sand spit on the southern edge of the town. Around 45 square kilometres of mudflats, shallow water, and salt marsh, it is a Ramsar-listed wetland and one of the most important bird habitats in southern Africa. Up to 200,000 birds use the lagoon at peak season, with both greater and lesser flamingos in flocks running into the tens of thousands; the pink wash of birds against the silver water is unforgettable.

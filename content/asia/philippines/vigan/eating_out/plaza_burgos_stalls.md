@@ -1,6 +1,7 @@
 ---
 title: "Plaza Burgos Stalls"
 type: poi
+score: 7.0
 ---
 
 Plaza Burgos, at the edge of the heritage zone, comes alive in the evenings with food stalls that are the most atmospheric — and cheapest — way to eat in Vigan. The specialty here is empanada Ilocana: a deep-fried pastry made with an orange-tinted rice flour shell, filled with grated green papaya, a whole egg, and slices of Vigan longganisa. They are cooked to order in large woks of oil and served with sukang Ilocos, the sharp local cane vinegar, on the side.

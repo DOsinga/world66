@@ -6,6 +6,7 @@ longitude: 18.7583
 tags:
   - things_to_do
   - neighbourhood
+score: 7.3
 ---
 
 Muo is the small fishing village on the opposite shore of the bay from Kotor's old town, with the photograph you have probably seen — a row of stone houses, fishing boats moored along a low quay, and the walls of Kotor framed across the water beyond. It is perhaps fifteen minutes' walk around the head of the bay or two minutes by water taxi.

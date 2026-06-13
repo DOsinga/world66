@@ -13,6 +13,7 @@ tags:
 - sight
 title: Sidi Chamarouch
 type: poi
+score: 7.4
 ---
 
 Sidi Chamarouch is a small Berber village at around 2,300 metres on the Ait Mizane valley path, roughly halfway between Imlil and the Toubkal Refuge. It clusters around a waterfall where the river drops over pale granite boulders, and its chief feature is a marabout shrine sacred to local Berber Muslims. The shrine is forbidden to non-Muslims but the village itself — a scatter of low stone buildings with a few stalls selling drinks and snacks to passing trekkers — is welcoming enough.

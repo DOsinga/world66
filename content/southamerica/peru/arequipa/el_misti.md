@@ -9,6 +9,7 @@ tags:
 title: El Misti
 type: poi
 story: "When the Inca conquered Arequipa in the 15th century, they offered child sacrifices on the summit of El Misti to placate it. Excavations in 1998 uncovered the remains of six children at the crater rim, now displayed in part at the Museo Santuarios Andinos."
+score: 8.4
 ---
 
 El Misti, the symmetrical 5,822-metre volcano that looms over Arequipa from the north-east, is the city's natural emblem. From almost anywhere in the centre you can see it framed at the end of a street. Despite the conical perfection of its silhouette it is still classified as active — the last eruption was in 1985 — and the smoke trails from its crater are visible on a clear day.

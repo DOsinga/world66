@@ -8,6 +8,7 @@ tags:
 title: Baldwin Street
 type: poi
 story: "Baldwin Street holds the Guinness World Record for steepest residential street, with a gradient of 1 in 2.86 — meaning it rises 35 centimetres for every metre of horizontal distance. It was laid out in the 1860s by London engineers who designed it on paper without consulting the actual terrain of the hill. Every year the Cadbury Chocolate Carnival rolls thousands of chocolate balls down the street, a race that proves easier than the reverse."
+score: 6.3
 ---
 
 Baldwin Street in the North East Valley suburb is the steepest residential street in the world, according to the Guinness Book of Records, and has become one of Dunedin's most visited oddities. The street rises at a gradient that makes walking to the top a genuine effort and forces the houses along its sides to be built at various tilted angles to cope with the slope.

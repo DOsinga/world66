@@ -13,6 +13,7 @@ story: >
   monitored daily for thickness. The Blagoveshchensk–Heihe Bridge, completed
   in 2022, now provides a year-round road link — but locals still point to the
   ice crossing with a certain pride.
+score: 8.6
 ---
 
 The Amur River between Heihe and Blagoveshchensk is one of the most accessible international borders in northeast Asia. The two cities are separated by about 750 metres of water, and in summer regular ferries cross in minutes. The Russian skyline is clearly visible from the Heihe riverbank — close enough that the Cyrillic lettering on buildings across the water can sometimes be made out with binoculars. This proximity defines the city: Heihe exists, in large part, to facilitate commerce and contact across this narrow stretch of water.

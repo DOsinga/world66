@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 54.9079
 longitude: 8.3093
+score: 8.3
 ---
 
 Sylt is the largest of the North Frisian Islands and the most famous — a long, narrow barrier island known for its dramatic dune landscapes, wide North Sea beaches, and a reputation as the most fashionable summer destination in Germany. The western beaches face the open North Sea and have powerful surf; the eastern shore is sheltered and good for windsurfing and kitesurfing. The island is connected to the mainland by a railway causeway (no road — you either take the train or ship your car on the Autoreisezug).

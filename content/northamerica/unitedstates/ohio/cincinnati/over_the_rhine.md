@@ -8,6 +8,7 @@ latitude: 39.1101
 longitude: -84.5155
 story: >
   Over the Rhine takes its name from the Ohio-Rhine Canal that once separated it from downtown Cincinnati — German immigrants said crossing the canal to reach the city centre was like crossing the Rhine back home. The canal was filled in long ago but the name stuck. At its peak in the late nineteenth century, the neighbourhood was home to 44,000 people living in the densest urban settlement in the country west of the Appalachians.
+score: 9.4
 ---
 
 Over the Rhine is a neighbourhood of nineteenth-century Italianate brick buildings that was almost lost to urban renewal but survived, and over the past fifteen years has transformed into the most interesting part of Cincinnati. The National Register of Historic Places recognises it as one of the largest intact urban historic districts in the country, with over 900 buildings from the 1850s to 1900s.

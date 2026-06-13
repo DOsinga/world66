@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 40.3556
 longitude: -80.6194
+score: 5.8
 ---
 
 Holy Name Cathedral is the seat of the Diocese of Steubenville, a handsome brick church that serves as the religious centre of the region's large Catholic community. The interior is well proportioned and the stained glass is above average. It is an active parish rather than a tourist attraction, but visitors are welcome outside of services.

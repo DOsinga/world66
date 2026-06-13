@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Sea Life Sanctuary Manly
 type: poi
+score: 5.8
 ---
 
 A good place to visit with kids, featuring local marine life including sharks, rays and sea turtles. Located right on Manly Cove, a short walk from the Manly Ferry wharf.

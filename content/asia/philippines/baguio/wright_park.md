@@ -8,6 +8,7 @@ tags:
 - sight
 title: Wright Park
 type: poi
+score: 6.8
 ---
 
 A narrow, pine-shaded park on a high ridge, Wright Park is named for Luke Wright, the second US governor-general of the Philippines. The centerpiece is the Pool of Pines — a long rectangular reflecting pool with rows of pine trees marching down each side and a small bandstand at the far end. The composition is severely formal, almost monastic in its simplicity, and is one of Baguio's most photographed spots.

@@ -11,6 +11,7 @@ story: >
   who built it in thanksgiving after being rescued from a storm near the island of Lokrum in 1192 while returning
   from the Crusades. The story is almost certainly apocryphal — Richard's connection to Dubrovnik is not documented —
   but it has been maintained with considerable enthusiasm for eight centuries.
+score: 7.3
 ---
 
 Dubrovnik's Baroque cathedral was built between 1671 and 1713 on the site of an earlier Romanesque church destroyed in the earthquake of 1667. The interior is spacious and relatively plain by Baroque standards, but the Treasury is exceptional. It holds a large collection of relics — over 180 pieces — including a gold reliquary of St. Blaise's head, the arm and leg of the city's patron saint, and a fragment of the True Cross.

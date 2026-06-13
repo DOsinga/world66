@@ -9,6 +9,7 @@ tags:
   - park
 story: "The royal palace of Theobalds was built in the 1560s by Lord Burghley, Elizabeth I's chief minister, and was so admired that James I forced an exchange for the smaller Hatfield House in 1607. James died here in 1625. Most of the palace was demolished by Parliament after the Civil War; only a few fragments and the formal lakes survive in what is now a public park."
 snippet: "Public park on the grounds of the demolished royal palace of Theobalds"
+score: 7.1
 ---
 
 Cedars Park sits on the site of **Theobalds Palace**, one of the great vanished royal residences of England. The palace was built in the 1560s, briefly grander than any of Elizabeth I's official houses, taken into royal hands by James I in a forced swap with the Cecil family, and largely demolished by Parliament in the 1650s.

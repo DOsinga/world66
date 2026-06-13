@@ -7,6 +7,7 @@ tags:
 - museum
 title: Honolulu Museum of Art
 type: poi
+score: 8.4
 ---
 
 Hawaii's largest fine arts museum occupies a graceful 1927 building around a series of courtyard gardens in downtown Honolulu. The collection is surprisingly strong — 50,000 objects spanning 5,000 years, with particular excellence in Asian art (the Japanese woodblock print collection is world-class), Pacific and Hawaiian works, and European painting from the medieval period through the 20th century.

@@ -14,6 +14,7 @@ story: >
   those months the islet is quiet but the views across Hornafjörður remain
   exceptional.
 snippet: Rocky islet five minutes from the harbour, one of Iceland's most accessible puffin colonies
+score: 7.4
 ---
 
 The small rocky islet connected to Höfn by a causeway, Hafnarholmi is one of the most accessible puffin-viewing spots in Iceland. From late April through August, hundreds of Atlantic puffins nest in the grassy cliffs above the water, going about their business with complete indifference to the humans watching from the wooden viewing platform a few metres away. At peak season you can watch them land, squabble, and shuffle into their burrows at close range — no telescope required.

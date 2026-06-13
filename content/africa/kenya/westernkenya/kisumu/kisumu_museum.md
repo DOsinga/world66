@@ -6,6 +6,7 @@ latitude: -0.1075
 longitude: 34.7631
 story: >
   The museum houses a traditional Luo homestead reconstructed on site, complete with separate huts for the man, his wives, and the cattle. It is one of the clearest illustrations you will find of how the Luo organized domestic space — and why a man's prestige was measured in cattle rather than cash.
+score: 7.7
 ---
 
 The Kisumu Museum is the main museum of western Kenya, covering the natural history, ethnography, and archaeology of the Lake Victoria region. The collections are not enormous but they are well presented, and the museum grounds include a small nature trail, a snake park, and the reconstructed Luo homestead that is the highlight for most visitors.

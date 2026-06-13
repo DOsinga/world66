@@ -13,6 +13,7 @@ story: >
   in the Orthodox world. Vladimir was claiming its place in that tradition. The gold is gone,
   stripped away over the centuries, but the name remains. Above the arch stands a small church,
   still intact, its single golden dome visible from across the city.
+score: 8.1
 ---
 
 The Golden Gate of Vladimir, built between 1158 and 1164, is the only surviving ancient city gate in Russia. It served as the main ceremonial entrance to the city and was modelled on the Golden Gate of Kiev, which was itself modelled on Constantinople's. The arch is massive — wide enough for carriages to pass through — and the walls flanking it were part of the city's original fortifications.

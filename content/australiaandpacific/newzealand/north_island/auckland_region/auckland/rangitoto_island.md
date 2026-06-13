@@ -16,6 +16,7 @@ story: >
   watched it rise. The pohutukawa trees that now blanket its lava fields form 
   the largest such forest on earth, having colonised bare rock over just a 
   few centuries.
+score: 8.8
 ---
 
 Rangitoto Island rises from the Hauraki Gulf just 8 kilometres from the Auckland waterfront, its symmetrical volcanic cone visible from almost anywhere in the city. Take the Fullers ferry from the Ferry Building (40 minutes), then walk the well-formed track to the 260-metre summit crater — the whole return trip takes about two hours at a comfortable pace.

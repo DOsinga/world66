@@ -6,6 +6,7 @@ latitude: 39.1167
 longitude: 48.5953
 sources:
   - https://en.wikipedia.org/wiki/G%C3%B6yt%C9%99p%C9%99,_Jalilabad
+score: 6.5
 ---
 
 Goytepe was founded as a Russian military garrison settlement in the nineteenth century, and the wooden houses built by Russian settlers — in the log-cabin and clapboard style common to northern Russia and Siberia — are strikingly out of place in subtropical southern Azerbaijan. The contrast between these northern buildings and the local Azerbaijani architecture around them is genuinely odd and worth pausing over. Many of the wooden houses are decaying, which adds to the photogenic atmosphere but also means they will not be there indefinitely.

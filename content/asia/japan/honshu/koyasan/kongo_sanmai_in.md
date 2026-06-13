@@ -10,6 +10,7 @@ story: >
   Kongo Sanmai-in was founded in 1211 by Hojo Masako — the widow of shogun Minamoto no Yoritomo — as a place to pray for her late husband's soul. It was renamed in 1219 to commemorate their son Sanetomo, assassinated that same year. The founding families that shaped medieval Japan are thus interred here, a few hundred metres from where Kobo Daishi himself rests.
 title: Kongo Sanmai-in
 type: poi
+score: 7.6
 ---
 
 Kongo Sanmai-in sits slightly apart from the main tourist circuit, near the entrance to the Okunoin cemetery. The temple was founded in 1211 by Hojo Masako, a pivotal figure in medieval Japanese history, to pray for the souls of her husband and son — both shoguns of the Kamakura period. The three-storey pagoda, one of the oldest structures on Koyasan, is a designated National Treasure and dates from the early thirteenth century.

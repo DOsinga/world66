@@ -13,6 +13,7 @@ story: >
   equipment, they abandoned the effort, and the cathedral's
   survival became something of a local symbol. Its bell tower, at 80
   metres, remains the tallest in Kharkiv.
+score: 7.8
 ---
 
 The Annunciation Cathedral is the oldest and most prominent Orthodox church in Kharkiv, its golden domes visible from much of the city centre. The present building dates from the 1880s and 1890s, replacing an 18th-century predecessor, and was designed in the Ukrainian Baroque style with Neoclassical elements — a mix that gives it a different character from the Russian Orthodox churches of Moscow and St Petersburg.

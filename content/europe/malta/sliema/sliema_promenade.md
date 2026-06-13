@@ -13,6 +13,7 @@ story: >
   crowded density of Valletta. Most of those villas are long gone, replaced
   by apartment blocks in the 1960s and 70s, but the promenade they created
   along the water's edge remains.
+score: 8.0
 ---
 
 The promenade along Triq ix-Xatt — locally just called "the front" — stretches from the Tigné peninsula in the north to the ferry terminal near the Strand, with uninterrupted views across Marsamxett Harbour to the honey-coloured bastions of [Valletta](/europe/malta/valletta). It is best at sunset, when the light turns the fortifications gold and the harbour fills with silhouettes of the ferries crossing back and forth.

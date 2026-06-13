@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 39.2895
 longitude: 16.2535
+score: 7.4
 ---
 
 The Museo dei Brettii e degli Enotri occupies a 19th-century palazzo in the old town and covers the pre-Roman archaeology of the Cosenza region. The Bruttii were the Oscan-speaking people who dominated northern Calabria before the Roman conquest, and their material culture — coins, pottery, metalwork, votive objects — forms the core of the collection.

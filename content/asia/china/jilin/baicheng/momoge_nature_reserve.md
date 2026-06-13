@@ -9,6 +9,7 @@ latitude: 45.8500
 longitude: 123.1500
 story: >
   Momoge sits on the Nenjiang River floodplain and its enormous shallow lakes and reed marshes host one of the largest breeding populations of Oriental white storks in China — a species so rare that each individual bird has been tracked and named by Chinese conservationists. The storks, which stand nearly a metre tall and nest in dead trees at the water's edge, give the reserve an otherworldly quality in spring.
+score: 8.5
 ---
 
 The Momoge National Nature Reserve covers 1,440 square kilometres of rivers, islands, swamps, and grassland along the Nenjiang River system northwest of Baicheng. With 193 recorded bird species, it is one of the richest wetland habitats in northeast China — a fact explained by its position at the junction of three distinct ecosystem types: Manchurian forest, Mongolian steppe, and the great Nenjiang floodplain.

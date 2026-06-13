@@ -8,6 +8,7 @@ latitude: 52.0400
 longitude: 0.7200
 story: >
   The landscape of the Stour Valley was already famous before Constable painted it. Gainsborough grew up here and painted the river and the water meadows as a teenager, more than two decades before Constable was born. The two painters knew each other slightly in London — Constable admired Gainsborough's landscapes and said so — but it is a curious fact that they both found the same stretch of river to be the most paintable in England.
+score: 8.2
 ---
 
 The Stour Valley Path is a 100-kilometre long-distance walking route from Newmarket to Cattawade, following the River Stour through a landscape that has changed remarkably little since the eighteenth century. The section around Sudbury and downstream toward Flatford Mill — John Constable's territory — is the most visited, and deservedly so.

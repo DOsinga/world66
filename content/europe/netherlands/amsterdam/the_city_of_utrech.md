@@ -6,6 +6,7 @@ tags:
 - day_trips
 latitude: 52.0907
 longitude: 5.1214
+score: 6.8
 ---
 
 Utrecht sits just 45 minutes by train from Amsterdam and repays an easy day trip. The city's canals are unlike Amsterdam's — they run at a lower level than the street, with wharf cellars built into the banks that now house cafes and restaurants. Walk along the Oudegracht (Old Canal) and you can sit at water level, looking up at the medieval facades above you.

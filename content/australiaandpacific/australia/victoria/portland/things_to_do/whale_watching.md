@@ -8,6 +8,7 @@ tags:
 - wildlife
 - whale_watching
 snippet: One of Australia's best shore-based whale watching spots, June to August
+score: 8.5
 ---
 
 Portland Bay is considered one of the finest shore-based whale watching locations in Australia. Southern right whales visit the bay each winter — typically June through August — to calve in the calm, sheltered waters near the shore. The whales come remarkably close to land, and sightings from the Lee Breakwater, the foreshore, and the clifftops above the bay are reliable during peak season.

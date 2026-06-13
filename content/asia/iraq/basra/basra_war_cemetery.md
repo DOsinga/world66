@@ -7,6 +7,7 @@ tags:
 latitude: 30.53094
 longitude: 47.8202
 story: "Basra War Cemetery contains the graves of nearly 3,000 Commonwealth soldiers who died in Mesopotamia during World War One. The British campaign in Mesopotamia, launched to secure oil supplies and outflank the Ottomans, became one of the war's most disastrous — a British force of 13,000 was besieged at Kut in 1916 and eventually surrendered, the largest British capitulation since Yorktown."
+score: 6.3
 ---
 
 The Basra War Cemetery is a Commonwealth War Graves Commission cemetery containing the graves of soldiers who died during the First World War Mesopotamian Campaign. Thousands of British, Indian, and Commonwealth troops fought and died in the region between 1914 and 1918 in the effort to advance on Baghdad along the Tigris valley, and the cemetery stands as a meticulously maintained record of that cost.

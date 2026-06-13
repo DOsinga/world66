@@ -9,6 +9,7 @@ latitude: 41.6444
 longitude: 22.4566
 sources:
   - https://en.wikipedia.org/wiki/Radovi%C5%A1
+score: 6.3
 ---
 
 The Church of St. Ilija (Свети Илија) is one of the older Orthodox churches in Radoviš, sitting in the older residential quarter north of the main square. It has the sturdy, low-slung profile typical of Macedonian churches built during the Ottoman period, when church builders could not construct towers or facades that would overshadow mosques, and had to embed their churches discreetly into the urban fabric.

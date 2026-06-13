@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - diving
+score: 8.1
 ---
 
 A series of overhangs and small caves cut into the reef wall along the eastern side of Vaadhoo Kandu, the channel that separates North and South Malé Atolls. The dive runs along the wall at around 20–25 metres, working in and out of the cuts, where soft corals, sea fans, and squirrelfish fill every crevice.

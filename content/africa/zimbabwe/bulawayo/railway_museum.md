@@ -8,6 +8,7 @@ latitude: -20.1636
 longitude: 28.5742
 story: >
   One of the museum's prized exhibits is the locomotive that pulled Cecil Rhodes's personal funeral train from Cape Town to Bulawayo and then to the Matobo Hills in 1902. The carriage used on that final journey is also preserved here — a piece of late Victorian railway equipment that outlasted the empire it helped build.
+score: 6.6
 ---
 
 The Bulawayo Railway Museum, located at the railway station, is one of the most charming small museums in Zimbabwe. It celebrates the role of the railway in opening up Matabeleland — first as a colonial tool, then as the economic lifeline of a region without sea ports. The collection of vintage locomotives includes some magnificent early 20th-century steam engines, lovingly maintained and displayed outside on the tracks.

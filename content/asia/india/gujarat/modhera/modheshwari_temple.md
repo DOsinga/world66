@@ -8,6 +8,7 @@ latitude: 23.58340
 longitude: 72.14540
 sources:
   - https://en.wikipedia.org/wiki/Modheshwari_Temple,_Modhera
+score: 6.0
 ---
 
 The Modheshwari Mata Temple is an active Hindu temple dedicated to the goddess Modheshwari, the patron deity of the Modhera region. Unlike the nearby Sun Temple — which has been a protected monument since the colonial period and no longer functions as a place of worship — this temple is very much alive, with daily pujas and a stream of local devotees. The goddess is considered the mother deity of the Modh Brahmin community, one of the traditional priestly lineages of Gujarat.

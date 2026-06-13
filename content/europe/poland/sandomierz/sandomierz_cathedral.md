@@ -14,6 +14,7 @@ story: >
   the Old and New Testament with an Eastern European intensity that is quite different from 
   the courtly refinement of Western baroque church decoration. The vibrant colours have 
   survived largely intact for over three centuries.
+score: 8.8
 ---
 
 The Cathedral Basilica of the Nativity of the Blessed Virgin Mary is a Gothic structure from the 1360s, built under Casimir the Great on the site of an earlier Romanesque church. The exterior is relatively plain, but the interior contains one of Poland's most unusual sets of church paintings.

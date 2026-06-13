@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 5.9433
 longitude: 10.2483
+score: 7.2
 ---
 
 A pair of small volcanic crater lakes east of Bamenda, at about 2,200 metres elevation, surrounded by montane grassland and small fields. The walk down to the lakes from the village of Bambili is short but steep; on a clear day there are views back to Bamenda and out to Mount Oku.

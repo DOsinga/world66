@@ -10,6 +10,7 @@ tags:
 - sight
 - outdoor
 story: The hill was once heavily forested with native trees; eucalyptus and pine were planted later as the city expanded. The Mirador Alemán at the top was named for the German-Chilean families who funded the lookout in the 1920s — they wanted somewhere to walk on a Sunday afternoon that felt like home.
+score: 7.8
 ---
 
 Cerro Caracol rises directly behind the city centre and is the easiest piece of nature reachable on foot from Concepción's downtown. Trails — paved and dirt — wind up through eucalyptus and native quillay to a series of miradores looking back over the city, the Biobío river, and on a clear day all the way to the coastal range.

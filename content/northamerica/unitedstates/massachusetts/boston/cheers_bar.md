@@ -10,6 +10,7 @@ tags:
 title: Cheers Beacon Hill (Bull & Finch)
 type: poi
 url: www.cheersboston.com
+score: 5.3
 ---
 
 The Bull & Finch Pub on Beacon Street was a quiet neighbourhood bar in 1981 when the producers of a new NBC sitcom came scouting for a Boston bar to base their fictional Cheers on. Forty years on, the name has officially changed and the place is wall-to-wall tourists most days of the week.

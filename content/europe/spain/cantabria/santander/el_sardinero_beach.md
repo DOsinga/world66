@@ -15,6 +15,7 @@ story: >
   beachfront in 1900 were as grand as anything in Biarritz or Deauville. The
   promenade still has traces of this Belle Époque confidence, even if the crowd
   is now more democratic.
+score: 7.5
 ---
 
 El Sardinero is a broad, golden-sand beach stretching for nearly 1.5 km along Santander's Atlantic-facing coast, separated from the old city by the Magdalena Peninsula. It was the fashionable bathing resort of the 19th century, and the line of elegant villas, hotels, and the gran casino that overlooks it from the hill still gives the area a certain faded grandeur. The beach itself is clean and well-maintained, with calm surf by Atlantic standards — good for swimming, though the water is cool even in summer.

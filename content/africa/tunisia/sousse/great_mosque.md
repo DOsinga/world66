@@ -9,6 +9,7 @@ title: Great Mosque of Sousse
 type: poi
 story: >
   The Great Mosque was built in 851 CE at the direct order of the Aghlabid emir, who modelled its layout deliberately on the Ribat next door — giving a mosque the defensive silhouette of a fortress. This blurring of sacred and martial architecture was intentional: in a city that had only recently been taken from the Byzantines, the mosque announced permanent Islamic presence as forcefully as a military fortification would.
+score: 8.5
 ---
 
 The Great Mosque of Sousse is one of the most important early Islamic monuments in North Africa. Founded in 851 CE during the Aghlabid period, it is architecturally unusual: rather than following the typical courtyard-and-minaret model, it has the boxy, crenellated exterior of a fortified ribat. The minaret is recessed rather than standing free, and the overall impression from outside is less of a place of worship than of a citadel.

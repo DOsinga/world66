@@ -8,6 +8,7 @@ tags:
 latitude: 55.4894
 longitude: 8.4117
 story: "The harbour seals are the unannounced stars of the museum. Twice a day at feeding time the keepers tell their backstories one by one — orphaned, blind, washed ashore as pups — while the audience presses against the glass. Several of the seals have been here for over twenty years and recognise their handlers' voices."
+score: 8.7
 ---
 
 The Fisheries and Maritime Museum (Fiskeri- og Søfartsmuseet) sits on the seafront a couple of hundred metres from the Men at Sea sculpture, and most visitors take in both on the same trip. It is a serious museum despite the family-friendly seal pool out front: the permanent exhibitions trace North Sea fishing from the Viking era to the present, with reconstructed deck cabins, scale models, and a startling amount of information about herring.

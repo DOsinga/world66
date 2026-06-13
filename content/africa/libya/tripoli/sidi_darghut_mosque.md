@@ -14,6 +14,7 @@ story: >
   Barbarossa in the 1540s and served as governor of Tripoli from 1553 until his death
   besieging Malta in 1565 — the same siege where the Knights of St John famously held out
   against the Ottoman fleet.
+score: 7.3
 ---
 
 The Sidi Darghut Mosque stands inside the old medina near the Red Castle and takes its name from Darghut Pasha, the 16th-century Ottoman corsair commander and governor of Tripoli. His tomb is incorporated into the mosque complex, making it a pilgrimage site as well as a place of worship.

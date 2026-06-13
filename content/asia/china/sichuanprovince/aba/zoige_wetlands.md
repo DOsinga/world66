@@ -14,6 +14,7 @@ story: >
   and a critical carbon store. The Yellow River's first meanders originate here —
   a fact that makes these seemingly remote grasslands hydrologically vital to
   hundreds of millions of people downstream.
+score: 7.7
 ---
 
 North of Aba town, the plateau opens into the vast Zoige grasslands — a high-altitude wetland at around 3,400 metres that ranks as one of the most important ecosystems on the Tibetan Plateau. The landscape is startlingly flat after the mountains to the south: a treeless expanse of cropped grass, meandering rivers, and shallow lakes that fills with migratory waterfowl in spring and autumn. Herds of yak and horses graze here under enormous skies.

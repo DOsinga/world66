@@ -10,6 +10,7 @@ longitude: -114.1000
 snippet: "The largest natural freshwater lake west of the Mississippi, at Bigfork's doorstep"
 story: >
   Flathead Lake sits in a glacially carved valley and is so large — 30 miles long and 15 miles wide — that it creates its own microclimate. The eastern shore, running south from Bigfork, is Montana's only fruit-growing region, and the wild cherries that ripen here in July have been famous since the first white settlers arrived. Roadside stands appear all along the lakeshore in cherry season, and the fruit is sold across Montana.
+score: 8.2
 ---
 
 Bigfork sits at the northeastern corner of Flathead Lake, the largest natural freshwater lake west of the Mississippi River. The lake stretches 30 miles to the south and is so clear and cold that it remains excellent for swimming, kayaking, sailing, and fishing throughout the summer.

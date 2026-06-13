@@ -13,6 +13,7 @@ story: >
   which could sustain the garrison through sieges that would have broken a less well-prepared
   stronghold. Besieging armies that could not force the gate reportedly gave up and moved on,
   leaving Thola to its heights.
+score: 8.8
 ---
 
 The fortress of Thola occupies the highest point of the hilltop, its stone walls merging with the natural rock so completely that from a distance it is hard to tell where the mountain ends and the fortification begins. The site has pre-Islamic Himyarite origins — the Himyarites were the dominant power in south Arabia before the seventh century — and the structure was modified and expanded across many subsequent centuries. What stands today is an accumulation of different periods of construction, all of them shaped by the same underlying logic: hold the high ground, control the water, make assault too costly to attempt.

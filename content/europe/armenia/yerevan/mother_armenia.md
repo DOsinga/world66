@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "The 22-metre statue replaced a colossal Stalin in 1962. The Stalin, by sculptor Sergey Merkurov, was the largest statue of the dictator in the Soviet Union; when it was lowered, three workers died and a hundred more were injured."
+score: 7.2
 ---
 
 A 22-metre statue of a sword-wielding woman atop a pedestal that once carried a colossal Stalin, looking out over the city from the high northern ridge of Yerevan. The figure represents Mother Armenia — a Soviet motif of defiant maternal womanhood that took on a particularly Armenian flavour here after the original Stalin was dismantled in 1962.

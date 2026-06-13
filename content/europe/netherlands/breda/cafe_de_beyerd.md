@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, bar]
 latitude: 51.5876
 longitude: 4.7758
+score: 6.3
 ---
 
 Café De Beyerd is one of Breda's classic brown cafes, occupying a historic building near the Grote Kerk. It serves an extensive selection of Belgian and Dutch beers in the informal, wood-panelled interior that the Dutch call a bruine kroeg — a brown pub, named for the tobacco-stained walls of an earlier era.

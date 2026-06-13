@@ -13,6 +13,7 @@ type: poi
 url: narodni-divadlo.cz
 story: >
   The world premiere of Mozart's Don Giovanni took place here on 29 October 1787, conducted by Mozart himself. Prague, unlike Vienna, gave him the enthusiastic reception he craved. He said of Prague: "My Praguers understand me." The film Amadeus used the Estates Theatre for its interior opera scenes.
+score: 8.3
 ---
 
 The Estates Theatre is the best-preserved 18th-century opera house in Central Europe, and one of the few opera venues in the world little changed from Mozart's time. The neo-classical building opened in 1783 and hosted the premiere of Don Giovanni four years later, with Mozart conducting from the harpsichord.

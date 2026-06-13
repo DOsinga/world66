@@ -8,6 +8,7 @@ story: >
   Hórreos are granaries built on stilts specifically designed to keep vermin out and allow air to circulate around stored corn. In most of Galicia they stand in fields or beside farmhouses, but in Combarro the fishermen and farmers built them right to the water's edge, so they appear to float above the Ría de Pontevedra at high tide. It's one of the most photographed scenes in Galicia.
 sources:
   - https://en.wikipedia.org/wiki/Combarro
+score: 9.2
 ---
 
 The line of hórreos along the Combarro waterfront is the image that brings most visitors here. These raised stone granaries — built on mushroom-shaped staddle stones to prevent rats from climbing the legs — edge right to the shoreline of the Ría de Pontevedra, creating a scene utterly unlike anywhere else in Spain.

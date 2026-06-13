@@ -12,6 +12,7 @@ tags:
 title: Mucha Museum
 type: poi
 url: mucha.cz
+score: 7.0
 ---
 
 Alphonse Mucha was Czech, and the museum devoted to his work is a surprisingly intimate space a short walk from Wenceslas Square. The collection includes original Art Nouveau posters — many of them the theatrical advertisements for Sarah Bernhardt that made his name in 1890s Paris — alongside drawings, pastels, photographs, and personal objects.

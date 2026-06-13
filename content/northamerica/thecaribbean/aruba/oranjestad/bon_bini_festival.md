@@ -11,6 +11,7 @@ story: >
   has been held in the courtyard of Fort Zoutman every Tuesday evening since 1981. It was
   established partly in response to the growth of mass tourism — an attempt to give visitors
   a genuine encounter with Aruban music, dance, and crafts rather than a hotel lobby version.
+score: 7.2
 ---
 
 The Bon Bini Festival is a weekly event held every Tuesday evening in the courtyard of Fort Zoutman, Oranjestad's oldest building. It is one of the most accessible introductions to Aruban culture: local musicians play tumba and waltz, folkloric dance groups perform, artisans sell locally made craft items, and food stalls offer snacks and drinks. The atmosphere is cheerful and entirely unpretentious.

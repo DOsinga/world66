@@ -8,6 +8,7 @@ tags:
 latitude: 31.4180
 longitude: -64.1855
 neighbourhood: Centro
+score: 6.2
 ---
 
 A narrow tasting-menu restaurant on Calle Arturo M. Bas, widely considered the city's most ambitious kitchen. Chef Javier Rodriguez runs short multi-course menus drawn from Argentine ingredients with international technique.

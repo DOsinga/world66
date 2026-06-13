@@ -7,6 +7,7 @@ tags:
   - sight
 title: Shrine of Rabi'a Balkhi
 type: poi
+score: 4.4
 ---
 
 Rabi'a Balkhi is venerated as the first woman to compose poetry in the Persian language — a distinction that makes her a founding figure in one of the great literary traditions of the world. She lived in the 9th or 10th century, the daughter of a governor of Balkh, and according to tradition was killed by her brother for falling in love with a Turkic slave. Her poetry is passionate, personal, and remarkably direct for its era.

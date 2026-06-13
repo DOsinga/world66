@@ -8,6 +8,7 @@ snippet: Renaissance shipowners' guildhall, still operating as a traditional res
 tags:
 - things_to_do
 - food
+score: 7.8
 ---
 
 The Haus der Schiffergesellschaft on Breite Straße opposite the Rathaus is the original 1535 guildhall of the Lübeck shipowners' fraternity. The narrow hall behind the gabled brick facade has the original long wooden benches, the carved oak gallery, ship models hanging from the rafters, and stained-glass coats of arms in the leaded windows.

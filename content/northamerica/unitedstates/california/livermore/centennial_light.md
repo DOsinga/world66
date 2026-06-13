@@ -9,6 +9,7 @@ tags:
 - landmark
 title: Centennial Light
 type: poi
+score: 6.3
 ---
 
 The world's longest-continuously-burning lightbulb, hanging in the engine room of Livermore Fire Station 6 since 1976 — and burning since 15 June 1901, when it was first switched on at the Livermore fire department's earlier premises. The Guinness Book of Records, Ripley's Believe It or Not and the BBC have all confirmed its status.

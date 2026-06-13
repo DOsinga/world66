@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 29.9584
 longitude: -90.0644
+score: 9.8
 ---
 
 The French Quarter — Vieux Carré, the Old Square — is the oldest neighbourhood in New Orleans and the neighbourhood most people come to see. Despite the name, most of what you see was built by the Spanish after the great fires of the late eighteenth century destroyed the original French colonial buildings. The distinctive wrought-iron lace balconies, the coloured stucco facades, the hidden courtyard gardens — this is Spanish colonial New Orleans wearing a French name.

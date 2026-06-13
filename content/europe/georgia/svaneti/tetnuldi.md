@@ -14,6 +14,7 @@ story: >
   documented what local guides had always known about the terrain. The
   mountain's name in Svan means roughly "the White One," referring to
   the permanent snow on its north face.
+score: 7.9
 ---
 
 Tetnuldi is a prominent peak of 4,858 metres in the central Caucasus, visible from most of the Svaneti valley on clear days. It rises above the village of Mestia to the northeast, its south face visible as a massive rock wall above the tree line. Below the summit, the Tetnuldi ski area (on the southwest slopes at 2,900-3,200 metres) is the highest ski resort in Georgia, with modern lift infrastructure built in 2016 and good intermediate skiing in powder snow.

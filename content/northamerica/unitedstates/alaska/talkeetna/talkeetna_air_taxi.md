@@ -11,6 +11,7 @@ url: "https://www.talkeetnaair.com"
 latitude: 62.3206
 longitude: -150.0936
 snippet: Glacier landings and Denali summit circuits from Talkeetna Airport
+score: 9.4
 ---
 
 Talkeetna Air Taxi traces its roots to Don Sheldon, one of Alaska's most celebrated bush pilots, who pioneered glacier flying on Denali in the mid-20th century. The company now operates wheeled and ski-equipped planes out of Talkeetna Airport for flightseeing tours, glacier landings, and mountaineer drop-offs on Denali's southeast fork of the Kahiltna Glacier.

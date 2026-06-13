@@ -13,6 +13,7 @@ story: >
   looted the tomb in 1928, he found the emperor's body remarkably preserved after
   nearly 150 years — and proceeded to strip it of every jewel before dumping the
   remains on the floor.
+score: 8.6
 ---
 
 The Yuling mausoleum of the Qianlong Emperor is the most architecturally extraordinary burial at the Eastern Qing Tombs. Above ground, the processional sequence follows the standard imperial template: a spirit way lined with stone animals and officials, ceremonial gates, and offering halls. It is impressive but familiar. The revelation comes when you descend 54 metres underground through a series of marble vaulted chambers.

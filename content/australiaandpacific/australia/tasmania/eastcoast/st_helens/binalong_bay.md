@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - beaches
+score: 8.1
 ---
 
 Binalong Bay is the southern gateway of the Bay of Fires — a small settlement of holiday houses 10 km north of St Helens, with a sealed road, a café, and the easiest direct access to the orange boulders. The beach in front of the village is sheltered, swimmable in summer, and a textbook example of the lichen-painted granite.

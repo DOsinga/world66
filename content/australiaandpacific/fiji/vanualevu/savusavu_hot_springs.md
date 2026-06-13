@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: Geothermal vents on the Savusavu waterfront
+score: 6.8
 ---
 
 The hot springs of Savusavu are not a spa complex or a tourist facility — they are simply geothermal vents that push scalding water up through cracks in the rock along the main waterfront road. You can walk past them any time; the steam is visible in the morning and the heat is palpable if you hold a hand close. Locals use the most accessible vents to cook food, wrapping taro or cassava in leaves and lowering it into the water.

@@ -12,6 +12,7 @@ story: The Pozo de Yanayacu legend holds that a bishop — described in local lo
   water to spring from it, saving the early Spanish settlement from drought. The well
   became a sacred site and the water has never dried up in the centuries since. The
   name "Yanayacu" means "black water" in Quechua.
+score: 5.2
 ---
 
 The Pozo de Yanayacu (Well of Yanayacu) is a historic spring and well on the outskirts of Chachapoyas, associated with a legend about a powerful 17th-century bishop who summoned water from rock. The spring has been flowing continuously since colonial times and is considered both practically and spiritually significant to the city.

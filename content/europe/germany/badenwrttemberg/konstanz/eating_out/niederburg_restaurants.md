@@ -8,6 +8,7 @@ tags:
 neighbourhood: Niederburg
 latitude: 47.6638
 longitude: 9.1729
+score: 6.9
 ---
 
 The Niederburg is the oldest part of Konstanz — a dense tangle of medieval lanes between the cathedral and the Rhine outflow — and it holds the greatest concentration of eating options in the city. The streets are narrow enough that competing restaurants face each other across the cobbles, and in summer the whole area fills with outdoor tables.

@@ -5,6 +5,7 @@ tags:
   - shopping
 latitude: -17.8030
 longitude: 177.4163
+score: 4.7
 ---
 
 Jack's of Fiji on Main Street is the polished, fixed-price handicraft store at the centre of town — useful if you do not want to haggle and worth knowing about as a price benchmark. Bula shirts, sulu (wrap skirts), woven baskets, masi cloth, and souvenir kava bowls are all here, of better-than-average quality and at predictable prices.

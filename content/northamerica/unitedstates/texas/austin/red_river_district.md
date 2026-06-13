@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 30.2672
 longitude: -97.7358
+score: 8.0
 ---
 
 The Red River Cultural District, a few blocks east of the 6th Street entertainment strip, is Austin's most concentrated alternative and indie music zone — a cluster of smaller venues (Mohawk, Empire Control Room, Beerland, Barracuda) that book the artists and genres that don't fit the mainstream 6th Street programming. The crowd is younger, the music louder, and the bars cheaper than the nearby tourist corridor.

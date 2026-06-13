@@ -9,6 +9,7 @@ neighbourhood: Montpellier
 address: "24-26 Suffolk Road, Cheltenham GL50 2AQ"
 latitude: 51.8956
 longitude: -2.0820
+score: 6.5
 ---
 
 The most celebrated restaurant in Cheltenham and one of the best outside London, David and Helen Everitt-Matthias have held two Michelin stars here for over two decades — a record of consistency that few restaurants in Britain can match. The food is rooted in French technique but driven by seasonal British ingredients: game from local shoots, vegetables from nearby growers, foraged ingredients from the Cotswolds.

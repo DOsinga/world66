@@ -8,6 +8,7 @@ tags:
   - bar
 latitude: 50.3601
 longitude: 7.5983
+score: 6.2
 ---
 
 A working brewpub on Braugasse, in the heart of the Altstadt, brewing its own helles and dunkel on the premises. The food is straightforward Rhineland-brewery fare — schnitzel, bratwurst with sauerkraut, pretzel-and-cheese plates — at fair prices.

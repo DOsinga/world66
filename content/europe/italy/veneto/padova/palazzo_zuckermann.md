@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 45.4115
 longitude: 11.8782
+score: 6.0
 ---
 
 Palazzo Zuckermann is an early 20th-century building housing two separate collections: the Museum of Applied and Decorative Arts on the lower floors, and the Bottacin Museum on the upper floor. The decorative arts collection covers textiles, ceramics, metalwork, and furniture from the medieval period through the 19th century — a solid survey of Venetian craft traditions that complements the major art museums nearby.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Poniente Beach
 type: poi
+score: 7.3
 ---
 
 Poniente is the longer and slightly quieter of Benidorm's two main beaches, running for 3 km along the western side of the bay toward the Sierra Helada natural park. It attracts a more mixed crowd than Levante, with more families and Spanish visitors and fewer of the British hen and stag parties that characterise the other side of town.

@@ -8,6 +8,7 @@ tags:
 latitude: 38.6293
 longitude: -90.1797
 story: The Eads Bridge was the first to use steel as the primary structural material and the first to span the Mississippi at St Louis — a triple-arch design completed in 1874 against the predictions of leading engineers who thought such spans impossible. Fourteen workers died of decompression sickness during construction, the first major instance of the disease being scientifically documented.
+score: 7.7
 ---
 
 The Eads Bridge, designed by James Buchanan Eads and opened in 1874, was a stunning piece of engineering for its day — the first bridge to span the Mississippi below the confluence with the Missouri, the first major use of true steel rather than wrought iron in a structure, and the first significant use of pneumatic caissons in North America.

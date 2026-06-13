@@ -8,6 +8,7 @@ tags:
 neighbourhood: City Centre
 latitude: 43.5884
 longitude: -79.6434
+score: 6.5
 ---
 
 The open plaza wedged between the Civic Centre, the Living Arts Centre, and the YMCA is the city's central public space. In summer it hosts Tuesday markets, Friday night films and a packed schedule of cultural festivals — most notably Mississauga Latin Festival and Carassauga, the city's celebration of its many immigrant communities.

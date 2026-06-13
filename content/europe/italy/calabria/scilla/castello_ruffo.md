@@ -8,6 +8,7 @@ tags:
 - sight
 title: Castello Ruffo
 type: poi
+score: 8.7
 ---
 
 The castle stands on the dramatic promontory that separates Chianalea from Marina Grande, and the views in both directions justify a visit on their own — Sicily looming across the strait, the painted houses of Chianalea below, the long crescent of beach to the north. The site has been fortified since antiquity (this is, after all, the rock of Homer's Scylla); the present castle dates largely from the 16th-century reconstruction by the Ruffo family.

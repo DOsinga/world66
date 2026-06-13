@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 39.6408
 longitude: 22.4155
+score: 6.4
 ---
 
 The side streets around Larissa's old Turkish bazaar area — running between Frourio Hill and the central square — concentrate the city's best traditional tavernas. These are family-run places with grilled meats, mezedes, and Thessalian wine at prices well below what you would pay in Athens. The lamb and pork grills are consistently good, as are the salads made with local feta. Many of the tavernas have outdoor seating in the narrow lanes.

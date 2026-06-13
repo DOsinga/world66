@@ -8,6 +8,7 @@ tags:
   - ville_haute
   - sight
   - historical_site
+score: 7.9
 ---
 
 The lesser-known partner of the Bock Casemates, carved into the cliffs above the Pétrusse valley. The tunnels were originally Spanish work from 1644, then extended by the French under Vauban after 1684. They are smaller in scale than the Bock but more atmospheric, with the descent passing the old Beck Bastion and the powder magazines.

@@ -19,6 +19,7 @@ tags:
 tel: 02 47 57 20 97
 title: Pagode de Chanteloup
 type: poi
+score: 6.9
 ---
 
 A Chinese-style pagoda rising 44 metres above the ornamental gardens of a long-vanished chateau, about 3 km south of Amboise. Seven tiers, each smaller than the last, with a balcony at the top offering views over the surrounding forest and the Loire valley beyond. The gardens survive in reasonable shape and are pleasant for a walk. An unusual detour from the usual chateau circuit.

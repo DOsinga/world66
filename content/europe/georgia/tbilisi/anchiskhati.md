@@ -8,6 +8,7 @@ tags:
 - things_to_do
 title: Anchiskhati Basilica
 type: poi
+score: 8.1
 ---
 
 The Anchiskhati Basilica is the oldest surviving church in Tbilisi, built in the 6th century during the reign of King Dachi. Its name comes from the Anchi icon of the Saviour, a precious medieval work that was moved here from the Anchi fortress in southern Georgia for safekeeping.

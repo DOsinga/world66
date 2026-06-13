@@ -9,6 +9,7 @@ tags:
 title: City Buses
 type: poi
 url: www.atb.bergamo.it
+score: 3.8
 ---
 
 Bergamo's city bus network (ATB) is the main way to get around without a car. Tickets must be purchased before boarding — from the ATB office at Largo Porta Nuova, the train station, automatic machines, or the ticket window at the bus terminal (Stazione Autolinee). Validate your ticket on the machine inside the bus as soon as you board.

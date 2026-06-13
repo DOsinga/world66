@@ -8,6 +8,7 @@ tags:
 snippet: The city's combined museum, archive, gallery, and theatre
 latitude: 50.0411
 longitude: -110.6755
+score: 7.8
 ---
 
 The Esplanade is Medicine Hat's main cultural building — a 2005 structure on First Street that brings together the city's museum, archives, art gallery, and a 700-seat theatre under one curving roof. The architecture itself is worth a look: a glass-and-steel atrium with a sweeping public foyer that gives onto the bluff above the river.

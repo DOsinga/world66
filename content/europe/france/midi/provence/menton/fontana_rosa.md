@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 43.7856
 longitude: 7.5136
 story: "Blasco Ibáñez, who paid for the garden with the royalties from the Hollywood adaptation of The Four Horsemen of the Apocalypse, designed the ceramic decorations himself and intended the garden as a tribute to novelists and storytellers. He called it a garden 'dedicated to novels' — ceramic busts of Cervantes, Dickens, and Hugo still watch over the paths."
+score: 7.5
 ---
 
 Fontana Rosa is one of the Riviera's most unusual gardens: a flamboyant Spanish-Moorish fantasy created by the novelist Vicente Blasco Ibáñez — author of Blood and Sand and The Four Horsemen of the Apocalypse — in the 1920s. He covered it with Valencian ceramic tiles, colourful pergolas, fountains, and busts of his literary heroes.

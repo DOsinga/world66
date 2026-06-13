@@ -6,6 +6,7 @@ longitude: 100.3701
 tags:
   - eating_out
   - restaurant
+score: 6.8
 ---
 
 The local Padang-food chain has several branches across West Sumatra and one of the busiest is on Jalan Minangkabau just off the clock tower square. The rendang here is the benchmark: dry, dark, and so slow-cooked the beef shreds at a touch. Order it with gulai cubadak (jackfruit curry) and a bowl of dendeng balado (crispy thin-sliced beef in red chilli).

@@ -10,6 +10,7 @@ tags:
 - bar
 title: Osteria del Bugiardo
 type: poi
+score: 6.1
 ---
 
 A younger, livelier alternative to the more formal wine bars of the centre. Long zinc bar, benches along the wall, and a chalkboard list of Veneto wines by the glass. The aperitivo spread is generous. In the evenings it fills with a mix of Veronese students and visitors from the nearby hotels; the atmosphere is relaxed and unpretentious. On Corso Porta Borsari, one of the main pedestrian streets running west from Piazza Erbe, which makes it an easy stop at the end of an afternoon's sightseeing.

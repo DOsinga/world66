@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: 24.2900
 longitude: 120.7370
+score: 7.5
 ---
 
 The Houfeng Bikeway is a flat, family-friendly cycle path that runs along a disused railway line from Houli to Fengyuan in the north of Taichung. The route is about ten kilometres each way and crosses the Dajia River on a converted steel railway bridge with the bicycle deck added below the original tracks.

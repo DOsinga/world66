@@ -7,6 +7,7 @@ tags:
 address: "Crown Street, Wollongong NSW 2500"
 latitude: -34.4259
 longitude: 150.8942
+score: 7.4
 ---
 
 The Wollongong Art Gallery is one of Australia's larger regional galleries, with a strong permanent collection of Australian, Aboriginal, and Asian art and a programme of visiting exhibitions that keeps the rooms fresh. The building is a solid 1970s civic structure on Crown Street, close to the city centre.

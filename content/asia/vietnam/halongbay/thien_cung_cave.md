@@ -7,6 +7,7 @@ tags:
 latitude: 20.9145
 longitude: 107.0408
 story: "Thien Cung was only discovered in 1993, when a fisherman sheltering from a storm climbed up the cliff face and stumbled into an opening hidden by jungle. Vietnamese mythology was rapidly attached to the chamber shapes: the rocks were named after the dragon king Long Vuong, his bride Princess May, and a wedding feast attended by elephants, lions, and fish. The cave was opened to visitors in 1998, lit dramatically — and somewhat garishly — with coloured floodlights that locals will tell you reveal the mythological scenes more clearly."
+score: 6.5
 ---
 
 A spectacular limestone cave on Dau Go Island in the western part of the heritage zone, often visited on the same itinerary as the nearby Dau Go Cave. The chambers extend roughly 130 metres into the island and rise up to 20 metres high, packed with elaborate stalactite and stalagmite formations that have been given mythological names by Vietnamese guides.

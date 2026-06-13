@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: The main yacht harbour and departure point for most island tours
+score: 6.1
 ---
 
 Abel Point (formally Coral Sea Marina) is the main yacht harbour at the western end of town, about a kilometre from the Lagoon along the foreshore boardwalk. It is the departure and return point for most of the Whitsunday sailing tours, dive boats, and the bareboat charter fleet that gives the region its sailing reputation.

@@ -10,6 +10,7 @@ tags:
   - eating_out
   - restaurant
   - downtown
+score: 7.3
 ---
 
 Café Poca Cosa is the city's best modern Mexican restaurant — owned and run for forty years by chef Suzana Davila. The menu changes twice a day; it is written on a portable chalkboard the server brings to your table. Ask for "Plato Poca Cosa" and you get a sampler of three of the day's mains.

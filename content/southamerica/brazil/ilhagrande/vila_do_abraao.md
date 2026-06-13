@@ -8,6 +8,7 @@ latitude: -23.1396
 longitude: -44.1738
 sources:
   - https://en.wikipedia.org/wiki/Vila_do_Abra%C3%A3o
+score: 7.0
 ---
 
 Vila do Abraão is the only real settlement on Ilha Grande, sitting on a long sandy bay on the island's north coast. About 3,000 people live here year-round, and several times that many pour through during the peak summer months. Despite the foot traffic, Abraão has held onto its low-rise, low-key character: no buildings taller than three storeys, no chain stores, no car horns.

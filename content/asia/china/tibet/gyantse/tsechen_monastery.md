@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 28.9402
 longitude: 89.5572
+score: 6.6
 ---
 
 About 5 km northwest of Gyantse, the ruins of Tsechen Monastery sit in a remote valley away from the main tourist circuit. The monastery was one of the most important in the region before the Cultural Revolution reduced it to rubble — only partial restoration has since taken place.

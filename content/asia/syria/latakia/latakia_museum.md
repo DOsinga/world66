@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 35.5310
 longitude: 35.7975
+score: 7.5
 ---
 
 The Latakia Regional Museum is housed in the old Khan al-Dukhan, a caravanserai that once served merchants trading along the Syrian coast. The building itself is worth a look: a series of vaulted stone rooms arranged around a central courtyard, with the slightly battered grandeur of a structure that has served many purposes over several centuries.

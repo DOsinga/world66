@@ -9,6 +9,7 @@ tags:
 - downtown_phoenix
 title: Wells Fargo History Museum
 type: poi
+score: 6.7
 ---
 
 This small, free museum on the ground floor of the Wells Fargo bank tower on Adams Street is a pleasant half-hour stop if you happen to be in downtown Phoenix. The centrepiece is an original nineteenth-century Concord stagecoach — restored, complete with leather thoroughbraces, exactly the sort that rumbled across Arizona before the railroad. Around it the displays cover the routes, the express agents, and the famous Wells Fargo strongbox.

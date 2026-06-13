@@ -8,6 +8,7 @@ latitude: 13.8147
 longitude: 100.0969
 story: >
   Phra Prathon Chedi predates the larger Phra Pathom Chedi as an ancient stupa — it is believed to be one of the oldest in Thailand, possibly dating back over 1,500 years to the Dvaravati period. The name Pathom in Phra Pathom Chedi means "first" in Pali, but Phra Prathon, a few kilometres away, may actually be the older structure. Archaeological evidence suggests this site was in use as a Buddhist pilgrimage centre before the taller chedi was built.
+score: 7.9
 ---
 
 Phra Prathon Chedi is a large Dvaravati-era Buddhist stupa in the eastern part of Nakhon Pathom town, standing 50 metres high and considerably older than the famous Phra Pathom Chedi a few kilometres to the west. The structure has been restored and rebuilt many times over the centuries, but its core dates to the first millennium CE, making it among the earliest Buddhist monuments in mainland Southeast Asia.

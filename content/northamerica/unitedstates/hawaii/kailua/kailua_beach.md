@@ -5,6 +5,7 @@ tags: [things_to_do, sight, beaches]
 latitude: 21.3920
 longitude: -157.7251
 story: "Kailua Beach was repeatedly voted America's best beach in the 1990s by coastal scientist Stephen Leatherman ('Dr Beach'), which contributed to the explosion of tourism here. The reaction from residents — who pushed through a ban on tour buses and beach umbrella rentals — has shaped the town ever since."
+score: 8.6
 ---
 
 Kailua Beach stretches for about 4 km along a perfect crescent bay, with powder-soft white sand, turquoise water, and the green Koolau mountains rising behind. The surf is gentle, the trade winds are reliable, and offshore reefs keep the swells from breaking too hard — which makes the beach ideal for swimming, paddleboarding, kayaking, and learning to windsurf or kitesurf.

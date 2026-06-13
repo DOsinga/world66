@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 52.0537
 longitude: 1.1548
+score: 6.3
 ---
 
 One of Ipswich's dozen surviving medieval churches, St Peter's near the Waterfront is worth a look for its flint-work exterior and the contrast it provides to the converted warehouses around it. The church dates from the 14th century and was built using the knapped flint that is characteristic of East Anglian ecclesiastical architecture — a technique that produces a shimmering, mosaic-like wall surface.

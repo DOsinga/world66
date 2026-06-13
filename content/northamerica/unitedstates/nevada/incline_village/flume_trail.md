@@ -6,6 +6,7 @@ longitude: -119.9309
 tags:
   - things_to_do
   - sight
+score: 9.0
 ---
 
 The Flume Trail is a 14-mile out-and-back (or point-to-point with a shuttle) mountain-bike route that runs along a shelf carved into the cliffs above Lake Tahoe's east shore, at elevations between 7,000 and 8,000 feet. The trail follows the path of a 19th-century wooden flume that carried water to the silver-mining towns of the Comstock Lode. For most of its length it is a narrow singletrack cut into near-vertical granite, with Lake Tahoe 2,000 feet below on one side and pine forest rising on the other.

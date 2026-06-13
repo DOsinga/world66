@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - museum
+score: 7.3
 ---
 
 A 17-hectare ethnographic park behind the beach, with relocated 19th- and early 20th-century coastal Latvian buildings — fishermen's cottages, smokehouses, sauna huts, a windmill, and an anchor museum that genuinely deserves a visit (some of the oldest hand-forged anchors in northern Europe).

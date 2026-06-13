@@ -14,6 +14,7 @@ tags:
   - museum
 title: Luoyang Museum
 type: poi
+score: 8.4
 ---
 
 The Luoyang Museum houses one of the best collections of artefacts from ancient imperial China outside of Beijing and Xi'an. The permanent exhibition covers the city's thirteen-dynasty history in chronological order, moving from neolithic Yangshao culture through the Han, Wei, and Tang Dynasties to the later imperial periods. The bronze vessels, jade objects, and ceramic figures on display span three thousand years without feeling repetitive.

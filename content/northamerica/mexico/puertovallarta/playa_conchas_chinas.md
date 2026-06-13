@@ -7,6 +7,7 @@ tags:
 - beach
 title: Playa Conchas Chinas
 type: poi
+score: 7.0
 ---
 
 A small, partly hidden cove beach immediately south of Playa Los Muertos, on the road toward Mismaloya. Granite outcrops divide the shore into a series of small sandy pockets and pools. At low tide the tidepools fill with sea urchins, small fish and the curved snail shells (conchas chinas — "Chinese shells") that give the beach its name.

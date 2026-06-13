@@ -10,6 +10,7 @@ tags:
 snippet: Remote lagoon where the Namib's giant dunes meet the Atlantic
 story: >
   The lagoon was once a busy whaling and fishing harbour; the name comes from a small English whaling ship that anchored here in the 1780s. The freshwater seeps that drained into it have been swallowed by the advancing dunes, ending its commercial life — but creating one of the most surreal seascapes on Earth.
+score: 9.5
 ---
 
 Sandwich Harbour is the great wilderness sight south of Walvis Bay. It lies about 40 km down the coast inside the Namib-Naukluft Park: a long, sheltered lagoon where the dunes of the Namib desert plunge straight into the Atlantic surf. Some of the dunes stand over a hundred metres high, their crests almost overhanging the water. The lagoon attracts huge bird populations — flamingos, pelicans, black-backed jackals patrolling the shoreline — and feels like a place at the very end of the world.

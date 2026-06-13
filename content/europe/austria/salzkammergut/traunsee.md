@@ -14,6 +14,7 @@ story: >
   restored water quality to the point where the lake is now safe for swimming
   again — a recovery that took thirty years and is considered a model for
   industrial lake restoration.
+score: 8.3
 ---
 
 The Traunsee is the deepest lake in Austria, a narrow channel between limestone cliffs and wooded slopes running north-south for some 12 kilometres. The town of Gmunden at the northern end is the most pleasant base for exploring it, with a historic waterfront, a castle (Schloss Ort) built on a small island connected to the shore by a wooden bridge, and several restaurants specialising in Salzkammergut lake fish. The castle has been used as the location for an Austrian soap opera for decades and is recognisable to most Austrians.

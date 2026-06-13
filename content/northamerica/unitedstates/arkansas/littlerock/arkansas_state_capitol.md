@@ -12,6 +12,7 @@ story: >
   dome proportions. It took twenty-three years to build (1899–1915) and went
   significantly over budget, prompting a legislative investigation. The six
   bronze doors on the south entrance were made by Tiffany & Co.
+score: 7.8
 ---
 
 Arkansas's current state capitol sits on a hill at the western end of Capitol Avenue and is one of the more handsome capitol buildings in the South. Completed in 1915, it is modelled closely on the US Capitol in Washington, with a central dome, two wings, and a grand south-facing portico.

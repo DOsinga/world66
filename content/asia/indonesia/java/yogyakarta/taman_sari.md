@@ -13,6 +13,7 @@ story: >
   residents built homes directly on the old foundations and into the old courtyards. Parts of that village
   still exist within the palace walls today, making Taman Sari one of the rare heritage sites in the world
   where people still live inside the ruin.
+score: 8.4
 ---
 
 The Water Palace, built in the 1750s by Hamengkubuwono I, was a royal leisure complex of bathing pools, islands, and underground passages connected by canal. The sultans used it as a retreat and pleasure garden. Today, much of the compound is in attractive ruin, with some pools restored and parts of the old network of tunnels accessible to visitors.

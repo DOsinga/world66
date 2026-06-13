@@ -8,6 +8,7 @@ latitude: 46.6293
 longitude: 32.6105
 story: >
   The museum holds a collection of artefacts from the Black Sea Greek colonies that preceded Kherson, including amphorae, coins, and statuary. The city itself was founded in 1778 on a site where traces of much older settlement were visible — shipbuilders digging the first fortifications kept uncovering ancient pottery.
+score: 6.8
 ---
 
 The Kherson Local History Museum, founded in 1890, covers the natural history and human settlement of the lower Dnipro region from prehistoric times to the modern era. The archaeology galleries document the Scythian and Greek cultures that flourished in the Black Sea steppe, while later galleries cover the Cossack period and the city's founding under Catherine the Great.

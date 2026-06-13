@@ -8,6 +8,7 @@ tags:
 latitude: 16.3333
 longitude: -88.9000
 story: "Nim Li Punit means 'Big Hat' in Kekchi Maya — a reference to the elaborate headdress on the tallest stele at the site, which stands 9.2 metres high and is the tallest Maya stele ever found in Belize. It was erected in 721 AD to commemorate a ruler whose name is still being deciphered."
+score: 7.8
 ---
 
 A small but impressive Maya ceremonial site about 35 km north of Punta Gorda, near the village of Indian Creek. The site contains 25 carved stelae, the largest collection in southern Belize, and a small plaza with two intact ball courts. The Nim Li Punit Visitor Centre at the entrance has a good introductory museum covering the site and the Kekchi Maya communities of the Toledo district.

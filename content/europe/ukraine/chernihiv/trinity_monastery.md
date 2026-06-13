@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The Elias Cave Church is the oldest surviving cave church in Chernihiv — dug into the soft sandstone of Boldina Hill, it was part of a network of underground passages used by monks from at least the 12th century. Some scholars believe the cave network predates Christianity here and was used as a pagan ritual site before being taken over by Christian monks. The Trinity Monastery built above the cave church in the 17th century remains active, but you can visit the cave church below it during opening hours.
+score: 8.6
 ---
 
 The Trinity-Elias Monastery on Boldina Hill is the largest monastic complex in Chernihiv — a 17th-century baroque ensemble of churches, bell towers, and monastic buildings that crowns the same hill as the Black Grave burial mound, giving the park a strange double character of medieval Christianity and pre-Christian memory.

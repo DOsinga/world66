@@ -7,6 +7,7 @@ tags:
 latitude: 52.2756
 longitude: 8.0389
 story: "Libeskind designed the building so that windows never face the sky directly — you always see trees or walls but never open sky, mirroring Nussbaum's fate of never returning home."
+score: 8.8
 ---
 
 Felix Nussbaum was born in Osnabrück in 1904 into a prosperous Jewish merchant family. He became a painter, studied in Berlin and Hamburg, and was travelling in Italy on a fellowship when Hitler came to power in 1933 — which meant he could not go home. He spent the following decade moving between Belgium, France, and Spain, painting obsessively from hiding, before being arrested in Brussels in 1944 and deported. He was murdered at Auschwitz weeks before the liberation of the camp, aged forty.

@@ -14,6 +14,7 @@ story: >
   area requires an overnight permit and a stay at the mountain shelter;
   day hikes to the top are not allowed, a conservation measure to limit
   the total number of people at the summit zone.
+score: 9.2
 ---
 
 Daecheongbong is the highest peak in Seoraksan at 1,708 metres and the third highest mountain in South Korea. Summit access is regulated — visitors must book one of the limited permit spots and spend a night at the Jungcheong mountain shelter at 1,625 metres before ascending in the morning. The restriction keeps summit numbers manageable and preserves the alpine environment above the treeline.

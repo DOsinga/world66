@@ -7,6 +7,7 @@ tags:
 latitude: 40.5894
 longitude: -105.0742
 story: "Walt Disney's Imagineers reportedly visited Old Town Fort Collins in the early 1960s while designing Main Street USA at Disneyland. The broad, welcoming pedestrian streets and late-19th-century brick storefronts were exactly the idealized American town centre they wanted to recreate in California. Whether the connection is precisely documented is debated, but the resemblance is undeniable."
+score: 8.5
 ---
 
 Old Town is the heart of Fort Collins — the walkable, red-brick-and-wide-sidewalk district that gives the city its character. The core of it is along College Avenue and Mountain Avenue, where 19th-century commercial buildings have been converted into restaurants, bars, boutique shops, and the taprooms of several of the city's best-known breweries.

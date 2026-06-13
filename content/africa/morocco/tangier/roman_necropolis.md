@@ -8,6 +8,7 @@ tags:
 - history
 title: Phoenician and Roman Necropolis
 type: poi
+score: 7.8
 ---
 
 A series of rectangular tombs carved directly into the limestone bluffs above the sea, east of the medina near the kasbah. The site dates to the Phoenician and later Roman occupations of Tingis (as the city was then known), and the open graves once held the dead of the merchant community that traded across the strait. Many of the original grave goods are now displayed in the [Kasbah Museum](/africa/morocco/tangier/kasbah_museum).

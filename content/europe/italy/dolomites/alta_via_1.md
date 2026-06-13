@@ -13,6 +13,7 @@ story: >
   called it the "High Route" — it was one of the first long-distance mountain walks
   deliberately designed for recreational hikers rather than alpinists. It is now considered
   one of the finest long-distance walks in Europe.
+score: 9.2
 ---
 
 The Alta Via 1 (High Route 1) is a ten-stage long-distance walk through the Dolomites from Dobbiaco (Toblach) in the northeast to Belluno in the southwest, covering around 150km and passing through some of the range's most dramatic terrain. The route crosses the Tre Cime area, descends into the Val Badia, passes through the Cinque Torri, and follows high ridges and passes above the valley resorts for most of its length.

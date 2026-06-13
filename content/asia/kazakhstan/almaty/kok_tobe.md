@@ -9,6 +9,7 @@ tags:
   - viewpoint
 story: >
   The cable car to Kok Tobe was built in 1967 and became a landmark of Soviet Almaty — not for any ideological reason but because it gave ordinary citizens the most spectacular view of their city, framed against the snowfields of the Tien Shan. A statue of the Beatles stands at the summit, an improbable monument for this part of the world: it was placed here in 2007 by a Kazakh fan of the band, and has since become one of the city's most-photographed objects.
+score: 6.8
 ---
 
 Kok Tobe (Green Hill) is a 1,100-metre ridge on the eastern edge of the city, reached by a vintage cable car that departs from near the Hotel Kazakhstan on Dostyk Avenue. The journey takes about seven minutes and offers progressively better views as the city falls away below and the Tien Shan mountains fill the horizon to the south.

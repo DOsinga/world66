@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Lord North, a young courtier who discovered the spring in 1606 while riding home through the woods, was a hopeless alcoholic on the verge of collapse. After drinking the iron-rich water and reportedly recovering, he returned with a fanfare of London aristocrats — and Tunbridge Wells was invented."
+score: 7.8
 ---
 
 The chalybeate (iron-rich) spring at the top of the Pantiles is the founding event of Tunbridge Wells. Discovered by Lord North in 1606, by the mid-seventeenth century it was drawing royalty: Charles II's queen Henrietta Maria came in 1630, Queen Anne in 1697, Princess Victoria in the 1830s.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.5
 ---
 
 A monumental concrete arch and mausoleum on the southern outskirts, dedicated to soldiers killed defending Burkina Faso. The complex was built under President Blaise Compaoré in the 2010s and is one of the most ambitious public-art projects in the country — a sweeping curve flanked by smaller pavilions, with a long avenue leading up to it.

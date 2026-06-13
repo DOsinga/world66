@@ -7,6 +7,7 @@ tags:
   - sight
 title: Kitesurfing at Cumbuco Beach
 type: poi
+score: 9.4
 ---
 
 Cumbuco's beach is one of the best kitesurfing spots in the Americas. The trade winds blow reliably from the east and northeast for most of the year, with the strongest and most consistent conditions from August to December, when 10–14m kites handle the conditions comfortably. The beach is long enough to accommodate beginners and experienced riders without crowding, and the water is warm (around 23°C) year-round.

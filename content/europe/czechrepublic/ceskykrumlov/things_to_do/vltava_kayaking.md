@@ -8,6 +8,7 @@ tags:
   - cycling
 latitude: 48.8107
 longitude: 14.3163
+score: 7.8
 ---
 
 The Vltava river almost completely encircles the old town, and the best way to appreciate this geography is from the water. In summer, kayaking and rafting on the river are the most popular activities in Český Krumlov — rental outfits cluster near the river banks and the whole circuit around the old town takes an hour or two at a leisurely pace.

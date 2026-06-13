@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 35.5580
 longitude: 45.4405
+score: 6.6
 ---
 
 The Great Mosque of Sulaymaniyah (Mizgewt Gewre) is the main Friday mosque of the city, a large modern building completed in the early 2000s that replaced an earlier structure on the same site. The exterior is striking — a broad dome flanked by four minarets, clad in pale stone, set in a wide open plaza in the old city centre that gives a clear view from a distance.

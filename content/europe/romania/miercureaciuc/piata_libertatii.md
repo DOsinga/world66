@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, neighbourhood]
 latitude: 46.3600
 longitude: 25.8033
+score: 5.9
 ---
 
 The central Piața Libertății (Liberty Square; Szabadság tér in Hungarian) is the social heart of Miercurea Ciuc. The square is anchored by the modernist Town Hall to the east and the Civic Centre buildings to the south — Communist-era construction that swept away much of the older town centre but left a wide pleasant plaza with fountains, benches, and a colourful weekend market.

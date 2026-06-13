@@ -12,6 +12,7 @@ story: >
   army — the interior fighters, the exterior army, and the national navy. At the base
   stands a soldier, a farmer, and a worker — the three pillars of the post-independence
   state ideology.
+score: 6.7
 ---
 
 The Martyrs' Memorial (Maqam El Chahid) is the most prominent landmark on the Algiers skyline — three 90-metre concrete palm fronds converging above an eternal flame, visible from almost every point in the city. It was built to honour the 1.5 million Algerians who died in the War of Independence.

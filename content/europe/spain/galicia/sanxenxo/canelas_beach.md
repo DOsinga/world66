@@ -5,6 +5,7 @@ tags: [things_to_do, beaches, sight]
 snippet: "Small, scenic crescent of sand backed by pine woods"
 latitude: 42.3908
 longitude: -8.8353
+score: 7.0
 ---
 
 Praia de Canelas is the smaller, prettier neighbour of Montalvo — a 500-metre crescent of fine sand backed by pine forest. The water is clean and clear, the dune behind is intact, and the beach has held a Blue Flag for many years. Of the urban beaches in Sanxenxo municipality, this is the one to walk to if you want the picture-postcard feel.

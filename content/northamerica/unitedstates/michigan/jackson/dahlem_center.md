@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Nature preserve with trails through wetland and oak savanna"
+score: 6.7
 ---
 
 The Dahlem Center is a 300-acre nature preserve south-west of the city, with a network of marked trails through woodland, meadow, and restored oak savanna. The visitor centre runs naturalist-led walks and has a small exhibit hall on the local ecology and the long-running work to restore the savanna habitat — once common across southern Michigan, now almost entirely gone.

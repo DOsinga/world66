@@ -8,6 +8,7 @@ tags:
   - cuban
 latitude: 26.1195
 longitude: -80.1334
+score: 6.5
 ---
 
 Gran Forno is a Las Olas institution — a Cuban-Italian bakery and café that has been feeding the lunch crowd on this block for years. The bread is baked on the premises daily, and the Cuban sandwiches — pressed, layered with roast pork, ham, Swiss cheese, pickles, and mustard — are as good as any in Broward County. The medianoche (the softer, slightly sweeter cousin of the Cuban) is equally worth ordering. Go before noon or expect to wait.

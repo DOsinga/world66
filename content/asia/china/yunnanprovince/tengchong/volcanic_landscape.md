@@ -13,6 +13,7 @@ story: >
   recent in geological terms. The Chinese volcanologist who surveyed the region in the 1980s
   described Tengchong as "sleeping, not dead." This assessment has not discouraged anyone
   from living here.
+score: 7.5
 ---
 
 The Tengchong area contains around 97 volcanic cones of various sizes, and the Mazhan volcano group to the north of the city is the most visited. The main accessible crater, Mazhan, has a path to the rim that takes about 30 minutes from the base. The interior of the crater is densely forested — the last eruption was centuries ago and vegetation has completely colonised the interior — giving the climb a slightly surreal quality: you walk through subtropical trees to reach the lip of a volcanic cone and look down into a bowl of green.

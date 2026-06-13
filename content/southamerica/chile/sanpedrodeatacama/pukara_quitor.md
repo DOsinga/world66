@@ -15,6 +15,7 @@ story: >
   and angered — by the resistance that they beheaded their prisoners and
   mounted the heads on stakes outside the walls. The dry desert air has
   preserved the site remarkably well ever since.
+score: 7.8
 ---
 
 The Pukará de Quitor is a pre-Columbian fortress city perched on a rocky outcrop above the San Pedro River, about 3 kilometres north of town. Built by the Atacameño people in the 12th century, it was a genuine defensive stronghold: the stone walls follow the natural contours of the cliff, making the position almost impregnable. The views down the river valley and across to the volcanoes on the horizon are outstanding.

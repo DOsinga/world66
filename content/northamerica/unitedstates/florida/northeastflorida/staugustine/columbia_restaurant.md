@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 29.8938
 longitude: -81.3128
+score: 6.4
 ---
 
 A branch of the famous Tampa original — the oldest Spanish restaurant in Florida, founded in Ybor City in 1905 — the St. Augustine location serves the same Cuban-Spanish menu in a handsome building in the old city. The classics are here: the 1905 Salad tossed tableside with garlic, capers, and Worcestershire; Cuban black bean soup; palomilla steak; and the flaming Spanish coffee dessert. The cooking is old-fashioned in a good way, portions are generous, and the service is professional.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.4100
 longitude: 47.7200
+score: 6.8
 ---
 
 The Castle of Arshoq is a ruined fortress on a hilltop near Meshkinshahr, commanding sweeping views over the surrounding plain. The castle dates from the medieval period and sits on a dramatic rocky outcrop that made it naturally defensible. Much of the structure has crumbled but the essential form survives — walls, towers, and the remains of interior buildings that give a sense of the castle's scale and purpose.

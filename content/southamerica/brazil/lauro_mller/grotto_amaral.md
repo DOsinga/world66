@@ -6,6 +6,7 @@ longitude: -49.4150
 tags:
   - things_to_do
   - sight
+score: 5.4
 ---
 
 The Grotto of the Amaral is a small natural cave shrine accessible via the old road toward Orleans, a short distance from Lauro Müller. The grotto contains a Catholic chapel built into the rock face and is a local pilgrimage site, particularly on the feast of Our Lady of Aparecida. The surrounding landscape — Atlantic Forest, a stream, and rock outcrops — makes it a pleasant detour from the town centre.

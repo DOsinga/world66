@@ -8,6 +8,7 @@ latitude: 32.2200
 longitude: 119.5100
 story: >
   The earthwork forts on Jiaoshan were the site of one of the most one-sided battles of the First Opium War — in July 1842, a small British naval force overwhelmed the Qing defenders in a matter of hours, killing over a thousand soldiers and opening the way to Nanjing. The forts still have their original cannon emplacements, and the brass plaques explaining the engagement are notably frank about the outcome.
+score: 8.3
 ---
 
 Jiaoshan is an island in the Yangtze River reached from the Zhenjiang shore by ferry in a few minutes. The island is covered with bamboo groves and pine woodland, with a temple complex (Dinghui Temple) at its base and a series of walking paths climbing to the summit. The earthwork fort on the island's southern face, dating to the early 19th century, preserves intact fortifications from the Opium War period.

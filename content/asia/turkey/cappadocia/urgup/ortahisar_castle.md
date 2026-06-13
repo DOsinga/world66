@@ -9,6 +9,7 @@ story: >
   community would retreat into the rock when raiders approached — the cave dwellings inside the castle held hundreds
   of people, their animals, and their provisions. The castle was also used to store dried citrus fruits from the
   Mediterranean coast, carried up the mountain roads and aged in the cool caves.
+score: 7.9
 ---
 
 Ortahisar is a village about five kilometres from Urgup dominated by a massive natural tuff rock formation that rises 86 metres above the surrounding plain. The rock has been carved into a castle — there are stairways, rooms, and passages cut through the tuff, climbing to an open platform at the top with views across the Cappadocia plateau. The path to the top is steep in places, and some sections require using handrails cut into the rock face.

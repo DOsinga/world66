@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 50.7175
 longitude: 4.3970
+score: 7.2
 ---
 
 The Church of Saint Joseph on the main road through Waterloo contains a remarkable collection of memorial plaques and monuments to British officers killed at the battle. Wellington attended services here, and the church became a natural focus for commemorative additions throughout the 19th century. The plaques line the walls of the nave in dense rows — a visible record of the names of the dead that is more moving than any formal monument.

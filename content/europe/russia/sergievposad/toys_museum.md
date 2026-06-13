@@ -6,6 +6,7 @@ longitude: 43.1293
 tags:
   - things_to_do
   - museum
+score: 7.1
 ---
 
 The Sergiev Posad Toys Museum (Muzei igrushki) holds one of the most unusual collections in Russia — several thousand traditional Russian toys from the 18th century to the 20th, including the earliest known examples of the matryoshka nesting doll, which was first made in Sergiev Posad in 1890. The collection also includes toys belonging to the tsarist imperial family, folk dolls from various regions of Russia, and a room dedicated to Soviet-era toys.

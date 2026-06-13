@@ -8,6 +8,7 @@ tags:
 - sight
 title: Fort Queyras
 type: poi
+score: 7.7
 ---
 
 Fort Queyras (also called Château-Queyras) is a hilltop fortress in the commune of Château-Ville-Vieille, perched on a glacial knob that the Guil river squeezes around. The site has been fortified since at least the 13th century; what you see today is largely Vauban's late-17th-century reworking.

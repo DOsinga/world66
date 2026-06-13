@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 21.2350
 longitude: -86.7340
+score: 6.4
 ---
 
 El Pingüino is the best breakfast spot on the island, a waterfront café on the western shore with views across the channel to the Cancún skyline. The menu is simple and executed well: fresh-squeezed juices, eggs in various forms, pancakes, and strong Mexican coffee. The huevos rancheros are particularly good — proper ranchero sauce, not the watered-down version.

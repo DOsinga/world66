@@ -6,6 +6,7 @@ longitude: -84.2000
 tags:
   - things_to_do
   - nature
+score: 6.4
 ---
 
 The 23,000-acre national recreation area surrounding Springer Mountain, established in 1991 and named for a Georgia congressman who pushed for its protection. The area covers most of the northwest face of the Blue Ridge in Georgia, including the headwaters of the Toccoa River and the Cohutta foothills.

@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Joma Bakery Cafe
 type: poi
+score: 5.2
 ---
 
 Joma is a small Canadian-run chain with several branches around Vientiane (the original is on Setthathirath Road). The food is what you would expect: muffins, bagels, sandwiches, salads, soup of the day. Strong coffee, fast wifi, air-conditioning. It is not the most authentic stop on a Lao itinerary, but it is the easiest place in town to get reliable breakfast or do a few hours of work.

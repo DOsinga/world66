@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 33.7211
 longitude: -116.3744
+score: 6.2
 ---
 
 A 70-acre municipal park behind the Palm Desert City Hall complex, much more substantial than it sounds. There are lakes with resident waterfowl, lawns shaded by mature palms, a dog park, a skate park, sports fields, and a permanent rose garden. The Holocaust Memorial near the entrance, dedicated in 1995, is a sober group of bronze figures that catches most visitors off guard.

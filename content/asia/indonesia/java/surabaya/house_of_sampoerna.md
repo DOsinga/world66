@@ -11,6 +11,7 @@ story: >
   founder of the Sampoerna tobacco empire, bought it in 1932 and converted it into a kretek
   cigarette factory. Workers still hand-roll cigarettes inside — the figure quoted is around
   500 cigarettes per worker per hour — watched through glass windows by museum visitors.
+score: 8.4
 ---
 
 The House of Sampoerna is the best museum in Surabaya and worth a morning of anyone's time. It occupies a beautifully restored Dutch colonial compound in the old city, and traces the rise of one of Indonesia's biggest tobacco companies from a small hand-rolled cigarette operation to a national brand.

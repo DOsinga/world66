@@ -1,6 +1,7 @@
 ---
 title: Village Bars
 type: poi
+score: 5.4
 ---
 
 The small bars in Grande-Anse are not tourist establishments and do not pretend to be. They serve ti-punch — white rhum agricole, cane syrup, and a wedge of lime to squeeze yourself — local beers (Lorraine and Corsaire are the ones to know), and cold soft drinks. The furniture is plastic, the music comes from a phone or a small speaker, and the pace of conversation is island pace, which is to say unhurried.

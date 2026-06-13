@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 35.6762
 longitude: 51.4220
+score: 6.9
 ---
 
 Moslem is an institution of the Tehran bazaar — a large, bustling, noisy restaurant that has been feeding merchants, porters, and shoppers from the Grand Bazaar since the early 20th century. It is one of those places where the food, the crowd, the speed, and the atmosphere together create something greater than any individual element. You will share a table with strangers. Your food will arrive quickly. You will eat well and cheaply.

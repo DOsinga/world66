@@ -6,6 +6,7 @@ longitude: 102.6679
 tags:
   - things_to_do
   - museum
+score: 7.2
 ---
 
 Out on the eastern shore of Dianchi Lake, next to the Yunnan Ethnic Village theme park, the Nationalities Museum is dedicated to the cultures of the 25 ethnic minorities recognised in the province. The building is large — five galleries on three floors — and the collection is rich: woven textiles, silver jewellery, religious paraphernalia, shamanic instruments, ceremonial costumes, and a substantial section on minority music.

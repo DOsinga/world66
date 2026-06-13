@@ -9,6 +9,7 @@ latitude: -5.792
 longitude: -35.206
 sources:
   - https://en.wikipedia.org/wiki/Our_Lady_of_the_Presentation_Cathedral,_Natal
+score: 5.9
 ---
 
 The metropolitan cathedral of Natal is dedicated to Our Lady of the Presentation, a Marian devotion that has been central to the city's religious life since colonial times. The current building dates from the 20th century and replaces earlier church structures on the same site. The exterior is not particularly striking, but the interior is spacious and the stained glass lets in good light.

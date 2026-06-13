@@ -8,6 +8,7 @@ tags:
   - sight
   - park
   - beach
+score: 7.9
 ---
 
 The Ontario provincial park immediately west of Otter Creek wraps a two-kilometre crescent of fine sand beach and around 230 hectares of mixed Carolinian forest. The beach is the main draw — wide, gently shelving, warm enough to swim from late June to early September — and the campground behind it is one of the busiest on Lake Erie.

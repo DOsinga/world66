@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 55.71667
 longitude: 9.53333
+score: 7.2
 ---
 
 Vejle's art museum occupies a building on the hillside above the town centre, with good views across the rooftops toward the fjord. The permanent collection focuses on Danish art from the nineteenth century to the present, with particular strength in the Skagen painters and Danish modernism. The museum also runs a changing programme of temporary exhibitions, typically three or four per year, that bring in work from outside Denmark.

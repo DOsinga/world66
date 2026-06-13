@@ -8,6 +8,7 @@ tags:
 - eating_out
 - restaurant
 - donji_grad
+score: 6.6
 ---
 
 Plac sits one floor up from Dolac Market and the conceit is exactly what it sounds like — much of what reaches the kitchen has come from the stallholders downstairs that morning. The menu is short and grill-led: pork neck, lamb chops, the catch of the day, plus a daily soup and a handful of vegetable plates. The chips are cooked in beef fat.

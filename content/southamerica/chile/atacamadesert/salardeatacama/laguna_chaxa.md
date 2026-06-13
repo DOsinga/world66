@@ -12,6 +12,7 @@ tags:
 - nature
 title: Laguna Chaxa
 type: poi
+score: 8.7
 ---
 
 Laguna Chaxa is the classic flamingo stop on the Salar de Atacama. A boardwalk crosses rough salt crust to shallow water where Andean, Chilean, and James's flamingos often feed with volcanoes behind them.

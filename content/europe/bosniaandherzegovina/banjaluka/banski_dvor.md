@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 44.7731
 longitude: 17.1924
+score: 7.2
 ---
 
 Banski Dvor (the Ban's Court) is a handsome early 20th-century building that served as the seat of the Ban — the royal governor — during the interwar Kingdom of Yugoslavia. Today it functions as Banja Luka's main cultural centre, hosting concerts, theatre performances, art exhibitions, and community events.

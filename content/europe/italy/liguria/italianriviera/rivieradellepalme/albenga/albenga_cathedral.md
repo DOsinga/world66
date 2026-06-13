@@ -14,6 +14,7 @@ story: >
   Liguria: five tiers of arched windows that multiply as they rise, culminating
   in a polygonal cusp. A church on this spot has existed since the 5th century,
   making it contemporary with the baptistery standing a few metres away.
+score: 8.0
 ---
 
 The Cathedral of San Michele Arcangelo dominates Piazza San Michele, the main square of Albenga's medieval centre. A church has stood on this site since the turn of the 4th and 5th centuries, though the current structure is largely medieval — the main body was rebuilt around 1100 and again substantially in the second half of the 12th century, with a major restoration in the 1960s aimed at recovering the medieval appearance.

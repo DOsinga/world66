@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 10.3917
 longitude: 124.9797
+score: 4.2
 ---
 
 Southern Leyte State University is a public university based in Sogod, the main institution of higher education in the province. The campus is the largest in the town and gives Sogod more of a student-town feel than the purely commercial character of many Philippine provincial municipalities.

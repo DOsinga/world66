@@ -12,6 +12,7 @@ story: >
   At its peak it had over 20,000 inhabitants and a library tradition so strong that families
   still own private collections of medieval manuscripts. The sands have been encroaching
   since the 18th century, and the old city is now partly buried.
+score: 8.6
 ---
 
 Chinguetti, 90km northeast of Atar, is the most important historical site in Mauritania and one of the great Saharan cities. The medieval quarter — a UNESCO World Heritage Site — contains a famous 13th-century mosque with a distinctive mud-brick minaret, crumbling library towers, and traditional stone houses slowly being swallowed by advancing dunes.

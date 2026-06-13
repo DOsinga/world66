@@ -7,6 +7,7 @@ tags:
   - nature
 latitude: -20.323804
 longitude: -40.324934
+score: 7.1
 ---
 
 The Morro do Penedo is a protected natural monument in the western part of Vila Velha — a rocky outcrop and its surrounding green space that serves as a municipal nature reserve. Hiking trails wind through the forest and up to viewpoints with good views over the city and the bay.

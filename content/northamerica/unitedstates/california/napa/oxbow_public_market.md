@@ -9,6 +9,7 @@ tags:
 - things_to_do
 - eating_out
 - market
+score: 7.6
 ---
 
 The Oxbow Public Market is an indoor food hall on the east bank of the Napa River, opened in 2007 and now central to downtown Napa's revival as a foodie destination. About thirty stalls share the converted industrial building, with everything from craft tacos and oysters to specialty cheese, charcuterie, pastry, ice cream and a serious wine bar.

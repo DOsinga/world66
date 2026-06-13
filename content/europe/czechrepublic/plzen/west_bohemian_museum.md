@@ -13,6 +13,7 @@ story: >
   as a machine tool factory in the 1860s, later became one of the largest armaments producers in
   the Austro-Hungarian Empire. The firearms collection is a reminder that Plzeň's industrial
   heritage predates the brewery by centuries.
+score: 7.1
 ---
 
 The West Bohemian Museum (Západočeské muzeum v Plzni) is the main regional history and art museum, housed in a handsome Neo-Renaissance building from 1898 just west of Republic Square. The permanent collection spans archaeology, applied arts, natural history, and one of the best historical firearms collections in the country — over 5,000 weapons from crossbows to 19th-century military rifles, many of them extraordinary examples of the gunsmith's craft.

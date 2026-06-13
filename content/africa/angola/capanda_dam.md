@@ -11,6 +11,7 @@ tags:
 - sight
 title: Capanda Dam
 type: poi
+score: 4.8
 ---
 
 The Capanda Dam is Angola's largest hydroelectric installation, spanning the Kwanza River in [Malanje](/africa/angola/malange) province. Built with Brazilian and Chinese involvement over several decades, it is one of the country's primary sources of electricity.

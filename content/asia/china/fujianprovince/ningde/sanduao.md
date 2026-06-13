@@ -15,6 +15,7 @@ story: >
   terms. Today the same harbor that attracted traders for centuries is ringed
   with aquaculture farms — mussels, oysters, large yellow croaker, and abalone
   — making Sanduao one of China's most productive seafood regions.
+score: 6.3
 ---
 
 Sanduao is a natural deep-water bay in southern Ningde prefecture, ringed by islands and famous for its oyster and abalone aquaculture. The bay produces some of the best shellfish in Fujian, and the seafood restaurants in Sanduao town serve oysters, clams, and large yellow croaker (a prized fish in Chinese coastal cuisine) at prices considerably lower than in the coastal cities. The bay itself is scenic, with boat trips available around the aquaculture rafts and smaller islands.

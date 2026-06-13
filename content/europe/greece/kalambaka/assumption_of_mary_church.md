@@ -8,6 +8,7 @@ tags:
   - church
 title: Cathedral Church of the Assumption of Mary
 type: poi
+score: 7.6
 ---
 
 Most visitors to Kalambaka rush straight past this Byzantine cathedral on their way to the monasteries, which is a mistake. The Cathedral of the Assumption of Mary dates to the 11th century, built on the foundations of a 5th-century early Christian basilica. The carved marble ambo (pulpit) in the interior is considered one of the finest examples of early Christian stonework in Thessaly.

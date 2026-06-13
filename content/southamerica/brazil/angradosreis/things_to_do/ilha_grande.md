@@ -8,6 +8,7 @@ tags:
   - wildlife
 latitude: -23.1533
 longitude: -44.2000
+score: 9.4
 ---
 
 The great island across the bay is the main reason most visitors come to Angra dos Reis at all. Ilha Grande has no cars, no roads to speak of, and large stretches of Atlantic Forest that cover its steep hills. Ferries run from Angra's marina to the village of Abraão, the island's only real settlement — a loose grid of guesthouses, restaurants, and boat hire outfits facing the water.

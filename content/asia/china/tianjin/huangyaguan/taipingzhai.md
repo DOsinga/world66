@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 40.2380
 longitude: 117.4120
+score: 8.3
 ---
 
 Taipingzhai is the broader section of wall that includes the Huangyaguan pass and extends several kilometres in both directions along the ridge. A well-marked circuit trail allows you to walk a substantial section without retracing your steps, ascending the ridge to a high watchtower and returning by a different route through valley terrain. The total loop is around 8 kilometres and takes three to four hours at a relaxed pace.

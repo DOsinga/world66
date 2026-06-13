@@ -6,6 +6,7 @@ longitude: 60.6090
 tags:
   - bars_and_cafes
   - bar
+score: 7.3
 ---
 
 A long-running jazz venue in a basement north of Lenin Avenue, hosting live music six nights a week. The repertoire goes from straight-ahead bebop to Russian and Ural folk-jazz crossovers. The food is decent, the cocktails good and the line-ups regularly draw Moscow and visiting international musicians.

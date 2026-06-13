@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
   - day_trips
+score: 6.8
 ---
 
 Hoyop-Hoyopan Cave, in the neighbouring municipality of Camalig (about 15 kilometres west of Daraga), is one of the most accessible cave systems in Bicol. The name means "blow-blow" in the local Bikol dialect, after the breeze that flows constantly through its chambers. Inside are stalactites, stalagmites, and pre-Columbian burial jars and remains that have been radiocarbon-dated to around 200 BCE.

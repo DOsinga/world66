@@ -10,6 +10,7 @@ story: >
   The summit ridge of the Sierra de Huma is dotted with beehive-shaped stone shelters built by shepherds centuries ago. Many are still structurally sound, offering rough but genuine shelter to anyone caught by an afternoon storm. The mountain's name likely derives from the Arabic "Huma," a mythical bird believed to bring good luck to anyone it flew over.
 sources:
   - https://en.wikipedia.org/wiki/Sierra_de_Huma
+score: 7.4
 ---
 
 The Sierra de Huma is the main mountain massif of the Guadalteba comarca, rising to about 1050 metres and offering panoramic views across the reservoir system, the Teba plains, and on clear days the snowy peaks of the Sierra Nevada far to the east. Its slopes are covered with holm oak and wild rosemary, and golden eagles and griffon vultures nest on the limestone crags.

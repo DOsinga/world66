@@ -10,6 +10,7 @@ tags:
 - sight
 - architecture
 story: "Cheong Fatt Tze, who built the house in the 1890s, made his fortune in plantations and banking from Sumatra to China. When he died in 1916, both the British and Dutch flew their flags at half-mast, and Sun Yat-sen named him 'China's last mandarin and first capitalist.' His eight wives lived together in this house, each with her own quarters."
+score: 9.0
 ---
 
 The Cheong Fatt Tze Mansion — universally known as the Blue Mansion for its striking indigo-washed walls — was built in the 1890s by Cheong Fatt Tze, the Hakka tycoon known in his lifetime as "the Rockefeller of the East." It is the finest surviving example of a 19th-century Straits Chinese courtyard mansion in Southeast Asia: 38 rooms, five granite-paved courtyards, seven staircases, and 220 windows arranged on classical feng shui principles around a central air-well that collects rainwater.

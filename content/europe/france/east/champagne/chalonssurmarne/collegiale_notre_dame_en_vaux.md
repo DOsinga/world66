@@ -17,6 +17,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Notre-Dame-en-Vaux
   - https://en.chalons-tourisme.com/your-stay/heritage-tours-culture/
+score: 8.7
 ---
 
 Notre-Dame-en-Vaux is Châlons's most loved building and arguably its most important. Construction began around 1157 and continued through the 13th century, producing a church that mixes Romanesque tower bases with Gothic nave, choir, and transept. The overall effect is lighter and more graceful than the cathedral, and the 16th-century stained glass in the nave windows is exceptional. The carillon of 56 bells is one of the largest in Europe; it plays on the hour.

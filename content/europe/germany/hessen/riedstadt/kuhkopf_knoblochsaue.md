@@ -17,6 +17,7 @@ story: >
   Rhine valley.
 sources:
   - https://en.wikipedia.org/wiki/Kühkopf-Knoblochsaue
+score: 9.0
 ---
 
 The Kuhkopf-Knoblochsaue is the most compelling reason to visit Riedstadt, and one of the finest wetland reserves in central Germany. The 2,400-hectare reserve stretches along the old Rhine arm between Erfelden and Stockstadt, encompassing ancient floodplain forest, oxbow lakes, meadows that flood every winter, and patches of wild orchids that emerge in late spring. The combination of standing water, dead wood, and undisturbed vegetation creates a richness of wildlife you won't find anywhere else close to Frankfurt.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 7.2935
 longitude: 80.6370
+score: 5.9
 ---
 
 One of the better mid-range restaurants in central Kandy, Cafe Dalada offers Sri Lankan rice and curry, seafood, and some Western options in a rooftop setting with views toward the lake. The rice and curry set lunch is the best value and typically includes six to eight accompanying dishes — dhal, coconut sambol, curried vegetables, and whichever fish or meat is in season.

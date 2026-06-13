@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 45.7750
 longitude: 12.8370
+score: 6.5
 ---
 
 The southern open square of the old town, where the long arcaded corso opens out into a wider piazza. The Loggia Comunale (a sixteenth-century covered portico) and the small civic palazzi on the western side make it the most attractive piece of unified urban architecture in town after the Corso itself.

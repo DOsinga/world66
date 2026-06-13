@@ -12,6 +12,7 @@ story: >
   locals will tell you varies depending on who built the most recent section. The
   enclosed bay was carved out by a freshwater stream that once drained into the sea
   here, which is why the sand is unusually pale and the water particularly clear.
+score: 8.4
 ---
 
 Playa Carrizalillo is the prettiest of Puerto Escondido's sheltered bays, a small horseshoe of calm turquoise water enclosed by low cliffs. A long staircase leads down from the road above, and at the bottom you find a beach with gentle waves, good snorkelling around the rocky edges of the bay, and a handful of restaurants and sun-lounger rentals. It is the best beach for swimming when Zicatela is working its worst.

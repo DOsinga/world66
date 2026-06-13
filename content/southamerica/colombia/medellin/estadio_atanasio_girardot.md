@@ -8,6 +8,7 @@ tags:
 - landmark
 title: Estadio Atanasio Girardot
 type: poi
+score: 7.8
 ---
 
 The football stadium where the city's two big clubs — Atlético Nacional (in green and white) and Deportivo Independiente Medellín (in red) — play, often on alternate weekends. The atmosphere at a Nacional match, especially against Millonarios or América de Cali, is one of the great football experiences in South America. Buy through the club website or via a hostel; never from touts at the gate. The stadium is on the Estadio metro line; show up an hour early.

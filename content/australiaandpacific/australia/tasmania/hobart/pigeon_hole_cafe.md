@@ -12,6 +12,7 @@ tags:
   - bars_and_cafes
   - west_hobart
 snippet: "West Hobart neighbourhood café that does the best breakfast in town — long queues but worth them"
+score: 6.8
 ---
 
 A small, perpetually-packed café in a converted shopfront on Goulburn Street, fifteen minutes' walk uphill from the CBD. Pigeon Hole has the most reliable breakfast and lunch in Hobart — proper coffee (their own roast), sourdough from the in-house **Pigeon Whole Bakers** next door, exemplary scrambled eggs, bowls of grain and roast vegetable, and a daily blackboard of more elaborate brunch dishes.

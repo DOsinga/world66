@@ -8,6 +8,7 @@ tags:
 - sang_e_siah
 title: Forough-al-Molk House
 type: poi
+score: 6.8
 ---
 
 This Qajar-era merchant's house in the old quarter has been restored as a small museum and ethnographic exhibition. The main reception room is the highlight — coloured glass set into wooden lattice windows, walls covered in stucco painted with floral motifs, and an old ceiling with mirror inlay.

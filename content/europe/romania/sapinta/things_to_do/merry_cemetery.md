@@ -15,6 +15,7 @@ story: >
   Tincu took over the workshop and the tradition — carving Pătraș's own cross,
   which stands in the cemetery alongside the hundreds of others he made. Pop
   continued the work until his own death in 2013; his son carries it on today.
+score: 9.3
 ---
 
 The [Merry Cemetery](https://en.wikipedia.org/wiki/Merry_Cemetery) is one of Romania's most extraordinary sights: a village graveyard where every grave is marked by a tall oak cross painted vivid blue and carved with a naive painting and a witty, often darkly funny epitaph describing how the person lived — or died.

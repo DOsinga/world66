@@ -13,6 +13,7 @@ story: >
   complete silence, the basalt ledge encased in blue-white ice that catches the
   low winter sun. Summer tourists largely miss the fact that this is a
   completely different place in January.
+score: 8.8
 ---
 
 The Diaoshuilou waterfall sits at the northern end of Jingpo Lake, where the Mudan River drops twelve metres across a basalt ledge that is among the widest waterfalls in China — up to 40 metres across in high water, and never less than impressive. The falls are the single most visited point in the Jingpohu National Forest Park, and for good reason: the combination of the basalt geology, the forest-framed drop, and the lake behind it produces a genuinely spectacular set piece.

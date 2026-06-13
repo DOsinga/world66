@@ -8,6 +8,7 @@ price: $2-12
 title: Eating Out in Pleasant Hill
 type: poi
 url: www.nibblerseatery.com
+score: 3.2
 ---
 
 ### Nibblers Eatery & Wine Bar

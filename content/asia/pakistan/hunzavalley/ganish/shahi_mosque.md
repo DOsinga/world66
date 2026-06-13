@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 36.3148
 longitude: 74.6678
+score: 7.7
 ---
 
 The Shahi Mosque (Royal Mosque) of Ganish is one of the oldest surviving mosques in the Hunza region, with origins believed to date to the 15th or 16th century. The structure is built in the vernacular wooden architecture of the valley — a style that predates the introduction of cement and brick and adapted well to the seismic conditions of the Karakoram.

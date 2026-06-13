@@ -16,6 +16,7 @@ story: >
   south side of the Columbia — a vote in which Sacagawea and York, a enslaved man, both
   participated, making it one of the earliest democratic votes in North American history to
   include women and Black people.
+score: 7.7
 ---
 
 The Lewis and Clark Interpretive Center at Cape Disappointment State Park tells the story of the Corps of Discovery's arrival at the Pacific in November 1805, using the journals of Lewis and Clark as a primary source. The exhibits trace the entire journey from St Louis to the coast, with particular attention to the final weeks when the expedition camped in the Long Beach area debating where to spend the winter.

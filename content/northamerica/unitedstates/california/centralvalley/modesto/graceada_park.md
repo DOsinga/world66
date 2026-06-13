@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 5.9
 ---
 
 Graceada is Modesto's oldest and most pleasant park, dating to 1908 and laid out with the wide lawns and tall trees that California public squares of the period favoured. It is a square block of shade, bordered by some of the most attractive older houses in the city, just north of downtown.

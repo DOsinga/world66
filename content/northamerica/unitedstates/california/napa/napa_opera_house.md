@@ -8,6 +8,7 @@ snippet: Restored 1879 theatre on Main Street, hosting concerts and events
 tags:
 - things_to_do
 - sight
+score: 7.3
 ---
 
 The Napa Valley Opera House, also called the Margrit Mondavi Theatre, is a beautifully restored 1879 Italianate theatre on Main Street. Originally a Victorian opera house and vaudeville stage, it sat dark for most of the twentieth century before a long restoration reopened it in 2003.

@@ -14,6 +14,7 @@ story: >
   and by the 1990s it was drawing visitors from across Central America. Today it is
   so large that the Salvadoran government officially promotes it as a national event
   — remarkable for a city that otherwise sits firmly off the main tourist circuit.
+score: 8.4
 ---
 
 Every November, San Miguel throws the biggest street carnival in Central America. For several days — typically the third week of November — the streets around the city centre fill with hundreds of thousands of people, floats, live music stages, and enough cumbia and salsa to make sleep difficult. The Carnaval de San Miguel is the defining event of the city's calendar and attracts visitors from across El Salvador, Honduras, and beyond.

@@ -8,6 +8,7 @@ tags:
 latitude: 24.0517
 longitude: 55.7717
 story: "The road up Jebel Hafeet has been called one of the great driving roads in the world: a 12-kilometre ribbon with 60 corners, climbing from sea level to 1,200 metres in 30 minutes. It cost over US$60 million to build in the 1980s and remains one of the longest single-mountain ascents in the Arabian Peninsula."
+score: 7.8
 ---
 
 Jebel Hafeet is the limestone mass that rises 1,249 metres almost directly from the desert on the southern edge of Al Ain, visible from central Buraimi on any clear day. The mountain is split between the UAE and Oman, with the summit just on the Emirati side. The road to the top — described above — is reason enough for the trip.

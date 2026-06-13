@@ -13,6 +13,7 @@ story: >
   settlers in the 1870s after Fort Wingate was abandoned. Locals quarried sandstone
   blocks from nearby outcrops and hauled them in by wagon — a more lasting choice
   than adobe in a country of summer thunderstorms.
+score: 6.6
 ---
 
 A two-towered sandstone church on a low rise at the eastern edge of the village, built in the early 1900s in a vernacular New Mexican variant of Romanesque Revival. The blocks were quarried locally and the proportions are pleasing without being grand: thick walls, deep window reveals, a small atrium with weathered crosses.

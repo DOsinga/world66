@@ -7,6 +7,7 @@ tags:
   - theatre
 latitude: 61.489444
 longitude: 21.792222
+score: 6.4
 ---
 
 Pori's main theatre occupies a solid neoclassical building near the old town hall, and has been staging Finnish and international drama since the late nineteenth century. The resident company performs in Finnish; programming runs from autumn through spring, with occasional summer productions.

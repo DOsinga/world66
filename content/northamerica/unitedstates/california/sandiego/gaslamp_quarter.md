@@ -13,6 +13,7 @@ story: >
   1880s-1900s were too old to be demolished profitably, which saved them. The district was listed
   on the National Register of Historic Places in 1980, and the subsequent renovation turned it
   into one of the most successful urban revival projects in California.
+score: 6.9
 ---
 
 The Gaslamp Quarter is sixteen blocks of largely intact late-Victorian commercial architecture in downtown San Diego, running from Broadway south to the waterfront. The buildings — mostly three to five stories of brick and cast iron from the 1880s through 1920s — house restaurants, bars, clubs, and shops at street level, with offices and apartments above.

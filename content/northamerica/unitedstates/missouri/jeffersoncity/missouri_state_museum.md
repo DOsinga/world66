@@ -9,6 +9,7 @@ longitude: -92.1725
 snippet: Free museum inside the Capitol covering Missouri's natural and cultural history
 sources:
   - https://en.wikipedia.org/wiki/Missouri_State_Museum
+score: 7.3
 ---
 
 The Missouri State Museum occupies the ground floor of the State Capitol building and is one of those genuinely good free state museums that most visitors walk past on the way to the rotunda. The exhibits cover Missouri's natural history, Native American cultures, and the state's role in American expansion westward — the Gateway to the West narrative is given serious historical treatment rather than tourist-brochure treatment.

@@ -7,6 +7,7 @@ tags:
   - activity
 latitude: 23.6750
 longitude: -15.9520
+score: 8.0
 ---
 
 Before kitesurfing took over, Dakhla was already a well-established windsurfing destination, and the discipline still has a dedicated presence on the lagoon. Several camps cater specifically to windsurfers, with a good range of boards for different skill levels and sail sizes to match the varied wind conditions through the day.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 42.932
 longitude: -70.7981
+score: 6.6
 ---
 
 Hampton Beach State Park occupies the northern end of the beach, where the spit widens and the character shifts from the boardwalk bustle to something a little more open. The park covers about 50 acres including the beach, dunes, and a saltmarsh area behind the barrier strip. Facilities include picnic areas, changing rooms, and a bathhouse.

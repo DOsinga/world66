@@ -7,6 +7,7 @@ tags:
 - nature
 title: Gwaii Haanas
 type: poi
+score: 9.8
 ---
 
 The Gwaii Haanas National Park Reserve and Haida Heritage Site protects 138 islands at the southern end of Haida Gwaii, where ancient Haida village sites, temperate rainforest, and extraordinary marine life coexist in one of Canada's most remote protected areas. Over a million seabirds nest here during breeding season, and the waters hold orcas, humpback whales, and sea lions.

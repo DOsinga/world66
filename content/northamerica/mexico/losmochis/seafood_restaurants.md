@@ -6,6 +6,7 @@ longitude: -108.9920
 tags:
   - eating_out
   - restaurant
+score: 6.6
 ---
 
 Los Mochis sits at the junction of the Pacific coast and the Sierra Madre, and the local seafood reflects that geography. Topolobampo Bay shrimp are the standout — large, sweet, and sold everywhere in the city, from market stalls to white-tablecloth restaurants. The regional ceviche uses local shrimp, tomato, onion, chilli, and lime and is among the best versions of the dish in Sinaloa.

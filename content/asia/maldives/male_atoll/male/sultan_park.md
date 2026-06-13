@@ -9,6 +9,7 @@ tags:
 latitude: 4.1773
 longitude: 73.5105
 snippet: "Malé's main green space, on the grounds of the demolished royal palace"
+score: 5.2
 ---
 
 Sultan Park occupies the grounds of the old royal palace, demolished in 1968 after the abolition of the sultanate. What remains is a small but welcome patch of green in an otherwise concrete city — palms, frangipanis, a pond, and shaded benches where families gather in the evening. The National Museum stands in the centre of the park.

@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: -36.7614
 longitude: 146.9842
+score: 7.8
 ---
 
 Wandiligong is a tiny heritage village 4 km south of Bright along the Morses Creek valley, and one of the best-preserved gold rush settlements in northeast Victoria. The village has a handful of historic timber buildings — a pub, a hall, a few cottages — surrounded by old orchards and walnut trees that turn vivid yellow in autumn. It functions as a quiet counterpoint to Bright's seasonal bustle.

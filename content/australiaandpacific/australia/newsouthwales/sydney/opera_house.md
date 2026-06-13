@@ -17,6 +17,7 @@ story: >
   completed.
 sources:
   - https://en.wikipedia.org/wiki/Sydney_Opera_House
+score: 9.7
 ---
 
 The Sydney Opera House is one of the most recognisable buildings in the world, and it earns that status. Perched on Bennelong Point with harbour on three sides, the sequence of white shell-like roof forms — actually made of more than a million Swedish ceramic tiles — catches light differently throughout the day, shifting from white to cream to gold as the sun moves. The building was inscribed as a UNESCO World Heritage Site in 2007, just 34 years after it opened.

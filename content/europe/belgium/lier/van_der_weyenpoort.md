@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 51.1296
 longitude: 4.5702
+score: 5.6
 ---
 
 The Van der Weyenpoort is the best-surviving example of Lier's original medieval city gates, a stocky 14th-century stone tower that once guarded the southern approach to the town. It stands at the edge of the old town close to the Nete river, and gives a good impression of how the medieval defensive circuit looked before the walls were largely demolished in later centuries.

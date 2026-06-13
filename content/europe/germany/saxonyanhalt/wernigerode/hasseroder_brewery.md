@@ -8,6 +8,7 @@ tags:
   - sight
   - museum
 snippet: Brewery producing one of the Harz region's best-known beers
+score: 5.7
 ---
 
 Hasseröder is one of eastern Germany's better-known breweries, located in the Hasserode quarter about 2 km west of the Wernigerode centre. The brewery produces a pale Pilsner that is the default beer in many Harz restaurants and pubs; it is also widely exported across Germany. The brewery offers guided tours by appointment that take visitors through the brewing process, the lagering cellars, and the history of the brand.

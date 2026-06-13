@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Matti Lepistö was a steelworker at the Rautaruukki mill who spent his evenings and weekends from the 1970s onwards making sculptures out of concrete, metal off-cuts and salvaged objects. He covered the garden of his own house with the work and kept adding until his death — more than 200 pieces in all, populating every square metre."
+score: 6.4
 ---
 
 A self-taught sculptor's home and garden in the Kummatti district, packed end to end with concrete and scrap-metal figures: muscular workers, surreal animals, religious tableaux, parodies of local politicians. The garden is part folk-art shrine, part oddball protest against the conformity of small-town Finnish life.

@@ -6,6 +6,7 @@ longitude: -84.9812
 tags:
   - things_to_do
   - museum
+score: 7.5
 ---
 
 A working museum on the waterfront that focuses on the wooden boats and small craft of the Apalachicola River and Gulf coast. The collection includes restored skipjacks, oyster tongers' skiffs, and a replica of the schooner Governor Stone, the oldest sail-powered cargo vessel in the south before she was lost in Hurricane Michael in 2018.

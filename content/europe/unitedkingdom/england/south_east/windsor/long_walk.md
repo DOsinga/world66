@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 8.0
 ---
 
 The Long Walk is the avenue that runs in a straight line for nearly three miles from the south front of Windsor Castle to the Copper Horse — a colossal equestrian statue of George III on Snow Hill, at the far end of Windsor Great Park. It was planted with elms by Charles II in 1683, replaced with plane and chestnut in the 1940s after Dutch elm disease, and remains one of the great ceremonial avenues in Britain.

@@ -5,6 +5,7 @@ tags: [things_to_do, mountain, hike]
 latitude: 58.0167
 longitude: -5.1833
 story: Stac Pollaidh rises from flat bogland with a jagged sandstone ridge that looks older than time — it is, in fact, one of the most ancient exposed rock formations in Europe, Torridonian sandstone laid down some 750 million years ago.
+score: 9.3
 ---
 
 Stac Pollaidh is one of the most distinctive mountains in Scotland — a narrow, knobbly quartzite ridge rising sharply from the flat bogland of Coigach, visible from the road to Achiltibuie and instantly recognisable in profile. At 613 metres it is not particularly high, but the ascent feels much more serious than the numbers suggest, with a scramble along the exposed ridge to the highest point.

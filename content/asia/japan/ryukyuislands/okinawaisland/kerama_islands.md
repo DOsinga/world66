@@ -9,6 +9,7 @@ latitude: 26.2134
 longitude: 127.3019
 story: >
   The term "Kerama Blue" was coined by Japanese divers and photographers to describe a specific quality of light underwater around these islands — a clarity and depth of colour caused by the extremely low sediment in the water and the angle of the tropical sun. The phrase has since entered the Japanese travel lexicon as a synonym for the most perfect possible blue sea.
+score: 8.9
 ---
 
 The Kerama Islands lie about 40 kilometres west of Naha, accessible by high-speed ferry in 35 minutes or slow ferry in about 70. The four main inhabited islands — Zamami, Aka, Tokashiki, and Geruma — are where Okinawa's reputation for outstanding diving and snorkelling is most fully justified. Visibility of 30 to 50 metres is common; in winter, humpback whales pass through the waters between the islands.

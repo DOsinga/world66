@@ -7,6 +7,7 @@ tags:
 title: Devils Churn
 type: poi
 snippet: "A narrow ocean inlet where waves funnel and explode against basalt walls"
+score: 7.9
 ---
 
 Devils Churn is a narrow crack in the basalt headland just south of Cape Perpetua where waves drive into a channel perhaps thirty feet wide and surge up with explosive force. At high tide during swell, the water compresses into the channel and shoots upward in a plume of white spray. It is the loudest and most powerful of the coastal wave features around Yachats, and the most accessible — a paved trail leads to a viewing platform at the edge.

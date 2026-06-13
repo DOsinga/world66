@@ -8,6 +8,7 @@ tags:
 - nature
 - hiking
 snippet: "1,894-metre limestone massif rising directly behind the town"
+score: 7.7
 ---
 
 Orjen is the wall of rock you see from the seafront — a karst massif that goes from sea level to nearly 1,900 metres in a horizontal distance of about ten kilometres. It is one of the wettest places in Europe, which has carved the limestone into dramatic gorges, sinkholes and caves.

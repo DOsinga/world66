@@ -8,6 +8,7 @@ latitude: 17.9369
 longitude: -76.8455
 story: >
   Port Royal was once the wealthiest and most notorious city in the English Americas — a pirate haven and Royal Navy base so packed with taverns, brothels, and counting houses that ministers called it "the wickedest city on earth." On June 7, 1692, a massive earthquake dropped two-thirds of the city into Kingston Harbour in minutes, killing an estimated 2,000 people. The surviving buildings now constitute one of the most historically layered sites in the Caribbean.
+score: 8.4
 ---
 
 Port Royal sits at the end of the Palisadoes spit, the long sand bar that encloses Kingston Harbour, reachable by a 20-minute ferry from the Ocean Boulevard terminal in Downtown Kingston. For history, it is one of the most significant sites in the Caribbean — a former pirate base, naval headquarters, and earthquake survivor that has been quietly decaying and slowly excavated for decades.

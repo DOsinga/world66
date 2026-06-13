@@ -9,6 +9,7 @@ tags:
   - architecture
 story: >
   The Kremlin's most famous son stood against it. Kuzma Minin, the butcher who rallied Russia to expel the Polish-Lithuanian army in 1612, was from Nizhny Novgorod and gave his speech below these walls. The monument to Minin and his military partner Prince Pozharsky that stands in Moscow's Red Square was actually put there as a copy — the original proposal was to place it here, where the call to arms was made.
+score: 9.3
 ---
 
 The Nizhny Novgorod Kremlin is one of the finest surviving medieval fortresses in Russia — a long red-brick enclosure that crowns the bluff above the confluence of the Volga and Oka rivers. Thirteen of the original sixteen towers still stand, connected by walls that you can walk along in places for a panoramic view of both rivers stretching away into the distance. Unlike the Moscow Kremlin, which is sealed off by state functions, this one feels genuinely accessible.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 61.041
 longitude: 28.1408
+score: 6.3
 ---
 
 The Karelia Aviation Museum is located at Lappeenranta Airport and focuses on the history of Finnish military and civilian aviation, with particular emphasis on the Karelian Air Command. The collection includes historic aircraft, engines, uniforms, and equipment, with a strong focus on the role of aviation in Finland's wars with the Soviet Union in the 1940s.

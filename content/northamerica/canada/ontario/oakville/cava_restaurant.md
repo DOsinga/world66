@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 43.4460
 longitude: -79.6660
+score: 5.7
 ---
 
 Cava occupies a corner spot in Old Oakville and specialises in Spanish tapas and small plates in a lively room that fills up quickly on weekends. The kitchen does well with the classics — patatas bravas, jamón croquetas, tortilla española — alongside more adventurous combinations using seasonal Ontario produce. The gin and tonic selection is extensive, which fits the Spanish-bar atmosphere.

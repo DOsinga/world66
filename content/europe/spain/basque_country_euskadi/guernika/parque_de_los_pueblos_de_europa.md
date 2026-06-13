@@ -7,6 +7,7 @@ tags:
 - sight
 title: Parque de los Pueblos de Europa
 type: poi
+score: 6.7
 ---
 
 The narrow park that runs along the back of the Casa de Juntas contains two of the most prominent works of post-war European sculpture installed anywhere as a memorial. Henry Moore's bronze *Large Figure in a Shelter* sits at one end; Eduardo Chillida's massive concrete *Gure Aitaren Etxea* ("Our Father's House") frames a view of the oak through its central opening.

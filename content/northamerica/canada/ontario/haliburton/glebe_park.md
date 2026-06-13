@@ -6,6 +6,7 @@ tags:
   - nature
 latitude: 45.0532
 longitude: -78.5354
+score: 6.7
 ---
 
 Glebe Park is a 100-hectare community forest at the south edge of Haliburton village, criss-crossed by a network of trails used for walking, mountain biking, and cross-country skiing depending on the season. The trails connect the Haliburton Highlands Museum, the Haliburton Sculpture Forest, and the Fleming College campus.

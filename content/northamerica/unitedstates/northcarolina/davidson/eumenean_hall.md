@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.2
 ---
 
 A matched pair of small Greek Revival temples sit just off the central quad of Davidson College. Built in 1849 and 1850 to house the rival Eumenean and Philanthropic literary societies, they were where 19th-century Davidson students learned to argue. Both buildings have small white-columned porticos and bare interiors that are essentially debate chambers.

@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Nature_Reserve_Pineta_Dannunziana
 story: >
   The pine forest was already old when d'Annunzio walked through it as a child — it appears in several of his works as a place of dreams and melancholy. The Fascist government named it after him in the 1930s, and the name stuck even after the war. It remains one of the few large green spaces on Pescara's otherwise built-up southern seafront.
+score: 7.6
 ---
 
 The Pineta Dannunziana is a protected pine forest running along the coast south of Pescara's main beach, covering around 170 hectares between the sea and the built-up suburbs. It is named after Gabriele d'Annunzio, who grew up nearby and wrote about the forest in his early work. Today it functions as Pescara's main green lung — a place to walk, run, or cycle away from the traffic and noise of the city.

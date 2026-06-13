@@ -8,6 +8,7 @@ tags:
 latitude: 42.28194
 longitude: -73.31194
 story: "The Red Lion Inn has been welcoming guests continuously since 1773, making it one of the oldest operating inns in the United States. During the Revolutionary War it served as a meeting point for local patriots; the original sign above the door was reportedly painted red specifically to taunt British loyalists in the area. Presidents from Grover Cleveland to George W. Bush have stayed here."
+score: 7.1
 ---
 
 The Red Lion Inn dominates Main Street in Stockbridge, a large white clapboard structure with a long front porch lined with rocking chairs. Built in 1773 as a coaching inn, it has operated continuously ever since — something genuinely unusual in American hospitality. The lobby is a museum of accumulated country inn character: antique furniture, pattern-on-pattern fabrics, old prints, and a stuffed bear at the foot of the stairs.

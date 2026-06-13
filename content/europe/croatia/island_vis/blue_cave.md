@@ -7,6 +7,7 @@ tags:
 latitude: 42.9500
 longitude: 16.0000
 story: "Sunlight enters through a submerged side opening rather than the small surface entrance, refracts off the white limestone floor, and turns the cave's water an unworldly electric blue between roughly 11am and noon. Outside that window the colour fades to dim aquamarine — which is why every operator pushes you to arrive at the same time and the cave becomes a brief, beautiful traffic jam."
+score: 8.3
 ---
 
 The Blue Cave on the neighbouring island of Biševo is the most famous thing about Vis and one of the most-photographed natural features on the Croatian coast. A sea cave with a small surface opening and a much larger submerged side entrance, it lights up in the late morning when angled sunlight bounces off the white limestone floor and turns the water a near-radioactive blue.

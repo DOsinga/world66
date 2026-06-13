@@ -14,6 +14,7 @@ story: >
   world. Its opening lines, "Write down! / I am an Arab," are known across the Middle East and were
   famously broadcast on Israeli radio in 1966, causing a scandal. The poem made him internationally
   known before he was thirty.
+score: 8.4
 ---
 
 The Mahmoud Darwish Museum is dedicated to Palestine's most celebrated poet, who lived in Ramallah during the last years of his life and is buried in the city. Darwish is widely considered the national poet of Palestine; his work, which moves between lyric beauty and political witness, has been translated into more than 22 languages.

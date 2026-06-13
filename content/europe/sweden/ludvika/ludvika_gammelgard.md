@@ -10,6 +10,7 @@ tags:
 - museum
 - history
 story: The mining museum at Ludvika Gammelgård has one of the most complete collections of Bergslagen mining equipment in the country, including a working bellows-driven blast furnace model. Many of the buildings were dismantled and rebuilt here in the 1930s — a typical interwar Swedish project of saving rural architecture from agricultural modernisation.
+score: 7.8
 ---
 
 Ludvika Gammelgård is the town's open-air museum: a collection of about 30 timber farm buildings, charcoal-burner's huts and a mining museum gathered on a leafy hill at the south edge of town. The mining museum is the centrepiece, with exhibits on the iron ore and silver mining that built Bergslagen, including tools, drilling rigs and reconstructed pit-head buildings.

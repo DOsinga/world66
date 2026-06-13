@@ -9,6 +9,7 @@ longitude: 0.198
 snippet: "Marine reserve cape with a lighthouse, clear water, and panoramic views"
 story: >
   Cap de Sant Antoni is one of the southernmost points of the Valencia region's coastal hills where the mountains actually reach the sea. The marine reserve was established in 1993 and is considered one of the best-preserved sections of the Costa Blanca — diving operators regularly bring groups here to see posidonia meadows, octopus, and grouper in water so clear it is difficult to judge depth.
+score: 7.8
 ---
 
 Cap de Sant Antoni closes the northern end of Jávea's bay, a rocky headland with a lighthouse at its tip that can be reached on foot or by bicycle from the Arenal beach. The road climbs through scrubby Mediterranean vegetation — rosemary, pine, and prickly pear — with the bay opening out below and the Montgó massif filling the skyline to the west.

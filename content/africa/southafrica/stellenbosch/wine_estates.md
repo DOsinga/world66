@@ -12,6 +12,7 @@ story: >
   replanted with the same varieties, the Cape winemakers had access to a wider range and
   planted more experimentally. Pinotage, the variety South Africa calls its own, is a
   cross between Pinot Noir and Cinsault developed at Stellenbosch University in 1925.
+score: 9.0
 ---
 
 The Stellenbosch wine region is one of the world's great wine areas, with more than 150 estates within easy reach of the town. The wines are predominantly reds — Pinotage, Cabernet Sauvignon, Shiraz, and Merlot — though the white wines from the cooler Jonkershoek and Simonsberg valleys are also excellent.

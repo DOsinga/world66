@@ -13,6 +13,7 @@ story: >
   in seven kilometres of dressed stone built by the Knuth family in the
   1860s. Lions and rhinos now roam land originally laid out as a private
   arboretum.
+score: 8.5
 ---
 
 Eight kilometres west of Sakskøbing, Knuthenborg is the largest safari park in Northern Europe — sixty-six hectares of open enclosures laid out around a nineteenth-century estate landscape. You drive your own car through the lion section and walk most of the rest. Tigers, rhinos, wolves, giraffes, and zebras are the headline animals; the playground areas for younger children are excellent.

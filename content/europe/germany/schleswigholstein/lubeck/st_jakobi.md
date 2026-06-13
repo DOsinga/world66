@@ -8,6 +8,7 @@ tags:
 - things_to_do
 - sight
 - church
+score: 8.0
 ---
 
 St Jakobi, just south of the Hospital of the Holy Spirit, was built between 1334 and 1500 as the parish church of the city's sailors. The plain brick interior is one of the few major Lübeck churches to have survived the 1942 raid largely intact — the Renaissance organ loft, the two carved late-Gothic altarpieces, the medieval painted ceiling.

@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 5.3819
 longitude: -0.6253
+score: 5.6
 ---
 
 The University of Education, Winneba (UEW) is the country's main teacher-training institution and dominates the inland half of the town. The campus is open and a pleasant place to walk — modern lecture buildings spread among older bungalows, with palm-shaded paths and a steady flow of students between halls.

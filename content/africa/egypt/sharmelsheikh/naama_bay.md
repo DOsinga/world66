@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - neighbourhood
 snippet: The tourist heart of Sharm — a horseshoe of hotels, bars, and dive centres around a calm beach.
+score: 7.2
 ---
 
 Naama Bay is the place most visitors mean when they say they are going to Sharm. The bay itself is a shallow, sheltered crescent of clean water that is good for swimming and basic snorkelling, edged by a continuous strip of hotels, restaurants, dive shops, and clubs. The pedestrian promenade behind the beach stays busy from late afternoon until well after midnight in season, with shisha cafes spilling out under the palms and music from half a dozen bars overlapping along the walk.

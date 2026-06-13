@@ -16,6 +16,7 @@ tags:
   - temple
 title: Guanlin Temple
 type: poi
+score: 7.6
 ---
 
 Guanlin is the burial site of the head of Guan Yu, the Three Kingdoms general who became one of China's most venerated deities. The temple and mausoleum complex, built during the Ming Dynasty, sits about 7 kilometres south of the city centre on the road to Longmen Grottoes. The site consists of a series of grand halls, a tall mound covering the head, and hundreds of ancient stelae inscribed with calligraphy and historical records.

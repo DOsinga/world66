@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 13.0963
 longitude: -59.6142
+score: 5.7
 ---
 
 The Waterfront Café sits right on the Careenage, with tables on a terrace looking directly onto the inner harbour. It is one of the oldest tourist-facing restaurants in Bridgetown, and while it is not cheap and the cooking is not groundbreaking, the location is as good as it gets in the city: boats bobbing a few metres away, the Parliament Buildings visible across the water, and a breeze off the harbour that makes midday lunch bearable.

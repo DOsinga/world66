@@ -9,6 +9,7 @@ tags:
 snippet: Site of an 1840s trading post on Bull Creek that gave the town its name
 story: >
   The town was named for Baptiste Peoria, an Indigenous trader of mixed French-Peoria descent who established the trading post here in the 1840s. "Paola" is an anglicisation of "Peoria"; the same word turns up across Illinois and Indiana wherever the displaced tribe was forced to relocate.
+score: 5.6
 ---
 
 Paola's Post is the historical marker for the trading post established here by Baptiste Peoria in the 1840s, on the west side of Bull Creek just outside present-day Paola. The post served the Wea, Peoria, Kaskaskia, and Piankashaw — the displaced Algonquian-speaking peoples who had been pushed onto the Kansas reservations from Illinois and Indiana — and grew into a small commercial centre that eventually became the town of Paola in 1857.

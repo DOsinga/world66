@@ -15,6 +15,7 @@ story: >
   spike above the heads of passing students. Titled *Totem*, it was commissioned as a permanent installation 
   and initially provoked outrage from local residents. It has since become one of the city's most recognized 
   landmarks and a reliable meeting point.
+score: 6.0
 ---
 
 Ladeuzeplein is the broad square that serves as the university's public face, dominated by the elegant facade of the University Library building. The square is less architecturally cohesive than the Grote Markt — it has the slightly wind-swept quality of a civic space designed more for function than atmosphere — but the library building itself is one of Leuven's most moving structures.

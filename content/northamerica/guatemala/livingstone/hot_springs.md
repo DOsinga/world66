@@ -5,6 +5,7 @@ tags:
 - things_to_do
 title: Rio Dulce Hot Springs (Finca el Paraíso area)
 type: poi
+score: 6.3
 ---
 
 Along the shores of the Rio Dulce, natural hot springs seep from the limestone cliffs, mixing with the cooler river water at the base. The springs are most concentrated in the gorge section between Rio Dulce town and Livingston, where the canoe operators and lanchas will stop on request.

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, religious]
 latitude: 32.0539
 longitude: 34.7521
+score: 7.5
 ---
 
 St Peter's is a Franciscan church on Kedumim Square in old Jaffa, built between 1888 and 1894 on the site of a medieval crusader citadel. The pink-painted facade and tall bell tower are the most prominent feature of the old town skyline from the sea.

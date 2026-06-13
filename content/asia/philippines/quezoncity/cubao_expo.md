@@ -8,6 +8,7 @@ tags:
 latitude: 14.6204
 longitude: 121.0527
 snippet: Former shoe market turned arts, music and vintage strip
+score: 8.0
 ---
 
 Cubao Expo (or Cubao X) is the most interesting nightlife and arts district in Metro Manila — a former shoe market on General Romulo Avenue that was gradually colonised by independent bars, galleries, record shops, and vintage clothing stores. The resulting strip has a scruffy, creative energy that is completely at odds with the polished malls nearby.

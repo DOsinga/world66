@@ -6,6 +6,7 @@ longitude: 13.0376
 tags:
   - eating_out
   - restaurant
+score: 5.7
 ---
 
 Andreas Kaiblinger's Michelin-starred restaurant on Müllner Hauptstraße is the most refined dining in Salzburg. The menu is modern European with an Austrian backbone — fewer than ten covers an evening, a kitchen counter view if you book ahead, and pricing roughly in line with similar starred restaurants in Vienna.

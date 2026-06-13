@@ -12,6 +12,7 @@ tags:
 - bars_and_cafes
 title: Tiago Espresso Bar + Kitchen
 type: poi
+score: 5.9
 ---
 
 A third-wave coffee house in the heart of Hollywood using Intelligentsia beans and an Italian-style approach to espresso. The food menu runs to Argentine and French-inspired sandwiches, salads, and soups — everything made to order. A good spot to work or recover between Hollywood sightseeing stops.

@@ -7,6 +7,7 @@ tags:
   - historic_site
 latitude: 51.4415
 longitude: -1.8762
+score: 6.7
 ---
 
 Windmill Hill is a Neolithic causewayed enclosure on a rounded chalk hill about two kilometres northwest of Avebury, one of the earliest known examples in Britain. Dating from around 3700 BC, it predates the stone circle by roughly a thousand years, and was used as a gathering place — archaeological evidence suggests feasting, exchange of goods, and possibly burial rites, though not as a permanent settlement.

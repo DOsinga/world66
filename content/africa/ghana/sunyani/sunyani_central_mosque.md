@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sunyani Central Mosque
 type: poi
+score: 5.3
 ---
 
 The Sunyani Central Mosque is the principal mosque in the city, serving the Muslim community of the Sunyani district. It is a prominent building in the city centre and reflects the significant Muslim population in the Bono Region — a legacy of Dyula and Hausa traders who settled across the Brong Ahafo area during the pre-colonial period.

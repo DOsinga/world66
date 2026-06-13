@@ -10,6 +10,7 @@ tags:
 - market
 title: World Cup Stadium
 type: poi
+score: 6.0
 ---
 
 Seoul's World Cup Stadium was built as the centrepiece of the 2002 Korea/Japan World Cup. Asia's largest soccer-only ground seats 64,777 and has its own subway stop on Line 6 (World Cup Stadium Station), making it easy to reach from the city centre.

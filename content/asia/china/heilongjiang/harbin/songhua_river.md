@@ -8,6 +8,7 @@ latitude: 45.7832
 longitude: 126.6351
 story: >
   The Songhua is the source of Harbin's most famous spectacle: each December, workers cut massive blocks from the frozen river to build the Ice and Snow World festival. The harvesting takes about a month and involves teams working through the night. Ice blocks weigh up to several tonnes and are slid onto trucks using chains. The river itself freezes to a depth of nearly a metre, solid enough that trucks drive across it.
+score: 6.8
 ---
 
 The Songhua River embankment — Stalin Park, as it was called under its Russian name — runs along the northern edge of Daoli and is Harbin's principal outdoor promenade. In summer the riverside fills with people strolling, cycling, and buying grilled corn from street vendors. Paddle boats, dragon boat rides, and ferry crossings to Sun Island are available from the embankment.

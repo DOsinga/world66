@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Neptune
 type: poi
+score: 5.5
 ---
 
 A small, charming fish restaurant in the El Dahar old town, popular with locals and budget-conscious travelers. Order whatever came in fresh that morning — the grilled fish with rice and salad is reliably good and reasonably priced.

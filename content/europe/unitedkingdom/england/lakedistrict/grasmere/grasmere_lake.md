@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 8.8
 ---
 
 The lake that gives the village its name is one of the smaller lakes in the district — about a mile long and half a mile wide — but its setting is exceptional. Surrounded by low fells on all sides, with the village visible at the northern end, it has a self-contained, almost theatrical quality. Wordsworth called it "the loveliest spot that man hath ever found."

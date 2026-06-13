@@ -10,6 +10,7 @@ tags:
 - museum
 title: Zeiss-Planetarium Bochum
 type: poi
+score: 7.3
 ---
 
 The Zeiss-Planetarium opened in 1964 and is one of the oldest and largest public planetariums in Germany. It seats 220 under a 20-metre dome and runs an ambitious program of astronomy shows alongside occasional concerts and special events. The building sits in the Stadtpark, a pleasant green space north of the city centre that is worth a walk in good weather.

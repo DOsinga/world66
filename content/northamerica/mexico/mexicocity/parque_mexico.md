@@ -6,6 +6,7 @@ tags: [things_to_do, sight, park, condesa]
 neighbourhood: Condesa
 latitude: 19.4119
 longitude: -99.1717
+score: 8.0
 ---
 
 The oval Parque México sits at the heart of Condesa — it was laid out on the site of an old horse racetrack in 1927, and its curving boulevards still trace the bend of the original track. The park is a tight 9-hectare loop of jacarandas, Indian laurels, an Art Deco bandstand, and the Open-Air Foro Lindbergh theatre, all in the Art Deco style of its 1920s development.

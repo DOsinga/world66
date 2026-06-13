@@ -9,6 +9,7 @@ tags:
 - st_pauli
 neighbourhood: St. Pauli
 story: "Herbertstrasse is the only street in Germany where legal sex work is conducted from window displays, and the only one where municipal screens at each end forbid entry to women and to men under 18 — a rule maintained, if no longer strictly enforced, since the 1930s, when the Nazis erected the screens to keep ordinary citizens from seeing what went on inside."
+score: 4.8
 ---
 
 A 60-metre cobblestone alley between two metal screens just off the Reeperbahn, Herbertstrasse is the curiosity of St. Pauli. Two rows of pink-lit ground-floor windows display licensed sex workers; the screens at each end carry signs forbidding entry to women and minors, a Nazi-era ordinance that remains technically on the books and is more or less observed.

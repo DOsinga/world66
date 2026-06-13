@@ -8,6 +8,7 @@ latitude: 14.5237
 longitude: 120.9769
 sources:
   - https://en.wikipedia.org/wiki/Manila_Bay
+score: 7.0
 ---
 
 The bayfront promenade along the reclaimed land of Parañaque and Pasay offers one of Manila's signature experiences: watching the sun drop into Manila Bay, silhouetting the casino towers and the distant mountains of Cavite. It is free, it is accessible, and on a clear evening it is genuinely beautiful.

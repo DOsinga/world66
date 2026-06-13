@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.7839
 longitude: -79.4510
+score: 6.8
 ---
 
 The Chessie Nature Trail follows a former Chesapeake and Ohio Railway line along the Maury River, linking Lexington with Buena Vista 8 kilometres to the east. The trail is flat, easy, and exceptionally pretty — the river runs clear over limestone boulders, Great Blue Herons fish in the shallows, and the Blue Ridge Mountains frame the view. It is one of the nicest easy walks in the Shenandoah Valley.

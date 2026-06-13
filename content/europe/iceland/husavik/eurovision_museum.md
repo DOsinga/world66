@@ -8,6 +8,7 @@ tags:
   - film
 latitude: 66.0484737
 longitude: -17.3533425
+score: 5.8
 ---
 
 This one is for a specific kind of visitor — but if you're that visitor, it's an absolute delight. The Eurovision Museum in the ground floor of the Cape Hotel celebrates Iceland's unexpected starring role in the 2020 Netflix film Eurovision Song Contest: The Story of Fire Saga, which was partly filmed in Húsavík. The film turned the town's fictional entry "Húsavík (My Hometown)" into a genuine hit, and the song reached a much wider audience than any actual Icelandic Eurovision entry ever managed.

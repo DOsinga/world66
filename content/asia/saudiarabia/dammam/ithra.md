@@ -15,6 +15,7 @@ story: >
   exporter. The building's shape, designed by Norwegian firm Snøhetta, was
   deliberately inspired by oil-bearing rock formations seen under geological
   survey.
+score: 8.8
 ---
 
 Ithra (the King Abdulaziz Center for World Culture) is one of the most impressive cultural institutions in the Arabian Peninsula, built and operated by Saudi Aramco in Dhahran — technically a separate city but effectively part of the Dammam conurbation. The Norwegian firm Snøhetta designed the complex: 80,000 square metres spread across four levels, with a form inspired by geological formations. It opened in 2016 and was named by Time magazine as one of the world's 100 greatest places.

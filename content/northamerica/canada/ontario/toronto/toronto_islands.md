@@ -9,6 +9,7 @@ tags:
 - park
 title: Toronto Islands
 type: poi
+score: 8.9
 ---
 
 The Toronto Islands are a chain of small islands separated from the downtown waterfront by a narrow channel. They are accessible only by ferry from the Jack Layton Ferry Terminal at the foot of Bay Street — a 10-to-15-minute crossing — making them car-free and genuinely removed from the city despite being so close. On a clear day, the views back across the water to the Toronto skyline are among the best in the city.

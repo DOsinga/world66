@@ -6,6 +6,7 @@ tags:
 - sight
 title: Do Darya
 type: poi
+score: 6.7
 ---
 Do Darya — Two Rivers — is a strip of seafront restaurants and cafes strung along the coast road south of Clifton, the closest thing Karachi has to a waterfront dining district. The restaurants vary from upscale Pakistani cuisine to grilled seafood shacks, and the quality is uneven, but the setting carries everything: open-air terraces, salt air, and views across the Arabian Sea that remind you how much of the city turns its back on the water it sits beside.
 

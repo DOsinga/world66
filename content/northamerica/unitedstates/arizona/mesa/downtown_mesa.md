@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 33.4152
 longitude: -111.8315
+score: 7.0
 ---
 
 Downtown Mesa is a compact stretch along Main Street that has been quietly reinventing itself over the past decade. Where there was once a fairly forlorn row of vacant storefronts, you now find independent restaurants, a good farmers market, art galleries, and the Mesa Arts Center anchoring the western end. It is walkable, unpretentious, and genuinely local.

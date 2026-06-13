@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, shopping]
 latitude: 37.5070
 longitude: 15.0860
+score: 7.9
 ---
 
 Via Etnea is the main thoroughfare of central Catania, a long straight street running north from Piazza del Duomo for about three kilometres up to the Giardino Bellini. It was laid out in the rebuilding after 1693, deliberately aligned on Mount Etna so that the volcano fills the view at the southern end and looms ahead as you walk north.

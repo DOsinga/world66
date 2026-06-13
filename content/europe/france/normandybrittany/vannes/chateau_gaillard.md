@@ -8,6 +8,7 @@ tags:
 latitude: 47.6569
 longitude: -2.7580
 snippet: Fifteenth-century mansion housing the Museum of Natural History
+score: 6.8
 ---
 
 Château-Gaillard is a handsome fifteenth-century mansion on the rue Noé in the heart of the old town, built for Duke Francis II of Brittany and one of the finest examples of late Gothic civil architecture in the region. It now houses the Museum of Natural History and Archaeology, with collections covering the prehistoric and Gallo-Roman periods in the Morbihan.

@@ -18,6 +18,7 @@ story: >
   and the liturgy intact for two centuries until Swiss architect Hans Roth led
   a decades-long restoration in the 1970s and 80s. Six of the surviving
   churches were declared a UNESCO World Heritage Site in 1990.
+score: 9.1
 ---
 
 The Jesuit Missions of Chiquitos are the single most rewarding excursion from Santa Cruz, and one of the great cultural circuits of South America. Six restored 18th-century mission churches — San Javier, Concepción, San Ignacio, Santa Ana, San Miguel, and San Rafael — sit scattered across a vast, sparsely populated region between Santa Cruz and the Brazilian border.

@@ -8,6 +8,7 @@ tags:
   - bars_and_cafes
   - midtown
   - bar
+score: 6.4
 ---
 
 Second Line is the Cooper-Young area's most ambitious cocktail bar, drawing its name and some of its inspiration from New Orleans' jazz funeral tradition — the second line being the celebratory crowd that follows behind a jazz funeral, playing music and dancing. The bar program takes classic cocktails seriously, with house-made syrups, quality spirits, and an emphasis on rye whiskey and bourbon alongside the expected gin and rum. The small plates menu, Southern-influenced without being a barbecue joint, pairs well with the drinks.

@@ -8,6 +8,7 @@ tags:
   - religious
 latitude: 30.69
 longitude: -88.0458
+score: 8.1
 ---
 
 The Cathedral Basilica of the Immaculate Conception on Dauphin Street is one of the finest Catholic churches in the American South. The present building dates from the 1830s but the parish goes back to 1703, making it one of the oldest Catholic congregations in the United States. The twin-towered facade in a neoclassical-Italianate style is the dominant feature of downtown Mobile's skyline, and the interior is richly decorated with stained glass, marble, and carved woodwork accumulated over nearly two centuries.

@@ -5,6 +5,7 @@ tags: [things_to_do, market]
 latitude: -13.4233
 longitude: -71.8472
 snippet: A weekly rotation of village markets across the valley, with Pisac the busiest
+score: 7.0
 ---
 
 The Sacred Valley still keeps the old Andean market system, with major villages taking turns through the week. The most famous is the Sunday market at Pisac — large, colourful, and the standard stop on a packaged valley tour. Quality varies and prices for tourists are noticeably higher than for locals, but the textile and pottery selection is genuinely good.

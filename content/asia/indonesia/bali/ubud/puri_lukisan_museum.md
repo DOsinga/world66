@@ -7,6 +7,7 @@ tags:
 latitude: -8.5051
 longitude: 115.2603
 snippet: Bali's oldest art museum in beautiful garden pavilions in central Ubud
+score: 8.5
 ---
 
 Museum Puri Lukisan is the oldest art museum in Bali, founded in 1956 by the Dutch painter Rudolf Bonnet and the Ubud prince Tjokorda Gde Agung Sukawati to preserve traditional Balinese painting and woodcarving. The collection spans several garden pavilions and covers the main periods and styles of Balinese visual art, from classical narrative painting through the influence of Western artists in the 1930s to more recent work.

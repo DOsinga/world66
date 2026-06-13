@@ -7,6 +7,7 @@ snippet: Transylvanian folk culture, with both an indoor collection and an open-
 tags:
 - things_to_do
 - museum
+score: 8.4
 ---
 
 The Ethnographic Museum splits between two sites. The indoor museum, on Strada Memorandumului, has a strong collection of Transylvanian folk costume, ceramics, and tools, organised by ethnic group and region — Romanian, Hungarian, Saxon, Roma, Jewish.

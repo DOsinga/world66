@@ -15,6 +15,7 @@ story: >
   of Culture programme. The secret garden at the heart of the monastery complex, hidden
   behind high walls for four hundred years, was simultaneously revealed to Maltese and
   visitors who had passed the building thousands of times without suspecting it existed.
+score: 7.5
 ---
 
 Mysterium Fidei is a museum and heritage experience within the Carmelite monastery on Old Mint Street, opened to the public for the first time in 2018 after four centuries of enclosure. The visit takes in the monastery's underground tunnels — cut from living rock and forming part of Valletta's original drainage and defensive infrastructure — and its secret garden, a walled courtyard that had been invisible to the outside world since the monastery's foundation.

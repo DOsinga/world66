@@ -9,6 +9,7 @@ tags:
 latitude: 10.7529
 longitude: 106.6504
 snippet: "Huge wholesale market in Chinatown, less touristy and more authentic than Bến Thành"
+score: 8.1
 ---
 
 Bình Tây Market is the main market of Cholon — Ho Chi Minh City's Chinatown (District 5) — and is considerably larger and less tourist-oriented than Bến Thành. Built in the 1920s by a wealthy Chinese merchant named Quách Đàm, the market has a central courtyard and a distinctive yellow-painted clock tower.

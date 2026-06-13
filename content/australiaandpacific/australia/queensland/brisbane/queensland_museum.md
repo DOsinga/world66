@@ -7,6 +7,7 @@ tags:
 latitude: -27.4729
 longitude: 153.0180
 snippet: "Natural history and Queensland heritage, free for the permanent collection"
+score: 7.5
 ---
 
 The Queensland Museum occupies a grand 1890s sandstone building in the South Bank Cultural Precinct, right alongside GOMA and the Queensland Art Gallery. The museum covers natural history, Indigenous Queensland, and the human history of the state — from dinosaur fossils and a full blue whale skeleton to exhibits on early European settlement and the experience of Queensland's diverse communities. Entry to the permanent collection is free.

@@ -9,6 +9,7 @@ tags:
   - historic_house
   - sight
 snippet: "The preserved home of America's most famous early 20th-century evangelist"
+score: 6.8
 ---
 
 The Billy Sunday Home is the preserved residence of William "Billy" Sunday, who was arguably the most famous evangelist in the United States in the first two decades of the 20th century. Sunday was a professional baseball player — an outfielder for the Chicago White Stockings and several other clubs — before he converted and became a preacher in the 1890s. By the 1910s, his revival meetings were attracting crowds of tens of thousands across the country.

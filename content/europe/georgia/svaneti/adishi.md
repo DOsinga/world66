@@ -14,6 +14,7 @@ story: >
   influence but has distinct Svan characteristics. This piece, like many in
   Svaneti, was never catalogued by art historians until the early Soviet
   period.
+score: 7.7
 ---
 
 Adishi is a small village halfway along the Mestia-Ushguli trail, positioned at approximately 2,000 metres at the head of a side valley below the Adishi Glacier. It is one of the quieter overnight stops on the route — just a handful of family guesthouses, a church with medieval bronze objects, and the view up the valley to the glacier. The [Adishi Glacier](/europe/georgia/svaneti/adishi_glacier) descends visibly from the ridge above, its terminal moraine accessible in about two hours.

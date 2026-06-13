@@ -8,6 +8,7 @@ tags:
 latitude: 37.0566
 longitude: 10.0620
 story: "The central mosaic shows a leopard hunt — hounds, hunters with nets, and a single big cat in mid-leap. It is a reminder that wild leopards still roamed the Tunisian hills well into the Roman period and were rounded up by professional bestiarii for the arenas at Carthage."
+score: 4.4
 ---
 
 A second Roman house on the upper terrace, slightly smaller than the House of the Cascade but with its own striking mosaics — most notably the hunting scene that gave the house its modern name. The composition runs the full length of the main room, with figures in motion across a pale ground.

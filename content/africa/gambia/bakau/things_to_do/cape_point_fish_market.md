@@ -7,6 +7,7 @@ tags:
   - market
 latitude: 13.4813
 longitude: -16.6758
+score: 7.3
 ---
 
 In the late afternoon, the beach at Cape Point transforms. Wooden pirogues come in through the surf, their catch loaded into tubs and baskets while fisherwomen move across the sand with fish balanced on their heads. Buyers negotiate, nets are spread for drying, and the whole scene plays out against a sky that is often spectacular at that hour.

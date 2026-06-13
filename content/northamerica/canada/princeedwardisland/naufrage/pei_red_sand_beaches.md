@@ -6,6 +6,7 @@ longitude: -62.41
 tags:
 - things_to_do
 - beach
+score: 7.4
 ---
 
 The beach near Naufrage is typical of the northeast PEI coastline: backed by low red sandstone cliffs, with fine red-tinted sand, clear water, and almost no facilities. The colour comes from the iron oxide in the local sandstone — the same characteristic red that colours the island's soil, roads, and buildings. In late afternoon, the light on the cliffs is unusually warm.

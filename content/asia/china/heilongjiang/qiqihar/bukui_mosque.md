@@ -12,6 +12,7 @@ story: >
   mosques in northeast China. Qiqihar has housed a significant Muslim Hui community since the 
   city's Qing-era military establishment — soldiers from central China were garrisoned here along 
   with their religious communities.
+score: 7.8
 ---
 
 The Bukui Mosque (卜奎清真寺) is one of the most significant historical buildings in Qiqihar, built in 1684 during the reign of the Kangxi Emperor when the city was established as a military outpost. The architecture is the classic Chinese-Islamic hybrid style: a mosque built entirely in Chinese timber-frame construction, with upturned eaves and decorated rooflines that are recognisably Chinese but with no figures or narrative imagery in deference to Islamic tradition. The prayer hall interior is formally plain and very peaceful.

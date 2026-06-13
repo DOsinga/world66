@@ -9,6 +9,7 @@ tags:
 - sight
 title: Kyoto Botanical Garden
 type: poi
+score: 6.7
 ---
 
 The Kyoto Botanical Garden, opened in 1924 in the north of the city beside the Kamo River, is the oldest public botanical garden in Japan and one of the largest, holding about twelve thousand species across twenty-four hectares. Sections cover Japanese native plants, a long avenue of cherry trees, a herb garden, a bamboo collection, and a rose garden; the central greenhouse complex — Japan's largest — focuses on tropical and subtropical species and on rare orchids.

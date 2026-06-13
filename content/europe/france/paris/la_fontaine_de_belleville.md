@@ -10,6 +10,7 @@ tags:
 title: La Fontaine de Belleville
 type: poi
 url: www.cafebelleville.com
+score: 6.2
 ---
 
 La Fontaine de Belleville is the best coffee in Paris — a roastery and cafe that imports and roasts its own beans, served in a beautiful tiled space near the Canal Saint-Martin. The flat whites and pour-overs are exceptional; the pastries from a nearby bakery are excellent.

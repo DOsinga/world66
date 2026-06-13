@@ -12,6 +12,7 @@ opening_hours: "Mon–Fri 11:00am–3:00pm (lunch only)"
 snippet: "Beloved downtown lunch spot with seasonal Pacific Northwest menu"
 sources:
   - https://www.wildpearcatering.com/
+score: 5.5
 ---
 
 Wild Pear is the kind of place every state capital wishes it had near the legislature — a bright, reliably good lunch spot that locals actually return to. The menu changes with the seasons and leans on local produce: expect Willamette Valley hazelnuts in the salads, Oregon bay shrimp on the sandwiches, and roasted beets from nearby farms.

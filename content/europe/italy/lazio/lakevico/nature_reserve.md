@@ -14,6 +14,7 @@ story: >
   a parasitic volcanic cone that formed inside the crater after the main caldera
   collapsed. The lake has no natural outflow; its water level is regulated by a
   tunnel cut through the crater rim in the 1930s.
+score: 8.1
 ---
 
 The Lago di Vico Nature Reserve protects the lake and its encircling hills — one of the best-preserved crater lakes in central Italy. The reserve covers about 3,000 hectares of water and forest, including one of the southernmost beech forests in Europe and extensive chestnut groves that have been harvested for centuries.

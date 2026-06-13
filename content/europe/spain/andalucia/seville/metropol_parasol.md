@@ -14,6 +14,7 @@ story: >
   years of legal wrangling over what to do with the finds, the solution was a museum in the
   basement — the Antiquarium — and a radically modern structure above. The Antiquarium's
   Roman mosaics, displayed beneath glass walkways, are some of the finest in Andalucía.
+score: 7.7
 ---
 
 The world's largest wooden structure, the Metropol Parasol stands in the old La Encarnación market square like a surrealist mushroom forest from the future. Completed in 2011 to a design by German architect Jürgen Mayer H., the undulating parasol roof is made from laminated wood panels bonded with polyurethane and rises up to 28 metres. It is simultaneously divisive and magnetic — Sevillians argued fiercely about it before it was built and continue to argue about it, which usually means a city has done something interesting with public space.

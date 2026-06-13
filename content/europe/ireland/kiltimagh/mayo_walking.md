@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 53.8500
 longitude: -9.0000
+score: 6.9
 ---
 
 The landscape around Kiltimagh is classic Mayo bog and hill country — open, empty, and atmospheric in a way that rewards slow travel. The area is threaded with walking routes through blanket bog, along river valleys, and up onto the low summits that give views across south Mayo toward the Ox Mountains and beyond.

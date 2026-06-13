@@ -12,6 +12,7 @@ longitude: 120.6251
 snippet: "Yuan dynasty garden famous for its labyrinthine rockery"
 story: >
   The garden was created in 1342 by a Buddhist monk as a memorial to his teacher Tianru, whose own master had lived near Lion Rock in Tianmu Mountain. The extraordinary rockery — piled into caverns, tunnels, and passages — was meant to represent the rocky terrain around the original mountain retreat.
+score: 8.7
 ---
 
 Lion Grove Garden takes its name from the rocks that dominate it. The central feature is an extraordinary rockery of Lake Tai limestone — a kind of porous, weathered rock considered the finest garden stone in China — piled into an elaborate maze of caves, tunnels, bridges, and passages on several levels. You can walk through and under the rocks for a surprisingly long time, emerging at different heights and viewpoints. Children find it irresistible; adults are meant to contemplate the landscape as if hiking through mountain terrain in miniature.

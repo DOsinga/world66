@@ -13,6 +13,7 @@ story: >
   bronze-and-marble sarcophagus modelled on Napoleon's tomb at Les Invalides.
   The Revolutionary War naval hero was reburied here in 1913 after his remains
   were located in a Paris cemetery more than a century after his death.
+score: 8.9
 ---
 
 Founded in 1845, the Naval Academy occupies a 338-acre waterfront campus designed largely by Beaux-Arts architect Ernest Flagg at the turn of the 20th century. Bancroft Hall — the dormitory housing all 4,400 midshipmen under a single roof — is one of the largest college dorms in the world. The 12.30 p.m. weekday formation in front of the building, when the entire brigade lines up before marching to lunch, is the most reliably impressive sight on campus.

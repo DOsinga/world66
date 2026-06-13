@@ -6,6 +6,7 @@ longitude: -73.8429
 tags:
   - things_to_do
   - sight
+score: 5.8
 ---
 
 Rue Blainville is the main commercial street, running east-west through the centre of town. It is the strip of cafés, bakeries, bistros, and small shops that gives Sainte-Thérèse its village feel and distinguishes it from the strip-mall sprawl of surrounding suburbs. The pedestrian-friendly section between boulevard Labelle and rue Turgeon is the part to walk.

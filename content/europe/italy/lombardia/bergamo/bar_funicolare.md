@@ -10,6 +10,7 @@ tags:
 - bar
 title: Bar Funicolare
 type: poi
+score: 5.7
 ---
 
 Sitting right inside the upper funicular station at Piazza Mercato delle Scarpe, this two-floor bar has a generous outdoor balcony with views down over the lower town. It's a natural stop before or after exploring the hilltop old city — coffee in the morning, Aperol spritz in the evening.

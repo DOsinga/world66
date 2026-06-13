@@ -8,6 +8,7 @@ snippet: "History of the planned modernist city in its purpose-built modern muse
 address: "Zawiszy Czarnego 1"
 latitude: 54.5135
 longitude: 18.5453
+score: 7.9
 ---
 
 The Gdynia City Museum tells the story of how a fishing village of 1,300 became Poland's main Baltic port and a city of 250,000 in twenty years. The permanent exhibition runs from the medieval origins through the burst of 1920s and 30s construction, the destruction of 1939, the post-war population transfer (almost the entire pre-war population was German or had fled), and the post-Solidarity rebuilding.

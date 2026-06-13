@@ -8,6 +8,7 @@ tags:
 - museum
 snippet: "One of the world's great car museums, with the Harrah Collection of over 200 vehicles"
 story: "The museum's most curious exhibit is the Dymaxion #2, Buckminster Fuller's 1933 streamlined three-wheeled prototype — long, finned, capable of holding eleven passengers, and the only one of the three Dymaxions ever built that has survived intact."
+score: 8.9
 ---
 
 The National Automobile Museum is one of the world's great car museums and the single most rewarding indoor stop in Reno. Built around the **Harrah Collection** — the 1,400 vehicles assembled by casino owner Bill Harrah in the mid-twentieth century and partly preserved after the collection was broken up in the 1980s — the museum has more than 200 cars in four themed galleries covering one period each from the 1890s to the present.

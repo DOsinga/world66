@@ -8,6 +8,7 @@ latitude: 39.1800
 longitude: 68.1500
 story: >
   Each of the Seven Lakes has a different color — ranging from pale turquoise to deep emerald to an almost opaque milky white — due to varying mineral concentrations, depth, and the angle of surrounding glaciers feeding into them. Local legend says each lake corresponds to a level of paradise. The highest, Alaudin, is surrounded by peaks exceeding 5,000 meters, and in midsummer the reflections of snow-capped mountains in the still water make the place feel genuinely otherworldly.
+score: 8.8
 ---
 
 The Seven Lakes (Haft Kul) in the Fann Mountains are among the most beautiful natural landscapes accessible from Dushanbe. A chain of seven lakes connected by a mountain valley, each at a higher elevation than the last, the trail through them is a classic two-to-three day walk from the road head at Padrud.

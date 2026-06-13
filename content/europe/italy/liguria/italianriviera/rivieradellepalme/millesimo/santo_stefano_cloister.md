@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 A row of slender Romanesque columns and round-headed arches set into the wall of the Villa Centurione is all that remains of the Benedictine abbey of Santo Stefano, founded in 1216. The villa is private, but the cloister fragment is visible from the lane outside.

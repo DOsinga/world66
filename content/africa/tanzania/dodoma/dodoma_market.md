@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - market
+score: 7.0
 ---
 
 The central market is the working heart of Dodoma — a sprawl of stalls and lock-ups selling fresh produce from the surrounding plateau, dried fish from Lake Victoria, plastic kitchen gear, second-hand clothes, and the omnipresent cheap mobile phones. The vegetable section, where Gogo and Rangi women from the surrounding villages bring tomatoes, onions, and beans, is the most photogenic.

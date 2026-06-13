@@ -8,6 +8,7 @@ latitude: 4.6189
 longitude: -74.0663
 snippet: "Colombia's national museum, housed in a 19th-century panopticon prison"
 story: "The building was designed as a panopticon prison in 1874 — a circular structure where a single guard in the central tower could theoretically observe all cells simultaneously. It held political prisoners well into the 20th century before being converted into a museum in 1948."
+score: 8.7
 ---
 
 The Museo Nacional is Colombia's oldest and most comprehensive museum, tracing the country's history from pre-Columbian cultures through the colonial period, independence, and into the 20th century. The building itself is extraordinary: a neogothic panopticon prison completed in 1874, its circular plan and iron galleries designed to allow surveillance of all cells from a central point. It was used as a prison until 1946.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Outdoor campus garden and greenhouse complex with notable plant collections"
+score: 7.8
 ---
 
 The Botanic Garden is not a separate institution but encompasses the entire Smith College campus — a 147-acre living collection of trees, shrubs, and perennial plantings. The star attraction for non-botanists is the greenhouse complex, which contains a cactus and succulent house, a tropical house, and a palm house, all open free to visitors.

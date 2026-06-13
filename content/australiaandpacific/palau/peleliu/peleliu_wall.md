@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - diving
+score: 9.2
 ---
 
 A near-vertical reef wall dropping from a few metres to over 300 along the southwest corner of the island, regularly listed among the top dive sites in the world. The wall is covered in soft coral, sea fans, and sponges; the deep water out beyond brings in pelagics — grey reef sharks, eagle rays, schooling barracuda, and the occasional manta.

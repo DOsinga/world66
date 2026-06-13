@@ -8,6 +8,7 @@ tags:
 - park
 title: El Estrecho Natural Park
 type: poi
+score: 8.8
 ---
 
 The Parque Natural del Estrecho covers the headlands, dunes, and cliffs from just west of Tarifa down to Punta Camarinal, about thirty kilometres of mostly unbuilt coast. It is the Spanish half of an intercontinental biosphere reserve that includes the Moroccan side of the strait — together they form one of the most biologically rich crossings in the Mediterranean basin.

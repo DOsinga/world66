@@ -7,6 +7,7 @@ tags:
 latitude: 41.2170
 longitude: 14.3310
 snippet: A romantic English landscape garden within the royal park, full of exotic plants, winding paths, and fake ruins.
+score: 8.4
 ---
 
 The English Garden was added to the Reggia complex between 1785 and 1796 at the request of Queen Maria Carolina of Austria, who brought in English designer John Andrew Graefer to design it. It sits to the side of the formal park axis and offers a complete change of mood — winding paths, streams, a small lake, and carefully arranged "natural" scenery that is in fact entirely constructed.

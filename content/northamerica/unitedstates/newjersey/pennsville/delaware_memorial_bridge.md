@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 The Delaware Memorial Bridge looms over Pennsville's northern edge — a twin-span suspension bridge connecting New Jersey to Wilmington, Delaware, and carrying I-295 and the New Jersey Turnpike across the river. When the first span opened in 1951 it was the longest suspension bridge ever built outside the United States, and the second span (1968) makes the combined crossing one of the busiest bridges on the East Coast.

@@ -11,6 +11,7 @@ story: >
   The church was built between 1647 and 1654 and is famous for its kokoshnik gables and the coloured ceramic tile frieze that runs around the exterior — 17th-century Yaroslavl craftsmen developed a distinctive tilework tradition that influenced church decoration across Russia for a century. Napoleon's army used the church as a stable during the 1812 campaign, damaging the interior frescoes significantly.
 sources:
   - https://en.wikipedia.org/wiki/Church_of_John_Chrysostom,_Yaroslavl
+score: 8.0
 ---
 
 The Church of John Chrysostom in the Korovniki district, on the south bank of the Kotorosl River, is one of the best examples of the distinctive "Yaroslavl style" of church architecture. The exterior combines elaborate white-stone ornamental gables with bands of vivid polychrome ceramic tiles — a decorative vocabulary developed in 17th-century Yaroslavl that was unlike anything else in Russia at the time.

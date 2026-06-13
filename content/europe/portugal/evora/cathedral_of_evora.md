@@ -15,6 +15,7 @@ story: >
   century a Virgin and Child was installed in the main portal — widely considered
   one of the finest pieces of Gothic sculpture in Portugal. The roof terrace,
   reached by a staircase from the cloister, offers the best panorama in the city.
+score: 8.9
 ---
 
 The Cathedral of Évora — Sé de Évora — is the largest medieval cathedral in Portugal, a granite Romanesque-Gothic hulk that dominates the hilltop at the heart of the walled city. Construction began in 1186, and the result is a satisfying mix of styles: Romanesque towers flanking the west facade, a Gothic nave inside, and a Gothic cloister with Renaissance elements added in later centuries.

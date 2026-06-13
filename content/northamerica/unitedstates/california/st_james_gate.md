@@ -7,6 +7,7 @@ tags:
 - bars_and_cafes
 title: St James Gate
 type: poi
+score: 4.8
 ---
 
 An Irish-style pub on Old County Road in Belmont with live music several nights a week, plus karaoke and jam sessions. There's a full food menu for lunch and dinner, a pool table, and an outdoor patio. A solid neighborhood spot if you're in the mid-Peninsula area and want something more relaxed than the downtown scene.

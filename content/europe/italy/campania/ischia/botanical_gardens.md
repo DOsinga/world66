@@ -12,6 +12,7 @@ longitude: 13.859444
 tags:
 - things_to_do
 - landmark
+score: 9.3
 ---
 
 Created by Susana Walton, wife of the British composer William Walton, in a former rock quarry on the slopes of Monte Zaro above Forio. The garden she built here over five decades is one of the most remarkable in Italy — over 800 plant species, including tropical rarities that shouldn't be able to survive this far north, arranged around a nymphaeum, cascades, and reflecting pools. A Thai Sunhouse and a Greek amphitheatre sit higher up the hill, where concerts are held on summer weekends.

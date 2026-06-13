@@ -6,6 +6,7 @@ longitude: 5.0423
 tags:
   - eating_out
   - restaurant
+score: 6.7
 ---
 
 A historic Dijon restaurant on Place de la Libération, run for many years by Jean-Pierre Billoux. The menu is upmarket French with strong Burgundian roots — escargots, oeufs en meurette done with real attention, classic boeuf bourguignon, plus more modern game and fish dishes in season.

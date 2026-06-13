@@ -14,6 +14,7 @@ tags:
   - monastery
 title: Great Meteoron Monastery
 type: poi
+score: 9.4
 ---
 
 The oldest and largest of the six active Meteora monasteries, the Great Meteoron — also called the Monastery of the Transfiguration — was founded in the 14th century by the monk Athanasios Koinovitis. It sits atop the highest rock in the complex, at 613 metres above sea level, and its dominant position makes it visible from almost anywhere in the valley below.

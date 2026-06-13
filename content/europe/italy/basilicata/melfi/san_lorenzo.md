@@ -10,6 +10,7 @@ story: >
   San Lorenzo is a Baroque church, but built on the site of an earlier sanctuary that may have been one of the first Christian sites in this part of Basilicata. The church's patron, San Lorenzo, was a Roman deacon martyred in 258 CE, and his cult spread through southern Italy with particular persistence in the Norman period.
 sources:
   - https://en.wikipedia.org/wiki/San_Lorenzo,_Melfi
+score: 5.6
 ---
 
 San Lorenzo is a Baroque-era Roman Catholic church in the old town of Melfi, distinguished by its elegant facade and relatively intimate interior. Built in the 17th century, it is smaller and more approachable than the main cathedral, and less visited — which means you are more likely to have it to yourself.

@@ -8,6 +8,7 @@ tags:
 latitude: 41.0256
 longitude: 28.9712
 address: "Lüleci Hendek Caddesi 12, Tophane"
+score: 7.4
 ---
 
 Depo is a non-profit arts centre occupying a converted tobacco warehouse in Tophane, between Karaköy and Beyoğlu. It hosts exhibitions, talks, and events focusing on contemporary social and political themes — refugee issues, urban space, minority rights, Kurdish culture — with a seriousness and intellectual rigour that distinguishes it from commercial galleries. Entry is free or cheap and the programming is consistently interesting.

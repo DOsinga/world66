@@ -5,6 +5,7 @@ latitude: 53.1800
 longitude: 0.3500
 tags: [things_to_do, sight]
 story: Billy Butlin opened the first of his holiday camps on this sandy stretch of coast at Easter 1936. He had been a fairground operator and noticed that British families on rainy seaside holidays had nowhere to go after their boarding-house landlady put them out for the day; the camp solved that with chalets, food, and entertainment all included for a single price.
+score: 6.3
 ---
 
 Britain's first purpose-built holiday camp still operates on the original site at Ingoldmells, about four kilometres north of Skegness town centre. The chalets, the dining hall, the parade ground and the Redcoats of the postwar era are gone, but the principle is the same: a self-contained resort where most of what a family wants for a week is on site. Three large indoor pools, a fairground, a Splash Waterworld, and several themed restaurants now sit where the original tin huts stood.

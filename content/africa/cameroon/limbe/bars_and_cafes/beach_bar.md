@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 4.0250
 longitude: 9.1928
+score: 5.9
 ---
 
 The informal beach bars near Mile Six are the social heart of Limbe at weekends. Coolers packed with Castel and 33 Export, plastic chairs in the sand, and a sound system playing a mix of Cameroonian makossa and Afrobeats at a volume that makes conversation optional. The crowd arrives from Douala after midday on Saturdays and doesn't thin out until late afternoon; by Sunday evening the beach is quiet again.

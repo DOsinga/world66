@@ -9,6 +9,7 @@ latitude: 59.4683
 longitude: 28.0406
 sources:
   - https://en.wikipedia.org/wiki/Narva-J%C3%B5esuu_Lighthouse
+score: 5.8
 ---
 
 The lighthouse stands at the mouth of the Narva River where it meets the Gulf of Finland, marking the boundary between Estonian and Russian waters. Built in the Soviet era and still operational, it is a straightforward utilitarian structure — not architecturally grand, but the location is striking. From the base you look out across the river mouth to the Russian bank and out to the open sea, with the long beach curving away to the south.

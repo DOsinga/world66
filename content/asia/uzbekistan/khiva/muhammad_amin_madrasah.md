@@ -8,6 +8,7 @@ tags:
 title: Muhammad Amin Khan Madrasah
 type: poi
 snippet: "Khiva's largest madrasah, beside the Kalta Minor, now converted into the Hotel Orient Star"
+score: 7.0
 ---
 
 The Muhammad Amin Khan Madrasah was begun in 1851 alongside the Kalta Minor by the same khan. It is the largest madrasah in Khiva, with two storeys of student cells arranged around a courtyard, and a grand portal facing the Ata Gate. The decoration is more restrained than the smaller madrassas, perhaps because the budget was diverted into the over-ambitious minaret next door.

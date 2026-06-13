@@ -15,6 +15,7 @@ story: >
   colonists died in 1861, and the houses have been inhabited by Germans ever since.
 sources:
   - https://en.wikipedia.org/wiki/Alexandrowka
+score: 8.4
 ---
 
 Alexandrowka is one of the most unexpected places in Potsdam — a small colony of Russian-style log houses built in 1826 for the surviving members of a Russian military choir. Twelve Russians had been brought to Potsdam as prisoners of war after the Napoleonic Wars and employed to sing for Frederick William III. When the tsar they had served died, the Prussian king built them a village in his memory.

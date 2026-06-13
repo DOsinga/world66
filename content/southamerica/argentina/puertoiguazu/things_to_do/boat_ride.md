@@ -1,6 +1,7 @@
 ---
 title: Boat Rides into the Falls
 type: poi
+score: 8.5
 ---
 
 The zodiac boat rides offered on the Argentine side take you directly under the falls — you will be completely, inescapably soaked within seconds. There is no half-measure here: the boats motor straight into the cascade, and the experience is as exhilarating as it sounds.

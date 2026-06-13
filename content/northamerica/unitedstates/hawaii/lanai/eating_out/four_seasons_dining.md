@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 20.7417
 longitude: -156.9131
+score: 5.9
 ---
 
 The Four Seasons Resort Lanai at Manele Bay operates several restaurants within the property, ranging from the poolside Malibu Farm — the California health-food brand's Hawaii outpost, serving salads, grain bowls, and grilled fish — to Nobu Lanai, the celebrated Japanese-Peruvian chef's remote-island outpost with its signature black cod and ceviches.

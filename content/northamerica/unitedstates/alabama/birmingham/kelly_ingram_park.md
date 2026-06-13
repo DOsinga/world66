@@ -9,6 +9,7 @@ tags:
 title: Kelly Ingram Park
 type: poi
 story: "During the spring 1963 Birmingham Campaign, Bull Connor's police turned fire hoses and attack dogs on peaceful protesters — many of them children — in this park. News photographs of the assault shocked the world and are credited with swaying public opinion decisively toward the civil rights movement. The park's sculpture trail commemorates both the protesters and the brutality they faced."
+score: 9.0
 ---
 
 Kelly Ingram Park sits at the center of the Civil Rights District, flanked by the 16th Street Baptist Church and the Birmingham Civil Rights Institute. In 1963 it was the staging ground for the Children's Crusade, when thousands of Black schoolchildren marched into the park and faced fire hoses and police dogs on camera. The images broadcast around the world changed the course of American history.

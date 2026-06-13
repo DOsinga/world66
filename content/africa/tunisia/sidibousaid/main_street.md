@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 36.8708
 longitude: 10.3473
+score: 8.3
 ---
 
 The main street of Sidi Bou Said — steep, cobbled, and flanked by blue-and-white walls trailing bougainvillea — is the most photographed lane in Tunisia. It climbs from the TGM station up to the hilltop, passing artisan shops selling ceramics, ironwork bird cages, and the distinctive blue ironwork that decorates every window and door in the village. The colour scheme is not decorative accident: it has been legally protected since 1915, when Baron Rodolphe d'Erlanger lobbied the French protectorate authorities to preserve the blue-and-white aesthetic.

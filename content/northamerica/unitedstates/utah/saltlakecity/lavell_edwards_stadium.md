@@ -6,6 +6,7 @@ tags:
 - sight
 title: Utah Olympic Park
 type: poi
+score: 7.3
 ---
 
 The Utah Olympic Park in Park City, about 35 minutes from downtown Salt Lake City, was built for the 2002 Winter Olympics and hosted ski jumping, bobsled, luge, and skeleton events. The facility remains an active training centre for Olympic athletes and operates a museum documenting the 2002 Games.

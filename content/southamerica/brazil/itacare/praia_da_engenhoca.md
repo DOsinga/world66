@@ -8,6 +8,7 @@ tags:
   - surfing
 latitude: -14.2278
 longitude: -38.9678
+score: 7.8
 ---
 
 Engenhoca is the surfer's favourite of the wilder beaches, about 11 km north of town. A 20-minute forest walk from the BA-001 brings you to a long curved bay with a powerful right-hand break that holds up well at all sizes. The takeoff is on rock so it is not a beginner's wave, but at low tide the inside reform is gentler.

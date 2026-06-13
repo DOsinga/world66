@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: 16.7748
 longitude: 96.1524
+score: 5.8
 ---
 
 The street food strip on 19th Street in Chinatown is one of Yangon's most lively evening destinations. From about 6pm, vendors set up tables and chairs across the road, offering grilled skewers (beef, pork, seafood), Burmese noodle dishes, and cold Myanmar Beer. The street fills quickly and the atmosphere — smoke from the grills, chatter from multiple tables, the clatter of the city around it — is excellent.

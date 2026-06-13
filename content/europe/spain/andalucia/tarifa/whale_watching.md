@@ -7,6 +7,7 @@ tags:
 - sight
 title: Whale and Dolphin Watching
 type: poi
+score: 8.5
 ---
 
 The Strait of Gibraltar is one of the most reliable places in Europe to see large cetaceans. Three species of dolphin live here year-round, pilot whales are present from spring to autumn, and pods of orcas follow the tuna migration into the strait between July and August. Sperm whales pass through in May and June; the occasional fin whale appears further out.

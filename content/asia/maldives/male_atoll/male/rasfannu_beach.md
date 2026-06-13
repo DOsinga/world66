@@ -9,6 +9,7 @@ tags:
 latitude: 4.1762
 longitude: 73.4994
 snippet: "Reclaimed beach park at the western tip of the island"
+score: 6.2
 ---
 
 Rasfannu is a relatively new strip of reclaimed beach at the western end of Malé, opened in the mid-2010s as part of the city's slow attempt to give itself more public space. It is cleaner and noticeably quieter than the better-known Artificial Beach on the east coast and the sunsets over the lagoon are better.

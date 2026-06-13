@@ -16,6 +16,7 @@ story: >
   replaced.
 sources:
   - https://en.wikipedia.org/wiki/Galleria_Umberto_I
+score: 7.8
 ---
 
 A magnificent iron-and-glass shopping arcade built in the 1880s, modelled on Milan's Galleria Vittorio Emanuele II and located directly opposite the Teatro San Carlo. The dome at its centre rises 57 metres above the mosaic floor; the cross-shaped plan and classical facades give it an almost ecclesiastical grandeur.

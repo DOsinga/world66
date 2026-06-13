@@ -9,6 +9,7 @@ tags:
 - market
 - vieille_ville
 neighbourhood: Vieil Antibes
+score: 7.8
 ---
 
 The covered market on Cours Masséna is the everyday heart of the old town. Provençal produce, cheese, charcuterie, olives, fish, herbs, flowers — the stalls run every morning except Monday from around 6am to 1pm. On Tuesday, Thursday and Saturday evenings in summer it switches over to an artisans' market.

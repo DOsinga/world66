@@ -14,6 +14,7 @@ story: >
   Echternach Gospels, now in the Bibliothèque nationale de France in
   Paris, and the Codex Aureus of Echternach, kept in Nuremberg. The
   abbey was a centre of book production for almost five centuries.
+score: 7.9
 ---
 
 The abbey precinct surrounds the basilica with the eighteenth-century claustral buildings — long classical wings now used as a school, conference centre, and the museum below — built after the original medieval cloister was abandoned. The Place du Marché, just outside the gate, marks the limits of the old monastic enclosure.

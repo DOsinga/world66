@@ -8,6 +8,7 @@ tags:
 latitude: 36.20528
 longitude: -94.11361
 story: "The Butterfield Overland Mail ran from Missouri to San Francisco between 1858 and 1861 — the shortest operating period of any major American mail service. The route through the Ozarks was famously difficult, and the Fitzgerald Station was one of the few stopping points where passengers could get a hot meal and a change of horses before the next leg into the Boston Mountains."
+score: 5.8
 ---
 
 The Fitzgerald Station and Farmstead is a collection of historic structures associated with the Butterfield Overland Mail Trail, the mid-nineteenth century mail and passenger route that connected Missouri to California via the South before the Civil War cut it short. The farmstead includes several original and relocated period buildings on land that once served as a Butterfield way-station.

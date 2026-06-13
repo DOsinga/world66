@@ -6,6 +6,7 @@ latitude: 38.6953
 longitude: -9.4197
 snippet: "Tiny cliff-enclosed cove beach in the heart of the old town"
 story: "Praia da Rainha — 'the Queen's Beach' — got its name because Queen Amelia, wife of King Carlos I, used it as her private bathing beach during the royal family's annual summer stays in Cascais. The narrow staircase down from the seafront promenade was originally built for her exclusive use."
+score: 7.1
 ---
 
 A small cove tucked between cliffs in the very centre of Cascais, Praia da Rainha is little more than a slip of golden sand at the foot of a steep staircase from the seafront promenade. It is impossibly photogenic and busy in summer — the small size means it fills up fast. Best visited at low tide and outside July and August.

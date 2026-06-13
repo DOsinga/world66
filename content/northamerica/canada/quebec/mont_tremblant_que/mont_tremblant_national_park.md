@@ -8,6 +8,7 @@ latitude: 46.6
 longitude: -74.45
 story: >
   Mont-Tremblant National Park was established in 1894, making it one of the oldest provincial parks in Québec. Its creation was partly motivated by protecting the watersheds that fed the logging industry — the Laurentian forests had been heavily logged through the mid-19th century, and the park boundaries were drawn to preserve what remained. Today it protects nearly 1,500 square kilometres of boreal and mixed forest, home to moose, black bear, wolf, and lynx.
+score: 8.9
 ---
 
 Mont-Tremblant National Park encompasses 1,510 square kilometres of the Laurentian Mountains, beginning just a few kilometres north of the resort village. Despite sharing a name, the park and the ski resort are separate entities — the park is managed by Sépaq and charges an entrance fee, while the resort is a private commercial operation.

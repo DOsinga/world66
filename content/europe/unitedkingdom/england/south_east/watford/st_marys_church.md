@@ -8,6 +8,7 @@ tags:
 latitude: 51.6546
 longitude: -0.3959
 snippet: Watford's medieval parish church, with the elaborate Essex Chapel
+score: 7.2
 ---
 
 The oldest building in central Watford, dating in parts to the 12th century, though most of what stands today is 15th-century rebuilding around an earlier core. The tower is the original Norman work; the nave was widened in the perpendicular style.

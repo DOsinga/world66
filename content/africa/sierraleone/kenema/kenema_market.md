@@ -7,6 +7,7 @@ tags:
 latitude: 7.885972
 longitude: -11.186383
 story: "Kenema's market was one of the most important trading points for alluvial diamonds in West Africa during the post-independence boom years. At its peak, informal diamond buyers — known locally as dealers — operated openly alongside the vegetable and cloth sellers, and the market had a reputation across the region as a place where fortunes were made and lost quickly."
+score: 7.1
 ---
 
 Kenema's central market is a large, chaotic, and thoroughly worthwhile place to spend an hour. It trades in produce, dried fish, palm oil, clothing, hardware, and almost anything else the surrounding region produces. The Mende-speaking traders from the interior bring forest products including bush meat, palm nuts, and herbal medicines.

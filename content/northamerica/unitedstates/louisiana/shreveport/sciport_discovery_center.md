@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
   - family
+score: 5.8
 ---
 
 A children-oriented science museum on the riverfront, with hands-on physics, biology, and engineering exhibits, an IMAX dome theatre, and a Power of Play hall aimed at younger kids. Reasonable rather than spectacular by big-city standards, but the best rainy-day destination in town if you are travelling with children.

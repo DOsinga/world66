@@ -7,6 +7,7 @@ tags:
 - museum
 title: West African Historical Museum
 type: poi
+score: 8.4
 ---
 
 Housed on the upper floor of Cape Coast Castle, this is one of the best small museums in West Africa. The permanent exhibits cover the trans-Atlantic slave trade, the cultures of the Akan, Fante, Ga and other Ghanaian peoples, and the long colonial history of the Gold Coast. The displays of slave manacles, branding irons, and trade goods are sobering and well-presented.

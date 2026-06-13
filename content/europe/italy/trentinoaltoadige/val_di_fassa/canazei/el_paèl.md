@@ -6,6 +6,7 @@ longitude: 11.7706
 tags:
   - eating_out
   - restaurant
+score: 5.4
 ---
 
 One of the long-standing Ladin restaurants in the centre, El Paèl serves traditional valley dishes — canederli of various kinds, cajincì (filled pasta), polenta with deer stew — in a stone-and-wood dining room. Solid wine list focused on Trentino-Alto Adige producers.

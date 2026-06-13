@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 30.3624
 longitude: 130.5465
+score: 7.7
 ---
 
 The coastal road that circles most of Yakushima makes an excellent driving or cycling route of about 100 kilometres. Not all of it is paved — a section on the western coast requires a four-wheel-drive vehicle or bicycle — but the main coastal circuit accessible by regular car offers a full cross-section of the island's character.

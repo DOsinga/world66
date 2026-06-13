@@ -8,6 +8,7 @@ tags:
 latitude: 42.1498
 longitude: -77.0543
 story: "The Corning Museum of Glass holds the world's largest collection of glass art and artefacts — more than 50,000 objects spanning 35 centuries, from ancient Egyptian core-formed vessels to contemporary studio glass. Corning Incorporated (formerly Corning Glass Works) established the museum in 1951 partly as goodwill and partly because it had been making precision optical and scientific glass since the 1870s, including the glass for Edison's first light bulb and the glass envelope for NASA's Hubble Space Telescope mirror."
+score: 9.2
 ---
 
 The Corning Museum of Glass is one of the finest specialty museums in the United States, holding the world's largest collection of glass art and artefacts — more than 50,000 objects covering 35 centuries of glassmaking history. The museum occupies a sprawling complex north of downtown Corning, with separate galleries for historical glassware, contemporary studio glass, and the science and technology of glass manufacturing.

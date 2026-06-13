@@ -10,6 +10,7 @@ tags:
 latitude: 6.028056
 longitude: 80.216944
 story: The floor is paved with the heavy stone tombs of seventeenth and eighteenth century Dutch settlers — moved here from the old cemetery — and the carved wooden pulpit, an ornate piece in calamander wood, was made on the spot by local craftsmen working in Dutch baroque style.
+score: 8.3
 ---
 
 The Groote Kerk, completed in 1755 by the Dutch governor of Galle, sits opposite the New Oriental Hotel just inside the main gate of the fort. It is the second oldest Protestant church in Sri Lanka and still in active use by a small Dutch Reformed congregation.

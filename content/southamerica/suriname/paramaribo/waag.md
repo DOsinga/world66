@@ -8,6 +8,7 @@ tags:
   - architecture
 latitude: 5.8246
 longitude: -55.1542
+score: 6.9
 ---
 
 The Waag — the former colonial weigh house — is one of the most photographed buildings in Paramaribo. A small, symmetrical wooden structure painted white, it stands on the Waterkant embankment exactly as it has since the 18th century, when all imported goods were weighed here before being traded. The building is now a restaurant and cafe, but the exterior retains its original character entirely.

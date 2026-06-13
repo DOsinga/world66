@@ -7,6 +7,7 @@ tags:
 latitude: 50.29631666666666
 longitude: 18.768563888888888
 address: "Roosevelta 81, 41-800 Zabrze, Poland"
+score: 5.9
 ---
 
 A modern multi-purpose arena opened in 2014, primarily the home ground of Górnik Zabrze, one of the most decorated football clubs in Polish history with multiple league championships and a storied European record in the 1960s and 70s. If you are in Zabrze on a match day, attending a Górnik game at the Arena is the most atmospheric way to experience the city's passionate football culture.

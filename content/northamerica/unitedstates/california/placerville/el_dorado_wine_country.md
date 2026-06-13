@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 38.7200
 longitude: -120.8200
+score: 8.3
 ---
 
 El Dorado County's wine country surrounds Placerville at elevations between 1,000 and 3,000 feet, and the combination of volcanic soils, warm days, and cool nights produces wines with real character — particularly the Rhône varieties (Syrah, Grenache, Viognier) and Barbera, which thrives at altitude. This is not Napa; the wineries are small, the tasting rooms low-key, and you can turn up on a Saturday without a reservation and still get a pour.

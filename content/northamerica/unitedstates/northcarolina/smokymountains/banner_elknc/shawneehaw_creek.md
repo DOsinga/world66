@@ -8,6 +8,7 @@ latitude: 36.15778
 longitude: -81.87083
 sources:
   - https://en.wikipedia.org/wiki/Shawneehaw_Creek
+score: 5.4
 ---
 
 Shawneehaw Creek runs through the heart of Banner Elk, its name derived from a Cherokee word for the serviceberry tree — the first tree to bloom in these mountains each spring. The creek is a pleasant presence in town and offers accessible fly fishing for brown and rainbow trout. The water runs cold year-round at this elevation, keeping the fish active even in midsummer when lower-elevation streams become sluggish.

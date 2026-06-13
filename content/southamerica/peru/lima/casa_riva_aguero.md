@@ -9,6 +9,7 @@ tags:
   - centro_historico
 neighbourhood: Centro Histórico
 snippet: 18th-century mansion housing a folk-art museum
+score: 8.0
 ---
 
 The **Casa Riva-Agüero** is a beautifully restored 18th-century *casa solariega* (manor house) on Jirón Camaná in the centre, donated to the Pontifical Catholic University in the 1940s. Today it houses a small but lively **Museum of Peruvian Popular Arts and Traditions**: retablos from Ayacucho, mate-burilado carved gourds from Huancayo, candlewax dolls from Cuzco, and several rooms of colonial-era furniture preserved in their original settings.

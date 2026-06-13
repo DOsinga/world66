@@ -11,6 +11,7 @@ story: >
   the Trnava region — a reminder that the flat fertile plain surrounding the
   city has been continuously inhabited and archaeologically significant since
   prehistoric times. The museum has occupied the same building for over a century.
+score: 6.5
 ---
 
 The Western Slovak Museum (Západoslovenské múzeum) is the main regional museum in Trnava, housed in a historic building on the main square. Its collections cover archaeology, natural history, and local cultural history, with particular strength in material from the Roman period — the Danube frontier was not far from here, and Roman remains are plentiful in western Slovakia.

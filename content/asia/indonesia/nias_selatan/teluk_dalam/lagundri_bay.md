@@ -5,6 +5,7 @@ latitude: 0.56978
 longitude: 97.72957
 tags: [things_to_do, sight, beach, surf]
 story: Surfers from Australia found the right-hand reef break here in the 1970s and the empty coconut-fringed crescent never quite recovered its anonymity. The wave at The Point peels for hundreds of metres at head-high on a good day and pulls a small global tribe of board-toting visitors every season.
+score: 8.3
 ---
 
 A horseshoe of pale sand wrapped in palms at the southern tip of Nias, about twelve kilometres southwest of Teluk Dalam. The bay has two faces: the calm inner curve, good for swimming and idling, and the surf-famous outer corner where the reef break known as The Point throws up the most consistent right-hander in Indonesia.

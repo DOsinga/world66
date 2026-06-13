@@ -10,6 +10,7 @@ address: "Miraflores, Panamá, Panama"
 snippet: Watch massive container ships navigate the Pacific entrance to the Panama Canal
 sources:
   - https://en.wikipedia.org/wiki/Miraflores_locks
+score: 9.3
 ---
 
 The most accessible Canal viewing point from Panama City, and the one with the best visitor facilities. The Miraflores Locks lift or lower ships by 16.5 metres in less than ten minutes — watching a container ship the size of an apartment block rise silently out of the water beside you, almost close enough to touch, is a genuinely startling experience. The clearance between ship and lock wall is sometimes under a metre; pilots earn their fees here.

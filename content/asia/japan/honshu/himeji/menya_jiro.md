@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
   - ramen
+score: 5.9
 ---
 
 Menya Jiro is a small ramen shop close to Himeji Station serving a clear shoyu-based broth that punches above its modest price. The kitchen leans toward the lighter Kansai style — less pork fat, more depth from dried sardine and konbu — and the menma topping is house-made.

@@ -8,6 +8,7 @@ tags:
 - history
 title: First African Baptist Church
 type: poi
+score: 7.4
 ---
 
 First African Baptist was founded in 1865 — the year the Civil War ended — by freed members of Beaufort's Baptist congregation who broke off to form their own church. The current building, completed in 1894, is a tall white frame structure with Gothic Revival windows, recognisable from blocks away by its slender belfry.

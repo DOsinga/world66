@@ -8,6 +8,7 @@ latitude: 49.1656
 longitude: -123.1453
 story: >
   The park is named after Minoru, an English horse who won the 1909 Epsom Derby. The horse's owner, King Edward VII, gave the name to the Richmond racetrack that occupied this site from 1909 to 1941 — the same land later used as a wartime airstrip, then a suburban park. The small Minoru Chapel, dating to 1891, was moved to the park from a nearby location and is the oldest surviving building in Richmond.
+score: 5.7
 ---
 
 Minoru Park is Richmond's central green space, a large urban park at the heart of the Brighouse neighbourhood that once housed a horse-racing track and wartime airstrip. Today it's a pleasant mix of playing fields, walking paths, a lake, and the Minoru Arenas. The Richmond Curling Club and the Richmond Oval both border the park.

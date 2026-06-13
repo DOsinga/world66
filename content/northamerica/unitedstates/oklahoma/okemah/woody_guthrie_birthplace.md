@@ -8,6 +8,7 @@ tags:
 - sight
 title: Woody Guthrie Birthplace Site
 type: poi
+score: 6.2
 ---
 
 Woody Guthrie was born on 14 July 1912 in a house on the northwest side of Okemah. The house is long gone, but a state historical marker commemorates the site, and it draws a small but steady stream of visitors — folk music pilgrims who want to stand on the ground where one of America's most important songwriters took his first breath.

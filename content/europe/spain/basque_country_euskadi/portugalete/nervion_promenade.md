@@ -6,6 +6,7 @@ tags:
 - sight
 title: Nervión Promenade
 type: poi
+score: 5.8
 ---
 
 Portugalete's riverside promenade follows the left bank of the Nervión estuary from the Vizcaya Bridge down toward Santurtzi. It is the town's social spine — locals promenade here in the evenings, benches face the water, and the working character of the estuary is visible in the form of tugboats, container terminals, and the occasional ocean-going vessel passing under the bridge.

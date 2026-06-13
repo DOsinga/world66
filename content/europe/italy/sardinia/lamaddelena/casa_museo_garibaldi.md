@@ -16,6 +16,7 @@ story: >
   buried in the garden without religious ceremony, wrapped in his red poncho.
   The Italian government overrode this request and he received a state funeral — 
   though he is indeed buried on Caprera, under a simple granite slab.
+score: 7.8
 ---
 
 On the island of Caprera, connected to La Maddalena by causeway, stands the simple farmhouse where Giuseppe Garibaldi — the general who united Italy — spent the last decades of his life between campaigns. The Casa Bianca (White House) has been preserved almost exactly as he left it: his hammock, his rifle, the clock stopped at the moment of his death, the bed where he died looking out over the sea.

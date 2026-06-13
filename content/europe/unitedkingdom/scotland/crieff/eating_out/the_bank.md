@@ -1,6 +1,7 @@
 ---
 title: "The Bank"
 type: poi
+score: 5.5
 ---
 
 Occupying a handsome former bank building on Crieff's main street, The Bank is the kind of all-day pub and restaurant that Scottish town centres do well. The interior retains some of the original banking hall features, giving it more architectural character than a typical high-street pub, and the kitchen turns out reliable Scottish pub food — pies, haggis, fish, and seasonal specials — at sensible prices.

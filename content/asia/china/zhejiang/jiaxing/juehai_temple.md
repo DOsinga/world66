@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.7647
 longitude: 120.7520
+score: 6.6
 ---
 
 Juehai Temple is one of the oldest Buddhist temples in the Jiaxing area, its history stretching back to the Tang dynasty and its current buildings dating mostly from Qing-era reconstructions. The temple sits in a quiet residential quarter of the city, and the contrast between the ceremonial gateway, incense-filled main hall, and the ordinary apartment blocks immediately outside the compound wall is characteristic of Chinese urban Buddhism — still very much alive and embedded in the neighbourhood rather than curated for tourism.

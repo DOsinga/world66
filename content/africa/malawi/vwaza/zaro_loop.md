@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: -10.9333
 longitude: 33.6000
+score: 6.3
 ---
 
 The Zaro Loop is the main self-drive game viewing track at Vwaza, running roughly 25 kilometres in a rough circuit through the woodland and dambo north and east of Kazuni Camp. The route takes two to three hours at game-viewing pace and gives you a real sense of the reserve beyond the lake — drier, quieter, more typical brachystegia bush.

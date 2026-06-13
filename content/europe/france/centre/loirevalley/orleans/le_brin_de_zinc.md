@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 47.9018
 longitude: 1.9108
+score: 5.8
 ---
 
 Le Brin de Zinc is a traditional French bistro in the old quarter, serving classic dishes — steak tartare, duck confit, seasonal vegetables — in a room with exposed beams and the warm atmosphere of a place that has been doing this for years. It is popular with local regulars, which is usually a good sign.

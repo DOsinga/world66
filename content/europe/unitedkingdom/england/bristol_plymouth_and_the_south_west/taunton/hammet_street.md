@@ -7,6 +7,7 @@ tags:
 - sight
 - historic
 - neighbourhood
+score: 7.4
 ---
 
 Hammet Street is a short, perfectly proportioned Georgian street cut through the medieval pattern of Taunton in 1788 specifically to frame the view of St Mary Magdalene's tower from the town centre. Sir Benjamin Hammet, the local MP and developer, financed the scheme; the houses on either side are an unbroken terrace of three-storey Georgian red brick.

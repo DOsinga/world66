@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - park
+score: 7.6
 ---
 
 Manting Park sits at the southern edge of Jinghong and is the obvious first stop in town: an old royal pleasure garden of the Dai kings of Sipsongpanna, now a public park with peacocks, gilt-roofed pagodas, and a small zoo. The original "Chunhuan" name means "spirit garden" in Dai. A footpath winds through bamboo groves, lotus ponds, and pavilions to the General Buddhist Temple at the top of the hill.

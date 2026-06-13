@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: -2.5285
 longitude: -44.305
+score: 7.4
 ---
 
 Roots Reggae Bar is exactly what the name suggests: a dedicated reggae venue in the historic centre that plays nothing but reggae, roots, and dancehall from a sound system that takes up half the room. The owner has been collecting vinyl since the 1970s and knows more about the music than most Jamaicans. The walls are covered with Bob Marley posters and record sleeves.

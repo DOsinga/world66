@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 51.4919
 longitude: -0.2561
+score: 6.8
 ---
 
 La Trompette is one of the best restaurants in west London and has been for many years — a sibling to Chez Bruce in Wandsworth and The Square in Mayfair. The cooking is modern European with strong French roots, the wine list is exceptional, and the service is professional without being stiff.

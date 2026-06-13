@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.1955
 longitude: 112.9810
+score: 7.7
 ---
 
 Chou doufu — stinky tofu — is as central to Changsha's identity as any temple or museum. The city ferments tofu in a brine of fermented milk, vegetables, and various other ingredients for anywhere from a few days to several weeks, then fries the result in hot oil. The frying creates a sealed, crispy exterior while the interior turns soft and intensely flavoured. The smell of the fermenting tofu and the frying oil together is one of the more challenging olfactory experiences in Chinese street food, but the taste is one of the more rewarding.

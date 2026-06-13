@@ -10,6 +10,7 @@ tags:
 - sight
 title: Prospect of Whitby
 type: poi
+score: 8.2
 ---
 
 The Prospect of Whitby claims to be the oldest surviving riverside pub in London, on the north bank of the Thames at Wapping since around 1520. Samuel Pepys was a regular. Turner painted from its terrace. Judge Jeffreys — the Hanging Judge — used it to watch criminals executed at the gallows visible from the riverside balcony.

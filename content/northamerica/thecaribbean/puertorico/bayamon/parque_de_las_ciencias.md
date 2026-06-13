@@ -8,6 +8,7 @@ tags:
   - sight
   - park
 story: "The park was the brainchild of Luis A. Ferré, an engineer-turned-governor who believed Puerto Rico needed a place where children could learn about science by climbing on the exhibits. When it opened in 1986 it included a transportation museum built around vintage cars and a real DC-3 you could walk through."
+score: 7.7
 ---
 
 The Parque de las Ciencias is Bayamón's main attraction: a sprawling open-air science and recreational park with a planetarium, a small zoo, a natural science museum, and themed pavilions dedicated to transportation, rocket science, and archaeology. It is particularly popular with families — children can wander between exhibits on grounds that feel more like a park than a museum.

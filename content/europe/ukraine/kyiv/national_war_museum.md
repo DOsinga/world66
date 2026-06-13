@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.4262
 longitude: 30.5630
+score: 7.2
 ---
 
 A vast Soviet-era memorial museum at the foot of the Motherland Monument, covering the German invasion and occupation of Ukraine between 1941 and 1944. The displays are uneven — some of the Soviet triumphalism remains — but the scale of the suffering is conveyed: Ukraine lost between five and seven million people in the war.

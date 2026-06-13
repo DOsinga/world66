@@ -10,6 +10,7 @@ story: >
   spiders, and a three-headed dragon — was designed by local artist Terry Steel. The
   Bangor Daily News once reported that the house attracts more tourist visits than
   any other site in the city.
+score: 7.2
 ---
 
 Stephen King's Victorian mansion on West Broadway is the city's most famous address. The elaborate wrought-iron fence, decorated with bats, spiders, cobwebs, and a three-headed dragon, makes it unmistakable. King bought the house in 1980 and lived here for decades, writing many of his most famous novels inside. He and his wife Tabitha have since donated the property to the Stephen and Tabitha King Foundation, which will use it as a writer's retreat.

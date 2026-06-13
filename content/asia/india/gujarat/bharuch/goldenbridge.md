@@ -7,6 +7,7 @@ tags:
 - sight
 snippet: The century-old road bridge connecting Bharuch to Ankleshwar across the Narmada
 type: poi
+score: 6.3
 ---
 
 The Golden Bridge, built by the British in the 1880s, spans the Narmada between Bharuch and Ankleshwar on the south bank. It was for decades the only fixed crossing of the lower Narmada and carries dense traffic. The bridge itself is not particularly spectacular architecturally, but the view from it — down the wide Narmada towards the Gulf of Khambhat, with the Bharuch fort visible on the hill to the west — is the best vantage point in the city.

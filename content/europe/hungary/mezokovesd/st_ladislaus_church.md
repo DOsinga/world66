@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.8159
 longitude: 20.5681
+score: 6.2
 ---
 
 The Roman Catholic parish church of Saint Ladislaus stands on the main square and is the most prominent building in the centre. The current building is essentially eighteenth-century baroque, with later modifications, and is tied to the religious life of the Matyó community — many traditional Matyó costumes were made for church festivals and saints' days here.

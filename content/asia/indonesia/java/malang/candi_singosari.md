@@ -14,6 +14,7 @@ story: >
   fanged, and menacing — are among the most impressive surviving examples of East
   Javanese Hindu-Buddhist sculpture. Two of them were taken to Leiden, Netherlands
   in the 19th century and remain there today.
+score: 7.4
 ---
 
 A 13th-century Hindu-Buddhist temple in the village of Singosari, about 10 km north of central Malang, built during the last years of the Singosari kingdom as a mortuary temple for its kings. The main tower is compact but finely proportioned in the East Javanese style, with a characteristic steep profile and ornate stone carvings of kala (demonic faces), makara (sea creatures), and divine figures. The two massive guardian statues (dwarapala) flanking the staircase are the most memorable element.

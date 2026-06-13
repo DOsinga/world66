@@ -10,6 +10,7 @@ latitude: 59.2907
 longitude: 10.3868
 sources:
   - https://en.wikipedia.org/wiki/Jarlsberg_Manor
+score: 4.9
 ---
 
 Jarlsberg Manor is a 17th-century baroque estate a few kilometres west of Tønsberg, the ancestral seat of the Wedel-Jarlsberg family and one of the finest country houses in Norway. The manor gave its name to the famous Jarlsberg cheese, which originated as a local dairy product on the estate's farmlands.

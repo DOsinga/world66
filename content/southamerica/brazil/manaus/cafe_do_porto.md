@@ -9,6 +9,7 @@ tags:
 latitude: -3.1346
 longitude: -60.0246
 address: Rua dos Andradas, Centro, Manaus
+score: 6.0
 ---
 
 Café do Porto, in a restored warehouse a few blocks from the riverfront, is one of the more pleasant places to sit down in central Manaus during the day. Bare brick walls, ceiling fans, big sash windows; tables outside on the cobbled lane. Coffee is good and roasted in-house, the cakes are dense and reliable, and there is a short menu of sandwiches and salads for lunch.

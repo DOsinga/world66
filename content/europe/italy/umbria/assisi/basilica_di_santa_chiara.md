@@ -9,6 +9,7 @@ tags:
 latitude: 43.0689
 longitude: 12.6169
 story: "The pink-and-white striped facade uses local stone from Monte Subasio — alternating bands of pale Subasio limestone and rose-coloured stone from nearby quarries. The same colour scheme reappears on the Cathedral of San Rufino and most of the medieval churches of the town."
+score: 8.6
 ---
 
 The basilica was built in 1257 to house the body of Santa Chiara (Clare of Assisi), the noblewoman who left a wealthy family to follow Francis and founded the Order of Poor Ladies — the Poor Clares. It is built in the same simple Italian Gothic style as San Francesco, with a single nave, transept, and squat bell tower, all in the distinctive pink-and-white stripes of Assisi stone.

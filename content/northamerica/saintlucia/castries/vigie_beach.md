@@ -8,6 +8,7 @@ tags:
   - sight
   - beach
   - swimming
+score: 6.8
 ---
 
 A long, narrow strip of pale sand running for nearly two kilometres along the north shore of the Vigie peninsula, Vigie Beach is the nearest serious swimming beach to central Castries. The sea is calm and clean, the sand is shallow for a long way out, and you can watch small planes from the adjacent George F. L. Charles Airport pass low overhead.

@@ -8,6 +8,7 @@ snippet: Birthplace of the "sleeping prophet" of early 20th century spiritualism
 latitude: 36.8640
 longitude: -87.4890
 story: "Edgar Cayce gave over 14,000 'readings' while in a self-induced trance state, diagnosing illnesses and making predictions. He has been called the most-documented psychic of the 20th century, and his archives are still actively studied by believers."
+score: 5.6
 ---
 
 Edgar Cayce, the most famous figure in 20th century American spiritualism, was born near Hopkinsville in 1877. Known as the "sleeping prophet," Cayce claimed to channel medical diagnoses and prophecies while in a trance state. His followers established the Association for Research and Enlightenment, which continues to operate from Virginia Beach.

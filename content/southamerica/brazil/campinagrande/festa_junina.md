@@ -10,6 +10,7 @@ story: >
   The São João festival has roots in Portuguese Catholic tradition celebrating Saint John the Baptist (24 June) and merges with indigenous and African elements that give it its distinctly northeastern Brazilian character. Campina Grande's version was declared the world's largest in the 1980s after a civic campaign to promote the city — the claim has stuck, and the numbers back it up: over a million visitors across the month of June.
 sources:
   - https://en.wikipedia.org/wiki/Festa_Junina
+score: 9.2
 ---
 
 Every June, Campina Grande transforms into the self-proclaimed capital of forró. The Festa Junina here — billed as the Maior São João do Mundo (World's Largest June Festival) — runs throughout the entire month and draws over a million visitors with forró dancing, quadrilha processions, bonfires, fireworks, and a constant soundtrack of accordion-driven music. The main events take place at the Parque do Povo (People's Park), where multiple stages, food stalls, and dance floors create a genuinely overwhelming sensory experience.

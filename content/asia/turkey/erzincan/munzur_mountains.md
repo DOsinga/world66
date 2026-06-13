@@ -4,6 +4,7 @@ type: poi
 latitude: 39.5500
 longitude: 39.3500
 tags: [things_to_do, nature, mountain]
+score: 8.3
 ---
 
 The Munzur range rises immediately south of the Erzincan plain — a sheer wall of grey limestone climbing to over 3,400 metres at Akbaba Tepe. The mountains are protected on the southern side as Munzur Valley National Park, one of Turkey's most ecologically rich preserves, with brown bears, wolves, lynx, ibex and a string of glacier-fed lakes.

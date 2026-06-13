@@ -10,6 +10,7 @@ tags:
 - sight
 title: Honnō-ji
 type: poi
+score: 6.4
 ---
 
 Honnō-ji is a Nichiren-school Buddhist temple a short walk from the city hall and one of the most historically loaded small temples in Japan. The current buildings, on Teramachi-dōri, are post-war reconstructions; the original temple — a few hundred metres west — was the scene of the *Honnō-ji incident* on 21 June 1582, when Oda Nobunaga, on the brink of completing the unification of Japan after a century of civil war, was ambushed by his trusted general Akechi Mitsuhide and forced to commit *seppuku* as his troops fought a losing battle in the surrounding streets.

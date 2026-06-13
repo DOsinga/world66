@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Sei Alalak Bridge
 type: poi
+score: 5.4
 ---
 
 The Sei Alalak Bridge is a cable-stayed bridge crossing the Alalak River in the northern part of Banjarmasin, completed in 2021. It has a distinctive curved pylon design that makes it one of the most visually striking pieces of infrastructure in South Kalimantan. The bridge has become a popular photography spot, particularly at night when it is illuminated.

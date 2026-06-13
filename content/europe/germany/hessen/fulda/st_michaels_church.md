@@ -12,6 +12,7 @@ story: >
   The Michaelskirche was built around 820 AD as the funerary chapel for the abbey. The design — a circular nave based on the model of the Holy Sepulchre in Jerusalem — was intended to evoke the sacred architecture of the Christian East in the heart of a newly Christianised Germany. Standing in the crypt below the round church, surrounded by columns carved a thousand years before the Baroque cathedral next door was built, is an unusually direct encounter with the early medieval world.
 sources:
   - https://en.wikipedia.org/wiki/St._Michael%27s_Church,_Fulda
+score: 8.5
 ---
 
 The Michaelskirche stands immediately beside the Dom and provides the most striking architectural contrast in Fulda's historic centre. Built around 820 AD as the funerary chapel for the Benedictine monastery, it is a Carolingian round church — the nave is circular in plan, based on Byzantine models intended to evoke the Holy Sepulchre in Jerusalem. It is among the oldest surviving ecclesiastical buildings in Germany, and the simplicity of its exterior gives little hint of the quality of what is inside.

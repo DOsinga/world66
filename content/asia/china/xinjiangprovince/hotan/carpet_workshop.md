@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.1080
 longitude: 79.9250
+score: 7.6
 ---
 
 Hotan carpets occupy a distinct place in the Central Asian rug tradition: wool pile knotted on cotton warp, with a palette of deep reds, blues, and ivories, and designs that are more geometric and less complex than those of the carpet-making centres further west. The designs derive from local Uyghur tradition and include motifs — pomegranates, eight-pointed stars, interlocking meanders — that reflect both Islamic influences and older Silk Road symbolism.

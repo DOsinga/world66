@@ -8,6 +8,7 @@ tags:
 latitude: 48.1472
 longitude: 11.5722
 story: "The Pinakothek der Moderne covers four museums in one building: modern art, graphic design, architecture, and applied arts. The architecture collection — with 350,000 drawings and models from the 18th century to today — is one of the best in the world and almost entirely unknown internationally."
+score: 8.7
 ---
 
 The most recent of Munich's three Pinakothek museums, opened in 2002 in a building by Stephan Braunfels, houses four distinct collections: modern and contemporary art, design, architecture, and the Bayerische Staatsgemäldesammlungen's 20th-century holdings. The central rotunda under the skylight is striking architecture in its own right.

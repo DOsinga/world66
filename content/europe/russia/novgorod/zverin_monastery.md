@@ -16,6 +16,7 @@ story: >
   a fact that shaped everything about the city's extraordinary medieval heritage.
 sources:
   - https://en.wikipedia.org/wiki/Zverin_Monastery
+score: 7.1
 ---
 
 The Zverin Monastery sits on the left bank of the Volkhov River north of the Kremlin, a short walk from the city centre along the riverside promenade. Founded in the 12th century, the monastery's main church dates from 1335 and contains well-preserved medieval frescoes. The grounds are peaceful and the river views are good — this is a quieter alternative to the main tourist circuit around the Kremlin and Yaroslav's Court.

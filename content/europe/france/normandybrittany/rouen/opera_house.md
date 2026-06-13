@@ -4,6 +4,7 @@ type: poi
 latitude: 49.4395
 longitude: 1.0896
 tags: [things_to_do, sight]
+score: 6.7
 ---
 
 The Théâtre des Arts, home to the Opéra de Rouen Normandie, is a striking 1960s building on the south side of the old town between the river and the Place de la Cathédrale. The exterior is determinedly modern; the auditorium inside is one of the better mid-sized opera houses in France, with an adventurous programme of mostly French and contemporary work.

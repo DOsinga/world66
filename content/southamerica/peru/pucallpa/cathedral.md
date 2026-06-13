@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: The modernist concrete cathedral on the Plaza de Armas.
+score: 6.3
 ---
 
 Pucallpa's cathedral is a 1970s replacement for an earlier wooden church and is a striking exception to the colonial-baroque norm of Peruvian cathedrals: a soaring, almost brutalist concrete shell with stained-glass windows depicting Amazonian scenes — toucans, river dolphins, native women with woven jars — interspersed with the Stations of the Cross. The interior is unexpectedly serene.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Demerara River at Linden
 type: poi
+score: 5.8
 ---
 
 The Demerara River runs past Linden on its way north to the Atlantic coast at Georgetown, and the town's waterfront gives the best view of this wide, brown river in its upper reaches. The river is a working waterway — barges loaded with bauxite are a common sight — but the banks are pleasant in the early morning and evening, and the sunsets over the water can be striking.

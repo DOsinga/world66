@@ -6,6 +6,7 @@ tags:
 - books
 title: The Joy Luck Club
 type: poi
+score: 6.7
 ---
 
 Amy Tan's debut novel tells the intertwined stories of four Chinese immigrant women and their American-born daughters in San Francisco. Through mahjong games and family dinners, the mothers share stories of the China they left behind -- war, loss, secrets -- while their daughters navigate the gulf between their parents' world and their own.

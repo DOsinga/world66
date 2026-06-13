@@ -5,6 +5,7 @@ author: "Frans G. Bengtsson"
 isbn: "978-1590173466"
 tags:
   - books
+score: 5.0
 ---
 
 A Swedish historical novel from 1941–45, set in the late tenth century and one of the great prose works on the Viking age. The hero, Red Orm, fights his way through Denmark, the Hebrides, Andalusian Spain, England under King Ethelred, and Eastern Europe, in a comic-epic style somewhere between Icelandic saga and Evelyn Waugh.

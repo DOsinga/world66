@@ -13,6 +13,7 @@ tags:
 - landmark
 title: Burnley Mechanics
 type: poi
+score: 6.2
 ---
 
 Burnley Mechanics is a Grade II listed Victorian theatre and arts centre in the town centre. Originally a Mechanics' Institute from 1855, the building now operates as a full-service venue presenting theatre companies, comedy nights, live music (particularly blues and jazz), and community events.

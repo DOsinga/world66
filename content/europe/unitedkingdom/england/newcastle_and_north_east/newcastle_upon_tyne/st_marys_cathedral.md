@@ -8,6 +8,7 @@ tags:
 - sight
 - church
 snippet: Pugin's Catholic cathedral with one of his finest interiors
+score: 7.9
 ---
 
 Catholic cathedral by Augustus Pugin, opened in 1844 — one of his best surviving interiors, with painted reredos, stained glass, and a vivid Tractarian colour scheme that mostly escaped the Victorian whitewashing. The interior has been carefully restored and is open daily.

@@ -8,6 +8,7 @@ tags:
 latitude: 20.2671
 longitude: 105.8955
 snippet: "One of the largest Buddhist temple complexes in Southeast Asia, on a forested hillside"
+score: 6.9
 ---
 
 Bai Dinh is the largest Buddhist temple complex in Vietnam by area, built between 2003 and 2010 on a forested hillside within the Trang An Scenic Landscape Complex. The scale is staggering: a 3-kilometre covered corridor lined with 500 stone Arhat statues, three vast main halls, a 100-metre bell tower, and an outdoor bronze Buddha that is among the largest in the country.

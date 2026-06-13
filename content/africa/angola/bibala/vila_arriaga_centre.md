@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 - history
+score: 6.0
 ---
 
 Before independence, Bibala was Vila Arriaga, a planned inland settlement tied to railway expansion and agricultural colonisation. The centre still carries that origin in its relationship to the tracks: commercial and administrative buildings gathered close to the station rather than around a scenic square.

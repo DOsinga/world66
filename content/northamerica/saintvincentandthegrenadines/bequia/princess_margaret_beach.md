@@ -8,6 +8,7 @@ latitude: 12.9981
 longitude: -61.2369
 story: >
   Princess Margaret Beach gets its name from a royal visit in 1958, when Princess Margaret stopped here during a Caribbean tour and reportedly declared it her favourite beach. Whether she said it or someone decided she ought to have, the name stuck. The beach itself has changed very little since.
+score: 8.3
 ---
 
 Princess Margaret Beach is the closest good beach to Port Elizabeth — a fifteen-minute walk or short water taxi ride along the south shore of the bay. The sand is soft and white, the water is calm and clear, and the fringe of sea-grape trees provides shade. It is one of the more beautiful beaches in the Grenadines.

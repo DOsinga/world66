@@ -8,6 +8,7 @@ tags:
 latitude: 37.1750
 longitude: -113.3500
 snippet: "The dramatic fault escarpment rising west of town — 600 metres of red sandstone created by one of the longest normal faults in the American West."
+score: 6.7
 ---
 
 The Hurricane Cliffs form the western backdrop to the town, a sheer escarpment of red sandstone rising roughly 600 metres above the valley floor. They were created by the Hurricane Fault, a normal fault running more than 250 kilometres through southwestern Utah — one of the longest of its type in the American West. The fault dropped the land to the west while the eastern block held, producing a cliff face that is geologically significant and visually hard to ignore.

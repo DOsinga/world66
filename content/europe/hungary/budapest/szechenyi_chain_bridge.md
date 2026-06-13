@@ -7,6 +7,7 @@ tags:
 - castle_district
 title: Széchenyi Chain Bridge
 type: poi
+score: 8.4
 ---
 
 The first permanent bridge between Buda and Pest, opened in 1849, remains the most recognisable landmark on the Danube. Walk it at dusk when the stone lions at each end and the suspension cables are lit up and the Parliament building glows downriver. Recently restored and reopened after a major renovation, it connects the foot of the Castle District to the Pest embankment near Gresham Palace.

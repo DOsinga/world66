@@ -8,6 +8,7 @@ latitude: 25.4550
 longitude: 78.5830
 story: >
   The tank was historically part of the fort's water supply system — one of the engineering features that made the Bangra Hill position defensible for extended periods. During the 1857 siege, the garrison inside the fort held out partly because of this stored water. The British knew that to take the fort they would need to breach the walls, not wait out a drought.
+score: 6.7
 ---
 
 Ganga Sagar is a large step-tank (baoli) adjacent to the fort complex, one of several historic water bodies that served Jhansi's old city. The tank is a working piece of hydraulic heritage — the step architecture allows access at different water levels through the dry season — and is more interesting than it sounds as an illustration of pre-modern urban water management in a region that faces serious drought.

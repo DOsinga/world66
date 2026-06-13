@@ -4,6 +4,7 @@ type: poi
 tags: [bars_and_cafes, pub]
 latitude: 52.3490
 longitude: -1.5901
+score: 6.3
 ---
 
 The pub sitting directly opposite the castle gate has been pouring pints to visitors for two centuries. It is unpretentious, slightly worn in the right places, and serves the kind of pies, sausages, and Sunday roasts that pair with a castle visit on a damp afternoon.

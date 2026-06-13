@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 33.7558
 longitude: -118.1248
+score: 7.2
 ---
 
 Naples Island is a small residential neighbourhood in the eastern part of Long Beach that was built on dredged land in the early twentieth century as a Venetian-style development with canals instead of streets. The original developer named the streets after Italian cities and built the canal network to allow residents to reach their homes by gondola. Much of that infrastructure is still in place.

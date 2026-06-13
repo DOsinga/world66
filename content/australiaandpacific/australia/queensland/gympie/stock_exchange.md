@@ -8,6 +8,7 @@ tags:
 - sight
 - architecture
 story: "At its peak in the 1880s and 1890s the Gympie Stock Exchange traded shares in over a hundred local mining companies. It was one of the few regional stock exchanges in Australia and a sign of how seriously gold money took itself here."
+score: 6.7
 ---
 
 A two-storey 1881 building on Mary Street that once housed Gympie's own stock exchange. Mining shares were bought and sold here daily during the boom decades, when the surrounding goldfield was producing some of the deepest hard-rock mining in the country.

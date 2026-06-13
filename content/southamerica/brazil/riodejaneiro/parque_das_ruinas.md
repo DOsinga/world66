@@ -9,6 +9,7 @@ latitude: -22.9219
 longitude: -43.1903
 sources:
   - https://en.wikipedia.org/wiki/Parque_das_Ru%C3%ADnas
+score: 7.6
 ---
 
 The Parque das Ruínas in Santa Teresa is the partially preserved shell of a Belle Époque mansion that once belonged to Laurinda Santos Lobo, one of Rio's most celebrated society hostesses of the early 20th century. After her death in 1946 the mansion fell into disrepair and was eventually taken over by the city, which stabilised the crumbling walls and converted the skeleton of the building into a cultural centre and viewing point.

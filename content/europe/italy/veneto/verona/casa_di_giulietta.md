@@ -10,6 +10,7 @@ tags:
 - landmark
 title: Casa di Giulietta
 type: poi
+score: 4.8
 ---
 
 A 13th-century Gothic house associated (dubiously) with Shakespeare's Juliet. The small courtyard is perpetually crowded with visitors photographing the balcony and leaving messages on the walls. The house contains a small museum and art gallery. The bronze statue of Juliet in the courtyard has a well-worn right breast — rubbing it is said to bring luck in love. Authenticity aside, it is a well-preserved medieval house in an attractive corner of the old city.

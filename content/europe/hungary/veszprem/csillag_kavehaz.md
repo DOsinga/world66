@@ -7,6 +7,7 @@ tags:
 - cafe
 title: Csillag Kávéház
 type: poi
+score: 5.8
 ---
 
 The Star Coffeehouse — a long-standing café on the corner of Óváros tér — keeps something of the look of a classical Hungarian kávéház: marble-topped tables, dark wooden chairs, glass-fronted cabinets of cakes. The coffee is reliable, the cakes good, and the staff cheerful.

@@ -8,6 +8,7 @@ tags:
   - sight
   - monastery
   - architecture
+score: 8.1
 ---
 
 The Raifa Monastery, on a forested lake about 25 kilometres west of Kazan, is the largest functioning Orthodox monastery in Tatarstan and a popular day trip. Founded in 1613, it occupies a walled complex of pale blue and white churches reflected in a still lake — picture-perfect when the trees turn in October.

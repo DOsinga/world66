@@ -8,6 +8,7 @@ tags:
 - art
 title: Aspen Art Museum
 type: poi
+score: 7.5
 ---
 
 The Aspen Art Museum moved into a new downtown building in 2014, designed by the Japanese architect Shigeru Ban — a striking three-storey structure with a woven wood-and-paper outer screen, an open rooftop sculpture deck, and a "moving stairway" that visitors can take down through the galleries from the rooftop café. The museum focuses on contemporary art and runs a rotating programme of solo and group exhibitions of international artists; there is no permanent collection.

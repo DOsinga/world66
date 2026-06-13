@@ -9,6 +9,7 @@ tags:
 - bar
 - pelourinho
 snippet: Tiny corner bar with cold beer and live samba
+score: 6.4
 ---
 
 A small corner bar in the Pelourinho where the regulars spill into the street with bottles of cold Skol. Cheap, busy in the early evening, and often the source of an impromptu samba circle that gets going around 8pm.

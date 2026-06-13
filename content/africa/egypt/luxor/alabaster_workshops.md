@@ -7,6 +7,7 @@ tags:
 latitude: 25.725000
 longitude: 32.618000
 snippet: "Village workshops where alabaster vases, bowls, and scarabs are carved using traditional methods"
+score: 5.0
 ---
 
 The villages around the West Bank, particularly in the Gurna area, have been producing alabaster carvings for sale to tourists since the 19th century — and the craft predates tourism by several thousand years. The workshops are family-run, using hand tools and foot-powered lathes to produce everything from thumb-sized scarabs to large vases.

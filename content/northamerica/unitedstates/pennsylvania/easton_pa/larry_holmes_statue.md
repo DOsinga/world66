@@ -13,6 +13,7 @@ story: >
   opened a restaurant and several businesses on the waterfront, and
   helped fund the boulevard now named for him. The statue was
   unveiled in 2008.
+score: 5.1
 ---
 
 A bronze of heavyweight world champion Larry Holmes stands on the Lehigh River boardwalk that bears his name, gloves up in mid-jab, on the waterfront a short walk from Centre Square. Holmes was born and raised in Easton, and the surrounding patch of riverside — the Larry Holmes Drive boardwalk — is one of the more pleasant strolls in town, with views across the Delaware into Phillipsburg, New Jersey.

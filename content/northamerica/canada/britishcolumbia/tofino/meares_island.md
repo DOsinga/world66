@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   Meares Island was the site of British Columbia's first major Indigenous-led blockade in 1984, when the Tla-o-qui-aht and Ahousaht First Nations occupied the island to prevent logging. They won. The island was declared a Tribal Park and has never been logged. The big trees you walk among today are the direct result of that blockade.
+score: 8.9
 ---
 
 A large, forested island just across the water from Tofino, accessible by water taxi in minutes. Meares Island is a Tribal Park declared by the Tla-o-qui-aht First Nation, protecting ancient temperate rainforest that would otherwise have been logged decades ago. The Big Tree Trail, a 4km boardwalk loop through old-growth forest, is one of the most impressive forest walks on the BC coast.

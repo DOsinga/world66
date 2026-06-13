@@ -10,6 +10,7 @@ longitude: 73.4637
 sources:
   - https://en.wikipedia.org/wiki/Karla_Caves
   - https://en.wikipedia.org/wiki/Bhaja_Caves
+score: 8.8
 ---
 
 Two of the finest rock-cut Buddhist monuments in India, carved into the basalt cliffs of the Western Ghats about 10 km from Lonavala. Both date to the 2nd century BCE — among the oldest surviving examples of this tradition anywhere.

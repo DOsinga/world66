@@ -6,6 +6,7 @@ longitude: 16.4432
 tags:
   - things_to_do
   - sight
+score: 6.8
 ---
 
 The Cathedral of St Stephen anchors the eastern end of Pjaca, Hvar Town's grand main square, a long rectangle paved in white stone that opens onto the harbour. The cathedral is a Renaissance-Baroque hybrid: the bell tower from the late sixteenth century, the facade reworked in the seventeenth, the interior dim and richly furnished.

@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Enslaved Africans built Brimstone Hill by hauling stones up an 800-foot volcanic cone for over a century. In 1782 a French force of 8,000 besieged the 1,000-man British garrison for a month before they surrendered — the British retook the fortress by treaty the following year, never having lost it in open battle."
+score: 9.3
 ---
 
 The single most impressive sight on the island, Brimstone Hill is a colossal 18th-century British fortress perched 800 feet above the sea on a volcanic outcrop. It is a UNESCO World Heritage Site and one of the best-preserved historical fortifications in the Americas, with bastions, citadels, magazines, and barracks all built from the black volcanic stone that gave the hill its name.

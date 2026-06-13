@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.5455
 longitude: 7.0350
+score: 6.3
 ---
 
 At the eastern end of the Croisette, Port Pierre Canto is the newer of Cannes's two marinas — a forest of masts belonging to sailing yachts, motorboats, and the occasional superyacht. The harbour promenade at this end of the boulevard is quieter than near the Palais, and the views back across the bay toward Le Suquet and the Esterel hills beyond are excellent.

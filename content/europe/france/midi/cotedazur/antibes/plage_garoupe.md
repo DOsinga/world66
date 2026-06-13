@@ -7,6 +7,7 @@ snippet: Sheltered sandy cove on the eastern side of Cap d'Antibes
 tags:
 - things_to_do
 - beach
+score: 6.3
 ---
 
 Plage de la Garoupe is a small, sandy beach tucked into a cove on the eastern flank of Cap d'Antibes. It faces east, so the morning sun is good and the afternoons are sheltered from the wind by the cap. The sand is fine and the water shelves gently, which makes it a popular family beach.

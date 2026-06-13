@@ -12,6 +12,7 @@ story: >
   with the mountain hinterland. The full network was never completed as envisioned,
   but the surviving Genova-Casella section — running through gorges and over viaducts
   — has outlasted its purpose as transportation and survived as a scenic attraction.
+score: 7.7
 ---
 
 A narrow-gauge railway running 24 kilometres from Genoa's Piazza Manin station up into the wooded hills of the Ligurian hinterland, ending at the small village of Casella. The train is slow by design — it takes an hour each way — and the journey through gorges, over viaducts, and past terraced hillside villages is the entire point.

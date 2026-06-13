@@ -14,6 +14,7 @@ story: >
   Independencia, or First Cry of Independence). The hall where the document
   was signed has been preserved and is open to visitors as part of the
   convent museum.
+score: 8.1
 ---
 
 The Church and Convent of San Agustín, on Chile Street in the Historic Centre, is one of the older and more historically significant colonial complexes in Quito, begun in the 16th century and substantially rebuilt in the 17th. The church's Baroque interior is less gilded than La Compañía but more sober and imposing, with a series of large paintings depicting scenes from the life of St Augustine by the Flemish artist Fray Pedro Gosseal and his Quiteño students.

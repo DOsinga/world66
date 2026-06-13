@@ -10,6 +10,7 @@ tags:
   - sight
   - downtown
 story: "Spanish soldiers founded the Presidio in 1775 — the same year that ended with the Battles of Lexington and Concord on the Atlantic coast. The original fort enclosed eleven acres; one corner has been reconstructed on its original footprint, and a section of the original adobe wall, found in situ, is preserved under glass."
+score: 7.4
 ---
 
 The Presidio San Agustín del Tucsón is a partial reconstruction of the Spanish military fort that gave Tucson its name, at the heart of downtown. The original adobe walls were torn down and built over in the late nineteenth century; what stands today is a faithful rebuild on the original footprint, completed in 2007.

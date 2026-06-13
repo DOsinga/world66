@@ -8,6 +8,7 @@ latitude: -26.2367
 longitude: 28.009
 story: >
   The mine on which Gold Reef City stands produced over three million ounces of gold before it closed in 1977. The gold-bearing Witwatersrand reef — a narrow band of ancient conglomerate rock — is visible in the walls of the underground tunnels.
+score: 6.2
 ---
 
 Gold Reef City is a theme park and casino built on the Crown Mines site, one of the original gold mines that made Johannesburg. It sits directly next to the [Apartheid Museum](/africa/southafrica/johannesburg/apartheid_museum), which makes a combined visit logical — though the juxtaposition of the two experiences (one of Africa's most serious history museums alongside waterslides and slot machines) is jarring. The casino complex is not worth your time.

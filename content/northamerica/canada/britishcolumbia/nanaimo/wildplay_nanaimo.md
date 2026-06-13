@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.0986
 longitude: -123.9742
+score: 6.4
 ---
 
 WildPlay is an outdoor adventure park set above the Nanaimo River canyon about 15 minutes south of the city centre. The signature attraction is the bungee jump — a 46-metre free fall from a bridge above the river gorge that is among the more dramatic bungee sites in Canada. For those who want adventure without the free fall, there are ziplines, rope swings, and tree-top obstacle courses at various heights and difficulty levels.

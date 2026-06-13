@@ -10,6 +10,7 @@ tags:
 title: Franciscan Monastery
 type: poi
 story: "Father Jure Radić, a Franciscan from this monastery, spent decades after the Second World War collecting seashells from across the world. The Malacological Museum that resulted holds more than 40,000 shells and is one of the largest collections of its kind in Europe."
+score: 7.4
 ---
 
 The Franciscan monastery (Franjevački samostan) sits at the western end of Makarska's waterfront, a complex of buildings dating from the early 16th century around a cloistered courtyard. The monastery survived the Ottoman period and has been the local cultural anchor ever since. Today it is best known internationally for the Malacological Museum — Father Jure Radić's life work — and a small art gallery.

@@ -7,6 +7,7 @@ tags:
   - museum
 latitude: 16.508
 longitude: 80.628
+score: 8.0
 ---
 
 The state's main archaeological museum, formerly known as the Victoria Jubilee Museum, holds sculptures, coins, and inscriptions gathered from sites across Andhra Pradesh. The Buddhist material — fragments and panels from Amaravati, Nagarjunakonda, and other ancient stupa sites — is the strongest part of the collection.

@@ -8,6 +8,7 @@ latitude: 15.5167
 longitude: -88.2167
 story: >
   Cusuco is one of the few cloud forest reserves in Central America accessible as a day trip from a major city. The park gained international attention in the 2000s and 2010s as the site of Operation Wallacea, an annual research expedition bringing scientists and students from around the world to study biodiversity. Their surveys documented hundreds of species new to science, including several amphibians found nowhere else.
+score: 8.8
 ---
 
 Cusuco National Park is a cloud forest reserve in the Merendón mountains about 40 km west of San Pedro Sula. The park protects one of Honduras's most biodiverse ecosystems: epiphyte-laden forest at elevations above 2,000 metres, home to resplendent quetzals, spider monkeys, tapirs, and an extraordinary diversity of amphibians. Birders consider it one of the best accessible sites in Central America.

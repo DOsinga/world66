@@ -7,6 +7,7 @@ tags:
 - things_to_do
 title: Mirage Volcano
 type: poi
+score: 6.3
 ---
 
 The Mirage Volcano was one of the original free spectacles on the Las Vegas Strip — a full-scale volcano erupting with real fire, water, and a booming soundtrack right on the sidewalk. The show ran nightly for decades and became one of the most recognizable landmarks on the Boulevard.

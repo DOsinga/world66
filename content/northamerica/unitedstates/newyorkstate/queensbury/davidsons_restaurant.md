@@ -7,6 +7,7 @@ snippet: Long-running pub-brewery in nearby Glens Falls
 tags:
 - bars_and_cafes
 - bar
+score: 5.9
 ---
 
 Davidson Brothers, on Glen Street in adjacent Glens Falls (a few minutes drive from the centre of Queensbury), is the area's longest-running brewpub. The brewery side puts out around a dozen beers, with the IPA, the Dacker (a session lager) and the seasonal stouts all worth ordering. The pub side does a reliable pub-food menu — burgers, wings, fish and chips, brewer's pretzels.

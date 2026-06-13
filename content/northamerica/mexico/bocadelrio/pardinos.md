@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 19.1059
 longitude: -96.1075
+score: 7.4
 ---
 
 The institution. Pardiño's has been serving seafood on the Boca del Río side of the river since 1933 and is the place locals send visitors when they want a proper Veracruz-style fish lunch. The dining room is enormous, the waiters wear bow ties, and the menu runs to a dozen pages of mariscos.

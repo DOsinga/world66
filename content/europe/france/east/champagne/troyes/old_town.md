@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 48.2975
 longitude: 4.0762
+score: 9.3
 ---
 
 The old town of Troyes is one of the best-preserved medieval town centres in France, and it sees only a fraction of the tourists that descend on Colmar or Strasbourg. The half-timbered houses — some dating from the 15th and 16th centuries, their upper floors cantilevered out over the street — line the lanes around the cathedral and along the Rue Champeaux and Rue des Chats.

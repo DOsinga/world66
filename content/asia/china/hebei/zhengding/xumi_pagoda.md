@@ -13,6 +13,7 @@ story: >
   Buddhist scriptures. The structure has survived nearly 1,400 years with its
   original form largely intact, which says something about the precision of
   Tang dynasty stone construction.
+score: 8.0
 ---
 
 The Xumi Pagoda is the oldest and tallest of Zhengding's four famous pagodas, rising 48 metres in nine tiers from a square stone platform. Built in 636 during the Tang dynasty, it belongs to the Kaiyuan Monastery and is a textbook example of early Tang pagoda design: square in plan, tapering upward through even brick tiers, with a restrained elegance that contrasts markedly with the more elaborately decorated Song-period structures nearby.

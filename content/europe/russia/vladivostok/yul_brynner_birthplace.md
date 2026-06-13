@@ -11,6 +11,7 @@ story: >
   Yul Brynner was born Yuliy Borisovich Briner in Vladivostok in 1920, the son of a Swiss engineer and a Russian Romani woman. He left Russia as a child and eventually became one of Hollywood's most recognisable stars — best known for The Magnificent Seven and his defining role as Pharaoh Rameses in The Ten Commandments. Few Hollywood legends have such an improbable origin story.
 sources:
   - https://en.wikipedia.org/wiki/Yul_Brynner
+score: 5.7
 ---
 
 Vladivostok has a fondness for its most famous export: Yul Brynner, the bald Hollywood star who was born here in 1920. A bronze statue of Brynner in his characteristic Magnificent Seven pose — arms crossed, leather jacket — stands in the Arbat pedestrian zone near his birthplace. The house where he was born is on Aleutskaya Street and is marked with a plaque, though it is not open to visitors.

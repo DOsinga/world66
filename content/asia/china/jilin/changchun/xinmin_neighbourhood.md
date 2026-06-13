@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 43.8700
 longitude: 125.3500
+score: 7.4
 ---
 
 Xinmin District spreads across Changchun's eastern side and contains the city's largest concentration of ethnic Korean residents — a community that has been present in this part of northeast China for generations, with roots in the late Qing and early Republican period migrations from the Korean peninsula. The neighbourhood has Korean-language signage, a range of Korean restaurants serving the real food of the Korean diaspora rather than the adapted versions common elsewhere, and a social texture that is distinctly different from the Han-majority districts.

@@ -12,6 +12,7 @@ tags:
 - palace
 title: Museo Nazionale del Bargello
 type: poi
+score: 9.2
 ---
 
 Florence's essential sculpture museum, housed in a 13th-century palace that served as the city's prison and courthouse before becoming a museum. Houses Donatello's two bronze Davids, Michelangelo's early works (including Bacchus and Brutus), and Ghiberti's and Brunelleschi's famous competition panels for the Baptistery doors — both submitted in 1401, both now displayed side by side.

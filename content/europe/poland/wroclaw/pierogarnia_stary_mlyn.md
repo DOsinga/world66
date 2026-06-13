@@ -7,6 +7,7 @@ tags:
 latitude: 51.111
 longitude: 17.034
 address: "Świętej Jadwigi 1, 50-266 Wrocław"
+score: 5.8
 ---
 
 The best of Wrocław's specialist pierogi houses, serving hand-made dumplings in dozens of varieties — meat, sauerkraut and mushroom, potato and cheese (the classic Russian), spinach and goat cheese, a daily sweet pierogi. The dough is excellent.

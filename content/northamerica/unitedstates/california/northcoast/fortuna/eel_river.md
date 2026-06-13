@@ -6,6 +6,7 @@ longitude: -124.1648
 tags:
   - things_to_do
   - sight
+score: 6.4
 ---
 
 The Eel River runs along the western edge of Fortuna, broad and gravelly through its lower reaches, and is one of the largest rivers in California. In summer it slows to a series of pools and runs that the locals fish for steelhead and chinook salmon; in winter it can swell with rain to spectacular widths and occasionally floods the bottomland farms.

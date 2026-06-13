@@ -8,6 +8,7 @@ tags:
 latitude: 52.5116
 longitude: 5.0529
 story: "The museum's floating cellar is one of the stranger things you will find in a Dutch house. Because the building rests on a wooden foundation sunk into the waterlogged soil, and the groundwater level changes with the tides of the IJsselmeer, the basement literally rises and falls a few centimetres with the water. The owner who built it in the early 1500s used this to his advantage: the cellar stays consistently cool and damp without any special effort."
+score: 7.4
 ---
 
 The Edam Museum occupies what is claimed to be the oldest wooden house in the Netherlands, a building from the early 16th century on the Damplein. Most Dutch houses from this period were later refaced in brick; this one survived because it was used as a town hall and then a museum before anyone thought to modernize it.

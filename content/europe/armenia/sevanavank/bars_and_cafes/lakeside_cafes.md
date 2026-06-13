@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 40.5575
 longitude: 44.9370
+score: 4.4
 ---
 
 Seasonal cafes with terraces overlooking the lake operate near the monastery from roughly June through September. They serve cold drinks, Armenian coffee, and simple snacks — not a destination in themselves, but a pleasant place to sit after the monastery when it is hot. On summer weekends they fill up; weekday mornings are quiet.

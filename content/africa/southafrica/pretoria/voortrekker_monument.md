@@ -14,6 +14,7 @@ story: >
   was the date of the Battle of Blood River (1838), when a Voortrekker force defeated a 
   Zulu army, an event Afrikaners long regarded as divine intervention. The monument was 
   consecrated on 16 December 1949.
+score: 8.7
 ---
 
 The Voortrekker Monument is a granite fortress on Monument Hill south of Pretoria, built to commemorate the Afrikaner settlers (Voortrekkers) who left the Cape Colony in the 1830s and 1840s to escape British rule. It is one of the most powerfully realised pieces of commemorative architecture in Africa, and a loaded one — built at the height of Apartheid and inseparable from that history. It remains one of the most visited sites in Pretoria.

@@ -9,6 +9,7 @@ latitude: 13.1503
 longitude: 99.9458
 sources:
   - https://en.wikipedia.org/wiki/Tham_Khao_Luang
+score: 8.7
 ---
 
 Tham Khao Luang is the most dramatic temple site near Phetchaburi -- a large cave hollowed out of a limestone hill about 4km north of town, filled with hundreds of Buddha images of all sizes and lit by shafts of sunlight that pierce the cavern ceiling through natural openings in the rock. The light effect is strongest around midday, when the shafts illuminate the golden figures below in a way that feels almost theatrical.

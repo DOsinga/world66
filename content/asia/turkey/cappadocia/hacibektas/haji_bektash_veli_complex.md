@@ -12,6 +12,7 @@ story: >
 sources:
   - https://en.wikipedia.org/wiki/Haji_Bektash_Veli_Complex
   - https://en.wikipedia.org/wiki/Haji_Bektash_Veli
+score: 9.0
 ---
 
 The Hacı Bektaş Veli Complex is the heart of the Alevi-Bektaşi tradition — a 13th-century dergah (lodge) and its surrounding buildings, now preserved as a museum. The complex includes a ceremonial kitchen (aşevi) where initiates were trained, a semah hall where ritual music and dance took place, and the türbe of Hacı Bektaş Veli himself — a domed tomb that serves as a place of active pilgrimage.

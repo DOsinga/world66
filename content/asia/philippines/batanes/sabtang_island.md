@@ -13,6 +13,7 @@ story: >
   genuinely rough when the wind picks up. Ivatan fishermen make the trip daily in all but the worst
   conditions. Travellers, having paid for their flight from Manila, sometimes find the crossing the most
   memorable part of the whole journey.
+score: 9.5
 ---
 
 Sabtang is the most rewarding day trip from Batan Island, and for many visitors it is the highlight of the whole trip to Batanes. The island is smaller and quieter than Batan, with a handful of Ivatan stone villages, a dramatic coastline, and almost no tourist infrastructure beyond a few homestays in the main village. The combination of traditional architecture, open sea views, and genuine remoteness is hard to find anywhere else in Southeast Asia.

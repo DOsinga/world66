@@ -10,6 +10,7 @@ tags:
 neighbourhood: Dearborn
 title: Al-Ameer
 type: poi
+score: 7.0
 ---
 
 Al-Ameer is the most decorated Lebanese restaurant in metro Detroit, winning the James Beard "America's Classics" award in 2016. The menu is the long Lebanese standard — hummus, baba ghanoush, fattoush, kibbeh, shawarma — but executed with the consistency of decades of practice. The chicken shawarma and the lentil soup are house signatures.

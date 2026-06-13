@@ -8,6 +8,7 @@ tags:
   - religious
 latitude: 30.6894
 longitude: -88.0444
+score: 7.7
 ---
 
 The Government Street Presbyterian Church is widely regarded as one of the finest Greek Revival church buildings in the United States and among the least altered. Built in 1836–37, the massive Ionic portico and severe classical lines reflect the high-water mark of Greek Revival taste in the antebellum South. The congregation was founded in 1820 and the building has survived hurricanes, the Civil War, and urban renewal with remarkable integrity.

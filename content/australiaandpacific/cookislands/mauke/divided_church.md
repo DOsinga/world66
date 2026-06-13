@@ -8,6 +8,7 @@ tags:
 - sight
 title: Cook Islands Christian Church (Divided Church)
 type: poi
+score: 8.5
 ---
 
 The white coral-and-lime church in Areora is Mauke's signature sight and one of the strangest small buildings in Polynesia. From the outside it looks like a single elegant 1882 mission church. Inside, the entire space is split into two halves with different paint schemes, different decorative carvings, and historically two pulpits — the result of an unresolvable design quarrel between the villages of Areora and Ngatiarua.

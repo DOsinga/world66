@@ -8,6 +8,7 @@ tags:
 - nature
 title: Valle de las Ánimas
 type: poi
+score: 8.6
 ---
 
 The Valle de las Ánimas — the Valley of Souls — is an eroded landscape of tall, thin clay spires that rise from the valley floor like rows of broken teeth. The formations are similar in origin to the better-known [Valle de la Luna](/southamerica/bolivia/lapaz/valle_de_la_luna) but different in character: where Valle de la Luna is a labyrinth of lower formations you walk through at close range, Valle de las Ánimas is more dramatic from a distance, the spires reaching up to 80 or 90 metres in places, their names coming from the way they seem to lean and crowd like a congregation of spirits. The colours shift through ochre, grey, and brick-red depending on the light.

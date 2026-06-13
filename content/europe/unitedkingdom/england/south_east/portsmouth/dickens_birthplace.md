@@ -8,6 +8,7 @@ tags:
 - museum
 title: Charles Dickens' Birthplace
 type: poi
+score: 6.8
 ---
 
 The modest Georgian terraced house where Charles Dickens was born in February 1812 to a junior clerk in the Royal Navy Pay Office. The family moved on after a few months, but the rooms have been furnished in early-19th-century style and the small museum holds a collection of Dickens memorabilia. A short walk north of the Historic Dockyard.

@@ -6,6 +6,7 @@ tags:
 - sight
 title: Horsens Fjord
 type: poi
+score: 7.0
 ---
 
 Horsens Fjord is a narrow inlet running about 20 kilometres from the town's harbour to the open Kattegat, lined with small wooded promontories and scattered with islands. It is one of the calmer and less-visited fjords of the east Jutland coast, and is particularly good for kayaking — the sheltered water and varied shoreline suit both novices and more experienced paddlers. Several kayak rental companies operate from the harbour.

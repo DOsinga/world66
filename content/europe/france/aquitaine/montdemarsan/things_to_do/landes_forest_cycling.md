@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 43.8750
 longitude: -0.520
+score: 7.4
 ---
 
 The Landes de Gascogne is the largest planted forest in western Europe: millions of maritime pines stretching in every direction across flat sandy ground. The terrain is almost entirely level, the air smells of resin, and the network of forest tracks and dedicated cycling routes extends for hundreds of kilometres around Mont-de-Marsan.

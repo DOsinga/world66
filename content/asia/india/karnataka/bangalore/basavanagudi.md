@@ -6,6 +6,7 @@ tags:
 - neighbourhood
 title: Basavanagudi
 type: poi
+score: 8.5
 ---
 
 Basavanagudi is one of Bangalore's oldest and most traditional neighbourhoods, a welcome contrast to the tech parks and glass towers of the north. The area takes its name from the Bull Temple — basava means bull — and has a distinctly South Indian Brahmin character that has remained largely intact even as the rest of the city has transformed around it. The streets are lined with old houses, small temples, and coffee houses that feel unchanged from fifty years ago.

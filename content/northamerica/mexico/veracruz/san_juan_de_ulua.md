@@ -12,6 +12,7 @@ story: >
   next four centuries the fortress was the first and last sight of the New World for millions
   of people — conquistadors, slaves, merchants, and prisoners. Its last inmates were not freed
   until 1915.
+score: 8.8
 ---
 
 San Juan de Ulúa is the massive fortress-palace-prison complex on an island connected to the Veracruz port by causeway, and it is one of the most historically loaded sites in Mexico. Cortés landed here in 1519, and the Spanish began building a fort shortly afterwards to protect the silver convoys that would flow from New Spain back to the Old World. Over three centuries the complex grew into a labyrinthine structure of walls, towers, moats, palaces, and — most grimly — prison cells where political prisoners were held in conditions designed to break them.

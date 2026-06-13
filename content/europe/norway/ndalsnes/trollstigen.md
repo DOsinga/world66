@@ -11,6 +11,7 @@ story: >
   and snow depth, and even in early summer the opening date is
   announced only a few days in advance once the upper switchbacks
   have been cleared.
+score: 9.2
 ---
 
 The Trollstigen — the Troll's Path — is one of Europe's most famous mountain roads. From the valley floor near Åndalsnes it climbs 850 metres in eleven hairpin bends, threading between waterfalls and rock walls, before levelling out on a high plateau and dropping down the far side toward Geiranger. The Stigfossen waterfall thunders alongside the upper bends, sending spray across the road.

@@ -8,6 +8,7 @@ tags:
 - nature
 title: Parque das Mangabeiras
 type: poi
+score: 8.1
 ---
 
 Parque das Mangabeiras is the city's biggest park — 235 hectares of Atlantic Forest on the slopes of the Serra do Curral, on the southern edge of the city. It is the closest most visitors will get to the surrounding mountains without leaving the city, and it offers some of the best views of Belo Horizonte from above.

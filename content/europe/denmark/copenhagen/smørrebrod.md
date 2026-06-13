@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, restaurant]
 latitude: 55.6800
 longitude: 12.5730
+score: 7.4
 ---
 
 Smørrebrød — open-faced rye bread sandwiches — are the most distinctly Danish food, and Restaurant Schonnemann on Hauser Plads has been serving them since 1877. The menu is a long list of traditional toppings: herring in various preparations, roast pork with crackling and red cabbage, liver pâté, egg with shrimp and mayonnaise, rare roast beef with remoulade. Each is an artfully constructed small work.

@@ -7,6 +7,7 @@ tags:
 latitude: 53.9064
 longitude: 27.5527
 snippet: Minsk's small but charming Old Town by the river — the only pre-war neighbourhood that survived
+score: 6.9
 ---
 
 Troitsky Predmestye — Trinity Suburb — is the closest thing Minsk has to an old town. A compact cluster of 19th-century buildings along the west bank of the Svislach River, it was one of the few areas of Minsk spared from wartime destruction (or reconstructed with enough care to feel authentic) and now houses cafes, galleries, and cultural institutions.

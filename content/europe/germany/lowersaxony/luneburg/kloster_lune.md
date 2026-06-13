@@ -9,6 +9,7 @@ tags:
 - church
 - museum
 snippet: Surviving Lutheran convent on the city's edge, with an extraordinary medieval textile collection
+score: 8.4
 ---
 
 Founded in 1172 as a Benedictine convent and converted at the Reformation into a Lutheran women's foundation, Lüne Abbey is one of six convents of the Heideklöster that still operate as residential communities under their own abbess. It sits about a kilometre and a half north of the old town, in calm gardens beside the Lüne mill stream.

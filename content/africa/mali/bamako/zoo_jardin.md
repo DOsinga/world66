@@ -8,6 +8,7 @@ tags:
 latitude: 12.6520
 longitude: -8.0120
 snippet: Bamako's city zoo, popular with families and worth a short visit
+score: 5.6
 ---
 
 The Parc Zoologique et Botanique, on the western edge of the plateau near the city centre, is Bamako's main park and zoo. The collection is modest — African animals including lions, crocodiles, hippos, and various antelope species — and the conditions are typical of sub-Saharan African city zoos: underfunded but earnestly maintained. It's worth an hour if you have children in tow or if you want a quiet green space in a city with few of them.

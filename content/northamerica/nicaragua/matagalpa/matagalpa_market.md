@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, market]
 latitude: 12.9255
 longitude: -85.9200
+score: 7.6
 ---
 
 Matagalpa's main market is a large, sprawling covered and open-air affair a few blocks from the central plaza. It is a working market first — produce from the surrounding highland farms, hardware, clothing, food stalls — and it smells and sounds like the real thing.

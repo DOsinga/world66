@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 title: Fidgets
 type: poi
+score: 4.4
 ---
 
 A neighbourhood sports bar on South Virginia Street in the southern part of Reno. Multiple screens cover the main games, the beer selection is straightforward, and the crowd is local. Decent place to catch a game without the casino-floor noise that dominates most Reno drinking spots.

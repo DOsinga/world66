@@ -200,6 +200,27 @@ longitude: 12.4833
 
 Do not publish a POI without coordinates. If you cannot determine them, leave the file out. Don't make up coordinates. Check and double check.
 
+## POI scores
+
+Every POI must have a `score` field in its frontmatter. Scores are floats from `1.0` to `10.0` and are used to order POI lists within a location, with the most important places first.
+
+Calibrate scores against the other POIs in the same parent location. Before adding or changing a POI score, look at the existing scores for that location and place the new POI into that local lineup. The exact global score of a Paris museum versus an Amsterdam museum matters less than whether each city page presents its own strongest sights first.
+
+Use this scale:
+
+| Score range | Meaning |
+|-------------|---------|
+| `9.0`-`10.0` | World-class or essential for the place; worth travelling far to see |
+| `8.0`-`8.9` | Headline attraction; a major reason to include the location in a trip |
+| `7.0`-`7.9` | Strong second-tier sight; clearly worth making time for |
+| `6.0`-`6.9` | Solid but more selective; good for a third day or to fill an afternoon |
+| `5.0`-`5.9` | Minor, niche, or nice-to-have |
+| `< 5.0` | Low priority; mainly for completists or people already nearby |
+
+```yaml
+score: 7.4
+```
+
 ## Sources
 
 The `sources` field records reference URLs used when writing or enriching a page. Add it to the frontmatter of any location page where a useful external reference exists. It is a list, so multiple sources can be recorded. Any time we discover a source, add it to the list for future reference, both for pois & locs

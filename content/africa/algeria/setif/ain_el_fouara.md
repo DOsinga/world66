@@ -15,6 +15,7 @@ story: >
   was Francis de Saint-Vidal, a French artist who created the work in 1898.
   The willingness of successive generations of Sétifians to restore it despite
   political pressure makes the fountain an unusually charged landmark.
+score: 6.8
 ---
 
 The most famous monument in Sétif: a 19th-century French fountain topped with a bronze nude female figure representing a water spirit. "Ain El Fouara" means "gushing spring" in Arabic, and the fountain stands at the heart of the city's central Aïn El Fouara Square, surrounded by cafe terraces and busy with local life.

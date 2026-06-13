@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 25.1900
 longitude: 92.0167
+score: 5.1
 ---
 
 The Dawki River — known on the Indian side as the Umngot — flows out of the Khasi Hills of Meghalaya into Bangladesh, and its lower stretches near Jaflong have water so clear that boats appear to float on air over the visible riverbed. Bangladeshi visitors can view this Indian stretch across the border from the Tamabil checkpoint area without crossing.

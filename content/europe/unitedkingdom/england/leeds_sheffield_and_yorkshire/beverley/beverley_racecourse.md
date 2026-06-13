@@ -8,6 +8,7 @@ tags:
 - sight
 - sport
 snippet: "Flat-racing course on the Westwood, in use since the eighteenth century"
+score: 6.3
 ---
 
 Beverley Racecourse occupies a slice of the Westwood common on the western edge of town, with the course rising up the hill and round to the finishing straight in front of the small grandstand. Flat racing has been held here since 1690, and around twenty fixtures are run between April and September each year.

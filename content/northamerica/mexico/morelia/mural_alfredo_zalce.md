@@ -13,6 +13,7 @@ story: >
   Renaissance, Zalce chose to stay in his home state rather than seek fame in
   Mexico City, creating an extraordinary body of work documenting the landscapes,
   people, and political struggles of Michoacan throughout the 20th century.
+score: 8.4
 ---
 
 Alfredo Zalce's massive mural "People and Landscape of Michoacan" decorates the staircase of the Palacio de Gobierno and is considered one of the masterworks of Mexican muralism. Painted between 1960 and 1973, the mural sweeps through Mexican history with Zalce's characteristically vivid colours and strong compositional sense — the Purepecha world before conquest, the violent arrival of the Spanish, the independence movement led by Morelos and Hidalgo, the reform period, and the Revolution.

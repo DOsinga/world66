@@ -7,6 +7,7 @@ tags:
   - sight
 title: Kuttam Pokuna (Twin Ponds)
 type: poi
+score: 8.5
 ---
 
 A pair of finely cut granite bathing pools built for the monks of the Abhayagiri monastery in the 8th or 9th century. The pools — one slightly larger than the other — are connected by a small underground conduit, and water flowed in through a remarkable filtration system of settling tanks designed to remove silt and impurities.

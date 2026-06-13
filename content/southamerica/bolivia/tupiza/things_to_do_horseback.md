@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.4438
 longitude: -65.7208
+score: 9.3
 ---
 
 Riding is the signature Tupiza experience. Several agencies on Avenida Pedro Arraya around the train station rent horses with a guide for two-hour, half-day, full-day and multi-day rides. Prices are low by South American standards and the horses are generally well looked after.

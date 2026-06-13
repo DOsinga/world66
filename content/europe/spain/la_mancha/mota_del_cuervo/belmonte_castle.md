@@ -8,6 +8,7 @@ tags:
 title: Belmonte Castle
 type: poi
 story: "Film crews have repeatedly chosen Belmonte as a stand-in for medieval Spain. Parts of El Cid (1961) starring Charlton Heston were shot here, and the castle's walls and towers have since appeared in several Spanish television productions. The keep's great hall, with its original Gothic vaulting intact, has proved particularly useful to set designers who need a space that requires no dressing at all."
+score: 8.4
 ---
 Fifteen kilometres west of Mota del Cuervo, the castle of Belmonte rises from a low hill above its eponymous town in one of the most striking silhouettes in Castile-La Mancha. Built in the mid-fifteenth century for the Marquis of Villena, Juan Pacheco, it combines Gothic and Mudéjar elements in a way that was unusual even at the time: the triangular floor plan follows the contours of the hilltop rather than any standard military geometry, and the interior decoration mixes pointed arches with intricately carved Moorish-influenced plasterwork.
 

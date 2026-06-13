@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight]
 latitude: -35.6106
 longitude: 174.5244
+score: 5.8
 ---
 
 The harbour is a small, well-protected inlet ringed by bush-covered hills, with a marina that hosts the dive boats and a handful of game-fishing charters. It is the obvious place to start the day in Tutukaka — a coffee on the deck, a walk along the wharf to see what the night's catch looks like, and then a boat at 8 am out to the Poor Knights.

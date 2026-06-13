@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.7939
 longitude: 87.6213
+score: 6.8
 ---
 
 People's Square is the formal civic centre of Ürümqi — a large paved expanse with fountains, state monuments, and the occasional ceremony or official gathering. It is flanked by major government buildings including the regional People's Government headquarters, and the overall effect is one of deliberate authority: wide, open, designed to be impressive. It is not a place that invites lingering in the way a European piazza does, but it is worth understanding as part of the city's character.

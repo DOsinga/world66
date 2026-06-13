@@ -7,6 +7,7 @@ tags:
   - sport
   - sight
 type: poi
+score: 8.4
 ---
 
 Corviglia is the main ski mountain above St. Moritz, reached by the Corviglia Funicular from the village center. At 2,486 metres, the summit offers a long panorama over the Upper Engadin valley and its chain of lakes. The terrain here is broad, sunny, and well-suited to confident intermediates — long cruising runs on well-groomed pistes that catch the full force of the 300 days of annual sunshine St. Moritz claims.

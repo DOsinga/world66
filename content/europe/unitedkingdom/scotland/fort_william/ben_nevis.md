@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "From 1883 to 1904, a manned weather observatory stood on the summit, with a small hotel attached for paying tourists. The C.T.R. Wilson cloud-chamber experiment that earned a Nobel Prize was inspired by glories he saw from the summit observatory. The buildings were abandoned when funding dried up; the ruins are still visible, half-buried under snow even in midsummer."
+score: 10.0
 ---
 
 The highest mountain in Britain, at 1,345 metres above the head of Loch Linnhe, is a slab of granite, gabbro, and Devonian sediments tilted improbably to the sea. The summit plateau is broad, often clagged in cloud, and the famous Tower Ridge and Carn Mor Dearg arête give it one of the longest and most exposed mountain edges in the country. On a clear day — perhaps fifty days a year — the view stretches from the Cuillin of Skye to the Cairngorms.

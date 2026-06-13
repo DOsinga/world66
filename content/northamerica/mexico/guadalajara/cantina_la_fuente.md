@@ -6,6 +6,7 @@ tags:
   - bar
 latitude: 20.6733
 longitude: -103.3450
+score: 6.9
 ---
 
 La Fuente is one of the oldest and most authentic cantinas in the Guadalajara historic centre — a traditional Mexican drinking establishment that has been operating in more or less the same form for decades. The décor is dark wood, old bottles, and bullfighting memorabilia. The tequila selection is serious and the botanas (free snacks that come with each drink order) are generous.

@@ -9,6 +9,7 @@ snippet: "Traditional Upper Austrian Wirtshaus, the place for schnitzel and dump
 tags:
 - eating_out
 - restaurant
+score: 5.5
 ---
 
 A traditional Wirtshaus a few minutes' walk from the Stadtplatz, doing exactly what a good Austrian inn should do: Wiener schnitzel, roast pork with bread dumplings, beef goulash, fresh trout. Generous portions, attentive service, fair prices.

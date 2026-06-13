@@ -13,6 +13,7 @@ story: >
   1926 and 1945. They replaced his first set, destroyed by fire during the Spanish
   Civil War in 1936. Sert repainted the entire series — entirely in monochrome gold,
   ochre, and black — at his own expense, completing the work shortly before his death.
+score: 8.5
 ---
 
 The Cathedral of Sant Pere de Vic is a neoclassical building constructed in the eighteenth century on the site of a much older Romanesque church, of which the eleventh-century bell tower survives. The interior is the main draw: sweeping murals by Josep Maria Sert cover the walls and vaults, depicting scenes from the life of Christ and from Catalan history on a monumental scale.

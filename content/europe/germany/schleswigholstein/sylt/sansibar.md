@@ -8,6 +8,7 @@ tags:
   - restaurant
   - rantum
 snippet: A driftwood-clad dune shack south of Rantum that has become Sylt's most famous restaurant
+score: 5.7
 ---
 
 Sansibar started out in 1978 as a beach shack in the dunes south of Rantum selling sausages and beer, and over four decades has somehow turned into the most famous restaurant on the German coast — without ever really changing what it is. The building is still a low driftwood-clad structure half-buried in the sand; the menu still leans on fish, currywurst, and *Pannfisch* (pan-fried fish with potatoes); the wine list now runs to several hundred labels.

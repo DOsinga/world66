@@ -15,6 +15,7 @@ story: >
   the refuge and restricts beach access during nesting season; guided night
   turtle watches are among the more extraordinary wildlife experiences in
   the Caribbean.
+score: 8.1
 ---
 
 Sandy Point is the southwestern tip of St. Croix, a long, undeveloped arc of beach that looks south over open water toward Venezuela. It is protected as a National Wildlife Refuge specifically because of the leatherback sea turtles that nest here in large numbers each spring. Outside nesting season (roughly July through February), the beach is open on weekends and is one of the most beautiful and uncrowded beaches in the US Virgin Islands — a wide expanse of pale sand with no development, no vendors, and remarkable clarity in the water.

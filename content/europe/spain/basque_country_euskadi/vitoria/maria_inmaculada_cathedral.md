@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 The newer of Vitoria's two cathedrals was begun in 1907 in a neo-Gothic style and consecrated in 1969 — one of the last great Gothic-style cathedrals built anywhere in the world. The exterior is honey-coloured limestone with a 100-metre tower; the interior is vast, austere, and entirely lacking in clutter, which lets the height and the stained glass do the work.

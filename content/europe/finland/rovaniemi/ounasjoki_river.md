@@ -14,6 +14,7 @@ story: >
   the river in April is a local event that people follow like weather. Kotisaari, an island
   in the river just south of the city centre, is accessible on foot in summer and by ski
   in winter.
+score: 7.6
 ---
 
 The Ounasjoki river runs through the centre of Rovaniemi and defines the character of the city more than any single building. In summer, the river banks are walkable and cyclable, with the Arktikum museum sitting directly on the north bank and parkland along both shores. Canoe and kayak rentals are available, and the stretch of river through the city is calm enough for beginners. In July, the midnight sun turns the water gold at 11pm and stays gold until after midnight.

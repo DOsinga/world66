@@ -13,6 +13,7 @@ story: >
   calderas now filled with water. Sampaloc — the largest at 104 hectares — sits just a few
   hundred metres from the city centre, giving San Pablo the rare distinction of having a
   volcanic crater as its backyard park.
+score: 8.1
 ---
 
 The largest of San Pablo's seven volcanic crater lakes, covering 104 hectares and sitting right at the edge of the city centre. A concrete path circles the entire shore -- about three kilometres -- and is popular for early morning walks and bike rides. Freshwater fish farms line the eastern shore, and lakeside restaurants serve tilapia and catfish straight from the water.

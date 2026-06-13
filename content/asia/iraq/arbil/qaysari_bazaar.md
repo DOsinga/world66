@@ -8,6 +8,7 @@ tags:
 - market
 title: Qaysari Bazaar
 type: poi
+score: 8.0
 ---
 
 The Qaysari Bazaar wraps around the base of the citadel mound in a warren of narrow covered lanes that has been a market since the 13th century. It is not a tourist bazaar but a working commercial market — vendors sell spices, textiles, jewellery, traditional Kurdish clothing, fresh and dried fruits, hardware, and the everyday goods of Kurdish urban life.

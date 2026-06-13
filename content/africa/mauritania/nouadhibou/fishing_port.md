@@ -6,6 +6,7 @@ longitude: -17.0500
 tags:
   - things_to_do
   - sight
+score: 8.5
 ---
 
 The artisanal fishing harbour on the south side of town is the most atmospheric place in Nouadhibou. Hundreds of brightly painted wooden pirogues — most crewed by Senegalese, Ghanaian, and Malian fishermen — pull in through the morning with octopus, hake, sea bream, and the prized white grouper.

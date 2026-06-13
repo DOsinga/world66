@@ -10,6 +10,7 @@ latitude: 35.0966
 longitude: 129.0297
 sources:
   - https://en.wikipedia.org/wiki/Jagalchi_Market
+score: 8.5
 ---
 
 Korea's largest seafood market, and one of the few places in Busan where the city's port identity is still completely legible. The main building houses stalls selling live fish, shellfish, octopus, and sea cucumbers from tanks; the outdoor waterfront section is rougher and busier, with ajumma vendors in yellow aprons presiding over their catches from early morning.

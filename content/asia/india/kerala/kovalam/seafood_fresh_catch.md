@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out]
 latitude: 8.3930
 longitude: 76.9775
+score: 6.6
 ---
 
 Several restaurants near Hawah Beach will cook whatever you buy at the morning fish auction or from the boats that return at dawn. The arrangement is informal and common: you select live crabs or freshly landed fish, negotiate a price with the fisherman or the beach traders, and hand it to a nearby restaurant kitchen who will cook it for a small fee. The experience is not organised — it requires some confidence and basic bargaining — but the result is the freshest possible meal at well below restaurant prices.

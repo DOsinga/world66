@@ -19,6 +19,7 @@ tags:
 title: Colosseum
 type: poi
 url: www.colosseo.it
+score: 9.8
 ---
 
 Rome's defining ancient monument, a 2,000-year-old amphitheatre that once held 50,000–80,000 spectators for gladiatorial games, animal hunts, and public spectacles. Construction began under Emperor Vespasian around AD 70 and was completed by his son Titus in AD 80. Four storeys of arches in travertine and tufa, the largest amphitheatre ever built — its engineering has influenced stadium design ever since.

@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.7442
 longitude: 4.7940
+score: 7.6
 ---
 
 The village of Les Baux is largely 15th and 16th century, built from the same pale limestone as the ridge it stands on. Most of the buildings are occupied by galleries, craft shops, and restaurants catering to the considerable visitor trade, but the architecture itself is genuinely remarkable — buildings carved directly from the rock, narrow lanes that end at vertiginous views, and the general impression of a settlement that grew organically from the cliff face.

@@ -10,6 +10,7 @@ snippet: "1898 Queen Anne farmhouse — the oldest residence in Huntington Beach
 address: "19820 Beach Boulevard"
 latitude: 33.6779
 longitude: -117.9874
+score: 6.2
 ---
 
 The Newland House is a two-storey Queen Anne farmhouse built in 1898 by William Newland, an early settler who farmed lima beans and celery on the surrounding mesa. It is the oldest standing residence in Huntington Beach and is listed on the National Register of Historic Places.

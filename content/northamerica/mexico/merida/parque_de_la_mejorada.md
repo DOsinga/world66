@@ -9,6 +9,7 @@ tags:
 latitude: 20.9663
 longitude: -89.6176
 snippet: Quiet colonial park in the eastern barrio, a neighbourhood escape from the tourist circuit
+score: 6.6
 ---
 
 Parque de la Mejorada sits in the eastern part of the historic centre, a few blocks from the Plaza Mayor but noticeably quieter — this is the residential city rather than the tourist circuit. The park is shaded by large trees and surrounded by well-preserved colonial buildings, including the Iglesia de la Mejorada, a 17th-century Franciscan church with an attached convent that now houses architecture studios. Local families use the park in the evenings and weekend mornings in ways that the more prominent parks closer to the centre no longer do.

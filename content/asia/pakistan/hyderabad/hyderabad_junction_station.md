@@ -8,6 +8,7 @@ latitude: 25.3811
 longitude: 68.3735
 sources:
   - https://en.wikipedia.org/wiki/Hyderabad_Junction_railway_station
+score: 6.9
 ---
 
 The main railway junction of Hyderabad, one of the oldest and most important railway stations in Sindh. Hyderabad Junction lies on the Karachi–Peshawar main line, with additional lines branching to Kotri and toward the interior of Sindh. The station handles significant freight traffic as well as passenger services.

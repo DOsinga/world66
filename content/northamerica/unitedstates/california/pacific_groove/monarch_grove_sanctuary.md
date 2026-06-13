@@ -10,6 +10,7 @@ longitude: -121.9307
 story: "Pacific Grove has embraced the monarchs so completely that it was once illegal to molest a butterfly within city limits — an ordinance passed in 1938 that carried a fine of $500. The law was eventually repealed, but the sentiment behind it persists: locals take the annual return of the butterflies as seriously as any civic holiday."
 sources:
   - https://en.wikipedia.org/wiki/Monarch_Grove_Sanctuary
+score: 7.8
 ---
 
 Each year from October through February, tens of thousands of monarch butterflies cluster in a grove of eucalyptus and pine trees off Lighthouse Avenue. The Monarch Grove Sanctuary is a small free park where, on cool mornings, you can see the butterflies hanging in dense masses from branches, mimicking dead leaves until the day warms and they open their wings and take flight.

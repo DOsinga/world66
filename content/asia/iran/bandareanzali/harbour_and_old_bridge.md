@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 37.4716
 longitude: 49.4686
+score: 6.8
 ---
 
 The old bridge across the lagoon channel connects central Anzali to the Ghazian neighbourhood and is the best vantage point for watching the fishing boats come and go. The wooden fishing craft tied up along the channel banks and the larger Caspian vessels in the outer harbour give the town a distinctly maritime character that is unusual in Iran.

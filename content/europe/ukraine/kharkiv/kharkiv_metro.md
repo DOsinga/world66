@@ -12,6 +12,7 @@ story: >
   same monumental ambition as the famous Moscow metro — Istorychnyi
   Muzei station in particular features mosaic panels depicting
   Ukrainian history that run the full length of the platform.
+score: 6.8
 ---
 
 Kharkiv has one of the three metro systems in Ukraine (along with Kyiv and Dnipro), and several of its stations are worth seeking out for their Soviet-era interior design. The system covers the city well and is the fastest way to move between the city centre, the university district, and outlying areas.

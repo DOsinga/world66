@@ -6,6 +6,7 @@ longitude: 7.0208
 tags:
   - things_to_do
   - sight
+score: 8.0
 ---
 
 Weingut Sybille Kuntz is one of the most respected small wine estates on the middle Mosel, run by Sybille Kuntz and Markus Kuntz-Riedlin from their family winery on the Moselstrasse. The estate produces Riesling from several of the best vineyard sites in the area — the Lieserer Niederberg Helden, the Lieserer Rosenlay, and parcels in Bernkastel — working to high standards that have brought the wines international recognition.

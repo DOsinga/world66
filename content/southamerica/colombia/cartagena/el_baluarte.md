@@ -7,6 +7,7 @@ tags:
 - landmark
 title: Baluarte de Santo Domingo
 type: poi
+score: 7.3
 ---
 
 The Baluarte de Santo Domingo is the section of Cartagena's colonial walls that runs along the Caribbean side of the old city, between the Torre del Reloj and the Puerta del Mar. It's the most scenic stretch for walking — the views out over the water are unobstructed, the cannons are well-preserved, and the pavement along the top is wide enough to stroll comfortably. Café del Mar occupies part of this bastion, but you don't need to patronise it to enjoy the walls.

@@ -7,6 +7,7 @@ tags:
 - museum
 title: Sri Ksetra Archaeological Museum
 type: poi
+score: 7.3
 ---
 
 A small modern building at the entrance to the Sri Ksetra site, the Archaeological Museum is the obvious first stop before exploring the ruins. The collection includes Pyu coins (silver disks stamped with rising-sun and srivatsa motifs), terracotta votive tablets, a set of large stone funerary urns with the names of Pyu kings, and Buddhist sculpture in the early Sarvastivada style.

@@ -6,6 +6,7 @@ longitude: 0.4595
 tags:
   - things_to_do
   - sight
+score: 5.9
 ---
 
 Wolferton's parish church of St Peter is a modest medieval building, much restored in the nineteenth century when royal patronage from Sandringham led to extensive embellishment. Inside there is an unusual brass eagle lectern and a number of memorials to estate workers.

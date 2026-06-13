@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 37.1078
 longitude: -113.5831
+score: 6.2
 ---
 
 Brigham Young spent the last winters of his life in St. George, drawn by the mild climate that contrasted with the severity of Salt Lake City winters. His winter home, completed in 1873, is a modest two-storey adobe and frame building on the edge of the historic district. It has been restored and is operated as a historic site by the LDS Church.

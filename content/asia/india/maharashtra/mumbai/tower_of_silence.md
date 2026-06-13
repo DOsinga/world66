@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.9554
 longitude: 72.8044
+score: 4.8
 ---
 
 The Doongerwadi, Mumbai's Zoroastrian Tower of Silence, sits on a wooded hilltop on Malabar Hill — a place where Parsi Zoroastrians have conducted their sky burials for centuries. Corpses are placed on open-air stone platforms to be consumed by vultures, following the Zoroastrian belief that burial and cremation would defile earth and fire respectively.

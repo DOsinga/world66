@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 9.311111
 longitude: 42.13
+score: 9.1
 ---
 
 The interior of Jugol — the walled old city — is best experienced on foot, wandering its network of narrow lanes without a fixed destination. The streets follow no grid; they evolved over centuries to connect houses, mosques, shrines, and markets, and they still feel lived-in and functional rather than preserved for tourism.

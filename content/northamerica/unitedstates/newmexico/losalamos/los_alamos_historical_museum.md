@@ -15,6 +15,7 @@ tags:
   - museum
 title: Los Alamos Historical Museum
 type: poi
+score: 7.1
 ---
 
 The Los Alamos Historical Museum occupies one of the original Ranch School buildings from the pre-Manhattan Project era — a log-and-stone structure that predates the entire secret city built around it. The collection covers the town's pre-war history as a remote boys' school, the sudden transformation in 1943 when the Army requisitioned the site, and the experience of the scientists and their families who lived here in a community sealed from the outside world.

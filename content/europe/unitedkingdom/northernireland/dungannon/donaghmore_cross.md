@@ -7,6 +7,7 @@ snippet: Tenth-century carved sandstone high cross in the centre of Donaghmore v
 tags:
 - things_to_do
 - sight
+score: 8.0
 ---
 
 The high cross in the centre of Donaghmore village, four kilometres northwest of Dungannon, dates from the tenth century and is one of the finest surviving carved crosses in Ulster. Standing about 4.7 metres tall, it is carved with biblical scenes — the Adam and Eve story on one face, the Crucifixion on the head, and various Old Testament panels on the others.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Lake Brienz (Brienzersee)
 type: poi
+score: 7.4
 ---
 
 Lake Brienz stretches east from Interlaken for 14 kilometres, narrower and deeper than Lake Thun, its water a remarkable turquoise-green fed by glacial meltwater from the Haslital valley. The southern shore runs beneath steep forested walls; the northern shore has the road and railway. The overall effect is wilder and less developed than its western counterpart.

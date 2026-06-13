@@ -7,6 +7,7 @@ tags:
 title: St Mary's Abbey Ruins
 type: poi
 snippet: "The roofless remains of the most powerful Benedictine monastery in northern England, dissolved by Henry VIII in 1539"
+score: 8.4
 ---
 
 St Mary's Abbey was founded in 1055 and became the most powerful and wealthy Benedictine monastery in the north of England. At its peak it controlled vast landholdings across Yorkshire and competed directly with the Archbishop of York for influence over the northern church. Henry VIII's Dissolution of the Monasteries reached York in 1539, and the monks were expelled and the buildings stripped of anything valuable. What stands in Museum Gardens today — a substantial section of the nave's north wall and the outline of the chapter house — gives enough sense of the building's scale to be genuinely impressive.

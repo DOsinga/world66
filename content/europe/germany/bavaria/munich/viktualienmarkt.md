@@ -10,6 +10,7 @@ tags:
 - altstadt
 title: Viktualienmarkt
 type: poi
+score: 8.3
 ---
 
 type: Beer Gardens

@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, market]
 latitude: 32.0584
 longitude: 34.7760
+score: 8.2
 ---
 
 The Levinsky Market is a small but dense street of spice, dried fruit, pickle, and Persian-Jewish food shops in the south of the city near the old central bus station. It is the spiritual heart of the Balkan and Levantine food trade in Tel Aviv.

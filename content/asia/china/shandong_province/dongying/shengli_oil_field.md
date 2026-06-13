@@ -8,6 +8,7 @@ latitude: 37.4500
 longitude: 118.4700
 story: >
   Shengli — meaning "victory" — was discovered in 1961 and is the second-largest oil field in China after Daqing. The field's output funded a substantial part of China's industrialisation in the 1970s and 1980s, and the city of Dongying was founded in 1974 specifically to administer and service it. Nearly a million people now live in a city that did not exist before the drilling began.
+score: 5.9
 ---
 
 The exhibition hall covering Shengli oil field traces the history of the field's discovery, development, and its role in China's post-1949 industrialisation. The exhibits are aimed primarily at a Chinese domestic audience, with a strong patriotic narrative around the "Iron Man" spirit of the early drillers who worked through extreme conditions to bring the field into production. The industrial heritage is genuine: Shengli produces around 27 million tonnes of oil per year and remains one of the most significant onshore fields in Asia.

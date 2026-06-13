@@ -8,6 +8,7 @@ tags:
 latitude: 36.9555
 longitude: 8.762
 snippet: Long sandy beach stretching east of the port
+score: 6.4
 ---
 
 The main beach at Tabarka stretches for several kilometres east of the harbour. The sand is golden and the water clean; the beach is wide enough not to feel crowded even in high summer. The western end near the port is more sheltered, while the further end is better for swimming when the sea is calm.

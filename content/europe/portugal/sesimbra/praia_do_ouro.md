@@ -8,6 +8,7 @@ tags:
   - beach
 latitude: 38.4420
 longitude: -9.1030
+score: 7.9
 ---
 
 Praia do Ouro — "Gold Beach" — is the long sweep of sand that runs the length of Sesimbra's waterfront, from the Fortress of Saint James at the eastern end to the fishing harbour in the west. It is south-facing, sheltered by the cliffs of the Arrábida from the prevailing northerly wind, and the warmest swimming on the Lisbon coast — the water is typically two or three degrees warmer than at Cascais or Estoril.

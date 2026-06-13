@@ -6,6 +6,7 @@ longitude: 3.0706
 tags:
   - things_to_do
   - museum
+score: 6.6
 ---
 
 The Mujahid Museum documents the Algerian War of Independence (1954–1962) and sits on the ridge just below the Martyrs' Memorial. The collection is extensive and emotionally charged: photographs, weapons, documents, uniforms and personal testimonies chart the eight-year struggle against French colonial rule. Many artefacts are accompanied by accounts from veterans and survivors.

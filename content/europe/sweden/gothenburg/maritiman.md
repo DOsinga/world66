@@ -8,6 +8,7 @@ tags:
 title: Maritiman
 type: poi
 url: https://www.maritiman.se
+score: 8.2
 ---
 
 Maritiman is the world's largest floating ship museum — nineteen historic vessels moored along the Göta älv river in central Gothenburg, all open to walk through. The collection includes a destroyer, a submarine (the Nordkaparen, a Swedish Navy vessel from 1962), a lightship, a firefighting vessel, and various tugboats and smaller craft. You can walk the decks, descend into the engine rooms, and in some cases sleep aboard overnight (a few vessels are fitted for this).

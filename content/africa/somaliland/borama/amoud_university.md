@@ -15,6 +15,7 @@ story: >
   that a functioning higher-education system was one of the few things that
   could make recognition unavoidable. Recognition has not yet followed, but
   the university now has more than five thousand students.
+score: 7.2
 ---
 
 Amoud University sits a few kilometres outside the city centre on a low ridge with mountain views. The campus is modest by any global standard but is impressive in context — a clean, ordered set of brick and concrete buildings serving a country that was effectively starting from zero in the late 1990s.

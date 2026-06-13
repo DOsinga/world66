@@ -8,6 +8,7 @@ latitude: 44.8353
 longitude: 13.8331
 story: >
   The aquarium occupies the Verudela fortress, an Austro-Hungarian fortification built in the 1880s that served as a military prison in the First World War and housed British prisoners in the Second. The thick-walled cells and gun batteries that once held men now hold tanks of Adriatic sea life.
+score: 6.3
 ---
 
 The Aquarium Pula is housed in the Verudela fortress, a 19th-century Austro-Hungarian fort on a headland south of the main town. The combination of military architecture and marine exhibits gives it a distinctive atmosphere. The tanks hold a good representation of Adriatic marine life — sea horses, rays, conger eels, lobsters, and the kinds of fish you might see snorkelling off the local coast. There is also a sea turtle rescue centre.

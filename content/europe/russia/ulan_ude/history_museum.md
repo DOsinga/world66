@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.8333
 longitude: 107.5811
+score: 7.6
 ---
 
 The Buryat regional history museum runs from Palaeolithic stone tools through Mongol-era objects, Cossack settlement, Buddhist textiles, and Soviet-period exhibits. The Buddhist hall, with its painted thangkas, ritual instruments and statuary, is the most impressive single section.

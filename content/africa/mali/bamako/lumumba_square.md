@@ -7,6 +7,7 @@ tags:
 latitude: 12.6349
 longitude: -7.9966
 snippet: A broad central plaza named for the Congolese independence leader, shaded and good for people-watching
+score: 5.8
 ---
 
 Patrice Lumumba Square is one of the few genuinely open public spaces in central Bamako — a wide, shaded plaza near the river, named for the Congolese independence leader who was assassinated in 1961. The square has benches, trees, and a monument, and it draws a mix of office workers at lunch, shoe shiners, and itinerant vendors. It's a good place to sit and watch the city move.

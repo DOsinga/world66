@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 50.8089
 longitude: 19.1272
+score: 6.0
 ---
 
 The Cathedral Basilica of the Holy Family on Krakowska Street is a large neo-Gothic church completed in 1927, built at a time when Częstochowa's diocese was newly established and wanted an architectural statement to match its status. The interior is spacious, cool, and relatively uncluttered — a contrast to the baroque intensity of Jasna Góra. The stained glass is the best feature.

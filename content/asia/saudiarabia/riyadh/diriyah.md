@@ -9,6 +9,7 @@ latitude: 24.7340
 longitude: 46.5737
 story: >
   Diriyah's At-Turaif district was deliberately destroyed in 1818 by the Ottoman general Ibrahim Pasha, who spent months systematically demolishing the palaces and mosques of the first Saudi state after crushing the Wahhabi movement that had been based here. The ruins sat untouched for nearly two centuries before Saudi Arabia began the restoration project that has turned At-Turaif into one of the most ambitious heritage projects in the Middle East.
+score: 9.4
 ---
 
 The original capital of the first Saudi state, a dramatic mud-brick city on a clifftop above Wadi Hanifah, about fifteen kilometres northwest of central Riyadh. The At-Turaif District at the heart of Diriyah is a UNESCO World Heritage Site — a labyrinth of ruined palaces, mosques, and towers in traditional Najdi style, spread across a promontory with views over the palm-filled valley below.

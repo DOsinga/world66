@@ -7,6 +7,7 @@ tags:
 latitude: 9.668858
 longitude: 80.024261
 address: Nallur, Jaffna
+score: 7.0
 ---
 
 The Jaffna Archaeological Museum is located in Nallur, near the Kandaswamy Kovil, and houses a collection covering the long history of the Jaffna peninsula from prehistoric times through the colonial period. The exhibits include Sangam-era artefacts, Dutch and Portuguese-period objects, traditional Tamil household items, and ancient coins.

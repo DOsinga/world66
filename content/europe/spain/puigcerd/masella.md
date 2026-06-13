@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - day_trip
 - ski
+score: 6.1
 ---
 
 Masella adjoins La Molina on the north flank of the Tossa d'Alp and forms the other half of the Alp 2500 ski domain. It is the smaller and quieter of the pair, with a denser tree cover and a reputation for excellent night skiing — its main pistes are floodlit until 9pm in winter, the only large-scale night skiing in Spain.

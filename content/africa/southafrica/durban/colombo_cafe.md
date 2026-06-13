@@ -10,6 +10,7 @@ neighbourhood: Morningside
 latitude: -29.8265
 longitude: 31.0118
 address: "199 Florida Road, Morningside"
+score: 6.8
 ---
 
 Colombo is Durban's serious specialty coffee shop, on Florida Road — single-origin roasted on site, V60 and AeroPress for purists, and a flat white that the city's coffee snobs reliably rate the best in town. The roastery is at the back; you can watch them work through a glass window.

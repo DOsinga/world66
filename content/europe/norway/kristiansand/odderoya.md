@@ -4,6 +4,7 @@ type: poi
 tags: [things_to_do, sight, park]
 latitude: 58.1334
 longitude: 8.0075
+score: 8.5
 ---
 
 The rocky peninsula that closes off Kristiansand's harbour on the south side, joined to the Kvadraturen by a short causeway. For three hundred years it was off limits — first as a quarantine station for ships from Mediterranean ports, then as a naval base — and only opened to the public in 2000. Today it is a large urban park of pine woods, granite outcrops and a network of marked walking paths, with views across the harbour and out to the open sea.

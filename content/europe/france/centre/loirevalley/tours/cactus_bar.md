@@ -9,6 +9,7 @@ tags:
 - bars_and_cafes
 title: Cactus Bar
 type: poi
+score: 5.1
 ---
 
 A relaxed neighbourhood bar on Rue Grosse in the Vieux Tours quarter. Popular with locals rather than tourists, it has a good selection of beers and cocktails at reasonable prices. The atmosphere picks up later in the evening, especially on weekends. A solid option if you're bar-hopping through the old town's narrow streets.

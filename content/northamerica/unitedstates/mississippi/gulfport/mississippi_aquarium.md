@@ -5,6 +5,7 @@ tags: [things_to_do, sight, museum]
 latitude: 30.3678
 longitude: -89.0883
 story: The aquarium opened on 29 August 2020, exactly 15 years to the day after Hurricane Katrina made landfall — a deliberate choice by the organisers that linked the new institution to the recovery of the Gulf Coast and to the Marine Life Oceanarium it replaced, which Katrina had destroyed beyond repair.
+score: 7.8
 ---
 
 The Mississippi Aquarium opened in 2020 on the Gulfport waterfront, replacing the Marine Life Oceanarium that Hurricane Katrina destroyed in 2005. It is a nonprofit institution focused on Gulf of Mexico ecosystems and the wildlife of the Mississippi watershed, and it is the state's largest aquarium.

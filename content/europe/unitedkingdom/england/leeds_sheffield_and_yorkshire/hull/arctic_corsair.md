@@ -15,6 +15,7 @@ story: >
   Icelandic gunboat and limped home with serious damage. By the 1980s her trade
   had collapsed and she was the last sidewinder trawler still working out of
   Hull. The city bought her in 1993 to keep one of these vessels intact.
+score: 8.3
 ---
 
 The Arctic Corsair is moored on the River Hull beside the old Museums Quarter wharf and run as part of Hull's maritime cluster. The tour takes you through the fish room, the wheelhouse, the engine spaces, and the cramped crew accommodation, with retired trawlermen often guiding. It is the last surviving sidewinder distant-water trawler in Britain, and the conditions onboard say a great deal about the punishing work that built Hull's prosperity.

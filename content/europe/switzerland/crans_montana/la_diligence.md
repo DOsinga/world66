@@ -5,6 +5,7 @@ tags: [eating_out, restaurant, swiss]
 latitude: 46.3119
 longitude: 7.4825
 neighbourhood: Montana Village
+score: 6.1
 ---
 
 La Diligence is the go-to address in Montana for traditional Valais cooking — raclette melted at the table, fondue made with local Raclette du Valais cheese, air-dried beef from the Rhône Valley, and grilled meat with the straightforward confidence that comes from knowing what the locals actually want. The room is warm and unpretentious, the service friendly, and on most winter evenings the place fills with a good mix of resort visitors and people who actually live up here.

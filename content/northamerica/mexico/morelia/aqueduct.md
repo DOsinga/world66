@@ -12,6 +12,7 @@ story: >
   terminal structure of the aqueduct — one of the most reproduced Mexican
   architectural images of the 20th century. The aqueduct was built to solve a
   chronic water shortage; before it, the city relied on wells and barrels.
+score: 8.7
 ---
 
 The Morelia Aqueduct stretches for nearly two kilometres through the eastern part of the city, its 253 arches marching in an elegant procession that still looks remarkable today. Built between 1785 and 1789 under the direction of Bishop Juan Ignacio de la Rocha, it carried water from springs in the hills to the city below. The aqueduct is best seen at night when it's illuminated, the arches standing out in warm light against the dark sky.

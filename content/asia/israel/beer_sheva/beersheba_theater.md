@@ -7,6 +7,7 @@ tags:
   - culture
 latitude: 31.25174
 longitude: 34.7974
+score: 5.6
 ---
 
 The Beersheba Theater is the city's main performing arts venue, staging drama, dance, and musical productions for the Negev region. Founded in 1973, it has developed a reputation for serious theatrical work and regularly imports productions from Tel Aviv while also staging its own. Performances are primarily in Hebrew.

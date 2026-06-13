@@ -6,6 +6,7 @@ longitude: -4.6838
 tags:
   - things_to_do
   - sight
+score: 8.1
 ---
 
 Scattered on the lower south-western slopes of Holyhead Mountain is a remarkable cluster of around twenty stone hut circles, locally known as Cytiau'r Gwyddelod — "the Irishmen's huts." The settlement was occupied from the late Iron Age into the Roman period, and several of the foundations still show the original entrance jambs and central hearth stones.

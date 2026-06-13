@@ -7,6 +7,7 @@ tags:
 latitude: 33.6958
 longitude: -116.3703
 story: "Founded in 1970 as a 360-acre nature preserve, the Living Desert has grown into one of the only zoos in the world devoted entirely to desert ecosystems. Its Australian Outback exhibit, opened in 2020, is the country's only walk-through wallaby habitat — kangaroos and emus wander freely along the visitor path."
+score: 9.1
 ---
 
 The single best reason to stop in Palm Desert. The Living Desert is a 1,200-acre zoo and botanical garden devoted to deserts of the world, with animals and native plant trails covering the Sonoran, the Mojave, the Sahara, and beyond. The scale catches most people off guard — three hours is a minimum, half a day more realistic if you want to see it properly.

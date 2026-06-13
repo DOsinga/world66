@@ -10,6 +10,7 @@ story: >
   The park sits atop a hill in Ogden that was once the bed of ancient Lake Bonneville, which covered most of northwestern Utah at the end of the last Ice Age. The lake drained catastrophically around 14,500 years ago — the Bonneville Flood was one of the largest floods in geological history, with peak flows estimated at 33 million cubic feet per second.
 sources:
   - https://en.wikipedia.org/wiki/George_S._Eccles_Dinosaur_Park
+score: 6.2
 ---
 
 An outdoor dinosaur park spread across a hillside north of downtown, the George S. Eccles Dinosaur Park has over 100 life-sized dinosaur sculptures set among native plantings and walking paths. It is primarily aimed at families but there is nothing condescending about it — the models are scientifically up-to-date and the setting, with views over the city and mountains, makes the whole thing feel less like a theme park and more like an open-air museum.

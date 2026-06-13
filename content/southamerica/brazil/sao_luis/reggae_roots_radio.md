@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -2.529
 longitude: -44.3
+score: 7.7
 ---
 
 Understanding São Luís's relationship with reggae requires a brief history. In the 1970s, vinyl records of Jamaican roots reggae reached Maranhão via the Caribbean maritime trade routes — sailors and merchants from São Luís travelled regularly to Trinidad, Barbados, and other Caribbean islands, and they came back with records. The music spread through the sound system culture of the city's working-class neighbourhoods.

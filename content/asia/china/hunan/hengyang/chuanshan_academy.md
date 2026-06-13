@@ -9,6 +9,7 @@ latitude: 26.8850
 longitude: 112.5880
 story: >
   Wang Fuzhi, to whom this academy is dedicated, lived through the fall of the Ming dynasty and spent the last thirty-five years of his life in hiding in Hengyang, refusing all contact with the Qing court and writing in near-total isolation. He produced more than a hundred books in that period, most of which were not published until the 19th century — two hundred years after his death.
+score: 7.3
 ---
 
 Chuanshan Academy on Dongzhou Island in the Xiang River honours Wang Fuzhi (1619–1692), one of the most original philosophers in Chinese history and Hunan's most celebrated intellectual. Wang was a Ming loyalist who retreated to the mountains after the Qing conquest, living in voluntary poverty and writing prolifically about philosophy, history, and politics. His posthumous influence on late Qing reformers and early Republicans was enormous; he is sometimes called the Chinese Rousseau.

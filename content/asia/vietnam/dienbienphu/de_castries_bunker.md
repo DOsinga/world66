@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 21.3854
 longitude: 103.0188
+score: 6.5
 ---
 
 A reconstruction of the command bunker where General Christian de Castries commanded the French garrison during the 57-day siege. The original was demolished after the battle; the current structure is a 1984 replica, built on the approximate site of the original, with period furnishings and a model of the battlefield installed for visitors.

@@ -9,6 +9,7 @@ latitude: 32.766667
 longitude: 22.633333
 sources:
   - https://en.wikipedia.org/wiki/Battle_of_Derna_(1805)
+score: 5.1
 ---
 
 Derna was captured in 1805 by a force led by William Eaton and Presley O'Bannon during the First Barbary War. The episode became famous in the United States as part of Marine Corps history, echoed in the line "to the shores of Tripoli."

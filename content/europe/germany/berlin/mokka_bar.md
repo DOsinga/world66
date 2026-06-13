@@ -11,6 +11,7 @@ tags:
 - kreuzberg
 title: Mokka Bar
 type: poi
+score: 6.2
 ---
 
 A spacious, beautifully designed café bar with an Oriental touch and a genuinely mixed crowd. Good for a shot of late-night espresso or an afternoon coffee when everything else on the street feels too loud.

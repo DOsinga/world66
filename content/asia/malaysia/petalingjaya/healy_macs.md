@@ -6,6 +6,7 @@ longitude: 101.6224
 tags:
   - bars_and_cafes
   - bar
+score: 5.7
 ---
 
 A long-running Irish-style pub in Damansara Uptown, with cask ales, Guinness on tap, sport on the screens, and a steady crowd of expats and PJ locals. The food is unambitious but reliable — fish and chips, burgers, Sunday roast.

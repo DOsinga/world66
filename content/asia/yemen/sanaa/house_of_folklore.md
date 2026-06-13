@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 snippet: An ethnographic museum in a restored merchant's house showing daily Yemeni life
+score: 8.1
 ---
 
 The House of Folklore (Dar al-Funun al-Shabiya) occupies a traditional Sana'ani merchant's house, kept furnished and stocked as if its residents had just stepped out. Each floor is laid out by function — the storerooms at the bottom, the kitchen, the family rooms, the women's reception room, and at the very top the *mafraj* with its cushions and views over the city. The display includes tools, jewellery, weapons, traditional bridal dress, and the everyday objects of Yemeni life.

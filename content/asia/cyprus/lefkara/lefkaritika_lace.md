@@ -8,6 +8,7 @@ latitude: 34.8667
 longitude: 33.3069
 story: >
   Leonardo da Vinci is said to have visited Lefkara in 1481 and purchased a large piece of Lefkaritika lace for the altar of Milan Cathedral. Whether or not the legend is entirely accurate, the Venetians who ruled Cyprus at the time did carry the technique back to Europe — the island of Burano's famous lacemaking tradition is thought to derive directly from the Lefkaran style.
+score: 8.4
 ---
 
 The lacemaking tradition of Lefkara — Lefkaritika — is the village's defining characteristic and the reason most visitors come here. Women sit in doorways and courtyard entrances working on intricate geometric patterns with needles, threading cotton into designs that have barely changed in centuries. The craft was inscribed on the UNESCO Intangible Cultural Heritage list in 2009.

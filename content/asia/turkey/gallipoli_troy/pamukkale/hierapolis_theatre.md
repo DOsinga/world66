@@ -8,6 +8,7 @@ tags:
 - ruins
 title: Hierapolis Theatre
 type: poi
+score: 8.5
 ---
 
 The Roman theatre of Hierapolis was built in the 1st century AD and rebuilt by the emperor Septimius Severus a century later. The stone seating, divided into upper and lower banks by a diazoma, held 12,000 spectators. What sets it apart from most ancient Turkish theatres is the scaenae frons — the multi-storey stage backdrop — which has been substantially re-erected since the 1990s, complete with its tiers of columns, niches, reliefs and statues.

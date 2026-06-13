@@ -14,6 +14,7 @@ admission: Free to view exterior; State Rooms ticketed (open July to September)
 url: www.rct.uk
 story: >
   The flag flying above the palace tells you whether the monarch is home — the Royal Standard if they are in residence, the Union flag if they are not. Queen Victoria was the first monarch to actually live in the building, moving in three weeks after her accession in 1837. Until then, kings and queens had used St James's Palace, which is technically still the official sovereign's residence — which is why foreign ambassadors are still appointed to "the Court of St James's".
+score: 7.4
 ---
 
 The London home of the British monarch is more impressive from the front, viewed across the gold-tipped fences and the Victoria Memorial roundabout, than at close quarters — Buckingham Palace's facade was redesigned in plain Portland stone in 1913 and is deliberately reserved. The Royal Standard above the building tells you when the monarch is in residence.

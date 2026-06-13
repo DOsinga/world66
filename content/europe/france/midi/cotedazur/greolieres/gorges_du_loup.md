@@ -13,6 +13,7 @@ story: >
   100 million years ago. The gorge is deep enough in places that the river below is
   invisible from the road cut into the cliff face, which was blasted through the rock
   in the late 19th century to connect the upper valley villages to the coast.
+score: 7.6
 ---
 
 The Gorges du Loup lie about 15 kilometres southeast of Gréolières, where the river Loup has carved a dramatic canyon through the limestone plateau. The road through the gorge — classified as one of the scenic routes of the Alpes-Maritimes — follows the cliff face above the river, passing waterfalls and viewpoints before emerging at Pont-du-Loup at the southern end. The drive from Gréolières takes you down from the plateau to the edge of the gorge, with the road surface becoming narrow and the drops becoming vertiginous.

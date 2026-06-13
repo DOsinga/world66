@@ -14,6 +14,7 @@ story: >-
   later sixteenth century, perhaps over the footprint of a much earlier
   Phoenician or Punic watchtower. The Spanish name appears to have stuck
   through misattribution.
+score: 7.9
 ---
 
 The Spanish Fort (Fort d'Espagne, *al-burj al-isbanyul*) is the small angular fort perched on a hillside behind the medina, looking out over the old port, the canal, and the Mediterranean beyond. The walls are short and thick, with shaped gun ports on three sides — a late-Renaissance "trace italienne" design adapted for cannon fire across the harbour.

@@ -12,6 +12,7 @@ story: >
   The town hall on the square is the oldest functioning Gothic town hall in northern Europe, built between 1371 and 1404. The weather vane on top — Old Thomas, a figure in armour — has watched over the square since 1530. The original is now in the Tallinn City Museum; the one on the spire today is a copy, but Old Thomas is still the unofficial guardian of the city.
 sources:
   - https://en.wikipedia.org/wiki/Town_Hall_Square,_Tallinn
+score: 9.4
 ---
 
 Raekoja plats is the gravitational centre of Tallinn — the medieval market square that has been the city's main gathering place for eight centuries. The Gothic town hall on the north side, completed in the 15th century, is the oldest functioning town hall in northern Europe, and its slender tower and elegant arcade are the most photographed element of the Tallinn skyline.

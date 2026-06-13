@@ -12,6 +12,7 @@ story: >
   Rathaus (town hall) of Michelstadt in Hesse, built as a deliberate homage to
   the region from which many of Blumenau's founders emigrated. The original in
   Germany dates to 1484; the Brazilian replica to 1982.
+score: 8.4
 ---
 
 Rua XV de Novembro is Blumenau's main commercial street and the best walk in the historic center. The mix of genuine 19th-century German colonial architecture and later half-timbered replicas creates a streetscape unlike anything else in Brazil. The Beer Museum, the Hering Museum, and several of the best cafes and pastry shops are all on or near this street.

@@ -7,6 +7,7 @@ tags:
   - viewpoint
 latitude: 43.0729
 longitude: 12.6196
+score: 6.5
 ---
 
 The smaller of Assisi's two fortresses, the Rocca Minore (or Rocca Minor) sits on a lower eastern hill above the town and was built in 1367 by Cardinal Albornoz at the same time as the main Rocca. It is a single square tower connected to the town wall, far less visited than its big sister, but the view from the base is excellent and the climb is short.

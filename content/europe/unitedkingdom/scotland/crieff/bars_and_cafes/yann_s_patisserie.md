@@ -1,6 +1,7 @@
 ---
 title: "Yann's Patisserie"
 type: poi
+score: 5.9
 ---
 
 Yann's Patisserie is a small French bakery and café on Crieff's main street that has developed a loyal following among locals and returning visitors alike. It is the kind of place that feels slightly improbable in a small Scottish market town — proper French pastries, good espresso, and a level of care in the baking that stands out. Croissants, tarts, and seasonal pastries are made on the premises, and the quality is consistent.

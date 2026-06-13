@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 10.6128
 longitude: 103.4956
+score: 4.4
 ---
 
 Independence Beach is the small sandy crescent below the old Independence Hotel, a few minutes' drive north of the centre. It is less crowded than Ochheuteal and Sokha, with calm water that suits families and a couple of unfussy beachside restaurants.

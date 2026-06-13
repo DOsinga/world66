@@ -7,6 +7,7 @@ tags:
 latitude: 40.7568
 longitude: -111.8908
 address: 645 South State Street
+score: 6.1
 ---
 
 The Bayou is the city's serious beer bar — 250-plus bottles, with a deep selection of European imports and the best Belgian list in Utah. The Cajun-leaning kitchen does decent gumbo, jambalaya, and po-boys, but most regulars come for the beer.

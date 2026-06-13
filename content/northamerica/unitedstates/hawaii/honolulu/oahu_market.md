@@ -9,6 +9,7 @@ tags:
 - chinatown
 title: Oahu Market
 type: poi
+score: 7.2
 ---
 
 The Oahu Market is Chinatown's covered wet market, open since 1904, selling fresh fish, tropical produce, and goods that reflect the full multinational character of Hawaii's food culture. The fish counter sells species pulled from Hawaiian waters that you will not find in mainland markets — opakapaka, onaga, ahi tuna, and live lobster. The produce section carries dragonfruit, jackfruit, lychees, taro, and other ingredients that reveal the Asian and Pacific roots of local cooking.

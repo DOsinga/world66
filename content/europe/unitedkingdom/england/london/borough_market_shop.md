@@ -10,6 +10,7 @@ tags:
 title: Borough Market
 type: poi
 url: www.boroughmarket.org.uk
+score: 8.8
 ---
 
 Borough Market is London's most famous food market and one of the best in Europe — a covered market under Victorian railway arches at London Bridge, selling produce, bread, cheese, meat, fish, olives, spices, and prepared foods from independent traders and artisan producers. It has operated on this site in various forms since the 13th century.

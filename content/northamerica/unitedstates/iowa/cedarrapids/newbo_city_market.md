@@ -4,6 +4,7 @@ type: poi
 tags: [eating_out, market]
 latitude: 41.9700
 longitude: -91.6600
+score: 6.8
 ---
 
 NewBo City Market is a permanent public market in the New Bohemia neighbourhood on the east side of the Cedar River, housed in a restored industrial building. Around 30 vendors operate inside, selling produce, prepared food, coffee, crafts, and specialty goods. On weekends it fills up with a cross-section of the city.

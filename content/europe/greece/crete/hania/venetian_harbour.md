@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Chania_Lighthouse
 story: >
   The lighthouse at the end of the Venetian breakwater was originally built by the Venetians in the 16th century, then rebuilt by the Egyptians in 1839 when Crete was briefly under Egyptian administration. The minaret-like top is a remnant of this later rebuild. It is one of the oldest lighthouses in Greece and one of the most photographed in the Mediterranean.
+score: 8.9
 ---
 
 The old Venetian harbour is the centrepiece of Hania — a perfectly preserved 16th-century port with its lighthouse, long stone breakwater, and the great curve of Venetian warehouses and mansions along the waterfront. The Küçük Hasan Pasha Mosque — a domed Ottoman structure built on the harbour front after the Turkish conquest in 1645 — was converted to a market hall and now houses temporary exhibitions.

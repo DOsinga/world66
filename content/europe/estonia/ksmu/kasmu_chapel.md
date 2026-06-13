@@ -6,6 +6,7 @@ longitude: 25.9091
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The small wooden chapel at the southern entrance to the village was built in 1864 with money raised by the local sea captains as a place to pray before voyages. It is a typical small Lutheran chapel of the Estonian coast — single nave, painted white walls, slate roof, no tower — but its setting, on the edge of the pine forest with the bay visible through the trees, makes it the most photographed building in the village.

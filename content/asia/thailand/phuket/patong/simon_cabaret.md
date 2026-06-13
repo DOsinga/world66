@@ -6,6 +6,7 @@ longitude: 98.2942
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 Patong's longest-running ladyboy revue and one of the most polished cabaret shows in Thailand. Performances run twice or thrice nightly in a purpose-built theatre south of the main town, with lavish costumes, lip-synced Broadway and Asian-pop numbers, and a confident, knowing humour.

@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Coleridge and Wordsworth were walking from Nether Stowey towards Watchet in November 1797 when, according to Wordsworth's own account, Coleridge began composing the opening lines of The Rime of the Ancient Mariner — Wordsworth contributed the idea of the cursed albatross."
+score: 4.9
 ---
 
 The bronze statue of the Ancient Mariner on Watchet's esplanade, unveiled in 2003 by Alan White, marks the town's connection to Coleridge's most famous poem. The mariner stands on a coil of rope with the dead albatross around his neck, looking out over the harbour from which his ship, in Coleridge's imagination, set sail.

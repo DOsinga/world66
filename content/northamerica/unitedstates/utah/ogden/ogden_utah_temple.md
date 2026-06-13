@@ -9,6 +9,7 @@ latitude: 41.2275
 longitude: -111.9714
 sources:
   - https://en.wikipedia.org/wiki/Ogden_Utah_Temple
+score: 5.9
 ---
 
 The Ogden Utah Temple of the Church of Jesus Christ of Latter-day Saints stands prominently above the city on Washington Boulevard, its clean white modernist lines a deliberate departure from the Gothic and neoclassical templates of earlier temples. Originally opened in 1972 and fully rebuilt and rededicated in 2014, the current structure has a sleek, almost corporate grandeur — a white monolith topped with a single spire.

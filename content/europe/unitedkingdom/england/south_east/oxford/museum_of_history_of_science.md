@@ -8,6 +8,7 @@ latitude: 51.7541
 longitude: -1.2553
 story: >
   Among the museum's most prized possessions is the blackboard used by Albert Einstein during a lecture he gave in Oxford in 1931 — still chalked with his equations for the expanding universe. When the lecture ended, the museum's curator simply kept the blackboard in situ rather than cleaning it. Einstein himself signed the board, and it has been under glass ever since.
+score: 7.8
 ---
 
 The Museum of the History of Science occupies the Old Ashmolean building on Broad Street, completed in 1683 — the oldest purpose-built museum building in the world. The original Ashmolean collection was displayed here before moving to its current home on Beaumont Street; now it houses a remarkable collection of scientific instruments spanning the history of measurement and discovery. Admission is free.

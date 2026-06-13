@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.5
 ---
 
 The Arsenal de Metz is a 19th-century military arsenal converted in 1989 by the Spanish architect Ricardo Bofill into one of the great concert halls of Europe. The transformation kept the cathedral-like exterior of the original building and added a wood-panelled auditorium inside, with acoustics that critics rank alongside the Concertgebouw and the Musikverein.

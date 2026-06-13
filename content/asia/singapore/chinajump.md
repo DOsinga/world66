@@ -8,6 +8,7 @@ tags:
 - club
 title: China Jump
 type: poi
+score: 4.0
 ---
 
 China Jump was one of Singapore's most popular nightclubs, located in the CHIJMES complex on Victoria Street. The venue played Top-40 music to a young crowd and was known for long queues on weekend nights. Doors typically opened around 10pm.

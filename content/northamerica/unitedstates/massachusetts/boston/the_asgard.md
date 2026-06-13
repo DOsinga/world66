@@ -12,6 +12,7 @@ tags:
 - bar
 title: The Asgard
 type: poi
+score: 6.0
 ---
 
 A great Irish pub with amazing food between MIT and Harvard. The portions are generous and the meals are filling. Good atmosphere with occasional live music. Right across the street from Toscanini's, one of Cambridge's best ice cream shops, if you want dessert.

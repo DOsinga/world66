@@ -14,6 +14,7 @@ tags:
 - things_to_do
 title: Source of the Nile
 type: poi
+score: 6.6
 ---
 
 The point where the Nile leaves Lake Victoria is marked by a small memorial garden on the western bank, a short boda-boda ride from town. The view over the water is genuinely striking — you can watch the lake narrow and gather speed as it commits to its 6,700-kilometre journey north. Boat trips from here take you out to the exact source point on the water. The entrance fee is around USD 10 for international visitors.

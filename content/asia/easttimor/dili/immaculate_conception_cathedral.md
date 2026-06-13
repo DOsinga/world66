@@ -6,6 +6,7 @@ longitude: 125.5675
 tags:
   - things_to_do
   - sight
+score: 7.4
 ---
 
 The Immaculate Conception Cathedral is the largest church in Southeast Asia by floor area, a vast modern building dedicated in 1988 by Pope John Paul II during a visit that, for many Timorese, was the first international acknowledgement that they existed as a people. The interior is unadorned by Catholic standards — whitewashed walls, plain wooden pews, modest stained glass — but the scale is genuinely impressive.

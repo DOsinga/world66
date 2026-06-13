@@ -7,6 +7,7 @@ snippet: Maritime history of the northern Netherlands, in two restored medieval 
 tags:
 - things_to_do
 - museum
+score: 8.0
 ---
 
 The Noordelijk Scheepvaartmuseum tells the maritime story of the northern Netherlands, from medieval cog ships through 19th-century coastal trade to the modern shipyards of Delfzijl. It is housed in two of the oldest stone houses in Groningen — the Gotisch Huis on the Brugstraat and the adjoining Canterhuis, both dating to around 1400.

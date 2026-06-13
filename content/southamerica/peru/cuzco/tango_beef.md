@@ -8,6 +8,7 @@ tags:
 - eating_out
 title: Tango Beef
 type: poi
+score: 5.2
 ---
 
 The place has good quality Argentinian and Uruguayan meat made over the grill. It also has other good dishes such as the Pamplona. The atmosphere is warm and welcoming. It is a good place to celebrate the end of a trek.

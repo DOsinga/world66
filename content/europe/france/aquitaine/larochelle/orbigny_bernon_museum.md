@@ -9,6 +9,7 @@ latitude: 46.1608
 longitude: -1.1553
 sources:
   - https://en.wikipedia.org/wiki/Orbigny-Bernon_Museum
+score: 7.4
 ---
 
 The Musée d'Orbigny-Bernon occupies a 19th-century hôtel particulier and tells the longer history of La Rochelle: from the Roman remains to the medieval city, the Wars of Religion, the rebuilding under Louis XIV. Upstairs, the museum holds one of the most surprising collections in the French provinces — a vast collection of Chinese and Japanese export porcelain, accumulated by the Bernon family during the 18th and 19th centuries.

@@ -8,6 +8,7 @@ tags:
 latitude: 51.3194
 longitude: 9.3878
 story: "The Herkules figure on the top is a copy of the Farnese Hercules in Naples, scaled up to eight metres and hammered out of copper sheets. Visitors can climb a spiral stair inside the pyramid to a platform between the statue's legs — the best view in Kassel, and a slightly surreal one."
+score: 8.9
 ---
 
 The **Herkules** is the city's symbol — a 70-metre pyramidal monument crowning the top of the Bergpark Wilhelmshöhe, built between 1701 and 1717 by the elector Karl von Hessen-Kassel. The colossal copper statue of Hercules at the summit, leaning on his club, points eastward across the Fulda valley.

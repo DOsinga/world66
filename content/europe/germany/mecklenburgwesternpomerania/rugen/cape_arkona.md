@@ -8,6 +8,7 @@ tags:
   - sight
   - nature
 story: "Cape Arkona was the spiritual centre of the Slavic Rani tribe, who built a fortified temple here to the four-headed god Svantevit. When Danish king Valdemar I sacked the place in 1168, he had the wooden idol pulled out, chopped up, and used as firewood — the moment that effectively ended pagan worship on the Baltic."
+score: 8.8
 ---
 
 The northernmost point of Rügen, Cape Arkona is a windy, atmospheric headland with two lighthouses, a Cold War bunker, and the remains of the Slavic fortress of Jaromarsburg falling slowly into the sea. The 45-metre chalk cliffs are eroding fast — the ramparts of the old fort have already lost most of their inland edge.

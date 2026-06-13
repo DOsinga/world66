@@ -7,6 +7,7 @@ tags:
   - swimming
 latitude: 12.5164
 longitude: -61.3844
+score: 6.5
 ---
 
 Mang Beach is one of Petite Martinique's easier swimming spots, with calmer water than the more exposed Atlantic-facing edges of the island. It is not a serviced beach in any resort sense, so bring what you need and leave the place as you found it.

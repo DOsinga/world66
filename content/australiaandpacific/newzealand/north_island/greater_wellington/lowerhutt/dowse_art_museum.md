@@ -13,6 +13,7 @@ story: >
   craft or applied art, but as a serious collecting discipline. Today its collection
   of jewellery, ceramics, and decorative objects is among the strongest of its
   kind in the country.
+score: 8.0
 ---
 
 The Dowse Art Museum is Lower Hutt's most significant cultural institution — a modern gallery with a strong collection of New Zealand contemporary art, craft, and design. The building itself is compact and well-organised, with galleries rotating through the permanent collection and a programme of temporary exhibitions that tends to be more experimental than the city-centre galleries in Wellington.

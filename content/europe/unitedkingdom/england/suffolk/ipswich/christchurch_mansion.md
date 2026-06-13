@@ -14,6 +14,7 @@ story: >
   as formative; Gainsborough spent his early years here before moving to Bath
   and London. That so much of their work stayed local is a small miracle of
   civic collecting.
+score: 8.6
 ---
 
 A Tudor manor house set in Christchurch Park, the mansion was built in 1548 and has served as a museum since 1895. The collection is remarkable for a city of Ipswich's size: a strong run of Gainsborough portraits and landscapes, a fine selection of Constable sketches and oils, and Tudor and Stuart furniture that matches the architecture. The rooms feel lived-in rather than museumified — this is one of the better preserved historic interiors in East Anglia.

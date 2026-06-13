@@ -12,6 +12,7 @@ tags:
 title: Rent a Boat (Boaty)
 type: poi
 url: https://www.boaty.nl
+score: 7.0
 ---
 
 At Boaty you can rent your own electric boat for a few hours to explore Amsterdam's canals at your own pace. The boats are quiet, emission-free, and hard to tip — no experience needed. Choose your own route or follow one of Boaty's free suggested circuits. The dock is at Jozef Israëlskade, next to Hotel Okura, between the city centre and the Amstel river.

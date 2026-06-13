@@ -9,6 +9,7 @@ latitude: -36.7596
 longitude: 144.2783
 sources:
   - https://en.wikipedia.org/wiki/Pall_Mall,_Bendigo
+score: 8.3
 ---
 
 Pall Mall is Bendigo's grandest boulevard, lined with elaborate Victorian-era civic and commercial buildings that make it one of the most intact goldfields streetscapes in Australia. The wealth extracted from the goldfields in the second half of the nineteenth century funded an extraordinary building program, and unlike many boom towns, Bendigo survived the post-gold downturn with its centre largely intact.

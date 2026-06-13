@@ -12,6 +12,7 @@ tags:
   - sight
 title: Neptune Fountain
 type: poi
+score: 7.9
 ---
 
 The bronze Neptune at the centre of the Long Market has been Gdansk's symbol since 1633, though his fountain basin was added decades later. Neptune stands on a stone column in full regalia — trident raised, drapery flowing — and is one of the finest examples of Mannerist sculpture in northern Europe. The fountain is surrounded by the most beautifully restored facades in the old town, making it an irresistible focal point.

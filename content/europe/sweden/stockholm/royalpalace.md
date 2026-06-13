@@ -14,6 +14,7 @@ tags:
 - gamla_stan
 title: Royal Palace
 type: poi
+score: 7.8
 ---
 
 The Royal Palace (Kungliga Slottet) is one of Europe's largest palaces, with over 600 rooms spread across a massive baroque structure in Gamla Stan. It serves as the official residence of the Swedish monarch, though the royal family actually lives at Drottningholm.

@@ -8,6 +8,7 @@ tags:
 - market
 title: Uyustus Market District
 type: poi
+score: 8.0
 ---
 
 The blocks around Calle Uyustus, uphill from the Basilica of San Francisco, form La Paz's densest commercial district — a tangle of stalls, wholesale shops, and street vendors selling everything from mobile phones to cooking oil in bulk. This is where La Paz residents buy practical goods, not tourists. The market extends up several steep streets and into covered arcade buildings, each with its own speciality.

@@ -11,6 +11,7 @@ story: >
   The Château de Trigance was a medieval fortress built to control the mountain pass between Provence and the Var. It was used as a prison, then abandoned, then bought by a French architect in the 1950s who spent 20 years restoring it by hand. He converted it into a hotel and restaurant, and his family still operates it. The rooms are in the old towers; the restaurant occupies the main hall. It is one of those places where the setting genuinely overpowers the food.
 sources:
   - https://en.wikipedia.org/wiki/Trigance
+score: 6.7
 ---
 
 Trigance is a village on the south side of the Gorges du Verdon, less visited than La Palud or Aiguines and all the better for it. The village is dominated by its restored medieval castle, now operating as a hotel, which stands on a steep rocky outcrop above a cluster of stone houses and a small square.

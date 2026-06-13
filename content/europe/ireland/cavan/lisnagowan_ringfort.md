@@ -9,6 +9,7 @@ latitude: 54.0583
 longitude: -7.3052
 sources:
   - https://en.wikipedia.org/wiki/Lisnagowan_Ringfort
+score: 6.5
 ---
 
 Lisnagowan is one of County Cavan's best-preserved ringforts — the circular earthwork enclosures that served as farmsteads for Irish families throughout the early medieval period. The rath consists of a raised earthen bank enclosing a roughly circular interior, and it remains remarkably intact for a structure of this age. It is designated a National Monument.

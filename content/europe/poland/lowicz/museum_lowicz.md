@@ -12,6 +12,7 @@ admission: "PLN 15 adults, PLN 10 reduced"
 url: "www.muzeumlowicz.pl"
 story: >
   The Łowicz folk costume — a woman's skirt of horizontal stripes in bold contrasting colours — became so iconic that it was adopted as a symbol of Polish folk culture generally, appearing in 19th and 20th century paintings, postcards, and promotional materials. The stripes are woven in wool; the most elaborate costumes have dozens of stripes and take months to complete. The museum has some of the finest surviving examples.
+score: 8.1
 ---
 
 The regional museum of Łowicz, housed in a historic building on the old market square, holds one of the best folk art collections in Poland. The core of the collection is the folk culture of Łowicz county: traditional costumes, wycinanki (paper cutting art), painted furniture, ceramics, and examples of the elaborate floral decorations used to decorate homes and interiors.

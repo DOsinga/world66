@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.6500
 longitude: 104.7000
+score: 6.2
 ---
 
 The Yushe Grasslands northwest of Liupanshui are high-altitude meadows on the Guizhou plateau, sitting at around 2,000 metres where the terrain transitions from Guizhou's typical karst topography to something closer to the grasslands of Yunnan and Sichuan. In summer, the grasslands are green and in flower, with Yi minority communities living on the plateau whose herding practices have shaped the landscape over centuries.

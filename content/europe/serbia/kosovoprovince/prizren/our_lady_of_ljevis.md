@@ -16,6 +16,7 @@ story: >
   returned to Christian use after Ottoman withdrawal, restorers slowly uncovered the frescoes,
   finding them largely intact beneath the plaster — a preservation by accident that 14th-century
   artists could not have anticipated.
+score: 8.4
 ---
 
 The Church of Our Lady of Ljevis (Shën Mëria Levishka) is one of the oldest and most historically layered buildings in Kosovo. Originally a Roman Catholic church dating to the early 13th century, it was rebuilt and adorned with frescoes under Serbian King Stefan Milutin in the early 14th century, converted to a mosque under Ottoman rule, and only returned to Christian worship in the 20th century. In 2006 it was inscribed on the UNESCO World Heritage List as part of the Medieval Monuments in Kosovo.

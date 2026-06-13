@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 43.6508
 longitude: 51.1967
+score: 5.9
 ---
 
 Oymasha is a small lake on the suburban fringe of Aqtau, separated from the Caspian by a narrow strip of land. It is a quiet local spot — less developed than the seafront promenade — and a good place to watch birds. The lake attracts flamingos and other wading species, particularly during spring and autumn migrations.

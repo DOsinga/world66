@@ -13,6 +13,7 @@ story: >
   conditions. The Murchison earthquake of 1929 (magnitude 7.8) reshaped parts of the 
   gorge dramatically, and remnants of the landslides that dammed the river temporarily 
   are still visible on the valley walls.
+score: 7.6
 ---
 
 The Buller Gorge, where the Buller River cuts through the mountains between Murchison and Westport, is one of the most scenically dramatic road routes on the South Island. The highway clings to the gorge walls for much of its length, with the river visible far below, the bush pressing in on both sides, and the rock faces of the gorge rising above. The drive takes about an hour and is best done slowly.

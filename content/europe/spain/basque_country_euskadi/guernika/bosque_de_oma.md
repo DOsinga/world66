@@ -7,6 +7,7 @@ tags:
 - sight
 title: Bosque Pintado de Oma
 type: poi
+score: 7.0
 ---
 
 The Basque artist Agustín Ibarrola spent ten years (1982-1992) painting figures onto the trunks of a pine plantation above the Oma valley. Walking through the wood, eyes appear, then animals, then groups of people running between the trees — the figures are split across multiple trunks and only come together when seen from specific viewpoints.

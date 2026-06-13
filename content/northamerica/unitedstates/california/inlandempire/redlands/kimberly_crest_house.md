@@ -12,6 +12,7 @@ tags:
 title: Kimberly Crest House and Gardens
 type: poi
 url: www.kimberlycrest.org
+score: 8.3
 ---
 
 A Victorian estate modelled after a French chateau, built in 1897 and set on six acres of Italian-style gardens with views across the San Bernardino Valley. The house has been lived in by only three families and retains much of its original furnishing -- carved wood, stained glass, period wallpaper. The last owner, Mrs. Elizabeth Shirk, left the property to the city.

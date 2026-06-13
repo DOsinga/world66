@@ -8,6 +8,7 @@ snippet: Forum dedicated to the writer and Nobel laureate, who lived in Lübeck 
 tags:
 - things_to_do
 - museum
+score: 6.8
 ---
 
 Günter Grass (1927–2015), the author of *The Tin Drum* and *Cat and Mouse* and a defining voice of post-war German literature, settled in Behlendorf near Lübeck in 1986 and made the city his base for the rest of his life. The Forum opened in 2002 to display his work as a writer, sculptor, and graphic artist.

@@ -8,6 +8,7 @@ tags:
   - historic_landmark
 latitude: 44.5281
 longitude: -69.8886
+score: 6.4
 ---
 
 The Chandler Store is a wood-framed 1880s general store in the centre of Belgrade Lakes Village, listed on the National Register of Historic Places. It was the village's main commercial building for the first half of the 20th century — dry goods, hardware, post office, gossip — and the building has been preserved in something close to its original form even as its use has changed.

@@ -8,6 +8,7 @@ latitude: 44.8683
 longitude: 13.8469
 story: >
   The arch was built around 29–27 BC by a wealthy Pula woman, Salvia Postuma Sergia, to honour three male relatives who had fought at the Battle of Actium — the sea battle in 31 BC that made Augustus master of the Roman world. The inscription on the attic is still legible, making this one of the few Roman monuments where we know the exact patron and occasion.
+score: 7.8
 ---
 
 The Arch of the Sergii, also called the Golden Gate, stands at the south end of Pula's old town and was built to commemorate three members of the Sergii family who served under Augustus at the Battle of Actium in 31 BC. It is a single-span triumphal arch decorated with Corinthian columns and elaborate floral ornament — a compact but beautifully detailed piece of late Republican Roman architecture.

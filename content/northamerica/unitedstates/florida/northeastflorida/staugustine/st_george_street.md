@@ -7,6 +7,7 @@ tags:
   - neighbourhood
 latitude: 29.8953
 longitude: -81.3127
+score: 8.2
 ---
 
 The main pedestrian street of the old city, running from the reconstructed colonial City Gate in the north to the central plaza in the south — about six blocks of colonial-era buildings now housing shops, small museums, restaurants and historic sites. It is car-free during the day and is where most visitors to the old city end up spending the bulk of their time.

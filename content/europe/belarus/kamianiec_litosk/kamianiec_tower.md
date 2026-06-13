@@ -17,6 +17,7 @@ story: >
   structure has never been significantly rebuilt — what you see is essentially what Vladimir's
   masons completed. It is one of the very few medieval towers in the former Grand Duchy of
   Lithuania to survive intact.
+score: 7.8
 ---
 
 The Kamianiec Tower is a 30-metre Gothic brick donjon built around 1271 — one of the oldest and best-preserved medieval defensive towers in Belarus and the entire former Grand Duchy of Lithuania. The tower stands on a slight rise above the Lesnaya River, its red brick walls still carrying arrow slits and battlements. A small museum inside, operated as a branch of the Brest Regional Museum, displays exhibits on the tower's history and the medieval Volhynian period.

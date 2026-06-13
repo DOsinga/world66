@@ -7,6 +7,7 @@ tags:
 latitude: 20.3893
 longitude: -99.9958
 story: "San Juan del Río was founded by Spanish colonists in 1531, making it one of the earliest Spanish settlements in the Bajío region. The original parish church was built within decades of the founding; the current baroque structure dates to the 17th and 18th centuries, a product of the silver trade wealth that flowed through the region."
+score: 8.0
 ---
 
 The parish church of San Juan Bautista faces the main plaza and is the oldest and most important religious building in the city. The baroque façade in pink quarry stone (cantera rosa) is typical of the colonial Bajío style — ornate without being overwhelming, with carved reliefs of saints in the niches flanking the entrance.

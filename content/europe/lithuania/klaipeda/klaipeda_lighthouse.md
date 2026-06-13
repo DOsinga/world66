@@ -7,6 +7,7 @@ tags:
 latitude: 55.7279
 longitude: 21.0957
 snippet: "19th-century lighthouse at the entrance to the Curonian Lagoon, visible from the ferry"
+score: 5.8
 ---
 
 The Klaipėda Lighthouse stands at the northern tip of the narrow strait where the Curonian Lagoon meets the Baltic Sea — the same passage that the ferry to Smiltynė crosses in five minutes. The current lighthouse structure dates from the 19th century and is still operational. It stands on the Smiltynė side of the strait, making it easily accessible on foot or by bicycle from the ferry landing.

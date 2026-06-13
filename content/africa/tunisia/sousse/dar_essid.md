@@ -7,6 +7,7 @@ tags:
   - historic_house
 title: Dar Essid Museum
 type: poi
+score: 7.5
 ---
 
 Dar Essid is a traditional Sousse townhouse — a 10th-century merchant palace in the heart of the Medina — that has been restored and opened as a museum. The building is a textbook example of Arab-Islamic domestic architecture: plain facade, ornate interior, rooms arranged around a central courtyard. The upper floors have been furnished to recreate the look of a prosperous 19th-century household.

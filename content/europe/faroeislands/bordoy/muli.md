@@ -9,6 +9,7 @@ tags:
 story: Múli received electricity only in 1970, decades after the rest of the Faroes — the cable had to be strung over the mountain ridge above the village. Within a decade most of the residents had still left for Klaksvík and Tórshavn, and by 2002 the last permanent inhabitants moved out. The houses remain, used as occasional summer cottages by descendants.
 title: Múli
 type: poi
+score: 8.0
 ---
 
 Múli sits at the very north tip of Borðoy in a small grass-roofed cluster of houses on a steep west-facing slope above the sea. The last permanent residents left around 2002, and the village has been formally classified as abandoned ever since, although several of the houses are kept up as summer dwellings by the original families. Sheep still graze the surrounding hillside.

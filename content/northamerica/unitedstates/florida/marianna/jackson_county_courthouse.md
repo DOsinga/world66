@@ -8,6 +8,7 @@ tags:
 latitude: 30.7735
 longitude: -85.2262
 snippet: A handsome 1916 Beaux Arts courthouse at the heart of Marianna's historic square
+score: 6.2
 ---
 
 The Jackson County Courthouse, built in 1916 in a Beaux Arts style with a prominent dome, anchors Marianna's historic town square. The building is listed on the National Register of Historic Places and is the centrepiece of one of the better-preserved antebellum courthouse squares in the Florida Panhandle.

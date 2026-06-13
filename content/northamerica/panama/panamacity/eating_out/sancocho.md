@@ -1,6 +1,7 @@
 ---
 title: Sancocho
 type: poi
+score: 7.2
 ---
 
 Sancocho is Panama's national dish and the answer to most problems. It is a slow-cooked soup of chicken on the bone with root vegetables — **ñame** (yam), **yuca**, and **otoe** (a local taro), seasoned with **culantro** (not cilantro — a broader-leafed herb with a more intense flavour) and served with white rice on the side. The broth is clear, deeply savoury, and profoundly restorative; Panamanians eat it at Sunday lunch, after a night out, when ill, and as general fortification against the heat.

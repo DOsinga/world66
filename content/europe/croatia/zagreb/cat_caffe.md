@@ -8,6 +8,7 @@ tags:
 - bars_and_cafes
 - cafe
 - donji_grad
+score: 4.7
 ---
 
 Croatia's first cat café opened in 2018 in the Lower Town as a hybrid coffee shop and adoption centre for rescued shelter cats. The space is divided between a normal café front and a back room where about a dozen cats roam freely; visitors can sit among them with a coffee, and several have been adopted by visitors over the years.

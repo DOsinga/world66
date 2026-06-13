@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 26.8525
 longitude: 80.9474
+score: 5.7
 ---
 
 Begum Hazrat Mahal Park is a small but important green space in Hazratganj, named for the Nawabi queen who led the rebellion in Lucknow during 1857 after her husband Wajid Ali Shah was deposed and exiled to Calcutta. A statue of the Begum stands at the centre of the park; she is one of the few women honoured by a major public monument in the city.

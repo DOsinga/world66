@@ -7,6 +7,7 @@ tags:
 latitude: 33.2529
 longitude: 126.5596
 snippet: "Jeju's second city — slower-paced, with waterfalls and sea cliffs"
+score: 6.9
 ---
 
 Seogwipo is Jeju Island's second city, on the south coast directly below Hallasan. It's quieter and less developed than Jeju City and makes an excellent alternative base. The city has two waterfalls within walking distance of the centre — Cheonjiyeon and Jeongbang — and sits at the trailhead for the southern Olle routes. The sea cliffs here are dramatic, with black basalt dropping into a deep blue sea.

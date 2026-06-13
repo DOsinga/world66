@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 12.0920
 longitude: -86.2480
+score: 4.8
 ---
 
 Galerías Santo Domingo is Managua's most upscale shopping mall, located at the south end of the Carretera Masaya corridor near the exclusive Las Colinas district. It houses international fashion brands, a large supermarket, a cinema, and the best concentration of high-end restaurants in the city — it is where the Managuan upper middle class shops and eats.

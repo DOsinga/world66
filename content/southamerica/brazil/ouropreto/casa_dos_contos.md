@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - museum
 snippet: "Colonial counting-house where royal gold was weighed — now a small museum with the original strongroom"
+score: 8.3
 ---
 
 The Casa dos Contos was built in 1782 as the residence and counting-house of João Rodrigues de Macedo, a wealthy tax collector. It is one of the finest civil buildings in the town: thick walls, a quiet inner courtyard, and a heavy strongroom on the ground floor where royal gold tax was weighed before being shipped to Portugal.

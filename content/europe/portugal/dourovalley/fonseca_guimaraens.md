@@ -5,6 +5,7 @@ snippet: "Fonseca's home estate near Pinhão, with an audio-guided walk through 
 tags: [things_to_do, sight, wine, quinta]
 latitude: 41.1604
 longitude: -7.559
+score: 7.9
 ---
 
 Quinta do Panascal is the heart of the Fonseca port operation, set on a side valley about five kilometres south of Pinhão. The estate has been owned by Fonseca since 1978 but has been producing port for far longer; its vintage port is among the most consistently highly rated in the world.

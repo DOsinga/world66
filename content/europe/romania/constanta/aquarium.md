@@ -8,6 +8,7 @@ snippet: Old-fashioned aquarium next to the Casino, strong on Black Sea and Danu
 tags:
   - things_to_do
   - museum
+score: 7.1
 ---
 
 The **Acvariul din Constanța** sits on the seafront next to the Casino, in a low pavilion overlooking the rocks. It is one of the oldest aquaria in Eastern Europe — opened in 1958 — and shows its age, but the collection is genuinely interesting: a focus on Black Sea, Danube delta and freshwater Romanian species rather than the generic tropical fish you find in most European aquariums.

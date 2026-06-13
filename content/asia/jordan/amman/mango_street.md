@@ -7,6 +7,7 @@ tags:
   - jabal_amman
 latitude: 31.9486
 longitude: 35.9314
+score: 6.1
 ---
 
 Mango Street is a historic street in the First Circle area of Jabal Amman, named after the mango tree that once stood here — an unusual ornamental tree for this climate, planted by a Lebanese merchant family in the early 20th century. The street and the adjacent Mango House (one of the oldest villas surviving from Amman's earliest residential development) give a sense of the old diplomatic and merchant quarter that grew up on Jabal Amman in the 1920s and 1930s.

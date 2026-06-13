@@ -9,6 +9,7 @@ latitude: 33.5108
 longitude: 36.3008
 snippet: The grand central market of Damascus, running 600m to the Umayyad Mosque
 story: "The corrugated iron roof of the souq still has thousands of bullet holes from French aerial bombing during the 1925 Great Syrian Revolt. By day the holes act as a thousand pinhole projectors, scattering shafts of light onto the stalls below."
+score: 8.4
 ---
 
 The largest and most famous covered market in Damascus, running 600 metres from the western edge of the Old City to the gates of the Umayyad Mosque. The street is roofed with arched corrugated iron and lined with stalls selling silks, brocade, spices, sweets, antiques, copperwork, perfumes and the city's celebrated ice creams.

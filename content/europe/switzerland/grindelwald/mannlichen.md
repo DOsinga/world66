@@ -11,6 +11,7 @@ story: The Grindelwald-Männlichen gondola, completed in 1978, held the record a
   world's longest gondola cableway for several years. It was later beaten by Verbier's
   Jumbo gondola, but the 6.2-kilometre crossing of the Grindelwald valley still feels
   like a proper journey through the air.
+score: 8.4
 ---
 
 Männlichen (2,342 m) sits on a broad ridge above Grindelwald with panoramic views in all directions — the Bernese Alps to the south, the Thun lake valley to the north, and the full run of the Eiger, Mönch, and Jungfrau directly opposite. It is reached by a 30-minute gondola from the Grindelwald Terminal station, the largest gondola in Switzerland.

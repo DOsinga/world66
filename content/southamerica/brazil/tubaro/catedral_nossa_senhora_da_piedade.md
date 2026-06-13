@@ -8,6 +8,7 @@ tags:
 snippet: "Neo-Gothic cathedral with stained glass windows, the architectural centrepiece of central Tubarão"
 latitude: -28.4767
 longitude: -49.0074
+score: 6.2
 ---
 
 The Catedral Diocesana de Tubarão, dedicated to Nossa Senhora da Piedade (Our Lady of Piety), dominates the city's main square with its neo-Gothic tower and imposing facade. The interior is notable for its stained glass windows, which fill the nave with coloured light on sunny mornings. The cathedral was elevated to diocesan status in 1956 and remains the most significant religious building in the region.

@@ -7,6 +7,7 @@ tags:
 - architecture
 title: Al-Khadra Mosque (Green Church)
 type: poi
+score: 6.6
 ---
 
 Al-Khadra — the Green Mosque, known locally and historically as the Green Church — is one of the oldest surviving religious structures in the Tikrit area. The building's popular name reflects a history that predates Islam in the region: it is believed to occupy the site of an early Christian church, and the name stuck through subsequent conversions and rebuildings.

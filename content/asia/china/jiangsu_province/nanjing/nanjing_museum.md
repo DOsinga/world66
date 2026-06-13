@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - museum
 story: The museum's Republican-era building — a grand structure completed in 1933 in a hybrid Chinese-Western style — was designed to embody the new Chinese nation. The design deliberately recalled the palace architecture of imperial China while using Western structural techniques, a visual argument that China could be both modern and rooted. The building alone is worth the visit even before you get to the collections.
+score: 9.4
 ---
 
 The Nanjing Museum (南京博物院) is the second-largest museum in China and one of the finest. Founded in 1933, it occupies a complex of several buildings at the foot of Purple Mountain, near the Sun Yat-sen Mausoleum. The permanent collections span Chinese history from the Neolithic through the 20th century, with exceptional holdings in bronzes, ceramics, jade, and silk.

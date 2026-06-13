@@ -8,6 +8,7 @@ latitude: 44.9475
 longitude: -93.2687
 story: >
   The chamber held the Guinness World Record for the quietest place on earth from 2004 until 2015, measuring -9.4 decibels of sound — below the threshold of human hearing. In the absence of ambient noise, the human auditory system begins to generate its own sounds: you hear your own heartbeat, the blood moving through your ears, the crackle of your joints. Most people find it deeply unsettling. The longest anyone has lasted in the chamber without losing their composure is about 45 minutes.
+score: 7.8
 ---
 
 Orfield Laboratories occupies a converted recording studio in south Minneapolis and operates the world's most acoustically isolated room — an anechoic chamber that absorbs 99.99% of sound and holds its walls, floor, and ceiling in a suspended isolation mount to prevent vibration from the outside world from entering. The chamber is used for acoustic testing by manufacturers including Harley-Davidson, Boeing, and 3M.

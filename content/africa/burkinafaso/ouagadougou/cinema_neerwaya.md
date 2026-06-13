@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 story: "Ouaga was a major centre of African cinema long before it had television. The Neerwaya, built in the 1980s and named after a Mossi word meaning 'I have come back', was the city's flagship cinema and one of the principal venues of FESPACO from its earliest years. Its survival is a small miracle — most other African cinemas of the same period have been demolished or converted into churches."
+score: 7.7
 ---
 
 A surviving single-screen cinema in central Ouagadougou with a capacity of about 1,200, Ciné Neerwaya is one of the largest functioning cinemas in West Africa. The exterior is a slab of late-modernist concrete in faded pink, with the name in giant letters across the facade. Inside, the auditorium has all the period charm of a 1980s palace cinema.

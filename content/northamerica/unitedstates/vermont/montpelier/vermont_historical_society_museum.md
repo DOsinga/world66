@@ -7,6 +7,7 @@ address: 109 State Street, Montpelier, VT 05609
 tags:
   - things_to_do
   - museum
+score: 8.0
 ---
 
 The Vermont History Museum occupies the Pavilion, an extravagant 1971 reconstruction of an 1876 Victorian hotel directly opposite the State House. Inside, the exhibits trace the state from the Abenaki through the Revolutionary War, the granite quarries, the long arguments over secession, and the rural twentieth century.

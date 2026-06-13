@@ -11,6 +11,7 @@ tags:
 - museum
 title: Fannie Bay Gaol
 type: poi
+score: 7.9
 ---
 
 Fannie Bay Gaol operated as Darwin's main prison from 1883 until 1979. The complex has survived cyclones, Japanese bombing raids in World War II, and Cyclone Tracy, and now serves as an open-air museum on the edge of the Fannie Bay foreshore.

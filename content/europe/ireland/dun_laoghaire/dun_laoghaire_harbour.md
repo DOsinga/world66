@@ -7,6 +7,7 @@ tags:
 latitude: 53.295062
 longitude: -6.130345
 story: "Construction of the harbour began in 1817 after a series of shipwrecks on the Dublin coast. The two granite piers took 41 years to complete and required quarrying millions of tons of stone from nearby Dalkey Hill. When finished, it was the largest artificial harbour in the world by enclosed water area."
+score: 8.2
 ---
 
 The harbour is the defining feature of the town and the reason it became important in the first place. Enclosed by the two great granite piers, it shelters a large marina, the ferry terminal for the Stena Line crossing to Holyhead, and the yacht clubs that have operated here since the early 19th century.

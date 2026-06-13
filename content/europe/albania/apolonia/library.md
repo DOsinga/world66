@@ -7,6 +7,7 @@ tags:
 snippet: Foundations of the city's library and the nearby ornamental fountain
 latitude: 40.7222
 longitude: 19.4730
+score: 7.1
 ---
 
 A short walk east of the Bouleuterion are the foundations of what archaeologists have identified as the library of Apollonia — the kind of institution that drew Greek and Roman students here in the late Republican period. Cicero refers to Apollonia in terms that imply a serious intellectual scene.

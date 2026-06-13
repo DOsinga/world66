@@ -14,6 +14,7 @@ story: >
   in the Paco Cemetery under the name "Rph" and inverted the position of his body. His sister
   Narcisa memorised the location. After American forces took Manila in 1898, Rizal was exhumed and
   reinterred at Rizal Park with full honours — but the original burial site in Paco is marked.
+score: 7.7
 ---
 
 Paco Park is a small circular cemetery built in 1820 by the Spanish around an older church, designed to contain the burial niches of wealthy Filipino and Spanish families in a series of concentric rings. After cholera epidemics in the nineteenth century it served as a public cemetery. Today it is a quiet public garden, one of the more peaceful spots in a very loud city.

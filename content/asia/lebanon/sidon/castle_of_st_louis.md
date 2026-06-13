@@ -5,6 +5,7 @@ latitude: 33.5612
 longitude: 35.3712
 snippet: "Ruined Crusader citadel on a hill above the old town, with views over the city"
 tags: [things_to_do, sight, historic]
+score: 7.0
 ---
 
 The Castle of St Louis — also called the Land Castle — stands on an artificial mound at the southern edge of the old town, built by the French King Louis IX around 1254 during his crusade in the Levant. Long ruined, the surviving walls and towers are dramatic against the skyline and give an indication of the scale of the original fortification.

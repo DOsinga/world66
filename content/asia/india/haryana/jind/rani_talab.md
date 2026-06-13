@@ -12,6 +12,7 @@ story: >
   ensure the welfare of deceased ancestors. On these nights the ghat is lit by oil lamps and
   the air thick with incense; the collective weight of belief turns an ordinary pond into
   something quite different.
+score: 7.2
 ---
 
 Rani Talab is the sacred tank at the heart of Jind's religious life. Surrounded by ghats and small Shiva shrines, it attracts pilgrims throughout the year — but especially on new moon nights (Amavasya), when ritual bathing here is considered particularly auspicious. The tank is old and the surrounding architecture modest, but the atmosphere on religious occasions is intense and authentic.

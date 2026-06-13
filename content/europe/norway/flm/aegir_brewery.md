@@ -7,6 +7,7 @@ tags:
   - bar
 latitude: 60.8625
 longitude: 7.1142
+score: 6.7
 ---
 
 Ægir is a craft brewery and pub at the Flåm quayside, housed in a striking Viking longhouse-inspired building that is among the more dramatic pub designs in Norway. The brewery produces a range of ales and stouts; the India Pale Ale and the dark Nøgne Ø-influenced beers are usually the best. The food menu is solid, leaning on Norwegian classics with modern execution.

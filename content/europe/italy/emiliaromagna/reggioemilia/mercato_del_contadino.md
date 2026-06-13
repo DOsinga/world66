@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 44.6949
 longitude: 10.6312
+score: 6.7
 ---
 
 The Mercato del Contadino — the farmers' market — takes place in the historic centre and is one of the best places in Reggio Emilia to find genuine local produce. Parmigiano-Reggiano at different stages of aging, culatello and other cured meats from the local tradition, honey, vegetables, and seasonal preserves fill the stalls. The market operates on a schedule worth checking in advance, as it is not a daily fixture.

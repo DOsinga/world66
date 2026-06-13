@@ -7,6 +7,7 @@ tags:
 - sight
 title: Cape Coast Fishing Harbour
 type: poi
+score: 7.8
 ---
 
 Squeezed between Cape Coast Castle and the rocky headland to the east, the fishing harbour is a chaotic and photogenic working scene — dozens of brightly painted wooden canoes drawn up on the sand, fishermen mending nets, women carrying baskets of fish up to the market, and the smell of fish and woodsmoke from the smoking sheds further inland.

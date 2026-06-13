@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Lambaesis
 story: >
   Lambèse was the permanent headquarters of Legio III Augusta — the only legion based in Roman Africa for most of its history. At its peak in the 2nd century AD, around 15,000 soldiers were stationed here, making it one of the largest Roman military installations in the empire outside of the Rhine–Danube frontier. The emperor Hadrian personally inspected the legion in AD 128 and delivered a speech praising their manoeuvres; substantial fragments of that speech survive inscribed in stone and can be read today in the site museum.
+score: 8.3
 ---
 
 Lambèse, known today as Tazoult, is a Roman legionary fortress about 12 kilometres south of Batna, and one of the most significant military sites from Roman Africa. The Legio III Augusta garrisoned here for over three centuries, and the ruins that remain — a praetorium, the temple of Aesculapius, columns, and extensive foundations — give a sense of the scale of this permanent camp.

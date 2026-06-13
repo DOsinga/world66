@@ -9,6 +9,7 @@ latitude: 35.9033
 longitude: 14.4481
 story: >
   The palazzo was originally a far more modest hunting lodge, used by the Knights of St John in the early eighteenth century. Marquis Giuseppe Scicluna transformed it into a showpiece palace in 1898, importing Italian craftsmen and artists to paint the ceilings and lay the marble floors — spending what was, by Maltese standards of the time, a fortune to create the grandest private residence the island had ever seen.
+score: 8.7
 ---
 
 The Palazzo Parisio is the finest privately owned palazzo in Malta. Built in 1898 by Marquis Giuseppe Scicluna on the site of an earlier Knights' hunting lodge, it is a late-Victorian exercise in extravagance — frescoed ceilings, marble floors, gilded mirrors, and formal gardens in the Italian style, all created by Italian artists and craftsmen brought to Malta for the purpose.

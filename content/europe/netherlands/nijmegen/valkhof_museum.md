@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 51.846
 longitude: 5.871
+score: 8.7
 ---
 
 The Valkhof Museum sits at the edge of the park bearing the same name and holds the city's main collection of archaeology and art. The Roman gallery is the strongest section: Nijmegen (Roman Noviomagus) was one of the largest Roman settlements north of the Alps, and the excavated finds here — helmets, cavalry masks, everyday objects from a garrison city — are genuinely impressive. The medieval collection covers the Carolingian and later periods, giving context to the ruins just outside.

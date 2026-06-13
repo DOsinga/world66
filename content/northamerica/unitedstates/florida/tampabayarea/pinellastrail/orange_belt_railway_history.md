@@ -8,6 +8,7 @@ tags:
   - sight
 story: >
   The Orange Belt Railway was built in the 1880s by Russian-born promoter Peter Demens, who named the terminus city after his birthplace — St. Petersburg, Russia. He lost a coin toss to his partner over naming rights; had the coin gone the other way, the city would have been called Detroit. The railway carried citrus, mail, and winter tourists for a generation before being absorbed by larger lines.
+score: 6.2
 ---
 
 The Pinellas Trail follows almost the entire route of the old Orange Belt Railway, one of the first railroads to reach the Florida Gulf Coast. The corridor was laid out in 1888 and ran from Sanford to St. Petersburg, carrying citrus north and tourists south. By the 1980s most of the line had been abandoned and the right-of-way was sold to the county for a multi-use trail — a piece of foresight that other Florida counties have spent decades trying to replicate.

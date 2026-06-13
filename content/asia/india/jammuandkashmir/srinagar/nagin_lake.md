@@ -7,6 +7,7 @@ tags:
   - dal_lake_area
 latitude: 34.1467
 longitude: 74.8267
+score: 7.9
 ---
 
 Nagin Lake is the smaller, quieter companion to Dal Lake, separated from it by a narrow causeway on the northern end. The name means "gem set in a ring," a reference to the ring of mountains encircling it. The lake is shallower and cleaner than Dal, with a reputation for better water quality and a more tranquil atmosphere — fewer tourist boats, quieter houseboats, and the feeling of being slightly removed from the main tourist circuit.

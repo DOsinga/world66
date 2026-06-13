@@ -13,6 +13,7 @@ story: >
   the Kingdom of Derge, one of the most powerful independent Tibetan principalities
   — a kingdom that maintained its autonomy until 1950 and whose printing house
   preserved texts that the monasteries of central Tibet could not always protect.
+score: 8.0
 ---
 
 The Gonchen Monastery, belonging to the Sakya school of Tibetan Buddhism, occupies the hillside directly above the printing house and is clearly visible from anywhere in the valley. Founded in the mid-fifteenth century, it served as the official monastery of the Kingdom of Derge for five hundred years and remains an active religious institution with a resident community of monks. The main assembly hall contains large gilded statues and murals in the Kham style — vivid, somewhat stern, with more gold and primary colour than you find in central Tibetan monasteries.

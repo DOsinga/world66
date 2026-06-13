@@ -5,6 +5,7 @@ tags: [things_to_do, sight]
 latitude: 45.7032
 longitude: 13.4230
 story: "Every year on the first Sunday of July, the Perdòn de Barbana procession crosses the lagoon — a flotilla of decorated fishing boats carrying the Madonna of Grado from the basilica of Sant'Eufemia out to the sanctuary on Barbana. The tradition has been observed since 1237, originally as thanks after the plague."
+score: 7.1
 ---
 
 Barbana is a small island in the lagoon, 3.5 km north-east of Grado, occupied by a Franciscan monastery and the Marian sanctuary of Santuario di Barbana. According to tradition the sanctuary was founded in the 6th century after a storm cast a statue of the Virgin ashore here; the present buildings are mostly 20th-century reconstructions on the foundations of medieval predecessors.

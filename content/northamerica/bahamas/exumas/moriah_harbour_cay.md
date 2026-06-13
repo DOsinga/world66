@@ -5,6 +5,7 @@ category: "Sight"
 snippet: "Mangrove-lined national park ideal for kayaking"
 latitude: 23.4917
 longitude: -75.7750
+score: 8.4
 ---
 
 A 27,000-acre national park stretching between Great Exuma and Little Exuma, protecting mangrove creeks, seagrass beds, tidal flats, blue holes, and coral reefs. The park is a critical nursery for fish and shellfish and home to ospreys, herons, and other wading birds.

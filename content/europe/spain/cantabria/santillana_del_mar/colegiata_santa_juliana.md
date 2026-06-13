@@ -15,6 +15,7 @@ story: >
   from her — Santa Juliana, contracted over the centuries to Santillana.
 sources:
   - https://en.wikipedia.org/wiki/Collegiate_church_and_cloister_of_St_Juliana
+score: 8.5
 ---
 
 The Colegiata de Santa Juliana is the finest Romanesque church in Cantabria, built mainly in the 12th century on the site of an earlier monastery that housed the relics of the town's patron saint. The south facade and the three apses are magnificent examples of the style, with blind arcading, corbelled friezes, and carved decorative motifs that show real ambition for a relatively remote settlement. The tower is a later Gothic addition but blends comfortably with the earlier fabric.

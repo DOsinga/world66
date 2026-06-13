@@ -12,6 +12,7 @@ story: >
   The cave was discovered accidentally in 2004 by a local landowner cutting jungle trails. 
   When explorers entered they found a river system extending over 10 km, with some chambers completely undisturbed and still displaying intact speleothems that had grown for tens of thousands of years. 
   Parts of the cave are now certified as among the most scientifically significant cave formations in the Americas.
+score: 8.1
 ---
 
 Río Secreto is a privately run underground cave tour about 20 km south of Playa del Carmen, more intimate and less crowded than the big cenote sites near Tulum. The tour involves wading through chest-deep water and swimming short sections in a headlamp through chambers packed with stalactites, columns, and crystal formations. The system extends well beyond the tourist section — parts of it have not been fully explored.

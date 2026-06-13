@@ -7,6 +7,7 @@ tags:
 latitude: 43.0279
 longitude: 11.6183
 story: "Bagno Vignoni's central piazza is not a piazza at all but a Renaissance thermal pool, built by the Medici in the 15th century. You used to be able to swim in it, but bathing is now prohibited to preserve the stone. The sight of the steaming pool where the village square should be — framed by medieval buildings — is one of the most surreal in Tuscany."
+score: 8.8
 ---
 
 Bagno Vignoni, just 4 kilometres south of San Quirico d'Orcia, is one of the strangest and most beautiful villages in Italy. The main square is occupied not by a church or a fountain but by a steaming thermal pool, built by the Medici in the 1400s and fed by underground springs that have been hot since Roman times. Lorenzo the Magnificent took the waters here. So did Saint Catherine of Siena.

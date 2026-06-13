@@ -9,6 +9,7 @@ tags:
   - park
 story: >
   Space View Park hosts an annual brick-laying ceremony in which any astronaut who has flown to space is invited to leave a handprint. The wall along the riverfront includes bronze plaques and prints from every Mercury, Gemini, and Apollo flight crew, and many of the Shuttle and Commercial Crew missions.
+score: 8.9
 ---
 
 A small linear park on Indian River Drive, directly opposite Kennedy Space Center's launch pads 39A and 39B. This is the closest publicly accessible viewing point for major rocket launches — close enough to feel the sound delay across the water and to see the exhaust trail clearly. The park has bronze monuments to every Mercury, Gemini, and Apollo mission, and a viewing wall with engraved astronaut handprints.

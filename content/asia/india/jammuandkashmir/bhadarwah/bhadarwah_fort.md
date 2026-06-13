@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 7.0
 ---
 
 Bhadarwah Fort is the old defensive structure that once guarded the town and its strategic valley crossing. The fort occupies a position above the main bazaar and what remains of its walls and towers gives you the best elevated view of the town's rooftops and the surrounding ridge country.

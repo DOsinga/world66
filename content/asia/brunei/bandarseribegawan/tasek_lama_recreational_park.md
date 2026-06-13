@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 4.9025
 longitude: 114.9275
+score: 8.7
 ---
 
 Tasek Lama is BSB's urban escape — a forested park within walking distance of the city centre where marked trails lead up into the hills to waterfalls and viewpoints. The lower reservoir is a peaceful spot, and even in the lower reaches you will hear the calls of birds that would not survive in a less forested city. The park is popular with local joggers in the early morning.

@@ -10,6 +10,7 @@ story: >
   Ré needed a reliable landmark to identify the channel into the harbour at
   Ars. The pattern made it distinguishable from other steeples at a distance.
   It has guided ships safely for nearly three hundred years.
+score: 8.0
 ---
 
 The Église Saint-Étienne is a Gothic church at the centre of Ars-en-Ré, and its black-and-white painted steeple is the defining image of the village. The steeple has served as a navigational landmark for sailors entering the harbour for centuries, and remains the first thing you see arriving from the water or from the road. Up close, the church is a calm, well-preserved Gothic structure with a simple interior that invites a quiet moment out of the summer sun.

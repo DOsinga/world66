@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 41.2365
 longitude: -111.9583
+score: 6.3
 ---
 
 Note: Utah's premier natural history collection is the main Natural History Museum at the University of Utah campus in Salt Lake City, but Ogden's George S. Eccles Dinosaur Park operates a sister facility and fossil preparation lab adjacent to the outdoor dinosaur sculptures. This facility gives visitors a direct look at ongoing paleontological work — real fossils being cleaned and catalogued, which is unexpectedly gripping to watch through the viewing window.

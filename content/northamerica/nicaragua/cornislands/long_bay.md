@@ -7,6 +7,7 @@ tags:
 snippet: "Quiet, local-feeling beach on Big Corn's eastern shore"
 latitude: 12.1819
 longitude: -83.0269
+score: 6.6
 ---
 
 Long Bay stretches along the eastern side of Big Corn and is a different animal from Picnic Center. There is no tourism infrastructure to speak of, the surf is rougher, and the wind from the Atlantic side comes in steadily. What you get instead is space — a long curve of sand that you can have largely to yourself even in high season, with a few local fishing boats pulled up at the south end.

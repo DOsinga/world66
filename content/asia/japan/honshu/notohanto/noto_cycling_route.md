@@ -8,6 +8,7 @@ tags:
 latitude: 37.2000
 longitude: 136.9000
 snippet: "250-km circuit of the peninsula through rural hamlets, coastal cliffs, and terraced farmland"
+score: 8.4
 ---
 
 The Noto Satoyama Satoumi cycling route circles the peninsula in roughly 250 kilometres, though most riders break it into sections over two to four days. The route passes through the core scenery of the peninsula — terraced paddies, fishing villages, coastal cliffs, and mountain cedar forests — with enough quiet roads that the cycling itself is a pleasure rather than an ordeal.

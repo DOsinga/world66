@@ -7,6 +7,7 @@ tags:
   - architecture
 latitude: 43.84615
 longitude: 10.503297222222223
+score: 7.4
 ---
 
 Palazzo Pfanner is the finest private palace in Lucca and one of the most beautiful in Tuscany — an 18th-century aristocratic residence whose formal garden is the only significant historic garden within the city walls. The garden is laid out in Italian baroque style, with a central fountain, a long central axis of lemon trees in terracotta pots, and baroque statues of Greek gods and the Seasons placed among the hedged compartments.

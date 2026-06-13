@@ -10,6 +10,7 @@ tags:
 - sight
 - architecture
 - historic
+score: 6.4
 ---
 
 A small Spanish mission-style building constructed in 1930 as Redondo Beach's first dedicated public library, on a corner site just above Veterans Park. White stucco walls, a red-tile roof, an arched arcaded entrance and decorative wrought-iron details make it one of the better-preserved examples of small-town Depression-era public architecture on the South Bay.

@@ -12,6 +12,7 @@ story: >
   — the Väinameri strait between Hiiumaa and the mainland is shallow and studded
   with rocks — and the rescue boats have been pulling sailors off wrecks since the
   19th century.
+score: 7.8
 ---
 
 The main museum for the island sits in Kärdla and covers Hiiumaa's natural and cultural history. The collection spans geology (including a solid display on the Kärdla meteorite crater), the island's Swedish-speaking community that predated the Estonian period, fishing and maritime traditions, and the Soviet occupation, which left a heavy footprint on Hiiumaa given its position near the Soviet western border.

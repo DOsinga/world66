@@ -8,6 +8,7 @@ tags:
 - centro
 title: Parque Las Palapas
 type: poi
+score: 6.8
 ---
 
 The social heart of downtown Cancun and the obvious place to see the city as locals see it. The large central plaza is ringed by palapa-roofed food stalls (marquesitas — crispy filled crepes — are the speciality, alongside elote, tacos and aguas frescas) and surrounded by family-friendly bars and small shops on the surrounding streets.

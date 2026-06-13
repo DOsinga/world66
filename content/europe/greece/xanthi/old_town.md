@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 41.1413
 longitude: 24.8854
+score: 8.6
 ---
 
 Xanthi's old town is one of the best-preserved 19th-century quarters in northern Greece, and one of the least visited by tourists despite its quality. The mansions that line its cobbled streets were built by tobacco merchants during the boom decades of the mid-to-late 1800s, when Xanthi was a major centre of tobacco cultivation and trade. The buildings show an eclectic mix of influences — Ottoman timber framing, neoclassical facades, Macedonian-style projecting bay windows — in rich ochres, reds, and greens.

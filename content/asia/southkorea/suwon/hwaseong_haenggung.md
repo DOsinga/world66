@@ -11,6 +11,7 @@ story: >
   In 1795, King Jeongjo staged a spectacular celebration at Hwaseong Haenggung for his mother's 60th birthday. The event lasted eight days and included military reviews, archery competitions, and elaborate banquets, all recorded in minute illustrated detail in an official illustrated record. The Uigwe volumes describing this visit survive and have been used to reconstruct some of the celebrations in modern re-enactments.
 sources:
   - https://en.wikipedia.org/wiki/Hwaseong_Haenggung
+score: 8.0
 ---
 
 Hwaseong Haenggung is the detached palace complex inside the fortress walls, the largest of the five haenggung (temporary royal residences used during progresses outside the main palaces) in the Joseon kingdom. The complex was built in stages and expanded significantly when King Jeongjo used Suwon as his base for regular visits to his father's tomb nearby. The 48 buildings on the site were largely destroyed during the Korean War and have been reconstructed on the original foundations.

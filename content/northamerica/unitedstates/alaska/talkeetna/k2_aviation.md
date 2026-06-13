@@ -10,6 +10,7 @@ url: "https://www.flyk2.com"
 latitude: 62.3208
 longitude: -150.0930
 snippet: Flightseeing and glacier tours around Denali
+score: 9.1
 ---
 
 K2 Aviation is one of several air taxi operators at Talkeetna Airport offering flightseeing circuits around Denali and the Alaska Range. Tours range from a basic Denali fly-around to full glacier landing experiences that put you down on the Ruth Glacier or the Kahiltna. The company also handles mountaineer transport for expeditions attempting the West Buttress route.

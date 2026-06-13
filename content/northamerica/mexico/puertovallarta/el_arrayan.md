@@ -8,6 +8,7 @@ tags:
 - centro
 title: El Arrayán
 type: poi
+score: 7.0
 ---
 
 A traditional Mexican restaurant in Centro that has been a Vallarta favourite since 2003 for its strict focus on regional Mexican cooking — no fusion, no concessions to international palates. Slow-cooked pork pibil from the Yucatán, duck enchiladas with mole poblano, fresh fish in achiote, and an excellent margarita made with house-pressed lime juice and proper reposado tequila.

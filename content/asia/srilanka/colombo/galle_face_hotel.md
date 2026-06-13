@@ -12,6 +12,7 @@ tags:
   - architecture
 title: Galle Face Hotel
 type: poi
+score: 7.9
 ---
 
 The Galle Face Hotel is the oldest hotel east of Suez still in operation, open continuously since 1864. The long cream-coloured building faces the Indian Ocean across Galle Road, its verandas, high ceilings, and slow ceiling fans maintaining an atmosphere that has changed little since the colonial era. It was genuinely the most luxurious hotel in Asia during the British period, and it remains a remarkable place — not perfectly preserved, but genuinely old and atmospheric.

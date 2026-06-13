@@ -5,6 +5,7 @@ tags: [things_to_do, sight, museum]
 latitude: 51.1180
 longitude: 71.4727
 story: "A glass-walled trapezoid containing — on its top floor — a vast scale model of Astana itself, complete with miniature ministries, parks, and the Bayterek. The model is updated whenever a major new building is finished, so it doubles as a permanent record of the city's astonishing growth since 1997."
+score: 7.0
 ---
 
 The Palace of Independence is a wedge-shaped contemporary building on the southern square, near the National Museum and Hazret Sultan Mosque. It functions as both a state ceremonial hall (used for the inauguration of presidents and major state occasions) and a small museum of national symbols and the Kazakhstani constitution.

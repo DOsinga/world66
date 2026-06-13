@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 33.9003
 longitude: 35.4814
+score: 8.1
 ---
 
 The American University of Beirut's archaeology museum is the third-oldest in the Middle East, founded in 1868. Tucked inside Post Hall on the AUB campus, it holds a tightly focused collection of objects from the Levant — flint tools, painted Phoenician pottery, Roman glass, and a beautiful set of glazed Islamic ware.

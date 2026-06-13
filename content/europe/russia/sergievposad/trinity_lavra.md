@@ -10,6 +10,7 @@ tags:
   - museum
 story: >
   During the Time of Troubles (1608–1610), the Trinity Lavra withstood a siege of sixteen months by a Polish-Lithuanian army. About 3,000 monks, soldiers, and townspeople held off a force of roughly 30,000 for the entire winter — surviving on minimal food, plague, and constant bombardment. The monastery never fell. The siege is commemorated in the Siege of Troitsky Monastery monument inside the walls, and locals still refer to the event as the foundation of the monastery's reputation for spiritual invulnerability.
+score: 9.5
 ---
 
 The Trinity Lavra of St. Sergius is the most important monastery in Russia and the spiritual headquarters of the Russian Orthodox Church. Enclosed within tall white walls studded with towers, the complex is a dense ensemble of churches, cathedrals, chapels, bell towers, and monastic buildings accumulated over six centuries of construction. It was designated a UNESCO World Heritage Site in 1993.

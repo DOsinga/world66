@@ -9,6 +9,7 @@ tags:
   - eating_out
   - shopping
   - market
+score: 6.0
 ---
 
 The **old town snack street** runs north from the south gate along Nan Da Jie, a pedestrian-only stretch of Qing-style storefronts that is the most concentrated eating zone inside the walls. Stalls along the way sell **da gao** (the local brown-sugar cake), grilled lamb skewers, *jianbing* (savoury crepes with egg and crispy wonton), donkey-meat sandwiches, fresh peach juice, candied haws, and a long row of more substantial dumpling and noodle restaurants behind the stall fronts.

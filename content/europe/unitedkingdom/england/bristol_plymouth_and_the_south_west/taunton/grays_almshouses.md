@@ -6,6 +6,7 @@ longitude: -3.098
 tags:
 - sight
 - historic
+score: 6.8
 ---
 
 Gray's Almshouses are a terrace of six small almshouses built in 1635 by the wealthy cloth merchant Robert Gray for the relief of "ten poor single women" of Taunton. They survive almost unchanged: a stone façade of mullioned windows and slate-hung gables, the founder's coat of arms above the central doorway.

@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 28.9601
 longitude: -13.5481
+score: 5.8
 ---
 
 Lilium is one of Arrecife's most-respected restaurants, in the Marina Lanzarote at the south end of the Charco. The kitchen reworks traditional Canarian dishes with modern techniques — a wreckfish ceviche with mojo verde, slow-cooked *cochino negro* (the local black pig), a degustation menu that runs through six or seven small plates.

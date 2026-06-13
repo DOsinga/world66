@@ -13,6 +13,7 @@ story: >
   in 1810, the Stucchi Prinetti family purchased the estate and have run it as
   a winery ever since, maintaining the monastic tradition of disciplined land
   stewardship across more than two centuries.
+score: 8.3
 ---
 
 The Badia a Coltibuono is a fortified Romanesque abbey north of Gaiole that has been producing wine and olive oil since the 11th century. The abbey church dates from 1049 and is one of the finest pieces of Romanesque architecture in Chianti — plain, powerful, and beautifully proportioned. The surrounding buildings, including the old monks' quarters and refectory, now house the Stucchi Prinetti family winery and estate.

@@ -15,6 +15,7 @@ story: >
   the island's exports were valued in the hundreds of thousands of dollars annually.
 sources:
   - https://www.visittci.com/salt-cay/about
+score: 6.6
 ---
 
 The Harriott White House is the most imposing of Salt Cay's remaining colonial buildings — a grand Bermudian-style stone house with a distinctive coral stone exterior and large shuttered windows designed to catch the trade winds. It stands in Balfour Town near Deane's Dock and has become one of the island's most photographed landmarks.

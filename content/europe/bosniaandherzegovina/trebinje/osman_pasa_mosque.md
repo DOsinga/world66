@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: 18th-century Ottoman mosque at the heart of the old town
+score: 7.4
 ---
 
 The principal Ottoman mosque of Trebinje, built in 1719 by Osman-paša Resulbegović, the local Ottoman governor who also built the surrounding old-town walls. The mosque sits at the centre of the walled enclosure; its single dome and slim stone minaret are the dominant features of the old-town skyline.

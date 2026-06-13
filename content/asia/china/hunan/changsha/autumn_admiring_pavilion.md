@@ -15,6 +15,7 @@ story: >
   visits to the pavilion on Yuelu Mountain have been a Changsha ritual ever
   since. The current structure has been rebuilt several times but the maple
   grove surrounding it is old.
+score: 7.3
 ---
 
 The Autumn-Admiring Pavilion (Aiwan Ting) is a small octagonal pavilion on the slopes of Yuelu Mountain, built at the spot where the Tang poet Du Mu stopped to watch the maple leaves and wrote the poem that made the location famous. The pavilion sits in a grove of old maple trees that turn brilliant red and orange in late October and November, making it one of the most visited spots on the mountain during autumn.

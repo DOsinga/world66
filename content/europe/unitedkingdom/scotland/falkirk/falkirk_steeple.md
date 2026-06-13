@@ -9,6 +9,7 @@ latitude: 55.9992178
 longitude: -3.7842276
 sources:
   - https://en.wikipedia.org/wiki/Falkirk_Steeple
+score: 6.4
 ---
 
 The Falkirk Steeple stands at the top of the High Street, a Category A listed building that has been the focal point of the town centre since 1814. The current steeple replaced an earlier tolbooth, and its distinctive clock tower has kept the hours for two centuries of Falkirk commerce and community life. The neighbouring Old Parish Church dates from 1811 and sits in a churchyard that has been a burial ground since at least the 12th century.

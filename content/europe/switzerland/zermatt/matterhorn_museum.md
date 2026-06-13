@@ -15,6 +15,7 @@ story: >
   modern era of controversy about the ethics of mountain guiding. Whymper spent
   the rest of his life defending himself against accusations that were never
   quite resolved.
+score: 8.3
 ---
 
 The Matterhorn Museum sits entirely underground beneath the village centre, entered through a glass pavilion beside the church. The museum traces the history of Zermatt from a farming village to alpine resort, and centres on the first ascent of the Matterhorn in 1865 and its disastrous aftermath. The collection includes the original rope that broke on the descent, the equipment of the climbers who died, and the reconstituted interiors of Victorian-era Zermatt buildings.

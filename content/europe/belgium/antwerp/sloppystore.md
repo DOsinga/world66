@@ -8,6 +8,7 @@ tags:
 - club
 title: Sloppy Store
 type: poi
+score: 3.8
 ---
 
 Good club when you feel like dancing. Open Thurs.-Sat.

@@ -10,6 +10,7 @@ tags:
 - things_to_do
 - sight
 - hiking
+score: 7.2
 ---
 
 Roccavignale sits in the upper valley of the Bormida di Millesimo, a quiet wooded inland region that gets very little tourist traffic compared to the Ligurian coast. A network of marked paths runs through chestnut woods, beech forests, and abandoned agricultural terraces, linking the small villages of the valley.

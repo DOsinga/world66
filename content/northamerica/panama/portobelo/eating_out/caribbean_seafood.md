@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 9.5499
 longitude: -79.6505
+score: 6.4
 ---
 
 The waterfront restaurants in Portobelo serve fish caught the same morning — typically whole red snapper or sea bass, fried crisp and served with patacones and a squeeze of lime. Ceviche made with corvina (sea bass) marinated in lime juice with onion and ají is a regular fixture on blackboard menus. Caribbean-style preparations with coconut milk show up in rice dishes and the occasional fish stew.

@@ -9,6 +9,7 @@ latitude: 45.4360
 longitude: 4.3830
 sources:
   - https://en.wikipedia.org/wiki/Manufrance
+score: 8.2
 ---
 
 Built on the former site of the Manufacture Nationale d'Armes — the state arms factory that made Saint-Étienne a city of heavy industry — the Cité du Design is now one of Europe's leading design research and exhibition centres. The complex mixes preserved industrial buildings with a striking new pavilion by Finn Geipel and Giulia Andi.

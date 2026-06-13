@@ -4,6 +4,7 @@ type: poi
 tags: [getting_there, sight]
 latitude: 46.1122
 longitude: -64.6789
+score: 3.8
 ---
 
 The main airport for southeastern New Brunswick and northwestern Nova Scotia, named after Roméo LeBlanc, a New Brunswicker who served as Governor General of Canada from 1995 to 1999. The airport handles routes to Toronto, Montreal, Ottawa, Halifax, and Quebec City, operated primarily by Air Canada, WestJet, and Porter Airlines. International designation refers mainly to connections to US airports, though direct international routes are limited.

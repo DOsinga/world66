@@ -10,6 +10,7 @@ tags:
 - sight
 title: Krishna Mandir
 type: poi
+score: 8.2
 ---
 
 The stone Krishna Mandir is the most striking single structure on Patan Durbar Square. Unusually for the Kathmandu Valley, it is built in the North Indian shikhara style rather than the pagoda form that defines most Newari temples. The whole thing was carved from a single stone, with twenty-one gilded pinnacles and three tiers of intricately worked galleries.

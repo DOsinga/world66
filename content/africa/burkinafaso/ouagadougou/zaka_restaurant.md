@@ -6,6 +6,7 @@ longitude: -1.5267
 tags:
   - eating_out
   - restaurant
+score: 5.4
 ---
 
 A long-running restaurant in a leafy courtyard in central Ouaga, run by a French Catholic religious community. The menu is colonial-French (terrine, blanquette de veau, tarte aux pommes) executed with care, and the staff — many of them young women in religious dress — sing the Ave Maria at 10pm each night.

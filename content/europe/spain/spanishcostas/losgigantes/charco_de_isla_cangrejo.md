@@ -10,6 +10,7 @@ tags:
   - nature
 title: Charco de Isla Cangrejo
 type: poi
+score: 6.6
 ---
 
 Charco de Isla Cangrejo is a natural swimming pool cut into the black volcanic edge south of the marina. When conditions are calm it can be a lovely place for a dip, with waves breaking outside and the pool itself sheltered by rock.

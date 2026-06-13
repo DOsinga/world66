@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: A purpose-built entertainment complex between two large hotels, with bars, shops, and a dancing fountain.
+score: 5.9
 ---
 
 Soho Square is the closest Sharm has to a designed nightlife district — a pedestrianised plaza in Nabq Bay, between the Savoy and Sierra hotels, lined with bars, restaurants, an ice rink, a bowling alley, the Pangaea nightclub, and a dancing-fountain show that runs hourly through the evening. The architecture is somewhere between Italian piazza and Las Vegas resort, but the result is more enjoyable than that sounds.

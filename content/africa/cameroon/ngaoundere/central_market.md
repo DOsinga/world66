@@ -8,6 +8,7 @@ tags:
 - market
 title: Central Market
 type: poi
+score: 7.6
 ---
 
 Ngaoundéré's central market spills across several blocks near the mosque. The animal section at the eastern edge — cattle, sheep, goats and the occasional camel — is a reminder that this is still very much a Fulani livestock town. Closer to the centre you find heaps of dried fish from Lake Chad, sacks of millet and sorghum, leather sandals, woven mats and indigo-dyed cloth.

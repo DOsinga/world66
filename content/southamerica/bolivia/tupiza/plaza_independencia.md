@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: -21.4458
 longitude: -65.7197
+score: 4.9
 ---
 
 The town's main square is a tidy, palm-shaded plaza with a small fountain at its centre and benches under the trees. The cathedral and the local government offices line the surrounding streets, and the cafes on the corners are the obvious places to start an evening.

@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 47.7395
 longitude: 18.1200
+score: 7.8
 ---
 
 The town's main museum, named after the Hungarian general who held Komárom for the revolutionary side in 1849. The collection covers two distinct stories: the Roman town of Brigetio that lay east of the modern town, and the 19th-century fortress system and its place in the War of Independence.

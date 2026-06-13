@@ -8,6 +8,7 @@ tags:
 title: Stadspark
 type: poi
 snippet: Triangular city park between the Diamond District and the centre — laid out in 1869
+score: 5.8
 ---
 
 A triangular landscaped park between the centre and the Diamond District, laid out in 1869 on the line of the old city walls. A small pond, a high suspension bridge, and several monumental sculptures break up what is otherwise a generous expanse of trees and grass. It is the most central proper park in the city and is busy at lunchtime with office workers from the diamond quarter.

@@ -8,6 +8,7 @@ tags:
 - beaches
 title: Playa Cocles
 type: poi
+score: 7.0
 ---
 
 A long sweep of golden sand a few kilometres south of Puerto Viejo, Playa Cocles is the most accessible beach on the South Caribbean coast and the one most travellers find first. Reggae bars and a few surf schools sit back from the sand under the palms; locals fill in on weekends with picnic lunches.

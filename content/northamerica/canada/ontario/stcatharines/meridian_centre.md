@@ -8,6 +8,7 @@ snippet: 5,300-seat arena, home of the Niagara IceDogs of the OHL
 tags:
 - things_to_do
 - sight
+score: 5.4
 ---
 
 The Meridian Centre, opened in 2014, is the city's main arena and the home of the Niagara IceDogs of the Ontario Hockey League — the major junior tier that funnels players to the NHL. Tickets are inexpensive by professional standards, the crowd is loud, and the standard of play is high.

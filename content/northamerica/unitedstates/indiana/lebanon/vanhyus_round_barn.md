@@ -9,6 +9,7 @@ latitude: 40.0215
 longitude: -86.4833
 story: >
   Round barns were built across the American Midwest in the late nineteenth and early twentieth centuries on the theory that they were more efficient than rectangular ones — a single worker in the centre could feed all the animals in stalls arranged around the circumference. About 200 survive in Indiana, making it the state with the highest concentration of them in the country. The VanHuys barn near Lebanon is one of the best-preserved examples.
+score: 7.2
 ---
 
 The Andrew B. VanHuys Round Barn, located a few miles south of Lebanon, is a well-preserved example of a once-common Midwestern agricultural form that has largely disappeared. Round barns were built in Indiana between roughly 1890 and 1920 on the premise that the shape was structurally efficient and allowed hay to be stored in a central mow above the animals below. In practice they proved difficult to adapt as farming methods changed, and most were demolished.

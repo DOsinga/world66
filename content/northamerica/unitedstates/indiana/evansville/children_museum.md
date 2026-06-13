@@ -7,6 +7,7 @@ tags:
 latitude: 37.97139
 longitude: -87.56917
 story: The Koch Family Children's Museum opened in its current downtown building in 2010 after a capital campaign that rallied significant local support. It occupies a former department store on Main Street, and the conversion preserved the building's early 20th-century exterior while gutting the interior for interactive exhibits. The museum was named for a substantial gift from the Koch family, prominent Evansville industrialists.
+score: 5.8
 ---
 
 The Koch Family Children's Museum is an interactive science and arts museum for children in downtown Evansville, housed in a converted historic commercial building on Main Street. The exhibits span physical sciences, earth and environment, arts and creativity, and community life, with a strong emphasis on hands-on engagement. The museum is well-regarded among Indiana family travel resources and draws visitors from across southwest Indiana.

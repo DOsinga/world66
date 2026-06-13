@@ -10,6 +10,7 @@ longitude: -113.0263
 snippet: "Southern Utah's great canyon park, 25 minutes from Hurricane — slot canyons, soaring cliffs, and the famous Narrows hike."
 story: >
   The Narrows is Zion's signature experience: a slot canyon hike through the Virgin River where you wade upstream through water that in places is only wide enough for your shoulders. The depth ranges from knee-height to chest-height depending on season, and the canyon walls rise 300 metres above. Waterproof sandals or neoprene socks make the difference between a miserable shuffle and a genuinely extraordinary walk.
+score: 9.6
 ---
 
 Zion is 25 minutes northeast of Hurricane on State Route 9, and staying in Hurricane instead of Springdale (right at the park gate) means cheaper accommodation and a quieter base in exchange for a short drive. The park's main canyon is extraordinary — sheer Navajo sandstone walls in shades of cream, orange, and red, with the Virgin River running along the floor.

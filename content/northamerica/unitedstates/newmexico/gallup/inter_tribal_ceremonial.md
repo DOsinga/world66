@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 35.5284
 longitude: -108.7439
+score: 9.0
 ---
 
 The Inter-Tribal Indian Ceremonial, held each August in Gallup since 1922, is one of the most significant Native American cultural gatherings in the United States. Dozens of tribes from across the country send dancers, artists, and athletes to compete and perform over several days. The events include traditional dance competitions, a rodeo, a parade through downtown Gallup, and one of the largest Native American art markets in the region.

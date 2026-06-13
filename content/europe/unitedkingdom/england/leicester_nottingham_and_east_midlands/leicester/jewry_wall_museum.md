@@ -9,6 +9,7 @@ latitude: 52.6355
 longitude: -1.1378
 story: >
   The Jewry Wall is one of the largest surviving pieces of Roman civil masonry in Britain, standing around 9 metres high. The name has nothing to do with Jews — it comes from the medieval French "jurats," the civic officials who held court here after the Romans left. The wall formed the west wall of the Roman baths, and you can still see the sockets where the timber supports of the changing rooms slotted in.
+score: 8.4
 ---
 
 One of the largest surviving pieces of Roman civil masonry in Britain, the Jewry Wall stands at the heart of Leicester's Roman past. Ratae Coritanorum was a significant Roman town, and this 9-metre section of Roman wall is all that remains of its public baths — a complex that would once have been one of the grandest buildings in the settlement.

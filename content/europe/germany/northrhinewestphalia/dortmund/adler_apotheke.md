@@ -12,6 +12,7 @@ story: >
   pharmacy on its original site in all of North Rhine-Westphalia. Seven centuries of pharmacists
   have dispensed medicines from the same corner of the Altstadt. The current building dates from
   the nineteenth century, but the basement contains medieval stonework from the original structure.
+score: 5.6
 ---
 
 The Adler Apotheke (Eagle Pharmacy) sits on the Ostenhellweg, the pedestrian street running through the historic centre, and has been dispensing medicines since the fourteenth century. The current neo-Gothic facade is a handsome piece of nineteenth-century commercial architecture, and the interior, still operating as a working pharmacy, retains period fittings and display cases.

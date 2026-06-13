@@ -6,6 +6,7 @@ tags:
   - neighbourhood
 latitude: 10.0710
 longitude: 99.8381
+score: 6.9
 ---
 
 Chalok Ban Kao is Koh Tao's southern bay, calmer and quieter than Sairee but still with plenty of services. The bay is shallow and well-sheltered, making it good for swimming even when the west coast is choppy. Several dive schools operate from here, and the atmosphere is noticeably more relaxed than the main tourist strip.

@@ -4,6 +4,7 @@ type: poi
 latitude: 54.2467
 longitude: -8.4017
 tags: [things_to_do, sight, nature]
+score: 8.0
 ---
 
 A long, narrow lake five kilometres southeast of Sligo town, ringed by oak woods and small drumlin islands. The most famous of them — Innisfree — is the subject of one of Yeats's best-known poems.

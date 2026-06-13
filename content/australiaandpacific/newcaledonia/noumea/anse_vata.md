@@ -7,6 +7,7 @@ tags:
 - sight
 title: Anse Vata
 type: poi
+score: 6.6
 ---
 
 Anse Vata is the main beach of Nouméa's southern tourist peninsula, a curving stretch of white sand with calm, clear water backed by a promenade of restaurants, cafes, and water sports operations. It is the most animated spot in the city — families, tourists, and locals all share the beach, and on weekends the promenade fills with people walking, cycling, and eating ice cream.

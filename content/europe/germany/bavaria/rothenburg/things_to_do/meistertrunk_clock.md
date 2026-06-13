@@ -1,6 +1,7 @@
 ---
 title: "Meistertrunk: The Clock and the Legend"
 type: poi
+score: 5.6
 ---
 
 In 1631, during the Thirty Years' War, the Imperial General Tilly captured Rothenburg and ordered the town burned to the ground. According to legend — and the town has been telling this story ever since — the burghers offered Tilly a massive ceremonial tankard of Franconian wine holding 3.25 litres. Tilly declared that if any man could drink the whole thing in a single draught, he would spare the town. Former mayor Georg Nusch accepted the challenge, drank it all without stopping, and Rothenburg was saved. He then, the story continues, slept for three days.

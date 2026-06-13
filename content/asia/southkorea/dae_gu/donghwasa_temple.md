@@ -11,6 +11,7 @@ story: >
   The giant seated Buddha at Donghwasa — 33 metres high, completed in 1992 — was built with a specific purpose: to serve as a symbol of Korean reunification. The statue faces north, towards the divided peninsula, and its formal name is the "Unification Buddha." The monks who commissioned it believed it would help bring about Korean unification; as of now, they are still waiting.
 sources:
   - https://en.wikipedia.org/wiki/Donghwasa
+score: 8.1
 ---
 
 Donghwasa is the most visited Buddhist temple on Mount Palgong and one of the significant temples in the Gyeongbuk region. The temple complex was founded in the 5th century and expanded many times since; the main hall dates from a 17th-century restoration after the Japanese invasions. The compound is large, with multiple halls, pagodas, and subsidiary buildings spread across a wooded valley.

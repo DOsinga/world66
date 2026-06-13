@@ -10,6 +10,7 @@ latitude: 33.6962
 longitude: 35.5799
 snippet: "Early 19th-century Emiri palace, summer residence of the President"
 story: "When Emir Bashir II finished the palace in the 1810s, he is said to have had his Italian architects' hands cut off so the design could never be repeated elsewhere. The story is almost certainly apocryphal, but it persists in the local guidebooks. The same emir later defected to the Ottomans and died in exile in Istanbul."
+score: 9.4
 ---
 
 The Palace of Beiteddine is one of the masterpieces of 19th-century Arab architecture — a sprawling complex of terraced courtyards, marble fountains, vaulted halls, and richly decorated rooms set on a saddle in the Chouf mountains. Built between 1788 and 1818 by Emir Bashir II, designed by Italian architects and constructed by local artisans, it shows a remarkable fusion of Ottoman, Arab, and European Renaissance styles.

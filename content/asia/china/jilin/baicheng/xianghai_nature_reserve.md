@@ -9,6 +9,7 @@ latitude: 45.1000
 longitude: 122.3500
 story: >
   Xianghai is one of China's most important stopover points for red-crowned cranes during the spring and autumn migrations. These cranes — the rarest in the world and a symbol of longevity in East Asian culture — pause here in the marshes by the thousands, a congregation that feels improbable given how few remain globally.
+score: 8.7
 ---
 
 Xianghai National Nature Reserve lies about 100 kilometres southwest of Baicheng and protects a vast mosaic of wetlands, marshes, and grasslands on the edge of the Inner Mongolian steppe. The reserve covers roughly 1,050 square kilometres and holds one of the highest concentrations of cranes in China during the spring and autumn migration seasons. Red-crowned cranes, white-naped cranes, and demoiselle cranes all stop here, along with a wide variety of waterfowl and raptors.

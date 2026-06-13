@@ -14,6 +14,7 @@ story: >
   seventeen centuries. Other panels show hunting scenes, mythological stories, and
   domestic life, all executed at a quality that speaks to the prosperity and cultural
   ambition of Roman North Africa at its peak.
+score: 9.3
 ---
 
 The site museum at Djemila houses the floor mosaics and other objects recovered from the ancient city, and it alone would justify the visit. The mosaics are the highlight — large, intricate compositions covering entire room floors, removed from their original contexts to be preserved and displayed under cover.

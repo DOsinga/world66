@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.7674
 longitude: 120.7579
+score: 6.1
 ---
 
 Jiaxing's Catholic church is a substantial red-brick Gothic Revival building that sits in the older residential quarter north of the city centre, a relic of the strong Jesuit presence in the Jiangnan region from the sixteenth century onwards. The church dates from the late nineteenth century and follows the typical mission-hall style of the period: pointed arch windows, a modest bell tower, and a nave that holds several hundred worshippers.

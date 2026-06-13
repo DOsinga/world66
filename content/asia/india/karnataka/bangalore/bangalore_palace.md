@@ -12,6 +12,7 @@ story: >
   The Mysore maharaja bought the palace in 1884 for 40,000 rupees from Reverend John Garrett,
   who had it built as a replica of Windsor Castle. The price seems modest now: it sits on
   454 acres in the middle of one of Asia's most expensive real estate markets.
+score: 7.1
 ---
 
 Bangalore Palace was built in 1887 and remains the property of the Wadiyar royal family of Mysore. The Tudor-style building, modeled closely on Windsor Castle, sits on 454 acres near the centre of the city — a fact that makes property developers and city planners nervous. The palace's towers, battlements, and formal gardens look faintly improbable in the Bangalore heat, but it is a handsome building, and the interiors — ornate carved wooden ceilings, royal portraits, hunting trophies, period furniture — are worth the entrance fee.

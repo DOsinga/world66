@@ -5,6 +5,7 @@ tags: [things_to_do, sight, nature]
 latitude: 13.9850
 longitude: 75.2330
 story: Sakrebyle is one of India's oldest captive elephant training centres, where tuskers and their mahouts work in a relationship that can last an entire lifetime — handlers are often assigned to an elephant as children and stay with the same animal for decades.
+score: 7.1
 ---
 
 Sakrebyle Elephant Camp sits about 8 km from Shimoga on the banks of the Tunga river, and it is the most accessible wildlife encounter in the district. The Karnataka Forest Department runs this working elephant camp where around 25–30 elephants are kept for forestry and ceremonial duties. You can watch the daily bathing in the river in the morning — elephants led by their mahouts into the shallows is genuinely impressive at close range.

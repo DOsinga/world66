@@ -8,6 +8,7 @@ tags:
   - eating_out
   - restaurant
   - mexican
+score: 5.7
 ---
 
 The town's Mexican restaurant of choice — bright dining room, generous portions, very strong margaritas. The menu runs through the usual Cal-Mex repertoire (combination plates, fajitas, enchiladas) with a few Sonoran touches.

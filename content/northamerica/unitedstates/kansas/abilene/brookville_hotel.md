@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 snippet: Family-style fried-chicken dinner since 1870, transplanted to Abilene from the original Brookville
+score: 6.6
 ---
 
 A central-Kansas institution: a single-menu, family-style fried-chicken dinner served exactly the same way since 1870. The original hotel restaurant operated in the tiny town of Brookville, an hour west; in 2000 the Magee family rebuilt the place on the western edge of Abilene, brought their cooks and their recipes, and continued without missing a beat.

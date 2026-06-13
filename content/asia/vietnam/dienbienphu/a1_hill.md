@@ -8,6 +8,7 @@ latitude: 21.3837
 longitude: 103.0264
 story: >
   The French called the strategic hilltop strongpoint "Élianne 2." The Viet Minh tunnelled under it and detonated an underground mine on the night of May 6–7, 1954, collapsing the French position. It was one of the last French strongpoints to fall; the following morning, General de Castries surrendered. On the hill today, a lone French tank — captured during the battle — sits rusting beside the Vietnamese memorial.
+score: 8.6
 ---
 
 The most visible and historically significant of the battlefield sites accessible from the town centre. Hill A1 — the Viet Minh designation; the French called it Élianne 2 — was the key high ground commanding the central French position, and the fighting for it was among the most brutal of the entire siege.

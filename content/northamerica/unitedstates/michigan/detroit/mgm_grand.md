@@ -10,6 +10,7 @@ tags:
 neighbourhood: Downtown
 title: MGM Grand Detroit
 type: poi
+score: 4.8
 ---
 
 The MGM Grand Detroit is the largest of the three downtown casinos, with around 4,000 slot machines, table games, a poker room, several restaurants, a hotel, and a nightclub on the top floor. Detroit's three casinos — MGM, MotorCity, and Hollywood Greektown — opened in the early 2000s after a state referendum legalised commercial casinos to keep gambling revenue from crossing the river to Windsor.

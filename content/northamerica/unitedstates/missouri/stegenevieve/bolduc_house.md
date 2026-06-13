@@ -14,6 +14,7 @@ story: >
   Normandy and almost completely lost in America by the time this building was preserved.
 sources:
   - https://en.wikipedia.org/wiki/Louis_Bolduc_House
+score: 9.1
 ---
 
 The Louis Bolduc House (c. 1792) is the finest surviving example of French Creole colonial architecture in the United States and the centerpiece of Ste. Genevieve's historic district. It was built using the distinctive poteaux-sur-solle technique: heavy oak posts set vertically into a timber sill, with the spaces between filled with bousillage — a mixture of mud, straw, and horsehair that hardened like cement. The steep Norman hip roof with its hand-hewn trusses was designed to shed snow and rain away from the wide surrounding gallery.

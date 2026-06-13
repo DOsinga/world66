@@ -9,6 +9,7 @@ tags:
 latitude: 36.0833
 longitude: 72.5333
 story: "Every July, teams from Chitral and Gilgit-Baltistan meet on the Shandur for a three-day polo tournament played without an umpire and barely any rules — a tradition that dates from the 1930s when the British political agent decided his side-valley district teams needed something to settle their differences."
+score: 9.0
 ---
 
 The Shandur Pass connects Chitral to Gilgit-Baltistan across a wide grass plateau at 3,719 metres. The drive over the pass from Chitral to Mastuj and on to Phander and Gilgit is one of the great mountain road trips of Pakistan — about 25 hours of slow driving in total, with several rivers to ford and one of the world's highest polo grounds at the top.

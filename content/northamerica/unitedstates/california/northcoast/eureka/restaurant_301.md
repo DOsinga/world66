@@ -8,6 +8,7 @@ tags:
 - restaurant
 title: Restaurant 301
 type: poi
+score: 6.4
 ---
 
 Restaurant 301 at the Carter House Inn on L Street is the most serious restaurant in Eureka by some margin. The kitchen works with seasonal ingredients, much of it locally sourced, and maintains a wine list that would embarrass places ten times the size. The dining room is formal by North Coast standards — white tablecloths, attentive service — but not stiff.

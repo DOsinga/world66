@@ -7,6 +7,7 @@ tags:
 latitude: 20.9200
 longitude: 107.0800
 story: "The hidden lagoons (locally called 'ho') scattered among the karst islands of Ha Long Bay are accessible only at low tide, through narrow passages at the base of the limestone cliffs. Some of these enclosed lagoons are home to remarkable ecosystems — isolated from the open sea, they have developed their own populations of fish, crabs, and birds. The most famous is Ba Ham Lake on Dau Be Island, a system of three connected lagoons linked by short passages through the rock."
+score: 9.0
 ---
 
 Kayaking is the best way to experience Ha Long Bay at the scale of the landscape rather than from above it. Seated in a sea kayak, paddling through the base of limestone towers that rise 100–200 metres directly overhead, the bay becomes something entirely different from what you see from the deck of a cruise junk.

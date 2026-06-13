@@ -9,6 +9,7 @@ tags:
   - temple
 story: >
   The temple is believed to be over a thousand years old and is dedicated to the fierce goddess Bhadrakali. Every August, thousands of pilgrims converge here at the start of the Bhadarwah Mela, one of Jammu's most important local fairs, to seek her blessing before the Kailash Yatra begins.
+score: 6.9
 ---
 
 Bhadrakali Temple is the spiritual heart of Bhadarwah, dedicated to the fierce goddess Kali in her Bhadra (auspicious) form. The temple sits in the older part of town and draws a steady stream of devotees from the surrounding villages throughout the year.

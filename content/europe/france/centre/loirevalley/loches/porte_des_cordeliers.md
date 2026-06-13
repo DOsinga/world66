@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: The 15th-century gate at the north end of the old town, with twin pointed turrets
+score: 6.6
 ---
 
 The Porte des Cordeliers is the most photogenic of Loches's surviving town gates: two slim pointed turrets flanking a vaulted passage, with a small footbridge over the river Indre directly outside. It was built in the 15th century to defend the northern approach to the old town and takes its name from a Franciscan (Cordelier) friary that once stood nearby.

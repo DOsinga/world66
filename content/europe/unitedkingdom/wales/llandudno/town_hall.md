@@ -8,6 +8,7 @@ tags:
 latitude: 53.324
 longitude: -3.831
 snippet: An Edwardian municipal building of 1902, the civic heart of Victorian Llandudno
+score: 5.8
 ---
 
 Llandudno Town Hall is a substantial Edwardian municipal building completed in 1902, designed by the local firm of T. B. Silcock and S. S. Reay in a free interpretation of the English Baroque. It sits on Lloyd Street in the centre of the planned Victorian town, and houses the offices of Llandudno Town Council along with the public registry office.

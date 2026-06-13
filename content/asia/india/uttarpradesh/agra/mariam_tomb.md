@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.2
 ---
 
 The tomb of Akbar's senior Hindu Rajput wife — Mariam-uz-Zamani, mother of the emperor Jahangir — sits just south of Akbar's own mausoleum at Sikandra. The building reuses an earlier Lodi-era pavilion that was renovated to serve as her tomb after she died in 1623.

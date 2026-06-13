@@ -8,6 +8,7 @@ tags:
   - restaurant
   - santurce
 neighbourhood: Santurce
+score: 7.4
 ---
 
 Chef José Santaella's restaurant on the edge of La Placita de Santurce is one of the most polished kitchens in the city — a long colonial-style dining room, an open kitchen, and a tasting menu that has anchored Santurce's transformation into a dining destination since 2012. Local seafood, root vegetables, and pasture-raised meats reworked into dishes that nod to traditional Puerto Rican cooking without being beholden to it.

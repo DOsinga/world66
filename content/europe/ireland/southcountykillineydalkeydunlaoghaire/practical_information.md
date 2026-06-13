@@ -7,6 +7,7 @@ phone: 0035318510512
 title: Practical Information in South County Dublin
 type: poi
 url: www.hidden-dublin.com
+score: 1.5
 ---
 
 A useful website for South County Dublin visitors is http://www.hidden-dublin.com

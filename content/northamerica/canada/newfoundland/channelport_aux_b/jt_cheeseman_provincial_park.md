@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 snippet: "Coastal provincial park with wild beaches, dunes, and excellent wildlife"
+score: 6.9
 ---
 
 JT Cheeseman Provincial Park, about 25 kilometres north of Port aux Basques, preserves a stretch of the Newfoundland southwest coast with sand beaches, dunes, coastal pond systems, and bog habitat. It's an excellent place for birdwatching — migratory shorebirds stop here in significant numbers in late summer and autumn, and the barachois ponds attract ducks, herons, and occasional rarities.

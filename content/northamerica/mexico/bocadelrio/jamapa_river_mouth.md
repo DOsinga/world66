@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 19.1009
 longitude: -96.1010
+score: 7.2
 ---
 
 Boca del Río — "river mouth" — gets its name from this spot, where the Jamapa River meets the Gulf of Mexico. It is not a dramatic estuary on a global scale; the river is modest and the meeting with the sea happens behind a low sandbar. But the bank on the south side is a long-standing fishing community, with painted wooden launches drawn up on the mud and palm-thatched cantinas serving whatever came in that morning.

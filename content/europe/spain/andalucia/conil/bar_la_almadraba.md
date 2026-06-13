@@ -8,6 +8,7 @@ latitude: 36.2750
 longitude: -6.0868
 sources:
   - https://en.wikipedia.org/wiki/Conil_de_la_Frontera
+score: 6.0
 ---
 
 Bar La Almadraba is a small tapas bar in the old town with an almost exclusively local clientele outside high summer — the kind of place where the bar staff know everyone and the television in the corner is showing football. The tapas are cheap and generous: a glass of cold Manzanilla comes with a small plate of jamón or cheese without being asked.

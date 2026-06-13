@@ -9,6 +9,7 @@ tags:
 - sight
 title: St Michael's Cave
 type: poi
+score: 7.4
 ---
 
 St Michael's Cave is the most famous of Gibraltar's 150-plus caves, a large natural grotto inside the Rock filled with spectacular stalagmites and stalactites. The cave's main chamber has been converted into a natural auditorium used for concerts and theatrical performances. Fossil remains of humans and animals have been found in the caves of the Rock, including evidence of Neanderthal habitation.

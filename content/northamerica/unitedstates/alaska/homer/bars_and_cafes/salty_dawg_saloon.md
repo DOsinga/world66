@@ -7,6 +7,7 @@ tags:
 latitude: 59.6064
 longitude: -151.4893
 snippet: Homer's most famous bar — a shack on the Spit wallpapered with dollar bills
+score: 7.0
 ---
 
 The Salty Dawg Saloon is one of Alaska's most famous drinking establishments — a low wooden building on the Homer Spit with a lighthouse tower, dark interior, and walls and ceiling almost entirely covered with dollar bills. The tradition of stapling a signed dollar to any available surface has been going since the early days, and what started as a way to ensure every fisherman could afford a drink has become a decades-deep layer of paper money.

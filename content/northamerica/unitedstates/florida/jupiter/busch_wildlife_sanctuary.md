@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 26.9600
 longitude: -80.1280
+score: 6.7
 ---
 
 Busch Wildlife Sanctuary is a wildlife rehabilitation centre that also functions as one of the most accessible places in South Florida to see native animals up close. Permanently injured or non-releasable animals — owls, eagles, alligators, otters, bobcats, deer, Florida panthers — live in large naturalistic enclosures along a wooded trail through northern Jupiter. It is particularly good for children, but interesting for anyone unfamiliar with Florida's native fauna.

@@ -10,6 +10,7 @@ sources:
   - https://en.wikipedia.org/wiki/Livingstone_Museum
 story: >
   The museum holds one of the most important collections of David Livingstone's personal effects in existence — his maps, journals, instruments, and personal correspondence. Among the most remarkable items are the diaries from his final journeys, during which he was searching for the source of the Nile and slowly dying of disease, cared for by his African companions who eventually carried his body nearly 1,000 miles to the coast so it could be returned to England.
+score: 6.2
 ---
 
 The Livingstone Museum is the largest and most important museum in Zambia, and it is significantly better than its modest exterior suggests. The collection covers the full sweep of the region's history: prehistoric artefacts from the Zambezi valley, ethnographic collections representing the main ethnic groups of Zambia, the natural history of the falls and the river, and an extensive David Livingstone collection.

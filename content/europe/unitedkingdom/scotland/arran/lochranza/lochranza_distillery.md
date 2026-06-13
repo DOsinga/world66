@@ -11,6 +11,7 @@ story: >
   When the distillery opened in 1995, it was the first legal whisky distillery on Arran in 158 years — the island had a long tradition of illicit distilling but no licensed operation since 1837. The founder, Harold Currie, chose Lochranza partly for its natural spring water from Loch na Davie. The distillery has since expanded: a second site, Lagg Distillery, opened at the south end of the island in 2019, and the two together brand themselves as the Isle of Arran Distillers.
 sources:
   - https://en.wikipedia.org/wiki/Lochranza_distillery
+score: 7.8
 ---
 
 The Lochranza Distillery produces Isle of Arran single malt, a style that tends toward the lighter, more floral end of Scottish whisky. The visitor centre is well-appointed and the standard tour takes about an hour, walking through the full production process from mash tun to still house to warehouses. Tours run most of the year and include a tasting.

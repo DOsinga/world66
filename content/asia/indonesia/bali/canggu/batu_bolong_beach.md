@@ -9,6 +9,7 @@ tags:
 latitude: -8.6633
 longitude: 115.1318
 story: "Pura Batu Bolong — the small black-rock temple at the south end of the beach — is named after the hole (bolong) in the rock formation it sits on. At high tide the sea surges through the hole and fills the rock pools below the temple. The priests who maintain it move through a narrow path above the water to reach the inner courtyard."
+score: 6.7
 ---
 
 Batu Bolong Beach is the social heart of Canggu: the beach where the surf schools congregate, where the beach clubs are most densely packed, and where the afternoon crowd is largest. The wave is easier than Echo Beach to the north, which makes it good for lessons. The black sand is the same volcanic material as the rest of Canggu's coast.

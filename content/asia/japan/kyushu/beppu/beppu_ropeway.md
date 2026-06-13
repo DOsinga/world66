@@ -8,6 +8,7 @@ latitude: 33.3003
 longitude: 131.4611
 story: >
   On clear days from the summit of Mount Tsurumi the view extends across Beppu Bay to the Shikoku mountains and, in the opposite direction, deep into the volcanic interior of Kyushu. The ropeway was built in 1959 and the original gondola design, while updated, retains something of its postwar resort-era character.
+score: 7.4
 ---
 
 The Beppu Ropeway ascends Mount Tsurumi (1,375 metres) on the western edge of the city, rising from the forested hillside to a summit with panoramic views of Beppu Bay, the city spread below, and the mountainous interior of Kyushu. The journey takes about eight minutes and the views on the way up — over the steaming city and out to sea — are as good as those from the top.

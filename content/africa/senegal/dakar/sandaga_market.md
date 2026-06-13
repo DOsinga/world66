@@ -7,6 +7,7 @@ tags:
   - shopping
   - market
 snippet: "Vast crowded market sprawling across central Dakar, the city's commercial heart"
+score: 8.4
 ---
 
 Sandaga is the largest market in Dakar, a sprawling commercial chaos that overflows the 1930s neo-Sudanese market building and into the surrounding streets — cloth merchants, fabric stalls (wax-print Dutch java, basin damask, plain cotton by the yard), electronics, perfume, watches, kitchenware, leather and every household good imaginable.

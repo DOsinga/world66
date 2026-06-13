@@ -7,6 +7,7 @@ tags:
 - sight
 title: Wat Ong Teu Mahawihan
 type: poi
+score: 7.5
 ---
 
 The Temple of the Heavy Buddha, on Setthathirath Road in the old quarter, takes its name from the 16th-century bronze Buddha image inside the sim — one of the largest in Vientiane. The original temple was destroyed in 1828 with the rest of the city; the current buildings date from the 19th and 20th centuries.

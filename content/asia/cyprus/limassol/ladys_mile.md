@@ -6,6 +6,7 @@ tags:
 - beaches
 title: Lady's Mile
 type: poi
+score: 6.1
 ---
 
 A long, mostly undeveloped beach stretching about four miles west of Limassol, between the New Port and the Akrotiri RAF base. The name comes from Lady, the horse of a former base commander who used to exercise her on these sands.

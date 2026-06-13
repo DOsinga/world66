@@ -10,6 +10,7 @@ tags:
 - castro_district
 title: Moby Dick
 type: poi
+score: 6.1
 ---
 
 A friendly Castro neighborhood bar with a mostly male crowd in their thirties, Moby Dick has been enjoying a resurgence in popularity. It gets crowded and fun on weekends, with a welcoming atmosphere that makes it easy to strike up a conversation with regulars.

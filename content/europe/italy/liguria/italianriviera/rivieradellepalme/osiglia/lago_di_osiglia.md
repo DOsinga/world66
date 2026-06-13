@@ -7,6 +7,7 @@ tags:
 - sight
 title: Lago di Osiglia
 type: poi
+score: 7.7
 ---
 
 The Lago di Osiglia was created in the 1930s by damming a stretch of the upper Bormida di Millesimo for a hydroelectric scheme. The result is a long, narrow body of clear water set among wooded hillsides, with a small beach at the northern end where the village's summer life is concentrated.

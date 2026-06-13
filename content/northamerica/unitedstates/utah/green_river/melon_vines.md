@@ -6,6 +6,7 @@ longitude: -110.1605
 tags:
   - eating_out
   - shopping
+score: 5.4
 ---
 
 The town's grocery store and, in late summer, the place to buy the legendary Green River melons. From mid-August through September, local farms pile up watermelons, cantaloupes, and the prized Green River honeydew at stalls along Main Street; Melon Vine carries the rest of the year's groceries.

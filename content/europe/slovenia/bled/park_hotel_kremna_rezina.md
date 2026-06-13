@@ -15,6 +15,7 @@ story: >
   vanilla custard, a layer of vanilla-laced whipped cream, a second
   pastry top dusted with icing sugar. Roughly 12 million have been
   served from this counter since.
+score: 6.1
 ---
 
 The Hotel Park café in the centre of town is the original home of Bled's most famous food — the kremna rezina. The recipe was invented here in 1953 by pastry chef Ištvan Lukačević and has been served essentially unchanged ever since. The lakeside terrace fills up in summer afternoons; the cake is best eaten with a strong espresso.

@@ -8,6 +8,7 @@ tags:
 latitude: 49.3098
 longitude: -123.0822
 address: 123 Carrie Cates Court
+score: 6.8
 ---
 
 Lonsdale Quay is the public market built around the SeaBus ferry terminal at the foot of Lonsdale Avenue. It is a two-storey covered hall with a row of small food vendors, a cluster of independent restaurants, a few craft and gift shops, and an outdoor amphitheatre on the water side that hosts free music and outdoor films in summer.

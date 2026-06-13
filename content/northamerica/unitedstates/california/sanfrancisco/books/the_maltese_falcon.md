@@ -6,6 +6,7 @@ tags:
 - books
 title: The Maltese Falcon
 type: poi
+score: 6.6
 ---
 
 Dashiell Hammett lived in San Francisco and set his masterpiece on its streets. Private detective Sam Spade navigates a web of lies, murder, and double-crosses as he tracks down a jewel-encrusted falcon, and Hammett's terse prose makes the city itself feel like a character -- the fog, the apartment hotels, the steep hills, the waterfront.

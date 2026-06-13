@@ -9,6 +9,7 @@ tags:
   - day_trips
   - waterfall
 story: "The Caracol is a single-drop waterfall plunging 131 metres in one unbroken column from the basalt rim of the Serra Gaúcha. The viewing platform at the top — a wooden walkway suspended out over the gorge — gives you the full vertigo, and the elevator beside it descends a 928-step iron staircase to a tower at the base of the cliff."
+score: 8.4
 ---
 
 The most famous waterfall in southern Brazil sits in Parque do Caracol, around 20 minutes' drive from Gramado and just outside the neighbouring town of Canela. The river Caracol plummets 131 metres into a forested gorge in a single curtain of white water that looks enormous in any season but spectacular after heavy rain.

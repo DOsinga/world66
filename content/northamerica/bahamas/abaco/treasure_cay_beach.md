@@ -9,6 +9,7 @@ latitude: 26.6761
 longitude: -77.2933
 sources:
   - https://en.wikipedia.org/wiki/Treasure_Cay
+score: 8.0
 ---
 
 Treasure Cay Beach is one of the longest and finest beaches in the Bahamas — a three-and-a-half mile curve of powdery white sand with shallow, brilliantly turquoise water that barely deepens for a hundred metres. It faces a protected sound rather than the open Atlantic, so the water is almost always flat calm and perfect for swimming.

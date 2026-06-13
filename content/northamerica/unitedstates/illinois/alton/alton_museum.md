@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 38.90306
 longitude: -90.14464
+score: 7.6
 ---
 
 The Alton Museum of History and Art covers the city's substantial historical record — its role in the Civil War, the Underground Railroad, the Lincoln-Douglas debate that took place here, and the story of Robert Wadlow, who grew up in the city and whose personal effects are displayed in detail.

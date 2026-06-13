@@ -8,6 +8,7 @@ tags:
   - sight
   - church
 snippet: Restored 17th-century church near the Recoleta hill
+score: 6.7
 ---
 
 San José, on the slope between the Recoleta monastery and the central plaza, is one of the smaller restored colonial churches of Sucre. It was founded in 1610, rebuilt several times after earthquakes, and given its current form in the 18th century. The interior is modest — a single nave with a wooden ceiling — but the baroque side altars have some good colonial paintings and a fine 17th-century carved Christ on the cross.

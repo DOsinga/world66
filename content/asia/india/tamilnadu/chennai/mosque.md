@@ -9,6 +9,7 @@ tags:
 - things_to_do
 title: Thousand Lights Mosque
 type: poi
+score: 6.8
 ---
 
 One of Chennai's most prominent mosques, originally constructed in 1800 by Nawab Umdat-Ul-Umrah. The mosque takes its name from the neighbourhood — said to derive from the number of lamps needed to illuminate the building for worship. The current white-domed structure dates from a later reconstruction and is an unmistakable landmark on Anna Salai.

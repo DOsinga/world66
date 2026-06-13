@@ -10,6 +10,7 @@ tags:
   - sight
   - university_district
 story: "The territorial legislature in 1885 was supposed to grant Tucson the state capital. The Tucson delegation arrived too late — they had been delayed crossing flooded rivers — and ended up with the consolation prize of a 'university', which the city did not even particularly want. Phoenix kept the capital. Tucson still complains."
+score: 7.0
 ---
 
 Founded in 1885 as the territory's first land-grant university, the University of Arizona is now a major research institution of around 47,000 students and the largest employer in the city. The Old Main building (1891) sits at the western end of the long Main Mall — a tree-lined pedestrian strip that runs east through the campus.

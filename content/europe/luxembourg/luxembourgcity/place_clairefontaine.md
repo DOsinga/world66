@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - ville_haute
   - sight
+score: 6.2
 ---
 
 A small, dignified square behind the cathedral, dominated by the statue of Grand Duchess Charlotte by Jean Cardot — the long-reigning monarch whose 1940 BBC broadcasts from London became a rallying point for occupied Luxembourg. The buildings around it house the Ministry of Foreign Affairs.

@@ -8,6 +8,7 @@ latitude: -38.7163
 longitude: -62.2663
 story: >
   The square was the site of the original Spanish fort established in 1828, when the settlement was little more than a military outpost. The decision to place a fort here — on a bay with no natural harbour — was strategic rather than practical, intended to assert Argentine sovereignty over Patagonia against rival claims. The city that grew up around it became, almost by accident, the most important urban centre in the entire south of the country.
+score: 6.8
 ---
 
 The central square of Bahía Blanca is the natural starting point for exploring the city. Shaded by large plane trees, it is flanked by the cathedral, the municipal palace, and several civic buildings from the early 20th century, when the city was booming on the back of railway expansion and agricultural exports.

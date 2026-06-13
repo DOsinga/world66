@@ -11,6 +11,7 @@ story: >
   The Kaédi Regional Hospital was designed by Egyptian architect Hassan Fathy and completed in the 1980s. Fathy was known for his advocacy of traditional Nubian mud-brick construction as a sustainable, affordable alternative to imported building technologies. The hospital is one of his most celebrated institutional works, demonstrating that vernacular architecture could function at scale in a modern healthcare context.
 sources:
   - https://en.wikipedia.org/wiki/Ka%C3%A9di_Regional_Hospital
+score: 8.5
 ---
 
 The Kaédi Regional Hospital is one of the most architecturally significant buildings in Mauritania, designed by the Egyptian architect Hassan Fathy. Built in the 1980s, it uses traditional Saharan construction methods — earthen brick, barrel vaults, wind towers — adapted for a modern healthcare facility. The result is a building that stays naturally cool in a brutal climate without air conditioning, a compelling argument for the relevance of traditional building techniques in contemporary West Africa.

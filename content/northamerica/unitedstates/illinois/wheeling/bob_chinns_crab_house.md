@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 42.1336
 longitude: -87.9298
+score: 5.6
 ---
 
 Bob Chinn's has been a Wheeling fixture since 1982 and has been claimed at various points to be the highest-grossing single-location restaurant in the United States. The model is volume and turnover — a vast, cheerful dining room serving Alaskan king crab, Mai Tais by the gallon, and not much in the way of subtlety.

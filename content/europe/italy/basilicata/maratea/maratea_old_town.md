@@ -13,6 +13,7 @@ story: >
   ruined buildings. Either way, for a town of around 5,000 people the density of religious architecture
   is extraordinary, the result of centuries of bequests by Maratean families who became wealthy
   abroad and endowed churches at home.
+score: 8.4
 ---
 
 The old town of Maratea, locally just called Il Borgo, stretches up the side of Monte San Biagio in a tangle of narrow stone-paved alleys, archways, and small piazzas that open suddenly onto views of the sea. Sunday morning is the best time to walk it, when the cafes around Piazza Buraglia fill up after Mass and you can wander into open churches without disturbing services.

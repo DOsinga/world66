@@ -7,6 +7,7 @@ tags:
   - sight
 latitude: 52.7076
 longitude: -2.7543
+score: 8.8
 ---
 
 Shrewsbury's most distinctive feature is its medieval street pattern, which has survived remarkably intact. The town is full of "shuts" — narrow passageways that thread between buildings, sometimes only a few feet wide — connecting the main streets to hidden courtyards and back lanes. Names like Grope Lane, Peacock Passage, and Fish Street preserve the memory of medieval trades that were conducted here.

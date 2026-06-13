@@ -7,6 +7,7 @@ tags:
   - alsancak
 latitude: 38.4350
 longitude: 27.1400
+score: 6.6
 ---
 
 İzmir is widely regarded as the rakı capital of Turkey — a distinction the city wears with considerable pride. Rakı, the anise-flavoured spirit that turns milky when water is added, is the traditional accompaniment to a meyhane meal of hot and cold meze, grilled fish, and long conversation. The meyhane (roughly: tavern) culture of İzmir is at its most vivid in Alsancak and along the Kordon.

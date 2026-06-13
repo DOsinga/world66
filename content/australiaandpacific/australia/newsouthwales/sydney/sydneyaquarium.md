@@ -9,6 +9,7 @@ tags:
 title: SEA LIFE Sydney Aquarium
 type: poi
 url: www.sydneyaquarium.com.au
+score: 6.7
 ---
 
 Located on the city side of Darling Harbour, the aquarium houses an impressive collection of Australian marine life including dugongs, sharks and platypuses. The underwater walkthrough tunnels are the highlight.

@@ -10,6 +10,7 @@ tags:
 - bars_and_cafes
 title: The Paddy Field
 type: poi
+score: 3.8
 ---
 
 An Irish pub tucked behind the Garden Hotel on Huanshi Dong Lu. The Paddy Field serves Guinness and Kilkenny on tap alongside pub food like fish and chips and shepherd's pie. The interior does a reasonable job of recreating the feel of a Dublin local, and it draws a mix of expats and visiting business travelers. A reliable option when you want a break from Cantonese dining and just need a pint in familiar surroundings.

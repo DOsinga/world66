@@ -7,6 +7,7 @@ tags:
 - sight
 title: National Botanical Garden
 type: poi
+score: 7.6
 ---
 
 The National Botanical Garden occupies a deep gorge behind Narikala Fortress, following the Tsavkisiskhevi stream down from the forested hills south of the old town. Established in 1845 on the site of the royal palace gardens, the 128-hectare garden holds around 4,500 plant species from across the Caucasus and beyond.

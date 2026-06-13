@@ -6,6 +6,7 @@ longitude: 3.2628
 tags:
   - eating_out
   - restaurant
+score: 5.8
 ---
 
 One of the longer-running waterfront restaurants, occupying a prime corner of the harbour-side promenade with a wide terrace looking out across the moored boats. The menu is Mallorcan-Mediterranean — fresh fish grilled or baked in salt, paellas, a few meat dishes, a good selection of local wines from Felanitx and Binissalem.

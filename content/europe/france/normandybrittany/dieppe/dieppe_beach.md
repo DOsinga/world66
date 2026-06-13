@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 49.9333
 longitude: 1.0833
+score: 6.4
 ---
 
 The beach at Dieppe stretches for about a mile along the seafront, backed by chalk cliffs and the esplanade. It is a pebble beach in the Norman tradition — no sand to speak of, but wide and clean, with the particular sound of surf rolling over stones that becomes the soundtrack of the town in summer. The water is the English Channel, which means it is cold even in August, but swimmers are out regardless.

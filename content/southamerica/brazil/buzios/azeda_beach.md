@@ -7,6 +7,7 @@ tags:
   - snorkelling
 latitude: -22.7395
 longitude: -41.8660
+score: 8.2
 ---
 
 Azeda and Azedinha ("little sour one") are two small beaches near the northern tip of the peninsula, separated by a rocky outcrop that you can wade around at low tide. They are among the most beautiful spots in Búzios and are best reached by boat, though a steep path descends from the road above.

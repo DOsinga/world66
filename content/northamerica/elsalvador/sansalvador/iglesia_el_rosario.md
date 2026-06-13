@@ -13,6 +13,7 @@ story: >
   sedition and died in 1832 having never seen his country fully free. The
   building that would be erected over his grave a century later became one of
   the most radical pieces of religious architecture in Latin America.
+score: 9.1
 ---
 
 The Church of El Rosario in Parque Libertad is one of the most striking buildings in Central America — a brutalist barrel-vaulted structure from 1971 whose windowless concrete walls conceal a blazing interior of stained glass and recycled metal sculpture. The architect Ruben Martinez designed it as a deliberate rejection of conventional colonial church architecture. From outside it looks like an aircraft hangar; inside, the coloured light filtered through the abstract glass panels transforms the space entirely.

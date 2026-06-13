@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Southern Nazarene University began in 1899 as the Texas Holiness University before being relocated to a treeless patch of central Oklahoma in 1908. The early college was so poor that students were paid in scrip rather than wages, and one early president lived in a tent on campus during construction."
+score: 6.1
 ---
 
 Southern Nazarene University is the central institution around which Bethany was founded — the town and the university were planned together in 1909 as a community for the Church of the Nazarene. Today the campus has about 2,000 students and occupies a leafy oval of mid-20th-century brick buildings on the south side of Route 66.

@@ -9,6 +9,7 @@ latitude: 34.9488
 longitude: -116.8675
 address: "36600 Ghost Town Rd, Yermo, CA"
 snippet: "A restored 1880s silver-mining camp that once produced $86 million in ore"
+score: 6.7
 ---
 
 Calico is a San Bernardino County regional park built on the bones of a genuine silver-rush town. The mines here were discovered in 1881 and the town grew quickly to around 1,200 residents — a short-lived boom that lasted until falling silver prices killed it in the mid-1890s. Walter Knott (of Knott's Berry Farm fame) bought the ruins in 1951 and spent years restoring and reconstructing the town before donating it to the county in 1966.

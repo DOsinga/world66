@@ -13,6 +13,7 @@ story: >
   until the city gave up and reversed the signal. It has remained reversed ever
   since, making Syracuse the only city in the United States with a traffic light
   where green is on top.
+score: 5.8
 ---
 
 At the corner of Tompkins Street and Milton Avenue in the Tipperary Hill neighbourhood, a traffic signal runs with the colours reversed: green on top, red on the bottom. This is not a malfunction. It is the result of a dispute between the local Irish-American community and the city of Syracuse that dates to the 1920s and has never been resolved.

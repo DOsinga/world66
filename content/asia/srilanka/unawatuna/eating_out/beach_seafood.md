@@ -7,6 +7,7 @@ tags:
   - seafood
 latitude: 6.0183
 longitude: 80.2520
+score: 5.3
 ---
 
 The best eating in Unawatuna tends to be at the handful of small restaurants along the beach road with handwritten menus and plastic chairs facing the bay. The formula is simple: choose your fish from the display (cuttlefish, crab, barracuda, and various reef fish depending on the morning's catch), agree on a price, and wait while it is grilled or curried to order. Rice and coconut sambol come on the side. A full meal for two rarely costs more than 2,000 rupees.

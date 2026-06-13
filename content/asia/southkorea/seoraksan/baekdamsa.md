@@ -15,6 +15,7 @@ story: >
   The memorial hall to him is a pilgrimage site for Korean literary visitors.
 sources:
   - https://en.wikipedia.org/wiki/Baekdamsa
+score: 8.3
 ---
 
 Baekdamsa is the most remote major temple in Seoraksan, reached via the Naesorak valley from the western side of the park. The approach is through a long, narrow gorge following a river over smooth granite, past emerald pools (the "hundred pools" of the name) and waterfalls. The walk from the Naesorak bus terminal to the temple takes about two hours and is among the most beautiful valley walks in Korea.

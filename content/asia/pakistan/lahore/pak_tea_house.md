@@ -9,6 +9,7 @@ tags:
   - cafe
   - mall
 story: "The cafe was the meeting place of the Progressive Writers' Movement in the 1950s and 60s — Faiz Ahmed Faiz, Saadat Hasan Manto, Ahmed Faraz, and Munir Niazi all wrote here, argued here, and drank a great deal of cardamom tea here. The original closed in 2000 and reopened in 2013 with the same name and roughly the same battered chairs."
+score: 8.3
 ---
 
 Pak Tea House is the literary cafe of Pakistan — the closest thing the country has to the Café de Flore. Tucked off the Mall near the Anarkali end, the long, narrow room is still scattered with poets, journalists, professors, and the occasional bewildered tourist.

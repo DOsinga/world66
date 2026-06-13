@@ -6,6 +6,7 @@ tags:
   - museum
 latitude: 50.4567
 longitude: 30.5169
+score: 8.7
 ---
 
 The country's main history museum, on Volodymyrska Street just behind Saint Andrew's Church. Displays cover Ukraine from the Stone Age through Scythian gold, Kyivan Rus, the Cossack era, and into the 20th century. The collection is enormous; most visitors do about an hour and a half.

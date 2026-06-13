@@ -15,6 +15,7 @@ story: >
   the fur trade, a voyageur from Montreal might paddle 16 hours a day, singing to
   keep the stroke rhythm, cover 80 kilometres, and smoke exactly two pipefuls of
   tobacco at rest stops spaced along the river.
+score: 8.2
 ---
 
 The Mattawa River is now a provincial park and one of the most historically significant canoe routes in Canada. The river connects a chain of lakes between Lake Nipissing and the Ottawa River over about 60 kilometres, following the exact path that First Nations people, Champlain, and generations of voyageurs used for centuries. The portages are the same ones marked on 17th-century French maps.

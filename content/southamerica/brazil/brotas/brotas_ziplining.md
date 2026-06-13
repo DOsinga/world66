@@ -7,6 +7,7 @@ tags:
 latitude: -22.285
 longitude: -48.125
 story: "Some of the zip lines here run over 700 metres, crossing the river valley at height and giving you a bird's-eye view of the cerrado canopy below. The longest runs in the region are strung between hills on either side of the Jacaré-Pepira valley, and at full speed the crossing takes less than a minute."
+score: 7.0
 ---
 
 Brotas has more zip line operators than almost anywhere in Brazil, and the terrain — a river valley flanked by rolling hills — is well suited to long, fast runs. Lines vary from short introductory cables to runs of several hundred metres crossing the valley at height. Some operators have multiple lines set up in sequence, so you can spend a morning working through progressively longer and faster descents.

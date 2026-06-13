@@ -9,6 +9,7 @@ longitude: 25.2947
 story: "Mylopotas has been a backpacker hub since the 1970s, when Ios first got its reputation as the party island of the Cyclades. The beach clubs that line it now are considerably more polished than the original scene, but the spirit — sun, sea, and music until you can't take it anymore — is unchanged."
 sources:
   - https://en.wikipedia.org/wiki/Mylopotas
+score: 7.2
 ---
 
 Mylopotas is the main beach of Ios — a long, broad sweep of golden sand backed by low dunes and fronted by turquoise Aegean water. In July and August it is packed with sunbeds, beach bars, watersports operators, and a clientele who have come specifically for the combination of beach by day and clubs by night. Water sports on offer include banana boats, parasailing, windsurfing, and paddleboards.

@@ -10,6 +10,7 @@ tags:
 title: Cross Mountain (Krizevac)
 type: poi
 story: "Villagers built the 14-metre concrete cross in 1934 to mark the 1,900th anniversary of the death of Christ. They carried the sand and gravel on their backs up the rocky path because no road existed. The cross is said to contain a relic of the True Cross sent from Rome to mark the achievement."
+score: 8.4
 ---
 
 The 520-metre hill behind the village, topped by a vast concrete cross that catches the light from miles away. The climb takes about two hours, sometimes more, along a rough stony path that twists between rocks and scrub.

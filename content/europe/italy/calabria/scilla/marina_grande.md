@@ -8,6 +8,7 @@ tags:
 - beach
 title: Marina Grande
 type: poi
+score: 8.3
 ---
 
 Scilla's main beach is a 700-metre arc of grey volcanic sand that runs from the foot of the castle northwards. It is wide enough to swallow the summer crowds, with mixed free and equipped sections; the water shelves quickly and stays clean. From the sand you look directly across the Strait of Messina to Sicily — a view that is somewhere between scenic and surreal when a ferry slides past in the foreground.

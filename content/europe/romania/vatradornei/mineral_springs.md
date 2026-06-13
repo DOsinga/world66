@@ -12,6 +12,7 @@ story: >
   water is mildly radioactive, bicarbonated, and iron-rich — "good for the heart and nerves,"
   according to the Habsburg-era promotional literature that first drew European visitors here.
   Locals still fill bottles from the public springs to take home.
+score: 7.4
 ---
 
 The spa park at the centre of Vatra Dornei is a legacy of the Habsburg resort era — a pleasant, somewhat faded public garden built around several mineral spring pavilions. Visitors can drink the water directly from the springs (each with a slightly different mineral composition), and in season the park hosts a gentle open-air spa culture that feels almost unchanged from a century ago.

@@ -10,6 +10,7 @@ latitude: 1.2720
 longitude: 97.6170
 sources:
   - https://en.wikipedia.org/wiki/Gunungsitoli
+score: 7.2
 ---
 
 The southern part of Gunungsitoli holds the oldest surviving buildings on Nias: missionary houses and a cemetery dating back more than a century, relics of the German Rhenish Mission that began arriving in the 1860s. The missionaries were the first outsiders to document Nias culture systematically — their records and the objects they collected became the foundation of the Museum Pusaka Nias collection.

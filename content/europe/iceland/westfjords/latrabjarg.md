@@ -15,6 +15,7 @@ story: >
   initiative in appalling weather. The story became widely known and helped establish
   Iceland's reputation for seafaring rescue. A monument on the headland commemorates
   the rescue.
+score: 9.1
 ---
 
 Látrabjarg is the westernmost point in Europe — a 14-kilometre stretch of sea cliffs rising to 440 metres above the North Atlantic. The cliffs face due west and are the breeding site for millions of seabirds: razorbills, guillemots, kittiwakes, and Iceland's largest concentration of puffins. In July, puffins nest within arm's reach of the cliff path — they are so densely packed and so accustomed to visitors that you can photograph them from metres away.

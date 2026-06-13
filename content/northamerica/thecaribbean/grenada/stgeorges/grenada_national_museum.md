@@ -7,6 +7,7 @@ tags:
 latitude: 12.050576
 longitude: -61.752655
 address: Young Street, St. George's
+score: 7.9
 ---
 
 The national museum occupies a former French barracks and prison on Young Street, a building that dates to 1704 and has held French and British soldiers in its time. The collection covers Grenada's full arc: Arawak and Carib artefacts, the machinery of the sugar and nutmeg trades, the colonial period, and finally the 1979 revolution and the 1983 coup that ended it. The latter section is particularly candid by Caribbean standards.

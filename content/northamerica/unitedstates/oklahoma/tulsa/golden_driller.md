@@ -12,6 +12,7 @@ story: >
   The Golden Driller was first built in fibreglass for the International Petroleum Exposition of 1953 and was rebuilt in permanent form in 1966. In 2000 he was named the Official Statue of Oklahoma, beating out a proposed statue of Will Rogers. His right hand rests on an actual oil derrick, symbolising the industry that made Tulsa wealthy.
 sources:
   - https://en.wikipedia.org/wiki/Golden_Driller
+score: 6.7
 ---
 
 Standing 76 feet tall and weighing 43,000 pounds, the Golden Driller is one of the tallest statues in the United States. The shirtless, hard-hatted oil worker stands at the entrance to Expo Square with one hand on his hip and the other resting on a real oil derrick, surveying the city that crude oil built.

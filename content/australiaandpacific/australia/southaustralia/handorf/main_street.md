@@ -7,6 +7,7 @@ tags:
 - sight
 title: Hahndorf Main Street
 type: poi
+score: 8.4
 ---
 
 The main street of Hahndorf is the reason most visitors come — a long, tree-lined avenue of heritage stone and timber buildings housing bakeries, delicatessens, craft shops, galleries, and German beer gardens. The architecture is a genuine 19th-century streetscape, heritage-listed in its entirety, dating from the original Lutheran settlers who arrived in 1839 from Prussia.

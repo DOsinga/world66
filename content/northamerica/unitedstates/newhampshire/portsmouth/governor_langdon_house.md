@@ -8,6 +8,7 @@ tags:
 latitude: 43.0753
 longitude: -70.7564
 story: "John Langdon was a shipbuilder who became one of the most important figures in the founding of the United States: a signer of the Constitution, first President pro tempore of the Senate, and twice Governor of New Hampshire. When George Washington toured New England in 1789 he called Langdon's house 'the finest in Portsmouth' — and spent the night there."
+score: 8.1
 ---
 
 The Governor John Langdon House, now managed by Historic New England, is widely considered the finest Georgian mansion in New Hampshire. Langdon built it in 1784 using his considerable wealth from shipbuilding and trade, filling it with craftsmanship that was exceptional even by the standards of prosperous Portsmouth: carved woodwork, a grand staircase, and formal gardens that have been restored to their 18th-century character.

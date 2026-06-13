@@ -12,6 +12,7 @@ story: >
   slopes for centuries. The Badaga had a system of naming every significant hill, spring, and forest patch in
   the Nilgiris long before the British arrived — and most of the names that sound romantic in English are simply
   practical descriptions of the landscape.
+score: 7.1
 ---
 
 Dodda Betta, at 2,637 metres, is the highest point in the Nilgiris and one of the more accessible high peaks in southern India. The road runs almost to the summit — if you want to avoid the worst of the crowds you can walk the last kilometre from a parking area — and the views on clear days extend west over the forested valleys of the Western Ghats and east toward Coimbatore on the plains.

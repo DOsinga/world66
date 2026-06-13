@@ -7,6 +7,7 @@ tags:
   - temple
 title: Jagannath Temple
 type: poi
+score: 7.1
 ---
 
 The Jagannath Temple in Durbar Square is a three-storey 16th-century temple notable for the explicit erotic carvings on its roof struts — a feature it shares with several other temples in the valley. The carvings show various forms of sexual union among gods and humans; the traditional explanation is that the shy goddess of lightning averts her eyes and thus spares the temple from lightning strikes. Whether or not you accept that interpretation, the carvings are striking and unusual enough to justify a close look.

@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 30.6330
 longitude: 119.8290
+score: 7.8
 ---
 
 The Jianfeng or "Sword Peak" summit is the highest point of Moganshan at around 530 metres, reachable by a steep stone stairway from the main villa district in about forty-five minutes of moderately energetic walking. The summit itself has a small stone pavilion and open viewing platforms, and on clear days the view extends south across the Taihu basin and north toward the industrial outskirts of Huzhou.

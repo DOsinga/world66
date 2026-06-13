@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.2250
 longitude: -111.9800
+score: 6.8
 ---
 
 A paved multi-use trail following the Ogden River from the mouth of Ogden Canyon west through the city, the Ogden River Parkway is one of those urban green corridors that makes a city dramatically more liveable. The path runs about three miles and connects several parks, a nature centre, botanical gardens, and the dinosaur park along the way. It is flat, well maintained, and open to walkers, cyclists, and joggers.

@@ -7,6 +7,7 @@ tags:
   - eating_out
   - restaurant
 story: "Re gan mian is Wuhan's signature breakfast and one of the 'Five Great Noodles of China'. The dish was reportedly invented by accident in the 1920s by a noodle-stall keeper named Li Bao, who left a batch of cooked noodles tossed in sesame oil overnight to stop them sticking — and discovered that they reheated into something better than they had been the day before."
+score: 7.6
 ---
 
 Re gan mian — hot dry noodles — is the iconic Wuhan breakfast and the simplest case of doing one thing extraordinarily well. The dish is alkaline wheat noodles boiled, cooled, and tossed with sesame paste, soy sauce, chilli oil, pickled vegetables, and chopped scallions; the result is rich, savoury, slightly bitter, and quietly addictive.

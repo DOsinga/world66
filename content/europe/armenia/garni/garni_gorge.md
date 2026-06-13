@@ -10,6 +10,7 @@ story: >
   The basalt columns of the Symphony of Stones formed about 10 million years ago when lava from a volcanic eruption cooled slowly in the river valley. As it contracted, it cracked in a regular hexagonal pattern — the geometry that minimises stress — producing the organ-pipe columns that now line the gorge walls. The same process produces the Giant's Causeway in Northern Ireland and the columnar basalt at Fingal's Cave in Scotland.
 sources:
   - https://en.wikipedia.org/wiki/Garni_Gorge
+score: 8.6
 ---
 
 The Garni Gorge cuts below the temple site, and a path leads down to the valley floor where you can walk along the Azat river through one of the most striking natural formations in the South Caucasus. The "Symphony of Stones" — a long wall of hexagonal basalt columns rising from the riverbank like the pipes of an enormous organ — extends for several hundred metres and reaches heights of 50 metres or more.

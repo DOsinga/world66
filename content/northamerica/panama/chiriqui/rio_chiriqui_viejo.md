@@ -6,6 +6,7 @@ longitude: -82.7
 tags:
   - things_to_do
   - sight
+score: 7.2
 ---
 
 The Río Chiriquí Viejo runs down the western flank of Volcán Barú and forms the border with Costa Rica for the lower part of its course. It is one of the better whitewater rivers in Central America — class III and IV rapids through a forested canyon, with good water levels from May through December.

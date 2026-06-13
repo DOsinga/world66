@@ -14,6 +14,7 @@ story: >
   of a reclining figure — almost certainly this one — and recorded that the attending monks assured
   him it was sleeping, not dead. The figure has been repainted and restored many times since,
   but the structure itself dates to the Xia.
+score: 8.3
 ---
 
 The Dafo Temple (Giant Buddha Temple) contains the largest indoor reclining Buddha in China, a 34.5-metre lacquered figure painted in glowing colours and resting in a hall built specifically around it. The Buddha reclines in the parinirvana posture — the moment of final enlightenment and death — with eyes half-closed and an expression of absolute stillness. The scale is genuinely impressive: standing at the feet and looking up the length of the body, the proportions of the hall seem almost modest.

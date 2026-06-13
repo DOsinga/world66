@@ -8,6 +8,7 @@ tags:
 latitude: 48.5808
 longitude: 7.7522
 snippet: "18th-century prince-bishop's palace housing three museums next to the cathedral"
+score: 8.4
 ---
 
 The Palais Rohan is Strasbourg's grandest secular building — a long classical palace built between 1732 and 1742 as the residence of the city's prince-bishops from the Rohan family. The piano nobile was designed to impress: king-sized reception rooms with elaborately gilded and painted ceilings, Gobelin tapestries, and a formal garden front facing the cathedral.

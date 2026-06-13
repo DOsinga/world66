@@ -7,6 +7,7 @@ snippet: "The Forio house where W.H. Auden wrote through the 1950s — a quiet l
 tags:
 - things_to_do
 - sight
+score: 4.8
 ---
 
 W.H. Auden first came to Forio in 1948, drawn by the cheap cost of living and the light, and returned every summer for years, staying in a house in the centro storico with his companion Chester Kallman. The summers in Forio were productive: he wrote much of the libretto for Stravinsky's The Rake's Progress here, along with a number of the poems that appear in Nones and The Shield of Achilles. He was not the only poet on the island — Pablo Neruda was also a regular visitor.

@@ -7,6 +7,7 @@ tags:
 - sight
 title: Sveti Petar
 type: poi
+score: 7.2
 ---
 
 Sveti Petar is the small pine-shaded peninsula that forms the western arm of Makarska's harbour. The walking path circles the point, with rocky swimming spots, a small lighthouse, and a chapel after which the headland is named. The views back across to the old town with Biokovo as backdrop are the best in Makarska.

@@ -1,6 +1,7 @@
 ---
 title: "Godbersen's Castle Buildings"
 type: poi
+score: 8.7
 ---
 
 The most startling thing about Ida Grove is the collection of full-scale castle replicas that appear without warning among the town's ordinary streets and cornfield surroundings. They are the work of Byron Godbersen, founder of Midwest Industries — a manufacturer of farm and construction equipment — who spent the 1970s and 1980s indulging a passion for medieval European architecture on a distinctly Iowa scale.

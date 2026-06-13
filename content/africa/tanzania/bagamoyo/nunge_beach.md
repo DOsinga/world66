@@ -10,6 +10,7 @@ latitude: -6.4092
 longitude: 38.8975
 sources:
   - https://en.wikipedia.org/wiki/Nunge
+score: 6.3
 ---
 
 Nunge is the long stretch of beach that runs north from Bagamoyo town for about ten kilometres — wide white sand backed by coconut palms, with very little development beyond a handful of small hotels and beach houses. It is the most accessible decent beach within easy reach of Dar es Salaam and gets busy with weekending families.

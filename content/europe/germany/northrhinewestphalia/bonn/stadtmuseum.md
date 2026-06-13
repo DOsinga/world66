@@ -9,6 +9,7 @@ tags:
 - museum
 title: Stadtmuseum
 type: poi
+score: 5.7
 ---
 
 Local history museum covering Bonn from its Roman origins to the present, with a thoughtful section memorialising the victims of Nazi persecution. Housed in a former Franciscan monastery in the old town.

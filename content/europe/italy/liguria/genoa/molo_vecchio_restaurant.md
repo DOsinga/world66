@@ -7,6 +7,7 @@ tags:
 - restaurant
 type: poi
 snippet: Historic restaurant that has fed popes, rock stars, and Genoese alike since 1939
+score: 6.2
 ---
 
 One of Genoa's most celebrated traditional restaurants, Zeffirino has been in business since 1939 and has served figures ranging from Frank Sinatra to Pope John Paul II. The speciality is, naturally, pesto alla genovese — made at the table for ceremonial orders — alongside traditional Ligurian dishes like *trofie al pesto*, *trenette con fagiolini*, and fresh fish from the Ligurian coast.

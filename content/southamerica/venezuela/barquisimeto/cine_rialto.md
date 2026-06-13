@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.1
 ---
 
 The Cine Rialto on Carrera 19 was one of Barquisimeto's grand cinemas of the mid-20th century, opened in 1948 with a single auditorium seating over a thousand. It was where the city's middle class watched Mexican golden-age melodramas and the first wave of Hollywood spectaculars.

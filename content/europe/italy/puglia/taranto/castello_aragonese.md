@@ -11,6 +11,7 @@ story: >
   The castle sits on a small island at the entrance to the navigation canal and has been a military installation almost continuously since its construction. In 1481 the Aragonese rebuilt the earlier Norman fortification after a Turkish raid sacked and burned the city, killing thousands. The castle remains the property of the Italian Navy and is still used as a naval base — which is why access is restricted to guided tours only.
 sources:
   - https://en.wikipedia.org/wiki/Castello_Aragonese_(Taranto)
+score: 8.0
 ---
 
 The Castello Aragonese occupies a small rocky island at the point where the navigation canal separates the Mar Grande from the Mar Piccolo. The current fortification was substantially rebuilt by Ferdinand I of Aragon in the late 15th century after Ottoman forces devastated the city, and the four cylindrical towers were designed to be able to absorb cannon fire, an innovation in European defensive architecture at the time. The design was attributed to the Sienese engineer Francesco di Giorgio Martini, who worked extensively for the Aragonese crown across southern Italy.

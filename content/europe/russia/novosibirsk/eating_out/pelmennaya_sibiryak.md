@@ -7,6 +7,7 @@ tags:
 latitude: 55.0288
 longitude: 82.9243
 snippet: No-frills pelmeni specialist doing Siberia's most important dish properly
+score: 6.0
 ---
 
 Pelmeni — small, tightly folded dumplings filled with minced beef and pork, boiled and served with butter, sour cream, or vinegar — are the signature dish of Siberia, and Novosibirsk has plenty of places to eat them. Pelmennaya Sibiryak is one of the better traditional spots: a simple canteen-style room, cheap prices, and pelmeni that are actually made on the premises rather than from a frozen bag.

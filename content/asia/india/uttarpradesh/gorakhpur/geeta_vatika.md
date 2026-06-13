@@ -7,6 +7,7 @@ tags:
   - garden
 latitude: 26.7560
 longitude: 83.3770
+score: 5.1
 ---
 
 Geeta Vatika is a small garden and religious park adjacent to the Gita Press complex. It is laid out with paths, benches, and sculptures illustrating scenes from the Bhagavad Gita, designed as a contemplative space for visitors to the press and pilgrims passing through the area.

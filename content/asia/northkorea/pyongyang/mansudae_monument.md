@@ -13,6 +13,7 @@ story: >
   China, which objected to the expense — led to the gold coating being removed
   within days and replaced with the bronze patina it bears today. A second
   statue of Kim Jong-il was added in 2012, after his death.
+score: 7.9
 ---
 
 The Mansudae Grand Monument on the Mansu Hill is the most sacred site in Pyongyang — two enormous bronze statues of Kim Il-sung and Kim Jong-il, each over 20 metres tall, set against a mural of a Korean landscape with Mount Paektu at its centre. Every foreign visitor is taken here, and the protocol is precise: groups bow before the statues, flowers are laid, and photographs are taken with care. The display of reverence is genuine for most North Koreans.

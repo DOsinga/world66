@@ -16,6 +16,7 @@ tags:
 - sight
 title: Fontana della Fraterna
 type: poi
+score: 7.8
 ---
 
 The civic symbol of Isernia and one of the most distinctive public fountains in southern Italy. Built in 1254, the fountain was assembled from architectural fragments salvaged from Roman-era and early medieval structures destroyed in previous earthquakes — columns, carved friezes, and decorated capitals repurposed into a loggia-like structure. Water flows through the base while the collected stonework forms the canopy above.

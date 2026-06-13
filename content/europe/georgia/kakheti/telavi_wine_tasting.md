@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.9166
 longitude: 45.4833
+score: 9.0
 ---
 
 The most memorable wine experience in Kakheti is not at a commercial winery but at a family home. Georgian wine culture is built around the supra — the feast table — and an invitation into a Kakhetian house means sampling wine made in the family's own qvevri: clay vessels buried in the ground and sealed with beeswax, in which grapes ferment and age for months with extended skin contact. The result is amber-coloured, tannic, and completely unlike anything made by the same method elsewhere in the world.

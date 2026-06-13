@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 18.567
 longitude: -99.6057
+score: 7.4
 ---
 
 The Ex Hacienda del Chorrillo is what remains of the industrial operation behind Taxco's colonial silver wealth. José de la Borda built this hacienda on the northern edge of town to process the ore extracted from his mines in the hills above. The silver went in as rock, was crushed, amalgamated with mercury, and came out as bars. The hacienda was the mechanical heart of Borda's fortune, and the money it produced eventually funded Santa Prisca.

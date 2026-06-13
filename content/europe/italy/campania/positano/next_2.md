@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 40.6296
 longitude: 14.4843
+score: 6.5
 ---
 
 Next2 is one of the more serious restaurants in Positano — a cut above the tourist traps that line the main steps. The kitchen focuses on Campanian ingredients treated with a light hand: fresh buffalo mozzarella, local anchovies, grilled fish from the day's catch. The terrace has views over the rooftops toward the sea.

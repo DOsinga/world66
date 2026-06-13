@@ -9,6 +9,7 @@ tags:
 title: Museo Casa de la Memoria
 type: poi
 story: "Opened in 2012 by the city government as a public reckoning with the cartel-era and paramilitary violence — a museum, an archive, and a memorial wall inscribed with the names of victims. The institution was founded with the support of victims' associations, who participated in its design."
+score: 8.5
 ---
 
 A serious, deliberately uncomfortable museum dedicated to the memory of Colombia's armed conflict and Medellin's particular history of cartel and paramilitary violence. Permanent installations include video testimonies from displaced families, a memorial wall of victims' names, and rotating exhibits on the city's reinvention. Hard going but essential context for understanding Medellin.

@@ -8,6 +8,7 @@ tags:
 latitude: 51.3407
 longitude: 12.3758
 snippet: Leipzig's oldest Baroque building, a 17th-century merchants' exchange with a Goethe statue outside
+score: 6.6
 ---
 
 The Alte Handelsbörse (Old Exchange) is a compact Baroque building on Naschmarkt, built in 1678 as Leipzig's first purpose-built exchange for international merchants. It is the oldest Baroque building in the city. The ground floor once housed the actual trading, with merchants doing business in the arcaded hall; today the building hosts concerts and events.

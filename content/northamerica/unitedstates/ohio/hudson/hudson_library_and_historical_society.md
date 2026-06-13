@@ -8,6 +8,7 @@ latitude: 41.2406
 longitude: -81.4407
 story: >
   Hudson was a key stop on the Underground Railroad, and the Historical Society holds documents and oral histories that track the network of safe houses and routes through Summit County. John Brown's family connections to the town — he lived here from roughly 1805 to 1835 — are particularly well documented.
+score: 6.6
 ---
 
 The Hudson Library and Historical Society serves as the town's historical archive and community memory. For visitors interested in the Western Reserve and Ohio's abolitionist history, the research collection is genuinely useful — it holds local newspapers, photographs, and documents going back to the early settlement period.

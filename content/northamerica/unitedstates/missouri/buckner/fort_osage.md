@@ -11,6 +11,7 @@ sources:
   - https://en.wikipedia.org/wiki/Fort_Osage
 story: >
   William Clark selected the Fort Osage site after the Lewis and Clark expedition, choosing a bluff with a commanding view of the Missouri River. The post became both a military outpost and a government trading factory, which meant diplomacy, commerce, and pressure on Native lands were all happening in the same place.
+score: 8.2
 ---
 
 Fort Osage is the main reason travelers should know Buckner is here. The reconstructed fort and trading post stand on a bluff near Sibley, looking over the Missouri River from a site tied directly to early United States expansion.

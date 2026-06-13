@@ -15,6 +15,7 @@ story: >
   was only made to work properly in 1842, eleven years after his death.
 sources:
   - https://en.wikipedia.org/wiki/Sanssouci_Park
+score: 6.9
 ---
 
 The Great Fountain (Große Fontäne) is the focal point of Sanssouci Park's main axis — a large circular basin from which a central jet rises 38 metres, surrounded by statues of Venus, Mercury, and the classical gods. It sits at the midpoint of the long straight axis that runs from the Sanssouci palace on the ridge down through the terraced vineyards and out to the Obelisk Portal in the east. From the palace steps, the fountain frames the view perfectly.

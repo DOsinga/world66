@@ -11,6 +11,7 @@ story: >
   Beaufort Castle has one of the most turbulent ownership records in the Levant. It was held by the Crusaders for nearly two centuries, then conquered by Saladin in 1190, then retaken by the Crusaders, then surrendered to the Mamluks in 1268. In the 20th century it was used as a base by Palestinian fighters, then occupied by Israeli forces during the 1982 invasion, then handed over to the Lebanese Army in 2000 when Israel withdrew from southern Lebanon. Few buildings have seen so many flags.
 sources:
   - https://en.wikipedia.org/wiki/Beaufort_Castle_(Lebanon)
+score: 9.0
 ---
 
 Beaufort Castle stands on a sheer cliff above the Litani River gorge, its walls commanding views that stretch from the Mediterranean coast on a clear day to the slopes of Hermon. It was built by Crusaders in the 12th century on the ruins of an earlier Arab fortification, and its strategic position — controlling a key crossing point of the Litani — made it one of the most contested strongholds in medieval and modern Lebanon.

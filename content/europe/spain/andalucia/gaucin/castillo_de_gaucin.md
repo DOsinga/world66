@@ -13,6 +13,7 @@ tags:
   - castle
 title: Castillo de Gaucin
 type: poi
+score: 8.0
 ---
 
 Perched at the very top of the village, this restored Moorish castle — also known as El Hacho — commands views that on a clear day stretch from the Straits of Gibraltar to the mountains of Morocco on the far side. The castle dates from Nasrid times and was built on even older foundations; the present structure is largely medieval, with later restorations.

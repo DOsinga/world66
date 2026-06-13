@@ -8,6 +8,7 @@ latitude: 50.9599
 longitude: 5.5156
 address: Europalaan, Genk
 snippet: A collection of sundials including the world's first digital sundial, in a pleasant public park
+score: 6.2
 ---
 
 The Sundial Park (Zonnewijzerpark) in Genk contains one of the most unusual collections of solar timekeepers in the world — over fifty sundials of different designs, scales, and principles, including what is claimed to be the world's first digital sundial. The digital sundial uses a specially designed grid of slits that casts a shadow showing the time in digital numerals — the numbers are formed by light passing through the grid at specific angles as the sun moves.

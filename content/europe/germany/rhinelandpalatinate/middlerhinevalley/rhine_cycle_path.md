@@ -11,6 +11,7 @@ story: >
   The Rheinradweg (Rhine Cycle Path) follows the river from Switzerland all the way to the North Sea — over 1,200 kilometres. The section through the Middle Rhine Valley between Bingen and Koblenz is universally regarded as its most scenic stretch, passing castles, vineyards, and medieval towns with the river always in view.
 sources:
   - https://en.wikipedia.org/wiki/Rhine_Cycle_Route
+score: 8.0
 ---
 
 The cycle path through the Rhine Gorge runs along both banks and is one of the finest riverside cycling routes in Europe. The left-bank path (the B9 and dedicated cycle lane) is flatter and more direct; the right-bank route (Rheinsteig cycle path) is slightly more undulating but often quieter. Either way, the 65-kilometre section between Bingen and Koblenz can be done comfortably in a day at a relaxed pace.

@@ -8,6 +8,7 @@ tags:
 latitude: 52.3716
 longitude: 9.7361
 snippet: The market square between the old town hall and the Marktkirche
+score: 6.5
 ---
 
 The triangular square at the heart of the Old Town, edged by the brick-Gothic Marktkirche on the south side and the Altes Rathaus on the east. The cobbles fill with a small farmers' market on Wednesdays and Saturdays and with beer-garden tables most of the summer.

@@ -6,6 +6,7 @@ tags:
   - market
 latitude: 26.7490
 longitude: 83.3730
+score: 5.7
 ---
 
 The lanes around the Gorakhnath Temple are lined with sweet shops selling pedas — dense milk fudge discs flavoured with cardamom and saffron — that are considered among the finest in Uttar Pradesh. Pilgrims buy them as prasad (devotional offerings) and as gifts to take home, and the shops do brisk business at all hours the temple is open.

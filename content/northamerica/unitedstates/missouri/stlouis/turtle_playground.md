@@ -8,6 +8,7 @@ tags:
 - forest_park
 latitude: 38.6391
 longitude: -90.2649
+score: 5.4
 ---
 
 Turtle Park, officially Sculpture Park, is a small grassy lot on the south edge of Forest Park covered with seven giant concrete turtles — three snapping turtles, three red-eared sliders, and a soft-shelled turtle — alongside three turtle hatchling sculptures. Children climb on them all day; the park is essentially an unofficial play area for the surrounding neighbourhoods.

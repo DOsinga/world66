@@ -7,6 +7,7 @@ tags:
 latitude: -4.2685
 longitude: 15.2844
 story: "The basilica's distinctive green-tiled spire was designed by the French architect Roger Erell and consecrated in 1949. It was built using local labour and materials during the height of French colonial administration, and today it stands as one of the finest examples of African ecclesiastical architecture on the continent."
+score: 8.0
 ---
 
 The Basilique Sainte-Anne stands at the top of its neighbourhood as the most arresting piece of architecture in Brazzaville. The tall green-tiled spire and the distinctive barrel-vaulted interior make it immediately recognisable — and inside, the soaring space is genuinely impressive, cooled by the thick walls and flooded with coloured light from its stained glass windows.

@@ -7,6 +7,7 @@ tags:
 - sight
 latitude: 36.2310
 longitude: 117.1060
+score: 6.9
 ---
 
 Doumu Palace sits just up the staircase from Red Gate, a small Daoist nunnery dedicated to the Northern Dipper Mother — the deity from whom, in Daoist cosmology, the stars of the Big Dipper are said to descend. The temple was rebuilt in the seventeenth century around a much older site, and the courtyards are shaded by ancient cypresses.

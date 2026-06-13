@@ -8,6 +8,7 @@ latitude: 45.5018
 longitude: 12.2660
 sources:
   - https://en.wikipedia.org/wiki/Orto_Botanico_Locatelli
+score: 5.8
 ---
 
 Parco Bissuola — officially the Parco Albanese — is Mestre's main city park, a well-maintained green space with a small botanical garden (the Orto Botanico Locatelli), sports facilities, a swimming pool, a skateboard park, and large areas of lawn and woodland. It is a genuinely useful park in the best Italian tradition: somewhere to go for a run, kick a ball, or sit in the shade with a book.

@@ -8,6 +8,7 @@ tags:
   - sight
   - hiking
   - viewpoint
+score: 8.6
 ---
 
 The highest peak in the Sierra de Grazalema at 1,654 metres. The trail starts from the CA-9104 between Grazalema and Benamahoma — small parking pull-off, signed gate. A steady climb of two and a half hours through pinsapo fir forest and then bare limestone karst, with the summit cairn looking out over the bay of Cadiz and (on clear days) the Rif mountains of Morocco.

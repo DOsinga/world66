@@ -10,6 +10,7 @@ story: >
   Benbow's lava lake is deeper within the crater than Marum's and often obscured by gas, making it the harder of the two to see clearly. But when conditions allow, the view down into the churning orange-red lake from the crater lip — with nothing between you and it but a rope and a pair of boots — is among the most intense experiences available to any traveller.
 sources:
   - https://en.wikipedia.org/wiki/Benbow_(volcano)
+score: 9.0
 ---
 
 Benbow is the second of Ambrym's two main active volcanoes, sitting on the eastern side of the caldera from Marum. It tends to be more gassy and unpredictable, and is typically approached as a second day's hiking for those who have already done Marum.

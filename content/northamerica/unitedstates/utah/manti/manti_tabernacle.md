@@ -9,6 +9,7 @@ latitude: 39.2643
 longitude: -111.6371
 sources:
   - https://en.wikipedia.org/wiki/Manti_Tabernacle
+score: 7.8
 ---
 
 The Manti Tabernacle is a large Gothic Revival meetinghouse that dominates the southern end of Main Street. Built in 1878–1879 by Latter-day Saint settlers, it served as the community gathering hall for concerts, civic meetings, and church services for over a century. The building features a prominent square tower and tall arched windows of the kind found in New England church architecture.

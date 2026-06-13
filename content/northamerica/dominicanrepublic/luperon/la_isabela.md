@@ -9,6 +9,7 @@ latitude: 19.8892
 longitude: -71.0714
 story: >
   Columbus founded La Isabela in January 1494 during his second voyage, intending it as the permanent capital of Spain's new empire. Within three years it was abandoned — disease, starvation, and the violent failure of the colonists' relations with the Taíno people made it untenable. Columbus himself never returned. The site lay forgotten for centuries before archaeologists confirmed its location in the 1980s.
+score: 8.3
 ---
 
 La Isabela is one of the most historically significant sites in the Americas — the first permanent European settlement in the Western Hemisphere, founded by Christopher Columbus in January 1494. It sits on a low limestone terrace overlooking the sea about 45 kilometres west of Luperon, and it draws surprisingly few visitors given what happened here.

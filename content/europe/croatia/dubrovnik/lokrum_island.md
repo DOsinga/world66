@@ -12,6 +12,7 @@ story: >
   who would try to claim Lokrum for private use. Since then, every owner of the island has suffered: Maximilian I
   of Mexico, who made it his summer residence in 1859, was executed in 1867. The island was transferred to the
   Croatian state after independence — possibly the safest arrangement.
+score: 8.5
 ---
 
 Lokrum is a 700-metre ferry ride from Dubrovnik's old port, a densely wooded island of cypress, rosemary, and subtropical gardens just offshore. The 15-minute ferry runs regularly in summer and the island is a popular escape from the crowds inside the walls — no cars, no permanent residents (except the monks' feral peacocks), and several good swimming spots off the rocky eastern coast.

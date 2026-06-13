@@ -2,6 +2,7 @@
 title: "Feather River — rafting and kayaking"
 type: poi
 tags: [nature, water-sports, adventure]
+score: 7.4
 ---
 
 The Feather River below Oroville Dam is one of Northern California's most underrated white-water destinations. When the dam releases water in spring — typically March through May, driven by snowmelt from the Sierra Nevada — the river runs fast and cold, producing a mix of rapids ranging from Class II to Class IV depending on release levels and the specific section you're running.

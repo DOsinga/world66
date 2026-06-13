@@ -8,6 +8,7 @@ latitude: 37.4500
 longitude: 56.0000
 sources:
   - https://en.wikipedia.org/wiki/Golestan_National_Park
+score: 7.8
 ---
 
 Golestan National Park, east of Gonbad-e Kavus, is one of the oldest and largest protected areas in Iran — 90,000 hectares of deciduous Hyrcanian forest along the southern slope of the eastern Alborz mountains. The park has been on the UNESCO World Heritage list since 2019 as part of the Hyrcanian Forests inscription, and it shelters Persian leopards, brown bears, wild boar, and one of the larger remaining populations of Caspian red deer.

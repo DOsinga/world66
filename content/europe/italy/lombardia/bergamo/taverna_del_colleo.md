@@ -15,6 +15,7 @@ tags:
 title: Taverna del Colleoni Dell'Angelo
 type: poi
 url: www.colleonidellangelo.com
+score: 6.4
 ---
 
 Located in enchanting Piazza Vecchia in the Upper Town in a Bramante Palace with outdoor dining in warm weather, this glamorous restaurant is owned by Pierangelo Cornaro, an internationally-renowned chef. Service is top-class, while its spacious vaulted rooms have once appealed to the great architect Le Corbusier. It has been a meeting point for intellectuals, painters and poets ever since.

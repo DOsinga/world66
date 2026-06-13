@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.2926
 longitude: -64.7868
+score: 5.7
 ---
 
 Par-la-Ville Park is a small public garden in the centre of Hamilton, originally the private grounds of William Perot, Bermuda's first postmaster. Perot ran his post office from this property in the 1840s, reportedly attaching handwritten stamps — now known as Perot stamps — to letters collected from under the rubber tree in the garden. The rubber tree (a Ficus elastica) still stands and is believed to be over 170 years old.

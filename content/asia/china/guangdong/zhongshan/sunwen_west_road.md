@@ -4,6 +4,7 @@ type: poi
 latitude: 22.5167
 longitude: 113.3825
 tags: [things_to_do, sight, neighbourhood]
+score: 6.6
 ---
 
 Sunwen West Road — named for Sun Yat-sen, whose Chinese given name was Sun Wen — is Zhongshan's pedestrian shopping street and the closest the city has to a historic old quarter. The street runs east-west through the Shiqi district and is lined with restored buildings in the qilou style: shop-houses with covered arcades at street level, a common form in southern Guangdong's old market towns.

@@ -12,6 +12,7 @@ story: "Pavia Cathedral has one of the largest domes in Italy — third only to 
   in 1933."
 snippet: One of Italy's largest domed cathedrals, 400 years in the making
 type: poi
+score: 7.3
 ---
 
 The Duomo occupies a commanding position in the centre of the old city. Its massive dome dominates the rooftop view of Pavia and the interior is vast and cool — a Renaissance space of great clarity, with little clutter. The scale is surprising for a secondary Lombard city, a reminder that Pavia was long a serious rival to Milan.

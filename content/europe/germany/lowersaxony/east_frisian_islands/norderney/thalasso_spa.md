@@ -5,6 +5,7 @@ tags:
   - things_to_do
 latitude: 53.7110
 longitude: 7.1490
+score: 6.5
 ---
 
 Norderney has been a therapeutic sea resort since 1797, and the tradition of *Thalassotherapie* — using seawater, seaweed, and sea air in health treatments — continues at the island's main spa complex near the Conversationshaus. The facility includes indoor seawater pools, saunas, treatments using North Sea brine, and the full range of German Kurort services.

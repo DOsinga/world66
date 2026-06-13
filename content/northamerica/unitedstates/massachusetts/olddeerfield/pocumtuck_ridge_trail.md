@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 42.5333
 longitude: -72.5917
+score: 7.4
 ---
 
 The Pocumtuck Ridge Trail runs for 20 miles along the northernmost spur of the Metacomet Ridge, a 116-mile volcanic traprock formation that crosses Massachusetts from north to south. The Deerfield section passes through forest and over rocky outcrops with good views west toward the Connecticut River Valley. Day hikes of 4–8 miles are easily arranged from trailheads near town.

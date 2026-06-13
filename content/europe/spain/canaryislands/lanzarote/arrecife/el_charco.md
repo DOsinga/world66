@@ -6,6 +6,7 @@ tags:
   - cafe
 latitude: 28.9612
 longitude: -13.5474
+score: 5.5
 ---
 
 A small, friendly cafe on the inland side of the Charco de San Ginés, with tables out on the water's edge. The terrace is one of the most agreeable places in the city for a slow morning coffee or an evening drink, watching the small fishing boats turning gently on the tide.

@@ -9,6 +9,7 @@ tags:
   - sight
 sources:
   - https://en.wikipedia.org/wiki/Rocca_Albornoz,_Viterbo
+score: 8.2
 ---
 
 The Rocca Albornoz is a square 14th-century fortress built by Cardinal Gil de Albornoz in 1354 to reassert papal authority in the city after the papacy returned to Rome. It stands at the northern edge of the historic centre near the Porta Fiorentina and now houses the Museo Nazionale Etrusco — the national Etruscan museum of Viterbo.

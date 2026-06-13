@@ -6,6 +6,7 @@ tags:
   - restaurant
 latitude: 48.1170
 longitude: 21.4170
+score: 5.8
 ---
 
 Régi Hangulat ("Old Atmosphere") is one of the better-regarded restaurants in Tokaj, occupying a traditional Hungarian dining room near the main square. The menu is solidly Hungarian — halászlé (fisherman's soup made with carp and paprika), gulyás, and stuffed peppers — with a wine list that covers the major local producers from entry-level Furmint to premium Aszú.

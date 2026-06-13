@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - ville_haute
   - church
+score: 7.4
 ---
 
 The oldest church in Luxembourg City, founded around 987 as the chapel of Count Siegfried's castle on the Bock. Successive rebuilds have left it a layered building — Romanesque foundations, Gothic windows, Baroque interior — and a much smaller scale than the nearby cathedral.

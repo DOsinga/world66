@@ -9,6 +9,7 @@ tags:
 title: Dutch Windmill
 type: poi
 story: "Golden Gate Park was built on sand dunes so barren that critics called the project impossible. These windmills pumped the groundwater that irrigated the plantings, literally turning desert into park."
+score: 6.8
 ---
 
 At the far western edge of Golden Gate Park, near Ocean Beach, a full-sized Dutch windmill stands surrounded by the Queen Wilhelmina Tulip Garden. Built in 1903, it was one of two windmills that pumped groundwater to irrigate the park in its early years -- before the windmills, the western half of the park was nothing but sand dunes.

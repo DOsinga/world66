@@ -6,6 +6,7 @@ tags:
 - eating_out
 latitude: 2.032347
 longitude: 103.319077
+score: 4.2
 ---
 
 Kluang punches above its size for food. The town is best known for Kluang Rail Coffee (inside the railway station), but there are stronger options for those who explore further.

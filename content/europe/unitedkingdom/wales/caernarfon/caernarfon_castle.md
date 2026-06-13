@@ -10,6 +10,7 @@ tags:
   - castle
   - unesco
 story: "When Edward I's first son was born here in 1284, the King reputedly offered the conquered Welsh a prince 'born in Wales who spoke no English' — and presented his infant son, the future Edward II. The title Prince of Wales has been given to the heir to the English (later British) throne ever since. Charles III was formally invested here in 1969."
+score: 9.6
 ---
 
 Edward I began Caernarfon Castle in 1283 as the centrepiece of his ring of fortresses meant to lock Wales into the English crown. Unlike the round, white-rendered towers of Edward's other Welsh castles, Caernarfon's are polygonal and faced with bands of darker stone — a deliberate echo of the walls of Constantinople, intended to wrap the new English regime in the legitimacy of Rome.

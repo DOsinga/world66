@@ -12,6 +12,7 @@ story: TOTO — the sanitary ware company responsible for the modern Japanese wa
   intended, the birthplace of the world's most technologically advanced toilet. The
   company's centennial museum takes the history of bathroom technology as a lens on
   broader modernisation, hygiene reform, and Japanese design philosophy.
+score: 7.2
 ---
 
 The TOTO Museum in Kitakyushu was built to mark the centennial of the sanitary ware company founded here in 1917. TOTO is responsible for the washlet — the heated, bidet-equipped toilet seat that is now standard in Japanese homes and hotels and is increasingly exported worldwide. The museum traces the company's history from its origins making Western-style porcelain fixtures in the early 20th century to the global design and technology leader it became.

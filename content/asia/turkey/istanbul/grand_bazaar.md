@@ -15,6 +15,7 @@ story: >
   largest covered markets. At its peak in the 16th century, it employed an estimated 30,000
   people. The hans (caravanserais) hidden within and around it — some barely changed in 500
   years — are the part most visitors miss entirely.
+score: 8.4
 ---
 
 The Grand Bazaar is overwhelming and disorienting by design — a labyrinth of 60 covered streets and 3,000-plus shops where jewellery, carpets, ceramics, leather, and endless souvenirs compete for your attention. It is also genuinely impressive as an architectural and commercial achievement: built in 1461, endlessly expanded, it remains a living market after 560 years.

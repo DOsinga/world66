@@ -8,6 +8,7 @@ tags:
   - things_to_do
   - sight
 snippet: Foothill temple with an eleven-storey 1809 gopuram
+score: 8.0
 ---
 
 The Lakshmi Narasimha Swamy Temple stands at the foot of Mangalagiri Hill and is the larger and more visited of the town's two main shrines. The dominant feature is its eastern gopuram — an eleven-storey gateway tower built in 1809 by the local Raja Vasireddi Venkatadri Naidu — which is one of the tallest gopurams in coastal Andhra.

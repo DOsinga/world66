@@ -9,6 +9,7 @@ latitude: 36.4069
 longitude: -105.5722
 sources:
   - https://en.wikipedia.org/wiki/Kit_Carson_House
+score: 7.4
 ---
 
 The home of Kit Carson, the legendary frontiersman, scout, and military officer who was based in Taos for much of his adult life. The 12-room adobe house dates from 1825 and was Carson's home from 1843 until his death in 1868. The museum inside covers his life — controversial as it now appears — and the broader context of the mountain men, the Santa Fe Trail, and the US Army's campaigns in the Southwest.

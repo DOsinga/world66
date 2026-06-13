@@ -8,6 +8,7 @@ tags:
 - sight
 - pelourinho
 snippet: Small parish church on the Sé square
+score: 5.8
 ---
 
 A small parish church on the Praça da Sé, the southern end of the Pelourinho. The square itself is the busiest entry point to the historic centre for tour groups, with the cathedral, the bus drop-offs, and the start of most walking tours.

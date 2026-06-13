@@ -13,6 +13,7 @@ story: >
   Bukovac, Split's most celebrated 19th-century painter, who spent years in Paris before
   returning to Dalmatia and becoming something of a one-man cultural phenomenon — his
   portrait of the Croatian national revival movement fills an entire wall.
+score: 7.0
 ---
 
 Split's Gallery of Fine Arts (Galerija Umjetnina) holds a collection that runs from the 14th century to the present, with a particular emphasis on Dalmatian painting and Croatian modern art. The medieval panel paintings from Hvar and Zadar are rarely seen outside specialist publications; the 20th-century Croatian section documents a range of modernist responses to European movements from impressionism to constructivism.

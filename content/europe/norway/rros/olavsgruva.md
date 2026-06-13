@@ -9,6 +9,7 @@ latitude: 62.5617
 longitude: 11.3194
 story: >
   At its peak in the 18th century, the Røros copper works was one of the largest industrial enterprises in Norway, employing hundreds of miners who worked in perpetual darkness and cold. The average miner rarely saw daylight in winter — underground before dawn, underground after dusk. Life expectancy for underground workers was significantly below the already-low 18th-century average.
+score: 8.6
 ---
 
 Olavsgruva is the best-preserved of the old Røros copper mines, located a few kilometres outside town on the Storwartz road. The mine operated from 1650 until 1977, when the company finally went bankrupt after three centuries of extraction. Today guided tours take visitors deep into the mine, where the temperature stays at a constant 5°C year-round — bring a warm layer even in summer.

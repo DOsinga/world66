@@ -8,6 +8,7 @@ tags:
   - sport
 latitude: 35.9811
 longitude: -114.8603
+score: 6.7
 ---
 
 Bootleg Canyon is one of the best-regarded mountain biking destinations in the southwest, with over 35 miles of marked trails carved into the volcanic rock just north of Boulder City. The terrain is steep, exposed, and rocky — graded mostly intermediate to expert, with the most famous trails (Boyscout, Mother, Reaper) requiring real technical skill and committing drop-offs.

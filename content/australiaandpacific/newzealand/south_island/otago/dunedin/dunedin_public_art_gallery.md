@@ -7,6 +7,7 @@ tags:
 - museum
 title: Dunedin Public Art Gallery
 type: poi
+score: 7.4
 ---
 
 New Zealand's oldest public art gallery, established in 1884, occupies a purpose-built building on The Octagon. The collection spans New Zealand and international art from the 16th century to the present, with particular strength in colonial-era New Zealand landscape painting and Maori works. Entry is free.

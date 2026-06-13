@@ -7,6 +7,7 @@ tags:
 latitude: 56.1458
 longitude: -3.9194
 snippet: A 1960s university built around the parkland of Airthrey Castle, one of Britain's most scenic campuses
+score: 6.4
 ---
 
 The University of Stirling is one of the few in Britain built on a single landscaped estate. Its 330-acre site occupies the parkland of [Airthrey Castle](/europe/unitedkingdom/scotland/stirling/airthrey_castle), arranged around a 17-acre artificial loch designed in 1791 by Thomas White. The university opened in 1967, the first new Scottish university for nearly 400 years, and its low-rise concrete-and-glass buildings are scattered through the parkland with care for the existing trees and water.

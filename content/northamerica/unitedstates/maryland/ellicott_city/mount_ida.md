@@ -5,6 +5,7 @@ tags: [things_to_do, sight, historic_site]
 latitude: 39.2691
 longitude: -76.7965
 snippet: Last home built by an Ellicott, now the visitor centre
+score: 7.0
 ---
 
 This Federal-style brick house above Main Street was built in 1828 by William Ellicott, a grandson of one of the founding brothers, and was the last residence built by the family that gave the town its name. It later passed to Judge John Snowden Tyson, whose descendants lived in it for the better part of a century.

@@ -6,6 +6,7 @@ tags:
 - beach
 title: Praia dos Nativos
 type: poi
+score: 7.3
 ---
 
 Praia dos Nativos is the easiest beach to reach from the Quadrado and one of the liveliest. The Rio Trancoso meets the sea here, and the beach has the classic village mix of fishing boats, loungers, and open-air restaurants.

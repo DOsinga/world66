@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 47.2966
 longitude: -122.2091
+score: 4.9
 ---
 
 The Muckleshoot Casino is operated by the Muckleshoot Indian Tribe, whose ancestral territory covers the Green River Valley and surrounding area. It is one of the larger casinos in the Pacific Northwest, with over 3,000 slot machines, table games, poker, and multiple restaurants. The casino runs 24 hours a day and draws visitors from across the greater Seattle metro area.

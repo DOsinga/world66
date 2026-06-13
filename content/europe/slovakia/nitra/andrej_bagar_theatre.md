@@ -8,6 +8,7 @@ latitude: 48.3143
 longitude: 18.0893
 sources:
   - https://en.wikipedia.org/wiki/Andrej_Bagar_Theatre
+score: 5.8
 ---
 
 The Andrej Bagar Theatre is Nitra's main stage, named after the Slovak actor who was born in the city in 1900 and became one of the most celebrated figures in Slovak theatre. The current building dates from the 1980s and sits in the lower part of the Old Town near the pedestrian zone, though the theatre company itself has roots going back much further.

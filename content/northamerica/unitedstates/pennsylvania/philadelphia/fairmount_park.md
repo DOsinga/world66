@@ -8,6 +8,7 @@ tags:
 title: Fairmount Park
 type: poi
 snippet: "Vast riverside park with Boathouse Row and trails"
+score: 8.0
 ---
 
 Over 2,000 acres of woods, trails, and historic houses stretching along both banks of the Schuylkill River — one of the largest urban parks in the country. Bring a bike or running shoes. Boathouse Row, the string of Victorian rowing clubhouses strung with white lights at night, is the classic photo.

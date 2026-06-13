@@ -9,6 +9,7 @@ tags:
   - restaurant
 title: Brasserie Pakhuis
 type: poi
+score: 6.7
 ---
 
 Pakhuis occupies a beautifully converted 19th-century warehouse with a stunning Art Nouveau interior — high glass ceiling, ornate ironwork, long mahogany bar — that makes it one of the more spectacular dining rooms in Ghent. The food is Belgian brasserie: mussels prepared various ways, waterzooi (Ghent's famous chicken or fish stew), steak tartare, and a long list of Belgian beers to go with them.

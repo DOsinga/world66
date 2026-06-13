@@ -15,6 +15,7 @@ story: >
   leaving its streets, forum, temples, and theatre essentially intact beneath
   the Algerian soil. When excavation began in the 19th century, the world
   discovered one of the best-preserved Roman cities in existence.
+score: 9.5
 ---
 
 Djémila is the Roman city of Cuicul, a UNESCO World Heritage Site about 50 km west of Sétif. It is, without exaggeration, one of the finest Roman ruins anywhere in the world — a complete city preserved to above-window-sill height in many places, with a forum, temples, a theatre, triumphal arches, and extraordinary mosaic floors. The onsite museum holds the mosaics removed from the site for protection.

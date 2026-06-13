@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - viewpoint
+score: 8.5
 ---
 
 Filopappou Hill, also called the Hill of the Muses, rises immediately south-west of the Acropolis and offers what is universally considered the best view of the citadel — head-on, at eye level, with no fences in between. A network of stone-paved paths laid out by the great Greek architect Dimitris Pikionis in the 1950s winds up through olive and cypress.

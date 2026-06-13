@@ -7,6 +7,7 @@ tags:
   - sight
 title: Trefaldighetskyrkan
 type: poi
+score: 7.5
 ---
 
 The Trinity Church — known as the German Church — stands opposite Fredrikskyrkan on [Stortorget](/europe/sweden/karlskrona/stortorget) and tells a story about the cosmopolitan workforce that built the Swedish navy. When Karl XI founded Karlskrona, he recruited craftsmen and sailors from across northern Europe — German, Dutch, English, and Danish workers who needed their own place of worship. Trefaldighetskyrkan was their church, built in 1709 for the city's non-Swedish Protestants.

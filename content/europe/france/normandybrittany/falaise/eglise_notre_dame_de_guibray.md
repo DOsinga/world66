@@ -8,6 +8,7 @@ tags:
   - sight
   - architecture
 snippet: Romanesque pilgrimage church on the southern edge of Falaise, largely intact
+score: 7.8
 ---
 
 Notre-Dame de Guibray is the finest of Falaise's Romanesque churches and one of the best-preserved in the Calvados. It stands in the Guibray quarter south of the town centre — slightly out of the way, which is part of why it survived the 1944 bombing more completely than other historic buildings nearby.

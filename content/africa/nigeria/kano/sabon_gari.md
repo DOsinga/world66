@@ -7,6 +7,7 @@ tags:
 latitude: 12.015
 longitude: 8.543
 snippet: Kano's cosmopolitan immigrant quarter — the best place to eat, drink, and feel the city's diversity
+score: 7.2
 ---
 
 Sabon Gari — "new town" in Hausa — was established by the British colonial administration in 1913 as a segregated quarter for southern Nigerian migrants, traders, and civil servants who were not permitted to live in the Muslim Old City. Today it remains Kano's most cosmopolitan district: predominantly Christian, densely commercial, and containing the city's liveliest concentration of restaurants, bars, nightclubs, and street food.

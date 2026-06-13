@@ -12,6 +12,7 @@ tags:
   - seafood
 sources:
   - https://en.wikipedia.org/wiki/Porto_Seguro
+score: 5.8
 ---
 
 The most famous of the *barracas* lining Praia de Taperapuan — a large, open-sided beach complex with sun loungers, a stage, and a kitchen that turns out grilled fish, *camarão na moranga* (prawns in a pumpkin shell), and cold *caipirinhas* through the day. In high season Axé Moi runs a full daytime programme: a live band plays *axé* music from mid-morning, and dance instructors lead *forró* and *samba* lessons on the sand.

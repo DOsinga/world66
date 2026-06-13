@@ -7,6 +7,7 @@ tags:
   - historic
 latitude: -39.93308
 longitude: 175.04911
+score: 6.2
 ---
 
 The Ward Observatory on Queens Park hill is a small astronomical observatory with a working Victorian-era telescope, built in 1903 and still used for public viewing nights. The domed building sits in the park between the Sarjeant Gallery and the Whanganui Regional Museum, and its public nights — usually on clear Friday evenings — offer a look through the original refractor telescope at the moon, planets, and star clusters.

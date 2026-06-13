@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 32.9861
 longitude: -106.9717
+score: 7.4
 ---
 
 The world's first purpose-built commercial spaceport rises from the Jornada del Muerto desert basin about 45 miles south of T or C — close enough for a day trip, though you will need to book a guided tour to get inside the facility. Virgin Galactic operates out of the futuristic terminal building designed by Norman Foster, which is partially buried in the desert floor and topped with a grass-covered mound.

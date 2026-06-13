@@ -12,6 +12,7 @@ story: 'The two lions above the gate are headless — the heads, which were prob
   '
 title: Lion Gate
 type: poi
+score: 9.2
 ---
 
 The main entrance to the citadel and the defining image of Mycenae. A massive triangular slab of limestone above the gate lintel shows two lions (or lionesses — opinions differ) flanking a column. Walk through the gate itself and you are passing through the same threshold that Mycenaean kings, soldiers, and merchants crossed 3,200 years ago. The stones of the gate weigh up to 20 tonnes each.

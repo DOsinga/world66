@@ -6,6 +6,7 @@ tags:
   - sport
 latitude: -21.998996
 longitude: 35.320475
+score: 8.8
 ---
 
 The traditional wooden dhow is the working vessel of the Mozambican coast, and Vilanculos is one of the best places in southern Africa to experience sailing in one. Local operators run dhow trips across the bay to the closer islands and sandbanks, usually combining sailing with snorkelling and a fresh seafood lunch prepared on a beach.

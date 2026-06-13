@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - church
 - historic_site
+score: 6.4
 ---
 
 The Immaculate Conception Parish Church is the oldest Roman Catholic church in Los Baños, its current stone structure dating from the 18th century though the parish itself was established much earlier by the Spanish Augustinians. The church faces the town plaza in the standard Spanish colonial urban layout — church, plaza, municipal hall arranged on the same axis.

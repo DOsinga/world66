@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
   - architecture
+score: 6.8
 ---
 
 The Cathedral of the Queen of the Rosary (Vương cung Thánh đường Hải Phòng) is the city's main Catholic church and the seat of the Diocese of Haiphong. It was built between 1880 and 1885 in a French neo-Gothic style: red brick with stone trim, a single tall bell tower over the entrance, and a long nave running back from the public square.

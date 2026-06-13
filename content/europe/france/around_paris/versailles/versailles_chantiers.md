@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 48.7971
 longitude: 2.1350
+score: 4.2
 ---
 
 Versailles Chantiers is the town's main railway station — larger and more central than the Château Rive Gauche stop — and the neighbourhood around it is ordinary Versailles: boulangeries, supermarkets, a post office, the kind of unremarkable high street that tourists bypassing the town on their way to the palace never see.

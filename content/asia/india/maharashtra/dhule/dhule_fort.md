@@ -8,6 +8,7 @@ tags:
 - historical_site
 title: Dhule Fort
 type: poi
+score: 5.5
 ---
 
 The ruins of Dhule Fort stand on a rise overlooking the city and serve as the most visible reminder of the town's pre-colonial history. The fort was a Maratha garrison post and later passed through the control of the Nizams before coming under British administration in 1818 when the Peshwa's power collapsed. Most of the original structures have deteriorated, but the remaining walls and a few inner chambers give a sense of the fort's layout.

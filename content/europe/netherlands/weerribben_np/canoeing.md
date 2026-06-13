@@ -13,6 +13,7 @@ story: >
   fuel. The narrow canoes used by visitors today navigate the same channels the peat barges once
   took — the landscape of water and reed that surrounds them is literally the hole left by the
   fuel trade.
+score: 9.0
 ---
 
 The defining way to experience the Weerribben is by canoe. The park's network of narrow water channels — cut originally during centuries of peat extraction — threads through beds of common reed, sedge, and rush, with occasional glimpses of open water and the distant tower of a drainage mill. Paddling here is quiet and immersive in a way that walking cannot replicate.

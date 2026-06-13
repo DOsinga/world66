@@ -11,6 +11,7 @@ story: >
   opened in 1954 — Nuevo Laredo and Laredo together form the largest inland
   port on the US-Mexico border, and the crossing handles more truck freight
   than any other land port of entry in the United States.
+score: 7.6
 ---
 
 The Gateway to the Americas bridge is the oldest and most visible of the four international crossings between Nuevo Laredo and Laredo, Texas. Walking across it — if you carry the right documents — gives you the clearest possible sense of what this city is: a seam between two countries, two economies, and two very different worlds.

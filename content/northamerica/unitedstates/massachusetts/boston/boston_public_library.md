@@ -13,6 +13,7 @@ tags:
 title: Boston Public Library
 type: poi
 url: www.bpl.org
+score: 9.2
 ---
 
 The McKim Building of the Boston Public Library, opened in 1895, is one of the grandest civic buildings in the country — Charles Follen McKim's Renaissance palace, modeled on the Bibliotheque Sainte-Genevieve in Paris but bigger, richer, and stuffed with art commissioned for the space. Bronze doors by Daniel Chester French, lions by Louis Saint-Gaudens, ceiling paintings by Puvis de Chavannes.

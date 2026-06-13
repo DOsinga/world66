@@ -6,6 +6,7 @@ longitude: -1.8593
 tags:
   - eating_out
   - restaurant
+score: 5.2
 ---
 
 A long-running family-run *asador* in central Albacete with a reliable reputation for roast lamb (*cordero asado*) and other manchego staples — partridge in escabeche, oxtail, slow-cooked stews. The dining room is old-fashioned and uncomplicated, the tablecloths are real, and the bread is good.

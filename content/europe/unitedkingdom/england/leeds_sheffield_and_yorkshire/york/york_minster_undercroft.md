@@ -8,6 +8,7 @@ tags:
 title: York Minster Undercroft
 type: poi
 snippet: "The Roman and Norman foundations beneath the Minster, discovered during a crisis restoration in the 1960s"
+score: 8.8
 ---
 
 The Undercroft beneath York Minster was revealed during a major structural restoration in the 1960s, when engineers discovered that the central tower was in danger of collapse. Excavating to underpin the foundations, they found layer upon layer of earlier occupation: Norman foundations, Anglo-Saxon stonework, Viking burials, and beneath all of it, the stone remains of the principia — the headquarters building of the Roman legionary fortress of Eboracum. The central pillar of the basilica's great hall is still standing, 1,700 years old, in a basement beneath one of England's greatest Gothic cathedrals.

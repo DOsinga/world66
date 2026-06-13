@@ -5,6 +5,7 @@ tags: [things_to_do, sight, architecture]
 latitude: 43.6248
 longitude: -72.5176
 snippet: Covered bridge beside the village centre, rebuilt in traditional style
+score: 6.2
 ---
 
 Middle Covered Bridge crosses the Ottauquechee River right by Woodstock's centre, giving visitors the classic Vermont covered-bridge moment without a detour. The current bridge is modern, but it follows traditional wooden covered-bridge form.

@@ -9,6 +9,7 @@ latitude: 43.5283
 longitude: 5.6017
 snippet: The white limestone ridge east of Aix that Cezanne painted again and again
 story: "Cezanne painted Mont Sainte-Victoire more than sixty times — in oils, in watercolour, from close range and from distant hillsides — and the views remain almost unchanged. From Bibemus, where he kept a small studio in an abandoned quarry, the ochre rocks and the chalk-white ridge line up just as they do in the canvases."
+score: 8.8
 ---
 
 The Mont Sainte-Victoire is the eastern horizon of Aix, a thousand-metre limestone ridge that lights up white at midday and turns deep pink at sunset. The mountain dominated Cezanne's vision for forty years; you can see why the first time the trees of the Cours Mirabeau part and the ridge appears at the end of a street.

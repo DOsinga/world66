@@ -14,6 +14,7 @@ story: >
   from Scotland, Ireland, and the Netherlands crowded the harbour, and the town's
   gutting girls — mostly young women from the islands — followed the herring fleet from
   port to port around Britain, working with extraordinary speed and precision.
+score: 6.3
 ---
 
 Stornoway is the only real town in the Outer Hebrides, with around 8,000 people, a functioning harbour, and enough shops and cafes to feel like a proper settlement after days of empty moorland. The ferry from Ullapool arrives here, making it most visitors' first contact with the islands. Castle Grounds, the wooded estate surrounding Lews Castle on the western edge of town, offers an unexpected pleasure — mature broadleaf woodland in a landscape otherwise treeless.

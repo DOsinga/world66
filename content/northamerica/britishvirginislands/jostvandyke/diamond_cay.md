@@ -10,6 +10,7 @@ story: >
   Little Harbour was home to one of the original settler families of Jost Van Dyke, and the bay is still associated with the Harris family, who run Sydney's Peace and Love — a restaurant famous for serving lobster grilled over an open wood fire, with the catch often still swimming in a pool when you order it.
 sources:
   - https://en.wikipedia.org/wiki/Diamond_Cay
+score: 7.9
 ---
 
 Little Harbour, at the east end of Jost Van Dyke, is the quietest of the main anchorages and the most beautiful. The bay is sheltered, the water calm, and Diamond Cay — a small rocky islet just offshore — protects the entrance. Snorkelling around the cay and along the reef at the bay's mouth is excellent, and the area sees far fewer boats than Great Harbour or White Bay.

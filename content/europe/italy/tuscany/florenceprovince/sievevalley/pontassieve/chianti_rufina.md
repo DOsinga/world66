@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - sight
 story: "Chianti Rufina is the smallest of the seven Chianti subzones but holds a disproportionate share of its prestige. The Frescobaldi family — who still farm the Nipozzano estate above Pontassieve — have been making wine in these hills since 1308."
+score: 7.6
 ---
 
 The Sieve valley east of Pontassieve is the heart of the Chianti Rufina, the smallest and one of the most respected of the Chianti subzones. Sangiovese here ripens later and slower than in the Chianti Classico region south of Florence, producing wines with sharper acidity and a longer life in the cellar.

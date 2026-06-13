@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - museum
 story: "The order from F. & C. Osler of Birmingham was placed by Maharana Sajjan Singh in 1877 — including a crystal bed — but the maharana died before any of it arrived in Udaipur. The crates sat unopened in the palace storerooms for 110 years, finally inventoried and put on display in 1994."
+score: 6.9
 ---
 
 In the Durbar Hall of Fateh Prakash Palace (part of the City Palace complex), the **Crystal Gallery** holds what is said to be the world's single largest private collection of crystal — chairs, tables, fountains, dinner services, a sofa, even a crystal bed — all ordered from the English firm F. & C. Osler in the 1870s and never used.

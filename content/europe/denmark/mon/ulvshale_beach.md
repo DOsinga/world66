@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - beach
 snippet: "Long white-sand beach with an ancient forest of twisted oaks behind it"
+score: 7.3
 ---
 
 Ulvshale is the best beach on Møn: a wide strip of clean white sand running for several kilometres along the island's north coast, with shallow water that warms up quickly in summer. The crowds even at peak season are modest by Mediterranean standards — a handful of families with windbreaks, a few kayakers — and there are no resorts, just a small kiosk and a campsite.

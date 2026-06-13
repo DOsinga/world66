@@ -15,6 +15,7 @@ story: >
   just passing tourists.
 sources:
   - https://en.wikipedia.org/wiki/Lost_Lake_(Whistler)
+score: 7.0
 ---
 
 Lost Lake sits about fifteen minutes' walk from Whistler Village and is the most accessible of the area's lakes for casual visitors. In summer, the lake has a sandy beach, a swimming dock, and calm water that warms up enough for comfortable swimming by July. The surrounding park is threaded with trails used for cross-country skiing in winter and mountain biking and walking in summer.

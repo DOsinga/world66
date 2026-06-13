@@ -5,6 +5,7 @@ snippet: Edwardian pivoting iron bridge across the harbour, opening for boats wi
 tags: [things_to_do, sight, architecture]
 latitude: 54.4869
 longitude: -0.6127
+score: 7.0
 ---
 
 The Swing Bridge across the inner harbour is the working centre of Whitby. The current bridge dates from 1908, replacing an earlier wooden swing bridge. It pivots on a central pier to let boats through to and from the upper harbour, where most of the fishing fleet and the local pleasure boats are moored.

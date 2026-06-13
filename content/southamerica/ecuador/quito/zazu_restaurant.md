@@ -7,6 +7,7 @@ tags:
   - restaurant
 latitude: -0.2014
 longitude: -78.4856
+score: 6.9
 ---
 
 Zazu is consistently regarded as one of the best restaurants in Quito — a sleek, modern dining room in the northern part of the city that focuses on Ecuadorian ingredients prepared with technical precision. The menu changes seasonally but typically features seafood from the Pacific coast, Amazon ingredients (hearts of palm, chontaduro, yuca), and high-altitude Andean produce in combinations that would not look out of place in a Lima or Buenos Aires tasting menu.

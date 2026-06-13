@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 snippet: "Largest Seljuk caravanserai in Turkey, on the old Konya–Aksaray road"
+score: 8.9
 ---
 
 The Sultanhanı caravanserai sits roughly halfway between Konya and Aksaray on the modern motorway — the same route the medieval Silk Road merchants travelled — and is the largest surviving Seljuk hanı in Turkey. It was built in 1229 under Sultan Alâeddin Keykubad I and rebuilt after a fire in 1278. The original purpose was to provide three days of free lodging and food to any travelling caravan, an early piece of state infrastructure that made Anatolia one of the most efficiently traversed parts of the medieval Islamic world.

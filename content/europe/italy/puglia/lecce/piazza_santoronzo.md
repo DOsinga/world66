@@ -8,6 +8,7 @@ latitude: 40.3529
 longitude: 18.1737
 story: "The Roman column at the centre of the piazza originally stood in Brindisi — one of a pair that marked the end of the Appian Way. Its partner still stands in Brindisi. After the Brindisi column was struck by lightning in 1528 and its fall was blamed on the plague, the city of Lecce acquired the shaft and erected it here in 1666, placing a bronze statue of Sant'Oronzo on top as thanks for the saint's supposed protection of the city from plague."
 snippet: Lecce's central square, with a Roman column, a partly-excavated amphitheatre, and the best people-watching in the city
+score: 8.2
 ---
 
 Piazza Sant'Oronzo is the social heart of Lecce — a sprawling, irregular square where locals gather in the evening for the passeggiata and visitors sit at café tables to absorb the Baroque city around them. The Roman column at one end once stood in Brindisi, marking the terminus of the Appian Way; it was brought to Lecce in the 17th century and topped with a bronze figure of the city's patron saint.

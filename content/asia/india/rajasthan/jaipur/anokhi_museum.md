@@ -9,6 +9,7 @@ longitude: 75.8463
 address: Kheri Gate, Amer, Jaipur
 opening_hours: 10:00-17:00 (closed Sundays and Mondays)
 snippet: Excellent museum on the history and technique of Rajasthan's block-printing tradition
+score: 7.7
 ---
 
 The Anokhi Museum of Hand Printing, housed in a restored haveli in old Amer town, is one of the more thoughtfully curated small museums in Rajasthan. It traces the history and geography of block printing — the carving of wooden blocks, the preparation of vegetable dyes, the stamping process, and the social role of the printing communities (mostly from the Chhipa caste).

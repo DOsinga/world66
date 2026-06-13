@@ -7,6 +7,7 @@ tags:
 - walk
 snippet: The hare river that defines the town, good for canoeing and riverbank walks
 type: poi
+score: 6.1
 ---
 
 Mont-Laurier sits on the banks of the Rivière du Lièvre — the Hare River — a tributary of the Ottawa that drains a vast territory of boreal lakes and wetlands to the north. The river runs through town at a width and speed that make it both pleasant to walk beside and navigable by canoe. In summer, short canoe trips on the Lièvre are available from town; the river is gentle enough for beginners for the lower sections and more challenging upstream.

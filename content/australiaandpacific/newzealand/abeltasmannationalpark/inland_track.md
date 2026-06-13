@@ -7,6 +7,7 @@ tags:
   - things_to_do
   - hiking
   - nature
+score: 8.0
 ---
 
 The Inland Track is the quiet alternative to the famous Coast Track — 38 kilometres through the granite-and-bush interior of the park, with a fraction of the visitors. The route runs roughly parallel to the coast through Wainui Saddle, Castle Rocks, and the Pigeon Saddle, typically walked over three days using the Castle Rocks, Awapoto, and Whariwharangi huts.

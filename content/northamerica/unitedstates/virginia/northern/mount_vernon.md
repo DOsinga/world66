@@ -15,6 +15,7 @@ story: >
   of the estate's history — the slave memorial and the reconstructed slave
   quarters are part of the main tour, a candour that was rare at American
   historic sites until fairly recently.
+score: 9.3
 ---
 
 George Washington's plantation estate, 24 km south of central Washington DC on the Potomac shore, is the most-visited historic house in America. The mansion itself is a graceful colonial building, enlarged and remodelled by Washington over his lifetime; the rooms are carefully furnished to reflect the 1790s. The piazza overlooking the river is one of the finest views in the region.

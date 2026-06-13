@@ -17,6 +17,7 @@ story: >
   The American side still operates under the original name.
 sources:
   - https://en.wikipedia.org/wiki/Maid_of_the_Mist
+score: 9.1
 ---
 
 The boat tour into the mist at the base of Niagara Falls has been running in various forms since 1846, and it remains the most viscerally impressive way to experience the falls — not as a curtain viewed from above, but as an enormous presence towering overhead, with the roar amplified and the spray making it impossible to see or hear much of anything. Blue ponchos are provided. They are necessary.

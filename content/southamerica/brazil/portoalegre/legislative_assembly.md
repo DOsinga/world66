@@ -7,6 +7,7 @@ tags:
 - sight
 title: Legislative Assembly of Rio Grande do Sul
 type: poi
+score: 6.5
 ---
 
 The Assembleia Legislativa do Rio Grande do Sul occupies the northern side of Praça da Matriz in a large neoclassical building that was completed in 1921 and has housed the state parliament ever since. Rio Grande do Sul has always been one of Brazil's most politically active states — it has produced more Brazilian presidents than any other state and its political culture is unusually combative — and the Assembly building has seen its share of history, from the Farroupilha period debates to the Positivist republic experiments to the complex political battles of the 20th century.

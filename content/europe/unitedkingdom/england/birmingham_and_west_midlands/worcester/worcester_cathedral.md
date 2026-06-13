@@ -9,6 +9,7 @@ latitude: 52.1889
 longitude: -2.2208
 story: >
   King John, who signed Magna Carta under duress in 1215, asked to be buried here between two saints. He got his wish in 1216 and his effigy, carved around 1232, is the oldest royal effigy in England — the king's face staring up from the cathedral floor, his feet resting on a lion.
+score: 9.4
 ---
 
 Worcester Cathedral stands on a bluff above the River Severn, its Norman crypt and Gothic tower visible from miles around. Construction began in 1084, and the building you see today spans eight centuries of English ecclesiastical architecture — from the massive round pillars of the crypt to the Perpendicular Gothic nave, completed in the 15th century.

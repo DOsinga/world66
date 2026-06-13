@@ -7,6 +7,7 @@ tags:
 - sight
 title: Motuanga (Cave of a Hundred Rooms)
 type: poi
+score: 7.8
 ---
 
 Mauke's most adventurous cave, on the eastern coast. A series of low limestone chambers connect, several with their own freshwater pools, and the system eventually opens onto the reef — at low tide you can swim out through the seaward entrance. Local legend gives it a hundred rooms; the reality is closer to seven or eight, but the labyrinthine feel is real.

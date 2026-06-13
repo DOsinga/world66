@@ -6,6 +6,7 @@ tags:
   - day_trips
 latitude: -5.2967
 longitude: -80.6647
+score: 6.4
 ---
 
 The principal archaeological site of the Piura valley, about 15 kilometres south of the city near Catacaos. Narihualá was the capital of the Tallán people, who controlled this stretch of coast before the Inca conquest in the late 1400s.

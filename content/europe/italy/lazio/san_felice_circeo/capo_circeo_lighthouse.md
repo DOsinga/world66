@@ -6,6 +6,7 @@ tags:
   - sight
 latitude: 41.2223
 longitude: 13.0685
+score: 7.8
 ---
 
 The lighthouse at the southern tip of the Monte Circeo promontory, built in 1865 and still operational, marking the headland for coastal shipping. It is a destination in its own right — reachable on foot from the village via a trail through national park forest, or by boat from the harbour. The walk takes about ninety minutes each way and passes through dense holm oak before emerging at the wind-scoured cliff edge.

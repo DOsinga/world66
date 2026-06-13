@@ -5,6 +5,7 @@ snippet: The main pedestrianised street running through the old centre, lined wi
 tags: [things_to_do, sight, neighbourhood]
 latitude: 42.3508
 longitude: 14.166
+score: 6.9
 ---
 
 Corso Marrucino is the spine of upper Chieti, a narrow pedestrianised street that runs from the cathedral square through the old centre. The palazzi along it date mostly from the eighteenth and nineteenth centuries; some house antique shops, others have been carved up into restaurants and small bars.

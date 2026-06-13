@@ -6,6 +6,7 @@ longitude: 106.9900
 tags:
   - things_to_do
   - sight
+score: 7.7
 ---
 
 Cát Bà is the largest of the islands fringing the western edge of Halong Bay and the most popular base for travellers who want to be on the water without staying in Halong City. It is a forty-minute hydrofoil from Haiphong's Bến Bính harbour, or a longer combined bus-and-ferry route via Hai Phong's outer ports.

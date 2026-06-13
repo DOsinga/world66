@@ -13,6 +13,7 @@ story: >
   the statue in 1929. The original stood inside the palace; the current
   version was moved to the Golden Gate in 1954, which is why the toe
   is more accessible to visiting hands.
+score: 5.4
 ---
 
 The huge bronze statue of Gregory of Nin — Bishop of the Croatian church in the 10th century — stands just outside Diocletian's Palace at the Golden Gate, the main northern entrance. Gregory famously advocated for the use of the Croatian language in the liturgy rather than Latin, making him a symbol of Croatian cultural and linguistic identity.

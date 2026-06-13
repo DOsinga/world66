@@ -10,6 +10,7 @@ tags:
 - restaurant
 - brasserie
 - french
+score: 5.4
 ---
 
 La Brasserie de la Paix sits on the Allées Paul Riquet in the style of every provincial French brasserie worth the name — terrace in the shade of the plane trees, long menu of Languedoc standards, and a wine list weighted toward the local appellations of Saint-Chinian, Faugères, and Minervois. It is not reinventing anything, but it does the classics competently and the location is ideal for people-watching on the allée.

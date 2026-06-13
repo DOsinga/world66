@@ -7,6 +7,7 @@ tags:
   - park
 latitude: 26.8568
 longitude: 81.0085
+score: 6.1
 ---
 
 Janeshwar Mishra Park is one of the largest urban parks in Asia — 376 acres in Gomti Nagar opened in 2014 — and is the easiest place in Lucknow to walk an hour without crossing a single road. The layout combines two big artificial lakes, a long cycling track around the perimeter, woodland of fast-growing indigenous trees, an amphitheatre, and a play area for children.

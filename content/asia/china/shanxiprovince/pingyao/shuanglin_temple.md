@@ -11,6 +11,7 @@ address: 6 km southwest of Pingyao old city
 opening_hours: 8:00-18:00 daily
 snippet: Buddhist temple with over 2,000 painted clay sculptures spanning seven centuries
 story: "The clay sculptures at Shuanglin are made using a technique called diaosou (雕塑), combining modeling and carving. The most technically remarkable figures are the 'floating' Bodhisattvas in the Guanyin Hall, their bodies twisting in mid-air above swirling clouds and dragons, with no apparent support — the armature is internal to the clay, a structural feat that has lasted 700 years."
+score: 8.5
 ---
 
 The Shuanglin Temple (Double Forest Temple) contains what many art historians consider the finest collection of painted clay sculpture in China — over 2,000 figures ranging from tiny to life-size, spanning the Song through Qing dynasties (roughly 960 to 1900 CE). The craftsmanship is extraordinary: warriors with individual faces and postures, Bodhisattvas draped in robes that seem to move, fierce guardians with eyes that follow you around the room.

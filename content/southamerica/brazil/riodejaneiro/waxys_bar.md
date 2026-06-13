@@ -11,6 +11,7 @@ tags:
 - bar
 title: Waxy's Bar
 type: poi
+score: 4.1
 ---
 
 A popular Ipanema bar with live music and entertainment seven nights a week. Draws a good mix of travellers and locals. Located on a safe, lively stretch in the heart of Ipanema's bar district.

@@ -7,6 +7,7 @@ tags:
 - things_to_do
 - sight
 - neighbourhood
+score: 6.6
 ---
 
 The Carrer Major and the surrounding lanes form the medieval heart of Puigcerdà. Stone arcades, wooden shutters, and small shops selling local cheeses, sausages and Pyrenean knives line the narrow streets. The arcades are the practical response to a climate that swings between hard sun and hard snow.

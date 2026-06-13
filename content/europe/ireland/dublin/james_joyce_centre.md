@@ -6,14 +6,15 @@ latitude: 53.353706
 longitude: -6.261868
 opening_hours: Tue–Sat 10:00–17:00, Sun 12:00–17:00
 phone: +353 1 878 8547
+score: 6.9
 snippet: Essential museum for tracing Joyce's Dublin
 tags:
 - things_to_do
 - sight
+- oconnell_street
 title: James Joyce Centre
 type: poi
 url: www.jamesjoyce.ie
-score: 6.9
 ---
 
 Housed in a beautifully restored Georgian townhouse, the James Joyce Centre is the essential stop for anyone tracing Joyce's Dublin. The museum explores Joyce's life and the city that shaped his writing, with exhibits on *Ulysses*, *Dubliners*, and *A Portrait of the Artist as a Young Man*. Pride of place goes to the original door of 7 Eccles Street — the fictional home of Leopold Bloom — salvaged before the building was demolished.

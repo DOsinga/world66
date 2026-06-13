@@ -3,22 +3,25 @@ address: St Patrick's Close, Dublin 8
 admission: €8 adults
 latitude: 53.339226
 longitude: -6.271539
-opening_hours: Mon–Fri 09:00–17:00, Sat 09:00–18:00, Sun 09:00–10:30 & 12:30–14:30 & 16:30–18:00
+opening_hours: Mon–Fri 09:00–17:00, Sat 09:00–18:00, Sun 09:00–10:30 & 12:30–14:30
+  & 16:30–18:00
 phone: +353 1 453 9472
+score: 8.2
 snippet: Jonathan Swift's cathedral — he is buried under the nave
+story: 'Jonathan Swift was Dean of St Patrick''s from 1713 until his death in 1745.
+  His epitaph, which he wrote himself in Latin, is translated by W.B. Yeats as: "Swift
+  has sailed into his rest; Savage indignation there cannot lacerate his breast."
+  Both Swift and his companion Esther Johnson (Stella) are buried beneath the nave.
+
+  '
 tags:
 - things_to_do
 - sight
 - architecture
+- dublin_castle_area
 title: St Patrick's Cathedral
 type: poi
 url: https://www.stpatrickscathedral.ie
-story: >
-  Jonathan Swift was Dean of St Patrick's from 1713 until his death in 1745. His
-  epitaph, which he wrote himself in Latin, is translated by W.B. Yeats as: "Swift
-  has sailed into his rest; Savage indignation there cannot lacerate his breast."
-  Both Swift and his companion Esther Johnson (Stella) are buried beneath the nave.
-score: 8.2
 ---
 
 St Patrick's Cathedral is the national cathedral of the Church of Ireland and the largest church in Ireland. It stands on one of the oldest Christian sites in Dublin — a well at which St Patrick is said to have baptised converts around 450 AD. The present building dates from 1191, rebuilt and extended in the 13th century, and substantially restored in the 1860s with funds from the Guinness family.

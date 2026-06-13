@@ -1,14 +1,15 @@
 ---
 latitude: 53.338052
 longitude: -6.259023
+score: 6.7
 snippet: Central city park where Dubliners have lunched and lingered for three centuries
 tags:
 - things_to_do
 - sight
 - park
+- st_stephens_green_area
 title: St Stephen's Green
 type: poi
-score: 6.7
 ---
 
 St Stephen's Green is a 22-acre public park at the south end of Grafton Street, in continuous use as a common since the 1660s. It was enclosed as a private garden for residents of the surrounding Georgian streets in 1814, and opened to the public again in 1880 after Arthur Edward Guinness paid for its remodelling as a Victorian pleasure garden.

@@ -4,6 +4,7 @@ longitude: -6.131639
 snippet: Coastal village with a long beach and a famous 1930 transatlantic flight
 tags:
 - things_to_do
+- neighbourhood
 title: Portmarnock
 type: neighbourhood
 ---

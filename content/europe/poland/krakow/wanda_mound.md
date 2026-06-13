@@ -4,6 +4,7 @@ type: poi
 tags:
   - things_to_do
   - sight
+  - nowa_huta
 latitude: 50.0722
 longitude: 20.0525
 score: 6.5
